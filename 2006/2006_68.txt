@@ -1,0 +1,39 @@
+
+> Date: Wed, 12 Apr 2006 17:28:28 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Subject: rescheduled
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+We have re-scheduled the colloquium talk next week. Dr. Pavlos
+Protopapas will give a talk on 17 April.
+
+Thanks,
+
+Daisuke
+
+---------------------------------------------------------------------------
+                               Colloquium
+                      at the Institute of Astronomy,
+                       National Central University
+
+Date: 11:00, 17/April/2006
+Loc.: Room 1013, Science Building IV, National Central University
+Speaker: Dr. Pavlos Protopapas (CfA, USA)
+Title: Fast identification of transits from light-curves in TAOS
+Abstract:
+I will present an algorithm that allows fast and efficient detection
+of transits, including planetary transits, from light-curves. The
+method is based on building an ensemble of fiducial models and
+compressing the data. I will describe the method and demonstrate its
+efficiency by finding planet-like transits in simulated TAOS
+light-curves. We show that that our method is independent of the size
+of the search space of transit parameters.
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+

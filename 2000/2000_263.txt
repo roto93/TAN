@@ -1,0 +1,218 @@
+From kyl@asiaa.sinica.edu.tw Sun Dec  3 16:13 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA11043
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 3 Dec 2000 16:13:25 +0800 (CST)
+Received: from iaa1 (kyl@iaa1 [140.109.177.7])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA14991
+	for <astro@asiaa.sinica.edu.tw>; Sun, 3 Dec 2000 16:20:02 +0800
+Date: Sun, 3 Dec 2000 16:07:27 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Star Cluster Newsletter - SCYON (fwd)
+Message-ID: <Pine.SOL.4.10.10012031607240.8807-100000@iaa1>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6880
+Status: R
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Fri, 1 Dec 2000 21:38:36 +0100
+From: "Newsletter Scyon @null Christian Boily" <scyon@ari.uni-heidelberg.de>
+To: kyl@asiaa.sinica.edu.tw
+Subject: Star Cluster Newsletter - SCYON
+
+
+(if you received this message twice - apologies. send us a note and we will 
+change our database.) 
+
+%========================================================================
+
+      S Y O N -  A Newsletter devoted to Star Clusters, Young & Old 
+
+   edited by  Christian Boily,  Pavel Kroupa and Jean-Claude Mermilliod 
+
+          URL   http://www.rzuser.uni-heidelberg.de/~s17/scyon 
+
+	           email      SCYON@ari.uni-heidelberg.de
+
+          Call for contributions  (Issue No. 1 10 January,  2001) 
+          ---------------------------------------------------------
+
+%========================================================================
+
+          EDITORIAL: Why a cluster newsletter .. ? Our motivation
+
+The field of star clusters, open or globular, is expanding rapidly on the 
+observational side, thanks to high-accuracy astrometric surveys, available  
+(HIPPARCOS) or  forthcoming (DIVA, FAME), to extra-galactic studies (starting
+with the LMC), and to cosmological surveys. On the theoretical side, progress
+in stellar evolution models and  computational N-body techniques, allowing 
+star-by-star modelling of open clusters and, soon, globulars, already  
+rejuvenate the field. 
+
+We anticipate more and more activity in the near future in this area of 
+research, hence a  need to disseminate summaries of activity covering 
+ all aspects of work on star cluster: refereed publications naturally, but 
+also forthcoming conferences,  recent PhD summaries,  planned surveys, links 
+to relevant databases, or job(s) opportunities. 
+
+We therefore propose to collect and maintain a list of forthcoming contribu-
+tions to refereed journals, conference proceedings, and the likes, which 
+will be posted at the url advertised at the top of this page. We would follow
+ in the steps of successful newsletters, such as the star formation newsletter
+maintained by Bo Reipurth, or the dwarf galaxy newsletter of Elias Brinks and
+ Eva Grebel. 
+
+SCYON, as we propose to call the newsletter, will be published initially 
+once every two months. If the number of contributions justifies a 
+monthly instalment, we would move toward more frequent issues in order to 
+keep the newsletter relatively short, manageable for us, and up-to-date. 
+
+ We would in the first instance to run a relatively simple newsletter, 
+however one long-term objective is to link articles by object to the 
+WEBDA (url http://obswww.unige.ch/webda/) database developed by one of us 
+(J-CM). The intention is to allow users to navigate in the newsletter library
+ between research papers as well as the database. 
+
+Interested? If you are,  and would like to contribute to the newsletter, 
+please write to us at the address 
+
+                       SCYON@ari.uni-heidelberg.de
+
+A subscription to  SCYON is completely free, and we are happy to deliver it to
+you! If however you don't want to received emails about this, you should drop
+us a mail with the statement 'unsubscribe please' in the subject field. Your 
+comments and suggestions are welcome. 
+
+If you wish to contribute an abstract, write it in the main body of the 
+mail, using the LaTeX template below. Our target date for the first issue
+is 
+
+                      Issue no. 1 : January 10, 2001. 
+
+A template LaTeX file are web-download are available at the web-site, 
+
+             http://www.rzuser.uni-heidelberg.de/~s17/scyon
+
+The LaTeX template will be included with each issue of the newsletter sent 
+out by email. 
+
+The list of subjects we would like to include in the newsletter goes as 
+follows : 
+
+**  Abstracts from refereed articles 
+**  Abstracts from conference proceedings 
+**  PhD Summaries 
+**  Announcements : Conferences, new databases, and the likes. 
+**  Any other relevant topic ...  
+
+We look forward to adding your contribution to the first issue! 
+
+Christian Boily, Pavel Kroupa and Jean-Claude Mermilliod 
+
+======= LaTeX template below : sent back to scyon@ari.uni-heidelberg.de
+======= or visit the website htt://www.rzuser.uni-heidelberg.de/~s17/scyon
+
+%======== LaTex template for abstract submission to SCYON ===============
+
+% With special thanks to Elias Burks and Eva Grebel for the original design!
+
+\documentclass[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\topmargin=0in
+
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+
+%========================================================================
+% WHEN SUBMITTING AN ABSTRACT, PLEASE USE THE FOLLOWING TEMPLATE
+% AND SUBMIT IT TO:     
+%                     scyon@ari.uni-heidelberg.de
+%
+% Please do not send papers that already appeared in print. Also, please 
+% do not send the text as encoded MIME attachment.
+%
+% If you prefer, you may download your abstract directly on our webpage
+% at url 
+%	
+%              http://www.rzuser.uni-heidelberg.de/~s17/scyon
+%
+% Please run this file through latex before submitting to ensure that your
+% abstract is compiled correctly. If we find errors or missing macros when 
+% editing the newsletter it is usually too late to contact you, and our best
+% guess may be unsatisfactory.
+%
+% If you use any special macros, please include them here: 
+% Note - our set of macros already include AAS MACRO DEFINITIONS
+%
+%
+%============= LaTeX tex begins below ===================================
+% 
+\begin{document}
+
+\begin{center}
+{\Large\bf  Title 
+}
+\end{center}
+\begin{center}
+{\bf         
+          A. Author$^1$ and B. Author$^2$
+}
+
+{\footnotesize   
+$^1$  Institute One and Address  , $^2$  Institute Two and Address 
+}
+\end{center}
+\par
+\medskip
+\begin{flushright}
+\begin{minipage}{12cm}{
+
+ Text of abstract ... \hfill ... makes up a line. 
+
+}\end{minipage} 
+\end{flushright} 
+\par
+\medskip
+\noindent
+{\bf   % Delete one of the fields below 
+       Accepted by:
+%          or
+      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   your e-mail address  }\\
+{\it Also available from the URL\, }  {\tt   your http address    }\\
+{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\end{document}
+
+
+
+
+

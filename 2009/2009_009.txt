@@ -1,0 +1,306 @@
+From astro@iaa17.asiaa.sinica.edu.tw Sun Jan 18 19:48:19 2009
+Date: Sun, 18 Jan 2009 19:43:11 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jan 14 - 18, 2009)
+
+==============================================================================
+
+In this issue (Jan 14 - 18, 2009)
+
+1. Arizona Radio Observatory: Call for Proposals - Spring 2009 (Feb 11)
+2. Solar System Workshop at NCU (Feb 25-27)
+3. Second Announcement on "Millimeter and Submillimeter Astronomy at
+   High Angular Resolution" (Jun 8-12)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2009)
+------------------------------------------------------------
+
+Dear all,
+
+ASIAA's ARO proposal deadline for Spring 2009 (February - June 2009)
+is set on February 11, 2009 (Wednesday).
+
+The Arizona Radio Observatory operates the Sub-Millimeter Telescope (SMT)
+and the Kitt Peak 12 Meter.  The SMT currently supports a dual-polarization,
+ALMA Band-6 1 mm receiver, a dual-polarization 0.8 mm receiver, and a new
+ALMA Band-9 (602-720 GHz) dual-polarization receiver.   The 12 m supports
+2 mm and 3 mm (65-176 GHz) dual-polarization receivers.  A new ALMA Band-3
+receiver is now available at the 12 m for the 85-116 GHz band (3 mm HI),
+also dual-polarization. Remote observing is available at both ARO telescopes.
+
+Please refer to http://aro.as.arizona.edu/ for more details.
+
+Information about Remote Observing can be viewed at:
+http://aro.as.arizona.edu/remote/remote.htm.
+For further information about remote observing and other operational questions,
+please contact Tom Folkers, Operations Manager: tfolkers@as.arizona.edu.
+
+People are required to use the KP12M and SMT proposal cover/summary
+sheets for their proposals:
+(under "Proposal Submission Information" at
+  http://aro.as.arizona.edu/proposal_submission_information.htm
+for the SMT -
+  http://aro.as.arizona.edu/proposals/smt_prop_sub.htm
+and for the 12m -
+  http://aro.as.arizona.edu/proposals/12m_prop_sub.htm )
+
+Proposals should consist of a proposal Cover Sheet, obtainable at
+  http://aro.as.arizona.edu/proposals/ ,
+and a brief scientific and technical justification. The justification
+may be up to two pages of text, and should not exceed three pages including
+tables, figures, references and a source list with observing time requirements.
+For electronic submission, ASIAA only accepts proposals in either PS or PDF
+format.
+
+Please submit your proposals by 24:00 midnight February 11, 2009 to
+kuan @ asiaa.sinica.edu.tw ; no late proposals will be accepted.
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of the ASIAA ARO TAC
+
+==============================================================================
+
+> Date: Wed, 14 Jan 2009 01:39:32 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw, wchen@astro.ncu.edu.tw, avell@astro.ncu.edu.tw
+> Subject: Solar System Workshop at NCU in late-Feb.
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Dear Yi-Jehng,
+
+Could you please post the message to TAN?
+
+Thank you,
+
+Daisuke
+
+---------------------------------------------------------------------------
+We are going to have the Solar System Workshop at National Central
+University on 25-27 February 2009. The main purpose of the workshop is
+to have interactions among ISS and OSS communities members of PS1
+science consortium and look for initiating further collaborations.
+
+On 25 February, we will have 1-day MOPS Hands-On Workshop prior to the
+main scientific workshop. MOPS (Moving Object Processing System) is a
+state-of-art software system to detect moving objects and perform the
+orbit determination. Larry Denneau kindly gives a lecture on MOPS
+system. There will be scientific talks and intensive discussions on
+successive 2 days, on 26 and 27 February 2009.
+
+The website of the workshop can be found at following address. Please
+check the website for the detail.
+
+http://s3b.astro.ncu.edu.tw/ssws/
+
+We welcome your participation.
+
+List of invited speakers
+
+Denneau, Larry (IfA, UH)
+Jedicke, Robert (IfA, UH)
+Holman, Matthew (CfA)
+Ip, Wing-Huen (NCU)
+Granvik, Mikael (IfA, UH)
+Milani, Andrea (University of Pisa)
+Abe, Shinsuke (NCU)
+Grav, Tommy (JHU)
+Hsieh, Henry (Queens Univ.)
+Kinoshita, Daisuke (NCU)
+
+Organizers
+
+Abe, Shinsuke
+Chen, Wen-Ping
+Kinoshita, Daisuke
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+==============================================================================
+
+> Cc: Nagayoshi Ohashi <ohashi@asiaa.sinica.edu.tw>,
+>     taipei09loc@asiaa.sinica.edu.tw
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Second Announcement on "Millimeter and Submillimeter Astronomy
+>          at High Angular Resolution"
+> Date: Wed, 14 Jan 2009 10:30:39 +0800
+
+
+Dear Yi-Jehng,
+
+	Could you please circulate the announcement below over the TAN  
+distribution? Thank you very much for your help!
+
+best,
+sheng-yuan
+
+----------------
+Dear colleagues,
+
+	Happy New Year!
+
+
+	Please find below the second announcement for the conference  
+"Millimeter and Submillimeter Astronomy at High Angular Resolution" to  
+be held in June at Academia Sinica. The LOC is expecting discounts in  
+registration fees for on-island colleagues. So, please register  
+yourself first through the conference webpage if you are interested in  
+participating. We will update you with further information about  
+registration fee and procedures.
+
+best regards,
+sheng-yuan
+
+--------------------------------------------------------------------------------
+
+                         Second Announcement
+                        =====================
+  Millimeter and Submillimeter Astronomy at High Angular Resolution
+
+                           June 8-12, 2009
+                   Academia Sinica, Taipei, Taiwan
+
+               http://www.asiaa.sinica.edu.tw/taipei09/
+
+     This is the second announcement for the conference on "Millimeter and
+Submillimeter Astronomy at High Angular Resolution" to be held in June 2009.
+The conference is to review the latest finding, obtained through millimeter
+and submillimeter observations at high angular resolution, and to outline
+the road map guiding us towards the ALMA era.
+
+Information about the items below are updated in this announcement.
+
+* Registration and Abstract Submission
+* Accommodations and Reservation
+* Important Dates
+* Travel Support
+* Other Information and Special Notice
+
+1. Registration and Abstract Submission
+
+     The online registration page below has been open since Dec 15th,  
+2008.
+Abstract submission for oral and poster presentation can also be made
+through the registration form in latex format.
+
+     "http://www.asiaa.sinica.edu.tw/taipei09/registration.php"
+
+     Full registration is only completed when the registration fee is paid.
+There is an early registration fee of $150/person (covering abstract book,
+coffee/snack breaks, and the conference banquet). Please wire transfer the
+NET registration fee, excluding the service/handing fee changed by the banks.
+A regular registration fee of $200/person will be applied for registration
+later than February 28, 2009. Please refer to the following page for more
+details.
+
+     "http://www.asiaa.sinica.edu.tw/taipei09/payinfo.php"
+	
+2. Accommodations and Reservation
+
+     The conference is held on the Academia Sinica (AS) main campus, which is
+different from the National Taiwan University (NTU) campus where Institute of
+Astronomy and Astrophysics (ASIAA) is located.
+
+     The conference LOC will provide assistance in room reservation at group
+discount rates at a few choices of lodging services close to one of the above
+locations. Please check the page below for more details about their locations,
+rates, and reservation procedures.
+
+     "http://www.asiaa.sinica.edu.tw/taipei09/lodge.php"
+
+3. Important Dates/Deadlines
+
+     February 28, 2009 : End of Early Registration
+                         End of Registration for PRC Residences
+     March 31, 2009    : End of Abstract Submission
+     April 15, 2009    : Program Available
+     April 30, 2009    : End of Regular Registration
+     May 31, 2009      : Final Announcement
+
+4. Travel Support
+
+     To encourage the participation of younger colleagues, the organizing
+committee is expecting to provide some travel support to a limited number
+of Ph.D students or postdocs. Details will be announced later through the
+conference website.
+
+5. Other Information and Special Notice
+
+     Travel-related and visa information for foreigners can also be found
+at the conference website.
+
+     A special notice for PRC residents who are interested in participating
+the conference. Due to the need in applying travel permits, please register
+no later than February 28, 2009 (regular registration fee can by paid before
+April 30, 2009) for required document processing.
+
+6. Questions
+
+   If you have further questions about the conference, please e-mail to
+"taipei09loc@asiaa.sinica.edu.tw"
+
+---------------------------------------------
+Science Organizing Committee (in alphabetic order)
+
+   Chris Carilli
+   Minho Choi
+   Pierre Cox
+   Anne Dutrey
+   Paul T. P. Ho (Chair)
+   Wing Ip
+   Ryohei Kawabe
+   Karl Menten
+   Lee Mundy
+   Nagayoshi Ohashi
+   Anneila Sargent
+   Leonardo Testi
+   David Wilner
+   Christine Wilson
+   Satoshi Yamamoto
+   Ji Yang
+   Min Yun
+
+Local Organizing Committee (in alphabetic order)
+   Cindy Chiu
+   Patrick Koch
+   Chin-Fei Lee
+   Sheng-Yuan Liu (Chair)
+   Yu-Nung Su
+   Shigehisa Takakuwa
+
+Sponsors
+   Academia Sinica Institute of Astronomy & Astrophysics (ASIAA)
+   National Science Council (NSC)
+   National Astronomical Observatory of Japan (NAOJ)
+   National Radio Astronomy Observatory (NRAO)
+   Harvard-Smithsonian Center for Astrophysics (CfA)
+
+Cohost
+   The Astronomical Society of the Republic of China (ASROC)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,381 @@
+Date: Mon, 30 Jan 2012 02:39:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jan 15 - 29, 2012)
+
+============================================================================== 
+
+In this issue (Jan 15 - 29, 2012)
+
+1. ASIAA special seminar (Jan 19: sorry, late): Ray Furuya (NAOJ/Subaru)
+2. IAU Symposium 289: Advancing the Physics of Cosmic Distances (Aug 27-31)
+3. UK-Taiwan studentship funding opportunity
+4. ASIAA Colloquia (Feb 02/03): Yasushi Suto (Univ of Tokyo)
+
+==============================================================================
+
+> Date: Sun, 15 Jan 2012 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    No colloquium this week (NA)
+Topic:        
+Time:        1/20 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Dr. Ray Furuya (NAOJ/Subaru Telescope)
+Topic:        The Initial Conditions for Gravitational Collapse of Star-Forming Molecular Cloud Core
+Time:        1/19 (Thursday) 16:00 - 17:00
+Place:        R1203
+Abstract:
+Without accurate knowledge of the initial conditions of gravitational collapsing process 
+of a molecular cloud core, one cannot understand how a low-mass protostar forms. 
+One of the major limiting factors is that the initial conditions of core collapse are not 
+necessarily revealed by observations in detail. In this context, we performed a study of 
+the natal molecular cloud core and its environment. The core is believed to harbor an 
+extremely young low-mass protostar that has not generated an extensive molecular outflow, 
+yielding a rare opportunity to investigate core-collapsing process free from the disturbance 
+by the outflow. Our observations suggest that the gas in the molecular cloud core is infalling
+onto the protostar, and that the non-thermal velocity dispersions, tracing the ambient 
+turbulent velocity fields, in the medium-density gas are clearly smaller than those in 
+the low-density gas. We discuss these results with comparisons of theoretical models 
+and the implications for initial conditions of star formation in general.
+
+==============================================================================
+
+> Date: Mon, 16 Jan 2012 22:51:54 +0800
+> Subject: Fwd: IAU Symposium 289: Advancing the Physics of Cosmic Distances
+>  [1st announcement]
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>,
+>        IANCU All <asall10@astro.ncu.edu.tw>
+
+---------- Forwarded message ----------
+> From: Richard de Grijs <r.degrijs@pku.edu.cn>
+> Date: 2012/1/16
+> Subject: IAU Symposium 289: Advancing the Physics of Cosmic Distances [1st
+> announcement]
+> To: iaus289 <iaus289@gmail.com>
+
+
+
+              F I R S T  A N N O U N C E M E N T
+
+        International Astronomical Union Symposium 289
+
+          "Advancing the Physics of Cosmic Distances"
+      http://www.mporzio.astro.it/IAUS289/www/Home.html
+                      iaus289@gmail.com
+
+IAU General Assembly, National Convention Centre, Beijing (China)
+
+                      27-31 August 2012
+
+(For practical information, scroll to the bottom of this announcement.)
+
+** SOUNDBITE: **
+
+Knowing the distance of an astrophysical object is key to
+understanding it. However, at present, comparisons of theory and
+observations are hampered by precision (or lack thereof) in distance
+measurements or estimates. Putting the many recent results and new
+developments in relevant subareas into the broader context of the
+physics driving cosmic distance determination is the next logical
+step, which will benefit from the combined efforts of theorists,
+observers and modellers working on a large variety of spatial scales,
+and spanning a wide range of expertise. This Symposium will focus on
+the physics underlying methods of distance determinations across the
+Universe, exploring on the way the various methods employed to define
+the milestones along the road. We aim to provide a snapshot of the
+field of distance measurement, offering not only up-to-date results
+and a cutting-edge account of recent progress, but also full
+discussion of the pitfalls encountered and the uncertainties that
+remain. We aim to provide a roadmap for future efforts in this field,
+both theoretically and observationally.
+
+
+** SCIENTIFIC ORGANISING COMMITTEE: **
+
+Richard de Grijs    (KIAA, Peking University, China) - co-chair
+Giuseppe Bono      (Universit=E2=88=9A=E2=80=A0 Roma Tor Vergata, Italy) -=
+co-chair
+
+Susan Cartwright    (University of Sheffield, UK)
+Robin Ciardullo    (Pennsylvania State University, USA)
+Andrei Dambis      (Sternberg Astronomical Institute, Russia)
+Michael Feast      (University of Cape Town, South Africa)
+Wendy Freedman      (Carnegie Observatories, USA)
+Wolfgang Gieren    (Universidad de Concepci=E2=88=9A=E2=89=A5n, Chile)
+Martin Groenewegen  (Royal Observatory of Belgium, Belgium)
+Jeremy Mould        (Swinburne University of Technology, Australia)
+Carme Jordi        (Universitat de Barcelona, Spain)
+Mark Reid          (Harvard-Smithsonian Center for Astrophysics, USA)
+Myung-Hyun Rhee    (Yonsei University, Republic of Korea)
+Don VandenBerg      (University of Victoria, Canada)
+Rogier Windhorst    (Arizona State University, USA)
+Ye Xu              (Purple Mountain Observatory, China)
+
+
+** SCIENTIFIC RATIONALE: **
+
+Knowing the distance of an astrophysical object is key to
+understanding it: without an accurate distance we do not know how
+bright it is, how large it is, or even (for long distances) when it
+existed. But astronomical distance measurement is a challenging
+task. Distances to stars were first measured in 1838 by Bessel, Struve
+and Henderson, and accurate distances to other galaxies -- even the
+nearest -- date only from the 1950s. This is not really surprising,
+since the only information we have about any object beyond our Solar
+System is its position (perhaps as a function of time) and its
+brightness (as a function of wavelength and time). Yet, from this
+unpromising starting point, modern astronomers have developed methods
+of measuring distances which can take us from the nearest star to the
+most distant galaxy, using techniques that vary from the mundane (the
+astronomical equivalent of the surveyor's theodolite) to the exotic
+(the bending of light in general relativity, wiggles in the spectrum
+of the cosmic microwave background). Nevertheless, the most accurate
+optical and near-infrared methods of distance determination, from the
+solar neighbourhood to the highest redshifts, in use today rely
+heavily on having access to accurate spectroscopy, supplemented by
+astrometric measurements in the Milky Way (and slightly beyond).
+
+In 1997, the Hipparcos space mission provided (for the first time) a
+significant number of absolute trigonometric parallaxes at
+milliarcsec-level precision across the whole sky, which had a major
+impact on all fields of astrophysics. In addition, during the past ten
+years, the use of ground-based 8-10mclass optical and near-infrared
+telescopes (Keck, VLT, Gemini, Subaru) and space observatories (HST,
+Spitzer, Chandra, XMM-Newton) have provided an unprecedented wealth of
+accurate photometric and spectroscopic data for stars and galaxies in
+the local Universe. Radio observations, particularly with the VLBA and
+the Japanese VERA arrays, have achieved 10 micro-arsecond astrometric
+accuracy. Moreover, stellar models and numerical simulations are now
+providing accurate predictions of a broad range of physical phenomena,
+which can now in principle be tested using accurate spectroscopic and
+astrometric observations (including measurements of, e.g., line ratios
+and shapes, spectral slopes, radial velocities and velocity
+dispersions). However, at present, comparisons of theory and
+observations are mainly hampered by precision (or lack thereof) in
+distance measurements/estimates.
+
+While a number of past IAU Symposia have addressed individual aspects
+of the methods and physics underlying the fundamentals of distance
+determination, at the present time there is a need for a new,
+interdisciplinary Symposium encompassing the broad range of techniques
+and theories. Rather than focusing on historical perspectives, we will
+truly highlight the tremendous amount of recent and continuing
+research into a myriad of exciting and promising aspects of accurately
+pinning down the cosmic distance scale. Putting the many recent
+results and new developments in the relevant subareas into the broader
+context of the physics driving cosmic distance determination is the
+next logical step, which will benefit from the combined efforts of
+theorists, observers and modellers working on a large variety of
+spatial scales, and spanning a wide range of expertise.
+
+This is a very exciting time. VLBI sensitivity is being expanded
+allowing, for example, direct measurement of distances throughout the
+Milky Way and even to Local Group galaxies. The field will benefit
+from expert input to move forward into the era of Gaia,
+optical-interferometer and ELT-driven science, which (for example)
+will allow us to determine Coma-cluster distances without having to
+rely on secondary distance indicators, thus finally making the leap to
+accurate distance measurements well beyond the Local Group of
+galaxies. With the launch of Gaia imminent at the time of the IAU GA
+in Beijing, this is a really opportune time to be looking forward to
+the first Gaia catalogues, and understand how the science areas
+touched upon in this Symposium will be fundamentally changed by the
+Gaia results, what the big open questions are that Gaia can address in
+the Symposium's context, and what the future of complementary
+techniques and observational approaches will be once the Gaia
+catalogues become available.
+
+In this Symposium, we will bring together experts on various aspects
+of distance determinations and (most importantly) the underlying
+physics enabling this (without being restrictive in areas where
+statistical and observational approaches are more relevant), from the
+solar neighbourhood to the edge of the Universe, exploring on the way
+the various methods employed to define the milestones along the
+road. We will emphasise, where possible, the physical bases of the
+methods and recent advances made to further our physical insights. We
+aim to provide a snapshot of the field of distance measurement,
+offering not only up-to-date results and a cutting-edge account of
+recent progress, but also full discussion of the pitfalls encountered
+and the uncertainties that remain. We aim to provide a roadmap for
+future efforts in this field, both theoretically and observationally,
+and in particular will consider the key question as to whether the
+field is best served by having access to the nextgeneration of
+extremely large telescopes and the Square Kilometer Array (as well as
+the James Webb Space Telescope) and/or if significant progress can
+still be made with dedicated 2-4m-class optical telescopes as well as
+upgraded radio interferometers.
+
+Although our focus is techniques of distance determination, this is
+intimately linked to many other aspects of astrophysics and
+cosmology. On our journey from the solar neighbourhood to the edge of
+the Universe, we shall encounter stars of all types, alone, in pairs
+and in clusters, their life cycles, and their explosive ends: binary
+stars, in particular, play an important role in this context, e.g. in
+pinning down accurate distances to the Pleiades open cluster and Local
+Group galaxies, as well as in future ground- and space-based surveys
+(including Gaia, RAVE, and others); the stellar content, dynamics, and
+evolution of galaxies and groups of galaxies; the gravitational
+bending of starlight; and the expansion, geometry and history of the
+Universe. As a result, the Symposium will offer not only a
+comprehensive study of distance measurement, but a tour of many recent
+and exciting advances in astrophysics.
+
+
+** REGISTRATION/TRAVEL GRANTS: **
+
+Registration for this Symposium must be done via the IAU General
+Assembly's registration process:
+- http://www.astronomy2012.org/dct/page/65611
+
+Note that the early registration deadline is 29 February 2012.
+
+All participants, INCLUDING INVITED AND REVIEW SPEAKERS, must register
+via the IAU GA website.
+
+If you are not an IAU member, the IAU's Paris Office will issue an
+official invitation once your status as professional astronomer has
+been verified. To aid this process, please register as usual and also
+send an email to the Symposium's organisers (iaus289@gmail.com),
+including:
+- your name and gender (important!)
+- your full institute address
+- your professional status (student, postdoc, faculty, etc.)
+
+Students also need to ask their adviser to send an endorsement letter
+directly to the IAU's secretariat; see
+http://www.astronomy2012.org/dct/page/65611 (note 1).
+
+If you want to qualify for partial TRAVEL SUPPORT, the deadline for
+travel grant applications is also 29 February. See for more details:
+http://www.iau.org/grants_prizes/iau_grants/ga_events/ -- we cannot
+provide firm guarantees of travel support before 8 May 2012, and there
+is no need to follow up any enquires prior to that date (we won't have
+the answers).
+
+
+We hope to see many of you at IAU Symposium 289 in Beijing this summer!
+
+==============================================================================
+
+> Date: Tue, 24 Jan 2012 10:11:00 +0000  
+> From: "Sephton, Mark A" <m.a.sephton@imperial.ac.uk>        
+> Subject: UK-Taiwan studentship funding opportunity
+
+Dear Yi-Jehng, 
+
+I am a Professor in the Department of Earth Science and Engineering at Imperial College London. I have just become aware of a funding opportunity for students from Taiwan to study at Imperial. The student should be nominated by a University in Taiwan and it could provide an opportunity to initiate collaboration between the UK and Taiwan. Details are below: 
+
+http://www3.imperial.ac.uk/international/prospective/newscholarships/taiwanscholar 
+
+If you have any Masters students that would like to work in the field of extraterrestrial organic matter, Life detection space missions or mass extinction studies that I would be very happy to support an application. 
+
+Please get in touch if you need any more information. 
+
+Best regards 
+
+Mark 
+
+********************************************* 
+Mark Sephton 
+Department of Earth Science and Engineering 
+South Kensington Campus 
+Imperial College London, SW7 2AZ 
+Tel: +44 (0)20 7594 6542 
+Fax: +44 (0)20 7594 7444 
+Email: m.a.sephton@imperial.ac.uk<mailto:m.a.sephton@imperial.ac.uk> 
+http://www.imperial.ac.uk/people/m.a.sephton 
+********************************************* 
+
+==============================================================================
+
+> Date: Sun, 29 Jan 2012 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>    web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Prof. Yasushi Suto (The University of Tokyo)
+Topic:        Colors of a second Earth
+Time:        2/3 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+We develop a simple method to estimate the fractional areas of
+different surface types on earth-like exoplanets from multi-band
+photometry. Our attempt is to reproduce the scattered light curves as
+a sum of the 5 surface types, i.e., ocean, soil, vegetation, snow and
+cloud. We would like to answer an ambitious, but well-defined,
+scientific question: "If we discover an exoplanet identical to the
+Earth in the near future, can we infer the presence of vegetation
+observationally ?''. This is why we intentionally and specifically
+adopt the major surface types of the Earth, including vegetation, into
+the analysis even though our method is thus inevitably
+model-dependent. We apply our method to mock scattered light curves of
+the Earth and to the real data from the Earth observing satellite. In
+an idealized situation where the photometric errors are only photon
+shot noise, we are able to reproduce the fractional areas of those
+components fairly well. We may be even able to detect a signature of
+vegetation from the distinct feature of photosynthesis on the Earth,
+known as the red edge. In our reconstruction method, Rayleigh
+scattering due to the atmosphere has an important effect, and for
+terrestrial exoplanets with atmosphere similar to our Earth, it is
+possible to estimate the presence of oceans and an atmosphere
+simultaneously.
+
+
+References:
+1. Yuka Fujii, Hajime Kawahara, Yasushi Suto, Atsushi Taruya, Satoru
+Fukuda, Teruyuki Nakajima, and Edwin L. Turner:
+“Colors of a second Earth I: estimating the fractional areas of ocean,
+land and vegetation of Earth-like exoplanets”
+The Astrophysical Journal 715, 866—880, 2010.
+
+2. Yuka Fujii, Hajime Kawahara, Yasushi Suto, Satoru Fukuda, Teruyuki
+Nakajima, Timothy A. Livengood, and Edwin L. Turner: “Colors of a
+second Earth II: Effects of clouds on photometric characterization of
+Earth-like exoplanets”
+The Astrophysical Journal 738, 184(1-15), 2011.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Prof. Yasushi Suto (The University of Tokyo)
+Topic:        Cosmological implications of inhomogeneities in intra-cluster gas
+Time:        2/2 (Thursday) 15:30 - 16:30
+Place:        R1203
+Abstract:
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

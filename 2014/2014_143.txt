@@ -1,0 +1,57 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu, 25 Sep 2014 08:00:03 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chih-Fan Chen (ASIAA / NTU)
+Topic:         First Use of Adaptive Optics Imaging to Constrain Cosmology with Gravitational Time Delays
+Time:         9/29 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Min-Su Shin (University of Oxford)
+Topic:         Applications of machine learning algorithms for reliable
+detection of groups in astronomical data
+Time:         10/1 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Due to increasing size of astronomical data and expected
+boom of survey projects, it becomes important to detect
+interesting objects reliably in the large amount of data.
+I explain the importance of applying machine learning
+algorithms in future astronomical research. Focusing on
+application of clustering algorithms to detect groups in data,
+I introduce a non-parametric Bayesian clustering method
+and a consensus clustering method which improve reliability
+of detecting genuine variable sources in time-series astronomical
+data. I also present a new strategy of time-series data
+analysis to identify variable sources quickly by using ensemble
+of clustering methods as the data size grows. Possible applications
+of the non-parametric Bayesian method are presented for theoretical
+and observational astronomical research, emphasizing the role of
+data-driven models.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Yen-Bin, Chang (ASIAA)
+Topic:         
+Time:         10/1 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+==============================================================================

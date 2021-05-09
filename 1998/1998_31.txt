@@ -1,0 +1,76 @@
+From kyl@biaa.sinica.edu.tw Fri Feb 13 07:32 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA27942; Fri, 13 Feb 1998 07:31:38 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA07704; Fri, 13 Feb 1998 07:29:29 +0800
+Date: Fri, 13 Feb 1998 07:29:29 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: VSOP AO2 release (fwd)
+Message-Id: <Pine.GSO.3.96.980213072925.7702A-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2419
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Thu, 12 Feb 1998 19:10:25 +0900 (JST)
+From: HIRABAYASHI Hisashi <hirax@vsop.isas.ac.jp>
+To: vlbi@cv3.cv.nrao.edu
+Subject: VSOP AO2 release
+
+
+                                                          12 February 1998
+
+
+  RELEASE of the SECOND ANNOUNCEMENT OF OPPORTUNITY for the VSOP MISSION
+---------------------------------------------------------------------------
+
+The Institute of Space and Astronautical Science (ISAS) has released
+the Second Announcement of Opportunity (AO2) for scientific
+participation in the VLBI Space Observatory Programme (VSOP). 
+Proposals are solicited for observations at 1.6 and 5.0 GHz with the
+dedicated space radio telescope, HALCA, and ground-based radio
+observatories to perform Very Long Baseline Interferometry (VLBI) on
+baselines of up to 2.6 Earth diameters.
+
+AO2 solicits proposals for observations between 1 January 1999 and
+31 December 1999, although some AO2 proposals may be scheduled as early
+as October 1998 if this enables better (u,v) coverage to be obtained.
+
+General Observing Time is open to the astronomical community through
+proposals to be peer-reviewed by an international scientific review
+committee; proposals are due at ISAS by Friday, 8 May 1998.
+
+Copies of the AO and proposal Cover Sheets, are available from the 
+VSOP World Wide Web site at 
+       http://www.vsop.isas.ac.jp/obs/AO.html
+or via anonymous-ftp in the pub/docs/ao directory of
+       ftp.vsop.isas.ac.jp   (133.74.2.131).
+These documents will also be made available through a number of regional
+sites, which will be advertised on the VSOP WWW site.
+
+A Proposer's Guide and simulation software packages supporting the
+Announcement of Opportunity will be available from 1 March 1998.
+
+Please note that proposers wishing to continue, or complete, programs
+started during the first AO period must submit a proposal in response
+to this Announcement of Opportunity.
+
+Regional e-mail Help Desks for assisting potential proposers through
+the VSOP AO process have been established. Questions related to the
+AO, proposal submission, technical aspects of the mission, or user
+software that are not addressed by the AO or Proposer's Guide can be
+submitted to these Help Desks; see the AO for your region's e-mail
+address.  Responses normally will be within a few working days.
+
+          Professor Hisashi Hirabayashi
+          VSOP Project Scientist
+
+
+
+

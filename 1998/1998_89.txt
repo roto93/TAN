@@ -1,0 +1,77 @@
+From kyl@biaa.sinica.edu.tw Wed Apr 29 07:29 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA09396; Wed, 29 Apr 1998 07:27:50 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA07780; Wed, 29 Apr 1998 07:26:30 +0800
+Date: Wed, 29 Apr 1998 07:26:30 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: VLBA's 1000th Scientific Observation (fwd)
+Message-Id: <Pine.GSO.3.96.980429072628.7746B-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2462
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 28 Apr 1998 11:11:12 -0600 (MDT)
+From: Jon Romney <jromney@arana.aoc.NRAO.EDU>
+To: vlbi@arana.aoc.NRAO.EDU
+Subject: VLBA's 1000th Scientific Observation
+
+
+VLBA Releases 1000th Scientific Observation
+--------------------------------------------
+
+The VLBA released its 1000th scientific observation today, 1998 April 28,
+not quite four years after its first release on 1994 May 4, and six years
+after the VLBA correlator detected its first fringes on 1992 May 6.  Also
+released very recently was the first observation whose project code ser-
+ial number exceeded 100; the winner of this race was letter M.
+
+The 1000 observations can be classified as 832 (ground-based) astronomi-
+cal programs using the VLBA only (plus possibly a single VLA antenna, the
+entire phased VLA, and/or the Effelsberg 100-m), 92 global VLBI Network
+experiments, 44 VSOP scientific observations with various ground arrays,
+and 32 geodetic programs.  An additional 166 test observations were also
+released during the same interval, including 36 VSOP pre-launch and in-
+orbit-checkout tests.
+
+The period spanned by the full set of 1166 observations comprised: 34944
+hours overall elapsed time; 14560 hours of observing; 19645 hours total
+correlator production time; and 10438 hours of final correlation.  The
+usual VLBA efficiencies formed as ratios of these times were: 74% correl-
+ation efficiency; 53% production efficiency; and 42% VLBA operational
+efficiency.  [Definitions of these statistics are available in the Ex-
+planation to the VLBA correlator efficiency plots on the VLBA Web site.]
+
+A total length of 2.0 Gm of tape was recorded at ten VLBA stations and
+played back to correlate these observations.  This distance is 50 times
+the equatorial circumference of the Earth, five times the mean distance
+of the Moon, and half again the diameter of the Sun.
+
+The mean release rate over the four-year period was 0.83 observation per
+day, while the latency, from observation to completion of correlation,
+averaged 21 days for VLBA (i.e., non-global) observations.
+
+J. D. Romney
+
+
+

@@ -1,0 +1,107 @@
+From nkw@phys.sinica.edu.tw Fri Jan 18 13:28 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA02560
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 18 Jan 2002 13:28:51 +0800 (CST)
+Received: from phys.sinica.edu.tw (mails.phys.sinica.edu.tw [140.109.103.251])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA13099;
+	Fri, 18 Jan 2002 13:28:18 +0800 (CST)
+Received: from phys15 (IDENT:root@localhost.localdomain [127.0.0.1])
+	by  phys.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA22615;
+	Fri, 18 Jan 2002 13:30:56 +0800
+Date: Fri, 18 Jan 2002 13:26:21 +0800 (CST)
+From: K-W Ng <nkw@phys.sinica.edu.tw>
+X-Sender: nkw@phys15
+To: CosPA Mailing List <65202053@ms.cc.ntu.edu.tw>, astro@asiaa.sinica.edu.tw,
+        b5202023@ms.cc.ntu.edu.tw, bonwood@ms24.hinet.net,
+        chang@phys.nthu.edu.tw, chengjiun@yahoo.com.tw,
+        chiueh1@phys.ntu.edu.tw, chiuehth@phys.ntu.edu.tw,
+        clw@asiaa.sinica.edu.tw, clw@phys.ntu.edu.tw, cmchen@phys.ntu.edu.tw,
+        cpsoo@mail.ncku.edu.tw, cwwang@phys.ntu.edu.tw,
+        d89222003@ms89.ntu.edu.tw, deutsch@stella.astro.ncu.edu.tw,
+        dghosh@phys.ntu.edu.tw, dslee@cc.ndhu.edu.tw, fan@asiaa.sinica.edu.tw,
+        g883305@oz.nthu.edu.tw, gcliu@asiaa.sinica.edu.tw, glin@cc.nctu.edu.tw,
+        hexg1@phys.ntu.edu.tw, hexg2@phys.ntu.edu.tw, hexg3@phys.ntu.edu.tw,
+        hexg4@phys.ntu.edu.tw, hexg6@phys.ntu.edu.tw, hexg@phys.ntu.edu.tw,
+        hkchang@phys.nthu.edu.tw, hsyang@phys.ntu.edu.tw,
+        htcho@mail.tku.edu.tw, huanhsin@ms5.hinet.net,
+        hwangcy@astro.ncu.edu.tw, kager@pchome.com.tw, kclai@phys.ntu.edu.tw,
+        keifer@tosh.phys.ntu.edu.tw, keiichi@asiaa.sinica.edu.tw,
+        klem@ethome.net.tw, ktwang@phys.ntu.edu.tw, kyl@asiaa.sinica.edu.tw,
+        leewl@phys.sinica.edu.tw, lihb@phys.sinica.edu.tw, lihwai@sinamail.com,
+        lin1099@ms9.hinet.net, lou@asiaa.sinica.edu.tw,
+        lupin@asiaa.sinica.edu.tw, meowshun@ms28.url.com.tw,
+        millieyao@phys.ntu.edu.tw, mli@phys.ntu.edu.tw, mwang@phys.ntu.edu.tw,
+        nkw@phys.sinica.edu.tw, nnp1@phys.ntu.edu.tw, parkc@astro.snu.ac.kr,
+        pchang@phys.ntu.edu.tw, pmho@phys.ntu.edu.tw,
+        r8222001@dove.cc.ntu.edu.tw, r8222007@dove.cc.ntu.edu.tw,
+        r8222013@dove.cc.ntu.edu.tw, r8222050@dove.cc.ntu.edu.tw,
+        r88222001@ms88.ntu.edu.tw, ray@analog.ee.ntu.edu.tw,
+        rrhsu@mail.ncku.edu.tw, sftsai4@phys.ntu.edu.tw,
+        shchang@phys.ntu.edu.tw, swbaek@phys.ntu.edu.tw,
+        sylin@phys.sinica.edu.tw, taiji@sora.asiaa.sinica.edu.tw,
+        tony@asiaa.sinica.edu.tw, tseng327@ms7.hinet.net,
+        twhepnet@hepmail.phys.sinica.edu.tw, typhoon@asiaa.sinica.edu.tw,
+        ueno@phys.ntu.edu.tw, wcchen@phys.ntu.edu.tw, wcmtw@yahoo.com,
+        wenlin@phy03.phy.ntnu.edu.tw, wfgore@cc.nctu.edu.tw,
+        wshou@phys.ntu.edu.tw, wtni@phys.nthu.edu.tw, wyhwang@phys.ntu.edu.tw,
+        wyhwange@phys.ntu.edu.tw, wyhwangr@phys.ntu.edu.tw,
+        yen@asiaa.sinica.edu.tw, yuan@asiaa.sinica.edu.tw,
+        yuanru@phys.ntu.edu.tw
+cc: K-W Ng <nkw@phys.sinica.edu.tw>
+Subject: 1/24 CosPA Thursday Special Seminars
+Message-ID: <Pine.GSO.4.21.0201181314420.16005-100000@phys15>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2917
+Status: R
+
+
+*** Please be noted that the seminars start at 12:10 and the 
+    location is in ROOM 104
+  _____________________________________________________________________
+ |                                                                     |
+ |                          C o s P A                                  |
+ |                    Thursday Special Seminars                        |
+ |                                                                     |
+ |  Speaker: Prof. Tuneyoshi Kamae (SLAC)                              |
+ |  Title:   Traditional Gamma-ray Astronomy with GLAST                |
+ |  Time:    12:10-13:00, January 24, 2002                             |
+ |  Place:   Rm 104, Taida New Physics Building                        |
+ |                                                                     |
+ |  Speaker: Prof. Elliott Bloom (SLAC)                                |
+ |  Title:   Particle Astrophysics Aspects of GLAST                    |
+ |  Time:    13:10-14:00, January 24, 2002                             |
+ |  Place:   Rm 104, Taida New Physics Building                        |
+ |_____________________________________________________________________|
+                                                                               
+------------------------------------------------------------------
+
+  The following is copied from GLAST web-page:
+------------------------------------------------------------------
+GLAST Mission is part of NASA's Office of Space and Science Strategic
+Plan, with launch anticipated in 2005. GLAST is a next generation
+high-energy gamma-ray observatory designed for making observations of
+celestial gamma-ray sources in the energy band extending from 10 MeV to
+more than 100 GeV. It follows in the footsteps of the CGRO-EGRET
+experiment, which was operational between 1991-1999.                         
+  
+The key scientific objectives of the GLAST mission are:
+  * To understand the mechanisms of particle acceleration in AGNs,
+    pulsars, and SNRs.
+  * Resolve the gamma-ray sky: unidentified sources and diffuse emission       
+  * Determine the high-energy behavior of gamma-ray bursts and transients
+  * Probe dark matter and early Universe
+
+GLAST has a field of view about twice as wide (greater than 2.5
+steradians), and sensitivity about 50 times that of EGRET at 100 MeV and
+even more at higher energies. Its two year limit for source detection in
+an all-sky survey is 1.6 x 10-9  photons cm-2 s-1 (at energies> 100 MeV).
+It will be able to locate sources to positional accuracies of 30 arc
+seconds to 5 arc minutes. Yet, it is a relatively small and inexpensive
+mission, which will be able to be launched on a Delta II rocket.
+------------------------------------------------------------------
+
+P.S.  Lunch boxes are provided. Please send a request to Yuanju,
+      yuanru@phys.ntu.edu.tw, before Thursday.                                 
+
+

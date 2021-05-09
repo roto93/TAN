@@ -1,0 +1,49 @@
+From kuan@sgrb2.geos.ntnu.edu.tw Wed Feb 21 14:36 CST 2001
+Received: from sgrb2.geos.ntnu.edu.tw (sgrb2 [140.122.144.4])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA05143
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 21 Feb 2001 14:36:11 +0800 (CST)
+Received: by sgrb2.geos.ntnu.edu.tw (8.9.2/8.9.2) id OAA12748
+	for astro@iaa17; Wed, 21 Feb 2001 14:27:30 +0800 (CST)
+Date: Wed, 21 Feb 2001 14:27:30 +0800 (CST)
+From: Yi-Jehng Kuan <kuan@sgrb2.geos.ntnu.edu.tw>
+Message-Id: <200102210627.OAA12748@sgrb2.geos.ntnu.edu.tw>
+Subject: FYI: Odin launched
+To: astro@iaa17.asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: uao5Fbdtxaf0YgFt6uLIag==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 1052
+Status: R
+
+------------- Begin Forwarded Message -------------
+
+>From kwok@iras.ucalgary.ca Wed Feb 21 06:39 CST 2001
+X-Authentication-Warning: draco.iras.ucalgary.ca: kwok owned process doing -bs
+Date: Tue, 20 Feb 2001 15:36:17 -0700 (MST)
+From: Sun Kwok <kwok@iras.ucalgary.ca>
+X-Sender: kwok@draco
+To: Yi-Jehng Kuan <kuan@sgrb2.geos.ntnu.edu.tw>
+Subject: Odin launched
+MIME-Version: 1.0
+
+Dear Yi Jehng:
+
+The Odin satellite was successfully launched this morning at 08:48 UT.
+The solar panels were deployed and communications have been established
+with the ground station.
+
+best regards,
+
+Sun
+
+==========================================================================
+Sun Kwok                                 email:  kwok@iras.ucalgary.ca
+Dept. of Physics and Astronomy           Phone:  1-403-220-5414
+University of Calgary                    Fax:    1-403-289-3331
+Calgary, Alberta                         Cell:   1-403-830-8395
+Canada T2N 1N4                           URL:    http://www.iras.ucalgary.ca
+
+------------- End Forwarded Message -------------
+
+

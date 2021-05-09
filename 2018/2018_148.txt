@@ -1,0 +1,55 @@
+
+> From: Jung Taehyun <thjung@kasi.re.kr>
+> Date: Fri, 28 Sep 2018 18:18:26 +0900
+> Subject: [vlbi] KVN call for proposals 2019A
+> To: EVN Tech <evntech@jb.man.ac.uk>, vlbi@nrao.edu,
+>         merlin-announce@jb.man.ac.uk, astro@asiaa.sinica.edu.tw
+
+Dear Colleagues,
+
+This announcement contains call for proposals of Korean VLBI Network (KVN).
+
+Best regards,
+Taehyun Jung
+
+
+---------------------------------------------
+
+1. KVN Call for Proposal (VLBI)
+
+______________________________________
+
+Call for Proposals 2019A (KVN VLBI)
+______________________________________
+
+The Korean VLBI Network (KVN, http://kvn.kasi.re.kr) invites scientific
+proposals for VLBI observations during the 2019A season from astronomers
+around the world. Observations of successful proposals will be scheduled
+between 15th January 2019 and 15th June 2019. Proposals should be emailed
+to kvnprop@kasi.re.kr before the deadline of UT 08:00 (KST 17:00) on 1st
+November 2018.
+
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by
+the Korea Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr).
+Its three 21m radio telescopes are located around South Korea in Seoul,
+Ulsan, and Jeju Island. The baseline length ranges from 305km to 476 km.
+Its 4-channel receiving system allows simultaneous observation at 22, 43,
+86, and 129 GHz. Higher than 1 Gbps recording rates (2, 4 and 8 Gbps) using
+Mark6 recorder are available. Total time of 300 hours are planned for this
+call. The maximum observation time of a proposal is limited to 100 hours.
+If requested in proposals, the observation time can be allocated over a
+year, until January 15, 2020, but the observation time will not be
+increased. Details of the information and current status of the KVN can be
+found in the KVN VLBI Status Report (
+https://radio.kasi.re.kr/kvn/status_report_2019/array.html).
+
+Proposers should use the KVN VLBI observing application form (the .tex file
+can be found athttp://kvn.kasi.re.kr/index.html/obs_proposal.php). Please
+carefully follow the instructions of the proposal form. A separate
+scientific and technical justification is mandatory. This Justification
+should be submitted together with the proposal form and not exceed 3 pages.
+
+Jongsoo Kim
+Director of Radio Astronomy Division, KASI
+
+==============================================================================

@@ -1,0 +1,74 @@
+From kyl@asiaa.sinica.edu.tw Sat Sep 12 10:33:13 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA21414; Sat, 12 Sep 1998 10:27:44 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA22880; Sat, 12 Sep 1998 10:25:40 +0800
+Date: Sat, 12 Sep 1998 10:25:40 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: New observing schedules for the NRAO 12m telescope (fwd)
+Message-Id: <Pine.GSO.3.96.980912102536.22701B-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1819
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 11 Sep 1998 16:54:55 -0700
+From: Simon Radford <sradford@cv3.cv.nrao.edu>
+To: 12m telescope operator <oper12m@heineken.tuc.nrao.edu>
+Subject: New observing schedules for the NRAO 12m telescope
+
+New observing schedules for the NRAO 12m telescope for 
+
+      1998  December       (update 0)
+      1998  November       (update 0)
+      1998  October        (update 0)
+      1998  September      (update 0)
+
+are available in Postscript, Acrobat, or gif format at
+
+http://www.tuc.nrao.edu/schedules/  or 
+ ftp://ftp.tuc.nrao.edu/schedules/
+ 
+All Observers please double check your assigned times to avoid
+misunderstandings. Remote Observers please notify telescope staff 
+well in advance. 
+
+Unassigned (NYA) telescope time may be requested. Allocation of
+unassigned time is confirmed two to four weeks ahead of the observing
+date, so pending requests may not appear on these schedules. Please see
+the guidelines at http://www.tuc.nrao.edu/unassigned.html
+
+The version currently posted at these addresses is considered
+definitive. Note your browser may display older, cached copies
+rather than the most recent.
+
+As always, if you have difficulty retrieving these schedules, I'd be
+happy to send them to you by email, fax, or regular mail, as you prefer.
+Please share the schedules with interested colleagues by posting them
+on bulletin boards, etc.
+
+Simon Radford
+
+PS: The gif format won't be available until next week.
+
+

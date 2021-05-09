@@ -1,0 +1,78 @@
+
+> Date: Thu, 14 Feb 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Chia-Hui Lin (NTU/ASIAA)
+Topic:          Binary neutron star mergers and kilonovae
+Time:           2/18 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Nanase Harada (ASIAA)
+Topic:          Astrochemistry in external galaxies
+Time:           2/18 (Monday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+Astrochemistry has been used to study physical properties of the interstellar medium (ISM) in star-forming molecular clouds. Recent development of high-capability telescopes, especially ALMA, has enabled detailed studies of astrochemistry in external galaxies. These studies have the potential to reveal the state of the interstellar medium influenced by extreme activities of starburst or active galactic nuclei (AGNs). Such ISM properties are important factors that affect future star formation / AGN activities in those galaxies. On the other hand, this field needs both observations of prototypical sources and theoretical modeling to establish the molecular composition as a quantitative measure of those activities. My research has focused on this "calibration" of molecules as diagnostic tools to study the ISM in galaxies. I will start this talk by introducing the modeling of the chemistry in the extragalactic scale. Then, I will present ALMA astrochemical observations of starbu!
+ rst galaxies M83 and NGC 3256 to show how galactic dynamics and star formation activity affects chemical composition. Finally, I will conclude with the future prospects of this field including the preliminary results of our ALMA Large Program ALCHEMI.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Tien-Hao Hsieh (ASIAA)
+Topic:          Chronology of Episodic Accretion in Protostars - ALMA Survey of the CO and H2O snow lines
+Time:           2/20 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Episodic mass accretion is one of the promising solutions to the long-standing "luminosity problem" in star formation, although its process is not full understood yet. We present our new ALMA results of 39 Class 0/I protostars in the Perseus molecular cloud, aiming at measuring the locations of the CO and H2O snow lines. The CO and H2O snow lines are determined from the measurements of the  N2H+ and HCO+ line emission, respectively, combined with the time-dependent chemical model. The CO/H2O snow lines allow us to probe the past accretion burst; during the burst, the increase of accretion luminosity pushes the snow lines outwards; once the luminosity goes back to normal, the snow lines move back to their initial position after a delay of the freeze-out time scale.
+Since CO and H2O have different freeze-out time scales, the snow lines of these two species would further allow us to trace the event from different timescales, in the past ~1000 yr from H2O and in the past 10,000 yr from CO. As a result, we estimate the time from the last burst and the mass accretion rate during it toward individual source. Based on our survey, we try to reveal the evolution of the burst-occur frequency and the mass accretion rate at the burst-phase.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Maresuke Shiraishi (NIT, Kagawa College)
+Topic:          Finding higher spinning particles through cosmic symmetry breakings
+Time:           2/21 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Higher spin fields can play a key role not only in particle physics but also in cosmology. They may act as a source of e.g. large-scale magnetic fields and the gravitational wave background. Detecting their signatures therefore draws attention around the world. I would talk about the search of primordial higher spin fields through cosmic symmetry breakings (i.e. parity violation, rotational asymmetry).
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Veronica Allen (NASA/GSFC)
+Topic:          Organic chemistry around young high-mass stars: Observational and theoretical
+Time:           2/22 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In the study of high-mass star formation, hot cores are empirically defined stages where chemically rich emission is detected toward a high-mass protostar. It is unknown whether the physical origin of this emission is a disk, inner envelope, or outflow cavity wall and whether the hot core stage is common to all massive stars. With the advent of the highly sensitive sub-millimeter interferometer, ALMA, the ability to chemically characterize high-mass star-forming regions other than Orion has become possible. These sensitive high-resolution observations have opened up opportunities to find small scale variations in young protostellar sources. 
+Taking a two part approach, we investigate the chemistry of the hot cores within star-forming region G35.20-0.74N (G35.20) using high spatial resolution (~1000 AU) Cycle 0 ALMA observations and rate-equation-based chemical models. The observational analysis uncovered an interesting asymmetry in the distribution of the Nitrogen-bearing species (especially those with the CN-group) within G35.20 B. This was unexpected as this source contains a candidate Keplerian disk and such a segregation in chemistry is unexpected because of the short dynamical time-scale of the system. The first part of my talk outlines the observational result and results of our follow-up chemical modelling to determine a cause for small scale chemical segregation, and therefore the usefulness of complex cyanides as chemical clocks. 
+In the second part of my talk, I detail the results of a second study where I observe several different young stars and how the extent and movement of formamide (NH2CHO) in the gas surrounding the stars compares to its two possible parent species. This is important astrochemical work because there is debate about whether formamide is formed in ice and melts off once it becomes warm (from one parent) or in already warm gas (from the other parent). Formamide itself is important because it may lead to amino acids and other important molecules of life.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Karen Yang (UMD)
+Topic:          The Microphysics of AGN Feedback
+Time:           2/22 (Friday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+Feedback from active galactic nuclei (AGN) is one of the most important processes governing the formation and evolution of galaxies and galaxy clusters. It is believed to be responsible for inhibiting the formation of massive galaxies and for solving the long-standing "cooling-flow problem" in galaxy clusters. A lot of understanding of AGN feedback has been gained using hydrodynamic simulations; however, some of the relevant physical processes are unresolvable or not captured by pure hydrodynamics, such as plasma effects and cosmic-ray (CR) physics. In this talk, I will present how we use simulations that incorporate this "microphysics" to understand how AGN jets feedback on galactic and cluster scales. Specifically, I will discuss our recent progress on the understanding of AGN heating in clusters, and how the heating processes depends on the AGN jet composition. I will also talk about how we could use multi-messenger observations of the Fermi bubbles as a nearby laboratory!
+  for studying AGN feedback. Finally, I will conclude with open questions and future prospects of applying simulations beyond hydrodynamics to various interesting astrophysical systems.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

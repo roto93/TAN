@@ -1,0 +1,214 @@
+==============================================================================
+
+In this issue (Dec 18 - 22, 2017)
+
+1. ALMA Cycle 6 Pre-announcement
+2. ASIAA Colloquium/Seminar/Lunchtalk (Dec 27): Yi-Kuan Chiang (JHU)
+                                      (Dec 27): Chang, Yin-Chang (ASIAA)
+                                      (Dec 28): Yen Hsi-Wei (ESO)
+3. Special TTTT seminar (Dec 26): Seong Jin Kim (NTHU)
+4. SMA Call for Large Scale and Standard Proposals
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: ALMA Cycle 6 Pre-announcement
+> Date: Tue, 19 Dec 2017 11:13:35 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>        riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear all,
+
+    The ALMA Cycle 6 Pre-announcement has been released. 
+
+    The Joint ALMA Observatory (JAO) will start the next cycle of observing (Cycle 6) in October 2018. 
+    A Call for Proposals with detailed information on Cycle 6 will be issued in March 2018, with a deadline for proposal submission in April 2018. 
+    This pre-announcement highlights aspects of the Cycle 6 proposal call that are needed to plan proposals.
+
+    The key dates for Cycle 6 are given below.
+
+        18 December 2017    Cycle 6 pre-announcement
+
+        1 February 2018    Additional information on configuration schedule
+
+        20 March 2018        Release of the ALMA Cycle 6 Call for Proposals and Observing Tool, and opening of archive for proposal submission
+
+        19 April 2018        Proposal deadline
+
+        18-23 June 2018    Proposal Review meeting
+
+        End of July 2018    Result of the proposal review sent to Proposers
+
+        6 September 2018    Deadline for Phase 2 submission by Proposers
+
+        October 2018        Start of ALMA Cycle 6 observations
+
+        September 2019    End of Cycle 6 observations
+
+    New in Cycle 6 — In Cycle 6, the following opportunities will be available to Proposers for the first time.
+
+        a. Circular polarization: proposals will be accepted for Bands 3, 4, 5, 6, and 7 in all (including circular) polarization modes for continuum and spectral-line observations. The minimum detectable degree of circular polarization, defined as three times the systematic calibration uncertainty, is currently 1.8% of the peak flux for both TDM and FDM observations. Additional information on the circular polarization capabilities will be presented in the 1 February 2018 announcement on the ALMA Science Portal.
+
+        b. Band 6 IF extension: The Band 6 IF bandwidth has been increased by 0.5 GHz to extend from 4.5 to 10 GHz. This will enable 12CO, 13CO, and C18O J=2-1 to be observed simultaneously with broader spectral windows for galactic sources and nearby galaxies.
+
+        c. Band 8 ACA Standalone: Band 8 can be requested on the ACA in standalone mode.
+
+        d. Band 8 standard mode: Band 8 will become a standard mode starting in Cycle 6.
+    
+    See https://almascience.nao.ac.jp/news/alma-cycle-6-pre-announcement for more information.
+
+best,
+Yu-Nung
+
+==============================================================================
+
+> Date: Thu, 21 Dec 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Yi-Kuan Chiang (JHU)
+Topic:         Which Galactic dust map should I use? Insights from extragalactic tomography
+Time:         12/27 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Over the past few years, clustering-based redshift estimation has emerged as a new way to estimate redshifts and perform extragalactic tomography of arbitrary datasets. On a similar timescale, observations by Planck, WISE, Pan-STARRS and 21cm radio surveys have been used to create a multitude of SFD-type Galactic dust maps. I will explain how clustering-based redshift estimation can be used to test the quality of the seven different dust maps currently available and I will show that extragalactic signatures can be revealed in many of them. When such maps are used for correcting optical magnitudes, we therefore expect biases which are likely to affect the precision of cosmological experiments using supernovae, BAOs, or the growth of structures. I will present possible solutions to alleviate this issue and discuss which map should be used depending on which measurement one wishes to make.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chang, Yin-Chang (ASIAA)
+Topic:         The TAOS II Counterweight of Mirror Installation
+Time:         12/27 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yen Hsi-Wei (ESO)
+Topic:         
+Time:         12/28 (Thursday) 14:20 - 15:20
+Place:         R1203
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya.hashimoto@nao.ac.jp>
+> Subject: Special TTTT seminar on 26 (Tue.) Dec. in NTHU
+> Date: Thu, 21 Dec 2017 15:22:10 +0800
+
+Dear all,
+
+We will have a special TTTT seminar on 26 Dec. in NTHU, given by Dr. 
+Seong Jin Kim,
+who is  a new postdoc in Prof. Tomo's group in NTHU.
+
+Title:
+Properties of 250 um-selected dusty star-forming (SF) galaxies in the 
+North Ecliptic Pole (NEP) field
+
+Speaker: Dr. Seong Jin Kim
+
+Time: 12:20pm 26th Dec. 2017 (Tuesday)
+
+Venue: R501, IoA, 5th floor in the 2nd General Building in NTHU
+
+Abstract:
+To introduce my current work, I would like to give a presentation about 
+the star-forming (SF) galaxies
+selected by 250 um band detection of the Herschel/SPIRE survey on the 
+entire North Ecliptic Pole (NEP)
+field of AKARI.  By matching these SPIRE sources with the optical 
+spectroscopic survey data, around 300
+SF galaxies were selected. We carried out spectral energy distribution 
+(SED) fit using multi-wavelength
+photometric data for the sample. The physical properties derived in this 
+work will be presented and discussed.
+
+With best regards,
+Tetsuya
+
+==============================================================================
+
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: SMA Call for Large Scale and Standard Proposals
+> Date: Wed, 20 Dec 2017 16:26:31 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+
+Dear Yi-Jehng,
+
+The SMA call forLarge-scale and Standard proposals (2018A semester) has been announced.
+I would appreciate it if you could circulate it to TAN.
+
+Regards,
+Naomi
+
+--------------------------------------------
+
+
+Dear Colleague,
+
+We wish to draw your attention to the Large Scale Projects program for observations with the Sub-millimeter Array (SMA), which is now accepting proposals. Under this program, proposals dedicated to answering major astrophysical questions having significant scientific impact requiring observing times of order 100-1000 hours are solicited.  In this communication, we are also pre-announcing the dates for standard observing proposals. These calls are for the 2018A semester with observing period May 16, 2018 - Nov 15, 2018.
+
+The SMA is a reconfigurable interferometric array of eight 6-m antennas on Mauna Kea jointly built and operated by the Smithsonian Astrophysical Observatory and the Academia Sinica Institute of Astronomy and Astrophysics. The array operates in the 230, 345 and 400 GHz bands. 
+
+The SMA has recently completed significant upgrades in observational capability, with more under way. Currently, the SMA observes simultaneously with two orthogonally polarized receivers, one in the 230 GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with full polarimetric observations available using the 230+240 or 345+400 band combinations). The SWARM correlator processes 8 GHz bandwidth for each receiver in each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. This 32 GHz frequency coverage can be continuous where the tuning ranges overlap for the two orthogonally polarized receivers. In short, the SMA now provides flexible, wide band frequency coverage that delivers high continuum sensitivity and excellent spectral line capabilities. A full track offers continuum sensitivity of 200 or 500 micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions (precipitable water vapor 2.5mm and 1.0mm, respectively). The corresponding line sensi!
+tivities at 1 km/s resolution are 30 and 70 mJy. The small antennas allow access to low spatial frequencies in the sub-compact configuration, and at the other extreme, the finest angular resolution with the very extended configuration at 345 GHz is ~ 0.25". The compact and extended configurations bridge the range. Thus, in some ways, the characteristics and performance of the SMA are both similar and complementary to those of the stand-alone Atacama Compact Array (ACA) component of ALMA. 
+
+The Large Scale Projects program follows a phased development, submission and review path, with the final selection of successful proposals synchronized with the TAC process for regular proposals. Accordingly, a Notice of Intent is required ahead of full submission. The deadlines are:
+
+Large Scale Projects proposals
+
+Notice of Intent: 15 January, 2018 
+Full submission: 20 February, 2018 
+
+Standard Observing Proposals
+
+Submissions open  : 15 January 2018 (expected date)
+Submissions Close : 08 March 2018
+
+A second announcement will be circulated when the standard proposal system opens for submissions.
+
+More details can be found at: 
+
+http://sma1.sma.hawaii.edu/call_largescale.html
+
+Notice of Intent:
+http://sma1.sma.hawaii.edu/legacysubmit.html
+
+http://sma1.sma.hawaii.edu/proposing.html
+
+Questions or comments regarding the Call for Large Scale Proposals can be addressed to sma-largescale@cfa.harvard.edu.
+
+Best wishes,
+
+T. K. Sridharan
+SMA TAC Chair
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

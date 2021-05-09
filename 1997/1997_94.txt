@@ -1,0 +1,176 @@
+From clw@biaa.sinica.edu.tw Tue Dec 16 20:02 CST 1997
+Return-Path: <clw@biaa.sinica.edu.tw>
+Received: from biaa15.biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA01684; Tue, 16 Dec 1997 20:01:55 +0800
+Received: from localhost by biaa15.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id UAA16856; Tue, 16 Dec 1997 20:06:50 +0800
+Date: Tue, 16 Dec 1997 20:06:50 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@biaa.sinica.edu.tw>
+X-Sender: clw@biaa15
+To: TAN mailing list <astro@biaa17.biaa.sinica.edu.tw>,
+        ctsemail1@nthpy5.phys.nthu.edu.tw
+Subject: TAW5 Programme (from this Thursday)
+Message-Id: <Pine.GSO.3.96.971216195721.16827H-100000@biaa15>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6100
+Status: R
+
+Dear Physicists and Astronomers,
+
+Please find below the final version of the TAW5 programme (5th Taipei
+Astrophysics Workshop).  For more information please visit the TAW5
+web-site at http://biaa.sinica.edu.tw/taw5/.
+
+(please note that Prof Alcock's talk may be swapped with Prof Steinhardt's
+if he won't be available at the scheduled time.  Again we will give a
+one-night notice at the web-site before any change.)
+
+Sincerely yours,
+
+CHEN, Lin-wen
+
+--------------------------------------------------------------------
+
+             The 5th Taipei Astrophysics Workshop on Cosmology
+ 
+                     Cosmic Microwave Background & 
+                 Large Scale Structure of the Universe
+                          17-21 December 1997
+
+                  *** Workshop Schedule Summary ***
+                  =================================
+
+ 17/Dec 13:30-     Registration  Rm 1012, Science IV Building, NCU
+ 18- 20/Dec noon   Workshop      Rm 209, Science IV Building, NCU
+ 21/Dec Morning    Workshop      2nd Floor Lecture Hall, Institute of
+                                 Earth Science, Academia Sinica
+
+
+                        *** TAW5 Program ***
+                        ====================
+      December 18 (Thursday) Rm 209, Science IV Building, NCU
+      *******************************************************
+
+                   OPENING (Chair: Wei-Hsin Sun) 
+09:00- 09:10
+ President C-H Liu (NCU)         Opening Address (10min)
+ 
+                       MORNING (Chair: Tzihong Chiueh)
+09:10- 10:30
+ B Wilson (CfA)        Receivers for the CMBR: An Improvement in  
+                       Sensitivity by 3000X in the Last Two Decades
+                       (35min)
+ L-Z Fang (Arizona)    Searching for Three Numbers 1970-1997: An      
+                       Overview of the "Standard" Big Bang (45min)
+
+                                COFFEE BREAK
+10:50- 12:20
+ L Page (Princeton)   Measuring the Anisotropy in the Cosmic 
+                      Microwave Background (60)
+ N Turok (Cambridge)  Inflationary Theory, with some Recent 
+                      Developments (30)
+
+                                    LUNCH
+ 
+          AFTERNOON: Special Section supported by NSC Center for
+                Theoretical Sciences (Chair: John Carlstrom)
+
+13:45- 15:30
+ C-P Ma (UPenn)        Cosmological Structure Formation (45)
+ L-Z Fang (Arizona)    Testing Structure Formation Models by          
+                       Space-Scale-Decomposition (30)
+ Z Fan (Chicago)       Statistics of Initial Fluctuations in the
+                       Universe (30)                                
+
+                                  COFFEE BREAK
+16:00- 18:15
+ U-L Pen (CfA)         Gasdynamical Simulations of Clusters of 
+                       Galaxies (45)
+ T-H Chiueh (NCU)      Gravitational Intermittent Cascades (30)
+ K-W Ng (ASIP)         CMB Polarization (30)
+ Y-Q Lou (Chicago)     Dynamics of Magnetized Spiral Galaxies (30)
+
+
+         December 19 (Friday) Rm 209, Science IV Building, NCU
+         *****************************************************
+
+                        MORNING (Chair: Yasushi Suto)
+09:00- 10:45
+ J Carlstrom(Chicago)Sunyaev-Zel'dovich Effect and Measurements (60)
+ H Liang (Bristol)   Combined Analysis of Sunyaev-Zel'dovich Effect,
+                     X-ray and Lensing Effects in Clusters of 
+                     Galaxies (45)
+
+                                COFFEE BREAK
+11:05- 12:35
+ N Turok (Cambridge)  Microwave Anisotropies from Cosmic Defects (45)
+ S Staggs (Princeton) The CMBR Temperature at 11 GHz (30)
+  
+                                    LUNCH
+ 
+                       AFTERNOON (Chair: Yong-Ik Byun)
+13:35- 15:20
+ Y Suto (Tokyo)      Cosmological Implications of X-ray Clusters of
+                     Galaxies (45)
+ L-W Chen (ASIAA)    Physical Properties of the Intergalactic Medium (30)
+ C-Y Hwang (ASIAA)   An Inverse-Compton Process for the Excess Diffuse
+                     Extreme-Ultraviolet Emission from the Virgo and
+                     Coma Galaxy Clusters (30)
+
+                                COFFEE BREAK
+15:50- 18:20
+ X-P Wu (BAO)        Baryon Crisis in Cosmology (60)
+ Y Suto (Tokyo)      Cosmological Redshift-Space Distortion of 
+                     Galaxies and Quasars at High Redshifts (30)
+ C-P Ma (UPenn)      Weighing Superclusters (30)
+ A Schroeder (NCU)   Large-Scale Structures Behind the Milky 
+                     Way from Near-IR Surveys (30)
+
+ 
+      December 20 (Saturday) Rm 209, Science IV Building, NCU
+      *******************************************************
+                        MORNING (Chair: Kin-Wang Ng)
+
+08:50- 10:20
+ C Alcock (LLNL)     Dark Matter in the Macho Project (60)
+ S-C Lee (ASIP)      Status of Alpha Magnetic Spectrometer 
+                     Experiment (30)
+ 
+                                COFFEE BREAK
+ 10:40- 12:40
+ H Wong (ASIP)      Massive Neutrinos as Dark Matter: An Overview 
+                    of Laboratory Experiments (30)
+ H-Y Cheng (ASIP)   Axion and the Strong CP Problem (30)              
+ C Kao (Wisconsin)  Relic Density of Neutralino Dark Matter in
+                    Supergravity Models (30)
+ W-K Sze (NTNU)     Pseudo-Dirac Muon Neutrinos as HDM Candidates (30)
+
+ 
+                  AFTERNOON (EXCURSION & BANQUET), Taipei
+
+
+   December 21 (Sunday) 2nd Floor Lecture Hall, IES, Academia Sinica
+   *****************************************************************
+
+                          MORNING (Chair: Fred Lo)
+09:00- 10:30
+ P Steinhardt (UPenn) Quintessential Cosmology: New Models for the
+                      Evolution of Large-Scale Structure (60)
+ V Burdyuzha (Astro-  Dark Matter and the Problem of Early 
+ Space Center)        Cosmological Structure Production (30)
+ 
+                               COFFEE BREAK
+10:50- 12:40
+ J-H Wu (Cambridge)  Structure Formation Seeded by Cosmic Strings (20)
+ U-L Pen (CfA)       Nonlinear Stochastic Galaxy Biasing (30)
+ P Goldreich         Closing Remark: Astrophysics and Cosmology into
+ (CalTech)           the  60 21st Century*
+
+
+                                    CLOSE
+
+* To be confirmed
+
+
+

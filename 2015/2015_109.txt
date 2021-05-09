@@ -1,0 +1,19 @@
+> Date: Thu, 21 May 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Timo Prusti (ESA)
+Topic:         Gaia status and scientific performance
+Time:         5/25 (Monday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The commissioning phase of the Gaia satellite was completed in July 2014 and we are well into the first year of routine phase operations out of the nominal 5 year mission. All subsystems are working and the operational parameters have been tuned for optimum science performance. A final upgrade of the on-board detection software is under testing. The aim is to be operational in the final configuration by summer 2015. The magnitude limit of the survey has been set to G=20.7 mag for astrometry and photometry. The spectroscopy magnitude limit is currently G_RVS=16.2 mag, but may be adjusted pending the new on-board software testing. The Science Alerts stream based on photometry has been started while preparations are underway for the first intermediate catalogue release by summer 2016. Examples of Gaia observations will be shown to indicate the scientific power of this ESA cornerstone mission.
+
+==============================================================================

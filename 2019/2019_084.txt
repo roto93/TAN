@@ -1,0 +1,141 @@
+
+In this issue (May 11 - 16, 2019)
+
+1. Colloquia at NCU (May 31): Beth Biller (U. Edinburgh)
+                              Steve Mairs (East Asia Observatory)
+2. ASIAA Colloquium/Seminar/Lunchtalk (May 20): Ya-Lin Wu (U Texas at Austin)
+                                      (May 21): Seiji Sugita (U of Tokyo)
+                                      (May 22): Thavisha Dharmawardena (ASIAA)
+                                      (May 23): I-Da Chiang (UCSD)
+
+==============================================================================
+
+*** NCU Colloquium ***
+
+Speaker:    Dr Beth Biller (U. Edinburgh)
+Date/Tim*e*:   May 31 (F), 14:00
+Room:   NCU, S4 Room 1013
+Title:     Detecting and Characterising Giant Planets with Direct Imaging
+Abstract:    Direct detection, and direct spectroscopy in particular, have
+great potential for advancing our understanding of extrasolar planets. In
+combinations with other methods of planet detection, direct imaging and
+spectroscopy will allow us to eventually: 1) fully map out the architecture
+of typical planetary systems and 2) study the atmospheric properties of
+exoplanets in depth. I will discuss in particular the constraints on the
+distributions of wide giant exoplanets placed by the current generation of
+direct imaging surveys. Variability attributed to cloud structure already
+appears to be a persistent feature for L and T type field brown dwarfs,
+potentially due to the breakup of thick silicate and iron condensate clouds
+during the L to T spectral type transition. Directly imaged planets occupy
+the same temperature regime as L and T type brown dwarfs and are likely to
+be equally variable. I will also discuss the prospects for detecting and
+characterising exoplanet weather patterns through monitoring the intrinsic
+photometric variability of these objects.
+
+
+*** NCU Colloquium ***
+
+Speaker:    Dr Steve Mairs  (East Asia Observatory)
+Date/Tim*e*:   May 31 (F), 15:00
+Room:   NCU, S4 Room 1013
+Title:      Catching the Next Burst: The JCMT Transient Survey
+Abstract:    Most protostars have luminosities that are fainter than
+expected from steady-state accretion. One solution to this problem may lie
+in episodic mass accretion wherein protostars undergo prolonged periods of
+very low accretion punctuated by short bursts of rapid accretion. The
+timescales and amplitudes of these bursts and subsequent relaxations are
+almost entirely unconstrained at the protostellar phase. The James Clerk
+Maxwell Telescope (JCMT) Transient Survey is the first dedicated
+submillimetre-wavelength program focused on detecting variability events at
+the earliest stages of star formation. The Transient Survey performs
+monthly continuum observations of 8 nearby (<500 pc) star-forming regions
+at 450 and 850 microns. The survey area contains ~1,000 young stellar
+objects ranging from Class 0 (deeply embedded) protostars to more evolved
+Class II (disk-type) objects. By employing relative flux calibration
+techniques, light curves are produced with an unprecedented precision of
+2%-3% rms at 850 microns and 4-6% rms at 450 microns. To date, more than a
+dozen sources have shown signs of accretion variability. Additionally, the
+data uncovered the first coronal flare discovered at submillimeter
+wavelengths; an event interpreted as a magnetic reconnection that energized
+charged particles to emit gyrosynchrotron/synchrotron radiation. The light
+curve of this most luminous stellar flare on record displayed a decrease in
+brightness by a factor of two in less than 30 minutes. The JCMT Transient
+Survey began in December, 2015 and will continue through at least January,
+2020.
+
+==============================================================================
+
+> Date: Thu, 16 May 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Ya-Lin Wu (The University of Texas at Austin)
+Topic:          TBD
+Time:           5/20 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+TBD
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________ 
+Speaker:        Seiji Sugita (U. of Tokyo)
+Topic:          The evolution of asteroid Ryugu and its parent body constrained by Hayabusa2 observations
+Time:           5/21 (Tuesday) 14:20 - 15:20
+Place:           CCMS R104
+Abstract:
+JAXAâ€™s Hayabusa2 spacecraft arrived at asteroid 162173 Ryugu on June 27, 2018 and conducted global observa-tions (~2 m/pix) from 20 km of altitude first and subsequently conducted a number of high-resolution regional and local observations (down to ~1mm/pix) during low-altitude descents including touch-down operation for sampling on Feb. 22, 2019. In this study, we summarize optical imaging observation results obtained from these wide range of spatial resolutions, focusing on the constraints they provide on Ryuguâ€™s parent body.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Thavisha Dharmawardena (ASIAA)
+Topic:          Tracing Historic Mass Loss from Evolved Stars with Thermal Emission from Cold Dust
+Time:           5/22 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Evolved stars play a key role in the life cycle of dust in the universe. Through strong winds and supernovae, they inject the material reprocessed in their cores to the interstellar medium, replenishing the interstellar medium with heavy elements. As evolved stars are so numerous, they are extremely effective in this role. In this talk I will explore the role of historic mass loss. The typical treatment of evolved stars only accounts for present day mass loss or assumes they undergo constant mass loss throughout their lifetime. Historic mass loss can be effectively traced using thermal emission from the dust which cools down as it moves away from the central star. We exploit Herschel/PACS and JCMT/SCUBA-2 observations to study this historic mass loss. These two sets of observations are especially powerful, tracing the radial variation in the circumstellar envelopes of evolved stars. We establish the presence of variations in mass loss for a sample of Milky Way evolved stars !
+ by studying features observed in surface-brightness, temperature, dust mass-column density and spectral index of dust emissivity radial profiles. By comparing these results to predictions for a constant-outflow model I find significant deviations between the total dust masses determined for the two scenarios, demonstrating that the effect of mass loss variation cannot be ignored. We determine the complexities of the detached shell of U Ant with the aid of radiative transfer modelling, prompting the need for further study at higher angular resolution. The analysis of the sub-mm periodicity of IRC+10216 and o Ceti, two well-known evolved stars, shows that it may be possible to use sub-mm light curves of evolved stars to study the nature of dust formation/destruction in their inner envelope effectively. The optical and sub-mm light curves of IRC+10216 shows an offset in phase of ~ 3/4. Using model predictions and past reports I find that this is likely due to the relationship !
+ between the stellar pulse and the formation/destruction of dus!
+ t. Moving on from the Milky Way to the Magellanic clouds I stack evolved stars identified in the mid-infrared but not detected in the far-IR from Herschel at 100micron allowing a statistical study of the existence or absence of a far-IR component. We successfully produce detections for the highest mass-loss rate sources, showcasing the merits of the stacking method. Here I emphasize the variations in structure and hence historic mass loss of evolved stars and by doing so highlight the importance of including these variations in studies which include dust production by evolved stars in the future.
+
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        I-Da Chiang (UCSD)
+Topic:          Dust-to-Metals Relation in Nearby Galaxies
+Time:           5/23 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Dust in the interstellar medium (ISM) participate in many important physical and chemical processes, e.g., dust is crucial to star formation by being a catalyst for formation of molecular hydrogen, and by shielding gas from the interstellar radiation field. Dust also plays an important role in the observed spectral energy distribution (SED) of galaxies: it absorbs and scatters around 30% of starlight, and re-emits at infrared (IR) wavelengths.
+
+In this talk, I will focus on our work in the life cycle of dust from the observational perspective. We observe the dust-to-metals ratio and other physical tracers in the ISM to infer dust life cycle. The dust-to-metals relation shows how much metal is locked in solid form and how the various dust forming/destruction mechanisms balance each other, especially dust growth in the ISM. This will provide keen insight into the dust life cycle. If I still have time, I will share our recent work about analyzing the empirical radiation heating law for dust grains, and its implications for high-z studies.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

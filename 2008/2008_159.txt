@@ -1,0 +1,161 @@
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: [Almasci] [Workshop: Imaging and Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI]
+> Date: Fri, 24 Oct 2008 11:29:00 +0800
+
+Dear Yi-Jehng,
+
+        Would you please kindly pass the following information around?
+Thanks!
+
+best,
+sheng-yuan
+
+
+=B6}=A9l=C2=E0=B1H=B6l=A5=F3=A1G
+
+> =B1H=A5=F3=A4H: Al Wootten <awootten@nrao.edu>
+> =A4=E9=B4=C1: October 23, 2008 10:22:54 PM GMT+08:00
+> =A6=AC=A5=F3=A4H: almasci@nrao.edu
+> =BC=D0=C3D: [Almasci] [Fwd: Workshop: =20
+> Imaging and Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI]
+>
+>
+> =B1H=A5=F3=A4H: "Anita M. S. Richards" =
+<a.m.s.richards@manchester.ac.uk>
+> =A4=E9=B4=C1: October 23, 2008 10:13:01 PM GMT+08:00
+> =A6=AC=A5=F3=A4H: merlin-announce@jb.man.ac.uk
+> =BC=D0=C3D: Workshop: Imaging and =20
+> Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI
+>
+>
+>
+>
+> Imaging and Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI
+> *****************************************************************
+>
+> December 1 - 3 2008
+> E-Science Research Centre, University of Oxford
+>
+> =
+http://astrowiki.physics.ox.ac.uk/cgi-bin/twiki/view/Algorithms2008/WebHom=
+e
+>
+> Apologies for duplication if you have already seen this.
+> Please let algorithms2008@astro.ox.ac.uk know as soon as possible =20
+> (ideally well before 31 October) if you are interested, and if you =20
+> want RadioNet financial support.
+>
+> Over the next few years, there will be enormous improvements in the =20=
+
+> sensitivity, resolution and frequency coverage of aperture-synthesis =20=
+
+> arrays working at cm, mm and sub-mm wavelengths. In order to make =20
+> best use of the new and upgraded arrays
+>
+> - ALMA, EVLA, e-MERLIN and e-VLBI - advanced imaging and calibration =20=
+
+> algorithms
+> are required.  This workshop will bring together those working on =20
+> algorithm
+> requirements, design and implementation, with the following aims:
+>
+> - to describe what is available and compare different approaches;
+> - to identify what is missing;
+> - to promote collaboration between different groups and
+> - to work out how new algorithms can be implemented in a framework
+>   which allows astronomers (including newcomers to interferometry) =20
+> to make
+>   most effective use of the new instruments.
+>
+> Key topics include (but are not restricted to):
+>
+> - accurate imaging over wide fields with large fractional bandwidths;
+> - correction of pointing errors, atmospheric attenuation,
+>   variations of the primary beam with time, closure errors, etc.;
+> - correction of tropospheric and ionospheric phase errors, including
+>   anisoplanatic effects;
+> - imaging with heterogeneous arrays and combination of
+>   single-dish and interferometric data;
+> - deconvolution methods for single fields and mosaics;
+> - polarization imaging over wide fields.
+>
+> We will include a session for work in small groups, to allow =20
+> developers to exchange or explain code and techniques in detail.
+>
+> Although the workshop will be focused on the immediate needs of =20
+> current cm
+> and mm-wave arrays, we encourage input from those working on low-=20
+> frequency
+> projects and SKA development.
+>
+> The workshop will take place at the Oxford University E-Science =20
+> Research Centre between Dec 1 and 3 2008.  We plan to reserve =20
+> accommodation for workshop participants at one of the Oxford =20
+> Colleges. The meeting is supported by Radionet and Oxford =20
+> Astrophysics. There will be no registration fee and lunches and =20
+> refreshments during the meeting will be provided.  Limited support =20
+> for travel and accommodation will be available from Radionet, =20
+> primarily (but not exclusively) for those working at institutes =20
+> within the EU.
+>
+> For those not able to attend the meeting in person, we plan to provide
+> video-conferencing facilities.
+>
+> =
+http://astrowiki.physics.ox.ac.uk/cgi-bin/twiki/view/Algorithms2008/WebHom=
+e
+> also contains practical information such as accomodation.
+>
+> If you are interesting in attending the meeting, please send an e-=20
+> mail to algorithms2008@astro.ox.ac.uk, including a brief summary of =20=
+
+> your current interests in algorithm requirements, design or =20
+> implementation. If you would like to give a presentation, please =20
+> send us a title.  Attendance will be limited to around 30, so a =20
+> quick reply would help us to plan the meeting effectively. Feel free =20=
+
+> to circulate this message to others you think might be interested, =20
+> particularly students and other young researchers.
+>
+> Radionet support is limited, so we hope that most participants will =20=
+
+> be funded by their home institutes. If you think you will need =20
+> additional support in order to come, please send us an estimate.
+>
+> Scientific Organizing Committee
+>
+> Robert Laing (ESO)
+> Anita Richards (Jodrell Bank Centre for Astrophysics)
+> Frazer Owen (NRAO)
+> Ian Heywood (University of Oxford)
+>
+> Local Organizing Committee
+>
+> Ian Heywood (Astrophysics, University of Oxford)
+> Anita Richards (Jodrell Bank Centre for Astrophysics)
+> Vanessa Ferraro-Wood (Astrophysics, University of Oxford)
+> Kay Sutton (Oxford E-Science Research Centre)
+>
+> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =20=
+
+> - - -
+>
+> Dr. A.M.S. Richards, UK ARC Node/AstroGrid,
+> Jodrell Bank Centre for Astrophysics, Alan Turing Building, =20
+> University of Manchester, M13 9PL
+> +44 (0)161 275 4124
+> and
+> MERLIN/VLBI National Facility, Jodrell Bank Observatory, Cheshire =20
+> SK11 9DL, U.K. +44 (0)1477 571321 (tel) 571618 (fax)
+>
+> "Socialism or barbarism?" Rosa Luxemburg (1915)
+>
+>
+> _______________________________________________
+> Almasci mailing list
+> Almasci@listmgr.cv.nrao.edu
+> http://listmgr.cv.nrao.edu/mailman/listinfo/almasci
+
+

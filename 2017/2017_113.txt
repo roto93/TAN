@@ -1,0 +1,79 @@
+> Date: Thu, 22 Jun 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Ui-Han Zhang (NTU)
+Topic:         Magnetohydrodynamics with GAMER: HybridMPI/OpenMP GPU parallelization in AMR
+Time:         6/26 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+GAMER, a parallel graphic-processing-unit-accerelated adaptive-mesh-refinement hydrodynamic
+code, has been extended to support magnetohydrodynamics (MHD). The
+algorithm for MHD is the corner-transport-upwind (CTU) scheme with the constraint
+transport (CT) technique. The divergent preserving operator for adaptive mesh refinement
+(AMR) is applied to enforce the divergence-free constraint on the magnetic
+field. The overall performance banchmarks are conducted to AMD Opteron Processer
+6276 (16 processing cores) CPU with Tesla K20X GPU. The uniform grid comparison
+between GAMER and Athena++, a well-known and widely used pubic code for Astrophysics,
+is made. It shows that under the same accuracy, GAMER with one GPU
+is able to achieve about 1/30 computation time of Athena++ with Haswell Xeon E5-
+2690v3 which is a 24-processing-cores CPU. Our AMR tests demonstrate that the
+GAMER’s performance is robust and as good as with the uniform grid case. Furthermore,
+with the hybrid the message passing interface (MPI)/Open Multi-Processing
+(OpenMP) parallelization, the computation performance is capable of full exploitation
+of a heterogeneous CPU/GPU cluster with no latency. Finally, a new stability
+test problem of a uniform plasma with Arnold-Beltrami-Childress flow (ABC-flow)
+pattern for the magnetic field is demonstrated for the overall performance examining
+and it gives some interesting results. Roughly speaking, the system with the longest
+wave length of the magnetic field is linearly stable and the second longest one is unstable.
+Furthermore, the unstable one will cast to another stable configuration in which
+only the largest scale structure appears.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Juan-Carlos Algaba (KASI)
+Topic:         Interferometric Monitoring of Gamma-Ray Bright AGNs: Exploring the Variability of the Flat Spectrum Radio Source 4C38.41
+Time:         6/28 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The Interferometric Monitoring of Gamma-ray Bright AGNs (iMOGABA) is a monitoring program for about 30 gamma-ray bright AGNs using the Korean VLBI Network (KVN) at simultaneous frequency bands (22, 43, 86 and 129 GHz) aimed at studying the origins of the gamma-ray flares of AGNs. Here We present observations of the flat spectrum radio quasar 4C 38.41 as part of the iMOGABA program combined with additional observations in radio, optical, X-rays and gamma-rays carried out between the period 2012 March - 2015 August. The monitoring of this source reveals a significant increase in its activity in the radio bands, which correlates with other bands from sub-millimeter to gamma-rays. The epochs of the maxima for the two largest gamma ray flares seem to coincide with the ejection of two respective new VLBI components. The evolution of the flares probes the adiabatic losses in agreement with the shock-in-jet model. Derived synchrotron self absorption magnetic fields, of the order of !
+0.1 mG, do not seem to dramatically change during the flares, and are much smaller than the estimated equipartition magnetic fields, indicating that the source of the flare may be associated with a particle dominated emitting region. This is consistent with considerations suggesting that this region may be located near but downstream the acceleration and collimation region.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Chia-Hsun Chuang (AIP Potsdam)
+Topic:         The Map of the Universe Based on the Positions of Quasars
+Time:         6/29 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+During the first two years of the SDSS’s Extended Baryon Oscillation Spectroscopic Survey (eBOSS), astronomers measured accurate three-dimensional positions for more than 147,000 quasars. We have created the first map of the large-scale structure of the Universe based entirely on the positions of quasars. But to use the map to understand the expansion history of the Universe, we had to go a step further, using a technique involving studying “baryon acoustic oscillations” (BAOs). BAOs are the present-day imprint of sound waves which travelled through the early Universe, when it was much hotter and denser than the Universe we see today. People have previously used the BAO technique on nearby galaxies and then on intergalactic gas distributions to push this analysis farther and farther back in time. The current results cover a range of redshift where they have never been observed before (z ~ 1.5).
+
+The results of the new study confirm the standard model of cosmology that researchers have built over the last twenty years. In this standard model, the Universe follows the predictions of Einstein’s General Theory of Relativity -- but includes components whose effects we can measure, but whose causes we do not understand. Along with the ordinary matter that makes up stars and galaxies, the Universe includes dark matter - invisible yet still affected by gravity - and a mysterious component called “Dark Energy”. Dark Energy is the dominant component at the present time, and it has special properties that cause the expansion of the Universe to speed up.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Charling Tao (Tsinghua University)
+Topic:         What do we know about the Dark Universe?
+Time:         6/30 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+In this talk I will review our present  knowledge about the Dark Universe and the main research areas which are currently shedding some light. Cosmology has become a science. We measure with precision the extent of our ignorance. The Universe today is  dominated by dark energy and dark matter.
+
+Dark Energy could well reduce to the cosmological constant, and within 10 years, we should have results from many surveys which either will find a deviation from a cosmological constant or we will have to explain why the dark energy is so close to a cosmological constant and is not. Unless there is a modification of gravity, our Galaxies and the universe has Dark Matter which nature is still unknown. I will describe some of the attempts to unveil its nature, and maybe open up in the future a new field of Dark Matter astronomy, as we are witnessing today the beginning of gravitational waves astronomy.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

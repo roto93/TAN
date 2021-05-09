@@ -1,0 +1,109 @@
+==============================================================================
+
+From: Thomas Muxlow <tom.muxlow@manchester.ac.uk>
+To: "EMERLIN-ANNOUNCE@listserv.manchester.ac.uk"
+<EMERLIN-ANNOUNCE@listserv.manchester.ac.uk>,
+<evntech@jive.eu>, <vlbi@nrao.edu>, <vera-unyo@nao.ac.jp>,
+<science@jb.man.ac.uk>, <emerlin.support@jb.man.ac.uk>,
+<vsop2newslist@sol.mtk.nao.ac.jp>, <astro@asiaa.sinica.edu.tw>,
+<vlbiobs@atnf.csiro.au>
+CC: Thomas Muxlow <tom.muxlow@manchester.ac.uk>,
+Robert Beswick <Robert.Beswick@manchester.ac.uk>
+Subject: Fw: Cycle-12 e-MERLIN Call for Proposals
+Date: Wed, 24 Mar 2021 15:03:15 +0000
+
+[Our apologies if you receive this multiple times]
+
+
+ [/var/folders/yq/5mxwyzk55r388ksmsx87nkdc0000gp/T/com.microsoft.Outlook/We=
+bArchiveCopyPasteTempFiles/cidimage001.png@01D68CDF.9AE801A0] <http://www.e=
+-merlin.ac.uk/>
+e-MERLIN/VLBI National Radio Astronomy Facility
+www.e-merlin.ac.uk<http://www.e-merlin.ac.uk/>
+Invitation for Proposals: Cycle-12
+Deadline for Receipt of Proposals:
+23:59:59 UT on 13th May 2021
+
+Full Details: http://www.e-merlin.ac.uk/observe.html
+
+
+e-MERLIN requests proposals from the international astronomical community f=
+or observations to be made during Cycle-12. Proposals are competitively pee=
+r-reviewed under standard STFC rules by the Programme Allocation of Telesco=
+pe Time (PATT) e-MERLIN Time Allocation Group. Allocation will be made on t=
+he basis of scientific merit and technical feasibility alone.
+
+e-MERLIN Science: e-MERLIN observations address a broad range of science to=
+pics, http://www.e-merlin.ac.uk/science.html<http://www.e-merlin.ac.uk/scie=
+nce.html%20> and its unique combination of angular resolution (mas) and sen=
+sitivity (microJy) provide crucial insights in multiple science areas inclu=
+ding:
+
+  *   Star-formation and black hole growth in galaxies.
+  *   The physical processes which govern the formation of stars.
+  *   The modes of activity in nearby galaxies.
+  *   Transient radio sources.
+  *   Radio spectral lines (masers and in absorption).
+  *   The energetic processes in relativistic outflows from jets generated =
+by black holes and compact objects.
+  *   Along with multiple other applications.
+
+e-MERLIN provides high angular resolution (12 - 150 milli-arcsec) and high =
+sensitivity (micro-Janksy) imaging at cm wavelengths as well as polarimetry=
+, spectroscopy, and astrometry. e-MERLIN is an SKA-pathfinder instrument pr=
+oviding observations with resolutions and frequencies comparable to those t=
+hat will be provided by SKA1-mid.
+
+
+Cycle-12 e-MERLIN Capabilities
+
+[e-MERLIN observations between August 1st, 2021 and January 31st, 2022 ]
+Deadline for Receipt of Proposals:
+23:59:59 UT on 13th May 2021
+
+                                             Ang. res.    Sensitivity
+L-band (1.25 - 1.75 GHz)      ~150 mas    ~12 uJy/bm*
+  C-band (4.5 - 7.5 GHz)         ~ 40 mas      ~10 uJy/bm*
+K-band (19 - 25 GHz)            ~12 mas      ~130 uJy/bm
+
+
+
+* Assumes inclusion of the Lovell Telescope at L/C-band and a full imaging =
+track (~12hrs including calibration). It is envisaged that a limited amount=
+ of Lovell time will be available for PATT programmes during Cycle 12. The =
+full invitation for proposals, including technical specifications, and link=
+s to the e-MERLIN Sensitivity Calculator are available at: www.e-merlin.ac.=
+uk/observe.html<http://www.e-merlin.ac.uk/observe.html>.
+
+
+Access and financial support for e-MERLIN Scientists and Users: e-MERLIN is=
+ open to all users with projects allocated solely on the basis of scientifi=
+c merit and technical feasibility. Additionally, e-MERLIN is one of the par=
+ticipating infrastructures in the European Union=92s Horizon 2020 research =
+and innovation programme, the OPTICON-RadioNet PILOT project was launched o=
+n March 1st, 2021. This programme will provide facility access and financia=
+l support for users from eligible projects in Cycle-12.  For further inform=
+ation or contact e-MERLIN staff (emerlin@jb.man.ac.uk<mailto:emerlin@jb.man=
+.ac.uk>).
+
+
+
+EVN+e-MERLIN Observations: The full integration of e-MERLIN telescopes with=
+in the European VLBI Network is also available. This mode of observing prov=
+ides e-MERLIN=92s additional 'short-spacing' (10 - 200 km) component availa=
+ble to the EVN which allows imaging of a wider range of spatial scales. Pro=
+posals for e-MERLIN + EVN observations should be made via the EVN Programme=
+ Committee rather than through e-MERLIN directly. The next Call for EVN Pro=
+posals (including combined e-MERLIN + EVN observations) is detailed at www.=
+evlbi.org<http://www.evlbi.org>. The next deadline for EVN proposals is Oct=
+ober 1st , 2021.
+
+
+e-MERLIN/VLBI National Facility, The University of Manchester,
+Jodrell Bank Observatory,
+Macclesfield,
+Cheshire SK11 9DL,
+United Kingdom
+emerlin@jb.man.ac.uk<mailto:emerlin@jb.man.ac.uk>
+
+==============================================================================

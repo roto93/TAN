@@ -1,0 +1,95 @@
+==============================================================================
+
+In this issue (May 12 - 17, 2018)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (May 23): Jonathan Marshall (ASIAA)
+                                  (May 14): Ji-Jia Tang (NTU)
+                                  (May 15): Roger A. Chevalie (U ov Virginia)
+                                  (May 16): Gabriel Torrealba (ASIAA)
+                                  (May 16): Roger A. Chevalie (U ov Virginia)
+                                  (May 17): Cheng, Jen-Chieh (ASIAA)
+2. TTTT seminar at NTHU (May 24): Li-Ting Hsu (徐麗婷)
+
+==============================================================================
+
+> Date: Thu, 17 May 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Jonathan Marshall (ASIAA)
+Topic:         Debris dust as a tracer of planetary system architectures
+Time:         5/23 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Debris discs are tenuous rings of rock and ice around main sequence stars left over from planet formation processes. Their presence, most commonly inferred through the detection of excess emission at infrared wavelengths, is a signpost for the presence of a planetary system around the host star. At millimetre wavelengths, the dust emission is believed to closely trace the unseen belt of dust-producing planetesimals (asteroids and comets). Resolved imaging of debris discs at millimetre wavelengths reveals structures, e.g. azimuthal asymmetries, that can be linked to perturbation of the planetesimal belt by an unseen companion. Here I will present modelling of a sample of debris discs that have been observed at infrared and millimetre wavelengths in order to reveal the size scales of these systems as a function of the host stars' luminosities, and then used that as a ruler to interpret the emission from unresolved systems in order to identify potentially perturbed systems.
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> Subject: TTTT seminar on 24 May at NTHU
+> Date: Thu, 17 May 2018 12:01:05 +0800
+
+
+Dear all,
+
+We will have TTTT seminar at NTHU on 24 May given by
+Dr. Li-Ting Hsu, who is a postdoc in Academia Sinica.
+If you have a request of skype connection, please contact to
+tetsuya@phys.nthu.edu.tw>
+
+
+Title: Near-infrared survey in the GOODS-north field and the
+scientific applicationin the study of AGN host-galaxy properties
+
+Speaker: Dr. Li-Ting Hsu (å¾ éº—å©·)
+
+Time: 12:20-13:00pm 24th May (Thursday)
+
+Venue: R501, IoA, 5th floor in the 2nd General Building
+
+Abstract: To understand the evolution of AGNs and galaxies,
+near-infrared (NIR) imaging is essential because: (1) NIR can
+used to identify Balmer break of galaxies at 1<z<4, (2) NIR
+luminosity reflects the stellar mass of galaxies, and (3) NIR is
+less affected by the dust extinction comparing to optical
+observation. In this talk, I will present the result of our deep NIR
+images (J, H, and Ks) in the extended Great Observatories Origins
+Deep Survey-North (GOODS-N) field using the instrument
+CFHT/WIRCAM. The data reaches 5-sigma limiting AB magnitudes
+(in 2â€  aperture) of J=24.6 mag, H=23.8 mag, and Ks=24.1 mag
+over ~0.25 deg^2 .Â In addition to the NIR images, I will present the
+results of the photometric redshifts (photo-z) using the
+multi-wavelength photometry collected from UV to IR. Based on
+this results, I will also talk about our ongoing science, which is the
+study of the connection between AGNs and their host-galaxy
+properties. We make two corrections to get more accurate
+emission from the AGN host galaxies by dust de-reddening and
+subtracting the AGN contribution via SED decomposition.
+I will show our preliminary results in the talk.
+
+With best regards,
+Tetsuya Hashimoto
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

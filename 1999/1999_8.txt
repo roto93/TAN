@@ -1,0 +1,828 @@
+From kyl@asiaa.sinica.edu.tw Wed Jan 13 10:17:15 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA09270; Wed, 13 Jan 1999 10:16:29 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA11485; Wed, 13 Jan 1999 10:13:56 +0800
+Date: Wed, 13 Jan 1999 10:13:56 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MC Newsletter 28 (fwd)
+Message-Id: <Pine.GSO.3.96.990113101353.11358A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 29529
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 11 Jan 1999 17:59:06 -0600 (CST)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: MC Newsletter 28
+Resent-Date: Mon, 11 Jan 1999 17:59:35 -0600 (CST)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+
+\documentstyle[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\fboxsep=4.5pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+\def\vinfty{$v_{\infty}$}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\mdot{\.M}
+\def\msunyr{($M_{\odot}\,{\rm yr}^{-1}$)}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+% "less than or approximately"
+\def \la{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+<\cr\sim\cr}}}}}
+
+% "greater than or approximately" 
+\def \ga{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\sim\cr}}}}}
+
+
+\begin{document}
+
+{\fbox{{\fbox{\parbox[]{17cm}{
+\bigskip
+\smallskip
+\centerline{\Huge{\sc The Magellanic Clouds Newsletter}}
+\bigskip
+\centerline{\Large \bf An electronic exchange on Magellanic Clouds research}
+\bigskip
+\smallskip
+\centerline{\bf Edited by\, Eva K.\ Grebel and You-Hua Chu}
+\smallskip
+\centerline{{\tt mcnews@astro.uiuc.edu}}
+\medskip    
+\centerline{{\tt http://www.astro.uiuc.edu/mcnews/MCNews.html}}
+\centerline{{\tt http://www.astro.uni-bonn.de/\~{}mcnews/}}
+% THAT IS http://www.astro.uni-bonn.de/~mcnews/
+\bigskip
+\smallskip
+\hspace{0.5cm} {\Large\it{No.\ 28}} \hspace{10cm} {\Large\it{January 10, 1999}}
+}}}}
+
+
+\bigskip\noindent
+
+\bigskip
+\bigskip
+
+\begin{center}
+{\LARGE\sc{Contents}} 
+\bigskip
+\bigskip
+
+\begin{tabular}{lr}
+News                               & 1 \\
+Abstracts of 11 refereed papers     & 2 \\
+%Abstracts of 8 non-refereed papers & 10\\
+%Conference announcement           & 12\\
+Job opportunity                    & 9 \\
+\end{tabular}
+\end{center}
+
+%\hrulefill
+\bigskip
+\bigskip
+\bigskip
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{1.7cm}{
+%{\LARGE\bf{\sc News}}}
+{\LARGE\bf{News}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+\centerline{\Large \bf Catalog of Eclipsing Binary Stars in the SMC}
+\centerline{\Large \bf available over the Internet}
+\bigskip
+
+\bigskip 
+The OGLE-II  microlensing search team announces release of the catalog  
+of eclipsing binary stars from central part of the Small Magellanic
+Cloud. The catalog contains 1459 eclipsing systems.             \\ 
+
+The catalog, finding charts and {\it BVI} photometry data for all
+objects  are  available from the OGLE Internet archive:
+
+\centerline{{\tt http://www.astrouw.edu.pl/\~{}ftp/ogle}\, or its
+mirror} 
+\centerline {\tt http://www.astro.princeton.edu/\~{}ogle}
+ 
+\bigskip
+ 
+\noindent
+{\it Andrzej Udalski}
+
+
+
+\bigskip
+
+\centerline{\rule{3cm}{0.2mm}}
+\bigskip
+\bigskip
+
+{\large \it
+\centerline{Best wishes for a happy and productive year 1999!}
+}
+ 
+
+\newpage
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{9cm}{
+{\LARGE\bf{Abstracts of Refereed Papers}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+
+\begin{center}
+{\Large\bf   The Supergiant Shell LMC\,2:\\ I. The Kinematics and Physical
+Structure}
+\end{center}
+\centerline{\bf S. D. Points$^{1,6}$, Y.-H. Chu$^{1,6}$, S. Kim$^{1,2}$, 
+R. C. Smith$^{3,6}$,}
+\centerline{\bf  S. L. Snowden$^{4,7}$, W. Brandner$^{1,8}$, R. A. 
+Gruendl$^{5}$}
+{\footnotesize  $^1$  Astronomy Dept., University of Illinois, 1002 W. 
+Green St. Urbana, IL 61801, USA \\
+                $^2$  Mount Stromlo and Siding Spring Observatories, 
+Weston Creek Post Office, ACT 2611, Australia \\
+                $^3$  Dept. of Astronomy, University of Michigan, 834 
+Dennison, Ann Arbor, MI 48109, USA \\
+                $^4$  NASA/Goddard Space Flight Center, Code 662, 
+Greenbelt, MD 20771, USA \\
+                $^5$  Laboratory for Astron.\ Imaging, Astronomy Dept.,
+University of Illinois, 1002 W. Green St., Urbana, IL 61801, USA \\
+                $^6$  Visiting Astronomer, Cerro Tololo Inter-American 
+Observatory (CTIO), National Optical Astronomy Obs.\ (NOAO) \\
+                $^7$  Universities Space Research Association \\
+                $^8$  Caltech - JPL/IPAC, Mail Code 100-22, Pasadena, CA, 
+91125, USA \\}
+
+LMC\,2 has the brightest most coherent filamentary structure of all 
+known supergiant shells in the Large Magellanic Cloud.  The optical
+emission line images show active star formation regions along the 
+western edge and long filaments to the east.  {\it ROSAT \/} PSPC and 
+HRI images show bright X-ray emission from within the shell boundary,
+indicating the presence of hot gas.  Counter-intuitively, neither
+high-resolution echelle spectra in the H$\alpha$ line nor aperture 
+synthesis H\,{\sc i} 21-cm emission line observations show LMC\,2 to 
+have the kinematics expected of an expanding shell.  Rather, LMC\,2 
+appears to consist of hot gas confined between H\,{\sc i} sheets.  The 
+interior surfaces of these sheets are ionized by the UV flux of massive 
+stars in the star formation regions along the periphery of LMC\,2, while 
+the heating is provided by outflows of hot gas from the star formation 
+regions and by SNRs interior to LMC\,2.  
+ 
+We have compared LMC\,2 to other supergiant shells in the LMC
+and in more distant galaxies.  When the spatial resolution of our
+data are degraded, we find that LMC\,2 resembles supergiant shells
+observed at a distance of 4~Mpc that have previously been interpreted 
+as expanding shells.  Therefore, great caution should be exercised in
+the analysis and interpretation of the kinematics of distant supergiant 
+shells to prevent overestimates of their velocities and total kinetic 
+energies.\\ 
+
+
+
+{\bf   Accepted by:\, The Astrophysical Journal}
+\\
+{\it For preprints, contact\,} {\tt points@astro.uiuc.edu  }\\
+{\it Also available from the URL\, } 
+{\tt http://www.astro.uiuc.edu/\~{}points }\\
+% THAT IS http://www.astro.uiuc.edu/~points
+\bigskip
+
+%========================================================================
+\newpage
+
+
+\begin{center}
+{\Large\bf  On the model of dust in the Small Magellanic Cloud
+}
+\end{center}
+\centerline{\bf       Victor G.\ Zubko$^{1,2}$
+}
+{\footnotesize  $^1$  Department of Physics, Technion -- Israel Institute
+                      of Technology, Haifa 32000, Israel
+         \\     $^2$  On leave from the Main Astronomical Observatory,
+                      National Academy of Sciences of the Ukraine, Kiev
+}\\
+
+We present here dust models for the Small Magellanic Cloud bar calculated
+for the first time with the regularization approach. A simple mixture
+of the core--mantle and/or composite grains (mostly made from silicates
+and organic refractory) together with silicon nanoparticles is consistent
+with the following: 1) the observed extinction toward AzV 398 (a typical SMC
+bar sightline), 2)~the~elemental abundances, and 3) the strength of
+the interstellar radiation field. We predict the expected albedo and
+asymmetry
+parameter of the models, which can be tested in future observations.
+The proposed dust models can also be tested by looking for the expected
+extended red emission.
+\\
+
+{\bf   Accepted by:\, Astrophysical Journal Letters
+}\\
+{\it For preprints, contact\, }       {\tt  
+zubko@phquasar.technion.ac.il}\\
+{\it Also available from the URL\, }  {\tt  
+http://physics.technion.ac.il/\~{}zubko/eb.html}\\
+\bigskip
+
+%========================================================================
+
+
+
+\begin{center}
+{\Large\bf The detection of extragalactic $^{15}$N:\\
+           Consequences for nitrogen nucleosynthesis and chemical evolution}
+\end{center}
+\centerline{\bf Y.-N.\ Chin$^1$, C.\ Henkel$^{2,3}$, N.\ Langer$^4$,
+                R.\ Mauersberger$^5$}
+{\footnotesize
+ $^1$  Institute of Astronomy and Astrophysics, Academica Sinica,
+       P.O.Box 1-87 Nankang, 11529 Taipei, Taiwan \\
+ $^2$  Max-Planck-Institut f\"ur Radioastronomie,
+       Auf dem H\"ugel 69, D-53121 Bonn, Germany \\
+ $^3$  European Southern Observatory, Casilla 19001, Santiago 19, Chile \\
+ $^4$  Institut f\"ur Physik, Universit\"at Potsdam,
+       Am Neuen Palais 10, D-14469 Potsdam, Germany \\
+ $^5$  Steward Observatory, The University of Arizona,
+       Tucson, AZ 85721, USA
+}\\
+
+   Detections of extragalactic $^{15}$N are reported from observations of the
+   rare hydrogen cyanide isotope HC$^{15}$N toward the Large Magellanic Cloud
+   (LMC) and the core of the (post-) starburst galaxy NGC\,4945.
+   Accounting for optical depth effects, the LMC data from the massive
+   star-forming region N113 infer a $^{14}$N$/^{15}$N ratio of 111 $\pm$ 17,
+   about twice the $^{12}$C$/^{13}$C value.
+   For the LMC star-forming region N159HW and for the
+   central region of NGC\,4945, $^{14}$N$/^{15}$N ratios are also $\approx$ 100.
+   The $^{14}$N$/^{15}$N ratios are smaller than all interstellar nitrogen
+   isotope ratios measured in the disk and center of the Milky Way,
+   strongly supporting the idea that $^{15}$N is predominantly of `primary'
+   nature, with massive stars being its dominant source.
+   Although this appears to be in contradiction with standard stellar evolution
+   and nucleosynthesis calculations, it supports recent findings of abundant
+   $^{15}$N production due to rotationally induced mixing of
+   protons into the helium-burning shells of massive stars.
+\\
+
+{\bf   Accepted by:\, Astrophysical Journal Letters
+}\\
+{\it For preprints, contact\, }           {\tt einmann@asiaa.sinica.edu.tw }\\
+{\it Also available from the URL\, }
+                             {\tt http://xxx.lanl.gov/abs/astro-ph/9812375 }\\
+\bigskip
+
+%========================================================================
+
+\newpage
+
+
+\begin{center}
+{\Large\bf            Dust in R~71: First detection of crystalline silicates
+in the LMC
+}
+\end{center}
+\centerline{\bf	
+        R.H.M.\ Voors$^{1,2}$,
+        L.B.F.M.\ Waters$^{3,4}$, 
+        P.W.\ Morris$^{1,3}$, 
+	N.R.\ Trams$^{5}$,}
+\centerline{\bf 
+        A.\ de Koter$^{3}$ and
+        J.\ Bouwman$^{3}$
+}
+{\footnotesize	$^1$  SRON Laboratory for Space Research, Sorbonnelaan 2, 
+			3584 CA Utrecht, The Netherlands\\
+		$^2$  Astronomical Institute, University of Utrecht,
+			Princetonplein 5, 3508 TA Utrecht, The Netherlands\\
+		$^3$  Astronomical Institute Anton Pannekoek, University of 
+			Amsterdam, Kruislaan 403, 1098 SJ Amsterdam, 
+			The Netherlands\\
+		$^4$  SRON Laboratory for Space Research, PO Box 800, 
+			9700 AV Groningen, The Netherlands\\
+		$^5$  Integral Science Operations, Astrophysics Division 
+			of ESA, ESTEC SCI-SAG, PO Box 299, 2200 AG Noordwijk, 
+			The Netherlands\\
+}\\
+
+We present infrared spectroscopy taken with the Infrared Space
+Observatory (ISO) of the Luminous Blue Variable (LBV) R71 in the Large 
+Magellanic Cloud (LMC). The spectrum shows clear evidence for the
+presence of crystalline olivine at 23.5 $\mu$m. This is the first 
+detection of circumstellar crystalline silicates 
+outside our galaxy. In addition, we 
+identify emission at 6.2, 7.7 and possibly 8.6 $\mu$m from C-rich small
+grains (PAHs). The presence of C-rich grains is not expected in 
+an environment where C/O is less than 1. We fit the
+dust spectrum using a radiative transfer model and find a dust mass of
+0.02 M$_{\odot}$. R71 was probably a Red Supergiant when it produced
+the dust shell and had a time-averaged mass loss rate of the order of
+$7\times10^{-4}$ M$_{\odot}$\,yr$^{-1}$ for a gas/dust ratio of 100. 
+\\
+
+{\bf   To appear in:\, Astronomy and Astrophysics, 341, L67}\\
+{\it For preprints, contact\, }       {\tt   voors@phys.uu.nl}\\
+{\it Also available from the URL\, }  {\tt   http://www.phys.uu.nl/~voors/papers.html}\\
+{\it or by anonymous ftp at\, }       {\tt   ruunat.phys.uu.nl/pub/astronomy/voors/r71/r71.ps}\\
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf The Circumstellar Extinction of Planetary Nebulae }
+\end{center}
+\centerline{\bf       R.\ Ciardullo$^1$ and G.H.\ Jacoby$^2$
+}
+{\footnotesize  $^1$Department of Astronomy and Astrophysics, 
+Penn State University, 525 Davey Lab, University Park, PA 16802
+         \\     $^2$Kitt Peak National Observatory, 
+National Optical Astronomy Observatories, P.O.\ Box 26732, Tucson, AZ 85726
+}\\
+
+We analyze the dependence of circumstellar extinction on core mass
+for the brightest planetary nebulae (PNe) in the Magellanic Clouds and M31.
+We show that in all three galaxies, a statistically significant correlation 
+exists between the two quantities, such that high core mass objects have 
+greater extinction.  We model this behavior, and show that the relation is 
+a simple consequence of the greater mass loss and faster evolution times of 
+high mass stars.  The relation is important because it provides a natural
+explanation for the invariance of the [O~III] $\lambda 5007$ planetary
+nebula luminosity function (PNLF) with population age: bright Population~I
+PNe are extinguished below the cutoff of the PNLF{}.
+It also explains the counter-intuitive observation that intrinsically
+luminous Population~I PNe often appear fainter than PNe from older, low-mass
+progenitors.
+\\
+
+{\bf   Accepted by:\, The   Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       {\tt   rbc@astro.psu.edu  }\\
+{\it Also available from the URL\, } 
+{\tt http://www.astro.psu.edu/users/rbc/chem$\_\_$pubs.html    }\\
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf Spatially Resolved Nebulae around the Ofpe/WN9 stars S61
+and BE381}
+\end{center}
+\centerline{\bf       A. Pasquali$^1$, A. Nota$^2$ and M. Clampin$^2$
+}
+{\footnotesize  $^1$ ST-ECF/ESO, Karl-Schwarzschild-Strasse 2, D-85748,
+		     Garching bei M\"unchen, Germany
+         \\     $^2$ Space Telescope Science Institute, 3700 San Martin
+	             Drive, Baltimore, MD 21218, USA
+}\\
+
+We present new high-resolution coronographic imaging and
+medium-resolution spectroscopy of the circumstellar region around S61
+and BE381, two Ofpe/WN9 stars in the Large Magellanic Cloud.  The
+observations were carried out at the ESO/NTT (La Silla) in January
+1996 and July 1998. The excellent seeing conditions allowed
+the circumstellar nebulae associated with both S61
+and BE381 to be spatially resolved for the first
+time. The nebula surrounding S61 has the appearance of a shell with a mild
+central axisymmetry.  The  surface brightness is not uniform, and the
+northern region of the nebula is the brightest. The nebula exhibits a bipolar
+structure with an overall morphology very similar to nebulae around
+other LBVs or Opfe/WN9 stars, especially S119.
+The diameter of the shell is  7.3$''$, corresponding to a linear size
+of 1.8 pc. From the profile of nebular emission lines we clearly
+detect an expansion motion with a velocity of 28 km s$^{-1}$, which
+indicates a dynamical age of $\sim$ 30000 yrs.  We find an electron
+density of 400 cm$^{-3}$ and an electron temperature of 6120 K.
+The nebula is simular to other LBV nebulae in that it is nitrogen enriched.
+The observed chemical and dynamical properties
+confirm that the nebula is associated with  the central star and is of
+stellar origin.  This result implies that S61 is likely to have
+undergone a LBV-type outburst and, therefore, strengthens the suggestion
+that Ofpe/WN9 stars are quiescent LBVs.
+The situation is  different for BE381.  The H$\alpha$ images of  BE381
+also reveal the presence of a faint nebulosity around the star; most of
+the nebular flux appears to be emitted by an arc of gas located to the
+east of BE381, while a much dimmer arc is detectable on the western
+side. The arcs delineate a shell of 13$''$ in diameter, corresponding to
+a linear size of  3.2 pc, which  appears to be expanding with a
+velocity of  14 km s$^{-1}$. From the nebular emission lines
+we derive an  electron density ranging between 30 cm$^{-3}$ and 120
+cm$^{-3}$ (assuming T$_e$ = 10000 K), and a N$^+$/S$^+$ ratio between
+1.5 and 2.3, which are  typical of HII regions.  We therefore conclude
+that the shell detected around BE381 is not of stellar origin and
+probably represents the relic of the interstellar bubble blown by BE381
+during its O main-sequence phase.
+\\
+
+{\bf   Accepted by:\,  Astronomy \& Astrophysics 
+}\\
+{\it For preprints, contact\, }       {\tt   apasqual@eso.org }\\
+\bigskip
+
+%========================================================================
+
+
+
+\begin{center}
+{\Large\bf  A ROSAT PSPC X-Ray Survey of the Small Magellanic Cloud
+}
+\end{center}
+\centerline{\bf P. Kahabka $^1$ W. Pietsch $^2$ M.D. Filipovi\'c $^{2,3,4}$ 
+            and F. Haberl$^2$
+}
+{\footnotesize  $^1$  Astronomical Institute and Center for High Energy
+                      Astrophysics, University of Amsterdam, Kruislaan 403, 
+                      NL--1098 SJ Amsterdam, The Netherlands
+         \\     $^2$  Max-Planck-Institut f\"ur extraterrestrische Physik,
+                      D--85740 Garching bei M\"unchen, Germany
+         \\     $^3$  University of Western Sydney, Nepean, P.O. Box 10,
+                      Kingswood, NSW 2747, Australia
+         \\     $^4$  Australia Telescope National Facility, CSIRO, 
+                      P.O. Box 76, Epping, NSW 2121, Australia
+}\\
+
+  We present the results of a systematic search for point-like and moderately
+  extended soft (0.1-2.4~keV) X-ray sources in a raster of nine pointings 
+  covering a field of $8.95\ {\rm deg}^2$ and performed with the {\sl ROSAT}
+  {\sl PSPC} between October~1991 and October~1993 in the direction of the 
+  Small Magellanic Cloud (SMC). We detect 248 objects which we include in 
+  the first version of our SMC catalogue of soft X-ray sources. We 
+  set up seven source classes defined by selections in the count rate, 
+  hardness ratio and source extent. We find five high luminosity super-soft 
+  sources (1E~0035.4-7230, 1E~0056.8-7146, RX~J0048.4-7332, RX~J0058.6-7146
+  and RX~J0103-7254), one low-luminosity super-soft source RX~J0059.6-7138 
+  correlating with the planetary nebula L357, 51 candidate hard X-ray binaries
+  including eight bright hard X-ray binary candidates, 19 supernova remnants 
+  (SNRs), 19 candidate foreground stars and 53 candidate background active 
+  galactic nuclei (and quasars). We give a likely classification for 
+  $\sim$60\% of the catalogued sources. The total count rate of the detected 
+  point-like and moderately extended sources in our catalogue is $6.9\pm0.3$ 
+  s$^{-1}$, comparable to the background subtracted total rate from the 
+  integrated field of $\sim6.1\pm0.1$ s$^{-1}$. 
+\\
+
+{\bf   Accepted by:\, Astronomy \& Astrophysics Supplements
+}\\
+{\it For preprints, contact\, }       {\tt ptk@astro.uva.nl  }\\
+{\it Also available from the URL\, }  {\tt xxx.lanl.gov/abs/astro-ph/9812143}\\
+\bigskip
+%========================================================================
+
+
+
+\begin{center}
+{\Large\bf  The Optical Gravitational Lensing Experiment. \\
+\vskip3pt
+Eclipsing Binary Stars in the Small Magellanic Cloud
+}
+\end{center}
+
+\centerline{\bf A.~Udalski$^1$, I.~Soszy{\'n}ski$^1$, M.~Szyma{\'n}ski$^1$}
+\centerline{\bf M.~Kubiak$^1$, G.~Pietrzy\'nski$^1$, P.~Wo\'zniak$^2$,}
+\centerline{\bf and K.~\.Zebru\'n$^1$}
+{\footnotesize   
+\noindent
+$^1$  Warsaw University Observatory, Al.~Ujazdowskie~4, 00-478~Warszawa,
+Poland\\
+$^2$  Princeton University Observatory, Princeton, NJ 08544-1001, USA
+}\\
+
+We present the catalog of 1459 eclipsing binary stars detected
+in the  central 2.4 square degree area of the Small Magellanic Cloud
+during the  OGLE-II microlensing search. The sample includes objects
+brighter than  ${I\approx 20}$~mag with periods ranging from about 0.3
+to 250 days. The  average completeness of the catalog is about 80\%.
+Statistics of the  entire sample and well detached systems, suitable for
+distance determination, are also presented.
+ 
+The catalog, finding charts and {\it BVI} photometry data for all
+objects  are  available from the OGLE Internet archive.
+\\
+
+{\bf   Accepted by:\, Acta Astronomica 48, 563.
+}\\
+{\it For preprints, contact\, }       {\tt   udalski@sirius.astrouw.edu.pl }\\
+{\it Also available from the URL\, }  {\tt 
+http://xxx.lanl.gov/abs/astro-ph/9812348}\\
+\bigskip
+
+%========================================================================
+
+\newpage
+
+
+\begin{center}
+{\Large\bf  Interacting star clusters in the LMC\\  Overmerging problem solved by cluster group formation
+}
+\end{center}
+\centerline{\bf     St\'ephane Leon$^{1,2}$, Gilles Bergond$^{2,3}$, and Antonella Vallenari$^4$
+}
+{\footnotesize   $^1$ DEMIRM, Observatoire de Paris, 61, Av.\ de l'Observatoire,
+                F-75014 Paris, France 
+        \\       $^2$ CAI-MAMA,
+                Observatoire de Paris,
+                61, Av.\ de l'Observatoire,  F-75014 Paris, France
+	\\	$^3$ DASGAL, Observatoire de Paris-Meudon,
+                5, Place J.\ Janssen
+                F-92195 Meudon, France
+	\\	$^4$ Astronomical Observatory of Padova, 
+                Vicolo dell'Osservatorio 5, 
+                I-35122 Padova, Italy
+}\\
+
+We present the tidal tail distributions of a sample 
+of candidate binary clusters located in the bar of the 
+Large Magellanic Cloud (LMC). One isolated cluster, SL~268, 
+is presented in order to study the effect of the LMC tidal 
+field. All the candidate binary clusters show tidal tails, 
+confirming that the pairs are formed by physically linked
+objects. The stellar mass in the tails covers a large range,
+from $1.8\times 10^3$ to $3\times 10^4$~M$_\odot$. We derive a 
+total mass estimate for SL~268 and SL~356. At large radii, 
+the projected  density profiles of SL~268 and SL~356 fall 
+off as $r^{-\gamma}$, with $\gamma= 2.27$ and $\gamma=3.44$,
+respectively. Out of 4 pairs or multiple systems, 2 are 
+older than the theoretical survival time of binary clusters 
+(going from a few $10^6$ years to $10^8$ years). A pair shows too 
+large age difference between the  components to be consistent 
+with classical theoretical models of binary cluster formation 
+(Fujimoto \& Kumai 1997). 
+
+We refer to this as the 
+``overmerging'' problem. A different scenario is proposed: 
+the formation  proceeds in large molecular complexes giving 
+birth to groups of clusters over a few $10^7$ years. In these 
+groups the expected cluster encounter rate is larger, and 
+tidal capture has higher probability. Cluster pairs are not 
+born together through the splitting of the parent cloud,
+but formed later by tidal capture. For 3 pairs, we 
+tentatively identify the star cluster group (SCG) 
+memberships. The SCG formation, through the recent cluster 
+starburst triggered by the LMC-SMC encounter, in contrast 
+with the quiescent open cluster formation in the Milky Way
+can be an explanation to the paucity of binary clusters 
+observed in our Galaxy.\\
+
+{\bf   Accepted by:\, Astronomy \& Astrophysics Main Journal
+}\\
+{\it For preprints, contact\, }       {\tt   Gilles.Bergond@obspm.fr  }\\
+{\it Also available from the URL\, }  
+{\tt   http://xxx.lanl.gov/astro-ph/9812112    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+\bigskip
+
+%========================================================================
+
+
+
+
+
+\begin{center}
+{\Large\bf            Microlensing towards the Small Magellanic Cloud --- EROS
+2 two-year analysis
+}
+\end{center}
+\centerline{\bf       EROS Collaboration
+}
+
+We present here the analysis of the first two years of data towards the
+Small Magellanic Cloud with the {\em EROS} (Exp\'erience de Recherche
+d'Objets Sombres) project. A single event is detected, already present
+in the first year analysis. This low event rate allows us to constrain
+the halo fraction in the mass range [$10^{-2}$, $1$]$\:{\rm
+M}_{\odot}$.
+\\
+
+{\bf   Submitted to:\,   Astrophysical Journal Letters
+}\\
+{\it For preprints, contact\, }   {\tt   aubourg@hep.saclay.cea.fr }\\
+{\it Also available from the URL\, } {\tt
+http://xxx.lanl.gov/abs/astro-ph/9812173}\\
+\bigskip
+
+
+
+
+\begin{center}
+{\Large\bf Observations of the Binary Microlens Event MACHO-98-SMC-1
+          by the Microlensing Planet Search Collaboration 
+}
+\end{center}
+\centerline{\bf S.H.\ Rhie$^1$, A.C.\ Becker$^{1,2}$, D.P.\ Bennett$^{1,3}$,
+P.C.\ ~Fragile$^1$,}
+\centerline{\bf  B.R.\ Johnson$^5$, L.J.\ King$^{1,3}$, B.A.\ Peterson$^4$,
+and J.\ Quinn$^1$
+}
+\begin{center}
+{\bf (The Microlensing Planet Search Collaboration) }\\
+\end{center}
+}
+{\footnotesize $^1$ Department of Physics, University of Notre Dame, Notre Dame,
+IN 46556, USA 
+\\ $^2$ Departments of Astronomy and Physics,
+  University of Washington, Seattle, WA 98195, USA
+\\ $^3$ Center for Particle Astrophysics,
+  University of California, Berkeley, CA 94720, USA
+\\ $^4$ Mt.~Stromlo and Siding Spring Observatories,
+  Australian National University, Weston, ACT 2611, Australia
+\\ $^5$ Tate Laboratory of Physics, University of Minnesota,
+  Minneapolis, MN 55455, USA 
+}\\ 
+
+We  present the observations of the  binary lensing event
+MACHO-98-SMC-1  conducted at the Mt.~Stromlo 74" telescope
+by the Microlensing Planet Search (MPS) collaboration.
+The MPS data constrain the first caustic crossing to have occurred
+after 1998 June 5.55 UT and thus directly rule out one of the two
+fits presented by the PLANET collaboration (model II).
+This substantially reduces the uncertainty in the the relative proper
+motion estimations of the lens object.
+
+We perform joint binary microlensing fits of the MPS data together with
+the publicly available data from the EROS, MACHO/GMAN and OGLE
+collaborations.   We also study the binary lens fit parameters
+previously published by the PLANET and MACHO/GMAN collaborations by using
+them as initial values for $\chi^2$ minimization.  Fits based on
+the PLANET model I appear to be in conflict with the
+GMAN-CTIO data.  From our best fit, we find that the lens system has a
+proper motion of $\mu = 1.3\pm 0.2$ km s$^{-1}$ kpc$^{-1}$ with respect to the 
+source, which implies that the lens system is most likely to be located in the
+Small Magellanic Cloud in agreement with previous reports.
+\\ 
+
+{\bf Submitted to:\, The Astrophysical Journal  
+}\\ 
+{\it Also available from the URL\, } 
+{\tt http://xxx.lanl.gov/abs/astro-ph/9812252 }\\ 
+\bigskip 
+
+
+
+
+
+%========================================================================
+
+
+\bigskip
+\bigskip
+\bigskip
+
+%\bigskip
+%\centerline{  
+%{\fbox{\parbox[]{10.3cm}{
+%{\LARGE\bf{Abstracts of Non-Refereed Papers}}
+%}}}}
+%\bigskip
+%
+%\bigskip
+%\bigskip
+
+
+
+
+%========================================================================
+
+\bigskip
+\bigskip
+\bigskip
+\bigskip
+
+\newpage
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{5.0cm}{
+{\LARGE\bf{Job Opportunity}}
+}}}}
+\smallskip
+
+\bigskip
+\bigskip
+
+
+\begin{center}
+{\Large\bf  Postdoctoral Position at University of Arizona,\\ 
+Steward Observatory}
+\end{center}
+
+The {\bf University of Arizona Department of Astronomy} is soliciting
+applications for {\bf postdoctoral positions} working with Dr.\ Dennis Zaritsky
+beginning fall 1999 at Steward Observatory.  One, and possibly two,
+positions will be filled. The target research areas include the
+{\bf properties of dust in galaxies, the stellar populations of the
+Magellanic Clouds, and the properties of high redshift galaxy clusters.}
+Within this range of topics, the successful applicant(s) will define
+their research to best match their interests. The successful applicant
+will have access to Dr.\ Zaritsky's ongoing Magellanic Clouds Photometric
+Survey and galaxy cluster survey, and to the full range of facilities at
+Steward Observatory (which include the 6.5m MMT, the 2.3 Bok Telescope,
+the SMT, and several smaller telescopes: see {\tt http://www.as.arizona.edu}).\\
+ 
+Applicants must be able to assume the position in the {\bf fall of 1999} and
+must complete all requirements for a Ph.D. in astronomy or related field
+before assuming the position.  The position is for {\bf two years}, with the
+possibility of a merit-based extension for a third year. Applicants
+should send a curriculum vitae, bibliography, a statement of research
+interests, and arrange for three reference letters to be sent to\\
+
+Prof.\ Dennis Zaritsky
+
+Steward Observatory
+
+University of Arizona
+
+Tucson, Arizona 85721
+
+USA\\
+
+Applicant review will begin February 1, 1999, and continue until at
+least one position is filled.  Please refer to job \# 13012.\\
+ 
+The University of Arizona is an EEO/AA employer  M/W/D/V.
+
+
+\bigskip
+
+%========================================================================
+
+
+%\bigskip\noindent
+%\centerline{
+%{\fbox{\parbox[]{7.2cm}{
+%{\LARGE\bf{Meeting Announcement}}
+%}}}}
+%\smallskip
+
+
+\end{document}
+
+
+
+

@@ -1,0 +1,280 @@
+==============================================================================
+
+In this issue (Sep 29 - Oct 07, 2017)
+
+1. Presentation files used in the ALMA pipeline meeting are now available
+2. Postdoctoral Positions in Observation, Theory, or Instrumentation at ASIAA
+3. Call for Proposals of VERA 2018A
+4. ASIAA Colloquium/Seminar/Lunchtalk (Oct 11): I-Non Chiu (ASIAA)
+                                      (Oct 12): Yen-Chen Pan (UCSC)
+
+==============================================================================
+
+> Date: Fri, 29 Sep 2017 13:55:41 +0800
+> Subject: Re: ALMA pipeline meeting
+> To: riaa@asiaa.sinica.edu.tw, alma-taiwan@asiaa.sinica.edu.tw
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear all,
+
+Find the links for the two files we used in our ALMA pipeline meeting,
+for both the introduction/notes and example cases.
+
+Apologies for the delay in circulating this.
+
+Regards,
+Alfonso
+
+
+
+http://alma.asiaa.sinica.edu.tw/_downloads/Pipeline_examples_v2.pdf
+http://alma.asiaa.sinica.edu.tw/_downloads/alma-pipe.pdf
+
+On 15 September 2017 at 13:26, Trejo-Cruz Alfonso <trejo@asiaa.sinica.edu.t=
+w
+> wrote:
+
+> Dear all,
+>
+> we are starting the meeting in 5 mins.
+>
+> Alfonso
+>
+> On 14 September 2017 at 14:31, Trejo-Cruz Alfonso <
+> trejo@asiaa.sinica.edu.tw> wrote:
+>
+>> Dear all,
+>>
+>> I reminder of our ALMA-pipeline meeting with examples,
+>> tomorrow in R1203, from 1:30 to 3:30 pm.
+>>
+>> Regards,
+>> Alfonso
+>>
+>>
+>>
+>> On 30 August 2017 at 18:20, Trejo-Cruz Alfonso <trejo@asiaa.sinica.edu.t=
+w
+>> > wrote:
+>>
+>>>
+>>> Dear all,
+>>>
+>>> ALMA and the ARCs have been increasing the fraction of the observations
+>>> that go through the pipeline, for both calibration and imaging stages. =
+More
+>>> and more PIs and archive users are encountering Scheduling Blocks (SB),=
+the
+>>> basic constituents of an ALMA delivery, processed by the pipeline.
+>>>
+>>> The ARC Taiwan node is organizing a short meeting for users interested
+>>> in learning more about he pipeline deliveries and how to modify its
+>>> results. The topics to be covered are:
+>>> - Basic structure and files found in an ALMA pipeline delivery
+>>> - Files/plots for quick assessment of calibration and imaging quality
+>>> - Way to change/modify the pipeline results
+>>> - Cases when is better to calibrate/image manually instead
+>>> - Examples
+>>>
+>>> The meeting will be on September 15, from 1:30 to 3:30 pm. Users
+>>> interested in the
+>>> above topics are encouraged to attend.
+>>>
+>>> ALMA provides some material that is expected to get more extensive as
+>>> the pipeline matures and provides for tools for users.
+>>> It is not necessary to read through the documents in advance however.
+>>>
+>>>    CASAGuide page
+>>>        https://casaguides.nrao.edu/index.php/ALMA_Imaging_Pipeline_
+>>> Reprocessing
+>>>
+>>>    Pipeline User=E2=80=99s Guide
+>>>    https://almascience.nrao.edu//documents-and-tools/alma-scie
+>>> nce-pipeline-users-guide-casa-4.7.0
+>>>
+>>> Let us know in the doodle below if you plan to attend, so we know how
+>>> many people to expect.
+>>>
+>>> https://doodle.com/poll/ttzxi5kseqgark6g
+>>>
+>>>
+>>> Regards,
+>>>
+>>> Alfonso
+>>> on behalf of the ARC
+>>>
+>>
+>>
+>
+
+==============================================================================
+
+> From: Yen-Ting Lin <ytl@asiaa.sinica.edu.tw>
+> Date: Sat, 30 Sep 2017 11:23:55 +0800
+> Subject: Postdoctoral Positions in Observation, Theory, or Instrumentation at ASIAA
+> To: astro@asiaa.sinica.edu.tw
+
+Dear colleague,
+
+Please find below announcement of postdoc opportunities at ASIAA.
+
+best regards,
+Yen-Ting Lin
+
+-------------------------------------------------------------------------
+
+The Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) in
+Taipei, Taiwan, has openings for postdoctoral positions.  We seek for
+candidates (1) to participate in the Institute's projects, including
+Subaru HSC and PFS surveys, SDSS-IV, TAOS-2, ALMA, SMA, JCMT, VLBI
+with the Greenland telescope, and Y.T. Lee Array; (2) to pursue
+theoretical or observational studies of planetary and solar system
+science, star and planet formation, galaxy formation, cosmology,
+computational fluid dynamics, or MHD; or (c) to participate in
+instrumentation development for optical/IR/submm telescopes.
+
+ASIAA has approximately 200 staff, including 41 faculty members.
+ASIAA has access to forefront observing facilities including ALMA,
+SMA, SMA, JCMT, CFHT, and Subaru Telescope.  We are partners in the
+Subaru Hyper Suprime-Cam (HSC) and Prime Focus Spectrograph (PFS)
+projects, and are a member of the SDSS-IV and LSST Surveys.  The Y.T.
+Lee Array on Mauna Loa will conduct intensity mapping of CO rotational
+transitions.  The Greenland Telescope will conduct submm VLBI
+observations of shadows of supermassive black holes and related
+sciences.  The TAOS-2 project will soon conduct a survey of small
+objects beyond Neptune via occultation and other time-domain sciences
+at San Pedro Mártir. Theoretical and computational astrophysics is
+pursued in our theoretical division, TIARA.  The CHARMS project aims
+to develop numerical simulators to bridge observations and theories in
+fluid dynamics, astrochemistry, and radiative transfer, using
+algorithms and techniques utilizing the CPUs and GPUs.  A focus on the
+Origins of Solar Systems is being built upon experimental works in our
+in-house nanoSIMS facility.  More info on our projects can be found on
+ASIAA website (http://www.asiaa.sinica.edu.tw/project/).
+
+ASIAA offers excellent research facilities and an international
+environment (~55 foreign members from 18 countries), with English
+being the working language.  The postdoc appointments will initially
+be for two years, with possible extension for additional two years
+based on satisfactory performance.
+
+Applicants should hold a Ph.D. degree in astronomy/astrophysics,
+physics, engineering or equivalent fields.  Those who are expecting to
+receive a PhD degree soon can also apply. Applicants should apply
+online (https://www.asiaa.sinica.edu.tw/jobopening/application.php?i=02a16d5f90c3256a2e7e6d1fa44424ca)
+and submit:
+(1) a curriculum vitae,
+(2) a publication list,
+(3) a summary of past and current research or instrumentation
+experience (limited to 3 pages),
+(4) a plan for future research (limited to 3 pages of text, with at
+most 2 additional pages for figures and references).
+Applicants are also requested to arrange three letters of
+recommendation to be submitted online at the same site.  Applications
+and three letters of recommendation submitted by or on 15 November
+2017 will receive full consideration.
+
+==============================================================================
+
+> Subject: Call for Proposals of VERA 2018A
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Tue, 3 Oct 2017 18:05:11 +0900
+> To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+>        "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>        "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+>        "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcement of the call-for-proposals of 
+the VERA for 2018A season.  
+Please distribute this announcement to your community and encourage 
+people to write proposals.  
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+
+-------------------------------------------------
+
+********************************
+Call for Proposals of VERA
+Deadline;  November 01, 2017, 08:00 UT.
+*********************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.  
+Available observation time is up to 200 hours during the observation period 
+from January 15th, 2018 to June 15th, 2018.
+Although it is limited to VERA array and  a single-beam mode, 
+the 6.7 GHz ( C-band ) is opened on shared-risk basis. 
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+                Mareki Honma
+                Director of Mizusawa VLBI  Observatory of NAOJ
+                    Email;  mareki.honma (at-mark) nao.ac.jp
+                    Phone; +81-197-22-7128
+
+==============================================================================
+
+> Date: Thu, 5 Oct 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    I-Non Chiu (ASIAA)
+Topic:         Studying Cosmology with Galaxy Clusters
+Time:         10/11 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Galaxy clusters contain rich information of cosmology and astrophysics. In the past, cluster science was limited by a lack of adequately deep observations in multi-wavelength and was subject to heterogeneous samples with small sizes at low redshift. The situation has been changed due to the recent success of the large mm wavelength surveys—such as the South Pole Telescope (SPT)—that employ the Sunyaev-Zel’dovich Effect (SZE) to identify and study galaxy clusters in their abundance out to the early and distant Universe. Together with the breakthroughs in the area of wide-and-deep optical and NIR surveys, such as the Dark Energy Survey and the Hyper Suprime-Cam survey, we are able to uniformly study these SZE selected samples. In this talk, I will talk about the recent results from the SPT collaboration with emphasis on various observable to mass scaling relations. I will present the unprecedented study of the baryon content of an approximately mass-limited sample of 91 !
+galaxy clusters out to redshift 1.3. I will demonstrate the crucial need for the accurate mass calibration in order to pave a way for cluster science in the future.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yen-Chen Pan (UCSC)
+Topic:         Understanding Type Ia Supernova with UV Spectroscopy
+Time:         10/12 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Type Ia Supernovae are exceptionally bright explosions, and their calibrateable brightness makes them critical tools for probing the cosmic expansion. However, their progenitors remain unclear, which could introduce uncertainties in their use in cosmology. Theory suggests that SN Ia progenitor metallicity is correlated with its peak luminosity, but not its light-curve shape. As a result, this effect should lead to an increased Hubble scatter, reducing the precision in distance measurement. Models also indicate that changing the progenitor metallicity will have little effect on the appearance of optical SN data, but significantly change UV spectra. We obtained the sample of SN Ia with UV spectral time series from both Hubble Space Telescope (HST) and Swift satellite. The initial results are presented by comparing the SN and UV spectral features and analyse the dependence of SN properties on metallicity.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

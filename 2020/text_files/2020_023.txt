@@ -1,0 +1,129 @@
+=============================================================================
+
+In this issue (Feb 10 - 14, 2020)
+
+1. A Sad News of Prof Fu
+2. Arizona Radio Observatory - Call for Proposals: 2020A (Feb 26)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Feb 18):
+                               Seongjoong Kim (Tokyo Institute of Technology)
+                              (Feb 12): Po-Yu Chang (National Cheng Kung Univ)
+
+==============================================================================
+
+Dear all,
+
+I am sorry to inform you that Prof. FU Hsieh-Hai of National Taiwan Normal
+University, a great mentor, educator and friend, passed away on February 13,
+2020 at the age of 68.
+
+We offer our sincere condolences to his family.
+
+
+Yi-Jehng Kuan
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2020A)
+------------------------------------------------------------------------------
+
+To Astronomers and Astrophysicists of Taiwan:
+
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the ALMA
+Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona, and for the
+10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for
+the period March 1, 2020 - June 15, 2020. Proposal candidates from members of
+the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should submit up to
+THREE pages of scientific and technical justification (including figures,
+tables, and references) in addition to their Proposal Summary Sheet (form here):
+
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+
+All proposal candidates are required to list on the Proposal Summary Sheet
+their requested observing blocks (the exact LST ranges to be scheduled and
+number of times to be repeated), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+
+The 12m ALMA Prototype antenna currently supports dual-polarization sideband-
+separating (SBS) observations in three bands: 4mm (66 - 90 GHz), 3mm (84 - 116
+GHz), and 1mm (211 - 275 GHz). Observations at 1mm must be clearly justified
+as to why they cannot be performed on the SMT.  The 12m control system supports
+dual-polarization in the same sideband or single-polarization in each sideband
+("2 IF mode"; fixed 6.0 GHz IF frequency), position-switched, beam-switched,
+and OTF observations. Backend modes for the AROWS spectrometer may be found on
+the ARO Equipment Summary and Status sheet at:
+
+https://www.as.arizona.edu/arizona-radio-observatory
+
+
+The 10m SMT currently supports a dual-polarization sideband-separating (SBS)
+observations at 1mm (211 - 280 GHz) and dual-polarization double-sideband
+observations at 0.8mm (325 - 370 GHz).  The SMT is the preferred site for 1mm
+observations. We note that 0.8mm weather is limited during this semester. The
+SMT control system supports both dual-polarization ("2 IF mode") and dual-
+polarization + dual-sideband observations ("4 IF mode") with tunable IF from
+4.5 - 7.5 GHz, for position-switched, beam-switched, and OTF observations\.
+Proposal candidates should consult the ARO Equipment Summary and Status sheet
+for additional technical specifications:
+
+https://www.as.arizona.edu/arizona-radio-observatory
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. For further information about
+remote observing and other operational questions, please contact the ARO
+Software Engineers: Tom Folkers:
+
+tfolkers@email.arizona.edu or Natalie Gandilo ngandilo@email.arizona.edu
+
+
+Scheduling of successful proposals will be done according to availability of
+the receivers requested.  Graduate student participation is especially
+encouraged.
+
+Projects which require long telescope time, e.g.  > 24 hrs, are possible based
+on scientific merit.  Proposals should be emailed in PDF format to
+kuan[at]asiaa.sinica.edu.tw by midnight (23:59 CST) on February 26, 2020
+(Wednesday).
+
+==============================================================================
+
+Date: Thu, 13 Feb 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Seongjoong Kim (Tokyo Institute of Technology)
+Topic:         Deriving the dust properties in the TW Hya disks with the synthetic ALMA
+multiband analysis
+Time:         2/18 (Tuesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The multiwavelength analysis is one of the useful tools to understand the dust properties in protoplanetary disks. I study the synthetic ALMA multiband analysis to find the best three ALMA band combination for deriving the accurate dust temperature Tdust, optical depth Ï„Î½, and dust opacity power-law index Î² (ÎºÎ½ âˆ￾ Î½^Î²) using the ALMA archival data of the TW Hya disk. Through this approach, I can directly derive the three unknowns (Tdust, Ï„Î½, Î²) without any assumptions on some of the dust properties. The synthetic multiband analysis results show that the Band [10,6,3] set is the best combination for minimizing the uncertainties of the dust properties derived from ALMA observations. The band combinations with Band 9 or 10 and with the large frequency intervals between the bands in the set give us stronger
+constraints on the dust properties. Also, large Î² and low Tdust are preferable for reducing the uncertainties of the dust properties. Some of those conditions are interpreted that the combination of optically thick and thin bands are required for obtaining stronger constraints on the dust properties. To examine the consistency of the synthetic analysis results, I apply the multiband analysis to ALMA archival data of the TW Hya disk at Band 4, 6, 7, and 9. I confirm that the trend of the synthetic model is consistent with the derivations from the real data. Additionally, I examine my synthetic analysis results with ALMA Band 1 which has been developing in ASIAA. The results show that the ALMA band combinations with Band 1 will improve the constraints on the dust properties.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

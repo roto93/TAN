@@ -1,0 +1,33 @@
+> Date: Sun, 6 Jan 2013 08:00:01 +0800
+> From: root <root@www.asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Lucio Piccirillo (University of Manchester)
+Topic:        Next generation of CMB B-modes coherent instruments to reach r<0.01
+Time:        1/11 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I will present the status of our research at JBCA concerning the development of ultra low-noise
+cryogenic LNAs and a novel interferometer scheme that can be used for CMB B-modes research. 
+
+The majority of cryogenic HEMT amplifiers are usually cooled at physical temperatures of the order of 15 - 20K 
+mostly because it is believed that the noise reduction with temperature is negligible with further reduction of the
+temperature. We built a test cryostat equipped with our own design 1K fridge to characterise Ka-band amplifiers in the 
+range 20K to 1K. We have extensively studied an MIC Planck EBB, a Faraday MMIC and a novel Transistor + MMIC amplifier 
+all at Ka-band. 
+
+We find that there is space for further improvement in noise performances when a comprehensive optimisation of bias
+conditions with physical temperature is performed. In addition to a reduction in noise we observe also
+a very interesting reduction in bias power dissipated by the amplifier. The results of our study allow us to
+propose a potential scheme for the next generation of CMB B-modes experiments where a very large
+number of pixels are needed. I will discuss the design of a ~1,000 horns W-band compact camera that can be
+used to realise an interferometer installed in a single cryostat.
+
+==============================================================================

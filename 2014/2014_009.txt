@@ -1,0 +1,240 @@
+============================================================================== 
+
+In this issue (Jan 04 - 12, 2014)
+
+1. ASIAA Colloquia (Jan 08): Daniel Pfenniger (Univ of Geneva)
+          (Jan 09): Kazunori Akiyama (NAOJ/Univ of Tokyo)
+          (Jan 09): Daniel Pfenniger (Univ of Geneva)
+2. Arizona Radio Observatory - Call for Proposals: Spring 2014 (Feb 07, 2014)
+3. CFHT large program (Feb 01)
+4. ASIAA Colloquia (Jan 15): Tohru Nagao (Ehime Univ)
+                  (Jan 17): Adam Amara (ETH Zurich)
+          (Jan 16): Ruobing Dong (ASIAA/Berkeley)
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun,  5 Jan 2014 08:00:04 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Daniel Pfenniger (University of Geneva)
+Topic:        The dynamics of barred spiral galaxies
+Time:        1/8 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Most spiral galaxies are strongly or weakly barred.  The dynamics
+of barred galaxies is radically different from the dynamics of
+axisymmetric disks, as angular momentum and energy are no longer
+conserved quantities.  Furthermore bar dynamics is fully
+3-dimensional, as vertical resonances and chaotic motion
+play an important role in these systems.
+Understanding the dynamics of barred galaxies has turned out
+to be essential for today's Galactic astronomy, for
+which large-scale surveys, such as GAIA, are ongoing.
+Indeed the Milky Way has been found to be a spiral galaxy with a
+peanut-shaped bar, a signature of a strong and old bar.
+I will review the main characteristics of barred galaxies
+for an astronomer audience not necessarily familiar with
+galactic dynamics.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Kazunori Akiyama (NAOJ/Univ. of Tokyo)
+Topic:        millimeter VLBI observations of Sgr A* and M87 with VERA and EHT
+Time:        1/9 (Thursday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Despite the universality of accretion and outflow processes in a wide variety of astrophysical systems, much remains unknown about the detailed structure of the innermost regions of the accretion flow and relativistic jet in the vicinity of a supermassive black hole (SMBH). The SMBHs in the center of our Galaxy (Sgr A*) and the nearby active galaxy M87 are excellent laboratories to study these processes because the angular resolution attainable with short-mm VLBI corresponds to a few Schwarzschild radii for these sources (r_Sch = 10 microarcseconds and 7 microarcseconds for Sgr A* and M87, respectively).
+
+For Sgr A*, we present the results of 7-mm VLBI observations with VERA, a VLBI instrument in Japan.  We report the results of multi-epoch observations of Sgr A* in 2005-2008 as well as preliminary results from monitoring that resumed in January 2013 in order to trace the effects of the G2-cloud infall event.
+
+For M87 we show preliminary results of 1.3-mm VLBI observations with the Event Horizon Telescope in March 2012, during the middle of a period of enhancement in Very High Energy (VHE; > 200 GeV) emission. We briefly discuss implications for the structure of the M87 millimeter and VHE emission regions based on these results.
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Daniel Pfenniger (University of Geneva)
+Topic:        Complex Instability in Astrodynamics
+Time:        1/9 (Thursday) 16:00 - 17:00
+Place:        R1107
+Abstract:
+Complex instability is a generic instability of Hamiltonian systems which occurs only for stationary states in systems with dimension  at least 2, and for periodic orbits in systems with dimension at least 3. Its properties have been studied since the 80's, but rigorous mathematical works are still published nowadays. I will explain complex instability for a physics oriented audience, and discuss some interesting situations concerning astrophysics.
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2014)
+------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Sub-Millimeter Telescope (SMT), located on
+Mount Graham, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period 01 February 2014 to 30 June 2014. The proposal
+deadline of UCAT/ASIAA for this 2014 spring semester is set on February 07,
+2014 (Friday).
+
+The SMT currently supports a dual-polarization, 1-mm receiver (215-280 GHz)
+with ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, and a 0.4-mm (602-720 GHz) dual-polarization receiver
+with ALMA Band 9 mixers. A new 0.6-mm (420-500 GHz) dual-polarization receiver
+incorporating sideband-separating mixers will be available as well. The SMT
+control system supports both dual-polarization ("2 IF mode"), and
+dual-polarization, dual sideband observations ("4 IF mode"), as well as OTF
+mapping. 
+
+Remote observing is available at http://aro.as.arizona.edu/remote/remote.htm.
+Graduate-student participation is especially encouraged. For further information
+about remote observing and other operational questions, contact Tom Folkers,
+Operations Manager tfolkers@email.arizona.edu.
+
+Proposers should consult the ARO website (http://aro.as.arizona.edu/) for
+technical specifications and to download updated proposal templates. Proposers
+are required to list on the cover sheet their requested observing blocks (LST
+ranges), dates on which they are not available to observe, and dates in which
+sources in those observing blocks are within the Sun-avoidance zone (44 degrees
+at the SMT).
+
+Proposals should consist of:
+1.  A proposal Cover Sheet, obtainable at http://aro.as.arizona.edu/proposals.
+2.  A brief scientific and technical justification (no more than 2 pages).
+3.  A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+4.  Observers that plan to observe remotely must supply fixed IP address(es) of
+    the computer(s) that will be used during observing on the cover sheet of the
+    proposal.
+
+Electronic submissions will be accepted in PDF format ONLY. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to kuan@asiaa.sinica.edu.tw
+by midnight (23:59 pm CST) February 07, 2014 (Friday).
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================
+
+> Date: Sat, 11 Jan 2014 15:01:38 +0800  
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>        
+> Subject: Fwd: CFHT large program 
+
+Dear Prof. Kuan,
+
+Could you help to forward this to TAN?
+
+
+Cheers,
+Wei-Hao
+
+----------- Begin forwarded message: -----------
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: CFHT large program
+> Date: January 11, 2014 at 3:00:54 PM GMT+8
+> To: riaa@asiaa.sinica.edu.tw
+
+Dear All,
+
+This is to remind you that the CFHT Large Program deadline is Feb 1.
+Please do not miss it if you plan to submit (or participate in) a large program.
+
+The details of the large program are here:
+http://cfht.hawaii.edu/en/science/LP_13_16_SecondCall/index.php
+
+Cheers,
+Wei-Hao
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 12 Jan 2014 08:00:03 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Tohru Nagao (Ehime Univ.)
+Topic:        Subaru Wide-Field AGN Survey with HSC
+Time:        1/15 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Searching for quasars at various redshifts is the most fundamental 
+approach to investigate the cosmological evolution of supermassive black 
+holes (SMBHs). Recent reports suggest a strong evolutionary link between 
+SMBHs and galaxies, telling us that the understandings of SMBHs and 
+their evolution are crucial to reveal the total picture of the formation and 
+evolution of galaxies, not only of quasars. In addition, high-z quasars are 
+quite useful to investigate the evolution of the IGM, by providing the light 
+behind the inter-galactic absorbing materials. These topics have been
+extensively studied after the data release of the SDSS, that discovered
+a dozens of z~6 quasars and reported the significant evolution of the
+neutral fraction of the IGM at high-z. However due to the limited sensitivity
+and wavelength coverage, the SDSS quasar survey could reach only up to
+z~6.4 and study only very luminous population of quasars, that prevents us
+from understanding the whole evolutionary picture of SMBHs and quasars.
+Recent NIR surveys such as UKIDSS and VIKING is reporting a few z~7
+quasars, but the resulting sample size is still insufficient for any statistical
+analysis.
+        For breaking this problematic situation, we are now promoting a new 
+quasar survey with the new prime-focus camera for the Subaru Telescope, 
+Hyper Suprime Cam (HSC). This quasar survey is a part of the HSC legacy 
+survey, that is an international collaborative project among Taiwan, Japan,
+and Princeton University. This HSC legacy survey has been already 
+approved, and 300 nights will be dedicated in the coming 5 years. In this
+colloquium, I would like to review the background, motivation, and the 
+expected outcomes of this HSC quasar survey. Especially I would focus 
+on the potential contribution from the Taiwanese community, which has 
+access to CFHT, SMA, and ALMA. I would also briefly mention on the 
+possible importance of future ALMA Band 1 for follow-up observations of 
+HSC-selected high-z low-luminosity quasars.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Adam Amara (ETH Zurich)
+Topic:        The LCDM Model: Successes and Future Challenges
+Time:        1/17 (Friday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The LCDM model has had remarkable successes in explaining a wide array of observational evidence coming from recent cosmology experiments. Though the natures of many of the key ingredients are still largely unknown, the model is built on a small number of parameters (roughly six). In this talk, I will give a quick summary of recent progress. As part of this, I highlight some of the potentials for new discoveries in on-going surveys, with a focus on dark matter, gravitational lensing and the Dark Energy Survey (DES). One of the features of current and future surveys (such as the LSST) is that the large volume of data that these surveys will generate, combined with the stringent requirements that need to be met in order to reach our science goals, pose serious computational challenges. For these missions to be successful, these computational challenges need to be tackled.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Ruobing Dong (ASIAA/Berkeley)
+Topic:        The Earliest Stage of Planet Formation: Disk-Planet Interactions in Protoplanetary Disks and Observations of Transitional Disks
+Time:        1/16 (Thursday) 13:30 - 14:30
+Place:        R1108
+Abstract:
+Signposts of planets in protoplanetary disks produced by disk-planet interactions may provide us a unique way to probe and study the earliest stages of planet formation. In the first part of the talk, I will introduce the concept of disk-planet interactions, then present some numerical simulations of this interaction in protoplanetary disks. Particularly, I will show gap opening in low viscosity disks by low mass planets due to the damping of the waves caused by the wave nonlinearity. In the second part, I will move on to observations of transitional disks, which are protoplanetary disks with central depleted regions (cavities), possibly been cleared out by the forming planets. Recently, Subaru directly imaged a number of such disks at near infrared (NIR) wavelengths (the SEEDS project) with high spatial resolution and small inner working angles. Using radiative transfer simulations, we study the structure of these objects by modeling observations at different bands simultane
+ously. The complexity of transitional disks is reviewed by the variety of features captured in their observations, such as cavities, spiral arms, and other non-smooth/asymmetric structures in the disks, which indicates fundamentally different underlying disk structure, possibly implying different origins of these objects.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

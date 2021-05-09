@@ -1,0 +1,168 @@
+From joyce@asiaa.sinica.edu.tw Mon Jun  7 15:20:08 1999
+Return-Path: <astro@asiaa.sinica.edu.tw>
+Received: from iaa17.asiaa.sinica.edu.tw by sgrb2.geos.ntnu.edu.tw (SMI-8.6/SMI-SVR4)
+	id PAA00434; Mon, 7 Jun 1999 15:20:04 +0800
+Received: by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA18623; Mon, 7 Jun 1999 10:14:59 +0800
+Errors-To: kuan@sgrb2.geos.ntnu.edu.tw,\kuan@asiaa.sinica.edu.tw
+Received: from asiaa.sinica.edu.tw by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA18604; Mon, 7 Jun 1999 10:14:56 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa.sinica.edu.tw ([140.109.176.187])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA21584
+	for <astro@asiaa.sinica.edu.tw>; Mon, 7 Jun 1999 10:12:16 +0800
+Message-Id: <375B2ABD.A0AB0013@asiaa.sinica.edu.tw>
+Date: Mon, 07 Jun 1999 10:13:17 +0800
+From: Joyce Chou <joyce@asiaa.sinica.edu.tw>
+X-Mailer: Mozilla 4.5 [en] (Win98; I)
+X-Accept-Language: en
+Mime-Version: 1.0
+To: astro@asiaa.sinica.edu.tw
+Subject: EVN VLBI School - 1999 (fwd)
+References: <Pine.GSO.3.95.990604153525.25440R-100000@sgr.astro.uiuc.edu>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Length: 4892
+Status: RO
+X-Status: 
+
+
+> > ---------- Forwarded message ----------
+> Date: Fri, 4 Jun 1999 14:07:37 -0600 (MDT)
+> From: George Martin <gmartin@arana.aoc.NRAO.EDU>
+> To: gmartin@arana.aoc.NRAO.EDU
+> Subject: EVN VLBI School - 1999
+> 
+>                            EVN VLBI SCHOOL
+> 
+>                          03-05 November 1999
+> 
+>                    JIVE, Dwingeloo, The Netherlands
+> 
+>                           FIRST ANNOUNCEMENT
+> 
+> The EVN VLBI School will be held at the Joint Institute for VLBI in
+> Europe (JIVE), Dwingeloo, The Netherlands from Wednesday 03 through
+> Friday 05 November 1999. The three day School will consist of a series
+> of lectures, interleaved with practical demonstrations, that cover all
+> aspects of VLBI - from observation planning to post-correlation data
+> reduction.
+> 
+> VLBI technique offers an unrivaled angular resolution on the order of
+> milli- and sub-milliarcseconds in studying celestial radio sources.
+> Researchers with no or limited experience in VLBI technique are
+> encouraged to attend the School. Full details of the proposed program
+> will be given in the Second Announcement and placed on the EVN VLBI
+> School WWW site
+> 
+>              http://www.nfra.nl/jive/school99/school.html
+> 
+> Those wishing to attend this school should e-mail to
+> jive_secretary@jive.nfra.nl or send a letter to the Institute address
+> given below enclosing the registration form. Some financial support is
+> available for travel to this school. People wishing to be considered
+> for this support should e-mail to Dr. Leonid Gurvits, Chairman of the
+> School Organizing Committee (lgurvits@jive.nfra.nl) by or before the
+> date of registration given below.
+> 
+> Note that in order to provide good contact between the participants and
+> lecturers participant numbers are limited to around 30 people.
+> 
+> The deadline for registration is 10 September 1999.
+> 
+> Contact information:
+> 
+> Joint Institute for VLBI in Europe
+> P.O.Box 2, 7990 AA, Dwingeloo\
+> The Netherlands
+> 
+> tel:    +31-521-596500
+> fax:    +31-521-597332
+> e-mail: jive_secretary@jive.nfra.nl
+> WWW:    http://www.nfra.nl/jive/
+> 
+>                                     EVN VLBI School
+>                                     Organising Committee
+> 
+>                                     Leonid Gurvits      (Chair)
+>                                     Denise Gabuzda
+>                                     Mike Garrett
+>                                     Heleen de Haas
+>                                     Sandra Mellema
+>                                     Lorant Sjouwerman
+>                                     Nelleke Vermeulen
+> 
+> >===========================================================================<
+> 
+>                            EVN VLBI SCHOOL
+> 
+>                          03-05 November 1999
+> 
+>                    JIVE, Dwingeloo, The Netherlands
+> 
+> 
+>                           Registration Form
+> 
+> To be received by the School Organising Committee
+> NOT LATER than 10 SEPTEMBER 1999.
+> 
+> Last Name:..................
+> 
+> First Name:.................
+> 
+> Middle Name(s)/Initial(s):..
+> 
+> Affiliation and position:...
+> 
+> Address:....................
+> 
+> City:.......................
+> 
+> Country:....................
+> 
+> Telephone:..................
+> 
+> Facsimile:..................
+> 
+> E-mail:.....................
+> 
+> Experience in using VLBI (choose one):
+> 
+>            no experience............................
+> 
+> participation in one or
+> several VLBI projects as co-investigator...........
+> 
+> principal investigator of one or more
+> VLBI projects.......................................
+> 
+> Travel/subsistence support requested via LOC (delete wrong): YES/NO
+>  (if YES, send e-mail to lgurvits@jive.nfra.nl)
+> 
+> Accompanying persons (under their own expenses):...
+> 
+> - -------------------------------------------------------------------------
+> 
+> SEND THIS REGISTRATION FORM TO JIVE
+> 
+>  E-mail: jive_secretary@jive.nfra.nl
+>  Fax:    +31-521-597332
+>  Mail:   Joint Institute for VLBI in Europe
+>          P.O.Box 2, 7990 AA, Dwingeloo
+>          The Netherlands
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: 	astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		    (or +02-2652-2020 ext 224, fax +02-2788-1106)
+To check the back issues:	   	 <http://asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
+

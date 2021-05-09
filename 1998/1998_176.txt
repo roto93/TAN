@@ -1,0 +1,90 @@
+From kyl@asiaa.sinica.edu.tw Fri Sep 18 10:10:14 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA24501; Fri, 18 Sep 1998 10:06:09 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA17043; Fri, 18 Sep 1998 10:04:09 +0800
+Date: Fri, 18 Sep 1998 10:04:09 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: An unusual opportunity: The Leonid meteor storm (fwd)
+Message-Id: <Pine.GSO.3.96.980918100405.3766G-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3152
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 15 Sep 1998 14:41:12 -0400
+From: AutoBot_Message <durkin@stsci.edu>
+Reply-To: help@stsci.edu
+To: kyl@astro.uiuc.edu
+Subject: An unusual opportunity: The Leonid meteor storm
+
+          Call for Ideas for use of HST during Upcoming Leonid Storm
+
+On November 17, 1998, the HST pointing will be restricted as a precaution 
+against potential meteoroid hits during the Leonid storm.  The restriction is 
+a 1 degree radius surrounding RA = 331.2, Dec = -23.4 (J2000) [22h 04m 48s, 
+-23d 24' (J2000)].  While the telescope will remain operable 
+during this time, the pointing restrictions are severe and will apply to 
+several orbits amounting to an equivalent of about 220 minutes of useful 
+observation time.  There are no active HST prime or pending observing 
+programs which meet this pointing restriction. Because this restriction 
+was only recently decided by the HST project, there is insufficient time to 
+solicit and review proposals in a normal manner. 
+
+We are, therefore, assigning this period to Director's Discretionary Time, 
+and are soliciting ideas on a very fast track.   If you have a good 
+scientific idea for observations in this narrow region, we would be pleased 
+to have your input.  Submit your idea as a short statement outlining the 
+basic science and observational approach using the Web page for Director's 
+Discretionary Time  (http://www.stsci.edu/ftp/proposer/dd.html).  
+Illustrations and extensive references are not required.   All ideas must 
+be submitted via the above WWW form by 8pm EDT 30 September 1998.  Following 
+an internal review by our staff, the Director will decide how to make 
+best scientific use of this time.  This may involve combining several 
+of the suggestions received.  STScI staff will follow up by requesting 
+more details as necessary to put together the Phase II proposal by 
+October 12. 
+
+Because of the nature of this solicitation, STScI plans to gather the data, 
+process them using the normal instrument pipelines, and make them publicly 
+available in  the archive immediately. There will be no proprietary data 
+rights and no special grant funding opportunity.
+
+Several restrictions will apply.  As the orbits during this timeframe are
+impacted by the South Atlantic Anomaly (SAA), the STIS MAMAs cannot be used.
+Because of the short time scale, any proposals should be very easy to
+implement. Additional details on the anticipated pointing and observing
+restrictions are available at
+	http://www.stsci.edu/ops/leonid.html
+
+All ideas must be submitted via the Director's Discretionary WWW form by 8pm
+EDT 30 September 1998 to provide time for selection and preparation of the
+Phase II observing program. 
+
+Steven Beckwith, Director
+Space Telescope Science Institute
+September 15, 1998
+
+
+
+

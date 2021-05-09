@@ -1,0 +1,208 @@
+From kyl@asiaa.sinica.edu.tw Wed Nov  8 17:31 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA22604
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 8 Nov 2000 17:29:40 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA07897
+	for <astro@asiaa.sinica.edu.tw>; Wed, 8 Nov 2000 17:34:44 +0800
+Date: Wed, 8 Nov 2000 17:23:49 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: 3-5 year Post-Doctoral Position at the MPIA in Heidelberg  (fwd)
+Message-ID: <Pine.SOL.4.10.10011081723460.1471-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 9969
+Status: R
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Wed, 08 Nov 2000 09:23:22 +0100
+From: Hans-Walter Rix <rix@mpia-hd.mpg.de>
+To: Hans-Walter Rix <rix@mpia-hd.mpg.de>,
+     Immo Appenzeller <I.Appenzeller@lsw.uni-heidelberg.de>,
+     Tim deZeeuw <tim@strw.leidenuniv.nl>,
+     Simon White <swhite@MPA-Garching.MPG.DE>, svwb <svwb@stsci.edu>,
+     Reinhard Genzel <genzel@mpe.mpg.de>, ghasinger <ghasinger@aip.de>,
+     "Scott Tremaine To: afd@pha.jhu.edu" <tremaine@astro.princeton.edu>,
+     afilippenko <afilippenko@astron.berkeley.edu>,
+     afs <afs@phobos.caltech.edu>, alex <alex@astro.psu.edu>,
+     barnes <barnes@galileo.ifa.hawaii.edu>,
+     Ralf Bender <bender@usm.uni-muenchen.de>,
+     bertschinger <bertschinger@mit.edu>, bildsten <bildsten@fire.berkeley.edu>,
+     binney <binney@thphys.ox.ac.uk>, blaes <blaes@sal.physics.ucsb.edu>,
+     blitz <blitz@astro.umd.edu>, bond <bond@cita.utoronto.ca>,
+     burrows <burrows@as.arizona.edu>, carlberg <carlberg@astro.utoronto.ca>,
+     choptuik <choptuik@physics.ubc.ca>, cmckee <cmckee@mckee.berkeley.edu>,
+     couchman <couchman@physics.mcmaster.ca>,
+     cpma <cpma@dept.physics.upenn.edu>, crc <crc@space.mit.edu>,
+     davb <davb@uvvm.uvic.ca>, dcr <dcr@astro.umd.edu>,
+     DEMARQUE <DEMARQUE@halo.astro.yale.edu>,
+     dezeeuw <dezeeuw@strw.leidenuniv.nl>, djh <djh@astro.columbia.edu>,
+     djs <djs@gps.caltech.edu>, dlb <dlb@ast.cam.ac.uk>, dor <dor@umich.edu>,
+     douglas <douglas@ast.cam.ac.uk>, dressler <dressler@ociw.edu>,
+     duncan <duncan@lola.phy.queensu.ca>, esp <esp@tapir.caltech.edu>,
+     ewine <ewine@strw.leidenuniv.nl>, faber <faber@ucolick.org>,
+     fahlman <fahlman@geop.ubc.ca>, fnmilgrm <fnmilgrm@weizmann.weizmann.ac.il>,
+     fontaine <fontaine@astro.umontreal.ca>,
+     fukugita <fukugita@icrr.u-tokyo.ac.jp>,
+     gpe <gpe@astrophysics.oxford.ac.uk>, green <green@noao.edu>,
+     hal <hal@gort.boulder.swri.edu>, harris <harris@physics.mcmaster.ca>,
+     hartwick <hartwick@phys.uvic.ca>, haynes <haynes@astrosun.tn.cornell.edu>,
+     heckman <heckman@pha.jhu.edu>, hesser <hesser@dao.nrc.ca>,
+     hogan <hogan@astro.washington.edu>, jap <jap@roe.ac.uk>, jfn <jfn@uvic.ca>,
+     jjm <jjm@vaxc.cc.monash.edu.au>, jlissauer <jlissauer@astro.sunysb.edu>,
+     jnb <jnb@sns.ias.edu>, jordi <jordi@llull.physics.upenn.edu>,
+     josh <josh@cfa.harvard.edu>, jvangork <jvangork@fidelio.phys.columbia.edu>,
+     kaiser <kaiser@hale.ifa.hawaii.edu>, kcf <kcf@mso.anu.edu.au>,
+     kirshner <kirshner@cfa.harvard.edu>, kofman <kofman@cita.utoronto.ca>,
+     kormendy <kormendy@astro.as.utexas.edu>,
+     kuijken <kuijken@kapteyn.astro.rug.nl>, lars <lars@cfa.harvard.edu>,
+     laskar <laskar@bdl.fr>, lauer <lauer@noao.edu>,
+     lewin <lewin@space.mit.edu>, liebert <liebert@as.arizona.edu>,
+     lilly <lilly@lepus.astro.utoronto.ca>, lin <lin@ucolick.org>,
+     marc <marc@deep.berkeley.edu>, mholman <mholman@cfa.harvard.edu>,
+     mjr <mjr@ast.cam.ac.uk>, mm <mm@sousun1.phys.soton.ac.uk>,
+     mroberts <mroberts@nrao.edu>, mturner <mturner@oddjob.uchicago.edu>,
+     murray <murray@cita.utoronto.ca>, myers <myers@dept.physics.upenn.edu>,
+     narayan <narayan@cfa.harvard.edu>, now <now@damtp.cam.ac.uk>,
+     ostriker <ostriker@astro.umd.edu>, page <page@pupgg.princeton.edu>,
+     pen <pen@cita.utoronto.ca>, petert <petert@syma.sussex.ac.uk>,
+     pgmartin <pgmartin@cita.utoronto.ca>, pjep <pjep@pupgg.princeton.edu>,
+     pk <pk@ias.edu>, pmg <pmg@gps.caltech.edu>, prince <prince@caltech.edu>,
+     pritchet <pritchet@otter.phys.uvic.ca>,
+     pudritz <pudritz@physics.mcmaster.ca>, rac5x <rac5x@virginia.edu>,
+     rdb <rdb@tapir.caltech.edu>, richer <richer@geop.ubc.ca>,
+     rjallen <rjallen@stsci.edu>, rrosner <rrosner@oddjob.uchicago.edu>,
+     rse <rse@astro.caltech.edu>, rubin <rubin@dtm.ciw.edu>,
+     schech <schech@achernar.mit.edu>, seaquist <seaquist@astro.utoronto.ca>,
+     shu <shu@astron.berkeley.edu>, silk <silk@astro.ox.ac.uk>,
+     srk <srk@astro.caltech.edu>, srm4n <srm4n@astsun.astro.virginia.edu>,
+     starkman <starkman@huxley.phys.cwru.edu>, steinh <steinh@princeton.edu>,
+     szalay <szalay@pha.jhu.edu>, toomre <toomre@math.mit.edu>,
+     trq <trq@astro.washington.edu>, useljak <useljak@cfa.harvard.edu>,
+     w.evans1 <w.evans1@physics.oxford.ac.uk>,
+     wagoner <wagoner@leland.stanford.edu>,
+     webster <webster@tauon.ph.unimelb.edu.au>,
+     weinberg <weinberg@owl.astro.umass.edu>, wendy <wendy@ociw.edu>,
+     wesemael <wesemael@astro.umontreal.ca>, whz <whz@lanl.gov>,
+     wisdom <wisdom@poincare.mit.edu>, wms <wms@stsci.edu>,
+     wpress <wpress@post.harvard.edu>, zweibel <zweibel@lepton.colorado.edu>,
+     Jonathan Arons <arons@astroplasma.berkeley.edu>,
+     Don Backer <dbacker@astron.berkeley.edu>,
+     basri <basri@astron.berkeley.edu>, Leo Blitz <blitz@gmc.berkeley.edu>,
+     bowyer <bowyer@ssl.berkeley.edu>, fshu <fshu@astron.berkeley.edu>,
+     gmarcy <gmarcy@etoile.berkeley.edu>, jgraham <jgraham@astron.berkeley.edu>,
+     king <king@glob.berkeley.edu>, mdavis <mdavis@astron.berkeley.edu>,
+     spinrad <spinrad@bigz.berkeley.edu>,
+     Roland Bacon <bacon@cumulus.univ-lyon1.fr>,
+     Eric Becklin <becklin@bonnie.astro.ucla.edu>,
+     Len Cowie <cowie@hale.ifa.hawaii.edu>,
+     Roger Davies <roger.davies@durham.ac.uk>,
+     Richard Ellis <rse@ast.cam.ac.uk>, Giovanni Fazio <gfazio@cfa.harvard.edu>,
+     Andy Harris <harris@astro.umd.edu>, Tim Heckman <heckman@eta.pha.jhu.edu>,
+     Roger Hildebrand <roger@oddjob.uchicago.edu>,
+     Richard Hills <richard@mrao.cam.ac.uk>,
+     Jim Houck <houck@astrosun.tn.cornell.edu>,
+     Dan T. Jaffe <dtj@fireant.as.utexas.edu>,
+     Robert Joseph <joseph@hale.ifa.hawaii.edu>,
+     Andrew Langer <ael@astro.caltech.edu>,
+     Olivier Le Fevre <lefevre@astrsp-mrs.fr>, Pierre Lena <lena@obspm.fr>,
+     Ian McLean <mclean@bonnie.astro.ucla.edu>,
+     George Miley <miley@strw.leidenuniv.nl>,
+     "Haruyuki, Prof. Okuda" <okuda@astro.isas.ac.jp>,
+     Franco Pacini <fpacini@arcetri.astro.it>,
+     Ismael Perez-Fournon <ipf@ll.iac.es>, George Rieke <grieke@as.arizona.edu>,
+     Jose Rodriguez-Espinosa <jre@ll.iac.es>,
+     Michael Rowan-Robinson <mrr@ic.ac.uk>,
+     Piero Salinari <psalinari@arcetri.astro.it>,
+     Nick Scoville <nzs@astro.caltech.edu>,
+     "Tom (Baruch T.) Soifer" <bts@mop.caltech.edu>,
+     Gordon Stacey <stacey@astrosun.tn.cornell.edu>,
+     Alan Stockton <stockton@hale.ifa.hawaii.edu>,
+     Rodger Thompson <rthompson@as.arizona.edu>,
+     Laurent Vigroux <vigroux@discovery.saclay.cea.fr>,
+     Gareth Wynn-Williams <wynnwill@hale.ifa.hawaii.edu>,
+     Peter Barthel <pdb@astro.rug.nl>, John Beckman <jeb@iac.es>,
+     Jonathan Bland-Hawthorn <jbh@aaoepp2.aao.gov.au>,
+     Peter Conti <pconti@jila.colorado.edu>, Mark Dickinson <med@stsci.edu>,
+     Alberto Franceschini <afrances@mostro.pd.astro.it>,
+     George Helou <gxh@ipac.caltech.edu>,
+     Dr. K. Y. Lo <kyl@asiaa.sinica.edu.tw>,
+     Malcolm Longair <msl@mrao.cam.ac.uk>,
+     Carol Lonsdale <cjl@ipac.caltech.edu>,
+     Karl Menten <kmenten@mpifr-bonn.mpg.de>,
+     Hagai Netzer <netzer@wise1.tau.ac.il>, Max Pettini <pettini@ast.cam.ac.uk>,
+     Jean-Loup Puget <puget@ias.fr>, Dave Sanders <sanders@ifa.hawaii.edu>,
+     Charles Steidel <ccs@astro.caltech.edu>,
+     Charlie Telesco <telesco@astro.ufl.edu>,
+     Roberto Terlevich <rjt@ast.cam.ac.uk>,
+     Sylvain Veilleux <veilleux@astro.umd.edu>, Martin Ward <mjw@star.le.ac.uk>,
+     Andrew Wilson <wilson@astro.umd.edu>
+Subject: 3-5 year Post-Doctoral Position at the MPIA in Heidelberg 
+
+==========================================================================
+3-5 year Post-Doctoral Position at the MPIA in Heidelberg
+==========================================================================
+ 
+The Max Planck Institute for Astronomy (MPIA) in Heidelberg is offering
+a
+post-doctoral position to a highly-motivated, outstanding researcher,
+who
+is given the opportunity to independently carry out observational
+programs in extragalactic astronomy and cosmology. The MPIA is a partner
+in the ongoing Sloan Digital Sky Survey (SDSS) and the successful
+candidate is encouraged to pursue projects that draw on SDSS data.
+The MPIA operates Calar Alto Observatory, with its 2.2m and 3.5m
+telescopes, has access to ESO's VLT and La Silla Telescopes, and is a
+partner in the 2x8.4m LBT Project on Mount Graham. The MPIA is leading
+the development of a number of ground and space-based instruments.
+Further information on the science interests of the MPIA community
+can be found at http://www.mpia-hd.mpg.de/Public/index_en.html.
+The initial appointment will be made for three years, with yearly
+extensions possible to a maximum of five years. Funds for travel,
+publication and observing will be available. Interested candidates
+should send application materials, including curriculum vita and a
+brief statement of research interests to the address below. They
+should also arrange for three letters of recommendation to be sent
+by 15 December 2000.
+
+Send application materials by 15 December 2000 to
+ 
+Dr. Hans-Walter Rix, 
+Max-Planck-Institute fuer Astronomie, 
+Koenigstuhl 17, 
+69117 Heidelberg, Germany.
+
+The Max Planck Society is an equal opportunity employer and
+particularly
+encourages applications from women.
+
+
+  
+====================================
+Hans-Walter Rix
+Max-Planck-Institut fuer Astronomie
+Koenigsstuhl 17
+D-69117 Heidelberg
+
+Phone: 06221-528-210 [Intnatl: -49-6221-528-210]
+Secretary: 06221-528-211; [Ms Goldberger]
+FAX: 06221-528-339
+====================================
+
+

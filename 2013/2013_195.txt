@@ -1,0 +1,477 @@
+============================================================================== 
+
+In this issue (Oct 26 - Nov 03, 2013)
+
+1. ASIAA Colloquia (Oct 30): Chris Lintott (Univ of Oxford)
+                  (Oct 29): Geoffrey Bower (UC Berkeley)
+                  (Nov 01): Nick Kaiser (Univ of Hawaii)
+2. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Collqm (Nov 5): Kian Ping Loh
+                                                    (Natl Univ of Singapore)
+3. HSC-AGN face-to-face meeting in January at ASIAA: 2nd circular
+4. NTHU Astronomy Seminar (Nov 08): We-Fu Chang (NTHU)
+5. Cosmic Dust VII (Aug 4-8, 2014): First Circular
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 27 Oct 2013 08:00:02 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Chris Lintott (University of Oxford)
+Topic:        The shape of galaxy evolution - Morphology in the age of Galaxy Zoo
+Time:        10/30 (Wednesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Despite the advent of large surveys, morphology remains an important diagnostic for studies of galaxy evolution and formation. Since 2007, the Galaxy Zoo project (http://www.galaxyzoo.org) has collected more than 250 million independent classifications of galaxies from both the Sloan Digital Sky Survey and large Hubble Space Telescope surveys, and in this seminar project Principle Investigator Chris Lintott will review the results, emphasizing the use of morphology to distinguish between secular and merger-driven evolution. Unusual objects discovered by Galaxy Zoo such as Hanny's Voorwerp, a quasar light-echo, have also provided a chance to study the evolution of AGN almost as it happens.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Geoffrey Bower (UC Berkeley)
+Topic:        The Onset of Molecular Gas:  CO Intensity Mapping
+Time:        10/29 (Tuesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Molecular gas is a poorly understood but vital component of galaxy evolution.  New tools such as ALMA and EVLA are making impressive characterizations of the gas in the most massive galaxies at high redshift.  But lower mass galaxies, which ultimately evolve into galaxies like the Milky Way, are undetectable through individual pointings.  Intensity mapping, or the detection of aggregate emission of large angular scales, is a powerful tool for characterizing the molecular gas in low mass galaxies.  I will describe our campaign using data from the SZA to detect CO at z=3 and our plans to detect molecular gas to greater redshift using the SZA, AMiBA, and new instruments.
+
+____________________________________________________ 
+Speaker:    Nick Kaiser (University of Hawaii)
+Topic:        TBA
+Time:        11/1 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+==============================================================================
+
+> Date: Tue, 29 Oct 2013 11:00:47 +0800
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, November 5
+> From: "J.-P. Wu" <jpw750811@gmail.com>
+> To: swallow <swallow@phys.ntu.edu.tw>, whchen <whchen@gate.sinica.edu.tw>,
+        astro <astro@asiaa.sinica.edu.tw>,
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held
+on November 5 (
+http://web.phys.ntu.edu.tw/jwc/2013_Fall_colloquia/Joint%20colloquia%20fall=
+%202013.html
+).
+
+The Joint Colloquium Series is organized by the NTU Physics Department,
+Center for Condensed Matter Science (CCMS), Leung Center for Cosmology and
+Particle Astrophysics (LeCosPA), Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA), and the Institute of Atomic and Molecular Sciences
+(IAMS).
+
+The idea is to have excellent speakers to give inspiring, informative, but
+non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on November 5.
+
+Best regards,
+
+Yen-Ting Lin (ASIAA)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Jiwoo Nam (LeCosPA)
+Juinn-Wei Chen (NTU-Phys)
+
+---------------------------------------------------------------------------=
+
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+
+Speaker: Kian Ping Loh (=C1_=BD=A8=C6=BD =BD=CC=CA=DA)
+
+            (Dept. of chemistry, National University of Singapore)
+
+Topic : Interesting Properties of Strained and Defective Graphene
+
+Time  : 11/05 (Tue.) 14:20 - 15:20
+
+Place : Room 104, CCMS-New Physics Building
+
+Abstract:
+    Most people think of graphene as a flat membrane and the quality of
+physics observation depends on the flatness of it. However defective or
+strained graphene can present interesting properties, especially to a
+chemist. For example, generating pores or voids in graphene, oxidizing and
+disrupting the conjugation, as in the case of nanoporous graphene oxide,
+can generate a material that is catalytically active =A8C what the chemists
+called =A1=B0carbocatalyst=A1=B1. Nanoporous graphene oxide can mediate a w=
+ide range
+of chemical transformation. We have managed to identify a simple chemical
+treatment to introduce porosity and tune the acidity of Graphene Oxide
+(GO). This is a potentially important area for industrial applications. The
+GO catalyst can be used in oxidative coupling reactions as well as tandem
+catalytic reactions.
+    Generating strain textures on graphene allows the engineering of new
+energy landscape. The Dirac electrons in graphene couples to strain via
+pseudomagnetic field, creating an electrodynamics that is controlled by the
+geometry of the strain. Using the graphene Moir=A8=A6 superlattice,
+geometrically precise nanobubbles can be generated that show pseudomagnetic
+field in the hundreds of Telsa. We discuss the chemistry of how such strain
+texture can be created by controlling sub-surface defects on the metal
+substrate. Nanobubbles on graphene can also be created when graphene is
+transferred onto diamond. Very robust interfacial bonding between diamond
+and graphene allows a hydrothermal anvil to be created at the interface.
+Superheated water trapped at the interface becomes corrosive at high
+temperature and pressure and can etch diamond [3]. By monitoring the
+conformational changes of pressure-sensitive molecules , the pressure
+within the nanobubble could be tracked as a function of temperature and was
+found to be at ~1 GPa at 600 deg C. The polymerization of
+buckminsterfullerene(C60), which is symmetrically forbidden under ambient
+conditions, was observed to proceed in well-defined stages in the
+pressurized nanobubbles.
+
+Brief Bio:
+B.Sc.(Hons), 1994, National University of Singapore;
+D.Phil.,1996, Oxford University;
+Postdoc., 1998, National Inst. for Material Science, Tsukuba, Japan
+Dr. Loh is currently the Head of Chemistry Department, NUS
+He is the recipient of 2013 ACS Nano Lectureship
+Awards:
+Singapore Millenium Foundation Research Horizon Award 2010
+Dean=A1=AFs Chair Professor 2010
+Outstanding Chemist Award, 2009
+Faculty Young Scientist Award, NUS, 2009
+University Young Scientist Award, NUS, 2008
+National Research Foundation CRP 9.7 million award, 2007
+---------------------------------------------------------------------------=
+
+==============================================================================
+
+> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
+> Date: Thu, 31 Oct 2013 17:41:46 +0800
+> Subject: Fwd: [Hsc_agn 264] HSC-AGN face-to-face meeting in January at ASIAA:  2nd circular
+> To: riaa@asiaa.sinica.edu.tw,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear colleagues,
+
+Please find the 2nd circular of the coming HSC/AGN meeting to be held
+in Jan. 2014 in ASIAA. All of you, especially "non-HSC but AGN"
+astronomers. "HSC but non-AGN" astronomers, and "non-HSC and non-AGN"
+astronomers, are welcome to join it.
+
+Regards.
+Youichi
+
+---
+
+Dear HSC collaborators,
+
+This is the second circular of a HSC-AGN face-to-face meeting in
+January 2014 in ASIAA, Taiwan. Any related researchers including
+galaxy people, transient people, hardware and software people,
+and so on, are welcome to join in.
+
+Best regards,
+
+Tohru Nagao
+Michael Strauss
+
+
+
+
+Second Circular: Quasar science with HSC: toward the first results
+
+
+==============================
+14-16 January 2014
+Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA),
+Taipei, Taiwan
+http://astro.edu.nagasaki-u.ac.jp/HSC-AGN2014/
+http://events.asiaa.sinica.edu.tw/meeting/20140114/
+==============================
+
+
+The formation and evolution of supermassive black holes (SMBHs) are
+among the most exciting and challenging topics in astronomy and
+astrophysics. New wide-field deep surveys are required to tackle
+these issues, and Subaru's new wide-field camera (Hyper Suprime-Cam;
+HSC) will bring promising opportunities to make breakthroughs in
+this research field. Since the HSC-SSP (Subaru Strategic Program)
+survey will start soon (in Spring 2014), it is a good time to have
+an intensive face-to-face discussion among HSC collaboration
+astronomers about scientific opportunities from the first-year data.
+
+We will focus on doing science and writing papers based on the
+first-year data of the coming HSC-SSP survey. These discussions in
+advance of the start of the HSC-SSP survey will maximize the
+scientific output in the theme of SMBH studies.
+
+We will focus on the following topics, among others:
+  -- Current status of the HSC operation plans, camera, and pipeline
+  -- Commissioning run results and the data
+  -- Survey plans and output photometric catalogs
+  -- Quasar selection methods
+  -- AGN photometric redshifts
+  -- Statistics of quasars and SMBHs from the HSC data
+  -- Co-evolution studies of SMBHs and galaxies with the HSC data
+  -- Synergies of HSC and multi-wavelength data for SMBH studies
+  -- Strategies for spectroscopic follow-up and the relation with PFS
+  -- Theoretical preparations for HSC quasar surveys
+  -- Action items for the HSC-SSP survey
+
+The meeting will take place at Academia Sinica, Institute of Astronomy
+and Astrophysics (ASIAA). The institute is located in the city of
+Taipei, the capital of Taiwan, on the grounds of National Taiwan
+University (*not* in the Academia Sinica Campus near Nan-Kang). The
+weather in Taipei is typically fine and warm in January, and visitors
+can enjoy nearby night markets (the nearest one is within walking
+distance), historical places within the city, excellent museums, one
+of the tallest skyscrapers in the world, and superb cuisine, all
+accessible with a very convenient subway system.
+
+The webform for the on-line registration and the abstract submission
+is now open at the following URL (deadline: 30th November 2013):
+http://events.asiaa.sinica.edu.tw/meeting/20140114/
+
+Note that there is no registration fee for participating in this
+workshop. Participants from outside of Taipei may stay at the Howard
+Hotel, which is located walking distance from ASIAA. Please indicate
+your check-in and check-out dates on the registration webform by the
+registration deadline, if you decide to stay in Howard Hotel, and
+the meeting organizers will make your reservation for you. Please
+DO NOT reserve your room(s) yourself.
+Though the total available budget is limited, we will be able to
+support travel expenses for some of the participants. People who
+require travel support should indicated this on the registration
+webform by the registration deadline.
+
+The meeting will start in the morning on 14th Jan. Therefore we
+would recommend you to arrive in Taipei by 13th Jan.
+Detailed info of the venue and your travel are available on the
+workshop webpages:
+http://astro.edu.nagasaki-u.ac.jp/HSC-AGN2014/
+http://events.asiaa.sinica.edu.tw/meeting/20140114/
+
+We are looking forward to seeing you in Taipei!
+
+
+
+Important Dates:
+  -- 5 Sep. 2013: First circular distribution
+  -- 31 Oct. 2013: Second circular distribution
+  -- 30 Nov. 2013: Registration deadline
+  -- 14-16 Jan. 2014: This workshop
+
+SOC & LOC:
+  Masayuki Akiyama (Tohoku)
+  Nobunari Kashikawa (NAOJ)
+  Tomoki Morokuma (Tokyo)
+  Tohru Nagao (Kyoto)
+  Masahiro Nagashima (Nagasaki)
+  Youichi Ohyama (ASIAA)
+  Michael Strauss (Princeton)
+  Keiichi Wada (Kagoshima)
+
+
+Contact:
+  Tohru Nagao (Kyoto): tohru@kusastro.kyoto-u.ac.jp
+
+
+
+Tohru Nagao
+[ -- 31 Oct. 2013 ]
+  The Hakubi Center for Advanced Research, Kyoto University
+  Kitashirakawa-Oiwake-cho, Sakyo-ku, Kyoto 606-8502, Japan
+  tel: +81-75-753-3691    /    fax: +81-75-753-3897
+  mail: tohru@kusastro.kyoto-u.ac.jp
+[ 1 Nov. 2013 -- ]
+  Research Center for Space and Cosmic Evolution (RCSCE)
+  Ehime University
+  Bunkyo-cho 2-5, Matsuyama, Ehime 790-8577, Japan
+  tel: +81-89-927-8430    /    fax: +81-89-927-8430
+  mail: tohru@cosmos.phys.sci.ehime-u.ac.jp
+_______________________________________________
+Message 264 of Hsc_agn -
+Hsc_agn@astro.princeton.edu
+http://jeeves.astro.princeton.edu/mailman/listinfo/hsc_agn
+
+==============================================================================
+
+> Date: Fri, 1 Nov 2013 17:21:47 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+############################################
+                    NTHU
+            Astronomy Colloquium
+############################################
+
+      2:20 p.m. 8 Nov. 2013 (Friday)
+        NTHU Physics Building, Rm620
+
+      Speaker: Prof. We-Fu Chang
+                (Department of Physics, NTHU)
+
+      Title: Particle Dark Matter, Symmetry,
+              and Neutrino Masses
+
+
+    Tea/Discussion Time is followed in the same room.
+
+                  All Welcome !!
+
+==============================================================================
+
+> Date: Fri, 01 Nov 2013 17:48:18 +0800
+> From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> To: dust study group <dust@asiaa.sinica.edu.tw>,
+>        icsm <icsm@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw
+> Subject: Fwd: Cosmic Dust VII [First Circular]
+
+Dear colleagues,
+
+I am forwarding an announcement of the dust meeting
+held in Japan next year.
+
+Regards,
+Hiro
+
+________________________________________________
+MEETING TITLE:
+Cosmic Dust
+
+WEBSITE:
+https://www.cps-jp.org/~dust/
+
+VENUE (tentative):
+Umeda Satellite Campus of Osaka Sangyo University
+Osaka station 3 building (Osaka Ekimae 3rd Bldg.), 19th floor
+1-2-3, Umeda, Kita-ku, Osaka 530-0001, JAPAN
+
+DATE:
+Monday, August 4 – Friday, August 8, 2014
+
+OBJECTIVES:
+This series of Cosmic Dust meetings aims at finding a consensus among 
+experts on the formation and evolution of cosmic dust: where it comes 
+from and where it goes. The meeting is organized by dust freaks who are 
+very enthusiastic not only to make the goal achievable but also to 
+establish a dust community across every scientifically relevant 
+discipline for the development of cosmic dust research. For this reason, 
+the primary objectives of the meeting are to bring together 
+professionals who deal with cosmic dust and to provide an opportunity 
+for participants to develop human relations and interactions among the 
+participants.
+
+SCOPE:
+All kinds of cosmic dust such as
+• intergalactic dust
+• circumnuclear dust
+• interstellar dust
+• protoplanetary disk dust
+• debris disk dust
+• cometary dust
+• interplanetary dust
+• circumplanetary dust
+• stellar nebular condensates
+• presolar grains
+• micrometeorites
+• meteoroids
+• meteors
+• regolith particles
+• planetary aerosols
+are the subject of discussion. The meeting is open for any aspects of 
+dust research by means of different methods of studies (in-situ and 
+laboratory measurements, astronomical observations, laboratory and 
+numerical simulations, theoretical modeling, data analyses, etc.). All 
+dust-related topics, for example, the formation of molecules and their 
+reactions on and their desorption from the surface of dust particles, 
+are also welcome. Publishing the proceedings of this meeting is 
+currently being planned as a special issue of a peer-reviewed journal, 
+while paper submission to the proceedings is not obligatory.
+
+ADMISSIONS APPLICATION:
+Please complete online meeting application at the CPS website in order 
+to attend the meeting (deadline: May 13, 2014, 11:59 p.m. Japan Standard 
+Time).
+https://www.cps-jp.org/~dust/Application.html
+Because the number of participants shall be limited to approximately 50, 
+the online application does not guarantee admission to the meeting. 
+Participants will be determined at the discretion of the SOC and all 
+applicants will be notified of the admissions decision by May 31, 2014. 
+Priority will be given to those who contribute to oral or poster 
+sessions and retain enthusiasm for discussions throughout the meeting. 
+For further details, please visit the Cosmic Dust website.
+
+REGISTRATION FEE:
+The early bird rate of 10,000 JPY is available for those who complete 
+both admissions application and abstract submission by April 30, 2013. 
+The registration fee for those who complete admissions application on 
+and after May 1, 2014 is 15,000 JPY. While no payment is required at the 
+time of admissions application and abstract submission, the registration 
+fee should be paid by cash on arrival at the venue. No matter what 
+circumstances are specified, the registration fee will not be waived.
+
+IMPORTANT DATES:
+30 April 2014, Deadline for Early-Bird Application
+13 May 2014, Deadline for Admissions Application
+31 May 2014, Notification of Admissions Decision
+4-8 August 2014, Cosmic Dust
+
+SCIENTIFIC ORGANIZING COMMITTEE (SOC):
+Akio Inoue (Osaka Sangyo University, Japan)
+Cornelia Jäger (Max Planck Institute for Astronomy, Germany)
+Hiroshi Kimura (Kobe University, Japan) [Chair]
+Ludmilla Kolokolova (University of Maryland, USA)
+Aigen Li (University of Missouri-Columbia, USA)
+
+LOCAL ORGANIZING COMMITTEE (LOC):
+Hiroki Chihara (Osaka Sangyo University)
+Akio Inoue (Osaka Sangyo University)
+Hiroshi Kimura (Kobe University) [Chair]
+Hiroshi Kobayashi (Nagoya University)
+Hiroki Senshu (Chitec/PERC)
+Takashi Shimonishi (Kobe University)
+Koji Wada (Chitec/PERC)
+Daisuke Yamasawa (Tohoku University)
+
+CONTACT INFORMATION:
+Hiroshi Kimura <dust-inquiries@cps-jp.org>
+Graduate School of Science, Kobe University
+c/o Center for Planetary Science (CPS)
+Chuo-ku Minatojima Minamimachi 7-1-48
+Kobe 650-0047, Japan
+Fax: +81 78 599 6735
+
+BRIEF HISTORY:
+The Cosmic Dust meeting started in 2006 as a session called “Cosmic 
+Dust” of the 3rd AOGS (Asia-Oceania Geoscience Society) annual meeting 
+in Singapore. Dust freaks have kept on organizing the session at 
+subsequent AOGS meetings in Korea (2008), India (2010), and Taiwan 
+(2011). The Cosmic Dust series has been recognized as the most 
+successful session of the AOGS Planetary Sciences Section. In 2012, the 
+time was ripe to be free from organizing restrictions on the AOGS 
+meeting. From that time on, the Cosmic Dust meeting is totally 
+independent of any international conference. The past meetings on Cosmic 
+Dust have been held in a relaxed and joyful atmosphere. So will be the 
+coming one!￼
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

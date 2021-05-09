@@ -1,0 +1,116 @@
+=============================================================================== 
+In this issue (Jan 17 - 25, 2015)
+
+1. EAYAM 2015: career development and job options
+2. ASIAA Colloquia/Seminars (Jan 26): Yusuke Aso (Univ. of Tokyo)
+                            (Jan 27): Ming-Tang Chen (ASIAA)
+                            (Jan 28): Ivy Wong (Univ. of Western Australia)
+3. SMA Call for Proposals 2015A (Feb 13)
+
+===============================================================================
+
+> Date: Sun, 25 Jan 2015 06:46:48 +0800
+> From: Ya-Wen Tang <ywtang@asiaa.sinica.edu.tw>
+> Subject: announcement in TAN
+
+
+Dear Yi-Jehng, 
+
+Please help circulate the following announcement of job panel discussions in TAN. 
+Is it possible to circulate in TAN for the following two issues in case students/postdocs miss the first announcement? 
+If you think it is not necessary, it is also ok we just circulate once. 
+
+Thanks! 
+
+Tangtang. 
+
+--------------- 
+
+Panel discussions on career development and job options during East Asian Young Astronomers Meeting (EAYAM) 2015. 
+
+There will be panel discussions on the career development (11:30-12:30 on 2/10) and alternative job options (17:15-18:00 on 2/12) during the EAYAM meeting. Students and postdocs are welcome to attend. During the panel career development, we will invite faculties at various stage, from junior professor/researcher to senior director, to share their experiences.  
+For the panel on alternative job options, we will invite some directors and people in the industry to tell us what are the people they are looking for. The discussion will be in Chinese. Please sign up in the following website in advance if you plan to come to the panel on the alternative job options. 
+http://goo.gl/forms/2E2vGjxp4B 
+
+===============================================================================
+
+> Date: Thu, 22 Jan 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Yusuke Aso (Univ. of Tokyo)
+Topic:         ALMA Observations of the Transition from Infall Motion to Keplerian Rotation around the Late-phase Protostar TMC-1A
+Time:         1/26 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+In the course of star formation, infalling envelopes around protostars are considered to transform into Keplerian rotating disks. The disk formation process is, however, still not understood well. Our ALMA Cycle 0 observations toward the late-phase protostar TMC-1A have revealed the existence of a 100 AU-size Keplerian disk surrounded by an infalling envelope around the protostar. Interestingly, the infall velocity of the envelope is found to be 0.3 times as large as the corresponding free fall velocity. Possible mechanism to reduce the infall velocity and a disk formation scenario are also discussed.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Ming-Tang Chen (ASIAA)
+Topic:         The Current Status of the Yuan T Lee Array
+Time:         1/27 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The Yuan T. Lee Array for Microwave Background Anisotropy, or AMiBA, is a radio interferometry array for cosmology experiments. It consists of 13 co-planar, dual-polarization receivers operation at 3 mm wavelength. Its backend is a 4-lag, analog correlator covering a baseband bandwidth of 2-18 GHz, but with almost no spectral resolution capability. The 7-element AMiBA was dedicated in 2006, and subsequently upgraded to the full 13-element Array in 2010. The full array operations has continued for four years and finally ended by 2014. In this talk, I will report on the AMiBA’s current status, particularly on the development of the wide-band digital correlator. This development has enabled new capability for the Yuan T Lee Array, and is preparing the instrument for new research in cosmology science. I will show you the recent testing results of a 4-station digital correlator, and our plan for a new science endeavor to understand the physics during the Epoch of Re-ionization !
+using the Yuan T. Lee Array.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Ivy Wong (Univ. of Western Australia)
+Topic:         How Do Galaxies Stop Forming Stars?
+Time:         1/28 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The Local Universe provides an excellent laboratory for studying the detailed processes of star formation and galaxy evolution. In this seminar, I will present some recent highlights from my work on blue early-type galaxies.  Our latest model demonstrate that the observed "Green Valley" can be reproduced by two star formation truncation pathways for the evolution of galaxies.  We previously found that the local post-starburst galaxies occupy a well-defined region in the low-mass end of the "Green Valley" and that even though star formation has only recently turned off, their morphology already resemble those of the low-mass red sequence galaxies. Since the post-starburst population is far too evolved, we probed the atomic gas content of its predecesssor population, namely, the blue early-type galaxies to search for the smoking gun that caused the sudden truncation of star formation.  Our pilot study suggest that a kinetic process (probably AGN feedback) is driving the quick !
+truncation of star formation in these systems, rather than a simple exhaustion of gas supply.  In this talk I will also briefly describe some early results from the Radio Galaxy Zoo project.
+
+
+===============================================================================
+
+> From: <takakuwa@asiaa.sinica.edu.tw>
+> Subject: SMA call for proposals 2015A
+> Date: Thu, 22 Jan 2015 10:05:43 +0800
+> To: riaa <riaa@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw
+
+Dear All,
+
+While the official e-mail is not yet distributed, the website of the SMA proposal call
+for the 2015A semester has already been open. The deadline is Feb. 13, 05:00 am in Taipei.
+
+http://sma1.sma.hawaii.edu/call.html
+
+The SMA has been producing cutting-edge science, and ALMA proposals showing the SMA observations
+are strong. Please submit your excellent SMA proposals!
+
+Sincerely,
+Shigehisa Takakuwa
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

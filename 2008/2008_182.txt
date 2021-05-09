@@ -1,0 +1,260 @@
+From astro@iaa17.asiaa.sinica.edu.tw Tue Dec  2 01:20:37 2008
+Date: Tue, 2 Dec 2008 01:15:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Nov 27 - Dec 01, 2008)
+
+==============================================================================
+
+In this issue (Nov 27 - Dec 01, 2008)
+
+1. NCU Astronomy Colloquia (Dec 04): Augustin Chicarro (ESA)
+                           (Dec 05): Der-Chuen Lee (ASIES)
+2. Publication Statistics for Astronomers in Taiwan
+3. 1st announcement on J-T Subaru-HSC Science Mini Workshop (Dec 22)
+4. Lulin One-meter Telescope (LOT): Call for Observing Proposals for 2009A 
+
+==============================================================================
+
+> Date: Thu, 27 Nov 2008 16:06:18 +0800 (CST)
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: NCU Colloquium Talks 
+
+Dear Yi-Jehng
+
+Please circulate the following announcements of NCU colloquium talks. 
+There will be a special talk on Thursday (Dec 4), in addition to our 
+regular Friday (Dec 5) colloquium series.
+
+1. Dec. 4 (Thursday) 14:00 to 15:00
+
+      Dr. Augustin Chicarro (ESA)
+
+       "Mars and the Exploration of the Solar System by ESA"
+
+2. Dec. 5 (Friday) 14:00 to 15:00
+
+      Dr. Der-Chuen Lee (Earth Sciences/AS)
+
+       "Hf-W Chronometry and the Early Evolution History of the Solar
+          System"
+
+
+Both will take place in Room 1013 of S4 Building, as usual.
+
+Thanks.
+
+Wen Ping
+
+==============================================================================
+
+> Date: Fri, 28 Nov 2008 12:27:49 +0800 (CST)
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Publication Statistics for Astronomers in Taiwan
+
+Hi Yi-Jehng,
+
+Wednesday and Thursday were our university sports days.  Amid various 
+events, I decided to give myself some extra exercise, and came up with the 
+following report on the paper statistics of our community, which I thought 
+should be interesting to some of the TAN subscribers,
+
+   http://www.astro.ncu.edu.tw/~wchen/pubtaiwan.pdf
+
+Please circulate it.  Thanks.
+
+Wen Ping
+
+==============================================================================
+
+> Date: Fri, 28 Nov 2008 14:36:27 +0800
+> From: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> CC: Hiroaki Nishioka <nishioka@asiaa.sinica.edu.tw>,
+>     Shiang-Yu Wang <sywang@asiaa.sinica.edu.tw>,
+>     Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> Subject: Re: 1st announcement on J-T Subaru-HSC Science Mini Workshop [Dec
+ 22, 2008]
+
+Dear Yi-Jehng,
+
+ > Could you help me to distribute this WS announcement
+ > through TAN?
+ > Many thanks!
+
+Our registration website is ready in time, so can you circulate
+this new version, instead of the one we sent to you last night?
+Many thanks.
+
+regards,
+Keiichi, Hiroaki, Shiang-Yu
+
+___________________________________________________________________-
+
+      		First Announcement on
+    "Japan-Taiwan Subaru-HSC Science/Survey Mini Workshop"
+                       22 December, 2008
+                            Room 716
+    Academia Sinica Institute of Astronomy and Astrophysics, Taiwan
+
+Dear Colleagues,
+
+ASIAA will host a one-day mini science workshop on the planned large
+sky survey with the "Hyper Suprime-Cam" (HSC), which is a next
+generation wide-field (1.5deg FoV) prime-focus camera for the Japanese
+8.2m Subaru Telescope at the summit of Mauna Kea, Hawaii. Development of
+the camera started in 2007 and is planned to be completed in 2012.
+ASIAA is an international partner of the Subaru HSC project. All Taiwanese
+astronomers are welcome to bring your ideas for the survey and join the survey.
+This mini workshop is a pre-meeting for the coming HSC Science/Survey Workshop
+jointly held at NAOJ by Japan and Princeton on January 17-20.
+
+This WS will provide an overview and status of the instrument and survey
+designs/strategies (wide, deep, ultra-deep) proposed by astronomers in
+Japan/Taiwan for different science drivers. The goal of this WS is to put together
+ideas of the survey and integrate the different scientific interests into the survey.
+Following the presentation sessions, a discussion session will be held to discuss
+possible scientific contributions from the Taiwan side, in particular in software
+(e.g., analysis pipelines) development. It will also provide the chance to form subgroups
+of the survey by both Taiwanese and Japanese astronomers.
+
+A preliminary list of invited speakers is attached below. Everyone is
+welcome to attend the WS - please register from our WS website below.
+It is also encouraged to talk about the new ideas for the survey. A few slots will be given
+for the contributed talks on the new ideas. Please contact Keiichi Umetsu (keiichi@asiaa.sinica.edu.tw)
+for this by ** December 7 **.
+
+  * Deadline of Registration: Friday, December 12 , 2008
+    https://www2.asiaa.sinica.edu.tw/act/workshop/20081222/
+
+  * HSC-Taiwan website
+    http://oir.asiaa.sinica.edu.tw/hsc.php
+
+  * Invited speakers (alphabetical order)
+    S. Abe (NCU)*
+    T. Hamana (NAOJ)
+    B.-C. Hsieh (ASIAA)
+    L.-J. Huang (ASIAA)
+    A. Kong (NTHU)
+    L. Lin (ASIAA)
+    S. Miyazaki (NAOJ/HSC)
+    H. Nishioka (ASIAA)
+    K. Umetsu (ASIAA)
+    Y. Urata (Saitama-U/ASIAA)
+    S.-Y. Wang (ASIAA)
+    W.-H. Wang (ASIAA)
+    N. Yasuda (ICRR)
+    F. Yoshida (NAOJ)
+  (*: TBC)
+
+Organizing Committee:
+   Hamana, Takashi (NAOJ)
+   Miyazaki, Satoshi (NAOJ)
+   Nishioka, Hiroaki (ASIAA)
+   Umetsu, Keiichi (ASIAA)
+   Shiang-Yu Wang (ASIAA)
+
+                 Keiichi Umetsu, Hiroaki Nishioka, Shiang-Yu Wang
+                 on behalf of the Organizing Committee (November 27, 2008)
+
+-- 
+_______________________________________________
+Keiichi Umetsu, Ph.D.,
+Academia Sinica
+Institute of Astronomy & Astrophysics (ASIAA)
+P.O. Box 23-141, Taipei 10617, Taiwan
+Tel: +886-2-3365-2200 x732
+Fax: +886-2-2367-7849
+E-mail: keiichi@asiaa.sinica.edu.tw
+www:    http://www.asiaa.sinica.edu.tw/keiichi
+_______________________________________________
+
+==============================================================================
+
+> Date: Mon, 1 Dec 2008 22:08:14 +0800   
+> From: "hclin" <hclin@astro.ncu.edu.tw>         
+> Subject: Lulin One-meter Telescope (LOT): Call for Observing Proposals for 2009A 
+
+Dear Prof. Kuan, 
+
+Would you please circulate this information?  Thanks in advance. 
+
+Regards, 
+Hung-Chin Lin   
+
+---------------------------------- 
+
+Lulin One-meter Telescope (LOT) !X Call for Observing Proposals for 2009A 
+
+Proposal Deadline !X December 31st, 2008 
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the 
+semester of 2009A.  *** The new semester begins on February 1st, 2009 and 
+ends on July 31st ,2009. *** 
+
+Those who are interested in applying for observing time can download the 
+proposal form from the web page: 
+
+http://www.lulin.ncu.edu.tw/lot/lot_apply.doc 
+
+and submit the proposal to the following email address: 
+(*** PLEASE USE THE KEYWORD "LOT-2009A-YOUR_NAME" IN YOUR E-MAIL SUBJECT 
+LINE ***) 
+
+tac_lulin@astro.ncu.edu.tw 
+
+with a copy to the TAC chair to avoid occasional erroneous delivery: 
+
+yichou@astro.ncu.edu.tw 
+
+by midnight, December 31st, 2008, Taiwan time (UT+8).  The allocation of 
+observing time will be announced before January 20th, 2009.  In addition to 
+the research proposals, we will also consider educational projects for 
+advanced astronomical observation courses. 
+
+Instruments Available: 
+
+There are two instruments available, the Lulin CCD Imager (LCI) and the 
+Lulin Compact Spectrograph (LCS).  The LCI is the major observing instrument 
+using the PI-1300B CCD.  The technical information of LCI can be found in 
+the following web page: 
+
+http://www.lulin.ncu.edu.tw/lot/1300b.pdf 
+http://www.lulin.ncu.edu.tw/Research/paper/pi1300b_chjaa_200505.pdf 
+
+The second instrument, the LCS, has been tested and calibrated during the 
+2008.  The calibration of this instrument has been improving but 
+has not achieved its expected performance.  Thus observers using this 
+instrument are on a shared risk basis.  Users are encouraged to keep in 
+close contact with the technical team to receive the updated information.   
+Below please find the specifications of LCS: 
+
+Lulin Compact Spectrograph (LCS) 
+
+Dispersion element: 2 gratings (300 lines/mm and 1200 lines/mm) 
+Detector: Apogee AP-8 (SITE chip, 1K!N1K) Length of slit (projection onto 
+the sky with LOT optics): 8.5 arcmin Width of slit (projection onto the sky 
+with LOT optics): 1.5 arcsec (fixed) Resolving power: 333 @ 500nm (300 
+lines/mm) and 1333 @ 500nm (1200 lines/mm) 
+Wavelength coverage: 380-760nm, and 500-900nm (300 lines/mm)   
+Calibration lamp: Fe-Ar-Ne 
+---------------------------------- 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

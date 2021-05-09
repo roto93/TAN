@@ -1,0 +1,150 @@
+============================================================================== 
+
+In this issue (May 15 - 19, 2014)
+
+1. ASIAA colloquia (May 20 & 21): Phil Armitage (Univ. of Colorado)
+                  (May 22): Debra Fischer (Yale University)
+2. Reminder: East Asia ALMA Science Workshop 2014
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun, 18 May 2014 08:00:02 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Phil Armitage (Univ. of Colorado)
+Topic:        Simulating and observing turbulence in protoplanetary disks
+Time:        5/21 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The strength and nature of turbulence in astrophysical disks is one of the main uncertainties in both accretion disk theory and planet formation. I will present numerical simulations of protoplanetary disk turbulence, which include the non-ideal magnetohydrodynamic effects that damp turbulence in cool poorly-ionized disks. The results hint at a critical role for large-scale magnetic fields, which may be remnants of the star formation process. Sub-mm observations with the SMA and ALMA now approach the acuity needed to measure the turbulent broadening of molecular lines in protoplanetary disks, and I will show predictions for what we may expect to see.
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________ 
+Speaker:    Phil Armitage (University of Colorado, Boulder)
+Topic:        TBA
+Time:        5/20 (Tuesday) 14:20 - 15:20
+Place:        Physics 104
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Debra Fischer (Yale University)
+Topic:        The Search For 100 Earths
+Time:        5/22 (Thursday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The search for planets orbiting nearby stars has been one of
+the greatest success stories of the past decade, with hundreds of
+discoveries being made using Doppler, transit, microlensing, and
+direct imaging techniques and thousands of candidates detected with
+NASA’s Kepler mission. Exoplanet detections have launched a subfield
+of astronomy that includes host star characterizations, measurements
+of planet radii and density, studies of atmospheres, interior
+structure, formation theory, and orbital evolution.
+
+The search for exoplanets is motivated by the question of whether life
+exists elsewhere. This drives our interest in the detection of planets
+that are similar to our own world: rocky planets with the potential
+for liquid surface water and plate tectonics; worlds that might harbor
+life that we can recognize. Importantly, we will need to discover not
+just a few, but hundreds of these worlds to eventually gain a
+statistical understanding of whether life is rare, common, or
+ubiquitous and ground-based telescopes offer an ideal platform for
+carrying out decade-long surveys. It is critical for follow-up studies
+(imaging, atmospheric studies) that these planets orbit nearby stars.
+In this talk, I will discuss how we plan to take what we've learned
+and push on to the next frontier: our plans for a next generation
+spectrograph, EXPRES, to carry out a search 100 Earths with the
+Discovery Channel Telescope.
+
+==============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: Re: Reminder: East Asia ALMA Science Workshop 2014
+> Date: Mon, 19 May 2014 18:44:40 +0800
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Zheng,
+
+    Please add the following workshop to our Announcements.
+
+Best,
+Chin-Fei
+
+On May 14, 2014, at 9:13 PM, CF Lee <cflee@asiaa.sinica.edu.tw> wrote:
+
+> Dear All,=20
+>=20
+>  Korea Astronomy and Space Science Institute (KASI) will host a East =
+Asia ALMA Science Workshop 2014 in this summer on July 14-17.
+>=20
+>  See below for the aim of the Workshop.
+>=20
+>  I would like to encourage you to attend if you are interested in =
+ALMA science. There will be exciting discussions about ALMA science and =
+collaborations.
+>=20
+>  The link to the website is:  http://eaalma2014.kasi.re.kr/
+>=20
+> Best,
+> Chin-Fei
+> On behalf of Taiwan ARC node
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+>=20
+> July 14-17, 2014, Phoenix Island in Jeju
+>=20
+> Room reservation form is available NOW. HERE
+>=20
+> Registration deadline : June 15, 2014
+>=20
+> The "East-Asian ALMA Science workshop 2014" will be held in Phoenix =
+island, Jeju island, Korea, on July 14th - 17th, 2014, hosted by the =
+ALMA Korea project group in the Korea Astronomy and Space Science =
+Institute (KASI). The LOC is pleased to host this annual joint ALMA =
+science workshop of Japan, Taiwan, and Korea, especially, in the year =
+when the ALMA Korea project has officially started in the KASI.
+>=20
+> The main aim of this annual workshop is to continue promoting =
+collaborations among the East Asian astronomers for ALMA sciences. =
+Therefore, we will prepare ample time for group discussions, as well as =
+reporting the ALMA current status, science results, and proposals. In =
+addition, we will have a session for ALMA archive sciences in the =
+afternoon of July 14th, 2014. Since most of Cycle 0 data were already =
+archived, it is good time to think about ALMA archive sciences. Please =
+join this session, hear science cases using archive data and learn how =
+to navigate and collect observational data from a ALMA archive. Except =
+of the archive session, most of time of July 14th will be devoted to a =
+CASA (Common Astronomy Software Applications) tutorial. If you want to =
+learn the CASA, please also join this tutorial session, too.
+>=20
+> The Jeju island is the best place to relax yourself in South Korea. =
+Please come to the workshop and interact with neighboring astronomers in =
+a cozy environment and make future collaborations for ALMA sciences.=20
+>=20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

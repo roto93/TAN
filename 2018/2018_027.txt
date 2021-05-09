@@ -1,0 +1,320 @@
+==============================================================================
+
+In this issue (Feb 15 - 23, 2018)
+
+1. NTNU Astronomy Colloquium (Feb 27): Fang-Chun Liu (NTNU)
+2. IAU symposium 2018
+3. ASIAA Colloquium/Seminar/Lunchtalk (Feb 26): Po-Sheng Ou (NTU)
+                                      (Feb 26): Hsi-Wei Yen (ESO)
+                                      (Mar 01): Guey-Lin Lin (NCTU)
+                                      (Mar 01): Ya-Wen Tang (ASIAA)
+4. CFHT Call for Proposal: Semester 2018B
+
+==============================================================================
+
+> Date: Fri, 23 Feb 2018 20:49:47 +0800
+> From: chenlw <chenlw@ntnu.edu.tw>
+> To: chenlw@ntnu.edu.tw
+> Subject: NTNUES colloquium 27/Feb/2018: Water deuterium fractionation in star-formation regions
+
+    Department of Earth Sciences    
+  National Taiwan Normal University 
+  No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+          C O L L O Q U I U M 
+        ===================== 
+          27/Feb/2018 14:20 
+    Room S101, 1F, Research Building  
+
+
+  TITLE: Water deuterium fractionation in star-formation regions 
+
+  SPEAKER: Dr Fang-Chun Liu (Department of Earth Sciences, National Taiwan Normal University) [¥»¨t ¼BªÚ§g ³Õ¤h]
+
+  ABSTRACT: http://140.122.144.95/colloq/abs/20180227.txt
+
+
+
+  * Teatime at S801-2 after the colloquium
+
+  NTNUES colloq. webpage: http://140.122.144.95/colloq 
+
+==============================================================================
+
+> From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> Date: Wed, 21 Feb 2018 07:04:14 +0800
+> Subject: Fwd: IAU symposium 2018
+> To: riaa@asiaa.sinica.edu.tw,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>        galread <galread@asiaa.sinica.edu.tw>
+
+
+Dear colleagues,
+
+This is an announcement of a conference
+*"Challenges in Panchromatic Galaxy Modelling with Next Generation Facilities"*.
+held in Japan in November.
+
+Regards,
+Hiro
+
+-----------------------------
+IAU Symposium #341: PanModel2018:
+*"Challenges in Panchromatic Galaxy Modelling with Next Generation
+Facilities"*
+
+*November 12 to 16, 2018 at Osaka University Hall*
+
+https://panmodel2018.sciencesconf.org/
+
+Registration will open in early April.
+
+*Topics:*
+Theme 1: Pushing the redshift frontier: modeling the first galaxies
+Theme 2: Pushing the wavelength frontier: extending models towards X-rays
+and radio
+Theme 3: Pushing the technical frontier: from overwhelmingly large datasets
+to machine learning
+
+*Rationale:*
+How galaxies form and evolve across cosmic times is one of the fundamental
+questions in modern astrophysics. In this endeavor, the panchromatic
+modeling of galaxies is one of the key tools. As new and next-generation
+facilities progressively open a new era in astronomy we enter a new era
+where our current approach at modeling the emission galaxies faces a triple
+frontier.
+
+*1) The redshift frontier.*
+The first galaxies in the universe are still largely terra incognita. How
+did the first stellar generations form? What are the properties of
+population III stars and their effect on their environment? How are their
+evolution and spectra affected by rotation and binarity? What can we tell
+about their physical conditions (gas density, temperature, metallicity,
+etc.) from the recombination line spectra? How did the dust form in such
+extreme objects? Since its inception, ALMA has been providing excellent
+opportunities for probing dust to high redshift (z~7 or higher).
+Surprisingly, it revealed a large variety in dust content already
+established at high redshift: some galaxies are rich in dust but others are
+extremely poor. This suggests that the early stages of galaxy evolution
+present a large variety of physical conditions, driving galaxies along
+different paths. The variety should also be related to the stellar
+populations that we will observe with JWST, since metals, of which dust
+grains are composed, originate from stars. Therefore, in order to
+comprehend the evolution of the first galaxies, we need to undertake a
+large panchromatic effort to fully understand the stellar, the gas, and the
+dust content in high-redshift galaxies, rather than develop the models
+separately as is often the case. This conference is suitable for these aims
+because of the attendance of observers working at various wavelengths and
+theoreticians working on the most advanced models of dust evolution and
+SEDs.
+
+*2) The wavelength frontier.*
+The new X-ray missions e-ROSITA and Athena will bring far-reaching changes
+to our understanding of black hole physics and AGN evolution over cosmic
+time. In parallel the CTA is expanding our window on cosmic rays. At the
+same time, MeerKAT is starting operations, VLASS will start soon all the
+while the EVLA and LOFAR show excellent capabilities for deep fields. These
+instruments will open new and unique opportunities to tackle the physics of
+galaxies from star formation to quasars and active nuclei, while opening a
+new window on the epoch of reionization. However, one of the main
+challenges in order to tackle all these points will be to determine the
+physical properties of galaxies through accurate SED modeling.
+Historically, panchromatic models have only covered reliably the
+electromagnetic spectrum from the ultraviolet to the sub-millimeter. The
+loss of information in foregoing X-rays and radio wavelengths is damaging
+to measure reliably the respective properties of host galaxies and AGN, as
+nuclear activity and star formation can be difficult to disentangle
+reliably. This conference will allow us to discuss state-of-the-art X-ray
+and radio modeling of galaxies and the prospects of combining them with
+standard panchromatic models.
+
+*3) The technical frontier. *
+LSST, Euclid, WFIRST and SKA will produce imaging and spectroscopic surveys
+with observations of billions of galaxies, observed multiple times over
+periods in excess of a decade, dwarfing the largest extragalactic surveys
+to date that have been used in developing and applying modeling techniques.
+The size and dimensionality of these data, combined with their limited
+wavelength coverage, creates the need to rethink our panchromatic modeling
+methods. This will require the community to focus its efforts on developing
+new methods and techniques, such as machine learning, that utilize the
+volume and diversity of the data rather than high signal-to-noise
+measurements of small numbers of galaxies. In order to maximize the
+information that can be extracted from these imaging surveys, experts in
+the panchromatic modeling of galaxies need to engage with statisticians and
+observers. This meeting will be an ideal platform from which to identify
+the steps that need to be undertaken in this direction and to develop a
+path towards the exploitation of this new generation of multispectral and
+temporal surveys.
+
+The meeting is will take place from 12 to 16 November 2018 at the =C5=8Csak=
+a
+University Conference Hall in Japan. =C5=8Csaka, is a large historic city o=
+f
+Japan with a rich intellectual life. It is tightly connected to the rest of
+the world with direct flights from Asia, Europe, the Middle East, North
+America, and Oceania. It it connected with T=C5=8Dky=C5=8D through a fast t=
+rain,
+offering even broader connections to the world.
+
+*Review talks*
+*0. Introduction*
+a. The history of panchromatic surveys (*Sadanori Okamura*)
+b. The physical ingredients for panchromatic modeling (*St=C3=A9phane Charl=
+ot*,
+TBC)
+c. Panchromatic codes and modeling techniques from =CF=87=C2=B2 minimizatio=
+n to
+Bayesian inference (*Maarten Baes*)
+
+*1. Pushing the redshift frontier: modeling the first galaxies*
+a. Pushing the redshift frontier with future ground-based and space-borne
+facilities (*Toru Yamada*)
+b. Pushing the redshift frontier modeling the UV-optical domain of high-z
+galaxies (*Erik Zackrisson*)
+
+*2. Pushing the wavelength frontier: extending models towards X-rays and
+radio*
+a. Pushing the panchromatic modeling frontier towards the X-Rays (*Andrea
+Merloni*, TBC)
+b. Pushing the panchromatic modeling frontier towards the radio (*Eric
+Murphy*)
+
+*3. Pushing the technical frontier: from overwhelming large datasets to
+machine learning*
+a. Pushing the technical frontier from large datasets to machine
+learning (*Viviana
+Acquaviva*, TBC)
+
+*Organizing committee: *
+*SOC chair: M=C3=A9d=C3=A9ric Boquien* (University of Antofagasta, Chile)
+
+*SOC members:* *V=C3=A9ronique Buat* (Aix-Marseille University, France), *L=
+aure
+Ciesla* (Aix-Marseille University, France), *Andrew Connolly* (University
+of Washington USA), *Daniel Dale* (University of Wyoming, USA), *Ilse De
+Looze* (University College London, UK), *Maud Galametz* (CEA Saclay,
+France), *Carlotta Gruppioni* (Bologna Astronomical Observatory-INAF,
+Italy), *Hiroyuki Hirashita* (ASIAA, Taiwan), *Akio Inoue *(Osaka Sangyo
+University, Japan), *Elisabeta Lusso* (Arcetri Astrophysical
+Observatory-INAF, Italy), *Kentaro Nagamine* (Osaka University, Japan), *Gi=
+ulia
+Rodighiero* (University of Padova, Italy), *Daniel Schaerer* (University of
+Geneva, Switzerland), *Renske Smit* (University of Cambridge, UK), *Patrici=
+a
+Tissera* (University Andr=C3=A9s Bello, Chile)
+
+*LOC chair: Akio Inoue* (Osaka Sangyo University, Japan)
+LOC members: *Denis Burgarella* (Laboratory of Astrophysics of Marseille,
+France), *Takuya Hashimoto* (Osaka Sangyo University, Japan), *Ken Mawatari=
+*
+(Osaka Sangyo University, Japan), *Tohru Nagao *(Ehime University,
+Japan), *Hiroshi
+Shibai* (Osaka University, Japan)
+
+---------------------------------------
+
+==============================================================================
+
+> Date: Thu, 22 Feb 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Po-Sheng Ou (NTU)
+Topic:         Understanding the Evolution and Environments of Supernova Remnants Through the Lx-Size Diagram
+Time:         2/26 (Monday) 12:15 - 13:15
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Hsi-Wei Yen (ESO)
+Topic:         Observational study of evolution from formation of protostellar disks to formation of planets
+Time:         2/26 (Monday) 11:00 - 12:00
+Place:         R1203
+Abstract:
+Protoplanetary disks, the sites of planet formation, are often observed around young stellar objects. However, it remains unclear as to how and when such disks form during the process of star formation, and whether they possess forming planets or not. Formation and evolution of disks are closely related to angular momentum transfer from their parental dense cores to the vicinity of protostars under the influence of the magnetic field. In this presentation, I will introduce my project aiming to link the analyses of the gas kinematics and the magnetic field in protostellar sources in order to understand the role of the magnetic field in disk formation and evolution. In addition, the gas kinematics in protoplanetary disks can exhibit signatures of dynamical interaction between planets and disks, and thus it can be a signpost of forming planets. In this presentation, I will also introduce my project of searching for planets embedded in protoplanetary disks by detecting signature!
+s induced by disk-planet interaction.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Guey-Lin Lin (NCTU)
+Topic:         
+Time:         3/1 (Thursday) 14:20 - 15:20
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Ya-Wen Tang (ASIAA)
+Topic:         
+Time:         3/1 (Thursday) 11:00 - 12:00
+Place:         R1203
+
+==============================================================================
+
+> From: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> Date: Fri, 23 Feb 2018 17:32:17 +0800
+> Subject: CFHT Call for Proposal: Semester 2018B
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Cc: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+
+Dear Yi-Jehng,
+
+Here is the general CFHT call for proposals for Semester 2018B.
+
+Could you please help circulate it to TAN? Thanks a lot.
+cheers
+Keiichi
+
+----------------------------------------------------------
+
+Dear Colleagues,
+
+Please find below the general CFHT call for proposals for Semester 2018B.
+Our deadline is March 20 at 23:59 Taiwan time.
+Here is the link to the CFHT-Taiwan site:
+http://oir.asiaa.sinica.edu.tw/cfht/observations.php
+
+cheers
+Keiichi Umetsu
+
+----------------
+Dear CFHT users,
+
+The 2018B CFHT call for proposals is now open. Please consult this URL
+for more details.
+
+http://cfht.hawaii.edu/en/science/Proposals/
+
+As usual, we encourage people to submit snapshot programs.
+
+Best of luck!
+
+Daniel Devost for the CFHT team.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 18 Mar 2020 04:34:09 +0800
+Subject: Release of Full Polarization ALMA Test Data in July 2020
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+
+Yu-Nung
+
+
+Release of Full Polarization ALMA Test Data in July 2020
+Mar 17, 2020
+
+ALMA will be releasing data acquired as part of the Extension and Optimization of Capabilities effort (EOC). The data were used to test, implement, and determine the accuracy of the linear-polarization mosaicking observing mode of ALMA. The data consist of:
+
+(1) Offset-pointing full-polarization observations performed in an 11x11 pointing grid in the (Azimuth, Elevation) frame, covering a region spanning approximately the full-width at half-maximum (FWHM) of the primary beam at bands 3, 5, 6, and 7. The observations were of the bright, highly linearly polarized quasar 3C 279.
+
+(2) A 15- and 45-pointing mosaic in band 3 and band 6, respectively, toward the Orion-KL nebula. The observations were configured asrectangular mosaics with a factor of 2 over-sampling (with respect to Nyquist) along both axes, or a factor of 4 in total beam overlap. Both mosaics are centered at RA = 05:35:14.5, DEC = -05:22:31.6 (J2000), using the standard spectral specification for continuum polarization observations with ALMA. The mosaics were oriented at approximately 30 degrees E of N, with an approximate extension of 90 arcsec in width and 130 arcsec in length for band 3, and 54 arcsec in width and 82 arcsec in length for band 6. The approximate angular resolution of the data is 0.9 arcsec in band 3 and 0.6 arcsece in band 6. The approximate achieved sensitvity is 0.9, 0.1, and 0.1 mJy/beam for Stokes I, Q, and U in band 3 respectively, and 2.1, 0.5, and 0.49 mJy/beam for Stokes I, Q, and U in band 6 respectively.
+
+Note, that the theoretical sensitivity was not reached for Stokes I Orion KL data as the image was dynamic range limited. The raw data, along with the calibrated measurement sets, reference images, and reduction scripts will be released in early July 2020. The data will be available through the ALMA science archive.
+
+
+https://almascience.nao.ac.jp/news/release-of-full-polarization-alma-test-data-in-july-2020
+
+==============================================================================

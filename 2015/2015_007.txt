@@ -1,0 +1,191 @@
+=============================================================================== 
+In this issue (Jan 05 - 09, 2015)
+
+1. NTHU colloquia (Jan 09): Bandy Shang
+                  (Jan 16): Hsu-Tai Lee (ASIAA/Univ of Illinois)
+2. NARIT International Astronomical Training Workshop (Mar 25 - April 2)
+3. ASIAA Colloquia/Seminars (Jan 12): I-Non Chiu (Munich Univ Obs)
+                            (Jan 13): David Spergel (Princeton Univ)
+                            (Jan 14): Fred Walter (Stony Brook Univ)
+                            (Jan 15): Nanase Harada (ASIAA)
+
+===============================================================================
+
+> Date: Mon, 5 Jan 2015 11:09:47 +0800
+> Subject: Re: NTHU colloquium
+> From: Tomo <itlhnis@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Dani Chao <edcamel@gmail.com>
+
+      ############################################
+                          NTHU
+                  Astronomy Colloquium
+      ############################################
+
+Friday - January 9, 2015
+13:00-15:00, R620
+
+Bandy Shang, "The observation of Lunar Occultations using the ULTRASPEC"
+廖又賢, "A search for open cluster Cepheids in the Galactic plane"
+
+
+Friday - January 16 2015,
+13:00-15:00, R620
+
+Hsu-Tai Lee (ASIAA/University of Illinois)
+Title: Star Formation Rates of the Magellanic Clouds Determined from
+Massive Star Counts
+Abstract:
+We have used the IRSF Magellanic Clouds (MCs) Point Source Catalog to
+identify candidates of massive main sequence stars in the MCs using
+the criterion J-H < 0 (extinction corrected) and their corresponding
+M_J magnitudes. The massive star counts and their main sequence
+lifetimes are used to estimate average star formation rates in the
+past ~10^7 yr. We discuss the uncertainties caused by photometric
+degeneracies between main sequence massive stars and giant stars, and
+binary stars. Using these massive star counts and assuming Salpeter's
+initial mass function (IMF), we find average SFRs of ~0.37 and 0.12 M
+yr^-1 for the LMC and SMC, respectively. If Kroupa’s IMF is adopted,
+the SFRs will be ~18% lower. These SFRs are higher than those
+determined from the H-alpha luminosities by 70-80% and a factor of ~3
+for the LMC and SMC, respectively. We suggest that this discrepancy is
+caused by the escape of stellar UV radiation from the disk planes of
+the MCs. SFRs determined from combinations of H-alpha and infrared
+emission may be still subject to the optical thickness of the
+interstellar medium (ISM), especially for galaxies with tenuous ISM,
+low metallicity and low dust content.
+
+===============================================================================
+
+> Date: Tue, 6 Jan 2015 22:45:40 +0800
+> Subject: Fwd: NARIT International Astronomical Training Workshop (March 25-April 2, 2015)
+> From: Chen Wen-Ping <wchen@gm.astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>    IR Lab <all@irlab.astro.ncu.edu.tw>
+
+---------- Forwarded message ----------
+> From: Andrea Richichi <andrea4work@gmail.com>
+> Date: 2015-01-06 22:21 GMT+08:00
+> Subject: NARIT International Astronomical Training Workshop (March 25-April 2, 2015)
+> To: Undisclosed recipients <andrea4work@gmail.com>
+
+
+Dear colleagues
+
+we would like to draw your attention to the first NARIT International
+Astronomical Training Workshop (NIATW) that will take place from March 25
+to April 2, 2015, in Chiang Mai (Thailand) and at the nearby Thai National
+Observatory on Doi Inthanon.
+
+The workshop aims at providing a hands-on experience with the 2.4-m Thai
+National Telescope and its modern instrumentation for both imaging and
+spectroscopy. The participants will take part in a number of observational
+programs, obtain original data, and learn the steps of data reduction to
+reach science-grade results.
+
+The focus of this first NIATW is about time-variable phenomena,  with
+emphasis on short time scales from less than one day  to sub-seconds.
+Examples are: stellar pulsation, oscillations,  occultations, transits,
+compact binaries.  Also the use of archival data will be promoted.
+
+The workshop is organized by NARIT, in coordination and with sponsorship of
+the IAU Office of Astronomy for Development. It is open to advanced
+students and professional astronomers. Priority will be given to applicants
+from countries where such training opportunities and facilities are scarce,
+however there is no geographical restriction.
+
+Participation is free of charge, as well as accomodation for the whole
+duration of NIATW. Participants are expected to cover their travel
+expenses, but a limited amount of financial support could be available in
+special cases.
+
+*We would be very grateful if you could please help disseminate this
+announcement*. Detailed information and the online registration form are
+available at http://www.narit.or.th/en/index.php/niatw2015
+
+with best regards
+Prof. Boonrucksar Soonthornthum (NARIT Director)
+Dr. Andrea Richichi (NIATW Coordinator)
+
+
+Andrea Richichi
+Senior Researcher
+National Astronomical Research Institute of Thailand (NARIT)
+Siriphanich Building
+191 Huay Kaew Road
+Chiang Mai 50200 - Thailand
+
+===============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu,  8 Jan 2015 08:00:03 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    I-Non Chiu (Munich University Observatory)
+Topic:         Baryon Content of Massive Galaxy Clusters
+Time:         1/12 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+Understanding how the cluster and group baryon components evolve with redshift is a key question today. While there have been many detailed studies of intermediate and high redshift galaxy clusters, most previous observational studies of large cluster samples have focused on nearby systems due to the difficulty of defining high redshift samples and of following them up in the X-ray and with adequately deep optical or near-infrared imaging. That is changing now with the recent analyses of Sunyaev-Zel’dovich effect selected clusters and groups at intermediate and high redshift. In this talk I will present the recent work of the multi-wavelength study of baryon content for massive galaxy clusters selected by South Pole Telescope.
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________ 
+Speaker:    David Spergel (Princeton University)
+Topic:         Planck and Beyond
+Time:         1/13 (Tuesday) 14:20 - 15:20
+Place:         Physics 104
+Abstract:
+The Planck Telescope has made an accurate full-sky measurement of the cosmic microwave background (CMB) temperature, the leftover heat from the Big Bang. These measurements probe both the physics of the very early universe and the basic properties of the universe today. The Planck measurements confirm the earlier results from the WMAP telescope and rigorously test our standard cosmological model and provide an accurate determination of basic cosmological parameters (the shape of the universe, its age, and its composition). When combined with other astronomical measurements, the measurements constrain the properties of the dark energy and the nature of dark matter. The observations also directly probe the physics of first moments of the Big Bang: the current data are consistent with the idea that the early universe underwent a period of rapid expansion called inflation.
+
+Many key cosmological questions remain unanswered: What happened during the first moments of the big bang? What is the dark energy? What were the properties of the first stars?  Dr. Spergel will discuss the role of ongoing and future CMB observations and describe how the combination of large-scale structure, supernova and CMB data can be used to address these key cosmological questions.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Fred Walter (Stony Brook University)
+Topic:         New Insights into Dust in the Environments of Novae from Chiron Spectroscopy
+Time:         1/14 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+When I started using SMARTS to observe galactic novae nearly 12 years ago, little did I know how challenging and engrossing this endeavor would prove.  After all, the "nova problem" has been solved many times, and the novae have been thought to be almost fully understood. This could not be further from the truth.
+
+Novae, thermonuclear runaways on the surfaces of white dwarfs, explode and interact with their environments on timescales of days to years, which is ideal for synoptic monitoring with the SMARTS facilities at CTIO.  After an introduction, I will discuss what high-cadence optical and near-IR photometry tells us about the formation of dust in novae. But photometry only tells part of the story.  I shall focus on high-cadence high resolution optical spectroscopy of two disparate novae, the recurrent nova V745 Sco and the slow nova V1369 Cen.  High spectral resolution reveals never-before seen details which likely will permit us to map the circumstellar environments of the long-period symbiotic systems like V745 Sco.
+
+V1369 Cen put on a show over Christmas 2013. Like other slow, dust-forming novae, it had multiple optical outbursts. Each of these corresponds to the appearance of a new spectroscopic absorption system.  Nearly-daily observations for 5 months let us trace the dynamics of the envelope, and perhaps to view dust formation.
+
+In the past most novae have been ignored once they faded; long-term synoptic photometry and spectroscopy are showing that the novae are far more complex than we had assumed, but appropriate observations can and are revealing new truths about these "new stars".
+
+
+*** CompAS Seminar ***
+____________________________________________________ 
+Speaker:    Nanase Harada (ASIAA)
+Topic:         TBA
+Time:         1/15 (Thursday) 13:30 - 14:30
+Place:         R1108
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

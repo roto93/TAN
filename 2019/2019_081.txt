@@ -1,0 +1,278 @@
+
+In this issue (May 03 - 10, 2019)
+
+1. ALMA2019 conference third announcement
+2. NTNUES Colloquium (May 14): Masaki Fujimoto (ISAS, JAXA)
+3. Colloquium at NCU (May 10): Peter Scicluna (ASIAA)
+4. ASIAA Colloquium/Seminar/Lunchtalk (May 13): Hau-Yu Liu (ASIAA)
+                                      (May 15): Di Li (NAOC)
+                                      (May 16): Masaki Fujimoto (JAXA)
+5. Telescope conference in Kaohsiung (Sep 2-5)
+6. Colloquium at NCU (May 24): Hsi-Yu Schive (NTU)
+
+==============================================================================
+
+> Subject: Fwd: ALMA conference third announcement
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Date: 2019-05-06 10:33
+
+Dear Prof Kuan,
+
+Please help to forward this to TAN.
+
+Cheers,
+Wei-Hao
+
+
+Third announcement:
+-----------------------
+
+ALMA2019: Science Results and Cross-Facility Synergies
+-----------------------------------------------------------
+
+Dear colleagues,
+
+Registration has now opened for the next ALMA-wide science conference, 
+to be held from 14-18 October 2019 in Cagliari, Sardinia, Italy. 
+The abstract submission deadline is 15 May 2019.
+
+At the conference we will discuss the full breadth of ALMA science, with 
+special emphasis on results from the first rounds of ALMA Large Programmes, 
+the long baselines and high frequency capabilities, the new Solar and 
+VLBI modes, as well as the synergy between ALMA and other observatories. 
+As in previous editions of the conference series, we expect to discuss 
+the scientific priorities for the implementation of the ALMA Development 
+Roadmap.
+
+Information on the registration procedure, invited speakers, child care 
+and financial support can be found on the conference website 
+(https://indico.ict.inaf.it/event/789/overview).
+
+Important dates:
+++++++++++++++++
+Registration opened: 13 March 2019
+Abstract submission deadline: 15 May 2019
+Deadline to request financial support: 15 May 2019
+Notification of talk selection: 1 July 2019
+Regular registration deadline: 31 July 2019
+Late registration deadline: 13 September 2019
+
+Financial support:
+++++++++++++++++++
+Limited funding through RadioNet is available to provide financial
+support in the form of a registration fee reduction or financial support
+towards child care. In order to apply for this funding, direct an email
+to 
+alma2019radionet@eso.org
+with the subject line "Request for financial
+support - ALMA 2019 conference". In your email you should specify your
+needs and a justify your request. Note that we can only provide financial
+support to contributions or participants linked to RadioNet, and recipients
+will at least need to satisfy one of the following criteria:
+ -- oral presentation by a user of RadioNet infrastructures (EVN, e-MERLIN,
+ IRAM, LOFAR, Effelsberg, APEX) presenting the scientific/technical
+ results from the use of the infrastructure
+ -- oral presentation on results from the RadioNet development activities
+ (AETHRA, BRAND EVN and RINGS)
+ -- exceptional speaker experts from non-RadioNet institutes bringing
+ added value (specified) for the RadioNet community through their talk
+The deadline to apply for finanicial support is the same as the abstract
+submission deadline: 15 May 2019.
+
+
+Acknowledgements:
+=================
+The meeting is sponsored by ESO, INAF, iALMA, and Radionet. In particular,
+this event has received funding from the European Union¡¦s Horizon 2020
+research and innovation programme under grant agreement No 730562 [RadioNet].
+
+We hope to see many of you in Cagliari!
+
+Best wishes,
+
+Ciska Kemper,
+on behalf of the SOC/LOC 
+
+==============================================================================
+
+> Subject: NTNUES colloquium 14/May/2019: Hayabusa2 and JAXA small body exploration program
+> From: chenlw <chenlw@ntnu.edu.tw>
+> To:   chenlw@ntnu.edu.tw
+> Date: 2019-05-10 00:44
+
+   Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         14/May/2019 14:20
+  Conference Room, B1, General Hall
+      (ºî¦XÀ] ¦a¤U«Ç¤p«¬ºtÁ¿ÆU)
+
+
+TITLE: Hayabusa2 and JAXA small body exploration program
+
+SPEAKER: Prof Masaki Fujimoto (Deputy Director General, ISAS, JAXA)
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20190514.htm
+
+
+* Teatime available after the colloquium
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Mon, 6 May 2019 08:41:27 +0800
+> Subject: Re: colloquium at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+
+*** NCU Colloquium ***
+
+*Speaker*:    Dr Peter Scicluna (ASIAA)
+*Date/Time*:   May 10 (F), 14:00
+*Room*:   NCU, S4 Room 1013
+*Title*:    Hayabusa2 and JAXA small body exploration program
+*Abstrac*t:    Outflows of evolved stars drive the chemical evolution of
+galaxies in the local Universe. Population models dictate that low- to
+intermediate-mass asymptotic giant branch (AGB) stars dominate this process
+today, while in the early universe, massive stars and supernovae were
+likely the main contributors. However, many key issues regarding AGB mass
+loss remain unresolved. Thanks to Spitzer, a number of Local Group galaxies
+have been observed in detail, revealing the dust-production rates of all
+evolved stars, and hence the total dust injection rate for the galaxies.
+However, measuring the gas mass-loss rates outside our galaxy is
+prohibitive, making it unlikely that a large sample will be available in
+the foreseeable future, and systematic studies in the Milky Way remain
+conspicuously absent. The Nearby Evolved Stars Survey (NESS) aims to fill
+this gap, by targeting a volume-limited sample of roughly 400 sources
+within 2 kpc, enabling robust statistical studies of local evolved stars.
+We will derive the dust and gas return rates in the Solar Neighbourhood,
+and constrain the physics underlying these processes. I will present a
+detailed description of the project, including the motivation and strategy,
+and highlight some of our early results. I will also briefly introduce the
+tools we are developing that will, along with a catalogue containing all
+raw and reduced NESS data and a compilation of literature data, be released
+to the community to aid reproducibility.
+
+==============================================================================
+
+> Date: Thu, 9 May 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Hau-Yu Liu (ASIAA)
+Topic:          
+Time:           5/13 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Di Li (NAOC)
+Topic:          Present science/technical achievements of the Five hundred meter Aperture Spherical Telescope and future prospects
+Time:           5/15 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Masaki Fujimoto (JAXA)
+Topic:          
+Time:           5/16 (Thursday) 14:20 - 15:20
+Place:           R1203
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Fri, 10 May 2019 10:48:09 +0800
+> Subject: telescope conference
+> To: astro@asiaa.sinica.edu.tw, asall <asall@astro.ncu.edu.tw>
+
+There will be a conference on astronomical telescopes
+and instruments, to be held September 2 to 5 in
+Kaohsiung.  The eighth in the series, held once every two years and
+alternating between Taiwan and China, this meeting aims to bring together
+scientists and engineers to keep breast of the ongoing developments of
+observing facilities and latest technological advancements.  Over the years
+the meeting serves as an effective vehicle to foster
+collaboration with Chinese astronomers.
+
+The meeting will be run in Mandarin Chinese, but speakers could choose to
+present in English.
+
+  http://lidodo.astro.ncu.edu.tw/2019ATITC/
+
+You are welcome to sign up.
+
+Cheers,
+Wen Ping
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Fri, 10 May 2019 11:12:35 +0800
+> Subject: Re: colloquium at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+
+*** NCU Colloquium ***
+
+*Speaker*:    Dr Hsi-Yu Schive (NTU)
+*Date/Time*:   May 24 (F), 14:00
+*Room*:   NCU, S4 Room 1013
+*Title*:     Wave Dark Matter Predictions from GPU-accelerated Adaptive Mes=
+h
+*Abstrac*t:    The conventional particle interpretation of cold dark matter
+(CDM) still lacks laboratory support and struggles to explain the basic
+properties of low-mass galaxies. This tension motivates wave dark matter (=
+=CF=88DM)
+composed of extremely light particles (m=CF=88~10-22 eV), which suppresses
+structure below the kpc scale by the uncertainty principle but retains the
+large-scale structure predicted by CDM. In the first part of this talk, I
+will present cosmological =CF=88DM simulations with extremely high resoluti=
+on
+capable of resolving dwarf galaxies, revealing that every =CF=88DM halo has=
+ a
+prominent soliton core surrounded by fluctuating density granules. These
+predictions are consistent with the observations of galaxy formation,
+Lyman-alpha forest, reionization, and gravitational lensing flux anomalies.
+I will also discuss several critical challenges faced by this model. The
+second part of this talk will focus on GAMER, a GPU-accelerated adaptive
+mesh refinement (AMR) code developed from scratch by our group. A rich set
+of physics modules have been incorporated and which outperforms other AMR
+codes by one to two orders of magnitude. The code scales well to thousands
+of GPUs and achieves a uniform resolution as high as 10,2403 cells. I will
+present several ongoing astrophysical projects using GAMER that require
+substantially higher resolution than previously feasible.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

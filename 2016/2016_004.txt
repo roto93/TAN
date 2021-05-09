@@ -1,0 +1,117 @@
+==============================================================================
+
+In this issue (Jan 08 - 09, 2016)
+
+1. Arizona Radio Observatory - Call for Proposals: Spring 2016 (Jan 27)
+2. NTHU astronomy colloquium (Jan 11): Paul Price (Princeton)
+3. ALMA Conference (Sep 20-23, 2016) in CA
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2016)
+------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT), located on
+Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
+located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are
+being solicited for the period February 15, 2016 to June 15, 2016. Graduate
+student participation is especially encouraged. The proposal deadline for this
+2016 spring semester is set on January 27, 2016 (Wednesday).
+
+The SMT currently supports a dual-polarization 1-mm (211-275 GHz) receiver with
+ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, a 0.4-mm (602-720 GHz) dual-polarization receiver with ALMA
+Band-9 mixers, and a new Band 7 receiver with SBS mixers will be available in
+Spring 2016. The SMT control system supports both dual-polarization
+("2 IF mode"), and dual-polarization, dual-sideband observations ("4 IF mode"),
+as well as OTF mapping. The new 12m supports an ALMA Band-3 dual-polarization
+SBS receiver (84-116 GHz).
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Information about Remote Observing
+can be viewed at http://aro.as.arizona.edu/remote/remote.htm . Proposers should
+consult the ARO website http://aro.as.arizona.edu/ for technical specifications.
+For operational questions and further information about remote observing, please
+contact Tom Folkers, Operations Manager at tfolkers@ email.arizona.edu.
+
+Proposal candidates can download the updated Proposal Summary Sheet here:
+http://aro.as.arizona.edu/proposal_submission_information.htm . Proposers are
+required to list on the Proposal Summary Sheet their requested observing blocks
+(LST ranges), dates on which they are NOT available to observe, and dates in
+which sources in those observing blocks are within the Sun-avoidance zone (44
+degrees at the SMT). Proposal candidates are also encouraged to submit up to two
+pages of scientific justification (including figures and/or tables) with their
+Proposal Summary Sheet. Electronic submissions will be accepted in PDF format
+ONLY. Scheduling of successful proposals will be done according to availability
+of the receivers requested. The proposal PDF file should be emailed to
+kuan@ asiaa.sinica.edu.tw by midnight (23:59 CST) January 27, 2016 (Wednesday).
+
+==============================================================================
+
+> From: Tomo <itlhnis@gmail.com>
+> Date: Fri, 8 Jan 2016 08:56:57 +0800
+> Subject: NTHU colloquium 2016/01/11
+> To: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> Cc: astro@asiaa.sinica.edu.tw
+
+1/11 (Mon) 5:30pm, in GBII R524
+
+Paul Price (Princeton)
+Title: The Hyper Suprime-Cam Pipeline
+The Hyper Suprime-Cam Strategic Survey Program aims to image 1400
+square degrees with HSC on Subaru to study galaxy formation and
+cosmology using weak lensing.  We currently have collected over 5000
+science-grade exposures towards this goal, with more to come over the
+next few years.  To reduce this data, we have constructed a pipeline
+based on that being developed for the Large Synoptic Survey Telescope.
+I will introduce the HSC pipeline, outline its features and the
+quality of the reduced data, and demonstrate how the pipeline can be
+used to reduce open-use HSC data or form the basis for other
+astronomical image operations.
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: ALMA Conference (Sep 20-23, 2016) in CA
+> Date: Fri, 8 Jan 2016 15:42:33 +0800
+> To: riaa@asiaa.sinica.edu.tw,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear All,
+
+I would like to bring to your attention the ALMA science conference in September this year.
+It will be in California, and all topics in astronomy are included.  The registration will open
+in mid March.  Please see more details here:
+
+http://www.cvent.com/events/half-a-decade-of-alma-cosmic-dawns-transformed/event-summary-12c52aba230240578621efced142116e.aspx
+
+Those with ALMA science results in the early cycles are highly encouraged to attend this conference.
+
+Cheers,
+Wei-Hao
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

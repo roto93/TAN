@@ -1,0 +1,65 @@
+==============================================================================
+
+Date: Thu, 15 Oct 2020 09:23:37 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: =?UTF-8?Q?=5BCAG_Seminar=5D_12=3A20pm=2C_Oct_23=2C_Howard_Chen_?= =?UTF-8?Q?=28=E9=99=B3=E7=9A=93=3B_Northwestern_University=29?=
+
+Dear all,=20
+
+Next Friday (Oct 23) we will have another CAG seminar at Room B101.
+Howard Chen (=E9=99=B3=E7=9A=93; PhD student, Northwestern University) wi=
+ll present his
+latest efforts on modeling rocky exoplanet atmospheres around active
+low-mass stars.=20
+
+Best,
+Ya-Lin=20
+
+-------------------------------------------------------------------------=
+
+Speaker: Howard Chen (=E9=99=B3=E7=9A=93; Northwestern University)
+Time: 12:20 pm, 2020 Oct 23
+Venue: B101=20
+
+Title: Influence of Large Stellar Flares on Rocky Exoplanets=20
+
+Abstract: Planets orbiting low-mass stars are prime systems for
+atmospheric characterization due to their low star-to-planet brightness
+contrast, high transit frequency, and prolonged main sequence stellar
+lifetimes. However, small stars such as M-dwarfs are highly magnetically
+active stemming from strong interactions between the stellar photosphere
+and corona. As a result, the atmospheres of attendant rocky planets in
+these systems may suffer severe atmospheric escape and chemical
+modulations by strong X-ray and UV activity. Previous 1D models found
+that although a single large flare does not substantially impact the
+ozone layers, repeated secular flaring with the inclusion of highly
+energetic particles could rapidly destroy the ozone columns of planets
+with initially Earth-like atmospheres.=20
+
+In this talk, I present our results in studying the effects of repeated
+stellar flares on planets orbiting G-, K-, and M-stars using
+state-of-the-art 3D models. First, I will briefly present key
+conclusions from my previous work simulating the atmospheres of rocky
+planets. Second, I will describe our methodology of this study by
+coupling an M-dwarf flare model to the 3D atmosphere model.
+Specifically, I will discuss how we compute realistic flare intensities,
+frequencies, and durations with a flare toolkit with data drawn from
+Hubble Space Telescope observational campaigns. I will then present new
+results in that we find that recurring stellar flares drive planetary
+atmospheres around K- and M-dwarfs into new chemical equilibria that
+substantially deviate from their initial pre-flare regimes. This stems
+from increased M-dwarf proton fluences, changes in the latitudinal
+extensions of energetic particle deposition due to absence of planetary
+magnetic fields, and transport via large-scale circulation and wave
+breaking. Using a newly published radiative transfer model, I will show
+that chemical compounds such as nitrous oxide (N2O) and nitric acid
+(HNO3) can be prominently observed throughout the entirety of the
+planet's orbit in active stellar systems, making these "beacons of life"
+highly amenable to detection by the James Webb Space Telescope and
+next-generation instruments.
+
+--=20
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+==============================================================================

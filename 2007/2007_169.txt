@@ -1,0 +1,245 @@
+From astro@iaa17.asiaa.sinica.edu.tw Thu Dec  6 15:03:34 2007
+Date: Thu, 6 Dec 2007 14:49:14 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Nov 28 - Dec 06, 2007)
+
+==============================================================================
+
+In this issue (Nov 28 - Dec 06, 2007)
+
+1. Suzaku AO-3 background files
+2. Postdoctoral Positions at NTHU
+3. Hubble Space Telescope Cycle 17 Call for Proposals
+4. ASIAA Colloquium (Dec 07): Paul Ricker (UIUC)
+
+==============================================================================
+
+> From: "Hsiang-Kuang Chang" <hkchang@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw, takata@tiara.sinica.edu.tw,
+>       akong@phys.nthu.edu.tw
+> Subject: Fw: Suzaku AO-3 background files
+> Date: Wed, 28 Nov 2007 11:24:13 +0800
+
+---------- Forwarded Message -----------
+> From: Kazuhisa MITSUDA <mitsuda@isas.jaxa.jp>
+> To: hkchang@phys.nthu.edu.tw
+> Cc: Kazuhisa MITSUDA <mitsuda@isas.jaxa.jp>
+> Sent: Wed, 28 Nov 2007 11:41:00 +0900
+> Subject: Suzaku AO-3 background files
+
+Dear Prof. Hsiang-Kuang Chang,
+
+Could you please kindly distribute the message to
+Suzaku AO-3 proposers to colleagues in your country?
+
+It is not critical for most proposals, but since the
+due date is coming soon, it is rather urgent.
+
+Best wishes,
+
+Kazuhisa Mitsuda
+--------------------------------------------------
+Department of High Energy Astrophysics
+Institute of Space and Astronautical Science (ISAS)
+Japan Aerospace Exploration Agency (JAXA)
+
+3-1-1 Yoshinodai, Sagamihara, 229-8510, Japan
+
+phone:    +81-427-59-8132
+telefax:  +81-427-59-8455
+
+=================================
+Dear Suzaku Cycle-3 proposers,
+
+As you may have noticed the background files in the following
+Suzaku AO-3 cycle proposal pages contained data of about 90 ks
+exposures.
+
+XIS: http://www.astro.isas.jaxa.jp/suzaku/proposal/ao3/xis_cxb/
+HXD: http://www.astro.isas.ac.jp/suzaku/proposal/ao3/hxd_mat/
+
+We have uploaded background files of longer exposures (about
+800ks) for the HXD and we made a link to the night earth
+database for the XIS in the above web pages.
+
+For the HXD, the Poisson errors of the background files are
+smaller than the systematic errors of the background.  So it
+is not necessary to redo your simulations using the new
+background in most cases, though the significance of signals
+may increase a little bit.
+However, we recommend to redo simulations, ONLY if you are
+following the simulation recipe in section 5.5.2 of the technical
+description AND if you use the absolute values of the chi^2 as
+criteria of your observation.
+
+For the XIS,  we recommend to redo simulations if the
+exposure time is longer than about 100 ks and your statistics
+are determined by background, i.e. the source is faint.
+Since as in AO-2, we can provide only the long-exposure
+night-earth data, please include the CXB and the galactic
+emissions in your simulations as models.
+
+Best regards,
+
+Kazuhisa Mitsuda
+
+Suzaku Project Manager
+--------------------------------------------------
+Department of High Energy Astrophysics
+Institute of Space and Astronautical Science (ISAS)
+Japan Aerospace Exploration Agency (JAXA)
+------- End of Forwarded Message -------
+
+-----------------------------------------------
+Hsiang-Kuang Chang                         
+Professor
+Department of Physics & Institute of Astronomy   
+National Tsing Hua University                   
+Hsinchu 30013, Taiwan, Republic of China 
+
+Tel: 886-3-5742952
+Fax: 886-3-5723052
+URL=http://www.phys.nthu.edu.tw/~hkchang
+-----------------------------------------------
+
+==============================================================================
+
+> From akong@phys.nthu.edu.tw Thu Nov 29 15:28:11 2007
+> Date: Thu, 29 Nov 2007 15:27:39 +0800
+> From: Albert Kong <akong@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Postdoctoral Positions at NTHU
+
+Postdoctoral Positions in High Energy Astrophysics and Star and Planet 
+Formation
+Institute of Astronomy, National Tsing Hua University
+
+The Institute of Astronomy at National Tsing Hua University, Taiwan, 
+invites applications for postdoctoral research positions in high-energy 
+astrophysics and star and planet formation. The successful candidates 
+will work with faculty members of the institute including Hsiang-Kuang 
+Chang, Huei-Ru Chen, Dean-Yi Chou, Ing-Guey Jiang, Albert Kong, and 
+Shih-Ping Lai. Their research activities involve theoretical 
+investigations and observations in various wavebands with facilities 
+like Chandra, XMM, Integral, RXTE, Suzaku, Hubble, Spitzer, SMA, etc. 
+On-going instrumentation projects include the Nuclear Compton Telescope 
+(NCT) in collaboration with UCB/SSL, and an optical observing network 
+for exoplanet transit. The postdoctoral scholars will be encouraged to 
+develop new initiatives in-line with their own research interests. 
+Applicants must have a PhD in relevant research fields. The appointment 
+will be for two years initially, and will likely be renewed for 
+additional years depending on performance and continued funding.
+
+Applicants should submit a curriculum vitae, a list of publications, and 
+a statement of research interests to hkchang@phys.nthu.edu.tw. 
+<mailto:hkchang@phys.nthu.edu.tw.> Applicants should also make 
+arrangements for three letters of recommendation to be sent directly to 
+Prof. Hsiang-Kuang Chang, Institute of Astronomy, National Tsing Hua 
+University, Hsinchu 30013, Taiwan. Letters of recommendation can be sent 
+via e-mail. Applications received by January 31, 2008 will receive full 
+consideration, but the positions will remain open until filled.
+
+==============================================================================
+
+> From wchen@astro.ncu.edu.tw Wed Dec  5 10:08:18 2007
+> Date: Wed, 5 Dec 2007 10:07:56 +0800 (CST)
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Hubble Space Telescope Cycle 17 Call for Proposals (fwd)
+
+Hi Yi-Jehng,
+
+I thought our community might be interested in this announcement.  Please
+consider for TAN inclusion.  Thanks.
+
+Wen Ping
+
+---------------------------------------------------------------------------
+
+Hubble Space Telescope Cycle 17 Call for Proposals
+
+Release Date: December 03, 2007
+
+Proposal Deadline: March 07, 2008
+
+NASA and The Space Telescope Science Institute (STScI) are pleased to announce 
+the Cycle 17 Call for Proposals for Hubble Space Telescope (HST) Observations 
+and funding for Archival Research and Theoretical Research programs. 
+Participation in this program is open to all categories of organizations, both 
+domestic and foreign, including educational institutions, profit and nonprofit 
+organizations, NASA Centers, and other Government agencies.
+
+This solicitation for proposals will be open through March 07, 2008, 8:00pm 
+EST. The Astronomer's Proposal Tools (APT), which is required for Phase I 
+Proposal Submission will be made available/released for Cycle 17 Phase I use 
+during the 2nd week of January 2008. Results of the selection will be announced 
+in early June 2008.
+
+All programmatic and technical information, as well as specific guidelines for 
+proposal preparation, are available electronically from the STScI World-Wide 
+Web site at the Announcement Web Page with URL: 
+http://www.stsci.edu/hst/proposing/docs/cycle17announce
+
+In Cycle 17, proposers should assume that HST will operate in three-gyro mode. 
+HST has been operating in two-gyro mode since 29 August 2005.
+
+For further details, see http://www.stsci.edu/hst/proposing/docs/cp17-newopps
+
+Questions can be addressed to the STScI Help Desk (email: help@stsci.edu; 
+phone: 410-338-1082).
+---------------------------------------------------------------------------
+
+==============================================================================
+
+> From syliu@asiaa.sinica.edu.tw Thu Dec  6 09:50:19 2007
+> Cc: faculty@phys.ntu.edu.tw, whchen@gate.sinica.edu.tw,
+>         astro@asiaa.sinica.edu.tw
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Subject: [Colloquium] ASIAA Colloquium This Friday (12/07)
+> Date: Thu, 6 Dec 2007 09:49:58 +0800
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+
+Dear all,
+
+	We will have a special colloquium talk this Friday (12/07).
+  Prof. Paul Ricker is visiting these two weeks from University of
+  Illinois at Urbana-Champaign. Prof. Ricker's research interests
+  include the evolution of galaxies and clusters of galaxies,
+  globular clusters, the interstellar medium, and supernova explosions.
+  He will present a talk titled "Sources of scatter in galaxy cluster
+  mass-observable relations".
+
+	Due to the ongoing TIARA workshop, the talk is scheduled on
+  Friday lunch time. So, please follow the normal lunch talk  
+instructions
+  (attached below) for your lunch box ordering.
+
+  Regards,
+
+  sheng-yuan
+
+------------------------ ASIAA Colloquium -------------------------
+  Speaker : Prof. Paul Ricker (UIUC)
+  Title   : Sources of scatter in galaxy cluster
+              mass-observable relations
+  Time    : 12/07 (Fri) 12:00 PM
+  Location: Rm 716
+-------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

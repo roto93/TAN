@@ -1,0 +1,196 @@
+==============================================================================
+
+In this issue (Dec 07 - Dec 12, 2015)
+
+1. Japan-Taiwan Workshop on KAGRA (Dec 23)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Dec 14): Hiro Takami (ASIAA)
+                                      (Dec 16): Stefan Hilbert
+                         (Ludwig-Maximilians-Universität München)
+                                      (Dec 17): Sperello di Serego Alighieri
+                         (INAF - Osservatorio Astrofisico di Arcetri)
+3. NTHU Astronomy Colloquia (Dec 14): Regina Barber DeGraaff (WWU)
+                            (Dec 17): Wing-Kit Lee (ASIAA)
+                            (Dec 18): Sperello di Serego Alighieri (Arcetori)
+
+==============================================================================
+
+> Date: Tue, 8 Dec 2015 13:28:34 +0800
+> Subject: Japan-Taiwan Workshop on KAGRA
+> From: Albert Kong <akong@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+Please circulate this workshop announcement. Thanks.
+
+Albert
+
+******************************************************************
+Japan-Taiwan Workshop on KAGRA
+December 23, 2015
+National Center for Theoretical Sciences, National Tsing Hua University
+http://phys.cts.nthu.edu.tw/actnews/?Sn=261
+
+To promote collaboration between Japan and Taiwan on the gravitational
+wave detector, KAGRA, a 1-day workshop will be held on December 23,
+2015 at National Tsing Hua University. This workshop is the first
+collaboration meeting and will focus on instrumentation, data
+analysis, and science related to KAGRA, a gravitational wave detector
+being built in Japan.
+
+Key members from the KAGRA team (including the PI, Prof. Takaaki
+Kajita, Nobel Laureate in Physics of 2015) will report on the progress
+of the project and discuss with Taiwanese scientists for possible
+collaboration. We strongly encourage researchers and students who are
+interested in gravitational wave science and instrumentation to
+participate the workshop.
+
+Speakers:
+Takaaki Kajita (ICRR, University of Tokyo; Nobel Laureate in Physics of 2015)
+Nobuyuki Kanda (Osaka City University)
+Seiji Kawamura (ICRR, University of Tokyo)
+Ken-ichi Oohara (Niigata University)
+
+Shiuh Chao (NTHU)
+Sadakazu Haino (Academia Sinica)
+Albert Kong (NTHU)
+Wei-Tou Ni (NTHU)
+Hwei-Jang Yo (NCKU)
+
+Please refer to our workshop homepage
+(http://phys.cts.nthu.edu.tw/actnews/?Sn=261) for registration. Short
+15-min presentations about your works and ideas related to KAGRA are
+still welcomed. Please contact Prof. Albert Kong
+(akong@phys.nthu.edu.tw) for details.
+
+==============================================================================
+
+> Date: Thu, 10 Dec 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Hiro Takami (ASIAA)
+Topic:          Stable and Unstable Regimes of Mass Accretion onto a T Tauri Star
+Time:           12/14 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Stefan Hilbert (Ludwig-Maximilians-Universität München)
+Topic:          Linking Gravitational Lensing Observations and Theory with Simulations
+Time:           12/16 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Gravitational lensing effects allow us to study the the large-scale geometry and matter distribution of our Universe, and thereby can provide unique insights into, e.g., the nature of dark energy, dark matter, and their connection to the luminous matter. Numerical simulations are essential for the quantitative interpretation of gravitational lensing observations and for extracting accurate constraints for physical models of galaxies, the large-scale structure, and our whole Universe. I discuss several applications of numerical simulations to better understand strong and weak gravitational lensing observations for cosmology.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Sperello di Serego Alighieri (INAF - Osservatorio Astrofisico di Arcetri)
+Topic:          Dust in Early-Type Galaxies
+Time:           12/17 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Dust is an important component of the multi-phase interstellar medium of Early-Type Galaxies (ETG) and can give important clues on the origin and evolution of ETG.
+After an introduction to the subject I will show and discuss recent results obtained on the dust content of a complete sample of 910 ETG in the Virgo cluster with the Herschel satellite and on a comparison of these data with those obtained on a similar sample of H-ATLAS/GAMA ETG in low density environment.
+
+==============================================================================
+
+> From: Tomo <itlhnis@gmail.com>
+> Date: Fri, 11 Dec 2015 14:39:40 +0800
+> Subject: NTHU colloquium
+> To: astro@asiaa.sinica.edu.tw, =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+
+NTHU colloquium
+
+12/14(Mon,12:20-13:10) GBII R521
+
+Regina Barber DeGraaff (WWU)
+
+"Globular Cluster Survey of the Shapley Supercluster”
+
+Globular cluster populations were instrumental in helping humans find
+their place in the universe.  Now they are studied to find possible
+clues to galaxy formation. Recent evidence shows that number of
+globular clusters (GC), Ntot, scales with dark matter halo mass of the
+host galaxy, Mhalo.  The correlation between Ntot and Mhalo gives us a
+window into GC formation efficiency.  We are probing the high mass end
+of this relation by investigating the globular cluster systems of 11
+giant elliptical galaxies in clusters associated with the Shapley
+Supercluster, the largest mass concentration in the local universe and
+possibly a major source of the Local Group's 630 kms motion with
+respect to the cosmic microwave background.  The sample galaxies were
+imaged with the Advanced Camera for Surveys Wide Field Channel in the
+F814W bandpass and are in the redshift range z=0.035-0.048.
+We find a nonlinear relationship between the host galaxy luminosity LV
+and number of globular clusters Ntot , with Ntot  scaling as LV to the
+power of 1.6; thus, the GC specific frequency SN increases with LV for
+these high-mass galaxies. Our data show good consistency with the
+U-shape relationship between SN and host galaxy magnitude MV found in
+other recent GC studies. Galaxies at intermediate luminosities near
+the low-point of the U have both the lowest SN values and highest
+stellar mass ratios, indicating that Ntot scales more closely with the
+dark halo mass than with stellar mass. For one galaxy in our sample,
+ES0325-G004, additional multi-band imaging was obtained, and we find a
+bimodal globular cluster color distribution with characteristics
+typical of most giant ellipticals.
+
+
+12/17, 2pm, R524
+
+Wing-Kit Lee (ASIAA)
+
+Spiral Structure in Disks
+
+I will review some mechanisms for generating spiral structures in
+astrophysical disk systems such as galaxies and protoplanetary disks.
+In particular, I will talk about my research on instabilities of the
+galactic spiral arms, namely feathering instability. Feathering
+instability may be responsible for the regular density structures
+commonly found near the spiral arms. In the second part of my talk, I
+will introduce some of my attempts to understand the three-dimensional
+spiral shocks in a protoplanetary disk.
+
+
+12/18, 1pm, R521
+
+Sperello di Serego Alighieri (Arcetori),
+
+The rich Interstellar Medium of Early Type Galaxies
+
+ Early type galaxies (ETG) were once thought to be devoid of
+interstellar medium (ISM), just red and dead.More recently it has been
+established that they have a rich ISM, from the hot gas emitting in
+X-rays to the very cold molecular gas and dust.I will review the ISM
+of ETG, show how the various gas phases can survive together, and
+discuss what we can learn about the evolution of ETG from their ISM.
+
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

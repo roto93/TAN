@@ -1,0 +1,47 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Naoki Yoshida (University of Tokyo)
+Topic:        Matter distribution around galaxies and the nature of dark matter
+Time:        5/14 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Gravitational lensing is a powerful method to probe matter distribution in the universe.
+We combine large observational data from SDSS and CFHTLens and cosmological
+simulations to study the distribution of dark matter around galaxies. Our method can
+be used to "measure" the mass of dark matter halos that host SDSS main galaxies,
+to derive cosmological parameters such as Omega_matter, and to place constraints
+on the annihilation cross-section of dark matter. For the latter study, we also use
+data from the Fermi all-sky gamma-ray map. Ongoing wide-field surveys, most
+notably Subaru-HSC, will significantly improve the above estimates and constraints.
+I discuss theoretical challenges to use the large set of data in the coming few years.
+
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________ 
+Speaker:    Naoki Yoshida (University of Tokyo)
+Topic:        The dark ages of the universe
+Time:        5/13 (Tuesday) 14:20 - 15:20
+Place:        Physics 104
+Abstract:
+One of the milestones in the cosmic history is the formation of the first generation of stars and hydrogen reionization.
+The standard theory of cosmic structure formation predicts that the first stars were born about a few hundred million
+years after the Big Bang. The dark Universe was then lit up once again, and eventually filled with ultraviolet photons
+emitted from stars and galaxies. Recent astronomical observations discovered distant galaxies and super-massive
+blackholes that were in place when the age of the universe was less than one billion years old.
+How were the galaxies formed, and what are the origin of the massive blackholes? The key to these interesting question
+lies probably in the formation of the first stars. I present the results from super-computer simulations that follow
+self-consistently the formation of protostars through to the early stages of a main-sequence star with thermonuclear
+burning. The characteristic mass of the first stars is estimated from such simulations. I discuss implications for
+the formation of early blackholes and Galactic metal-poor stars. Finally I propose to use future wide-field infrared surveys
+to detect the supernova explosions of the first stars.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

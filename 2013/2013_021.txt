@@ -1,0 +1,142 @@
+Date: Tue, 05 Feb 2013 18:48:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jan 26 - Feb 05, 2013)
+
+============================================================================== 
+
+In this issue (Jan 26 - Feb 05, 2013)
+
+( ++++++++++ Due to an unforeseen technical issue, TAN was shut down
+  unexpectedly from 12 noon, Jan 28 to 9 am Feb 04; if you had sent messages
+  or announcements to TAN during this time, please send it again. Sorry for
+  the inconvenience.  - YJK  ++++++++++ )
+
+1. Arizona Radio Observatory - Call for Proposals: Spring 2013 (Feb 21, 2013)
+2. ASIAA Colloquia (Feb 04): Nicole Czakon (Caltech)
+                  (Feb 05): Ching-Cheng Hsu (Univ of Bern)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2013) 
+------------------------------------------------------------ 
+
+Dear all, 
+
+Proposals from members of the University Consortium of ALMA-Taiwan and 
+ASIAA, for observing time are being solicited for the period February 25, 
+2013 ¡V June 15, 2013, at the Arizona Radio Observatory, for the Sub- 
+Millimeter Telescope (SMT) and the Kitt Peak 12 Meter (12M). The proposal 
+deadline of UCAT/ASIAA for this 2013 spring semester is set on February 21, 
+2013 (Thursday). 
+
+The SMT currently supports a dual-polarization, 1 mm receiver with ALMA Band- 
+6 sideband-separating mixers, a dual-polarization 0.8 mm receiver, and a 0.4 
+mm (602¡V720 GHz) dual-polarization receiver with ALMA Band-9 mixers. A new 
+Band 8 (385¡V500 GHz) receiver will also be available for limited 
+observations. The SMT control system has been updated to allow for dual 
+polarization, dual sideband observations (so-called "4 IF mode"). The 12M 
+supports a dual-polarization 3 mm receivers (82¡V116 GHz) that employs ALMA 
+Band-3 sideboard-separating mixers, as well as dual polarization, single 
+sideband receivers for the lower part of the 3 mm window (65-86 GHz) and at 
+2 mm (130-180 GHz). Due to likely equipment upgrades, availability of the 12 
+m may be limited. Remote observing is available at both ARO telescopes. 
+
+Please refer to http://aro.as.arizona.edu/ for more details. Information 
+about Remote Observing can be found at: 
+http://aro.as.arizona.edu/remote/remote.htm. 
+For further information about remote observing and other operational 
+questions, please contact Tom Folkers, Operations Manager: 
+tfolkers@email.arizona.edu 
+
+Proposals should consist of: 
+1. A proposal Cover Sheet, obtainable at http://aro.as.arizona.edu/proposals. 
+2. A brief scientific and technical justification (no more than 2 pages). 
+3. A source list with observing time requirements and justification, and/or 
+tables, figures and references (no more than 1 page in total). Note Sun 
+Avoidance Zones. 
+4. Provide the IP number of the computer you will be using during your 
+observations. 
+
+Please pay special attention to the ¡§Sun Avoidance Zone¡¨ issue of your 
+proposed observations. The SMT will not be pointed to within 42 degrees of 
+the Sun, and the 12M, 15 degrees. 
+
+Electronic submissions will be accepted in PDF format only. Scheduling of 
+successful proposals will be done according to availability of the receivers 
+requested. 
+Please submit your proposals by midnight (23:59 pm CST) February 21, 2013 to: 
+kuan AT asiaa.sinica.edu.tw. 
+
+Kind regards, 
+Yi-Jehng Kuan 
+on behalf of UCAT's ARO TAC 
+
+==============================================================================
+
+> Date: Sun, 3 Feb 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Nicole Czakon (Caltech)
+Topic:        The Bolocam Sunyaev-Zel'dovich(SZ) Observing Program: X-ray/SZ Scaling
+Relations
+Time:        2/4 (Monday) 15:00 - 16:00
+Place:        R1203
+Abstract:
+Galaxy clusters have become promising probes of cosmology thanks to
+recent advances in instrumentation.  Both galaxy cluster surveys and
+pointed galaxy cluster observations provide insight into the nature of
+dark energy and dark matter. A variety of physical phenomena generate
+cluster observables which span from radio to X-ray. To use galaxy
+clusters for cosmology, however, we must combine these different
+wavelength observations, which scale independently with a cluster's
+physical properties. One of these observables, the Sunyaev-Zel'dovich
+(SZ) effect provides a lever arm to understand the baryonic content at
+the outskirts of galaxy clusters. Caltech has contributed significantly
+to the development of detectors and instrumentation to measure the
+Sunyaev Zelâ€™dovich effect. The SZ observing program of one of the
+instruments, Bolocam, has fully matured over the last year. Thanks in
+large part to the ASIAA-branch of the CLASH program, our data has
+contributed to a variety of cluster analyses. I will give an overview of
+my work calibrating integrated SZ values with X-ray determined
+masses. This work includes a detailed study of sources of systematic
+error, including, selection function effects, large-scale signal
+filtering, and alternative mass models. The full Bolocam X-ray SZ
+catalog (BOXSZ) results are expected to be released early 2013.
+
+
+____________________________________________________ 
+Speaker:    Ching-Cheng Hsu (Laboratory for high energy physics, University of Bern)
+Topic:        High Energy Particle Astrophysics with Cherenkov Telescopes
+Time:        2/5 (Tuesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+High Energy experimental particle astrophysics is now a field of growing interests and has been well established. It marks the intersection of astrophysics, particle physics and cosmology. In general, particle astrophysics has two main elements. One is multi-messenger astronomy and the other is fundamental physics with cosmic messengers. It opens new windows to the universe and provides us new approaches to understanding the fundamental properties of matter and the universe.  
+
+The main focus of this talk is on the development of experimental techniques for Earth-bound Cherenkov gamma-ray and neutrino detectors. Consequently, more emphasis is given to the physics results from these experiments, particularly on the physics of Active Galactic Nucleus (AGN) and related subjects. At last, the Cherenkov Telescope Array (CTA) project which is a worldwide effort experiment on Tera-electronvolt gamma-ray astronomy in the next decade will be introduced. In addition, I will also discuss the prospective CTA physics impacts on AGN research.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

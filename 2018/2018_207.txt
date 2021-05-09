@@ -1,0 +1,56 @@
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: ALMA Cycle 7 Pre-announcement
+> Date: Thu, 20 Dec 2018 14:56:05 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear all,
+
+        The ALMA Cycle 7 Pre-announcement has been released. 
+
+        The Joint ALMA Observatory (JAO) will start the next cycle of observations (Cycle 7) in October 2019. A Call for Proposals (CfP) with detailed information on Cycle 7 will be issued in March 2019, with a deadline for proposal submission in April 2019. This pre-announcement highlights aspects of the Cycle 7 proposal Call that are needed to plan proposals.
+
+        The key dates for Cycle 7 are given below:
+
+                19 December 2018                        Cycle 7 pre-announcement
+
+                19 March 2019 (15:00 UT)                Release of the ALMA Cycle 7 Call for Proposals and Observing Tool, and opening of archive for proposal submission
+
+                17 April 2019 (15:00 UT)                Proposal submission deadline
+
+                End of July 2019                        Result of the proposal review sent to proposers
+
+                5 September 2019                        Deadline for phase 2 submission by proposers
+
+                October 2019                            Start of Cycle 7 observations
+
+                September 2020                          End of Cycle 7 observations
+
+
+        New in Cycle 7  â€” In Cycle 7, the following technical capabilities will be available for the first time:
+
+                -       Observations in Band 7 in configurations C43-9 and C43-10.
+
+                -       Solar observations in Band 7 in configurations C43-1 and C43-2.
+
+                -       Solar observations in one additional configuration (C43-4) in Band 3.
+
+                -       Improved sensitivity limit for full spectral resolution linear polarization observations (see below). 
+
+                In addition, spectral scans will become a standard mode. Observations in Band 7 at baselines longer than 5 km will become a standard mode as long as there is expected to be a suitable phase calibrator within 5 degrees of the science target (see below).
+
+                Finally, the data rate limitation from previous cycles will be significantly relaxed so that PIs will be able, for example, to set up high spectral resolution windows in long baseline configurations that were previously hampered due to high data rates.
+
+
+        Please also note that in Cycle 7, ALMA will offer a stand-alone ACA Supplemental Call for Proposals. It is anticipated that the Supplemental Call will be issued on 3 September 2019 with a proposal deadline on 1 October 2019. The Supplemental Call will maximize the scientific output of the ACA by allowing more timely science to be proposed since the Supplemental Call will follow the Main Call by five months. A minimum of 750 h of observing time on the ACA will be allocated through the Supplemental Call for observations between January 2020 and September 2020. Proposals submitted to the Supplemental Call will be peer reviewed through a distributed system, in which the PI of each submitted proposal, or a designated reviewer selected from among the co-Is of the proposal, will be responsible for reviewing ten proposals submitted in the same call. The Science Portal includes a more detailed description of the Supplemental Call and the distributed peer review process, including an!
+ swers to frequently asked questions, and up-to-date information about the implementation of the process in the Cycle 7 Supplemental Call.
+
+
+        For more information, please see https://almascience.nao.ac.jp/news/alma-cycle-7-pre-announcement
+
+best,
+Yu-Nung
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

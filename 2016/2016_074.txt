@@ -1,0 +1,63 @@
+> Date: Thu, 28 Apr 2016 08:00:02 +0800
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:     Chao-Ling Hung (University of Texas)
+Topic:          Connecting dusty starburst galaxies and proto galaxy clusters: a case study at z=2
+Time:          5/3 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The most prodigious starburst galaxies are absent in massive galaxy clusters today, but their connection with large scale environments is less clear at z>2. I present our search of dusty star-forming galaxies (DSFGs; SFR>100 Msun/yr) within and around a protocluster at z~2.1 in the COSMOS field. Both DSFGs and color-selected SFGs show significant overdensities around the protocluster, and this structure spans across several tens of cMpc, considerably larger than previously observed. The cluster core and the extended DSFG- and SFG-rich structure together demonstrate an active cluster formation phase, in which the cluster is accreting a significant amount of material from large scale structure while the more mature core may begin to virialize. The finding of this DSFG-rich structure, along with a number of other protoclusters with excess DSFGs and AGNs found to date, suggest that the overdensities of these rare galaxies indeed trace significant mass overdensities. However, it !
+ !
+remains puzzling how these intense star formers are triggered concurrently. Although an increased probability of galaxy interactions and/or enhanced gas supply can trigger the excess of DSFGs, our stacking analysis based on 850 micron images and morphological analysis based on rest-frame optical imaging do not show such enhancements of merger fraction and gas content in this structure.
+
+*** Colloquium ***
+____________________________________________________
+Speaker:     Juntai Shen (SHAO)
+Topic:          Gas inflow patterns and nuclear rings in barred galaxies
+Time:          5/4 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Nuclear rings, dust lanes, and nuclear spirals are common structures in the inner region of barred galaxies, with their shapes and properties linked to the physical parameters of the galaxies. We use high-resolution hydrodynamical simulations to study gas inflow patterns in barred galaxies, with special attention on the nuclear rings. The location and thickness of nuclear rings are tightly correlated with galactic properties, such as the bar pattern speed and bulge central density, within certain ranges. We identify the backbone of nuclear rings with a major orbital family of bars. The rings form exactly at the radius where the residual angular momentum of inflowing gas balances the centrifugal force. We propose a new simple method to predict the bar pattern speed for barred galaxies possessing a nuclear ring, without actually doing simulations. We apply this method to some real galaxies and find that our predicted bar pattern speed compare reasonably well with other estimat!
+ !
+es. Our study may have important implications for using nuclear rings to measure the parameters of real barred galaxies with detailed gas kinematics. I will also discuss the latest results of extending current work to model the gas features in the Milky Way.
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:     Keiichi Wada (Kagoshima University)
+Topic:          A new dynamical picture of AGNs
+Time:          5/5 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Multi-wavelength observations of Active Galactic Nuclei (AGNs) have
+suggested that their internal structures are consisted of various
+components, such as an accretion disk, broad line regions, an
+obscuring dusty torus, and narrow line regions, over an extensive
+spatial scales. However, their origin and mutual relations have not
+been understood, andit is also unclear whether these structures are
+universal among AGNs.
+/>/>
+
+In this seminar, I will review recent progress in theoretical modeling
+of circumnuclear gas structures in AGNs, mainly based on our
+radiation-hydrodynamic simulations. In a serious of our studies, we
+found dynamic behavior of the gas around the SMBH due to the effect of
+the radiation feedback, in contrast to the classic
+picture. Spectroscopic properties in typical Seyfert galaxies are well
+reproduced in these models. Some characteristic features suggested by
+recent infrared and X-ray observations can be also explained.
+/>/>
+
+I will also show preliminary results of modeling the multi-phase ISM
+affected by an AGN and nuclear starburst for a nearby AGN. These
+numerical approach with radiative transfer calculations could be a
+powerful tool for understanding observations of molecular/atomic gases
+by ALMA.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

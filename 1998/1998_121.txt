@@ -1,0 +1,40 @@
+From kuan Tue Jun  9 03:02:37 1998
+Return-Path: <kuan>
+Received: by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA19202; Tue, 9 Jun 1998 02:58:46 +0800
+Date: Tue, 9 Jun 1998 02:58:46 +0800
+From: kuan (Yi-Jehng Kuan)
+Message-Id: <9806081858.AA19202@iaa17.asiaa.sinica.edu.tw>
+Errors-To: kuan@sinica.edu.tw
+To: astro@asiaa.sinica.edu.tw
+Subject: Infinite Loop
+Content-Length: 916
+Status: RO
+
+
+Dear TANists,
+
+By the time you see this message, you probably are all aware of
+that Prof. Ue-Li Pen is on his Vacation:-)
+
+First of all, I want to thank Frank Chen, ASIAA's System 
+Administrator, who first spotted the infinite loop problem and
+fixed it at 2 AM early Monday morning. I also want to thank 
+those TAN subscribers who figured out what went wrong and 
+gave me the advice.  Anyway, I should have prevented it from
+happening but, oh well, my fault.  No excuse here.  Please 
+accept my 1,000,000,000... apologies.
+
+Now I have modified my program and hopefully it will catch those
+run-away looping from those out-dated va cation programs. Usually 
+such a program will not forward/reply mails from itself but 
+it may not be the case for an older version of Sun OS.
+
+Sorry again for what have happened.  Hopefully it will never
+happen again (but until then no one can be certain:-) .
+
+
+Cheers,
+Yi-Jehng Kuan
+
+

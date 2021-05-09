@@ -1,0 +1,59 @@
+From jiang@astro.ncu.edu.tw Mon Mar  4 10:03 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA22871
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 4 Mar 2002 10:03:00 +0800 (CST)
+Received: from halley.phy.ncu.edu.tw (IDENT:root@halley.phy.ncu.edu.tw [140.115.30.4])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA08005
+	for <astro@asiaa.sinica.edu.tw>; Mon, 4 Mar 2002 10:02:22 +0800 (CST)
+Received: from localhost (jiang@localhost)
+	by halley.phy.ncu.edu.tw (8.11.6/8.11.6) with ESMTP id g242Mqb17498
+	for <astro@asiaa.sinica.edu.tw>; Mon, 4 Mar 2002 10:22:52 +0800
+X-Authentication-Warning: halley.phy.ncu.edu.tw: jiang owned process doing -bs
+Date: Mon, 4 Mar 2002 10:22:52 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+X-Sender: jiang@halley.phy.ncu.edu.tw
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Astronomy Colloquium 
+Message-ID: <Pine.LNX.4.21.0203041022050.17461-100000@halley.phy.ncu.edu.tw>
+MIME-Version: 1.0
+X-Lines: 35
+Status: RO
+Content-Type: TEXT/PLAIN; charset="US-ASCII"
+Content-Length: 1395
+
+                **********************************
+                |   National Central University  |
+                * ------------------------------ *     
+                \_____ Astronomy Colloquium _____/
+
+
+                 2:00 p.m. 8th March 2002 (Friday)
+             Science Building IV, Conf. Room, Rm 1013
+   
+  
+             Speaker : Dr. Chou, Yi
+                       (Department of Physics,
+                        National Tsing Hua University)
+                       
+                             
+             Title :   Tools for High Energy Astrophysics: 
+                           X-ray/gamma-ray Telescopes
+
+             
+             Abstract:
+             
+             High energy astrophysics has developed at a tremendous rate
+             in recent decades since the discovery of the first cosmic
+             X-ray source, Sco X-1, in 1962.  Developments are mainly
+             attributed to the improvements of X-ray/gamma-ray
+             telescope/detector techniques.  
+
+             I will briefly overview the instrumentation for high energy
+             astrophysics, including observations, imaging methods,
+             detectors and event processings.  Finally, I will introduce
+             some of important X-ray/gamma-ray telescopes since early
+             70's, and also some large projects in the beginning of 
+             21st century.
+        
+
+

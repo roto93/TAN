@@ -1,0 +1,54 @@
+From kyl@asiaa.sinica.edu.tw Tue Aug 18 00:34:29 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA06209; Tue, 18 Aug 1998 00:32:25 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id AAA24599; Tue, 18 Aug 1998 00:30:35 +0800
+Date: Tue, 18 Aug 1998 00:30:35 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: UNDERSTATED EXPOSURE TIMES IN HST EXPOSURE CATALOG FOR CYCLE 8 CALL FOR PROPOSALS (fwd)
+Message-Id: <Pine.GSO.3.96.980818003033.24291L-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1269
+Status: O
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 17 Aug 1998 08:15:41 -0400
+From: AutoBot_Message <dignan@stsci.edu>
+To: kyl@astro.uiuc.edu
+Subject: UNDERSTATED EXPOSURE TIMES IN HST EXPOSURE CATALOG FOR CYCLE 8 CALL FOR PROPOSALS
+
+Due to an oversight in the creation of our Planned Archived
+Exposures Catalog, some targets were listed with significantly
+less exposure time than they will actually have. Approximately 70
+targets were affected with the actual planned exposures listed 
+underestimated by a factor of 5 or more. The list of targets can
+be obtained from the PAEC URL (http://archive.stsci.edu/paec.html).
+
+If you plan to propose to observe ANY targets that already have 
+PLANNED observations, please consult our re-created PAEC at the 
+URL listed above or the StarView duplication checking screen for 
+the revised total exposure times.
+
+Sorry for any inconvenience this oversight may have created.
+
+

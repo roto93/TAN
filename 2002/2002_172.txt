@@ -1,0 +1,65 @@
+From chou@phux1.phys.nthu.edu.tw Wed Oct  9 14:52 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA18709
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 9 Oct 2002 14:52:28 +0800 (CST)
+Received: from thccx9.oz.nthu.edu.tw (u-mail.HCRC.edu.tw [163.28.65.2])
+	by asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g996p2C05122
+	for <astro@asiaa.sinica.edu.tw>; Wed, 9 Oct 2002 14:51:02 +0800
+Received: from thccv11.oz.nthu.edu.tw (thccv11.oz.nthu.edu.tw [140.114.63.211])
+	by thccx9.oz.nthu.edu.tw (Postfix) with ESMTP id 28C999F999
+	for <astro@asiaa.sinica.edu.tw>; Wed,  9 Oct 2002 14:51:03 +0800 (CST)
+Received: from phux2.phys.nthu.edu.tw (phux2.phys.nthu.edu.tw [140.114.80.6])
+	by thccv11.oz.nthu.edu.tw (Postfix) with ESMTP id 1516A39E43
+	for <astro@asiaa.sinica.edu.tw>; Wed,  9 Oct 2002 14:51:03 +0800 (CST)
+Received: (from root@localhost)
+	by phux2.phys.nthu.edu.tw (8.12.1/8.12.1) id g996ob8t065844
+	for astro@asiaa.sinica.edu.tw; Wed, 9 Oct 2002 14:50:37 +0800 (CST)
+Received: from phux1.phys.nthu.edu.tw (phux1.phys.nthu.edu.tw [140.114.80.5])
+	by phux2.phys.nthu.edu.tw (8.12.1/8.12.1av) with ESMTP id g996oaBS065836
+	for <astro@asiaa.sinica.edu.tw>; Wed, 9 Oct 2002 14:50:36 +0800 (CST)
+Received: (from chou@localhost)
+	by phux1.phys.nthu.edu.tw (8.11.6/8.11.6) id g996nRK68830
+	for astro@asiaa.sinica.edu.tw; Wed, 9 Oct 2002 14:49:27 +0800 (CST)
+	(envelope-from chou)
+Date: Wed, 9 Oct 2002 14:49:27 +0800 (CST)
+From: Dean-Yi Chou <chou@phys.nthu.edu.tw>
+Message-Id: <200210090649.g996nRK68830@phux1.phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+X-Virus-Scanned: by AMaViS perl-10
+Content-Type: text
+Content-Length: 1446
+Status: RO
+
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title :   How to Make a Baby Black Hole
+
+Speaker:  Mike Cai 
+          (Tsing Hua University)
+
+Date:    18 October 2002
+
+Time:    12:10
+
+Place:   Room 620,  Physics Building, NTHU
+        
+Abstract :
+
+We have constructed a family of semi-analytic self-similar solutions to 
+Einstein field equations that are stationary and axisymmetric.  Generic to 
+all self-similar solutions, these spacetimes have weak naked singularities at 
+the origin in the form of zero mass black holes.  The sequence of solutions 
+terminates when the equilibrium rotates so fast that the frame dragging 
+becomes infinite.  In the extreme flattening limit, we have also searched for 
+non-axisymmetric neutral modes in a self-similar disk.  Two separate sets of 
+tracks are discovered in the solution space.  One corresponds to the 
+bifurcation points to non-axisymmetric equilibria, which is confined in the 
+non-ergo solutions. The other track signals the onset of instability driven 
+by gravitational radiation.
+***************************************************************************
+

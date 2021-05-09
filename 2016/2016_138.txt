@@ -1,0 +1,179 @@
+==============================================================================
+
+In this issue (Aug 26 - 31, 2016)
+
+1. SMA's role in your ALMA proposals
+2. CFHT call for proposals (2017A semester)
+3. ALMA Project Software Developer
+4. ASIAA CASA Development Center and Job Opening
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: Fwd: SMA's role in your ALMA proposals
+> Date: Fri, 26 Aug 2016 10:57:54 +0800
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof Kuan,
+
+Please help to forward this message to TAN.
+
+Cheers,
+Wei-Hao
+
+
+> Begin forwarded message:
+>=20
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: SMA's role in your ALMA proposals
+> Date: August 26, 2016 at 10:52:19 AM GMT+8
+> To: riaa <riaa@asiaa.sinica.edu.tw>
+>=20
+> Dear All,
+>=20
+> We would like to understand if SMA has ever helped you on your ALMA =
+proposals.
+> If you have ever submitted an ALMA proposal (accepted or not), please =
+fill out the
+> form below.  It=E2=80=99s a short form.
+>=20
+> Cheers,
+> Wei-Hao
+>=20
+>=20
+>=20
+>=20
+> I've invited you to fill out a form:
+> SMA's role in your ALMA proposals =
+<https://docs.google.com/forms/d/e/1FAIpQLSfsEE16Cy5ZcZ5qQxPNgwUrl66WP2JSL=
+jUnbBGVv-MXnUKfzw/viewform?c=3D0&w=3D1&usp=3Dmail_form_link>
+> SMA is considered as an ALMA pathfinder by many. One possible way for =
+it to contribute to our ALMA science is to help to establish the science =
+cases in our ALMA proposal. This can be either diagrams/figures based =
+(at least partially) on SMA data, or science questions that stem from =
+previous SMA studies. We would like to know how common this is.
+>=20
+> This is for Taiwan-based ALMA PIs only. You can fill out this form if =
+you have ever submitted an ALMA proposal while you are working in =
+Taiwan, or if you are currently working in Taiwan. All ALMA cycles (0-4) =
+count.
+> FILL OUT FORM =
+<https://docs.google.com/forms/d/e/1FAIpQLSfsEE16Cy5ZcZ5qQxPNgwUrl66WP2JSL=
+jUnbBGVv-MXnUKfzw/viewform?c=3D0&w=3D1&usp=3Dmail_form_link>
+> Create your own Google Form =
+<https://docs.google.com/forms?usp=3Dmail_form_link>
+
+==============================================================================
+
+> Date: Sat, 27 Aug 2016 11:03:10 +0800
+> From: Yen-Ting Lin <ytl@asiaa.sinica.edu.tw>
+> Subject: to TAN
+
+Hi Prof. Kuan,
+
+Can you please forward the following to TAN?
+
+thanks,
+yen-ting
+
+--------------------------------------------------
+
+Dear CFHT users,
+
+   CFHT is now accepting proposals for the 2017A semester. The
+deadline is September 16 2016 23:59 UT. Consult this URL for more
+information:
+
+http://cfht.hawaii.edu/en/science/Proposals/
+
+Please note that the default mode for MegaCam and ESPaDOnS is SNR-QSO
+and that opting out of this mode needs to be justiried in the
+proposal.
+
+Please also note that only the new MegaCam filters will be available in 2017A.
+
+As usual, we encourage people to submit snapshot programs.
+
+You will find more details on these items and more on the above
+mentioned website.
+
+Good luck to all the proposers.
+
+Daniel
+--
+Dr. Daniel Devost
+Director of Science Operations/Directeur des Operations Scientifiques
+Canada-France-Hawaii Telescope Corporation
+
+==============================================================================
+
+> From: Shing-Kwong Wong <skwong@asiaa.sinica.edu.tw>
+> Date: Mon, 29 Aug 2016 16:50:42 +0800
+> Subject: ALMA Project Software Developer
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Professor Kuan,
+
+Please kindly help us to announce the following to TAN.
+
+* Jobs Opening for ALMA Project Software Developer *
+
+http://www.asiaa.sinica.edu.tw/jobopening/ad.php?i=80f56c02e0f4d5c71033c032d5767b88
+
+Thanks a lot.
+
+Sincerely,
+Shing Kwong Wong
+ASIAA CASA Development Center (ACDC)
+
+==============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: ASIAA CASA Development Center and Job Opening
+> Date: Tue, 30 Aug 2016 17:47:35 +0800
+> Cc: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear Colleagues,
+
+      On 2016 August 1, we established the ASIAA CASA Development Center =
+(ACDC), with the funds of the Ministry of Science and Technology (MoST). =
+We will collaborate with the NRAO in the development of the CASA =
+software package. The primary goals are to increase our international =
+collaboration and visibility, advance our high-performance computing =
+techniques and software engineering, and raise our science productivity =
+from ALMA and other radio interferometer observations.
+ =20
+      For more information, please see =
+http://alma.asiaa.sinica.edu.tw/acdc_intro.php
+
+      We are now looking for a software engineer/developer as advertised =
+on
+
+      =
+http://www.asiaa.sinica.edu.tw/jobopening/ad.php?i=3D80f56c02e0f4d5c71033c=
+032d5767b88
+
+      Please let us know if you are interested in applying.
+
+Best Wishes,
+Chin-Fei
+On behalf of ACDC=
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,104 @@
+> From: Bong Won Sohn <bwsohn@kasi.re.kr>
+> Date: Mon, 12 Sep 2016 15:04:42 +0900
+> Subject: KaVA call for proposals 2017A
+> To: evntech <evntech@jb.man.ac.uk>, "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>         vlbi@listmgr.cv.nrao.edu, merlin-announce@jb.man.ac.uk,
+>         astro@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+I apology for the previous 'KaVA CfP 2016B' which was circulated about an
+hour ago.
+Here I send a revised version of KaVA Call for proposals.
+
+kind regards,
+
+Bong Won Sohn
+--------------------------------------------------------------------
+
+********************************
+ Call for Proposals of KaVA (KVN and VERA Array)
+ Deadline:  1st November , 2016, 08:00 UT
+*********************************
+
+ Dear Colleagues.
+
+ We invite proposals for the open use observations of the KaVA, a joint
+VLBI array
+ of the KVN (Korean VLBI Network) and the VERA (VLBI exploration of Radio
+ Astrometry). The joint array consists of three 21-m KVN telescopes and
+ four 20-m VERA telescopes, with baseline lengths ranging from 300 km to
+2300 km.
+
+ This open-use call will be based on risk-share, and provide VLBI
+observations at
+ 22GHz and 43GHz for astronomers in the world.
+ We support astronomers in the preparation of proposals, scheduling, and
+data analysis.
+ For that reason, proposers who are not familiar with KaVA are recommended
+to include
+ at least one collaborator from VERA or KVN. If it is difficult to find
+collaborators
+ from VERA or KVN, please consult us to find one. The contact address for
+the support
+ is kavaprop (at-mark) kasi.re.kr.
+
+ In order to avoid conflict and/or duplication of the targets between
+common use proposals
+ and LPs, proposers are highly recommended to visit KaVA Large Pogram (LP)
+webpage where
+ KaVA LPs and their source list are presented (
+http://radio.kasi.re.kr/kava/large_programs.php).
+ If the common use proposals can not be achieved with the data of LPs,
+ then they will be accepted as separate common use observations.
+ Otherwise, we encourage the proposers to collaborate with the science
+teams of
+ the corresponding KaVA LPs.
+
+ Observations will be conducted with single polarization (LCP) and 1-Gbps
+data rate.
+ The total available observation time is up to 250 hours and the
+observations will be
+ scheduled between 15th January 2017 and 15th June 2017. The maximum
+observing
+ time per proposal is limited to 48 hours.
+ If requested in the proposals, the observation time can be allocated over
+a year,
+ until 15th January, 2018, for this call. But the maximum observation time
+will be NOT increased.
+ The deadline of submission is at 08:00 UT on 1st November 2016.
+ More detailed information on the KaVA call-for-proposal can be found in
+ http://radio.kasi.re.kr/kava/proposal_info.php
+
+ ToO opportunity
+ Target of Opportunity proposals can be submitted to regular CfP of KaVA.
+ Also, unexpected or urgent ToO can be submitted Director's time at any
+time.
+ These proposals must include specific triggering criteria to initiate an
+observation.
+ The ToO is active one year from it is approved. The proposals to
+Director's time must be
+ submitted by PDF files using e-mail to kavaprop (at-mark) kasi.re.kr.
+
+ If you have any questions, please send an email to kavaprop (at-mark)
+kasi.re.kr
+
+ Sincerely,
+
+
+                     Hyun-Goo Kim
+                     Director of Radio Astronomy Division, KASI
+                        and
+                     Mareki Honma
+                     Director of Mizusawa VLBI Observatory, NAOJ
+
+
+-----------------------------
+Sohn, Bong Won
+Korean VLBI Network, KASI
+bwsohn@kasi.re.kr
+
+Tel.+82-(0)42-865-2173
+Fax.+82-(0)42-865-2050
+
+==============================================================================

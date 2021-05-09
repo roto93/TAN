@@ -1,0 +1,50 @@
+> Date: Thu, 26 May 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Hui Li (Los Alamos National Laboratory)
+Topic:          Asymmetries in Protoplanetary Disks and Implications for
+Planet Formation
+Time:           5/30 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The majority of young low-mass stars are surrounded by disks, consisted of
+large reservoirs of gas and dust out of which planetary systems eventually
+form. In the recent years, high spatial resolution observations of such disks
+have revealed many details that are providing interesting constraints on the
+disk physics as well as dust dynamics, both of which are essential for
+understanding planet formation. In particular, large-scale features (e.g,
+gaps) and asymmetries (e.g., vortices?) are detected, including sources like
+HL Tau. In this talk we will give an introduction to the disk instabilities,
+in particular the Rossby wave/vortex instability and a new type of “heavy
+core” instability related to dust, that might be responsible for explaining
+asymmetries.  We will discuss how gas+dust two-fluid modeling can be coupled
+with radiative transfer calculations to help interpret the observations and
+constrain the parameters in such systems. Implications for future
+observations!
+  will be explored as well.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Ramesh Narayan (Harvard)
+Topic:          Numerical Simulations of Black Hole Accretion
+Time:           5/30 (Monday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+Accreting black holes are observed in a large variety of systems in astronomy:
+active galactic nuclei, X-ray binaries, tidal disruption events, gamma-ray
+bursts. While analytical one-dimensional models are very useful, some aspects
+of accretion physics such as the  formation of jets and winds are beyond the
+scope of such models.  Numerical general relativistic MHD simulations are able
+to include more  physics than analytical models and are proving increasingly
+useful for  studying the multidimensional gas dynamics and radiative
+properties of  accretion flows. The talk will review some current progress.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

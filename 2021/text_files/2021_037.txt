@@ -1,0 +1,44 @@
+==============================================================================
+
+Date: Thu, 25 Feb 2021 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Rahul Kannan (CfA)
+Topic:         Introducing the THESAN project: radiation-magneto-hydrodynamic simulations of the epoch of reionization
+Time:         3/2 (Tuesday) 09:00 - 10:00
+Place:          Online
+Abstract:
+Current and upcoming facilities like SKA, HERA, LOFAR and JWST will unleash a flood of high redshift (z>5) observational data that will usher the study of the Epoch of Reionization (EoR) into a new era, making it the next big frontier in cosmological structure formation. It is therefore important for theoretical models to achieve sufficient accuracy and physical fidelity to meaningfully interpret these observational results. This requires a realistic description of galaxy formation in an evolving radiation field.  In this talk, I will introduce the THESAN simulation project that couples state-of-the-art galaxy formation models (like IllustrisTNG & SMUGGLE) with radiative transfer, dust, and non-equilibrium thermochemistry to comprehensively study high redshift galaxy formation and reionization. The suite consists of both large volume reionization simulations (~100 Mpcs) focused on studying the large-scale properties of the IGM and zoom-in simulations of individual galaxies a!
+ t unprecedented (~ 10 pc) resolution, designed to investigate the sources responsible for the reionization process. I will present results from this suite and discuss the advantages of using this multi-pronged approach to studying high redshift structure formation.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *6PM* next Monday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Yen, Wei-Ling (ASIAA)
+Topic:         æ·±å…¥æ·ºå‡ºcss.
+Time:         3/3 (Wednesday) 12:05 - 13:00
+Place:          R1203
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Daniel Harsono (ASIAA)
+Topic:         Unveiling the physics of star and planet formation through a multi-disciplinary approach
+Time:         3/3 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Planet formation starts in the earliest stages of star formation. Recent observations of exoplanets revealed a diverse planetary system architecture. The key to understanding the observed diversity seems to lie in the physics that govern star and planet formation in the first million years. I will present observational and numerical studies that dwell into the earliest stages of planetary system formation. It has been shown that some of the physics (gravity, rotation, magnetic field, turbulence, radiation) of star formation can be explored by comparing the composition of the environment around young stars to solar system objects. The composition of the dust and gas provides a view into the processing of material as the young protoplanetary disk forms and, also, the formation of the early planet-building materials. Thus, the physics of star formation can only be unveiled by combining astrophysical studies with the chemistry and geochemical processes of planetary bodies. In th!
+ is talk, I will also discuss future challenges to overcome in star and planet formation.
+
+==============================================================================

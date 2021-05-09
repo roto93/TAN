@@ -1,0 +1,145 @@
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Subject: Calibrated MS delivery for ALMA archive users
+Date: Mon, 8 Jun 2020 08:06:52 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: riaa <riaa@asiaa.sinica.edu.tw>,
+    alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+  EA ARC at NAOJ provides the service to deliver calibrated MS on demand =
+for PIs and archive users.=20
+  The delivery service is offered for interferometric data which require =
+CASA version 4.6.* or earlier only, basically corresponding to the data =
+in Cycle 1-3 (calibrated MS are provided in the archive for Cycle 0).=20
+   =20
+  Below please find the detailed information from Fukagawa-san. Please =
+request through the Helpdesk with necessary information as explained =
+below.
+
+best,
+Yu-Nung
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+When you want to do imaging using ALMA interferometric data, you need =
+to download raw data with the package including necessary scripts from =
+the ALMA Science Archive, then run the calibration script using the =
+right version of CASA shown in README (for Cycle 1-4) or =
+qa2_report.html/pdf (for Cycle 5 and later) to produce the calibrated =
+measurement sets (MS). However, it happens that you cannot calibrate the =
+data since the recent Operating Systems are not officially supported for =
+old versions of CASA.
+=20
+EA ARC provides the service to deliver calibrated MS on demand for PIs =
+and archive users. Please request through the Helpdesk with necessary =
+information as explained below. Please also note that we cannot deliver =
+the data in a timely manner if many requests are received at the same =
+time or requests include data with huge sizes. Thank you for your =
+understanding for a possible delay of the delivery.
+=20
+-----------------------------------------------
+- The delivery service is offered for interferometric data which =
+require CASA version 4.6.* or earlier, basically corresponding to the =
+data in Cycle 1-3 (calibrated MS are provided in the archive for Cycle =
+0). The service is not offered for single-dish data.
+- Please check the CASA version in README before you request the =
+calibrated MS. Depending on the dataset, you do not have to download a =
+package and can check README listed as the individual file in the data =
+request page. If README with CASA version is not listed, you need to =
+download the package ('product' package for Cycle 3 and earlier). The =
+following list shows CASA versions that were used for data calibration. =
+This does not always apply depending on the timing of QA2, but we hope =
+that this helps before you look for the CASA versions to request the =
+calibrated MS.
+=20
+    #cycle     CASA_version
+    1 (2012.*)       4.2.0 - 4.2.1
+    2 (2013.*)       4.2.2 - 4.4.0
+    3 (2015.*)       4.3.1 - 4.6.0
+    4 (2016.*)       4.7.0 - 4.7.2
+=20
+- Calibrated MS for up to 5 Scheduling Blocks can be requested at one =
+time.
+- The product that we will deliver is the outcome of running =
+"scriptForPI.py".
+- Notification will be sent as soon as the calibrated MS is ready. =
+Then you will need to download the calibrated MS in 15 days.
+=20
+=E3=80=90How to request=E3=80=91
+1. Log in to Helpdesk https://help.almascience.org/
+2. Create a new ticket by clicking "Submit a Ticket"
+3. Choose "Archive and Data Retrieval (EA)" as Department, click =
+"Next"
+4. Choose "Data request (calibrated MS, stale data, calibrator data, =
+or suggestions)" as a Sub-category, provide the following information, =
+then "Submit" the ticket
+=20
+***************
+Subject:  Request of calibrated MS
+***************
+Main text:
+=20
+a. Name
+=20
+b. Affiliation
+=20
+c. Project Code and SB name of the data
+[example: please split Project Code and SB name with a space.
+2013.1.00010.S NGC253_a_04_TM1
+2013.1.00010.S NGC253_a_07_TM1
+2014.1.00020.S NGC1068_a_06_TM1
+]
+=20
+d. required CASA version for the calibration according to the README =
+of each SB data.
+=20
+***************
+=20
+=20
+=20
+=E3=80=90How to check CASA version=E3=80=91
+1) Go to the download request page in the ALMA Science Archive=20
+=20
+2) Check if there is an auxiliary package
+2a. No auxiliary, no individual README listed
+=20
+=20
+=20
+=E2=86=92 Please download the product package (...001_of_0001.tar) and =
+untar it, then=20
+=E3=80=80=E3=80=80you can find README with the CASA version =
+information.
+=20
+2b. With auxiliary
+=20
+=20
+=20
+Note: there is no CASA version information in the above README.
+=E2=86=92 Download the auxiliary package (...auxiliary.tar) and untar =
+it. You will find the CASA=20
+=E3=80=80=E3=80=80version in member....qa2_report.pdf(or .html)=20
+=20
+=E2=86=92 Click the triangle symbol at the head of "auxiliary", then =
+individual files=20
+=E3=80=80=E3=80=80in the package appear. You can download only =
+member....qa2report.pdf(or .html).
+=20
+Note: The contents are the same in qa2report.pdf and qa2_report.html
+=20
+-----------------------------------------------
+=20
+=20
+=20
+Best wishes,
+Misato
+=20
+=20
+=20
+
+==============================================================================

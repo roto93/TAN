@@ -1,0 +1,183 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Thu Dec 22 11:19:40 2005
+Date: Fri, 2 Dec 2005 02:38:49 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue November 30 - December 01, 2005)
+
+==============================================================================
+
+In this issue (November 30 - December 01, 2005)
+
+1. Suzaku AO-1 (ASTRO-E2)
+2. TIARA Cosmology Winter School in TIARA-NTHU (Feb 13-17, 2006)
+
+==============================================================================
+
+Subject: [Fwd: Suzaku AO-1]
+Date: Wed, 30 Nov 2005 10:01:18 +0800
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+
+-------- Original Message --------
+Subject: Suzaku AO-1
+Date: Fri, 25 Nov 2005 15:09:48 +0900
+From: Kazuhisa MITSUDA <mitsuda@astro.isas.jaxa.jp>
+To: hkchang@phys.nthu.edu.tw
+
+Prof. Hsiang-Kuang Chang,
+
+First of all, I would like to thank you for supporting the previous
+AO-1 ASTRO-E2 observation programs.  ASTRO-E2 was
+successfully launched and is now named Suzaku.
+
+We have selected AO-1 observations about a year ago.  However,
+since as you may know, the X-ray spectrometer (XRS) is not
+functioning now and the selection process emphasized the use of
+the XRS, we  decided to renew all the AO-1 observations and to
+ask proposal submission again.
+
+Please distribute the message attached to this e-mail to
+all people who might be interested in and/or to appropreate
+mailing list.
+
+
+
+Best wishes,
+
+
+
+Kazuhisa Mitsuda
+--------------------------------------------------
+Department of High Energy Astrophysics
+Institute of Space and Astronautical Science (ISAS)
+Japan Aerospace Exploration Agency (JAXA)
+
+3-1-1 Yoshinodai, Sagamihara, 229-8510, Japan
+
+phone:    +81-427-59-8132
+telefax:  +81-427-59-8455
+
+
+===========
+First Announcement of Opportunity(AO-1) for observations with
+the X-ray astronomy satellite "Suzaku"
+
+This announcement solicit proposal for observations using the
+ISAS (Institute of Space and Astronautical Science)/JAXA (Japan
+Aerospace Exploration Agency) X-ray astronomy satellite
+"Suzaku," which was successfully launched into orbit on 2005
+July 10.
+
+During the course of commissioning, all helium cryogen was lost
+from the X-Ray Spectrometer (XRS), the highest resolution X-ray
+spectrometer to date. The XRS team believes they have identified
+the immediate cause of the cryogen loss, but the underlying
+cause is being investigated by committees both in Japan and in
+the US. The remaining instruments, 4 X-ray CCD cameras (X-ray
+Imaging Spectrometer, XIS) and the Hard X-ray Detector (HXD)
+have been commissioned successfully by mid August. Since then,
+we have performed calibration and verification observations,
+which confirms that Suzaku has high sensitivity over a wide
+energy range as planned.  The current strengths of Suzaku can be
+summarized as (1) highest sensitivity to date for hard X-rays (10
+-300 keV); and (2) higher sensitivity and spectral resolution in
+the soft X-ray band (0.3-0.8 keV) using a new generation
+backside-illuminated CCD chip. We have already started normal
+observations in September; we plan to begin open observations
+starting in 2006 April, after roughly 7 month of performance
+verification observations.
+
+Although Suzaku (then called Astro-E2) observing proposals were
+solicited, selected, and announced in 2004, the selection process
+emphasized the use of the XRS. The selected proposals may or
+may not represent the best use of the HXD and the XIS, and the
+observation parameters may or may not be optimized for these
+instruments. We are therefore starting anew with this solicitation;
+the results of the earlier solicitation will be disregarded.
+
+This first announcement of opportunity is for a one year period
+starting 2006 April. The deadline and other details are described
+below in the web pages accessed from the followig URL.
+http://www.astro.isas.jaxa.jp/suzaku/index.html.en
+We invite application from researchers in a wide range of field.
+
+This is one of three parallel announcements, and solicit proposals
+from researchers in Japan and in countries other than the US and
+ESA member countries. Researchers based in the US should
+consult the parallel announcement at http://suzaku.gsfc.nasa.
+gov/ Researchers in ESA member countries should consult the
+version at: http://www.rssd.esa.int/suzaku
+
+We are looking forward to receiving many proposals to enhance
+outcome of the Suzaku observations as much as possible.
+
+   With best wishes,
+
+      Kazuhisa Mitsuda (Suzaku Project Manager)
+      Hideyo Kunieda  (Suzaku Project Scientist)
+      Tadayuki Takahashi (Suzaku Deputy Manger)
+
+      ISAS/JAXA
+
+==============================================================================
+
+Subject: TIARA Cosmology Winter School and Workshop
+Date: Thu, 1 Dec 2005 14:30:50 +0800
+From: "K-W Ng" <nkw@phys.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+
+
+
+     TIARA Cosmology Winter School in TIARA-NTHU  Feb.13~17, 2006
+
+                               &
+
+           TIARA Reionization Workshop Feb. 13-March 3, 2006
+
+TIARA Winter School on Cosmology
+
+sponsored by the Academia Sinica and National Science Council
+
+National Tsing Hua University, Hsinchu, Taiwan: February 13-17, 2006
+
+The last decade has seen a transformation of cosmology from a qualitative
+subject to a precision science. This winter school is aimed at graduate
+students and advanced undergraduates to present an up-to-date background
+and overview of observational and theoretical physical cosmology.
+The lectures will cover basic background from relativistic cosmological
+perturbation theory to current issues in dark matter and dark energy.
+
+Organizing Committee Ue-Li Pen Chung-Pei Ma
+
+Kinwang Ng
+Winfun Gore
+Hsiang-Kuang Chang
+Proty Wu
+Tzi-Hong Chiueh
+James Nestor
+
+Provisional Lectures
+
+Uros Seljak, Benadetta Ciardi, Andrea Ferrera, Jeff Peterson, Asantha
+Cooray, Joop Schaye, Proty Wu, Ue-Li Pen
+
+Contact TIARA Winter School group: winter06 AT Domain tiara.sinica.edu.tw
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

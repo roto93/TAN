@@ -1,0 +1,45 @@
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Thu, 3 May 2012 09:49:02 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) is:
+
+
+Title: Current-Driven Kink Instability in Magnetically Dominated Relativistic Jet
+Speaker: Dr. Yosuke Mizuno (NTHU Astronomy)
+Date: 2012-05-11
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+
+Relativistic jets have been observed or postulated in various astrophysical sources,
+including active galactic nuclei (AGNs), microquasars in the galaxy and gamma-ray bursts
+(GRBs). There are four major problems related to the relativistic jets: 1. formation
+mechanism, 2. acceleration mechanism, 3. collimation mechanism, and 4.long-term
+stability. The most promising mechanisms for producing and accelerating relativistic
+jets, and maintaining collimated structure of relativistic jets involve
+magnetohydrodynamical processes. We have investigated the temporal development of
+current-driven (CD) kink instability in magnetically dominated relativistic jets via 3D
+relativistic MHD simulations. In this investigation a static force-free equilibrium
+helical magnetic configuration is considered in order to study the influence of the
+initial configuration on the linear and nonlinear evolution of the instability. We found
+that the initial configuration is strongly distorted but not disrupted by the CD kink
+instability. The linear growth and nonlinear evolution of the CD kink instability
+depends moderately on the radial density profile and strongly on the magnetic pitch
+profile. We also present the influence of velocity shear surface on the temporal
+development of the CD kink instability.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201205111400.html
+
+------------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================

@@ -1,0 +1,144 @@
+Date: Sun, 03 Mar 2013 22:33:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Mar 02 - 03, 2013)
+
+============================================================================== 
+
+In this issue (Mar 02 - 03, 2013)
+
+1. NCU Astronomy Colloquia of 2013 spring semester
+2. ASIAA Colloquia (Mar 08): Hsin-Fang Chiang (IfA)
+                  (Mar 06): Tomotsugu Goto (University of Copenhagen)
+                  (Mar 07): Doug Simons (CFHT)
+
+==============================================================================
+
+> Date: Sat, 02 Mar 2013 17:30:19 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Subject: NCU Astronomy Colloquia
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Dear TAN manager,
+
+Here is the schedule of NCU astronomy colloquia of this
+semester. Please post it to next issue of TAN.
+
+08/Mar  Dr. Hasegawa Yasuhiro (TIARA)
+15/Mar  Dr. Sherry Suyu (ASIAA)
+22/Mar  Dr. Tang Ya-Wen (ASIAA)
+29/Mar  Dr. Patrick Koch (ASIAA)
+05/Apr  vacation
+12/Apr  Dr. Wang Jing (NTHU)
+19/Apr  mid-term exam
+26/Apr  Prof. Sun Wei-Hsin (NTU)
+01/May  Prof. Lin Chun-Che (CMU)
+10/May  Dr. Liu Hau-Yu (ASIAA)
+17/May  TBA
+24/May  TBA
+31/May  Prof. Liu Guo-Chin (TKU)
+07/Jun  Dr. Kuo Cheng-Yu (ASIAA)
+14/Jun  reserved for Delta Award Lecture
+
+For up-to-date information, please refer following web page.
+
+  http://s3b.astro.ncu.edu.tw/coll/2012b/
+
+thank you,
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+==============================================================================
+
+> Date: Sun, 3 Mar 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Hsin-Fang Chiang (IfA)
+Topic:        The Earliest Circumstellar Disks and the Variable Young Stellar Objects Survey
+Time:        3/8 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+My talk will include two parts.  First I will take about
+interferometric observations and modeling of embedded young stellar
+objects.  Protostars are surrounded by their natal envelopes in the
+early stage, while the earliest disks form inside the envelopes.  To
+understand the envelope properties and to reveal the embedded
+circumstellar disk, we compare CARMA observations with theoretical
+collapse models using radiative transfer calculation and Bayesian
+inference.  Implications of the modeling work will be discussed.  Then
+I will introduce the Variable Young Stellar Objects Survey (VYSOS)
+project, which consists of two new robotic telescopes dedicated to
+monitor nearby star forming regions.  Observations of VYSOS have
+started in search of new eruptive events around young stars such as
+FUor and EXor outbursts.
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Tomotsugu Goto (Dark Cosmology Centre, University of Copenhagen)
+Topic:        Dark energy really exists? Detecting Integrated Sachs-Wolfe effect
+from WISE data.
+Time:        3/6 (Wednesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+We estimated the cross-power spectra of a galaxy sample from the
+Wide-field Infrared Survey Explorer (WISE) survey with the 7-year
+Wilkinson Microwave Anisotropy Probe (WMAP) temperature anisotropy
+maps. A conservatively-selected galaxy sample covers ~13000sq.deg,
+with a median redshift of z=0.15. Cross-power spectra show
+correlations between the two data sets with no discernible dependence
+on the WMAP Q, V and W frequency bands. We interpret these results in
+terms of the the Integrated Sachs-Wolfe (ISW) effect: for the |b|>20
+deg sample at l=6-87, we measure the amplitude (normalized to be 1 for
+vanilla LambdaCDM expectation) of the signal to be 3.4+-1.1, i.e., 3.1
+sigma detection. We discuss other possibilities, but at face value,
+the detection of the linear ISW effect in a flat universe is caused by
+large scale decaying potentials, a sign of accelerated expansion
+driven by Dark Energy.
+
+____________________________________________________ 
+Speaker:    Doug Simons (CFHT)
+Topic:        CFHT Status Report and Future Plans
+Time:        3/7 (Thursday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Presentation Summary: After a brief summary of the nature of CFHT
+Corp. and recent metrics illustrating the scientific success of CFHT,
+the future of the Observatory is described through various initiatives
+designed to broaden the CFHT partnership, develop new capabilities,
+and take steps toward the replacement of CFHT with a powerful new
+facility dedicated to highly multiplexed wide-field spectroscopy.
+CFHT, in the context of the evolving landscape on Mauna Kea will also
+be discussed, as CFHT positions itself among a backdrop of some older
+facilities being decommissioned while new Mauna Kea facilities are on
+the planning horizon.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

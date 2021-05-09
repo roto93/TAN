@@ -1,0 +1,96 @@
+==============================================================================
+
+> Date: Thu, 29 Aug 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Freeke van de Voort (MPA)
+Topic:          Cosmic gas flows and their effect on galaxy formation
+Time:           9/4 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Galaxies are intimately connected to the environments they live in. The
+haloes around them contain the gas reservoir from which the galaxies
+grow, while galactic outflows heat and enrich this circumgalactic medium
+(CGM). In this talk, I will use ALMA observations and cosmological,
+hydrodynamical simulations to show how the gas dynamics affects the
+growth of galaxies on all scales, from the interstellar medium (ISM) to
+the intergalactic medium. Our observations reveal that the star
+formation efficiency of early-type galaxies can be suppressed if their
+molecular gas disc is morphologically and kinematically disturbed. Our
+high-resolution simulations show that the CGM has higher overdensities
+than previously thought, which strongly affects predicted observables in
+the CGM. For example, the neutral hydrogen (HI) column density and
+H-alpha emission from ionised gas are dramatically enhanced, more in
+line with observations. I will end by showing how, at high redshift,
+sheets in the cosmic web can fragment and lead to high HI column density
+systems with no associated metals, explaining observations of metal-free
+Lyman Limit Systems.
+
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:        Yin Li (Kavli IPMU / UC Berkeley)
+Topic:          Model the Nonlinear Universe with Machine Learning
+Time:           9/5 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Cosmological structure formation is a highly nonlinear process that forms the
+tiny fluctuations of the early universe into the cosmic web at the late time.
+Its accurate and efficient modeling is necessary to recover the physical
+information contained in the early-universe fluctuations from the late-time
+observables.
+The two conventional approaches are the numerical simulation and the
+perturbation theory, with the former being accurate but computationally costly,
+while the latter being fast but invalid below the nonlinear scale.
+Machine learning offers a promising third route, given its many huge successes
+at building nonlinear mappings.
+Trained with N-body simulations, our deep learning models can predict structure
+formation with a comparable accuracy, much higher than that of the perturbation
+theories, at only a moderate cost.
+I will also discuss other applications and ongoing works towards building a
+complete forward model of the observable Universe.
+
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:        Tetsuya Hashimoto (NTHU)
+Topic:          Recent three discoveries from NTHU cosmology group
+Time:           9/6 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+I will present my recent papers on (i) a blue cluster in the local Universe,
+(ii) the luminosity-duration relation of fast radio bursts (FRBs), and
+(iii) ALMA observations of Gamma-Ray Burst (GRB) host galaxies.
+Brief summaries of each paper are as follows.
+>
+(i) A young galaxy cluster in the old Universe:
+We discovered a 'blue cluster', that is a local galaxy cluster with an
+unprecedentedly high fraction of blue star-forming galaxies yet hosted
+by a massive dark matter halo. The blue cluster challenges the current
+standard understanding of galaxy formation under the Lambda CDM
+Universe.
+>
+(ii) Luminosity-duration relation of fast radio bursts:
+We discovered an empirical correlation between luminosity and duration
+of FRBs. We propose a new distance measure using the relation of FRBs,
+which can reach more distant Universe than type Ia supernovae in quantity\.
+This method can potentially reveal the time variability of the dark energy,
+which is one of the central foci of observational cosmology.
+>
+(iii) SFRs of two GRB host galaxies at z~2 and a [CII] deficit observed with
+ALMA:
+We discovered a new parameter to characterize GRB host galaxies, [CII] deficit,
+by overcoming a serious dust-extinction problem of GRB host galaxies.
+Possible parameters controlling the deficit include the metallicity,
+initial mass function, and gas density.
+
+==============================================================================

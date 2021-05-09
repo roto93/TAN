@@ -1,0 +1,217 @@
+From sophie@asiaa.sinica.edu.tw Thu Jan  4 09:14 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA06167
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 4 Jan 2001 09:13:58 +0800 (CST)
+Received: from secretaryfen ([140.109.176.52])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id JAA01257
+	for <astro@asiaa.sinica.edu.tw>; Thu, 4 Jan 2001 09:20:09 +0800
+Message-ID: <000a01c075ea$a09db120$34b06d8c@asiaa.sinica.edu.tw>
+From: "Sophie, ASIAA" <sophie@asiaa.sinica.edu.tw>
+To: "TANet" <astro@asiaa.sinica.edu.tw>
+Subject: Fw: Star Cluster Newsletter - SCYON
+Date: Thu, 4 Jan 2001 09:06:54 +0800
+MIME-Version: 1.0
+	charset="big5"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Content-Type: text/plain;
+	charset="big5"
+Content-Length: 6914
+Status: R
+
+
+----- Original Message -----
+From: Newsletter Scyon @null Christian Boily <scyon@ari.uni-heidelberg.de>
+To: <kyl@asiaa.sinica.edu.tw>
+Sent: Thursday, January 04, 2001 6:15 AM
+Subject: Star Cluster Newsletter - SCYON
+
+
+>
+>         SCYON 2nd ANNOUNCEMENT - PLEASE FORWARD to ANYONE INTERESTED.
+>
+> (if you received this message twice - apologies. send us a note and we
+will
+> change our database.)
+>
+> %========================================================================
+>       S C Y O N -  A Newsletter devoted to Star Clusters, Young & Old
+>
+>    edited by  Christian Boily,  Pavel Kroupa and Jean-Claude Mermilliod
+>
+>           URL   http://www.rzuser.uni-heidelberg.de/~s17/scyon
+>
+>           email      SCYON@ari.uni-heidelberg.de
+>
+>           Call for contributions  (Issue No. 1 10 January,  2001)
+>           ---------------------------------------------------------
+> %========================================================================
+>
+> The 1st announcement lead to a very large influx of feedback, for
+> which we are grateful. We apologise if we were not able to reply to
+> every point that was raised at this early stage. We already received a
+> substantial number of abstracts (c. 20) for SCYON Issue No.1; many thanks
+> to those who contributed already.
+>
+> We would like to ascertain that SCYON disseminates abstracts of
+> research to be published on young and old star clusters, including
+> embedded clusters and star-cluster formation. The authors are
+> responsible for the quality of the submission, and for providing a
+> correct LaTeX file. Owing to time-constraints we cannot usually edit
+> each abstract, or correct wrongly submitted abstracts. The template
+> has been chosen to be the same as used for the dwarf-tales newsletter,
+> but this unfortunately clashes with the format of the star-formation
+> newsletter. Hopefully, a unification will one day become possible.
+> For the time being we decided to accept both forms.
+>
+> If you wish to contribute an abstract, write it in the main body of
+> the mail, using the LaTeX template below (or the star-formation
+> template). Our target date for the first issue is
+>
+>                   Issue no. 1 : January 10, 2001.
+>
+> A template LaTeX file and web-download are available at the web-site,
+>
+>              http://www.rzuser.uni-heidelberg.de/~s17/scyon
+>
+> The LaTeX template will be included with each issue of the newsletter sent
+> out by email.
+>
+> The list of subject included in the newsletter is as follows :
+>
+> **  Abstracts from refereed articles
+> **  Abstracts from conference proceedings
+> **  PhD Summaries
+> **  Announcements : Conferences, new databases, and the likes.
+> **  Any other relevant topic ...
+>
+> We look forward to adding your contribution to the first issue!
+>
+> Christian Boily, Pavel Kroupa and Jean-Claude Mermilliod
+>
+> %
+> %==== LaTex template v 1.0 for submission of contributions to SCYON
+=========
+> %
+> % With special thanks to Elias Brinks and Eva Grebel for the original
+design!
+> %
+> \documentclass[11pt]{article}
+> \textheight=23cm
+> \headheight=0pt
+> \headsep=0pt
+> \topmargin=0in
+>
+> \textwidth=17cm
+> \oddsidemargin=-0.5cm
+>
+> %========================================================================
+> %
+> % PLEASE USE THE FOLLOWING TEMPLATE AND SUBMIT TO :
+> %
+> % scyon@ari.uni-heidelberg.de
+> %
+> % Please do not send papers that already appeared in print. Also, please
+> % do not send the text as encoded MIME attachment.
+> %
+> % If you prefer, you may download your contribution directly on our
+webpage
+> % at url
+> %              http://www.rzuser.uni-heidelberg.de/~s17/scyon
+> %
+> % Please run this file through latex before submitting to ensure that your
+> % text compiles correctly. If we find errors or missing macros when
+> % editing the newsletter it is usually too late to contact you, and our
+best
+> % guess may be unpalatable ...
+> %
+> % If you use any special macros, please include them here:
+> % Note - our set of macros already includes AAS MACROS
+> %
+> %============= LaTeX text begins below ===================================
+> %
+> \begin{document}
+>
+> \begin{center} {\Large\bf
+>                 Title of this contribution
+> }\end{center}
+> \begin{center} {\bf
+> A. Author$^1$ and B. Author$^2$
+> }{\footnotesize
+> %
+>     $^1$Institute One and Address, $^2$Institute Two and Address
+> %
+> }\end{center}
+> \par
+> \medskip
+> \begin{flushright}
+> \begin{minipage}{0.9\textwidth}{
+>
+>  Your contribution  ... \hfill ... makes up a line.
+>
+>  Note : the *type* of contribution (abstract, announcement, ..) is defined
+>  in the fields below. The very last field, concerning contact address and
+>  url information, is optional if one from the list numbered (1) to (3) is
+>  filled out. The sender's email address will be added as `contact address'
+>  if no (zero) details are given.
+>
+> }\end{minipage}
+> \end{flushright}
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> {\bf   % (Delete as appropriate)
+>        Accepted by:    % or
+>        Submitted to:
+> }\\
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> {\bf To appear in the proceedings of the conference/workshop .... ,
+>      held in ... dd/mm -- dd/mm/year,
+>      Publisher's name   % eg PASP, Springer Verlag, etc ..
+>      ed. ... , ... \& ...
+>  } \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> {\bf Other useful information not covered in the fields above ... } \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }       {\tt   your e-mail address  }\\
+> {\it Also available from the URL\, }  {\tt   your http address    }\\
+> {\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+> \end{document}
+
+

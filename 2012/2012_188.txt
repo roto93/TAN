@@ -1,0 +1,45 @@
+> Date: Sun, 21 Oct 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Ryan Keenan (ASIAA)
+Topic:        Investigations of Large-Scale Inhomogeneity in the Local Universe
+Time:        10/26 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The size of large-scale structures in the local universe (sheets, voids, and superclusters of galaxies), and our location among them, is of critical importance to the interpretation of observational results. Cosmic variance due to large-scale structure can lead to systematic variations in observational data. Such systematics can dominate over other sources of error if a volume sufficient to average over cosmic variance has not been sampled. However, it remains unclear just what the upper limit on the size of large-scale structure is, and hence what volume constitutes a representative sample of the universe.  I will summarize recent advances in theoretical and observational cosmology, including my own observational work, which suggest that large-scale inhomogeneities may yet present an obstacle in the determination of locally measured cosmological observables.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Dr. Kevin C. Xu (Caltech/IPAC)
+Topic:        Close Major-Merger Pairs Since z=1: Evolution of Merger Rate & sSFR Enhancement
+Time:        10/24 (Wednesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I will present results on the cosmic evolution of galaxy pairs based
+on studies of two large samples, namely a local (z<0.1) sample (KPAIR, 170
+pairs) and a sample of pairs with 0.2<z<1 selected in the the COSMOS
+field (CPAIR, more than 300 pairs). We found a moderately strong
+cosmic evolution for the pair fraction, with the evolution index of
+2.2+-0.2. The pair fraction and the evolution show no significant
+dependence on the stellar mass of the mergers.  Our quantitative
+estimates indicate that major mergers have significant impact on the
+stellar mass assembly of the most massive galaxies. Comparison with
+the mass dependent (U)LIRG rates suggests that the frequency of
+major-merger events is comparable to or higher than that of (U)LIRGs.
+Results from a new IR study, using data taken from Herschel and
+Spitzer surveys, showed a strong trend for the enhancement of the
+specific star formation rate (sSFR) in these pairs to decrease with
+increasing redshift, probably due to higher gas fractions in higher
+redshift galaxy disks which in turn may weaken the tidal effects in
+triggering starbursts.
+
+==============================================================================

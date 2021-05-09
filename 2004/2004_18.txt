@@ -1,0 +1,132 @@
+From astro@.MISSING-HOST-NAME. Wed Feb 25 10:32:26 2004
+Date: Tue, 24 Feb 2004 01:16:54 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue February 20 - 23, 2004)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (February 20 - 23, 2004):
+
+1. NCU Astronomy Colloquium (Feb 27): Yen, Chien-Chang (Fu-Jen Catholic Univ)
+2. NCU Special Astronomy Colloquium (Feb 26): Christian Veillet (CFHT)
+3. ASIAA Colloquia (Feb 25 & 27): Christian Veillet (CFHT)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Mon, 23 Feb 2004 09:56:26 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+X-X-Sender: jiang@fermi.phy.ncu.edu.tw
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Astronomy Colloquium 
+
+
+                ***********************************
+                |  National  Central  University  |
+                * ------------------------------- *     
+                \_____ Astronomy  Colloquium _____/
+
+
+                  2:00 p.m. 27th Feb. 2004 (Friday)
+              Science Building IV, Conf. Room, Rm 1013
+   
+                            
+              Speaker :  Prof. Yen, Chien-Chang
+                         (Fu-Jen Catholic University/ASIAA)
+         
+              Title : Numerical Simulations For A Gaseous Disk 
+                      Driven By A Bar
+
+              Abstract:
+
+              The high resolution observation make people be able to probe
+              the structures of galactic centeral region today. 
+              A gaseous disk is found in the center region in almost all 
+              normal galaxies.
+
+              We would like to study a gaseous disk driven by a bar, 
+              which consists of stars. Our approach is using numerical 
+              methods. We develop the gas dynamical codes based on Godunov 
+              methods and speed up the calculation of self-gravitation
+              by fast Fourier method. Those numerical results
+              are consistent with one derived by the spiral density wave 
+              theory.
+              
+              In this talk, I will give an introduction of the spiral 
+              density wave theory, numerical simulations for Milky Way,
+              the numerical method for gas dynamical codes and discuss 
+              some problems in numerical simulations.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Mon, 23 Feb 2004 13:25:27 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+X-X-Sender: jiang@fermi.phy.ncu.edu.tw
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Special Astronomy Colloquium 
+
+
+                ***********************************
+                |  National  Central  University  |
+                * ------------------------------- *
+                             Special     
+                \_____ Astronomy  Colloquium _____/
+
+
+                  11:00 a.m. 26th Feb. 2004 (Thursday)
+              Science Building IV, Conf. Room, Rm 1013
+   
+                            
+              Speaker :  Prof. Christian Veillet
+                         (Director, Canada-France-Hawaii Telescope)
+         
+              Title : The Canada-France-Hawaii Telescope: 
+                      25 Years of Excellence
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Mon, 23 Feb 2004 14:55:06 +0800 (CST)
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+cc: astro@asiaa.sinica.edu.tw
+Subject: [Colloquium] ASIAA Colloquium this week - Dr. Christian Veillet
+
+
+ Dear all,
+  
+	This week, Dr. Christian Veillet, Director of the Canada-France-Hawaii
+ Telescope, will be visiting ASIAA. Besides discussing with us about future
+ collaborations, Dr. Veillet will give us two colloquium talks about the CFHT
+ and its scientific achievements. The first talk of a CFHT overview is
+ scheduled on Wednesday (02/25) afternoon (2:30pm). On Friday (02/27) morning,
+ the second talk will be focused on the science programs of the Kuiper 
+ Belt Objects at the CFHT.
+
+	If you are interested in chatting with Dr. Veillet during his visit,
+ please contact Shiang-Yu (sywang@asiaa.sinica.edu.tw) in advance. Please 
+ also notice the special time for these two talks; the regular colloquium
+ this Friday is re-scheduled to the morning due to the fire-and-emergency
+ drill in the afternoon. More information about the ASIAA colloquia can be
+ found below at our web url,"http://www.asiaa.sinica.edu.tw/act/colloquium.php".
+  
+ Regards,
+      
+ sheng-yuan
+      
+ --------------------------- ASIAA Colloquia ---------------------------
+  Speaker : Dr. Christian Veillet (CFHT)
+  Title   : The Canada-France-Hawaii Telescope:
+              25 Years of Excellence... and Counting
+  Time    : 02/25 (Wednesday) 2:30 pm
+  Location: ASIAA Room 716
+  URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+ -----------------------------------------------------------------------
+  Speaker : Dr. Christian Veillet (CFHT)
+  Title   : The Canada-France-Hawaii Telescope and the Kuiper Belt
+  Time    : 02/27 (Friday) 10:30 am
+  Location: ASIAA Room 716
+  URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+ -----------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

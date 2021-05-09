@@ -1,0 +1,599 @@
+From kyl@asiaa.sinica.edu.tw Wed Jul 28 16:00 CST 1999
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA29903
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 28 Jul 1999 15:59:02 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA17952
+	for <astro@asiaa.sinica.edu.tw>; Wed, 28 Jul 1999 15:56:50 +0800
+Date: Wed, 28 Jul 1999 15:55:30 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Data Release Policies for Large Surveys (fwd)
+Message-ID: <Pine.SOL.4.10.9907281555270.4426-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 14563
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 28 Jul 1999 17:42:29 +1000
+From: Elaine Pacey <Elaine.Pacey@atnf.csiro.au>
+To: jbergero@eso.org, bjb@aaoepp2.aao.GOV.AU, dcooper@rp.csiro.au,
+     rekers@atnf.csiro.au, r.frater@exec.csiro.au, jrm@mso.anu.edu.au,
+     josulliv@newscorp.com.au, mprice@atnf.csiro.au,
+     pscaife@mail.newcastle.edu.au, jwvs@newt.phys.unsw.edu.au,
+     rwebster@physics.unimelb.edu.au, goldsmit@astrosun.tn.cornell.edu,
+     peter.mcculloch@utas.edu.au, rdc@aaoepp.aao.GOV.AU,
+     kyl@asiaa.sinica.edu.tw
+Subject: Data Release Policies for Large Surveys
+
+Please find in this email the following:
+
+1. Memo to ATSC members from Russell Cannon, Chair, ATSC dated 27 July
+
+2. Copy of Interim response to the AT Time Assignment Committee dated 29
+June
+
+3. Copy of Time Assignment Committee response to Russell dated 14 July
+
+Regards
+
+Elaine
+
+
+
+<bold>1.  MEMORANDUM
+
+</bold>
+
+To: ATNF Steering Committee members
+
+From: Russell Cannon
+
+Date: 27 July 1999
+
+Subject: DATA RELEASE POLICIES FOR LARGE SURVEYS
+
+
+At the last Steering Committee meeting in March, one of the agenda 
+items
+
+was a request from the Time Assignment Committee for us to endorse 
+their
+
+decision not to allocate any more observing time to the multi-beam
+pulsar
+
+survey until some pulsar data were released to the community.  The SC
+had
+
+a lively but somewhat abbreviated discussion at the end of our meeting. 
+
+There was clearly very strong support for insisting that recipients of
+
+large amounts of ATNF time should adhere to the official data-release
+
+policies, but as Chair I was reluctant to agree to the Draconian step 
+of
+
+terminating the pulsar program abruptly without a better understanding
+of
+
+the issues. 
+
+
+The Australian astronomer members of the SC had a further 
+teleconference
+
+meeting on 5 May at which this and other matters were further 
+discussed,
+
+and I undertook to speak with some of the main protagonists in the big
+
+surveys and in the Australian pulsar community. 
+
+
+The outcome of all this was that I prepared an "Interim Response" for
+the
+
+meeting of the TAC on 29-30 June.  I emphasised that this was a 
+personal
+
+report from me, and that I would consult the full membership of the SC
+if
+
+there were issues still to be resolved or points that the TAC did not
+
+agree with.  My main findings and recommendations were that there were
+
+valid reasons for having different data-release timescales for 
+different
+
+surveys, that neither the pulsar nor the HI survey teams had fully
+
+complied with the originally agreed guidelines on data release, and 
+that
+
+neither survey should be cut at this stage but pressure should be
+
+maintained (through the threat of curtailed observing allocations) to
+
+ensure the prompt release of data. 
+
+
+These recommendations were accepted by the TAC, and both the main 
+survey
+
+teams have undertaken to release their data on the WWW (some pulsar 
+data
+
+have already been released, partly as a result of this protracted
+debate). 
+
+I therefore believe that this issue has been resolved and that there 
+are
+
+no outstanding matters to be referred back to the SC, although both the
+
+SC and the TAC will have to be vigilant in future to ensure that the
+data
+
+release policies are adhered to.  
+
+
+Copies of the note I sent to the TAC and of the TAC's response are
+
+attached.  I am sending these papers to all SC members to keep the
+
+Committee fully informed.  Please let me know if you have any comments
+or
+
+if you feel that the issues need further discussion now.
+
+
+Russell 
+
+
+****************************
+
+
+<bold>2. RELEASE OF DATA FROM THE MAJOR PARKES MULTI-BEAM PROJECTS 
+
+</bold>
+
+An interim response to the AT TAC, 29 June 1999
+
+
+Russell Cannon (as Chair of ATNF Steering Committee)
+
+
+The AT TAC has requested guidance from the Steering Committee on the
+
+policy for public access to data from large surveys.  This has been
+
+precipitated by the considerable difference between the stated
+
+data-release intentions of the two main teams, and the lack of
+
+publications from the pulsar survey compared with the HI multi-beam
+
+surveys.  At its last meeting in December 1998, the TAC threatened not
+
+to allocate any more time to the pulsar survey unless some progress
+
+was made in releasing data.
+
+
+The following notes are my personal summary of the current situation.
+
+Although this was on the agenda for the 1999 Steering Committee
+
+meeting in March, there was insufficient time then for a thorough
+
+discussion.  I therefore undertook to speak with some of the
+
+protagonists, both inside and outside the survey teams.  My findings
+
+so far are summarised below.  It would be very helpful now to have the
+
+reactions of the TAC.  If there are still major issues requiring
+
+urgent resolution, I can consult with the Steering Committee members
+
+by e-mail.
+
+
+
+1. General considerations.
+
+
+In principle, probably all data from large projects carried out on
+
+national facilities should be made freely available within a year or
+
+two of the original observations.  However, in practice the situation
+
+is often not clear-cut.
+
+
+(i) Raw data are not of much use to outsiders.  This is especially
+
+true of the pulsar survey, where the data volumes are enormous and a
+
+large amount of pre-processing is necessary; however, HI multi-beam 
+data
+
+are also much more useful after some processing and calibration.
+
+
+(ii) The teams carrying out the surveys must have some incentive for
+
+doing the work, and receive some tangible benefit from it.  In some
+
+cases, what matters is the entire survey since the teams do not want
+
+to be scooped by outsiders doing the astrophysical analysis on subsets
+
+of the data; in other cases, probably including the pulsar survey,
+
+the most important science involves rare individual objects.
+
+
+(iii) What is meant by open release of data?  Ultimately it must mean
+
+free world-wide access, but some argue that since the ATNF is a
+
+national facility, other Australian astronomers (i.e. non-team members)
+
+should have some priority ahead of the rest of the world.  On the
+
+other hand, the Hubble Deep Field surveys have shown how beneficial
+
+the prompt release of data can be, both for the advancement of science
+
+and for raising the profile of the facility doing a survey.
+
+
+
+2. Current situation and stated intentions.
+
+
+The key questions are: (i) for how long should survey data remain
+
+proprietorial? (ii) what constitutes a useful release of data?
+
+
+(a) The pulsar survey.
+
+
+The stated policy of the pulsar survey (on the WWW, as of March 1999)
+
+is to issue lists of pulsars after acceptance for publication or 18
+
+months after confirmation of detection, whichever comes first, and to
+
+release the raw data 2 years after recording (together with software
+
+to make the raw data useable).  In a subsequent message (4 May 1999),
+
+Dick Manchester proposed releasing the raw data after 18 months also.
+
+
+There is a list of 46 single pulsars found so far on the WWW; there is
+
+also a summary, saying that 45% of the survey has been done, 30% of
+
+the data reduced and some 360 new pulsars found (equal to half the
+
+previously known total).  Both these reports are undated.  The survey
+
+effectively started in August 1997, so data should have started to
+
+appear about now, on the pulsar team's own guidelines. 
+
+
+In his May e-mail and in subsequent discussion, Dick has made a case
+
+for being given 18 months to determine a timing solution, and hence an
+
+accurate position, before releasing new pulsars.  12 months is the
+
+minimum period for a good timing solution, and the initial discovery
+
+observation is rarely useful in the solution, so the elapsed time from
+
+first discovery would be about 2 years if this is accepted.  Such a
+
+policy would give the pulsar team less than 12 months for any
+
+follow-up observations, either radio or optical; Dick argues that this
+
+is the timescale which should be compared with the rules applied to
+
+the HI and other surveys.
+
+
+Data on some specific objects are being made available to others by
+
+private arrangement, sometimes on condition of joint authorship of
+
+papers, sometimes not.
+
+
+
+(b) The multi-beam surveys.
+
+
+The stated HIPASS policy is to release reduced data cubes twelve
+
+months after taking the data, with access to raw or calibrated data by
+
+arrangement.
+
+
+So far as I am aware no data have yet been made openly available,
+
+because the automatic data reduction and calibration procedures are
+
+not yet finalised.  Although there is a good deal of information about
+
+the surveys on the WWW, it is not easy for an outsider to get a quick
+
+view of how much of the sky has been covered or what data are
+
+available.  
+
+
+
+(c) Publications.
+
+
+The publication of papers based on the surveys is not the same thing
+
+as the release of the survey data, although publication is obviously
+
+important as an indication of activity within the survey teams and as
+
+a measure of the significance of the observations.
+
+
+The WWW pages list no publications from the pulsar survey.  The HI
+
+surveys by contrast have about 30 publications, although the great
+
+majority are conference reports.  I suspect that most of these are not
+
+relevant to the primary issue of access to the data.
+
+
+
+(d) Outside views.
+
+
+I have consulted a few people who are interested in the results of the
+
+pulsar survey but who are not themselves team members (in particular,
+
+Simon Johnston at Sydney Uni. and Matthew Bailes at Swinburne Uni. as
+
+pulsar specialists, and Ron Ekers as Director of ATNF and Chair of the
+
+TAC).
+
+
+No one seems to be suggesting that either the pulsar or the HI team is
+
+failing to do good science, or that either team is simply piling up
+
+data and doing nothing with it.  On the contrary, both teams are held
+
+in very high regard by their peers.  This in itself makes it difficult
+
+to support the idea of simply stopping the pulsar observations.
+
+
+The main complaint of the outside pulsar specialists is that the
+
+pulsar team does not have the resources to do all of the necessary or
+
+desirable follow-up studies, and that the science could progress
+
+faster if they could join in.  In many cases there would appear to be
+
+little or no conflict of interest: Simon is particularly interested in
+
+pulsar winds and interactions with the ISM, Matthew has carried out
+
+his own independent survey for millisecond pulsars in fields outside
+
+the main pulsar survey.
+
+
+
+3. Suggestions and comments.
+
+
+Clearly it is necessary to keep pressure on all survey teams to
+
+reduce and release their data in a timely fashion.  This is essential
+
+for efficient progress of the science, and to justify the large
+
+investment of resources on a national facility.
+
+
+On the basis of what I have learned so far, I offer the following
+
+suggestions.  These could become formal recommendations if agreed to
+
+by bodies such as the TAC and the Steering Committee, but I believe
+
+that further discussion is needed before reaching that point.
+
+
+(i) Similar basic rules should apply to all large surveys, but account
+
+has to be taken of differences between the nature and objectives of
+
+each survey.
+
+
+(ii) Time is needed between data taking and data release, for two
+
+quite distinct reasons: (a) to enable the data to be properly
+
+calibrated and extracted, and (b) to give the survey teams an
+
+opportunity to exploit their data.
+
+
+(iii) In the case of the pulsar survey, allowing 18 months after the
+
+confirmation of a detection seems a reasonable rule which will satisfy
+
+both (a) and (b) above, and allow the pulsar team about 6 months of
+
+proprietary rights.  Release of the raw pulsar data is of little use
+
+to anyone outside the team.
+
+
+(iv) For the HI survey, 12 months from the initial observations seems
+
+reasonable ( assuming that the data pipeline will act almost
+
+instantaneously once it is working).
+
+
+(v) Until the HI survey actually starts to release data on a regular
+
+basis 12 months after making observations, it would be unfair to
+
+penalise the pulsar survey in favour of the HI survey.
+
+
+(vi) Putting data on the WWW means it will be freely available to
+
+everyone in the world.  This is as it should be, but it might not help
+
+with the perceived problem that some Australian astronomers are not
+
+getting adequate access to data from a national facility.
+
+
+(vii) Encourage the survey proponents to share their data more widely,
+
+especially where there is no conflict of interest or where the extra
+
+input will help to get the data analysed and released sooner.
+
+
+(viii) If any survey team fails to meet the targets for data release,
+
+then begin to cut back (but not stop completely) their allocation of
+
+observing time.
+
+
+RDC  29/06/99
+
+***********************************
+
+
+<bold>3.   Ref: JMC: 01_99
+
+</bold>
+
+14 July 1999
+
+
+Dr Russell Cannon
+
+Anglo Australian Observatory
+
+PO Box 296
+
+Epping
+
+NSW 1710
+
+
+Dear Russell,
+
+
+Thank you very much for your careful consideration of the complex issues
+relating to data release policies for major surveys. The ATNF time
+assignment committee discussed this at the meeting on 29-30th June and
+your input was extremely helpful. 
+
+
+The TAC has some feedback on your report. The following comments follow
+the section numbers in your report: 
+
+
+1iii) The data release policy does not favour astronomers in Australia
+ahead of overseas astronomers. However the TAC is not aware that this is
+an issue of concern to Australian astronomers who make use of the ATNF
+facilities. This may need to be followed up further.
+
+
+2a) The TAC is pleased to see that the pulsar group has put considerably
+more information on the web. 
+
+
+2b) The TAC agrees that for large surveys, information should be given on
+the web to show which survey regions have been covered.
+
+
+2c) The TAC agrees that publications and data release are essentially
+unrelated issues.
+
+
+3iii) For the Parkes pulsar survey, the TAC now accepts an 18 month data
+release period following the confirmation of a detection, as defined by
+the start of follow-up timing observations.
+
+
+3vi) See our reply to 1iii). 
+
+
+Yours sincerely, 
+
+
+Jessica Chapman
+
+Time Assignment Committee
+
+
+
+Elaine Pacey
+
+PA to RD Ekers, Director
+
+Australia Telescope National Facility
+
+Cnr Vimiera and Pembroke Roads, Marsfield NSW
+
+PO Box 76 Epping NSW 2121
+
+Telephone: +61 (2) 9372 4300
+
+FAX: +61 (2) 9372 4310
+
+Email: Elaine.Pacey@atnf.csiro.au
+
+

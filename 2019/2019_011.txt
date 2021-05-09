@@ -1,0 +1,129 @@
+
+In this issue (Jan 12 - 19, 2019)
+
+1. Mini-workshop on massive stars, core-collapse supernovae & nucleosynthesis
+   (Apr 08-09)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Jan 21): Tzu-Hsiang Chao/Chia-Hui Lin
+                                               (NTU/ASIAA)
+                                      (Jan 22): Seog-Tae Han (KASI)
+                                      (Jan 23): Tomohisa Kawashima (NAOJ)
+                                      (Jan 17): Jongho Park (Seoul Nat'l Univ)
+3. Graduate research in planet formation theory
+
+==============================================================================
+
+> From: Meng-Ru Wu <mwu@gate.sinica.edu.tw>
+> Date: Wed, 16 Jan 2019 11:35:45 +0800
+> Subject: Fwd: Mini-workshop on massive stars, core-collapse supernovae, and nucleosynthesis, April 8-9, ASIoP.
+> To: astro@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+We would like to announce a two-day workshop on April 8-9, focusing
+on massive stars, core-collapse supernovae, and nucleosynthesis. The
+workshop will be held in the Institute of Physics, Academia Sinica.
+
+The goal of this mini-workshop is to discuss recent developments and issues
+related to massive stars, core-collapse supernovae, and the associated
+nucleosynthesis of elements. They play the fundamental roles in the
+evolution of early galaxies and serve as one of the primary target in the
+era of multi-messenger astronomy, including electromagnetic, neutrino, and
+gravitational wave emissions. As we hope that new ideas, directions, and
+potential collaborations may be identified through the discussions during
+the mini-workshop, we plan to have just roughly 6 talks within two days,
+including three invited talks. Each talk can cover one specific topic for ~
+50-60 minutes, plus in addition, 30-40 minutes time for rather informal but
+in-depth discussions.
+
+You are cordially invited to submit a registration and/or a talk through
+the workshop website
+https://nctsmma.github.io/events/201904-miniworkshop/index.html. The
+registration deadline is March 7, 2019. If you have any inquiries and
+questions, please do not hesitate to contact us.
+
+Sincerely yours,
+
+Ke-Jung Chen (Institute of Astronomy and Astrophysics, Academia Sinica)
+Kuo-Chuan Pan (Institute of Astronomy, National Tsing Hua University)
+Meng-Ru Wu (Institute of Physics, Academia Sinica)
+
+==============================================================================
+
+> Date: Thu, 17 Jan 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Tzu-Hsiang Chao/Chia-Hui Lin (NTU/ASIAA)
+Topic:          Cosmological Impacts of the First Stars/Kilonova and Binary Neutron Star Merger
+Time:           1/21 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Seog-Tae Han (KASI)
+Topic:          A development of compact triple band receiver for millimeter-wave radio astronomy
+Time:           1/22 (Tuesday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+We have developed a compact triple-band receiver which enables simultaneous observations in the three frequency intervals K(18â€“26 GHz) band, Q(35â€“50 GHz) band, and W(85â€“115 GHz) band. The quasi-optics design enables the triple-band receiver to fit into a single cryostat with some of the mirrors and dichroic filters outside the cryostat. The total receiver system is 600 mm(W) x 980 mm(L) x 370 mm(H) including the optical circuit. When compared with the present KVN optical bench of size 2600 mm x 2300 mm x 60 mm, the system is significantly more compact and is tailorable for use in telescopes with a small receiver cabin. The receiver performance and test observation results will be presented. We have shown that it is possible to design a quasi-optical circuit that has simultaneous observation capability for three or four frequency bands for millimeter and sub-millimeter receivers. Ultimately, this concept may lead to development of much more compact multi-frequency recei!
+ ver systems for mm-wave and sub-mm radio telescopes.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Tomohisa Kawashima (NAOJ)
+Topic:          Black hole shadow and relativistic jet image in M87
+Time:           1/23 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+he Event Horizon Telescope (EHT) is a very long baseline interferometry (VLBI) array aiming for imaging black hole (BH) shadows on event horizon scales, and exploring fundamental properties of BHs as well as physics of accretion flows/relativistic jets. M87 is one of the prime target of EHT, because the expected diameter of the black hole shadow is larger than the beam size of EHT. Theoretical studies of BH shadow and relevant disk-jet images are very important to estimate the mass and spin of black holes and to reveal the physics of accretion flow and launching mechanism of relativistic jets.  We have recently developed a new general relativistic radiative transfer (GRRT) code and have carried out calculations of the black hole shadow in M87, assuming a simple model of accretion flow or disk-jet model based on GRMHD simulations (Nakamura et al. 2018 and in prep.). Based on the simple accretion flow model, we have newly found that the BH spin can be constrained by measuring !
+ the dark-crescent feature which appears in the rapidly spinng BHs. We also introduce our recent GRRT calculation results of disk-jet models based on GRMHD simulations from horizon to mili-arcsecond scale (i.e., one thousand gravitational radius scale). The resultant image shows the limb-brightened jet far from the black hole, that is consistent with the VLBI observation images.
+
+==============================================================================
+
+> From: Min-Kai Lin <mklin@asiaa.sinica.edu.tw>
+> Subject: Graduate research in planet formation theory
+> Date: Thu, 17 Jan 2019 20:59:24 +0800
+> To: astro@asiaa.sinica.edu.tw
+
+The Star and Planet Formation theory group at ASIAA is looking for motivated Masters/PhD students to work with Dr. Min-Kai Lin on various topics in planet formation theory. Potential projects include:
+
+ãƒ»Dust-gas dynamics in protoplanetary disks
+
+ãƒ»Disk-planet interaction and orbital migration 
+
+ãƒ»Fluid instabilities and structures in accretion disks 
+
+Interested students should email Dr. Lin with a CV, transcript, and a brief description of past research experiences, if applicable. For more details, please see 
+
+https://minkailin.wixsite.com/minkailin/blog/graduate-research-in-planet-formation-theory 
+
+or contact Dr. Lin directly. 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,57 @@
+
+> Subject: TAN info.: lectures in ASIAA
+> From  Kouichi Hirotani <hirotani@asiaa.sinica.edu.tw>
+> Cc    Kouichi Hirotani <hirotani@asiaa.sinica.edu.tw>, Ken Chen <chenken1229@gmail.com>Add contact
+> Date  2019-04-15 14:24
+
+Dear Professor Kuan,
+
+I should appreciate it if you could advertise the following information to TAN.
+
+--------------
+In ASIAA/TIARA (theoretical astrophysics group), we will offer introductory 
+lectures on hydrodynamics (HD) and magnetohydrodynamics (MHD), as 
+a preparation of the Science Discussion Meetings in TIARA, which will start 
+after the introductory lectures.  Since HD courses are not offered in Taiwan 
+for undergraduates, graduate students (or junior/senior undergraduate 
+students) in any institute/University are encouraged to participate.
+
+Dates: April 19 (Fr), 26 (Fr), May 3 (Fr)
+Time: 14:00-17:00
+Place: Room R1108, AS/NTU Astronomy-Mathematics Building, 
+            National Taiwan University, No.1, Sec. 4, Roosevelt Rd, Taipei 
+
+Lecturer: Kouichi Hirotani (ASIAA/TIARA)
+
+Syllabus:
+Chapter 1  Hydrodynamics
+    Section 1  The continuity equation
+    Section 2  The Lagrangian derivative
+    Section 3  The Euler equation
+    Section 4  Hydrostatics
+    Section 5  The Bernouilli's theorem
+    Section 6  Energy conservation
+    Section 7  Sound waves and gravity waves
+
+Chapter 2  Newtonian Magnetohydrodynamics (MHD)
+    Section 1  Electromagnetic equations
+    Section 2  Plasma equations 
+    Section 3  Dimensionless parameters
+
+Lecture note will be provided as a copy of power point files.
+
+References:
+Jackson, J. D. (1962) Classical electrodynamics, Reidel
+Landau, L. D. & Lifshitz, E. M. (1954) Fluid mechanics.
+Peterson, A. R. (1984) A first course in fluid dynamics, Cambridge
+Priest, E. R. (1982) Solar magnetohydrodynamics, Wiley
+Spitzer, L. (1962) Physics of fully ionized gases, Interscience
+
+If there is a demand, it is also possible to teach some of the following chapters:
+Chapter 3  Radiation from relativistic particles
+Chapter 4  Tensor analysis 
+Chapter 5  General relativity
+Chapter 6  General relativistic MHD
+------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

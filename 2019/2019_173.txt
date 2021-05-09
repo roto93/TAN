@@ -1,0 +1,176 @@
+=============================================================================
+
+In this issue (Oct 19 - 25, 2019)
+
+1. [VLBI] Call for Proposals of VERA 2020A
+2. ASIAA Colloquium/Seminar/Lunchtalk (Oct 28): Chia-Lin Ko (NTHU/ASIAA)
+                     (Oct 29): Richard de Souza (University of Michigan)
+                     (Oct 30): Eduard Vorobyov (University of Vienna)
+3. LOT 2020A Call-of-Proposal
+
+==============================================================================
+
+Subject: [VLBI] Call for Proposals of VERA 2020A
+From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+Date: Mon, 21 Oct 2019 10:29:36 +0900
+To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+    "vlbi@nrao.edu" <vlbi@nrao.edu>,
+    "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+    "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcement of the call-for-proposals of
+the VERA for 2020A season.  
+Please distribute this announcement to your community and encourage
+people to submit proposals.  
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+
+-----------------------------
+
+***************************************
+Call for Proposals of VERA
+Deadline;  November 15, 2019, 08:00 UT.
+****************************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with a 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.  
+The recording rates of 2048Mbps (single-beam mode) and 4096Mbps  
+(2-beam mode) are opened from 2018B season.
+Available observation time is up to 200 hours during the observation period
+from January 15th, 2020 to June 15th, 2020.
+Although it is limited to VERA array and  a single-beam mode,
+the 6.7 GHz ( C-band ) is opened on shared-risk basis.
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+https://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Please be aware of the possibility that open-use of VERA
+is no longer available after January 2021 considering the
+long-term budget expectation of Mizusawa VLBI Observatory
+of NAOJ.
+
+Sincerely,
+
+            Mareki Honma
+            Director of Mizusawa VLBI  Observatory of NAOJ
+
+==============================================================================
+
+Date: Thu, 24 Oct 2019 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Chia-Lin Ko (NTHU/ASIAA)
+Topic:         How do dust polarization observations trace B-fields? A Comparison between JVLA and ALMA observations
+Time:         10/28 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+The previous SMA 0.87 mm and CARMA 1.3 mm surveys of dust polarization toward protostars (Galametz et al. 2018; Hull et al. 2017) have shown that polarization percentage in general decreases rapidly with total intensity. They also hinted with a dichotomy that the projected polarization E-segments are either parallel or perpendicular to the outflow axes. Based on the JVLA 18-48 GHz and ALMA 230 and 345 GHz polarization observations towards the specific Class 0 YSO, NGC1333 IRAS4A, we conjectured a unified interpretation of these facts based on aligned dust grains with B-field. At 345 GHz, we found that the radial polarization percentage profiles of IRAS4A1 and IRAS4A2 may be consistent with centrally illuminated collapsing cores, which have an hourglass shaped B-field topology, r^-2 volume density profile, and an approximately consistent grain alignment efficiency. The modestly high optical depth leads to the depolarization at the center of IRAS4A2. The much higher optical de!
+ pth at the center of IRAS4A1 eventually leads to a 90 degree flip of polarization position angles at 230 and 345 GHz with respect to those observed at 18-48 GHz. At 230 and 345 GHz, what we detected were the linear polarization due to dust extinction instead of dust emission. We conclude that the 230/345 GHz polarization observations towards Class 0 YSOs indeed trace B-field, although any dichotomy related to how E-field is aligned with certain prefer axes (e.g., outflow, filament) may be related to the optical thickness of the selected samples.
+
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Richard de Souza (University of Michigan)
+Topic:         Unravelling the Andromeda Galaxy's most massive merger
+Time:         10/29 (Tuesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The Andromeda Galaxy (M31), our nearest large galactic neighbour, offers a unique opportunity to
+test how mergers affect galaxy properties. M31's stellar halo caused by the tidal disruption of
+satellite galaxies is the best tracer of the galaxy's accretion history. Despite a decade of
+effort in mapping out M31's large stellar halo, we are unable to convert M31's stellar halo into
+a merger history. Here we use cosmological models of galaxy formation to show that M31's massive
+and metal-rich stellar halo containing intermediate age stars implies that it merged with a
+large (M* ~ 2.5 x 10^10 M_sun) galaxy ~2 Gyr ago. The simulated properties of the merger debris
+help to interpret a broader set of observations of M31's stellar halo and satellites
+than previously considered: its compact and metal-rich satellite M32 is the tidally-stripped core of
+the disrupted galaxy, M31's rotating and flattened inner stellar halo contains most of the merger
+debris, and the giant stellar stream is likely to have been thrown out during the merger. This accreted
+galaxy was the third largest member of the Local Group. This merger may explain the global burst of star
+formation ~2 Gyr ago in the disk of M31 in which ~1/5 of its stars were formed. Moreover, M31's disk and
+bulge were already in place before its most important merger, suggesting that mergers of this magnitude
+do not dramatically affect galaxy structure.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Eduard Vorobyov (University of Vienna)
+Topic:         Formation of giant planets via disk gravitational fragmentation
+Time:         10/30 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Giant planets play an important role in sculpturing planetary systems. They are found at a wide range of orbital distances from a fraction of au to hundreds of au, making it difficult to explain their origin in the framework of the core accretion paradigm.
+
+I will show that giant planets at orbital distances of tens of au (such as in HR 8799, PDS 70) can form through gravitational fragmentation of the outer regions of young protostellar disks followed by inward migration and tidal stripping of the fragments. An interesting by-product of this mechanism are accretion bursts, which can manifest itself as FU Orionis-type luminosity outbursts. Dust settling in the fragment interiors and likely formation of solid protoplanetary cores will also be discussed.
+
+==============================================================================
+
+From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+Date: Thu, 24 Oct 2019 14:14:29 +0800
+Subject: LOT 2020A Call-of-Proposal
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear Prof Kuan, please announce to TAN. Thanks a lot
+
+-------------------------------------------------------------------------------------------
+Dear all, the call-of-proposal for LOT in 2020A Semester (01 Jan - 30 Apr,
+2020) is now available at Lulin website (look for "Lulin News" on
+2019-10-24)
+
+http://www.lulin.ncu.edu.tw/
+http://www.lulin.ncu.edu.tw/lulinnews/files/191024_LOT_2020A_Announcement.txt
+
+The deadline is: **** 01 December 2019* (before midnight local Taiwan time)
+***
+-------------------------------------------------------------------------------------------
+-- 
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

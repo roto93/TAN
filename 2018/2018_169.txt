@@ -1,0 +1,148 @@
+==============================================================================
+
+In this issue (Oct 23 - 27, 2018)
+
+1. NTNUES astronomy colloquium (Oct 30): Steven Charnley (NASA/GSFC)
+2. ASIAA Colloquium/Seminar/Lunchtalk:
+                   (Oct 29): Zha Shuai (Chinese University of Hong Kong)
+                   (Oct 30): Leung, Shing Chi (IPMU)
+                   (Oct 31): Leung, Shing Chi (IPMU)
+                   (Oct 31): Yu, Chen-Yu (ASIAA)
+                   (Nov 01): Hiroya Yamaguchi (JAXA)
+                   (Nov 02): Steve Charnley (NASA Goddard Space Flight Center)
+
+==============================================================================
+
+> Subject: NTNUES colloquium 30/Oct/2018: Observations of Organic Chemistry on Titan
+> From  chenlw <chenlw@ntnu.edu.tw>
+> Date  2018-10-25 19:31
+
+   Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         30/Oct/2018 14:20
+  Conference Room, B1, General Hall
+
+
+TITLE: Observations of Organic Chemistry on Titan
+
+SPEAKER: Dr. Steven Charnley (NASA/GSFC)
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20181030.pdf
+
+
+
+* Teatime after the colloquium
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+==============================================================================
+
+> Date: Thu, 25 Oct 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Zha Shuai (Chinese University of Hong Kong)
+Topic:          Evolution of Super-AGB stars Towards Accretion-Induced Collapse
+Time:           10/29 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+We calculated accretion-induced collapse (AIC) progenitor models starting from super- AGB stars to the ignition of oxygen burning and the start of gravitational instability, using MESA code with updated nuclear physics inputs. URCA cooling process and electron capture on 24Mg and 20Ne are modelled with the newly calculated beta rates table with fine grids provided by Suzuki et al., which gives a more accurate density threshold for the ignition of oxygen burning. Near the final moment, a convection zone is developed above the ignition point, which will alter the composition and thermal structure of AIC progenitor. This could have a significant influence on the fate of AIC, which is under intensive debate. We also point out two uncertain issues. For the case with the least massive star (8.2M_sun), an off-centre carbon-rich (2%) island of about 0.1M mass is left and will be reignited during electron capture on 24Mg. At the carbon-burning stage, the neutron capture on 24Mg nucle!
+ i with the JINA reaction rates would deplete 24Mg to become 25Mg. Further improvements in the stellar evolution calculation and nuclear physics inputs are still needed for a conclusive determination on the fate of AIC.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Leung, Shing Chi (IPMU)
+Topic:          Type Ia supernova: Explosive nucleosynthesis and its applications
+Time:           10/31 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Type Ia supernova (SN Ia) is an important class of supernova
+because of its applications in cosmological and production of 
+iron-peak elements. However, the diversity of observed SNe Ia 
+shows that the possible parameter space of SNe Ia can be much larger
+than we might have expected. In this talk, I will present my recent 
+works done on multi-dimensional modeling of SN Ia and its explosive
+nucleosynthesis. I will further discuss how the chemical abundances 
+depend on the explosion models and configurations. I will discuss ]
+how we can induce to the progenitors of the observed SNe Ia and the 
+role of SN Ia in galactic chemical evolution.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Yu, Chen-Yu (ASIAA)
+Topic:          TBD
+Time:           10/31 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Hiroya Yamaguchi (JAXA)
+Topic:          X-ray studies of supernova remnants to solve the Type Ia
+supernova progenitor issue
+Time:           11/1 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Type Ia supernovae (SNe Ia), widely believed to result from
+thermonuclear explosions of white dwarfs (WDs), are extremely
+important phenomena in the universe, owing to their roles as distance
+indicators in cosmology and major sources of the Fe-peak elements (Cr,
+Mn, Fe, Ni). However, many of their fundamental aspects, e.g., how
+their progenitors evolve and explode, remain elusive. In this talk, I
+will first review recent progress in observational and theoretical
+studies toward solving this "SN Ia progenitor issue". Then I will
+focus on X-ray observations of SN Ia remnants to measure abundances of
+the Fe-peak elements, the key for constraining the nature of
+progenitor WDs, such as the final mass and central density. I will
+also discuss future prospects for high-resolution X-ray spectroscopy
+of SNe Ia remnants in the XRISM and Athena era, based on the
+remarkable achievements from Hitomi observations of a galaxy cluster.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Steve Charnley (NASA Goddard Space Flight Center)
+Topic:          The Physics and Chemistry of Comets
+Time:           11/2 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+I will summarize what is currently known of the chemistry of comets. Sublimation of nuclear ices near perihelion generates the coma - a multi fluid plasma whose understanding requires consideration of a variety of chemical processes. Compositional studies, from ground and space, especially of organic molecules, isotopologues, and ortho-para ratios can provide important clues as to their origins, and to their possible role in providing water and biomolecules to the early Earth
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

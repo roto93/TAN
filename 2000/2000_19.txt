@@ -1,0 +1,744 @@
+From chou@spica.c.chiba-u.ac.jp Thu Jan 20 11:15 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA23127
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 20 Jan 2000 11:14:12 +0800 (CST)
+Received: from spica.c.chiba-u.ac.jp (spica.c.chiba-u.ac.jp [133.82.209.18])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA30432
+	for <astro@asiaa.sinica.edu.tw>; Thu, 20 Jan 2000 11:04:07 +0800
+Received: from stella (stella [133.82.209.12])
+	by spica.c.chiba-u.ac.jp (8.9.3/3.7W01/02/00) with SMTP id MAA22383
+	for <astro@asiaa.sinica.edu.tw>; Thu, 20 Jan 2000 12:09:37 +0900 (JST)
+Date: Thu, 20 Jan 2000 12:09:28 +0900 (JST)
+From: Wen-Chien Chou <chou@spica.c.chiba-u.ac.jp>
+X-Sender: chou@stella
+To: astro@asiaa.sinica.edu.tw
+Subject: SolarNews (fwd)
+Message-ID: <Pine.SUN.3.96.1000120120737.25254A-100000@stella>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id LAA23127
+Content-Type: TEXT/PLAIN; charset=shift_jis
+Content-Length: 32183
+Status: RO
+
+
+
+---------- Forwarded message ----------
+Received: from solar.Stanford.EDU (solar.Stanford.EDU [36.114.0.114])
+	by spica.c.chiba-u.ac.jp (8.9.3/3.7W01/02/00) with ESMTP id DAA21004
+	for <chou@spica.c.chiba-u.ac.jp>; Thu, 20 Jan 2000 03:06:07 +0900 (JST)
+Received: (from editor@localhost)
+	by solar.Stanford.EDU (8.8.7/8.8.8) id KAA17142
+	for WChou; Wed, 19 Jan 2000 10:06:00 -0800
+Date: Wed, 19 Jan 2000 10:06:00 -0800
+From: Stephen Walton <editor@solar.Stanford.EDU>
+Message-Id: <200001191806.KAA17142@solar.Stanford.EDU>
+To: WChou@solar.Stanford.EDU
+Subject: SolarNews
+Content-Length: 31587
+
+                                 SolarNews
+                      The Electronic Newsletter of the
+                           Solar Physics Division
+                       American Astronomical Society
+                            Volume 2000 Number 2
+
+                          Stephen R. Walton, editor
+
+                              January 19, 2000
+
+Contents
+
+   * SPD Meeting, Tahoe, Nevada
+   * NASA FY 2000 Small Business Technology Transfer (STTR) Program
+   * Employment Opportunities
+        o Solar Research Scientists - Montana State University
+        o Postdoctoral Position, Colorado Research Associates
+        o Senior Research Associate, University of Alabama Huntsville
+        o ESA Postdoctoral Research Fellowship at the SOHO EAF at NASA/GSFC
+        o European Solar Magnetometry Network Post-Doctoral Position at
+          ESTEC
+   * Meeting Announcements
+        o Call for Contributed Papers for the IAU Joint Discussion on "The
+          Sun and Space Weather."
+        o First SOLSPA Euroconference
+        o IAU Symposium 203
+   * Editor's Notes
+
+  ------------------------------------------------------------------------
+
+SPD Meeting, Tahoe, Nevada
+
+     >From Steve Kahler <kahler@plh.af.mil>
+     >18 Jan 2000
+
+           31st Meeting of the Solar Physics Division of the AAS
+
+                          19 June to 22 June 2000
+                     Caesar's Tahoe, Stateline, Nevada
+
+     !!!!!!!!!!!!!! IMPORTANT !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+     ! 1. Abstract Deadline: 30 March 2000 !
+     ! 2. Registration Deadline: 1 May 2000 !
+     ! 3. Hotel Reservation: 19 February 2000 requested !
+     ! 4. Make airline reservations SOON !
+     !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+The Solar & Astrophysics Lab at Lockheed Martin Missiles & Space (LMMS)
+warmly invites you to Lake Tahoe, Nevada, for the 31st meeting of the
+AAS/SPD on Monday, June 19, through Thursday, June 22, 2000. This is a
+three-and-a-half day meeting with Wednesday afternoon set aside for
+relaxation and excursions. SPD and AAS members are invited to submit
+abstracts for oral and display sessions. We strongly encourage electronic
+abstract submission and registration through our meeting homepage at
+
+http://www.lmsal.com/spd
+
+which includes further information about the meeting, the locale, and links
+to the AAS for abstract submission. Additional information and the final
+program will be posted to this Web site as they become available.
+
+Scientific Organizing Committee: Steve Kahler (SPD vice-chair; AFRL) and
+Karel Schrijver (LMMS). Local Organizing Committee: Keith Strong (chair),
+Janet Biggs, and Zoe Frank, all of LMMS.
+
+SCIENTIFIC PROGRAM
+
+Contributions on all topics relating to solar physics are welcome. This
+meeting will have 3.5 days of oral and poster sessions. As in past separate
+SPD meetings, there will be no parallel oral sessions. The Monday morning
+sessions will focus on the origin, development and dynamics of magnetic flux
+in the solar photosphere. NASA solar programs will play a big role in the
+Tuesday sessions, beginning with the new "Living with a Star" theme at NASA
+and a review of solar physics in the NAS decadal survey of astronomy and
+astrophysics. The sessions continue with the interdisciplinary connections
+of solar physics with other fields. These will include summaries from the
+SHINE meeting of the previous week at Caesar's Tahoe, dealing with (a)
+coronal mass ejections and prominence eruptions and (b) interplanetary
+connections of CMEs.
+
+Wednesday morning sessions will involve confrontations of opposing models of
+the solar chromosphere and alternative interpretations of structures above
+quiet Sun regions in the transition region temperature (2 x 10(4) to 10(6)
+K) range. Other oral sessions will be grouped around the traditional
+subjects of helioseismology, coronal structure, flares and transients, and
+the solar wind and heliosphere. The meeting will conclude with overviews of
+the forthcoming HESSI, Solar B, and STEREO missions.
+
+The SPD business meeting will be held on Monday evening. Items for the
+agenda should be sent to Judy Karpen before the meeting (email:
+judy.karpen@nrl.navy.mil ) with a copy to Steve Walton (email:
+stephen.walton@csun.edu ).
+
+The logistics of the meeting look very promising. Posters will have a 4x4 ft
+display area (pins provided) and will be up during the entire meeting.
+Coffee breaks, breakfasts and lunches will take place in the poster exhibit
+area.
+
+All sessions will be held at Caesar's Tahoe in Stateline, Nevada. The usual
+audio-visual equipment will be available, including a video projector in the
+meeting room. If you have special requirements for your presentation or
+poster paper, please so indicate when you submit your abstract or register.
+
+ABSTRACT SUBMISSION
+
+Abstracts must be submitted for all types of papers: invited, display
+(poster), oral (10 minutes), dissertation (15 minutes). Because of schedule
+constraints the SOC expects that most abstracts requesting oral
+presentations will be accepted as poster presentations. The SOC will be
+looking for volunteers to chair the sessions. The AAS cost of the printing
+of abstracts is included in the registration fee.
+
+The following rules apply to abstract submissions. The presenting author
+must be the lead author, i.e., listed first, on each paper. More than one
+lead authorship per person for contributed papers is not allowed. Invited
+speakers may submit one contributed poster or oral paper for which they are
+lead author. Lead authors of contributed papers must be AAS or SPD members.
+
+The abstract submission deadline is 9:00 pm ET, 30 March 2000. You are
+encouraged to submit your abstract using the Web-based abstract form which
+will be available on the meeting home page at http://www.lmsal.com/spd/ .
+Alternatively, you may use the LaTeX template posted on the AAS ftp archive
+at: ftp://ftp.aas.org/meetings/spd , which you submit by e-mail to
+absspd-submit@aas.org . If you have any questions about electronic
+submission while you are preparing your abstract, please contact the AAS
+Executive Office for assistance, absspd-help@aas.org or 1-202-328-2010.
+
+When you submit your abstract electronically, you should receive two
+confirmations. The first acknowledgment comes quickly and means that the AAS
+computer has received your submission. The second is sent after your
+abstract has been processed and assigned a running id. If you do not receive
+a confirmation, DO NOT RESUBMIT THE ABSTRACT. Please contact the Executive
+Office by calling 1-202-328-2010, or by sending email to absspd-help@aas.org.
+
+We are using the following topical categories for this meeting:
+
+1.   Solar internal structure and dynamics (observational)
+2.   Solar internal structure and dynamics (model/theory)
+3.   Photosphere
+4.   Outer atmosphere: Chromosphere
+5.   Outer atmosphere: Corona
+6.   Outer atmosphere: Solar-terrestrial and heliospheric physics
+7.   Impulsive and eruptive phenomena
+8.   Magnetic fields: Interior and surface
+9.   Magnetic fields: Atmosphere
+10.  Instrumentation and analysis techniques
+11.  Solar-stellar and ``Living with a star''
+12.  Other
+
+LOCALE
+
+Lake Tahoe, the largest alpine lake in North America, remains one of the
+finest year-round resorts in the world. With its crystal clear waters,
+surrounding mountain forests and easy access from Reno, Lake Tahoe has been
+a vacation destination for more than a century. The Lake Tahoe region in the
+Sierra Mountains is famous for its ski resorts. In the summer Lake Tahoe
+becomes a great locale for sailboating, windsurfing, or playing on countless
+beaches. Lake Tahoe is so clear that you can see a plate at 75 feet below
+the surface. Summer temperatures in the region range from 49 to 82 degrees
+F.
+
+Lake Tahoe is 98 miles northeast of Sacramento, California, 194 miles
+northeast of San Francisco, and 58 miles southwest of Reno, Nevada. The
+drive around the lake is 72 miles. The lake straddles the California/Nevada
+border; 70% in California and 30% in Nevada. Lake Tahoe is further west than
+Los Angeles. The town of Stateline, a major casino center with a number of
+resort-hotels, is located on Lake Tahoe's south shore, on the
+Nevada-California border. Local area information can be accessed at
+http://www.tahoe.com .
+
+TRANSPORTATION
+
+The nearest regional airport is in Reno, Nevada, about one hour from South
+Lake Tahoe. Contact Tahoe Casino Express for shuttle information (800 446
+6128, 775 785 2424, or online at http://www.tahoecasinoexpress.com .
+
+HOUSING
+
+The SPD 2000 meeting will be held at Caesar's Tahoe in South Lake Tahoe,
+Nevada. We have reserved a block of rooms under the group name "Lockheed
+Martin Missiles & Space", the local hosts of the meeting.
+
+The room rate, single or double, is $115/night plus tax (currently 10 are
+available for $375/night; one-bedroom suites start at $650/night. Pre- and
+post- conference room rates are available at $145/night plus tax, single or
+double occupancy. These rates are lower than the resort's prevailing summer
+2000 rates and we encourage you to take advantage of them.
+
+To reserve a room, call 800 648 3353 X7777 or 775 588 3515 and mention
+Lockheed Martin Missiles & Space. A credit card guarantee or one night's
+deposit is required. You are encouraged to reserve a room by FEBRUARY 19 in
+order to give the LOC a preliminary headcount and to receive the best
+available room rate.
+
+Check in is 3pm Monday-Thursday, 5pm Friday-Saturday. Checkout time is 12
+noon unless other arrangements are made.
+
+Childcare is available through the concierge.
+
+Parking at the hotel is free.
+
+Check out Caesar's Tahoe website at: http://www.caesars.com/tahoe/ for
+information about the hotel and its amenities. Be aware, however, that room
+reservations for this meeting cannot be made online.
+
+If you plan to ship boxes/packages to the hotel for the meeting, please
+insure your shipment and address as follows:
+
+     Caesar's Tahoe
+     Hold for Lockheed Martin Missiles & Space
+     Individual's Name
+     55 Highway 50
+     Stateline, NV 89449
+
+Caesar's Tahoe will not be liable for boxes/packages, which exceed $750 in
+value.
+
+MEALS AND RECEPTION
+
+There will be a no-host reception on Sunday evening, 18 June, and no-host
+bars on Monday and Tuesday, June 19 and 20. Buffet lunches on two days,
+Monday and Thursday, are included in the registration fee, as are the
+continental breakfasts on each of the four days. You are on your own for
+Tuesday and Wednesday lunches and all dinners. We will have a barbeque on
+Wednesday evening for which tickets will be available. A list of restaurants
+and a map will be included in your registration packet.
+
+REGISTRATION
+
+Participants can register online at http://www.lmsal.com/spd .
+
+The registration fee is $390 and should be paid by check or money order in
+U.S funds to SPD 2000. Please note that we are unable to accept credit card
+payments. Registration fees should be sent to:
+
+     Janet Biggs
+     Lockheed Martin Missiles & Space
+     Advanced Technology Center
+     3251 Hanover Street, B/201, Dept. L940
+     Palo Alto, CA 94304
+
+before May 1. A late registration fee of $430 will be required after this
+date.
+
+Registration fee includes AAS abstract publication fee, welcome reception on
+Sunday, continental breakfast, coffee breaks, two additional evening
+receptions and two catered luncheons.
+
+Guests of SPD members are welcome to join the welcome reception at no cost;
+individual daily charges for breakfast, lunch, and evening reception are
+listed below.
+
+     Continental breakfast $13.00
+     Buffet Luncheon $20.00
+     Evening reception $15.00
+     (food provided)
+
+AV equipment:
+
+For those of you who need special AV equipment, the list and costs are
+provided on the meeting web page. Overhead projectors, LCD projector,
+screens, laser pointer, and wireless mike will be provided. If you need any
+special AV equipment, please notify Janet Biggs ( janet.a.biggs@lmco.com or
+(650) 424-2553) no later than 26 May. After this date all rentals will be
+subject to a $100 late charge.
+
+There is a business center onsite for copying, printing, faxing, computer,
+and shipping needs.
+
+RECREATION
+
+Tahoe Reno Experience ( http://www.tahoerenoexp.com ) will offer various
+daytime tours and will handle the Wednesday evening barbecue. All require a
+minimum number of participants and advance sign up to get the prices stated.
+Information and sign up for tours and barbecue are available online at
+http://www.lmsal.com/spd . Please sign up no later than Thursday, June 1 and
+send payment via check or money order in U.S. funds, made payable to SPD
+2000 to:
+
+     Janet Biggs
+     Lockheed Martin Missiles & Space
+     Advanced Technology Center
+     3251 Hanover Street, B/201, Dept. L940
+     Palo Alto, CA 94304
+
+We will attempt to accommodate those who sign up after the deadline, but
+there may be a price increase. We encourage you to sign up early.
+
+  ------------------------------------------------------------------------
+
+NASA FY 2000 Small Business Technology Transfer (STTR) Program
+
+     >From "William J. Wagner" <William.Wagner@hq.nasa.gov>
+     >9 Jan 2000
+
+The draft topics for the FY 2000 Small Business Technology Transfer (STTR)
+program are available on-line for review at URL:
+
+http://sbir.gsfc.nasa.gov/SBIR/sttr2000/presol/index.html
+
+Please note the Scientific Research and Information Systems topics to be
+issued via GSFC and ARC respectively. This program is designed for
+universities, JPL, etc. and small businesses to work together to make new
+technology available through small businesses. The final solicitation will
+be issued on or about March 1.
+
+     (signed) Glenn Mucklow
+
+     NASA/OSS SBIR/STTR rep
+
+     Telephone: 202-358-1109
+
+     E-mail: gmucklow@hq.nasa.gov
+
+  ------------------------------------------------------------------------
+
+Employment Opportunities
+
+Solar Research Scientists - Montana State University
+
+     >From Richard Canfield <canfield@helicity.physics.montana.edu>
+     >13 Jan 2000
+
+The Solar Group at MSU invites applications for two research positions, Data
+Analyst and MHD Theorist, to study the physics of solar magnetic fields, the
+initiation of coronal mass ejections (CMEs), and the relationship of CMEs to
+space weather at Earth.
+
+REQUIRED: Ph.D. in Physics or closely related field, or a combination of
+education and experience equivalent to the terminal degree, with published
+peer-reviewed research in either numerical MHD modelling of space or
+laboratory plasmas (MHD Theorist) or analysis of solar and/or
+solar-terrestrial data (Data Analyst).
+
+PREFERRED: Data Analyst - experience with IDL, UNIX, and large datasets
+relevant to the project goals. MHD Theorist - familiarity with solar and
+solar-terrestrial physics relevant to the project goals.
+
+Applications are invited at either the postdoctoral or research scientist
+level. Applications for short term visiting appointments will be considered.
+Title and salary commensurate with experience and qualifications. A modest
+moving allowance will be provided. MSU provides medical benefits, savings,
+and retirement plans.
+
+Send: (1) a vita, including a list of publications, (2) a statement of
+research interests and experience, and (3) the names of three individuals
+who may be contacted by mail and telephone for letters of recommendation
+addressing the qualifications listed above. Send applications to: Solar
+Research Scientists c/o Ms. Rose Waldon, Physics Department, Montana State
+University, PO Box 173840, Bozeman, MT 59717-3840.
+
+Direct inquiries to Prof. Richard Canfield at the address above, or (406)
+994-5581 or canfield@physics.montana.edu . Screening of applicants will
+begin on March 31, 2000 and continue until the positions are filled. For
+further information see http://solar.physics.montana.edu/
+
+ADA/EO/AA/Veterans Preference.
+
+  ------------------------------------------------------------------------
+
+Postdoctoral Position, Colorado Research Associates
+
+     >From "K.D. Leka" <leka@colorado-research.com>
+     >13 Jan 2000
+
+Colorado Research Associates of Boulder, Colorado (a division of NorthWest
+Research Associates, Bellevue, Washington) invites applications for a
+postdoctoral position in solar physics, specifically
+spectropolarimetry/vector magnetic field observations. The successful
+candidate will be responsible for the analysis and interpretation of vector
+magnetograph data primarily from the Imaging Vector Magnetograph (Mees Solar
+Obs/U. Hawai`i) and the Advanced Stokes Polarimeter (NSO/HAO) for studies
+related to solar activity (see
+http://www.colorado-research.com/~leka/Projects/projects.html ). A PhD (or
+Masters' plus at least 3 years additional relevant experience) in astronomy,
+physics or related discipline is required; experience with spectroscopy,
+polarimetry and image processing is desired, as is familiarity with UNIX and
+the IDL programming language. Minimum annual salary is $41,000, plus full
+benefits. Please send a curriculum vita, list of publications (including
+preprints or URLs for those manuscripts submitted but not yet published),
+and the names, addresses and phone numbers for three references to: Dr. K.D.
+Leka, Colorado Research Associates, 3380 Mitchell Ln., Boulder, CO 80301, by
+Friday, 17 March 2000. The position has a negotiable starting date of 1
+June, and is currently open for one year with likely renewals contingent on
+performance and funding. CoRA is an Affirmative Action/Equal Opportunity
+Employer; women and minorities are encouraged to apply. Inquiries should be
+made to Dr. KD Leka, leka@colorado-research.com , (303) 415-9701 x219.
+
+  ------------------------------------------------------------------------
+
+Senior Research Associate, University of Alabama Huntsville
+
+     >From Gordon Emslie <emslieg@email.uah.edu>
+     >14 Jan 2000
+
+The Department of Physics at The University of Alabama in Huntsville (UAH)
+is seeking an individual to perform research associated with the High Energy
+Solar Spectroscopic Imager (HESSI) mission, currently scheduled for a July
+2000 launch. The position involves analysis of HESSI data using IDL in a
+PC-environment, the interpretation of results, and the dissemination of
+these results to the community through both journal publication and
+presentations at scientific meetings. Specific tasks include the analysis of
+spatially-resolved hard X-ray spectra to obtain information on processes
+that modify the energies of the associated bremsstrahlung-producing
+electrons, the analysis of very short timescale events, and the comparison
+of observations and models in terms of spatial Fourier components. The
+successful applicant will work with Gordon Emslie, who is a Co-Investigator
+on the HESSI mission, and with other Huntsville solar physics researchers,
+both at UAH and at nearby Marshall Space Flight Center. Some supervision of
+graduate student research will also be expected.
+
+Applicants should have, or expect to receive by the position start date, a
+Ph.D. in a physics or astrophysics field. Experience in solar physics or
+high-energy astrophysics, and familiarity with IDL software and the
+manipulation of large data sets, is desirable. The successful applicant will
+be expected to attend a HESSI Data Analysis workshop in early summer 2000.
+
+Salary is competitive. The position is for one year, renewable annually
+subject to satisfactory progress and the availability of external funds.
+Applications should consist of a cover letter, a curriculum vitae, and a
+list of the names, addresses, e-mail addresses, and telephone numbers of at
+least three professional references, and should be sent to
+
+     Dr. A. Gordon Emslie
+     Department of Physics
+     The University of Alabama in Huntsville
+     Huntsville, AL 35899
+
+     (256) 890-6167
+     emslieg@uah.edu
+
+The University of Alabama in Huntsville is an Equal Opportunity/Affirmative
+Action Employer.
+
+  ------------------------------------------------------------------------
+
+ESA Postdoctoral Research Fellowship at the SOHO EAF at NASA/GSFC
+
+     >From Bernhard Fleck <bfleck@esa.nascom.nasa.gov>
+     >14 Jan 2000
+
+The European Space Agency (ESA) invites applications for external research
+fellowships at the SOHO Experiment Analysis Facility at NASA Goddard Space
+Flight Center. The fellowships, which are open to nationals of ESA Member
+States, are for one year (possibly renewable for a second year). The
+application should include CV, publication list, research plan and four
+references. Applications for the June 2000 selection round should reach ESA
+by 31 March 2000 at the following address:
+
+     European Space Agency
+     Education Office
+     8-10 rue Mario Nikis
+     75738 Paris Cedex 15
+     France
+
+For more information contact bfleck@esa.nascom.nasa.gov .
+
+Application forms can be obtained from the Education Office at ESA HQ in
+Paris ( maileduc@hq.esa.fr ).
+
+Please send a copy of the application to:
+
+     Bernhard Fleck
+     SOHO Project Scientist
+     ESA Space Science Department
+     NASA/GSFC Mailcode 682.3
+     Greenbelt, MD 20771, USA
+     bfleck@esa.nascom.nasa.gov
+
+  ------------------------------------------------------------------------
+
+European Solar Magnetometry Network Post-Doctoral Position at ESTEC
+
+     >From Bernhard Fleck <bfleck@esa.nascom.nasa.gov>
+     >14 Jan 2000
+
+As part of its current Training and Mobility of Researchers (TMR) programme
+the European Commission provides four-year funding to the European Solar
+Magnetometry Network (ESMN) to study solar magnetism. The primary research
+topics to be covered by this project are:
+
+   * chart the topology of solar magnetic structures at all scales of
+     emergence at the solar surface
+   * identify the basic processes underlying the dynamical behaviour of
+     solar magnetic structures
+   * measure solar activity patterns to constrain the solar dynamo
+     mechanism.
+
+We invite applications for a 2-year postdoc position at ESA Space Science
+Department at ESTEC, which is one of the eight astronomical institutions of
+this Network. Applications should include a curriculum vitae, a publication
+list, a summary of current research interests, and the names of 3 persons
+willing to supply references.
+
+Please send applications to bfleck@esa.nascom.nasa.gov (with copy to
+rutten@fys.ruu.nl ). Certain conditions (nationality/age) apply.
+
+For more information visit: http://www.phys.uu.nl/~rutten/tmr/ .
+
+  ------------------------------------------------------------------------
+
+Meeting Announcements
+
+  ------------------------------------------------------------------------
+
+Call for Contributed Papers for the IAU Joint Discussion on "The Sun and
+Space Weather."
+
+     >From Prof G. Ai. ; Chairman, SOC (forwarded by
+     pfoukal@world.std.com)
+     >22 Dec 1999
+
+[This announcement is repeated from Vol. 2000 No. 1, in which it had the
+incorrect attribution.]
+
+The Joint Discussion No. 7 (JD/7) on "The Sun and Space Weather" will take
+place on August 11-12, 2000, at the XXIVth IAU General Assembly in
+Manchester, UK. This JD will focus on (i) solar surface magnetism and
+activity, (ii) magnetic ejection, (iii) dynamical responses of the corona
+and the heliosphere. We are pleased to have the following invited speakers:
+Dr. A. M. Title and J. X. Wang for topic (i); K. Shibata and E. R. Priest
+for topic (ii); M. Kundu and P. Brekke for topic (iii).
+
+With this announcement we invite submissions of contributed oral and poster
+papers for this JD. The preliminary schedule provides for two contributed
+oral papers in each session, 10 minutes long, with 5 minutes for discussion.
+Please send submissions to aigx@sun10.bao.ac.cn , with a copy to H. N. Wang
+at whn@sun10.bao.ac.cn BEFORE Feb. 15, 2000. The submission should contain:
+preliminary title, authors, preference of oral or poster presentation, and a
+brief, preliminary abstract that will allow us to determine where in the
+program the presentation should be placed. Acceptance of the papers, and
+their final allocation to the oral or poster sessions will be decided by the
+SOC, and authors will be notified in March.
+
+For more information about this JD, please consult the web page of IAU
+Division II at http://www.iau.org/ , where you can also find further
+information about the XXIVth IAU General Assembly.
+
+  ------------------------------------------------------------------------
+
+First SOLSPA Euroconference
+
+     >From Brigitte.Schmieder@obspm.fr
+     >14 Jan 2000
+
+                   The Solar Cycle & Terrestrial Climate
+
+                        25th - 29th September, 2000
+                              Tenerife, Spain
+
+           Organized by the Instituto de Astrofísica de Canarias
+
+                             First Announcement
+                              (November 1999)
+
+INTRODUCTION
+
+A series of two meetings under the general title of Solar and Space Weather
+Euroconferences (SOLSPA) has recently been approved by the European Union
+for the years 2000, and 2001. The series is aimed at gathering, around
+selected topics of interest to solar physics, senior and junior researchers
+(from both the theoretical and the observational fields) and instrument
+technology experts, for better profiting from new ideas and instrumentation.
+The European Union co-sponsors the series by funding half of the budget.
+
+European staff members of SOLSPA are:
+ B. Schmieder     Observatoire de Meudon, France
+
+ P. N. Brandt     Kiepenheuer Institute, Freiburg, Germany
+
+ B. Fleck         ESA, The Netherlands
+
+ O. Kjeldseth-Moe Institute of Theoretical Astrophysics, Norway
+
+ G. Cauzzi        Arcetri Observatory, Firenze, Italy
+
+As hosts of the first of these SOLSPA conferences, it is our pleasure to
+announce the meeting entitled The Solar Cycle and Terrestrial Climate which
+will be held in Tenerife (Spain) from 25th to 29th September, 2000.
+
+The main focus of the Euroconference will be on the theory and observations
+of solar activity phenomena and their influence on the Earth's climate.
+
+During the past two decades, satellite observations have revealed that the
+total solar irradiance changes both the short timescale and the timescale of
+the solar cycle. These changes in solar output with magnetic activity could
+affect the terrestrial climate, especially if larger excursions occurred in
+the past. One of these episodes took place in the 17th century (the Maunder
+Minimum) with another shorter one at the beginning of the 1800s (the Dalton
+Minimum).
+
+The existence of indirect interactions (i.e. through cosmic rays or UV
+radiation) could produce an increase in the influence of solar activity on
+the terrestrial climate.
+
+Simulating modern observations by an adequate combination of different kinds
+of proxies, it might be possible to extrapolate the irradiance changes back
+in time to periods for which no satellite measurements are available. In
+other words, the present could be the key to the past. What we learn from
+the past could be applied to the forecasting of future behaviour: the past
+could be the key to the future.
+
+These simulated observations can be compared with the corresponding records
+of surface temperatures to test the validity of a connection between changes
+in total solar irradiance and variations in the surface temperature, of the
+Earth. This is especially timely in the context of the problem of global
+warming; i.e. the increase in mean surface temperature by approx 0.5º C
+during the present century. What is the percentage to be attributed to the
+increase of solar activity during this period?
+
+In order to evaluate the importance of the solar contribution to the present
+terrestrial warming, is necessary to study in detail other sources of
+variability such as the emission of greenhouse gases and aerosols and to
+elaborate techniques for distinguishing between man-made and natural
+variability.
+
+This meeting will bring together different categories of researchers such as
+solar and heliospheric physicists and climatologists, and will also involve
+industrialists and environmentalists interested in the problem of global
+warming. The participation of young researchers, PhD students and
+post-doctoral, will be strongly encouraged and supported. Their active
+participation in this highly interdisciplinary science will be sought and
+encouraged.
+
+The conference will take up four full days plus a fifth day (Wednesday)
+devoted to a visit to the Observatorio del Teide. A preliminary programme is
+presented below.
+
+This first announcement is also a call for contributions. If you are
+interested in attending the meeting and/or contributing a paper (oral or
+poster), please fill out the pre-registration form to the LOC. The
+registration form, the complete text of the first announcement, and the
+pre-registration and travel and accomodation forms, can be obtained by
+e-mail request to the LOC address or on the IAC WWW home page:
+
+http://www.iac.es/proyect/solspa
+
+or fax it for the attention of Dr. M. Vázquez at +34-922-605210
+  ------------------------------------------------------------------------
+
+IAU Symposium 203
+
+     >From Bernhard Fleck <bfleck@esa.nascom.nasa.gov>
+     >14 Jan 2000
+
+                             IAU Symposium 203
+        Recent Insights into the Physics of the Sun and Heliosphere
+             - Highlights from SOHO and Other Space Missions -
+We warmly invite the solar, solar-stellar, solar-terrestrial and space
+plasma community to attend Symposium 203 which will be held in conjunction
+with the IAU General Assembly in Manchester next year. We look forward to
+hearing from you that you wish to attend and perhaps present a talk/poster
+paper.
+
+Date:
+     7-11 August 2000
+
+Location:
+     Machester, UK
+
+Summary:
+     Reports of the most recent results and discoveries in solar and
+     heliospheric physics and their theoretical interpretation, with special
+     emphasis on the solar-stellar connection: Global structure and
+     evolution of the solar interior. Solar irradiance variations.
+     Convection zone flows. Active region structure and dynamics. Structure,
+     evolution and dynamics of the transition region and corona. Coronal
+     heating processes. Composition, large scale structure and acceleration
+     processes of the fast and slow solar wind. Energetic particles.
+     Galactic cosmic rays. Interplanetary dust and interstellar gas.
+Info:
+     http://sohowww.nascom.nasa.gov/meetings/IAU_Symp203/
+
+Contact:
+     iau203@esa.nascom.nasa.gov
+
+Deadline for abstract submission and travel grant applications: 15 Feb 2000
+
+  ------------------------------------------------------------------------
+
+Editor's Notes
+
+SolarNews is normally distributed on the first and fifteenth of each month.
+Issues (such as this one) may be delayed a few days by prior arrangement for
+late-breaking announcements.
+
+The SPD Web site can be found at http://umbra.nascom.nasa.gov/aas_spd . The
+HTML version of SolarNews is at http://www.gong.noao.edu/SolarNews . It
+contains in-line hyperlinks to all the Web sites and e-mail addresses
+mentioned in this issue. Plain text back issues can be retrieved via
+anonymous FTP to solar.stanford.edu.
+
+Submissions to SolarNews should be e-mailed to editor@solar.stanford.edu .
+Please try to keep meeting and workshop announcements to no more than one
+page (50 to 60 lines of typed text with 72 characters per line), with a Web
+address for further information.
+
+SolarMail address changes should be made via the Web site at
+http://solar.stanford.edu if possible. Otherwise, e-mail them to both editor
+and postman@solar.stanford.edu . Indicate if you wish your new address
+published in SolarNews.
+
+Keep those cards and letters coming.
+
+

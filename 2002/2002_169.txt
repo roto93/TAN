@@ -1,0 +1,89 @@
+From chou@phux1.phys.nthu.edu.tw Thu Oct  3 16:44 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA08396
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 3 Oct 2002 16:44:11 +0800 (CST)
+Received: from thccx9.oz.nthu.edu.tw (u-mail.HCRC.edu.tw [163.28.65.2])
+	by asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g938gmk08328
+	for <astro@asiaa.sinica.edu.tw>; Thu, 3 Oct 2002 16:42:48 +0800
+Received: from thccv11.oz.nthu.edu.tw (thccv11.oz.nthu.edu.tw [140.114.63.211])
+	by thccx9.oz.nthu.edu.tw (Postfix) with ESMTP id 181B69F988
+	for <astro@asiaa.sinica.edu.tw>; Thu,  3 Oct 2002 16:42:49 +0800 (CST)
+Received: from phux2.phys.nthu.edu.tw (phux2.phys.nthu.edu.tw [140.114.80.6])
+	by thccv11.oz.nthu.edu.tw (Postfix) with ESMTP id E57B639E43
+	for <astro@asiaa.sinica.edu.tw>; Thu,  3 Oct 2002 16:42:48 +0800 (CST)
+Received: (from root@localhost)
+	by phux2.phys.nthu.edu.tw (8.12.1/8.12.1) id g938gYef014036
+	for astro@asiaa.sinica.edu.tw; Thu, 3 Oct 2002 16:42:34 +0800 (CST)
+Received: from phux1.phys.nthu.edu.tw (phux1.phys.nthu.edu.tw [140.114.80.5])
+	by phux2.phys.nthu.edu.tw (8.12.1/8.12.1av) with ESMTP id g938gXBS014028
+	for <astro@asiaa.sinica.edu.tw>; Thu, 3 Oct 2002 16:42:33 +0800 (CST)
+Received: (from chou@localhost)
+	by phux1.phys.nthu.edu.tw (8.11.6/8.11.6) id g938fr740582
+	for astro@asiaa.sinica.edu.tw; Thu, 3 Oct 2002 16:41:53 +0800 (CST)
+	(envelope-from chou)
+Date: Thu, 3 Oct 2002 16:41:53 +0800 (CST)
+From: Dean-Yi Chou <chou@phys.nthu.edu.tw>
+Message-Id: <200210030841.g938fr740582@phux1.phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+X-Virus-Scanned: by AMaViS perl-10
+Content-Type: text
+Content-Length: 3383
+Status: RO
+
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title:    Atmospheric Antiprotons in Earth Neighbourhood
+
+Speaker:  Ching-Yuan Huang
+          Institut des Sciences Nucleaires, France
+
+Date:    11 October, 2002
+Time:    12:10
+Place:   Room 620,  Physics Building, NTHU
+
+        
+Abstract:
+
+Abstract
+Secondary atmospheric antiprotons are studied. A parametrisation of the
+inclusive cross section for the \pbar production in $p+p$ and $p+A$ collisions
+is developed, based on the Quark Counting Rule, the Regge Phenomenology and data
+fitting. This parametrisation is shown to have a good agreement with
+experimental data for incident nucleon energy at least up to 24 GeV/n in the
+laboratory frame. By the analysis of the \pbar mean multiplicity distribution,
+this parametrisation can extend at least up to the centre of mass energy
+$\sqrt{s} \simeq 25$ GeV. Based on this well developed parametrisation, the
+Wounded Nucleon Model is applied to obtained the \pbar production cross section
+in $A+A$ collisions. By including cosmic protons and heliums, the atmospheric
+\pbar flux at high balloon and satellite altitudes are calculated. The
+$He$-induced collisions are shown to contribute about 30\% in the total
+secondary atmospheric \pbar flux. It is observed that, for the interest of the
+\pbar exotic origins such as the annihilation of supersymmetric dark matter
+(neutralino) and the evaporation of primordial black holes, the energy range up
+to $E=200$ GeV/n for cosmic particles generating the secondary atmospheric \pbar
+production is the most important. It is shown that the secondary atmospheric
+\pbar flux used to correct the \pbar flux at TOA was underestimated in the
+previous works. In this work, the \pbar flux at TOA is then modified 10-15\%
+lower than the originally deduced, for the energy range $E_k>1$ GeV. A \pbar
+measurement experiment at the ground level is used to test the accuracy of
+secondary atmospheric \pbar production calculated by different works. The
+results of the BESS 1999 experiment at 2.77 km have confirmed the correctness of
+the present approach. At the AMS altitude, it is shown that the \pbar flux
+measured by AMS is almost the exact \pbar flux at TOA, with only 2-3\% of the
+atmospheric \pbar component. It is found that, even at very high altitudes,
+thousands of kilometres above the Earth, there are still some residual
+atmospheric antiprotons and their trajectories are very complex and cannot be
+well explained by the usual variables. Finally, the secondary atmospheric $p$
+flux at low altitudes are calculated. The deviation between the calculation and
+the measurements and the possible origins of this deviation are discussed.
+Comments, remarks and conclusions are given.\\ \vspace*{1cm}\\ {\bf Keywords:}
+secondary antiprotons flux, Top of Atmosphere (TOA), inclusive cross section,
+Quark Counting Rule, Regge Phenomenology, mean multiplicity, Wounded Nucleon
+Model, supersymmetric dark matter, neutralino, primordial black holes
+***************************************************************************
+

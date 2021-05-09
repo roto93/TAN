@@ -1,0 +1,236 @@
+From sophie@asiaa.sinica.edu.tw Mon Dec 10 10:26 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA01819
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 10 Dec 2001 10:25:38 +0800 (CST)
+Received: from sophie (dip63.asiaa.sinica.edu.tw [140.109.177.63])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id KAA01956
+	for <astro@asiaa.sinica.edu.tw>; Mon, 10 Dec 2001 10:22:58 +0800 (CST)
+Message-ID: <00f401c18124$b7933c10$3fb16d8c@biaa>
+From: "Sophie, ASIAA" <sophie@asiaa.sinica.edu.tw>
+To: "TANet" <astro@asiaa.sinica.edu.tw>
+Subject: Fw: Numerical Simulations in Astronomy 2002:  1st circular
+Date: Mon, 10 Dec 2001 10:45:23 +0800
+MIME-Version: 1.0
+	charset="iso-2022-jp"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2479.0001
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2479.0001
+Content-Type: text/plain;
+	charset="iso-2022-jp"
+Content-Length: 6990
+Status: R
+
+
+----- Original Message ----- 
+From: <aprm2002@astro.isas.ac.jp>
+To: <kyl@asiaa.sinica.edu.tw>
+Sent: Thursday, December 06, 2001 8:01 PM
+Subject: Numerical Simulations in Astronomy 2002: 1st circular
+
+
+> 1st Circular
+> 
+>       "Numerical Simulations in Astronomy 2002" (NSA2002)
+> 
+>            http://www.cc.nao.ac.jp/nsa2002/
+> 
+>            A Satellite Meeting of the IAU 8th Asian-Pacific
+>            Regional Meeting
+> 
+> 
+>       Conference place:
+> 
+>       National Center of Sciences/Hitotsubashi Memorial Hall
+>       Chiyoda-ku, Tokyo, Japan
+> 
+> 
+>       Dates:
+> 
+>            July 5-6, 2002
+> 
+>            Supported by Astronomical Data Analysis Center and
+>                         Division of Theoretical Astrophysics
+>                            of National Astronomical Observatory of Japan
+> 
+> ----------------------------------------------------------------
+> 
+>     The Scientific Organizing Committee:
+> 
+>         Tomoyuki Hanawa (Nagoya U., chair)
+>         Youqiu Hu (U. Sci. and Tech. of China)
+>         Yipeng Jing (Shanghai Astron. Obs.)
+>         Junichiro Makino (U. Tokyo)
+>         Joseph J. Monaghan (Monash U.)
+>         Michael L. Norman (UCSD)
+>         Dongsu Ryu (Chungnam National U.)
+>         Kazunari Shibata (Kyoto U.)
+>         Kohji Tomisaka (NAOJ)
+> 
+>     The Local Organizing Committee:
+> 
+>         Takashi Ito (NAOJ)
+>         Eiichiro Kokubo (NAOJ)
+>         Tomoharu Suzuki (U. Tokyo)
+>         Kohji Tomisaka (NAOJ, chair)
+> 
+> ----------------------------------------------------------------
+> 
+> [Purpose of the meeting]
+> 
+>     "Numerical Simulations in Astronomy 2002 (NSA2002)" is aimed
+> at summarizing latest numerical simulations in astrophysics.  
+> It is held as a satellite meeting of the IAU 8th Asian-Pacific
+> Regional Meeting (APRM2002).  Those who attend NSA2002 are assumed
+> to attend also APRM2002.  Those who are interested in NSA2002
+> are recommended strongly to visit the web page of APRM2002,
+> URL is http://www.astro.isas.ac.jp/conference/aprm2002/ and register
+> yourself as soon as possible.  All the information on the conference 
+> site, travel, visa, and local area will be given there.  The LOC of 
+> this satellite meeting covers only the talks given in the satellite 
+> meeting.
+> 
+> 
+> [Style of the meeting]
+> 
+>     "Numerical Simulations in Astronomy 2002" is interdisciplinary 
+> in the sense that it is not intended to focus on any specific 
+> astronomical object.  It consists of about 10 invited talks and another
+> 10 contributed talks.  Each invited talk summarizes recent advance in 
+> a specific theme.   It is 30 minutes long and will be followed by 10
+> minutes discussion.  Each contributed talk features recent interesting 
+> numerical simulations  and technics which bring us new findings in 
+> astronomy and astrophysics.  It is 15 minutes long and will be followed
+> by 5 minutes discussion.   Those who wish to present poster papers 
+> are recommended to submit them to the main conference.   We do NOT have
+> a poster session in this satellite meeting.
+> 
+> 
+> [List of the invited speakers]
+> 
+>     Following is the list of invited speakers. 
+> 
+>   Y. Hu (U. Sci. Tech. of China, China)
+>      Magnetohydrodynamic Catastrophe in Solar Atmosphere
+>   Y. Jing (Shanghai Astron. Obs., China)
+>      Cosmological Hydrodynamical Simulation
+>   J. Makino (U. Tokyo, Japan)
+>      N-body Simulation with GRAPE
+>   D. Ryu (Chungnam National U., Korea)
+>      Magnetohydrodynamical Simulations of ISM
+>   R. Stein (Michigan State, USA)
+>      Visualization and Confrontation with Observation of the Sun
+>   M. Shibata (U. Tokyo, Japan)
+>      Binary Neutron Star Coalescence and Gravitational Waves
+>   S. Yamada (Osaka U., Japan)
+>      Type II Supernova
+>   (TBD)
+>      Adaptive Mesh Refinement
+> 
+>   M. Norman (UCSD)
+>      Summary Talk
+> 
+> 
+> [Call for papers]
+> 
+>     We call for oral papers.  Those who wish to present 
+> a contributed talk are requested to submit the abstract according
+> to the form given at the end of this first circular.  SOC selects
+> about 10 papers according to the abstract before April 30, 2002.
+> 
+> 
+>      Le us remind you that we do NOT have a poster session in this 
+> meeting.  Those who wish to present poster papers are asked to submit
+> them to the main conference, even if the subjects are more suitable 
+> for the satellite meeting.  And please keep in mind that the number 
+> of oral talks is restricted.  
+> 
+> [Registration]
+> 
+>     Although registration to the main conference is charged, no
+> additional charges are requested requested to the participants of
+> NSA2002.  As LOC of NSA2002, we need your name and contact address 
+> for further announcement.  If you are interested in this satellite 
+> meeting, you are kindly requested to submit e-mail to 
+> 
+>    nsa2002@cc.nao.ac.jp 
+> 
+> after filling the application form attached at the end of this first 
+> circular.
+> 
+>     Let us remind you again that you need register yourself at
+> the web site of the main conference,
+> 
+>      http://www.astro.isas.ac.jp/conference/aprm2002/.
+> 
+> It will provide you information on the conference site and others.  
+> Please send us e-mail of registration after registration to the
+> main conference.
+> 
+> 
+> [Proceedings]
+> 
+>     Proceedings of NSA2002 will be published from the Astronomical
+> Data Analysis Center (ADAC) of the Astronomical Observatory of 
+> Japan (NAOJ).  Each copy will be given to the registered participants
+> of NSA2002.
+> 
+> [Crucial dates]
+> 
+> December  1    2001 call for contributed talks
+> March 31    2002 deadline for application to oral talks
+> April 30    2002 program fix by SOC    
+> July 2-5    2002 the IAU 8th Asian-Pacific Regional Meeting
+>                                 (APRM2002)
+> July 5-6    2002 Numerical Simulations in Astronomy
+>                                 (NSA2002)     
+> 
+> 
+> [Preliminary schedule]
+> 
+> July      5    2002  
+>       13:30--15:30   Session I
+>       15:30--16:00   coffee break
+>       16:00--18:00   Session II
+> July   6    2002 
+>        9:30--12:00   Session III
+>       10:00--13:30   lunch
+>       13:30--15:30   Session IV
+>       15:30--16:00   coffee break
+>       16:00--17:30   Session V
+> 
+> 
+> Contact Address:
+> Kohji Tomisaka
+> National Astronomical Observatory Japan
+> Osawa 2-21-1, Mitaka, Tokyo 181-8588, Japan
+> fax +81-422-34-3746
+> e-mail nsa2002@cc.nao.ac.jp
+> 
+> ==============================================================
+> 
+> reply to: nsa2002@cc.nao.ac.jp
+> 
+>   "Numerical Simulations in Astronomy 2002" (NSA2002)
+> 
+> 1.   Select one from the below.
+>      a)  I will surely attend NSA2002.
+>      b)  I am not sure to attend NSA2002 although I am interested in.
+> 
+> 2.   Your Name (Family name, first and middle name)
+> 
+> 3.   E-mail address
+> 
+> 4.   If you wish to give a contributed talk, give us
+> 
+>      Title of the talk:
+> 
+>      Authors (short affiliation):
+> 
+>      Abstract (within 200 words):
+> 
+> 
+> 
+
+

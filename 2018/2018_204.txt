@@ -1,0 +1,119 @@
+
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: Fwd: Submillimeter Array (SMA) Call for Large Scale and Standard Proposals
+> To: astro@asiaa.sinica.edu.tw
+> Date: Tue, 18 Dec 2018 17:16:42 +0900
+
+Dear Yi-Jehng,
+
+Here is the new version of the SMA Call for proposals.
+Note that the deadline for the large-scale project has been changed to =
+Feb. 14 (in Taiwan time).
+I would appreciate it if you could circulate the new version to TAN.
+
+Regards,
+Naomi
+
+> =E8=BB=A2=E9=80=81=E3=81=95=E3=82=8C=E3=81=9F=E3=83=A1=E3=83=83=E3=82=BB=
+=E3=83=BC=E3=82=B8:
+>=20
+> =E5=B7=AE=E5=87=BA=E4=BA=BA: Mark Gurwell <mgurwell@cfa.harvard.edu =
+<mailto:mgurwell@cfa.harvard.edu>>
+> =E4=BB=B6=E5=90=8D: Fwd: Submillimeter Array (SMA) Call for Large =
+Scale and Standard Proposals
+> =E6=97=A5=E4=BB=98: 2018=E5=B9=B412=E6=9C=8818=E6=97=A5 6:09:25 JST
+> =E5=AE=9B=E5=85=88: sma-newsletter <sma-newsletter@cfa.harvard.edu =
+<mailto:sma-newsletter@cfa.harvard.edu>>
+>=20
+> Dear Colleagues,
+> The Large Scale Projects program for observations with the =
+Submillimeter Array (SMA) <https://sma1.sma.hawaii.edu/> is now =
+accepting Notices of Intent to propose. Under this program, proposals =
+dedicated to answering major astrophysical questions having significant =
+scientific impact requiring observing times of order 100 to 1,000 hours =
+are solicited. In this communication, we are also pre-announcing the =
+dates for standard observing proposals. These calls are for the 2019A =
+semester with observing period 16 May to 15 November 2019.
+>=20
+> Deadlines for Large Scale Projects:
+>=20
+> Notice of Intent: 10 January 2019
+> Full submission: 13 February (US) and 14 February (Taiwan) 2019
+> Standard Observing Projects:
+>=20
+> Submissions close: 7 March 2019
+> The SMA is a reconfigurable interferometric array of eight 6-meter =
+antennas on Maunakea jointly built and operated by the Smithsonian =
+Astrophysical Observatory and the Academia Sinica Institute of Astronomy =
+and Astrophysics. The array operates in the 230, 345, and 400 GHz bands.
+>=20
+> The SMA has recently completed significant upgrades in observational =
+capability, with more under way. Currently, the SMA observes =
+simultaneously with two orthogonally polarized receivers, one in the 230 =
+GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with =
+full polarimetric observations available using the 230+240 GHz or =
+345+400 GHz combinations).
+>=20
+> The SWARM correlator processes 8 GHz bandwidth for each receiver in =
+each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. =
+This 32 GHz frequency coverage can be continuous where the tuning ranges =
+overlap for the two orthogonally polarized receivers. In short, the SMA =
+now provides flexible, wide band frequency coverage that delivers high =
+continuum sensitivity and excellent spectral line capabilities (at 140 =
+kHz spectral resolution).
+>=20
+> A full track offers continuum sensitivity of 200 or 600 micro-Jy (1 =
+sigma) at 230 or 345 GHz in good weather conditions (precipitable water =
+vapor 2.5 mm and 1.0 mm, respectively). The corresponding line =
+sensitivities at 1 km/s resolution are 35 and 80 mJy. The small antennas =
+allow access to low spatial frequencies in the subcompact configuration, =
+and at the other extreme, the finest angular resolution with the very =
+extended configuration at 345 GHz is ~0.25". The compact and extended =
+configurations complete the range.
+>=20
+> Thus, in some ways, the characteristics and performance of the SMA are =
+both similar and complementary to those of the standalone Atacama =
+Compact Array component of the Atacama Large Millimeter/submillimeter =
+Array. For more information about SMA capabilities, visit the SMA =
+Observer Center website <http://sma1.sma.hawaii.edu/status.html> and =
+explore the set of SMA proposing tools =
+<http://sma1.sma.hawaii.edu/tools.html>. Current and archived SMA =
+Newsletters <https://www.cfa.harvard.edu/sma/Newsletters/> available =
+online provide a sampling of the wide variety of science possible with =
+the SMA.
+>=20
+> The Large Scale Projects program follows a phased development, =
+submission, and review path, with the final selection of successful =
+proposals synchronized with the TAC process for regular proposals. =
+Accordingly, a Notice of Intent =
+<http://sma1.sma.hawaii.edu/legacysubmit.html> is required ahead of full =
+submission.
+>=20
+> A second announcement will be circulated when the standard proposal =
+system opens for submissions, expected on or before February 7 2019. For =
+more details visit the following webpages:=20
+>=20
+> General Proposal Information =
+<http://sma1.sma.hawaii.edu/proposing.html>=20
+> Large Scale Projects <http://sma1.sma.hawaii.edu/call_largescale.html>
+> Notice of Intent <http://sma1.sma.hawaii.edu/legacysubmit.html>
+> Questions or comments regarding the call for Large Scale Projects =
+proposals can be addressed to sma-largescale@cfa.harvard.edu =
+<mailto:sma-largescale@cfa.harvard.edu> and on standard proposals to =
+sma-proposal@cfa.harvard.edu <mailto:sma-proposal@cfa.harvard.edu>.
+>=20
+> Sincerely,
+>=20
+> Mark Gurwell
+> Incoming SMA TAC chair
+>=20
+>=20
+>=20
+> --=20
+> You received this message because you are subscribed to the Google =
+Groups "sma-newsletter" group.
+> To unsubscribe from this group and stop receiving emails from it, send =
+an email to sma-newsletter+unsubscribe@cfa.harvard.edu =
+<mailto:sma-newsletter+unsubscribe@cfa.harvard.edu>.
+
+==============================================================================

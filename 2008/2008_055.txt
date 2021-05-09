@@ -1,0 +1,157 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Apr  9 18:47:20 2008
+Date: Wed, 9 Apr 2008 18:42:33 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Apr 03 - 09, 2008)
+
+==============================================================================
+
+In this issue (Apr 03 - 09, 2008)
+
+1. NCU Astronomy Colloquia (Apr 08): HIROTANI Kouichi
+                           (Apr 11): Yu-Huei Wu
+                           (Apr 18): Yi Chou
+2. ASIAA Colloquium (Apr 11): Jiwoo Nam (NTU/CosPA)
+
+==============================================================================
+
+> From: "Yu-Huei Wu" <yhwu@astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw, asall@canis.astro.ncu.edu.tw,
+>     asall@astro.ncu.edu.tw, twhepnet@hepmail.phys.sinica.edu.tw
+> Subject: Colloquium this week
+> Date: Mon, 7 Apr 2008 16:33:50 +0800
+
+Dear All,
+
+We are going to have two talks this week. Anyone who is interested on talking with speakers can join 
+our refreshment section (after 15.00) or lunch (say, 12.00 wait outside the elevators, 10 F).
+
+*******************  Astronomy Colloquium  ************************
+***************  Institute of Astronomy, NCU  ***********************
+04,8,2008 11:00-12:00	 S4-1013
+The role of relativistic pair plasmas in high-energy astrophysics	
+Dr. HIROTANI Kouichi	
+
+Electron-positron pair plasmas offer the key to an understanding of various energetic phenomena 
+associated with galactic and extra-galactic compact objects. In this talk, I will pick up two of my 
+recent researches in this field: Active galactic nucleus (AGN) jets and gamma-ray pulsars. In the first 
+half, I will introduce my new method how to discriminate the matter composition of AGN jets --- do 
+they consist of electron-positron pair plasmas or electron-proton normal plasmas? ---, using Very 
+Long Baseline Interferometric technique. In the second half, I will turn to my studies on pulsars and 
+demonstrate that their high-energy emissions can be uniquely predicted from the first principles 
+without any artificial assumptions, if we specify only the following four parameters: neutron star 
+rotational period, period derivative, magnetic inclination angle, and the stellar surface temperature.
+
+
+04,11,2008 14:00-15:00	 S4-1013	
+Quasi-local mass in the Newtonian space time	
+吳育慧 Dr. Yu-Huei Wu	
+
+In general relativity, quasi-local energy-momentum expressions have been constructed from various 
+formulae. However, Newtonian theory of gravity gives a well known and an unique quasi-local mass 
+expression (surface integration). Since geometrical formulation of Newtonian gravity has been 
+established in the covariant Newtonian space-time, it provides a covariant approximation from 
+relativistic to Newtonian theories. By using this approximation, we calculate Komar integral, Brown-
+York quasi-local energy and Dougan-Mason quasi-local mass in the covariant Newtonian space-
+time. It turns out that Komar integral naturally gives the Newtonian quasi-local mass expression, 
+however, further conditions (spherical symmetry) need to be made for Brown-York and Dougan-
+Mason expressions. http://arxiv.org/abs/0803.2194
+  
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊  Next week  ＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+04,18,2008	14:00-15:00	   S4-1013 
+Accretion-powered Millisecond Pulsars -- Anomalous Pulse Phase Variations and Energy Dependent 
+Phase Lag	
+周翊 教授 Prof. Yi Chou	
+
+Low Mass X-ray Binaries (LMXBs) are considered to be the progenitor of the millisecond pulsars 
+detected in the radio band. However, the attempts to measure coherent millisecond pulsation from 
+an LMXB, which provides a direct evolutionary link between radio millisecond pulsar and LMXB, were 
+unsuccessful until the discovery of the first accretion-powered millisecond pulsar SAX 1808.4-3658 
+in 1998. To date, coherent millisecond pulsations have been detected in ten LMXBs with spin periods 
+ranging from 1.67 ms to 5.5 ms. Although the material accreting onto the neutron star through the 
+magnetic field lines is from the inner part of the disk, unlike the regular accreting pulsar (hundreds 
+of millisecond to several second), their fast rotation speeds and the low magnetic fields (108-109G) 
+imply that their radii of the inner disk edges are only several factors larger than the neutron star. 
+This different type of accretion can further improve our knowledge for X-ray binaries, as well as the 
+nature of the neutron star. In this talk, I will introduce interesting discoveries from our studies for 
+several of these accretion-powered millisecond pulsars, including the anomalous pulse phase 
+variations and the implication from the abnormal energy dependent phase lag.
+
+
+**********************************************************************
+
+Cheers,
+Yu-Huei
+
+-------------------------------------------------------------
+吳育慧 國立中央大學天文研究所 博士後
+
+Yu-Huei Wu, Post doc, Institute of Astronomy,NCU
+
+NCU Astro colloquium page:
+
+http://www.astro.ncu.edu.tw/contents/seminar/colloquium/sub.php?more=all
+
+Tel: 03-4227151-65953
+
+-------------------------------------------------------------
+
+==============================================================================
+
+
+> Date: Wed, 09 Apr 2008 12:00:27 +0800
+> From: lychiang <lychiang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> CC: astro@asiaa.sinica.edu.tw
+> Subject: [Colloquium] ASIAA Colloquium this week
+
+Dear all,
+
+This Friday we will have a colloquium talk presented by Dr. Jiwoo Nam, 
+who is currently a visiting scholar of CosPA at NTU. Dr. Nam has been 
+involved with Antarctic Impulsive Transient Antenna (ANITA), a 
+balloon-borne neutrino telescope search for high energy neutrinos 
+created by collisions between cosmic rays and the the cosmic microwave 
+photons that pervade the Universe. And the title of his talk on 4/11 is
+
+"Neutrino hunting with ANITA experiment"
+
+Please mark your calendar and remember to join the event!
+
+--------------------ASIAA Colloquium------------------------------
+Speaker  : Dr. Jiwoo Nam
+Title        : Neutrino hunting with ANITA experiment
+Time       : 4/11 (Friday) 2:00 pm
+Location : Room 716
+Broadcast : available at http://www.asiaa.sinica.edu.tw/
+----------------------------------------------------------------------------
+
+Lung-Yih
+
+-- 
+Lung-Yih Chiang
+Institute of Astronomy and Astrophysics
+Academia Sinica
+P.O.Box 23-141
+Taipei 10617
+Taiwan R.O.C.
+tel: +886 2 33 65 22 00 ext 786 
+http://www.asiaa.sinica.edu.tw/~lychiang/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

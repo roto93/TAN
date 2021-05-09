@@ -1,0 +1,60 @@
+Return-Path: <kuan@iaa17.asiaa.sinica.edu.tw>
+Received: from iaa17.asiaa.sinica.edu.tw (iaa17 [140.109.177.106])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA31202;
+	Mon, 23 Aug 1999 20:08:15 +0800
+Received: by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) id TAA15867
+	for tan; Mon, 23 Aug 1999 19:57:57 +0800 (CST)
+Received: from biaa33.biaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id TAA15847
+	for <astro@iaa17>; Mon, 23 Aug 1999 19:57:54 +0800 (CST)
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id TAA11074; Mon, 23 Aug 1999 19:54:09 +0800
+Date: Mon, 23 Aug 1999 19:54:09 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199908231154.TAA11074@biaa33.biaa.sinica.edu.tw>
+Subject: ASIAA Colloquium
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-MD5: KcD9sB9T4OtgaCw5ejeWIg==
+X-Mozilla-Status2: 00000000
+
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                           30 August 1999 (Monday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Dr. Thomas R. Geballe 
+                     (Gemini Observatory)
+	    TITLE:   "H3+ in Interstellar Space"
+ 
+            ABSTRACT:
+The H3+ ion is widely believed to play a critical role in
+interstellar chemistry. I will review the history of our knowledge of H3+,
+the discovery of it in molecular clouds, recent follow-up observations
+which have led to its discovery in the diffuse interstellar medium, and
+the chemistry and astrophysics which affect its observed abundances in
+these two environments.
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: 	astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		    (or +02-2652-2020 ext 224, fax +02-2788-1106)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+

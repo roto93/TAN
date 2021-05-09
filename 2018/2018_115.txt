@@ -1,0 +1,38 @@
+
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Date: 2018-08-02 11:30
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Thavisha Dharmawardena (ASIAA/NCU)
+Topic:        Extended dust emission from nearby Asymptotic Giant Branch stars
+Time:        8/6 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+Asymptotic Giant Branch (AGB) stars in the Milky Way are often overlooked due to difficulties in obtaining distances. Understanding their dust emission properties and mass-loss histories leads to better comprehension of the ISM evolution in the Milky Way, in particular its dust reservoir. Most studies have determined the stellar dust mass using mid-IR emission, but a historic cold dust reservoir from a previous mass-loss phase may remain undetected in the mid-IR, requiring observations at longer wavelengths.
+
+We present results of a search for extended dust emission from a diverse sample of AGB stars within 1 kpc. This project is part of the Nearby Evolved Star Survey (NESS), which aims to determine gas and dust return from a volume limited sample of galactic evolved stars.
+
+Observations at 450?μm? and 850?μm? were carried out using the SCUBA-2 instrument on the JCMT and combined with Herschel PACS observations at 70?μm? and 160?μm from the MESS survey (Groenewegen et al., 2011; Cox et al., 2012). Using azimuthally-averaged surface brightness profiles we determined extension and percentage flux of the extended component for each source at the four wavelengths. We derived extensions at the 3σ levels greater than ~40'' for majority of the sources at SCUBA-2 850?μm?. The fraction of the flux emitted from the extended region is ~40% at 850?μm? and ~50% at PACS wavelengths.
+
+We report a clear detection of the detached shell of U Ant in both 450?μm? and 850?μm?. This is the first time this detached shell has been detected in the sub-mm continuum.
+
+By fitting a modified black body to four-point SEDs at each radial point we derive the dust temperature, spectral index of emissivity, and column density to probe dust mass-loss history and detect changes in physical properties of dust as a function radius (hence, time). The resulting dust-to-gas ratios are consistent with canonicalvalues. The surface density profiles suggest deviation from constant mass loss in a majority of the sources.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Hsien Shang (ASIAA)
+Topic: 
+Time:        8/8 (Wednesday) 14:20 - 15:20
+Place:          R1203
+
+==============================================================================

@@ -1,0 +1,72 @@
+From hexg@penguin.phys.ntu.edu.tw Sat Feb 19 11:04 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA23487
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sat, 19 Feb 2000 11:04:00 +0800 (CST)
+Received: from penguin.phys.ntu.edu.tw (root@penguin.phys.ntu.edu.tw [140.112.52.200])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA31810
+	for <astro@asiaa.sinica.edu.tw>; Sat, 19 Feb 2000 10:58:05 +0800
+Received: (from hexg@localhost)
+	by penguin.phys.ntu.edu.tw (8.9.3/8.9.3/Debian/GNU) id LAA25128
+	for astro@asiaa.sinica.edu.tw; Sat, 19 Feb 2000 11:06:20 +0800
+Date: Sat, 19 Feb 2000 11:06:20 +0800
+From: Xiao-Gang He <hexg@penguin.phys.ntu.edu.tw>
+Message-Id: <200002190306.LAA25128@penguin.phys.ntu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Content-Type: text
+Content-Length: 1343
+Status: R
+
+Dear Colleagues and Students: This coming semeter, I will teach a course,
+Special Topics in Particle-Astrophysics. It is aimed to introduce to
+the students current topics in Cosmology and Particle phyiscs and 
+get students to be familar with some of the topics studied under the
+Taiwan Cospa project. The following is a list of the specific topics to be
+discussed in the class. Would you please let interested students know
+about this course?
+
+The class times are:
+
+2-4 Monday and 2-3 Friday (three hours a week)
+
+Thank you for your attention.
+
+Xiao-Gang He
+
+
+
+Special topics in particle-astrophysics
+
+This course aims to introduce some of the current topics in 
+particle physics, cosmology and astrophysics. 
+
+It is possible for highly motivated students to pick up some 
+special topics for future research.
+
+{\bf Contents}
+
+\begin{enumerate}
+\item {\bf The Big-Bang Model for Cosmology}
+
+\item {\bf The Standard Model of Electroweak and Strong Interactions}
+
+\item {\bf The Inflation Theory}
+
+\item {\bf Cosmic Microwave Background Radiation}
+
+\item {\bf Big-Bang Nucleosynthesis}
+
+\item {\bf Baryon Number Asymmetry in the Universe}
+
+\item{ \bf Dark Matter in the Universe}
+
+
+{\bf Assesment}
+
+The final grade will be determined from performences in the class and 
+a study report.
+
+{\bf Books}
+
+The Early Universe, by E. Kolb and M. Turner
+
+

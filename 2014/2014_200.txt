@@ -1,0 +1,184 @@
+============================================================================== 
+In this issue (Dec 05 - 14, 2014)
+
+1. First notice of Nuclei in the Cosmos (NIC-XIV 2016)
+2. ALMA Cycle 3 Pre-announcement 
+3. ASIAA Colloquia/Seminars (Dec 16): Kartik Sheth (NRAO)
+                            (Dec 17): Sebastien Muller (Onsala Observatory)
+4. NTHU Astronomy Colloquium (Dec 24): Chien-Hsiu Lee
+                            (Max Planck Institute for Extraterrestrial Physics)
+5. NTNU Astronomy colloquium (Dec 16): Hung-Yi Pu (ASIAA)
+
+==============================================================================
+
+> Date: Fri, 5 Dec 2014 10:49:44 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: twhepnet@hepmail.phys.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>
+> cc: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> Subject: [nic2016, 2] First notice of Nuclei in the Cosmos (NIC-XIV 2016)(fwd)
+
+---------- Forwarded message ----------
+> Date: Mon, 01 Dec 2014 19:11:03 +0900
+> From: Shunji Nishimura <nishimu@ribf.riken.jp>
+> To: mail@nic2016.jp
+> Subject: [nic2016, 2] First notice of Nuclei in the Cosmos (NIC-XIV 2016)
+
+Dear Friends and Colleagues,
+
+we would like to announce that the 14th international symposium onNuclei in the Cosmos (NIC-XIV 2016) will be held in Niigata, Japanon June 19-24, 2016. You are cordially invited to NIC-XIV 2016!
+
+Nuclei in the Cosmos is the foremost bi-annual conference ofnuclear physics, astrophysics, astronomy, cosmology, cosmo-chemistry, and other related fields that started from Wien in Austria in 1990. This conference aims to survey the recent achievementsand exchange expertise and progress in this interdisciplinary field,and it promotes mutual understanding and collaboration overthe fields fundamental to solve a range of open questions, fromthe origin of the elements to stellar, galactic and cosmic evolution. Details will be given in the web site soon later.
+
+"14th International Symposium on Nuclei in the Cosmos"(NIC-XIV 2016)
+
+Date: June 19-24, 2016
+
+Venue: TOKI MESSE Niigata Conference Center
+http://www.tokimesse.com/english/
+
+NIC-XIV Conference web:http://nic2016.jp/
+NIC-XIV Conference email:mail@nic2016.jp <mailto:mail@nic2016.jp>
+
+We would appreciate it if you could distribute this announcementto your friends and colleagues who are interested in NIC-XIV 2016.
+
+Sincerely yours,
+
+Taka Kajino (NAOJ/UT), chair
+kajino_@_nao.ac.jp
+
+Shunji Nishimura (RIKEN), vice-chair
+nishimu_@_ribf.riken.jp
+
+==============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: ALMA Cycle 3 Pre-announcement 
+> Date: Wed, 10 Dec 2014 09:34:32 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>, riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear Potential ALMA users,
+
+  ALMA has released ALMA Cycle 3 Pre-announcement in the following link:
+
+  https://almascience.nao.ac.jp/news/alma-cycle-3-pre-announcement
+
+  The Joint ALMA Observatory (JAO) will start the next cycle of observing (Cycle 3) in October 2015. A Call for Proposals will be issued on March 24, 2015, with an anticipated deadline for proposal submission on April 23, 2015.
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu, 11 Dec 2014 08:00:03 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Kartik Sheth (NRAO)
+Topic:         Constraining the Assembly of Galaxy Disks over the last 12 Billion Years with ALMA, HST and Spitzer
+Time:         12/16 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Bars are a key signpost in the evolutionary history of a disk galaxy. When a disk is sufficiently massive, dynamically cold and rotationally supported, and sufficient time has elapsed for the baryonic matter to exchange energy and angular momentum with the dark matter halo or the outer disk, the formation of a bar is inevitable.  Therefore understanding the evolution of the bar fraction as a function of the host galaxy properties and as a function of redshift provides important clues to the evolutionary history of galaxies.  I will present the latest results on local bars from the Spitzer Survey of Stellar Structure in Galaxies (S4G) and discuss the observations for the declining bar fraction with redshift from the COSMOS survey.  A plausible reason for the decline in the bar fraction may be that galaxy disks were too dynamically hot to host bars at higher redshift which we have investigated using the DEEP2 / AEGIS data. Together these data are beginning to provide a coherent
+  and consistent picture for the assembly history of disks on the Hubble sequence. The star formation in these disks is also now being understood with the latest results from ALMA.  I will show the latest results on the cosmological evolution of the molecular gas content in a mass-selected sample of galaxies at three epochs, z=2.2, z=1, and z=0.3 and discuss planned Cycle 1 observations of the molecular gas environment in the prototypical barred spiral NGC 1097.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Sebastien Muller (Onsala Observatory)
+Topic:         PKS1830-211: the molecular absorption at z=0.89 and the background blazar
+Time:         12/17 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The line of sight to the lensed blazar PKS1830-211 intercepts the disk of a foreground spiral galaxy at z=0.89, yielding absorption detected in 40+ molecular species. These molecules can be used as cosmological probes at a look-back time of more than half the present age of the Universe. We can determine their excitation and measure the temperature of the cosmic microwave background, compare their kinematics and set constraints on the variations of the fundamental constants, measure the isotopic ratios from different isotopologues and investigate the elemental enrichment from stellar processes, and, of course, investigate the chemistry in the disk of the absorber.
+Regarding the background blazar, we will discuss ALMA observations obtained serendipitously at the time of a gamma-ray flare, allowing us to investigate the submm to gamma-ray connection. Last we will present the first ALMA polarimetry results, with the highest Faraday rotation ever measured, revealing a strong magnetic field at the base of the jet in PKS1830-211.
+In short, one line of sight, but many and diverse science results !
+
+
+==============================================================================
+
+> Date: Fri, 12 Dec 2014 08:06:51 +0800
+> Subject: NTHU colloquium
+> From: Tomo <itlhnis@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Dani Chao <edcamel@gmail.com>
+
+      ############################################
+                          NTHU
+                  Astronomy Colloquium
+      ############################################
+
+Wednesday - December 24 2014, 13:00-15:00, R620
+Speaker: Chien-Hsiu Lee (Max Planck Institute for Extraterrestrial Physics),
+Title: Pan-STARRS 1 Andromeda survey (PAndromea)
+
+Abstract:
+    The 3-year, high-cadence PS1 Andromeda survey yields well-sampled
+light curves that improve our understanding of microlensing and
+variables in M31. As a preliminary study, we discover 6 microlensing
+events in the inner bulge of M31. This demonstrates that deep data
+with good temporal resolution are essential to reveal microlensing
+events. We also explore the data for variability studies, and produce
+catalogs of ~300 eclipsing binaries, ~2000 Cepheids and other
+variables. We select bright eclipsing binaries for spectroscopic
+follow-up, to obtain a direct distance estimate of M31. We
+astromatrically align the multi-band Panchromatic Hubble Andromeda
+Treasury (PHAT) data to our PS1 images, and derive precise
+period-luminosity relation (PLR) for the Cepheids. The accurate
+distance and precise PLR will render M31 a distance anchor and help to
+reduce the error budget of Hubble constant. To fully exploit the value
+of PAndromeda, we welcome external collaborators, and can provide PS1
+light curves with linked HST photometry upon request.
+
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+==============================================================================
+
+> Date: Sun, 14 Dec 2014 04:49:18 +0800
+> From: "chenlw" <chenlw@ntnu.edu.tw>  
+> Subject: NTNUES colloquium 16/Dec/2014: Black hole: next destination
+
+* Teatime is at S801-2 after the colloquium 
+
+  Department of Earth Sciences    
+National Taiwan Normal University 
+No. 88, Sec. 4, Tingzhou Rd, Taipei 
+
+        C O L L O Q U I U M 
+      ===================== 
+        16/Dec/2014 14:10 
+  Room S101, 1F, Research Building 
+
+TITLE: Black hole: next destination（下一站：黑洞） 
+
+SPEAKER: Dr. Hung-Yi Pu  卜宏毅 博士 (Institute of Astronomy & Astrophysics, Academia Sinica) 
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

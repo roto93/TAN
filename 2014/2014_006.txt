@@ -1,0 +1,53 @@
+Arizona Radio Observatory: Call for Proposals (Spring 2014)
+------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Sub-Millimeter Telescope (SMT), located on
+Mount Graham, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period 01 February 2014 to 30 June 2014. The proposal
+deadline of UCAT/ASIAA for this 2014 spring semester is set on February 07,
+2014 (Friday).
+
+The SMT currently supports a dual-polarization, 1-mm receiver (215-280 GHz)
+with ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, and a 0.4-mm (602-720 GHz) dual-polarization receiver
+with ALMA Band 9 mixers. A new 0.6-mm (420-500 GHz) dual-polarization receiver
+incorporating sideband-separating mixers will be available as well. The SMT
+control system supports both dual-polarization ("2 IF mode"), and
+dual-polarization, dual sideband observations ("4 IF mode"), as well as OTF
+mapping. 
+
+Remote observing is available at http://aro.as.arizona.edu/remote/remote.htm.
+Graduate-student participation is especially encouraged. For further information
+about remote observing and other operational questions, contact Tom Folkers,
+Operations Manager tfolkers@email.arizona.edu.
+
+Proposers should consult the ARO website (http://aro.as.arizona.edu/) for
+technical specifications and to download updated proposal templates. Proposers
+are required to list on the cover sheet their requested observing blocks (LST
+ranges), dates on which they are not available to observe, and dates in which
+sources in those observing blocks are within the Sun-avoidance zone (44 degrees
+at the SMT).
+
+Proposals should consist of:
+1.  A proposal Cover Sheet, obtainable at http://aro.as.arizona.edu/proposals.
+2.  A brief scientific and technical justification (no more than 2 pages).
+3.  A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+4.  Observers that plan to observe remotely must supply fixed IP address(es) of
+    the computer(s) that will be used during observing on the cover sheet of the
+    proposal.
+
+Electronic submissions will be accepted in PDF format ONLY. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to kuan@asiaa.sinica.edu.tw
+by midnight (23:59 pm CST) February 07, 2014 (Friday).
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================

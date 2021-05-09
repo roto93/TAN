@@ -1,0 +1,19 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Special Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Kent D. Irwin (Department of Physics, Stanford University, Stanford, CA 94305, USA)
+Topic:        X-Ray Emission and Near-Edge Absorption Spectroscopy Using Superconducting Transition-Edge Sensors
+Time:        10/22 (Tuesday) 11:00 - 12:00
+Place:        R1203
+Abstract:
+This paper describes the development of superconducting transition-edge sensors (TES) for x-ray emission and near-edge absorption spectroscopy at light sources. Conventional x-ray spectrometers typically have either poor spectral resolution or low efficiency. The TES uses a superconducting film biased in the superconducting transition as a sensing element. TES x-ray detectors have energy resolution up to two orders of magnitude higher than semiconductor detectors, with much higher efficiency than dispersive systems. This combination makes it possible to efficiently study spectral features due to chemical shifts in both emission and absorption features. The implementation of new superconducting integrated circuit multiplexers is now enabling the development of large arrays of TES x-ray detectors, which will provide revolutionary new capabilities to synchrotron and free-electron-laser light sources.
+
+==============================================================================

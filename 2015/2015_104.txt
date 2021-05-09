@@ -1,0 +1,203 @@
+==============================================================================
+In this issue (May 14, 2015)
+
+1. The third circular for the ASROC 2015 meeting
+2. ASIAA Colloquia/Seminars/LunchTalks (May 18): Howard Chen (Boston U)
+                                       (May 20): Joel Parker (SwRI)
+3. NCU Astronomy Colloquium (May 19):  Howard Chen (Boston U)
+
+==============================================================================
+
+> Date: Fri, 8 May 2015 14:39:32 +0800
+> From: Shiang-Yu Wang <sywang@asiaa.sinica.edu.tw>
+> Subject: The third circular for the ASROC 2015 meeting
+
+Dear Yi-Jehng: 
+
+   Here is the third circular for the ASROC meeting. Please help to 
+post it on TAN. Thanks. 
+
+best 
+Shiang-Yu 
+
+------------------------------------------------------------------------------- 
+
+Astronomical Society of the Republic of China 2015 Scientific Assembly 
+(ASROC2015) 
+
+National Ilan University, I-Lan 
+
+May 22 – 24, 2015 
+
+      The 2015 Scientific Assembly of the Astronomical Society of the 
+Republic of China (ASROC2015) will be held at National Ilan University 
+on May 22 (Friday) – 24 (Sunday), 20145. This is the annual event for 
+all astronomers and astrophysicists in Taiwan to present their most 
+recent discoveries and observations, to report their latest research 
+results and to exchange ideas, also to organize collaborations when 
+desirable. ASROC2015 is also an excellent venue for students, in 
+particular graduate students, to present their research findings or 
+progress from their thesis studies. 
+
+       The meeting will include plenary talks, scientific and 
+educational sessions, poster presentations, and a business meeting. 
+The featured plenary speakers are 1) Dr. Timo Prusti from European 
+Space Agency. 2) Dr. Joel Parker of Southwest Research Institute. Dr. 
+Prusti is the project scientist of the GAIA mission and also the chair 
+of the GAIA Science Team. He will give a plenary talk on “Gaia Mission 
+and Status”. Dr. Parker is the director of the Planetary Science 
+Directorate of Southwest Research Institute, and he will talk about 
+“The Rosetta Mission - Past, Present, and Future”. The scientific 
+program, including oral talks and poster presentations, is now 
+available at the meeting website: 
+
+http://www.asroc.org.tw/asroc2015/en/program.php 
+
+In the Assembly, the Society will also present the 2nd Heaven Quest 
+Award to Academician Dr. Typhoon Lee for his distinguished 
+contribution to astronomical research, and the 2nd Heaven Talk Award 
+to Director Wei-Hsin Sun of National Museum of Natural Science for his 
+outstanding contribution to astronomy education and popularization of 
+astronomy on May 24 (Sun). In addition to the scientific agenda, the 
+afternoon of May 23 (Sat) is reserved for group discussions or group 
+excursions at choice; a conference banquet will be held later in the 
+evening and all meeting participants are welcome to attend. 
+
+       The online registration of ASROC2015 is now closed; those who 
+missed the online registration can still register on-site. A 
+registration fee of NT$1000 (NT$800 for students) should be paid on 
+site. Registration fee will be waived for ASROC members with 2015 
+annual membership fee paid. 
+
+The Local Organizing Committee would like to remind all participants 
+of the following items: 
+
+◎    Oral Presentations: 
+
+Oral contributions are scheduled for 15 minutes, including 3 minutes 
+Q&A. All speakers are strongly recommended to load your presentation 
+files onto the on-site computer before your session. The meeting will 
+provide computers equipped with Microsoft and Mac platforms and 
+standard presentation software. Please test your presentations in 
+advance. 
+
+◎    Poster Presentations: 
+
+The usable size of the poster board is about 80 cm wide and 150 cm 
+high. Posters should be set up before 5:00 pm on May 22. Authors can 
+identify their poster boards by the tagged ID number on top of each 
+board. All posters should be removed by their authors before noon on 
+May 24. 
+
+A competition for the Best Poster Award among student presentations 
+will be held during the meeting. Poster authors are recommended to 
+attend their posters during coffee breaks. The three awardees will be 
+given the opportunity to present a 3-minute oral report each on their 
+award-winning research work in the General Assembly to be held at 
+10:05 – 10:45 am on May 24 (Sun). 
+
+◎    Tours: 
+
+For the excursions on May 23 (Saturday), advanced application is 
+required to get to the turtle island. No more requests will be 
+accepted. 
+
+◎    Payment: 
+
+Payment includes the registration fee (NT$ 1000/person, 800 for 
+students), tour (NT$900/person), and banquet (NT$50/person). Please 
+prepare exact changes for your applicable payment at the time of 
+registration. 
+
+Again, the ASROC sincerely welcomes you to joining the 2015 Annual 
+Meeting. For more information, please visit the ASROC2015 website at: 
+
+       http://www.asroc.org.tw/asroc2015/en/index.php 
+
+       For e-mail contact: service@www.asroc.org.tw 
+------------------------------------------------------------------------------ 
+
+best 
+Shiang-Yu 
+
+==============================================================================
+
+> Date: Thu, 14 May 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Howard Chen (Boston University)
+Topic:         Modeling Highly Irradiated Very Low Mass Gaseous Exoplanets with Stellar Evolution Code MESA
+Time:         5/18 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+The discovery of over 4,000 exoplanet candidates has unmasked the strangeness of planetary systems in the solar neighborhood. For instance, most of the confirmed planets reside in orbital periods of less than 100 days around their respective host stars, which places them well within the orbit of Mercury. In this talk, I present a prescription to expand the capabilities of the stellar evolution code Modules for Experimental Stellar Astrophysics (MESA) to model gaseous planets in highly irradiated environments. I will illustrate how we modified MESA to include planet core luminosity, heavy element enrichment, and mass loss due to hydrodynamic winds. Using these dynamical models, we then constructed mass-radius relationships of planets from 1 to 20 Earth Mass and investigated how mass-loss impacts their composition and evolution history. We anticipate that this versatile, user-friendly code will see widespread applications in complementing future exoplanetary surveys such as K2!
+, TESS and PLATO.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Joel Parker (SwRI)
+Topic:         The New Horizons Mission - Pluto and Beyond
+Time:         5/20 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The New Horizons spacecraft has spent the past nine years sprinting across the solar system to meet up with Pluto in July 2015.  Even at this point, a few months out from the flyby, New Horizons is already returning images of Pluto as good or better than anything previously obtained.  The spacecraft carries instruments covering ultraviolet, visible, infrared, and radio wavelengths to make surface and atmospheric observations of Pluto and its moons, and dust and particle instruments to study Pluto's environment and interaction with the solar wind.  In this talk I will describe the mission and instrumentation, what we currently know about the Pluto system and the Kuiper belt, and what we hope to discover in the next few months at Pluto and the next few years as New Horizons passes through this "third region" of the solar system and possibly has another close encounter with a Kuiper belt object.
+
+==============================================================================
+
+> Date: Thu, 14 May 2015 21:04:35 +0800
+> Subject: NCU Astronomy Colloquium - 2015.05.19
+> From: ChingHua Shen <m1029002@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+*NCU Astronomy Colloquium*
+Speaker: Mr. Howard Chen (Boston University)
+Topic:Modeling Highly Irradiated Very Low Mass Gaseous Exoplanets with
+Stellar Evolution Code MESA
+Time: May 19, 2pm
+Place: S4-1013, NCU
+
+Abstract:
+The discovery of over 4,000 exoplanet candidates has unmasked the
+strangeness of planetary systems in the solar neighborhood. For instance,
+most of the confirmed planets reside in orbital periods of less than 100
+days around their respective host stars, which places them well within the
+orbit of Mercury. In this talk, I present a prescription to expand the
+capabilities of the stellar evolution code Modules for Experimental Stellar
+Astrophysics (MESA) to model gaseous planets in highly irradiated
+environments. I will illustrate how we modified MESA to include planet core
+luminosity, heavy element enrichment, and mass loss due to hydrodynamic
+winds. Using these dynamical models, we then constructed mass-radius
+relationships of planets from 1 to 20 Earth Mass and investigated how
+mass-loss impacts their composition and evolution history. We anticipate
+that this versatile, user-friendly code will see widespread applications in
+complementing future exoplanetary surveys such as *K2*, *TESS* and *PLATO*.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

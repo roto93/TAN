@@ -1,0 +1,31 @@
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Tue, 16 Mar 2021 04:36:53 +0800
+Subject: ALMA anticipates resuming science observations
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: riaa <riaa@asiaa.sinica.edu.tw>,
+    alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+FYI
+
+Yu-Nung
+------------------------------------------------------------------------------
+
+ALMA anticipates resuming science observations
+Mar 15, 2021
+https://almascience.nao.ac.jp/news/alma-anticipates-resuming-science-observations
+
+Dear colleagues,
+
+While the impact of COVID-19 continues to affect our lives around the world, ALMA staff have been moving forward on the long road toward recovering the Arrays and resuming science operations. The antennas in the 12-m Array and ACA are in the process of being powered up and inspected one by one to make them ready for science observations. Before we can resume science observations, a series of end-to-end tests need to be completed, where test observing projects follow the complete process from data acquisition to processing and quality assurance. The positive news at the moment is that these tests have successfully completed using a subset of antennas\.
+
+Following the assessment on the safety and technical constraints in addition to the success of the end-to-end tests, ALMA anticipates restarting limited science operations in March 2021 with at least thirty-two and eight antennas on the 12-m and 7-m arrays, respectively. The array configuration is planned to be C43-4/C43-5, which will roughly correspond to the array when the operations were suspended in March 2020. Similar to the procedure for regular operations, projects in the Cycle 7 observing queue will be executed if suitable in terms of phase stability at the representative frequency and the achievable angular resolution with the available number of antennas. The execution time will be increased to account for the lower sensitivity of the reduced number of antennas in order to achieve the sensitivity requested by the Primary Investigator.
+
+During the limited science operations phase, ALMA will also perform test observations on capabilities for future cycles and will continue the recovery of antennas to reach normal operations with the nominal numbers of antennas for Cycle 7 (see the Proposerâ€™s Guide). All activities, including the limited science operations, are conducted in accordance with an extensive set of safety protocols for managing the risk posed by the corona virus. As always, the health and safety of all ALMA staff is our top priority.
+
+Status updates will be provided in the Science Portal on a regular basis. The ALMA Regional Centers also continue to provide support for ALMA users. If you have any questions, or have comments or concerns related to the situation at ALMA, please contact the ALMA Helpdesk at https://help.almascience.org/.
+
+All ALMA staff wish you and your families to stay safe and healthy.
+
+==============================================================================

@@ -1,0 +1,327 @@
+=============================================================================== 
+In this issue (Feb 09 - 12, 2015)
+
+1. Subaru Call for Proposals (S15B)
+2. Conference announcement: Black hole accretion and AGN feedback
+3. JCMT Call for Proposals for Observing Time Semester 15A - EAO Pilot Science
+    and related information
+4. ASIAA Colloquia/Seminars (Feb 16): Hsi-An Pan (Hokkaido Univ)
+
+===============================================================================
+
+> Date: Wed, 11 Feb 2015 09:52:55 +0800
+> From: Shiang-Yu Wang <sywang@asiaa.sinica.edu.tw>
+> Subject: Fwd: Subaru Call for Proposals (S15B)
+
+Dear Yi-Jehng: 
+
+Can you help to post this on TAN? Thanks. 
+
+best 
+Shiang-Yu 
+
+---------- Forwarded message ---------- 
+From: Chie Yoshida <chie.yoshida@nao.ac.jp> 
+Date: Tue, Feb 10, 2015 at 1:06 PM 
+Subject: Subaru Call for Proposals (S15B) 
+To: chie.yoshida@nao.ac.jp 
+
+# This mail is sent to all the previous proposers 
+# and visitors of Subaru Telescope by BCC. 
+
+Dear Colleague, 
+
+This is to announce the opening of Call for Proposals 
+for the Subaru Telescope open use semester S15B 
+from 2015 August 1 through 2016 January 31. 
+
+Detailed Information on the available instruments 
+
+[HSC, HDS, IRCS, Suprime-Cam, FMOS, COMICS, MOIRCS, 
+FOCAS, AO188 (NGS or LGS; usable with IRCS)] 
+
+and the details concerning proposal submission are available 
+at the following website: 
+
+http://www.naoj.org/Observing/Proposals/Submit/call.html 
+
+Please visit this site and read the description carefully 
+before submitting your proposals. 
+
+The deadline for Normal/Intensive Programs is 
+
+<<<March 10 (Tue), 2015, 12:00 (Noon) in JST>>> [e.g., 3.00am in UT], 
+
+while that for the Service program is 4 weeks later than this 
+(April  7 (Tue), 2015, 12:00 (Noon) in JST). 
+
+While only several important points are briefly summarized below, 
+please consult the web page for more detailed information. 
+
+(1) Abstract of Accepted Proposals Going to Be Opened 
+
+The complete text of the abstract of all the accepted Subaru 
+proposals from S15B semester will be open to the public 
+at the same time of the data release (i.e., after the proprietary 
+period of 18 months has expired). 
+
+(2) New Science Category 'Metal-poor stars' 
+
+A new category 'metal-poor stars' has been introduced mainly for 
+proposals intending to observe individual old stars as probes 
+to study chemical evolution (nucleosynthesis history) of our Galaxy 
+or local-group galaxies. 
+
+(3) Use of Hyper Suprime-Cam 
+
+Regarding HSC, there will be 4 observing runs (allocated to dark 
+or dark-gray nights in August, October, November, and January). 
+One narrow band filter (NB816) will be opened from S15B. 
+
+(4) Polarimetry Mode of IRCS+AO188 
+
+In S15B, polarimetry modes of IRCS+AO188 are newly available 
+for imaging (for Y-, J-, H-, and K-bands) as well as spectroscopic 
+observations (for zJH and HK) in a shared-risk operation. 
+IRCS observations will be conducted always in combination with 
+AO188 optics, regardless of the use of AO correction. 
+
+(5) Possibility of Instrument Decommission 
+
+Please keep in mind the possibility that S-Cam and/or FMOS, 
+which are available as usual still in S15B, might be decommissioned 
+and unavailable from S16A. Similar decommissioning is under 
+consideration also for HiCIAO and/or Kyoto3DII (PI instruments). 
+
+(6) MOIRCS Detector Replacement 
+
+Due to the detector replacement work, MOIRCS can not be used 
+in early S15B for about 2 months but expected to be available 
+from 2015 October in a shared-risk mode. 
+
+(7) Application from Keck/Gemini Community 
+
+Non-Japanese PIs who wish to use the Subaru Telescope but have 
+access to Keck or Gemini telescope time should in principle 
+apply through the time-exchange programs provided by Keck or Gemini. 
+
+Best regards, 
+
+Subaru Open Use Team 
+
+# P.S. 
+# 
+# This mailing list, comprising all the previous proposers 
+# and visitors of Subaru Telescope, is only used for special 
+# announcements related to Open Use or Users Meeting. 
+# If you want to have your mail address remove from this list, 
+# or change it to the new address, please fill and edit 
+# the following form appropriately and e-mail it to 
+# 
+# chie.yoshida @ nao.ac.jp (Secretary, Subaru Project Office) 
+# 
+
+===============================================================================
+
+> Date: Mon, 9 Feb 2015 13:53:22 -0800
+> Subject: Fwd: conference announcement: Black hole accretion and AGN feedback
+> From: Hsien Shang <shang@asiaa.sinica.edu.tw>
+> To: "riaa@asiaa.sinica.edu.tw" <riaa@asiaa.sinica.edu.tw>,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues,
+
+Here is an announcement for a conference on black hole accretion and AGN
+feedback to take place in Shanghai on June 1-5, 2015.
+
+Best,
+
+Sienny
+
+---------- Forwarded message ----------
+> From: Feng Yuan <fyuan@shao.ac.cn>
+> Date: Sat, Feb 7, 2015 at 5:59 AM
+> Subject: conference announcement: Black hole accretion and AGN feedback
+> To: Hsien Shang <shang@asiaa.sinica.edu.tw>
+
+
+***********************************************************************
+
+                BLACK HOLE ACCRETION AND AGN FEEDBACK
+
+                    June 1-5, 2015; Shanghai, China
+
+( Apologies if you receive this announcement more than once.)
+
+  ************************ SCIENTIFIC RATIONALE**************************
+
+Both black hole accretion and galaxy formation and evolution are important
+research topics in astrophysics. They focus on quite different scales and
+both have been intensively studied. While the fueling of black hole is
+controlled by the host galaxy, there is considerable observational evidence
+in recent years that output from the accretion onto the black hole located
+in the galactic center plays an important role in controlling the evolution
+of galaxies. This is called =E2=80=9CAGN feedback=E2=80=9D. How this mechan=
+ism works,
+however, still remains poorly understood. The theme of this conference is
+to bring experts in both the black hole accretion and galaxy
+formation/evolution communities, to share our expertise, so as to improve
+our understanding to the physics of AGN feedback.
+
+The topics to be covered in the conference include:
+
+1) Theory of black hole accretion and radiation; angular momentum transfer
+in various scales
+
+2) Theory of jet and wind production; their energy, mass and momentum fluxe=
+s
+
+3) Observations of winds, jets from back holes in AGNs and X-ray binaries
+
+4) Interactions between black hole outflows and the ISM: Observation and
+theory
+
+5) Galaxy evolution and central black hole feedback; interactions and
+relations
+
+The registration in now open. Deadlines for early registration and abstract
+submission oral presentations are March 31, 2015. Detailed information is
+available on our website:
+
+http://accretion2015.csp.escience.cn
+
+
+      **************** SCIENTIFIC ORGANIZATION COMMITTEE ******************=
+*
+
+Andy Fabian (Cambridge University)
+
+Claude-Andr=C3=A9 Faucher-Giguere (Northwestern University)
+
+Jenny Greene (Princeton University)
+
+Timothy Heckman (Johns Hopkins University)
+
+Luis Ho (Co-chair; Peking University)
+
+Yipeng Jing (Shanghai Jiaotong University)
+
+Brian McNamara (University of Waterloo)
+
+Houjun Mo (University of Massachusetts)
+
+Ramesh Narayan (Harvard University)
+
+Jeremiah Ostriker (Princeton University)
+
+Chris Reynolds (University of Maryland)
+
+James Stone (Princeton University)
+
+Daniel Wang (University of Massachusetts)
+
+Feng Yuan (Chair; Shanghai Astronomical Observatory)
+
+
+I will greatly appreciate if you could help to distribute this announcement
+among your colleagues and students.
+
+Best wishes,
+
+Feng Yuan
+
+On behalf of SOC
+
+---------------------------------------------------------------------------=
+In addition, you might have interest to a summer school on a similar topic:
+"Formation and Co-Evolution of Galaxies and Supermassive Black Holes". Here
+is the video link:
+
+http://mooc.chaoxing.com/course/2524589.html
+---------------------------------------------------------------------------=
+
+----------------------------------------
+Feng Yuan
+Shanghai Astronomical Observatory, CAS
+80 Nandan Road, Shanghai 200030, China
+Tel: 86-21-34775301
+http://www.shao.ac.cn/fyuan
+-----------------------------------------
+
+===============================================================================
+
+> Subject: JCMT Call for Proposals for Observing Time Semester 15A - EAO Pilot Science and related information
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Date: Wed, 11 Feb 2015 00:12:58 +0800
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+    Please kindly help to distribute the following JCMT CfP information via TAN. Thanks very much!
+
+————
+Dear colleagues,
+
+    The Call for Proposals for Observing Time Semester 15A at JCMT aimed for the EAO Pilot Science Programs has been released. The information is listed at the webpage - "http://www.eaobservatory.org/jcmt/proposals/CfP15A/“
+
+    As noted in the call, this is the first semester for JCMT operating under the management of the East Asian Observatories, and the intention in 15A is to encourage as many new users as possible to get experience with JCMT and prepare for future, larger programs.
+
+    The 15A semester runs from 1st March to 30th June 2015. The closing date for receipt of proposals is Tuesday 31 March 2015 (15:00 Hawaiian Standard Time). The observatory has started accepting proposals and the submitted proposals will be assessed for technical feasibility and processed as they are received. Again, please find more details in the CfP webpage.
+
+    In the meantime, please note below a couple items related to the JCMT science and proposal preparation in Taiwan as well.
+
+    1) For interested users:
+      *) You are strongly encouraged to sign-up for the jcmt users list by sending an email to: jcmt_users-join@eaobservatory.org. This is to help the observatory to distribute information directly to you as it is needed.
+      *) You are also strongly encouraged to fill in the survey form below 
+        "https://docs.google.com/a/asiaa.sinica.edu.tw/forms/d/1EvbhB-laSbmtSpeuoe_pANd7RecF_GOw2WwHjfuX17E/viewform”. This will help us to push and coordinate the programs.
+
+    2) The webpage of the Taiwan JCMT Science Workshop has been updated. Slides from some of the science talks were uploaded. For the presentation slides about JCMT operation, instrumentation, proposal preparation and submission, as well as data access and reduction, you can go to the following webpage,
+    "http://www.eaobservatory.org/jcmt/help/workshops/“
+
+    3) Finally, recall the EAO JCMT Twiki page, where you may follow and participate online discussions about some of the potential survey programs.
+
+    Please prepare and submit your pilot science proposals as soon as possible and do feel free to contact the JCMT staffs directly through the helpdesk at helpdesk@eaobservatory.org, or me, if you find questions.
+
+best,
+sheng-yuan
+————
+
+===============================================================================
+
+> Date: Thu, 12 Feb 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Hsi-An Pan (Hokkaido University)
+Topic:         What is a Giant Molecular Cloud? Are Observers and Simulators Discussing the Same Star-forming Clouds?
+Time:         2/16 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+Observations and simulations have now reached the point where the giant molecular cloud (GMCs) populations can be studied over a whole galaxy. This is immensely helpful for understanding star formation, since the cloud properties set the conditions for new star birth. Yet, are these two groups really comparing the same objects? While simulators work in position-position-position (PPP) space, observers see projected properties along the line of sight, identifying clouds in position-position-velocity (PPV) space. If these methods do not identify the same objects, then the interpretation and comparisons between the data sets may be highly misleading. In this research we generated PPV and PPP data for a high-resolution simulated galaxy and compared the identified cloud properties in both data sets.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

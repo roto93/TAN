@@ -1,0 +1,52 @@
+==============================================================================
+
+Date: Mon, 04 Jan 2021 17:51:47 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: [CAG seminar] 2021/Jan/08
+
+Dear all,
+
+We wish you a happy and prosperous new year. This coming Friday, we will
+have prof. Feng-Li Lin from the Department of Physics (NTNU) to talk to
+us about his studies of gravitational waves.
+
+If you wish to reserve for lunch box, please do so before Thursday noon.
+ 
+
+https://forms.gle/cgwXdNScGxTNiHuWA
+
+Best,
+
+Yueh-Ning
+
+------------------------------------------------------------------------
+Speaker: Feng-Li Lin
+Time: 12:20 pm, 2021 Jan. 08
+Venue: B101
+
+Title: Deep Generative Models of Gravitational Waveforms
+
+Abstract:  In this talk I first review the current known approaches of
+generating theoretical waveform templates, and their limitations on the
+efficiency and extrapolating capability. Motivated by these limitations,
+we construct a deep learning generative model of gravitational waveforms
+based on the scheme of variational auto-encoder. I will present our
+preliminary results to demonstrate its potential to bypass the above
+limitations of the conventional approaches.
+------------------------------------------------------------------------
+
+Upcoming CAG events:
+-------------------------------------------------------
+Space Lunch every Thursday 12:20 B413
+2021/Jan/08 17:30 Online seminar: Ian-Lin Lai
+2021/Jan/12 09:45 SE building 8F CAG opening ceremony
+2021/Jan/12 10:50 SE building 5F CAG opening colloquium: You-Hua Chou
+2021/Jan/15 13:20 CAG seminar: Sean Hsu
+2021/Feb/23 14:20 S101 ES colloquium:  Dipen Sahu
+-------------------------------------------------------
+
+-- 
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

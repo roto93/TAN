@@ -1,0 +1,152 @@
+From kyl@asiaa.sinica.edu.tw Fri May  8 07:14:39 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (biaa.sinica.edu.tw) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA04887; Fri, 8 May 1998 07:10:56 +0800
+Received: from localhost by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA24777; Fri, 8 May 1998 07:09:32 +0800
+Date: Fri, 8 May 1998 07:09:31 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: GCFLASH - Vol. 8, No. 7 (May 7, 1998) (fwd)
+Message-Id: <Pine.GSO.3.96.980508070927.24774A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6498
+Status: R
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Thu, 7 May 1998 11:19:09 +0200
+From: Galactic Center Newsletter <gcnews@mpifr-bonn.mpg.de>
+To: gcnews_exploder@mpifr-bonn.mpg.de
+Subject: GCFLASH - Vol. 8, No. 7 (May 7, 1998)
+
+
+========================================================================
+
+                              G C N E W S
+                             * Newsflash *
+
+            - The Newsletter for Galactic Center Research -
+
+gcnews@mpifr-bonn.mpg.de             http://www.mpifr-bonn.mpg.de/gcnews
+========================================================================
+Vol. 8, No. 7                                              May 7, 1998
+
+
+Recently submitted papers:
+--------------------------
+
+1) The Pistol Star (Figer et al., ApJ)
+2) Gamma-ray limits on Galactic ^60Fe nucleosynthesis and  implications 
+   on the Origin of the ^26Al emission  (Naya et al., ApJL)
+
+
+Email    : figer@gc.astro.ucla.edu
+Title    : The Pistol Star
+Author(s): Donald F. Figer(1), Francisco Najarro(2,5), Mark   
+           Morris(1), Ian S. McLean(1), Thomas R. Geballe(3), Andrea M. 
+           Ghez(1), &  Norbert Langer(4)
+Institute: (1) University of California, Los Angeles, Division of 
+           Astronomy,  (2) Institut fuer Astronomie und Astrophysik der 
+              Universitaet Muenchen, Scheinerstr. 1,   D-81679 
+           Muenchen, Germany (3) Joint Astronomy Centre, 660 N 
+           A'ohoku Place, University  Park, Hilo, HI 96720,   
+           (4) Institut fuer Theoretische Physik und Astrophysik, Am 
+           Neuen Palais 10, D-14469 Potsdam, Germany,   (5) CSIC, 
+           Instituto de Estructura de la Materia, Dpto. Fisica 
+           Molecular   Serrano 121, 28006 Madrid, Spain
+Paper    : ApJ, in press
+Weblink  : http://www.astro.ucla.edu/~figer/papers.html
+
+Abstract:
+We present new near-infrared data and an analysis which indicates that
+the ``Pistol Star'' is one of the most luminous stars known, adding
+another test point for massive star formation and stellar evolution
+theories.  We estimate an extinction of A_K = 3.2+/-0.5 using the
+near-infrared colors of the star and surrounding stars in the young
+Quintuplet cluster.  Using our wind/atmosphere code, we find two
+families of models which fit the spectral energy distribution and
+detailed line profiles. The lower luminosity models give L =
+10^6.6+/-0.2 Lsun and Teff = 10^4.15+/-0.01 K, while the higher
+luminosity models give L = 10^7.2+/-0.2 Lsun and Teff =
+10^4.33+/-0.01 K; the error in luminosity assumes an uncertainty of
++/-0.5 in A_K, while the error in Teff is constrained by detailed
+line modeling.  The models also reveal a helium enriched surface.  As
+previously existing stellar evolution models do not extend to such
+high luminosities, we employ new evolutionary tracks for very massive
+stars to determine the initial mass and age of the Pistol Star, and
+estimate M_initial = 200-250 Msun and an age of 1.7-2.1 Myrs.  The
+inferred luminosity and temperature place the star in a sparsely
+populated zone in the HR diagram where ``Luminous Blue Variables''
+(LBVs) are often found.  This is consistent with our evolutionary
+models which predict that the star is in an unstable evolutionary
+stage. We interpret the star and its surrounding nebula as an LBV
+which has recently ejected large amounts of material. Our K-band
+speckle imaging data reveal the star to be single down to a projected
+separation of 110 AU.
+------------------------------------------------------------------------
+
+Email    : naya@tgrs2.gsfc.nasa.gov
+Title    : Gamma-ray limits on Galactic ^60Fe nucleosynthesis and      
+           implications on the Origin of the ^26Al emission
+Author(s): Juan E. Naya(1), Scott D. Barthelmy(1),   Lyle M. 
+           Bartlett(2), Neil Gehrels, Ann Parsons, Bonnard J.   
+           Teegarden and Jack Tueller    Marvin Leventhal
+Institute: (1) NASA/Goddard Space Flight Center, Greenbelt, MD 20771, 
+           USA   (2) Dept. of Astronomy, University of Maryland, 
+           College Park, MD   20742-2421, USA   (3) Universities Space 
+           Research Association, 7501 Forbes   Blvd.  #206, Seabrook, 
+           MD 20706-2253, USA   (4) NAS/NRC Resident Research 
+           Associate, Code 718,   NASA/GSFC, Greenbelt, MD 20771, USA
+Paper    : ApJ Letters, in press
+
+Abstract:
+The Gamma Ray Imaging Spectrometer (GRIS) recently observed the
+gamma-ray emission from the Galactic center region.  We have detected
+the 1809 keV Galactic ^26Al emission at a significance level of 6.8
+sigma but have found no evidence for emission at 1173 keV and 1332
+keV, expected from the decay chain of the nucleosynthetic ^60Fe.  The
+isotopic abundances and fluxes are derived for different source
+distribution models.  The resulting abundances are between 2.6+/-0.4
+and 4.5+/-0.7 M_o for ^26Al and a 2 sigma upper limit for ^60Fe
+between 1.7 and 3.1 M_o.  The measured ^26Al emission flux is
+significantly higher than that derived from the CGRO/COMPTEL 1.8 MeV
+sky map.  This suggests that a fraction of the ^26Al emission may come
+from extended sources with a low surface brightness that are invisible
+to COMPTEL. We obtain a ^60Fe to ^26Al flux ratio 2 sigma upper limit
+of 0.14, which is slightly lower than the 0.16 predicted from current
+nucleosynthesis models assuming that SNII are the major contributors
+to the galactic ^26Al.  Since the uncertainties in the predicted
+fluxes are large (up to a factor of 2), our measurement is still
+compatible with the theoretical expectations.
+------------------------------------------------------------------------
+
+
+(Older versions of the Newsflash can be found at the gcnews web-page)
+========================================================================
+			       Edited by
+Angela Cotera                                Heino Falcke
+(cotera@ipac.caltech.edu)                    (hfalcke@mpifr-bonn.mpg.de)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ For Abstract submission please send the (La)Tex file of your paper to
+                          gcnews@mpifr-bonn.mpg.de
+========================================================================
+
+

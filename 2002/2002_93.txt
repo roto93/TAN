@@ -1,0 +1,234 @@
+From astro Sun May  5 16:35 CST 2002
+Received: (from astro@localhost)
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) id QAA14802
+	for astro; Sun, 5 May 2002 16:35:11 +0800 (CST)
+Date: Sun, 5 May 2002 16:35:11 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+Message-Id: <200205050835.QAA14802@iaa17.asiaa.sinica.edu.tw>
+To: astro
+Subject: TAN: MAY 05, 2002 Issue
+Content-Type: text
+Content-Length: 11140
+Status: RO
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In this issue:
+
+1. Message from the TAN administrator
+2. ASIAA Luncheon Talk/Journal Club on May 6: Wu, Xiang-Ping (Nat'l Astro Obs)
+3. 5/9 CosPA Thursday Talk: Jeff Peterson (Carnegie Mellon Univ)
+4. [Colloquium] ASIAA-NCU Joint Colloquium: Francoise Combes (Obs de Paris)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Dear TANists,
+
+As some of you may have noticed, there are increasingly more SPAM mails
+forwarded through TAN recently.  There is no effective way to avoid this
+happening because TAN's email address is listed openly in ASIAA's Webpage.
+The situation got worsened when the most recent wave of virus attacks 
+(WORMS and its derivatives) on PC/Windows/IE users first appeared on 
+April 04 this year.  The mail 'server' of TAN itself is not affected 
+as it is a Unix workstation however.  There is no effective way to 
+block all these junk mails unless TAN only allows for emails originated
+from '.edu' and 'edu.tw' to be forwarded.
+
+After receiving a couple of complaints from oversea TAN subscribers, in
+response, TAN was decided to be tentatively closed since April 19 (right
+before the virus attack reached its high on the weekend of April 21).
+On April 21 a day, TAN received more than 30 emails including virus.  In
+the past two weeks TAN received more than 100 virus-containing emails from
+all over the world.
+
+So at the moment, TAN is closed technically which means the auto-forwarding
+function of TAN is turned off.  Until the situation improved, I'll monitor
+the traffic and compile the messages weekly from now on.  Nevertheless, if
+you do find your message is timely urgent and has to get forwarded to all
+TAN readers immediately, please send me a separate email informing me about
+your timely need.
+
+Sorry about all these unfriendly measures imposed.  Appreciate your 
+understanding.  One good news about TAN is that TAN has more than 200
+subscribers since 2000.  Thank you for all your support.
+ 
+
+Regards,
+Yi-Jehng Kuan
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From gu@asiaa.sinica.edu.tw Thu May  2 16:41 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA04868
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 2 May 2002 16:41:42 +0800 (CST)
+Received: from getafix.asiaa.sinica.edu.tw (getafix.asiaa.sinica.edu.tw [140.109.177.139])
+	by asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g428fL329316;
+	Thu, 2 May 2002 16:41:21 +0800
+Received: from localhost (gu@localhost)
+	by getafix.asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g428eMt01393;
+	Thu, 2 May 2002 16:40:22 +0800
+X-Authentication-Warning: getafix.asiaa.sinica.edu.tw: gu owned process doing -bs
+Date: Thu, 2 May 2002 16:40:22 +0800 (CST)
+From: Pin-Gao Gu <gu@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>,
+        CosPA Group <b5202023@ms.cc.ntu.edu.tw>, <bonwood@ms24.hinet.net>,
+        <chengjiun@yahoo.com.tw>, Chih-Hsin <chhuang@phys.ntu.edu.tw>,
+        <chiueh1@phys.ntu.edu.tw>, <chiuehth@phys.ntu.edu.tw>,
+        <clw@phys.ntu.edu.tw>, <cmchen@phys.ntu.edu.tw>,
+        <deutsch@stella.astro.ncu.edu.tw>, <dghosh@phys.ntu.edu.tw>,
+        <hexg1@phys.ntu.edu.tw>, <hexg4@phys.ntu.edu.tw>,
+        <hsyang@phys.ntu.edu.tw>, <kager@pchome.com.tw>,
+        <kclai@phys.ntu.edu.tw>, <klem@ethome.net.tw>,
+        <nkw@phys.sinica.edu.tw>, <nnp1@phys.ntu.edu.tw>,
+        <pmho@phys.ntu.edu.tw>, <r8222001@dove.cc.ntu.edu.tw>,
+        <r8222013@dove.cc.ntu.edu.tw>, <tseng327@ms7.hinet.net>,
+        Vicky Chen <wcchen@phys.ntu.edu.tw>, <wyhwange@phys.ntu.edu.tw>,
+        <wyhwang@phys.ntu.edu.tw>
+Subject: ASIAA Luncheon Talk/Journal Club on May 6
+Message-ID: <Pine.LNX.4.44.0205021638150.1390-100000@getafix.asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1160
+Status: RO
+
+
+Dear Astronomers and Physicists,
+ 
+Prof. Wu Xiang-Ping is a researcher at the National
+Astronomical Observatories of China, and currently
+visiting ASIAA. He has been working with people in
+Physics dept at Taida. In addition to the joint
+CosPA/ASIAA seminar on May 20th, Prof. Wu will
+kindly give a lunch talk (the topic will be different
+from the joint seminar talk) next Monday at ASIAA:
+ 
+******* ASIAA Luncheon Talk/Journal Club ******************
+Time      : 12pm, monday  May 6th, 2002.
+Place     : our conference room 716.
+Speaker   : Prof. Wu, Xiang-Ping
+            (National Astronomical Observatories, PRC)
+Topic     : The Effect of Radiative Cooling on the X-ray
+            Properties of Galaxy Clusters
+ 
+Note    : Please send the request for lunch box to
+          me (gu@asiaa.sinica.edu.tw) by 10:30 am,
+          May 6th. As usual, no request no lunch box.
+************************************************************
+ 
+For details of past/future Luncheon Talk/Journal Club
+schedules at Academia Sinica Institute of Astronomy &
+Astrophysics (ASIAA), please visit
+http://www.asiaa.sinica.edu.tw/Schedule/LunchBoxTalk/
+ 
+Best regards,
+Pin-Gao
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From nkw@phys.sinica.edu.tw Fri May  3 22:25 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA10911
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 3 May 2002 22:25:37 +0800 (CST)
+Received: from phys.sinica.edu.tw (mails.phys.sinica.edu.tw [140.109.103.251])
+	by asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g43EOpE16880;
+	Fri, 3 May 2002 22:24:51 +0800
+Received: from phys18 (IDENT:root@localhost.localdomain [127.0.0.1])
+	by  phys.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA05317;
+	Fri, 3 May 2002 22:29:25 +0800
+Date: Fri, 3 May 2002 22:19:51 +0800 (CST)
+From: K-W Ng <nkw@phys.sinica.edu.tw>
+X-Sender: nkw@phys18
+To: CosPA Mailing List <65202053@ms.cc.ntu.edu.tw>, astro@asiaa.sinica.edu.tw,
+        b5202023@ms.cc.ntu.edu.tw, bonwood@ms24.hinet.net,
+        chang@phys.nthu.edu.tw, chengjiun@yahoo.com.tw,
+        chiueh1@phys.ntu.edu.tw, chiuehth@phys.ntu.edu.tw,
+        clw@asiaa.sinica.edu.tw, clw@phys.ntu.edu.tw, cmchen@phys.ntu.edu.tw,
+        cpsoo@mail.ncku.edu.tw, cwwang@phys.ntu.edu.tw,
+        d89222003@ms89.ntu.edu.tw, deutsch@stella.astro.ncu.edu.tw,
+        dghosh@phys.ntu.edu.tw, dslee@cc.ndhu.edu.tw, fan@asiaa.sinica.edu.tw,
+        g883305@oz.nthu.edu.tw, gcliu@asiaa.sinica.edu.tw, glin@cc.nctu.edu.tw,
+        hexg1@phys.ntu.edu.tw, hexg2@phys.ntu.edu.tw, hexg3@phys.ntu.edu.tw,
+        hexg4@phys.ntu.edu.tw, hexg6@phys.ntu.edu.tw, hexg@phys.ntu.edu.tw,
+        hkchang@phys.nthu.edu.tw, hsyang@phys.ntu.edu.tw,
+        htcho@mail.tku.edu.tw, huanhsin@ms5.hinet.net,
+        hwangcy@astro.ncu.edu.tw, kager@pchome.com.tw, kclai@phys.ntu.edu.tw,
+        keifer@tosh.phys.ntu.edu.tw, keiichi@asiaa.sinica.edu.tw,
+        klem@ethome.net.tw, ktwang@phys.ntu.edu.tw, kyl@asiaa.sinica.edu.tw,
+        leewl@phys.sinica.edu.tw, lihb@phys.sinica.edu.tw, lihwai@sinamail.com,
+        lin1099@ms9.hinet.net, lou@asiaa.sinica.edu.tw,
+        lupin@asiaa.sinica.edu.tw, meowshun@ms28.url.com.tw,
+        millieyao@phys.ntu.edu.tw, mli@phys.ntu.edu.tw, mwang@phys.ntu.edu.tw,
+        nnp1@phys.ntu.edu.tw, parkc@astro.snu.ac.kr, pchang@phys.ntu.edu.tw,
+        pmho@phys.ntu.edu.tw, r8222001@dove.cc.ntu.edu.tw,
+        r8222007@dove.cc.ntu.edu.tw, r8222013@dove.cc.ntu.edu.tw,
+        r8222050@dove.cc.ntu.edu.tw, r88222001@ms88.ntu.edu.tw,
+        ray@analog.ee.ntu.edu.tw, rrhsu@mail.ncku.edu.tw,
+        sftsai4@phys.ntu.edu.tw, shchang@phys.ntu.edu.tw,
+        swbaek@phys.ntu.edu.tw, sylin@phys.sinica.edu.tw,
+        taiji@sora.asiaa.sinica.edu.tw, tony@asiaa.sinica.edu.tw,
+        tseng327@ms7.hinet.net, twhepnet@hepmail.phys.sinica.edu.tw,
+        typhoon@asiaa.sinica.edu.tw, ueno@phys.ntu.edu.tw,
+        wcchen@phys.ntu.edu.tw, wcmtw@yahoo.com, wenlin@phy03.phy.ntnu.edu.tw,
+        wfgore@cc.nctu.edu.tw, wshou@phys.ntu.edu.tw, wtni@phys.nthu.edu.tw,
+        wyhwang@phys.ntu.edu.tw, wyhwange@phys.ntu.edu.tw,
+        wyhwangr@phys.ntu.edu.tw, yen@asiaa.sinica.edu.tw,
+        yuan@asiaa.sinica.edu.tw, yuanru@phys.ntu.edu.tw
+cc: jbp@fire.phys.cmu.edu
+Subject: 5/9 CosPA Thursday Talk
+In-Reply-To: <Pine.GSO.4.21.0204151100360.15926-100000@phys15>
+Message-ID: <Pine.GSO.4.21.0205032209520.10648-100000@phys18>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 931
+Status: R
+
+      _____________________________________________________________________
+     |                                                                    |
+     |                          C o s P A                                 |
+     |                    Thursday Special Seminar                        |
+     |                                                                    |
+     |  Speaker: Prof. Jeff Peterson (Carnegie Mellon University)         |
+     |  Title:   Cosmic Microwave Background Polarimeters                 |
+     |  Time:    12:30-13:30, May 9, 2002                                 |
+     |  Place:   Rm 815, Taida New Physics Building                       |
+     |____________________________________________________________________|     
+   
+  P.S.  Lunch boxes are provided. Please send a request to Ms. Vicky Chen,
+        wcchen@phys.ntu.edu.tw, before Thursday.                                 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From minho@iaa1.asiaa.sinica.edu.tw Sun May  5 15:08 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA14253
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 5 May 2002 15:07:59 +0800 (CST)
+Received: from iaa1.asiaa.sinica.edu.tw (minho@iaa1 [140.109.177.7])
+	by asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g4574RE14905;
+	Sun, 5 May 2002 15:04:27 +0800
+Received: (from minho@localhost)
+	by iaa1.asiaa.sinica.edu.tw (8.9.3/8.9.3) id PAA16001;
+	Sun, 5 May 2002 15:03:55 +0800 (CST)
+Date: Sun, 5 May 2002 15:03:55 +0800 (CST)
+From: Minho Choi  <minho@asiaa.sinica.edu.tw>
+Message-Id: <200205050703.PAA16001@iaa1.asiaa.sinica.edu.tw>
+To: astro@asiaa.sinica.edu.tw, iaa@asiaa.sinica.edu.tw
+Cc: francoise.combes@obspm.fr
+Subject: [Colloquium] ASIAA-NCU Joint Colloquium
+Content-Type: text
+Content-Length: 525
+Status: R
+
+---------------------- ASIAA-NCU Joint Colloquium ----------------------
+Speaker : Francoise Combes (Observatoire de Paris)
+Title   : Galaxy Evolution and Perspective with Future mm Instruments
+Time    : Friday 5/10 2:00 pm
+Location: ASIAA Conference Room (Room 716), Academia Sinica 
+          Condensed Matter Sciences and Physics Department Building
+          Roosevelt Rd., Sec. 4, Taipei
+URL     : http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+------------------------------------------------------------------------
+
+

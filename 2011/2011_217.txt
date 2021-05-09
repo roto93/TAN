@@ -1,0 +1,50 @@
+Received: by 10.231.65.18 with HTTP; Thu, 22 Dec 2011 00:06:47 -0800 (PST)
+Date: Thu, 22 Dec 2011 16:06:47 +0800
+Subject: ASIAA/CCMS/IAMS/NTU-Physics Joint Colloquium, December 27
+From: Chien-Fu Liu <chienfuliu@gmail.com>
+To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+       astro@asiaa.sinica.edu.tw
+
+Dear Colleagues,
+
+The NTU Physics Department, Center for Condensed Matter Science, Institute
+of Atomic and Molecular Sciences, and the Academia Sinica Institute of
+Astronomy and Astrophysics invite everyone to our joint colloquium series.
+The speakers are all famous international scholars and the colloquia are
+aiming at a broad audience, including undergraduate students. Below is the
+information of the talk on December 27(Tuesday). Please help to forward
+this to the colleagues in your departments.
+
+Best Regards,
+Chih-Wei Chang (CCMS)
+Jiunn-Wei Chen (NTU Physics)
+Jer-Lai Kuo (IAMS)
+Wei-Hao Wang (ASIAA)
+
+_______________________________________________________
+Speaker: Naoki Kawashima, University of Tokyo
+ Topic: Quantum Monte Carlo and Non-Ginzburg-Landau Type Phase Transition
+Time: 12/27 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCM-New Physics Building
+
+Abstract: Quantum Monte Carlo is one of powerful tools for clarifying
+quantum state of matter. Its applications ranges from quantum magnets to
+optical lattices. Here I summarize recent developments in the method and
+how it can be implemented in the world fastest computer. I then focus on
+how a class of peculiar quantum phase transitions have been discovered by
+this method. The transition is realized in the familiar antiferromagnetic
+Heisenberg model extended to the SU(N) symmetry.
+
+Brief Bio: Prof. Dr. Kawashima is a professor at Institute for Solid State
+Physics, University of Tokyo. He obtained his PhD in physics at Tokyo
+University in 1992. After working as a postdoc at Los Alamos National
+Laboratory, USA, for 1993-1995, he moved to Toho University (1995-1998) and
+Tokyo Metropolitan University (1998-2004). Then he came back to Tokyo
+University and has been working there since 2004. He received Ryogo Kubo
+Medal in 2002 for his work in quantum Monte Carlo method.
+
+For more information please see:
+http://web.phys.ntu.edu.tw/jwc/2011_Fall_colloq
+uia/Joint%20colloquia%20fall.html
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

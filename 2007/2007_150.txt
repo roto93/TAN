@@ -1,0 +1,184 @@
+From astro@iaa17.asiaa.sinica.edu.tw Tue Nov  6 22:53:06 2007
+Date: Tue, 6 Nov 2007 22:48:26 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Nov 05 - 06, 2007)
+
+==============================================================================
+
+In this issue (Nov 05 - 06, 2007)
+
+1. The visit of wircam supporting astronomer (Nov 16)
+
+==============================================================================
+
+> From: "Shiang-Yu Wang" <sywang@asiaa.sinica.edu.tw>
+> Subject: Fw: The visit of wircam supporting astronomer
+> Date: Tue, 6 Nov 2007 11:06:13 +0800
+
+Dear Yi Jehng:
+
+  Please help to annouce it in TAN and let your students know. Thank you.
+
+Cheers
+Shiang-Yu
+
+---------- Forwarded Message -----------
+
+Dear All:
+
+   Dr. Loic Albert, the CFHT wircam supporting astronomer will visit us on 
+Nov 12 ~ Nov 19. He will give us a seminar talk "The Search for Very Cold 
+Brown Dwarfs at the Canada-France-Hawaii Telescope" and also give a 2~3 hrs 
+lecture about infrared observations "Observing in the NIR with WIRCam".
+
+  The seminar will be at 2PM on Friday Nov 16 in our conference room 716. 
+The lecture will be at 2PM on Tuesday Nov 13 also in the conference room.
+
+   Please see the attached file for the abstracts of the talks.
+
+   It will be a excellent time for you if you want to know how to 
+propose/use wircam and reduce the data. Please talk to him during his stay 
+in IAA.
+
+Cheers
+Shiang-Yu
+------- End of Forwarded Message -------
+
+Shiang-Yu Wang 
+Assistant Research Fellow 
+
+Institute of Astronomy and Astrophysics, Academia Sinica.
+P.O. Box 23-141, Taipei 106, Taiwan. 
+
+Tel: 886-2-33652200 ext 823    Fax: 886-2-23677849
+
+-----------------------------------------------------------------------------
+
+The Search for Very Cold Brown Dwarfs at the Canada-France-Hawaii Telescope
+
+
+In a short span of 12 years since the discovery of the first methanic Brown
+Dwarf, GJ 299B, a variety of classical studies done on main-sequence OBAFGKM
+stars over the course of the last century have been repeated on the newest
+spectral types, L and T, albeit at a much faster pace. These studies target the
+binary frequency, the galactic mass function, modelling the atmosphere, etc.
+The quest for even colder objects belonging to the elusive Y spectral type is
+more than ever raging. CFHT, with its two instruments, Megacam in the visible
+and WIRCam in the NIR, is particularly well suited to hunt for brown dwarfs,
+where wide-field coverage is the name of the game. I will describe a few
+projects done at CFHT whose objectives are to find cold brown dwarfs in the
+solar neighborhood and to characterize their binary frequency.  Covering close
+to 1000 sq. degrees, the Canada France Brown Dwarf Survey (CFBDS) is already
+finding the coldest BDs at spectral types later than T8.5.
+
+
+Observing in the NIR with WIRCam 
+-------------------------------------------------------------------------
+Summary
+
+What does it mean to do near-infrared imaging with WIRCam? What are the
+difficulties and the steps involved in processing data and why? My goal is to
+provide a good basic understanding to students who may have never processed NIR
+images or have limited experience with it. As much as possible, I want to give
+examples with actual WIRCam images. My lectures will mostly be a Keynote
+presentation with examples using ds9. I will try to cover as much of the
+following material as is possible in one morning (about 2 hours).
+
+Introduction
+
+	-What are th main science objectives of observing in the NIR?
+		-Photo-z
+		-Brown dwarfs
+		-Galactic center astrometry
+		-Redshift of z=7 galaxy hunt
+		-Dust cloud mass estimation
+		-Starburst age typing
+
+	-Instrumentation - detector
+		-Reading out images
+
+	-Instrumentation - hardware
+		-Need for a Lyot mask hance reimaging optics
+		-Optics is cold, glasses are different
+		-Moving mechanism very difficult to operate because of differential contraction
+		-Liquid nitrogen and cryocoolers
+
+Detrending Steps with WIRCam data
+	-Dark subtraction
+	-Flat fielding
+	-How to build a flat field? Dome vs twilight flats.
+	-Bad pixel masking
+	-Sky subtraction
+	-Source masking during sky construction
+	-Stacking data
+
+The NIR Skies.
+	-Graphs of atmospheric absorption 1-2.5 microns.
+	-OH- Emission lines.
+	-Thermal emission.
+	-Definition of filter bands - the Mauna Kea system.
+	-Sky brightness variations - Vaduvescu paper.
+	-Sky brightness variations - in J,H,K from WIRCam data.
+
+Sky Subtraction Examples with WIRCam Data.
+	-Why the need for sky subtraction?
+		-Comparison between detrended images of WIRCam and Megacam
+		-Correction of 2nd-order flat fielding problems
+	-Example with DP21 using time-adjacent exposures vs DP21 using time-distant exposures.
+	-Example with optimized DP21 vs optimized DP7.
+	-Example of the Wide Dither Pattern (WDP).
+	-Example of Nodding Dither Pattern (NDP).
+
+Advantages of NIR technology
+	-Fast readout
+	-Non-destructive readout enables on-chip guiding.
+	-High quantum efficiencies.
+
+Challenges associated with NIR technology
+	-Large number of detector defects compared with CCD technology.
+	-Non-linearity
+		-Measuring the non-linearity using transfer curves.
+	-Capacitive coupling and gain
+		-Measuring it using hot pixels.
+	-Crosstalk as seen with WIRCam
+		-"Edge" and "Negative" crosstalks
+		-"Positive" crosstalk
+	-Persistence
+		-Example of LowOH1 processed images
+		-Example of long darks
+		-Behavior as seen on intensity vs. time graphs
+	-Absolute photometric accuracy
+		-Show dispersion of standard stars plots
+		-Show dispersion of 2MASS calibrated images
+
+Photometric Zero Points.
+	-Definition.
+	-Magnitude system: AB vs. Vega.
+	-2 examples of zero points calculations.
+
+Signal to Noise calculations.
+	-Definition.
+	-Single exposure case.
+		Background Noise Limited.
+		Readout Noise Limited.
+	-Stacking of images.
+	-Sky Subtraction Component in SNR calculations.
+	-Simple examples of exposure time calculations.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

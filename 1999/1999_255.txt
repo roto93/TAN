@@ -1,0 +1,133 @@
+From kyl@asiaa.sinica.edu.tw Tue Dec  7 22:36 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA01477
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 7 Dec 1999 22:35:25 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA32424
+	for <astro@asiaa.sinica.edu.tw>; Tue, 7 Dec 1999 22:32:32 +0800
+Date: Tue, 7 Dec 1999 22:32:32 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: position for a senior software scientist (fwd)
+Message-ID: <Pine.LNX.4.10.9912072232300.32408-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4444
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 7 Dec 1999 13:52:48 +0100 (MET)
+From: Huib Jan van Langevelde <langevelde@jive.nl>
+To: EVN Technical Matters <evntech@nfra.nl>, vlbi@cv3.cv.nrao.edu
+Subject: position for a senior software scientist
+
+Dear VLBIers, 
+
+Could you please post this advert at your institute or bring it to the
+attention of anyone suitably qualified, who might be interested.
+
+Groeten, Huib
+
+------------------------------------------------------------------------------
+Huib Jan van Langevelde, Operations Manager, EVN MkIV Correlator at JIVE
+
+langevelde@jive.nl                              Web   : http://www.jive.nl/
+Joint Institute for VLBI in Europe              Phone : +31-521-596515
+Radiosterrenwacht Dwingeloo                     or    : +31-521-596500
+Postbus 2                                       Fax   : +31-521-597332
+7990 AA DWINGELOO, the Netherlands              Home  : +31-528-221273
+
+A new note: From now old addresses (eg huib@rzmws0) do not work. The perfect
+            address is "langevelde@jive.nl"
+
+
+
+
+
+The JOINT INSTITUTE FOR VERY LONG BASELINE INTERFEROMETRY IN EUROPE 
+     is seeking a candidate for an indefinite appointment as  
+
+
+                    SENIOR SOFTWARE SCIENTIST
+
+
+The Joint Institute for VLBI in Europe (JIVE) recently began operating
+an advanced 16-station MkIV-standard VLBI data processor (correlator)
+to support astronomical observations made with the European VLBI
+Network (EVN).
+
+JIVE is located in Dwingeloo in the north of the Netherlands at the
+headquarters of the Netherlands Foundation for Research in Astronomy
+(the host institute for JIVE). The architecture of the correlator is
+based on distributed processing using locally engineered
+electronics. Central control and configuration software is being
+developed in C++ following object-oriented design philosophies.  The
+software runs on UNIX workstations and sets up real-time systems in
+the correlator using TCP/IP messages. The software involves
+configuration of many different modes of the real-time systems,
+complex algorithm implementation, database management and operator
+interfaces.
+
+Applications are invited for a position as Senior Software Engineer
+at JIVE. Responsibilities of the position include:
+
+  o Take a leading role in overall system design issues and strategic
+    decisions in the area of data transfer.
+  o Take over the development of embedded software in various parts
+    of the system.
+  o Contribute to the continuing development of the control software,
+    especially in the areas of real-time applications and time critical
+    data transfer.
+
+
+Requirements for the position are:  
+
+  o A degree in software engineering, computer science or
+    electronics/physics/astronomy with equivalent experience.
+  o Experience with C, C++ or object-oriented techniques.  
+  o Experience with inter-process communication (TCP/IP and UNIX 
+    sockets) and multi-threading code.
+  o Previous experience with real-time systems (PSOS/HP-RT) are an
+    advantage.
+  o Ability to work independently.  
+  o Good communication skills in English and Dutch (or prepared to
+    learn Dutch if not a native speaker).
+
+The position is available immediately. Appointment is offered for two
+years in the first instance with the possibility of an indefinite
+position thereafter. The appointee will be in the formal employ of the
+Netherlands Organization for Scientific Research (NWO), salary will be
+in scale 11, which begins at 72.000,- guilders per annum, (gross
+salary).
+
+
+Relocation expenses and assistance with finding accommodation will be
+provided.  Applications must be sent to Ms. F.H. Wekking, Personnel
+Officer, Joint Institute for VLBI in Europe, P.O. Box 2, 7990 AA
+Dwingeloo, the Netherlands by 15 February 2000, and quote reference number
+JIVE00-01.
+
+Further information can be obtained from Dr. H.J. van Langevelde,
+phone:+31 521 596515, fax:+31 521 597332, email:langevelde@jive.nl.
+
+Applications should include a curriculum vitae and a statement of
+experience in relation to the requirements for the position.
+Applicants should provide a list of up to two persons prepared to
+provide a reference.
+
+
+
+

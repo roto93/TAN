@@ -1,0 +1,108 @@
+=============================================================================
+
+In this issue (Dec 28, 2020 - Jan 04, 2021)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Jan 06): Chun-Hao To (Stanford Univ)
+                                      (Jan 06): Huang, Pin Jie (ASIAA)
+2. [Shida CAG seminar] (Jan 08): Feng-Li Lin (NTNU)
+
+==============================================================================
+
+Date: Thu, 31 Dec 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Chun-Hao To (Stanford University)
+Topic:         Cosmological constraints from a joint analysis of cluster abundances, galaxy correlations, and weak gravitational lensing in the Dark Energy Survey
+Time:         1/6 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Three cosmic tracer fields are measured from imaging surveys: galaxy density, weak gravitation lensing shear, and cluster density. The joint analysis of the auto and cross correlations of the first two fields, often referred to as the 3x2pt analysis, has become a popular and competitive cosmological test of the standard cosmological model. The abundances and spatial distributions of galaxy clusters, which are associated with the highest peaks in the matter density field, provide another powerful probe of cosmic structure formation and evolution; thus, the combination of cluster abundances and 3x2pt analysis is expected to yield precise cosmological constraints. In the first part of the talk, I will present a novel multi-probe cluster cosmology analysis, which focuses exclusively on large scales. This new cluster cosmology analysis yields competitive cosmological constraints while being robust against several systematics. I will describe the extensive validation of the measur!
+ ements, modeling, and inferences using N-body simulations populated with galaxies. In the second part of the talk, I will present cosmological constraints from the first joint analysis of cluster abundances and auto/cross correlations of all three cosmic tracer fields measured from the first year of the Dark Energy Survey (DES-Y1). The talk will be concluded by a discussion on the implication of the result, potential improvements, and expected constraining powers in the up-coming DES-Y3 analysis and future wide imaging surveys.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *6PM* next Mon.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Huang, Pin Jie (ASIAA)
+Topic:         Subaru æœ›é é¡ï¼šMCS ä¸»é¡èª¿æ•´æ©Ÿæ§‹èªªæ˜Ž
+Time:         1/6 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+==============================================================================
+
+Date: Mon, 04 Jan 2021 17:51:47 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: [CAG seminar] 2021/Jan/08
+
+Dear all,
+
+We wish you a happy and prosperous new year. This coming Friday, we will
+have prof. Feng-Li Lin from the Department of Physics (NTNU) to talk to
+us about his studies of gravitational waves.
+
+If you wish to reserve for lunch box, please do so before Thursday noon.
+ 
+
+https://forms.gle/cgwXdNScGxTNiHuWA
+
+Best,
+
+Yueh-Ning
+
+------------------------------------------------------------------------
+Speaker: Feng-Li Lin
+Time: 12:20 pm, 2021 Jan. 08
+Venue: B101
+
+Title: Deep Generative Models of Gravitational Waveforms
+
+Abstract:  In this talk I first review the current known approaches of
+generating theoretical waveform templates, and their limitations on the
+efficiency and extrapolating capability. Motivated by these limitations,
+we construct a deep learning generative model of gravitational waveforms
+based on the scheme of variational auto-encoder. I will present our
+preliminary results to demonstrate its potential to bypass the above
+limitations of the conventional approaches.
+------------------------------------------------------------------------
+
+Upcoming CAG events:
+-------------------------------------------------------
+Space Lunch every Thursday 12:20 B413
+2021/Jan/08 17:30 Online seminar: Ian-Lin Lai
+2021/Jan/12 09:45 SE building 8F CAG opening ceremony
+2021/Jan/12 10:50 SE building 5F CAG opening colloquium: You-Hua Chou
+2021/Jan/15 13:20 CAG seminar: Sean Hsu
+2021/Feb/23 14:20 S101 ES colloquium:  Dipen Sahu
+-------------------------------------------------------
+
+-- 
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

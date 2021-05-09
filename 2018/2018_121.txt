@@ -1,0 +1,104 @@
+==============================================================================
+
+In this issue (Aug 07 - 09, 2018)
+
+1. Arizona Radio Observatory - Call for Proposals: 2018B (September 10, 2018)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Aug 13): Chien-De Lee (NCU)
+                              (Aug 15): Mike Alexandersen (ASIAA)
+                              (Aug 16): Chia-Hsun Chuang (KIPAC-Stanford/SLAC)
+
+  [NB: Due to an intermittent internet problem to the TAN server, if you did
+        not see the messages you forwarded to TAN, please send a notice to me
+        directly. Sorry for the inconvenience.  -- YJK (TAN admin)]
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2018B)
+------------------------------------------------------------------------------
+
+Dear Astrophysicists and Astronomers of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the ALMA Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona, and for the 10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for the period October 15, 2018 - February 15, 2019. Proposal candidates from members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should submit up to THREE pages of scientific and technical justification (including figures, tables, and references) in addition to their Proposal Summary Sheet (download form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the Proposal Summary Sheet their requested observing blocks (the exact LST ranges to be scheduled and number of times to be repeated), dates on which they are NOT available to observe, and dates in which sources in those observing blocks are within the Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+The 12m ALMA Prototype antenna currently supports an ALMA Band 3 (82.5-116 GHz) dual-polarization SBS (sideband-separating) receiver.  The 12m control system supports dual-polarization in the same sideband or single-polarization in each sideband ("2 IF mode"), position-switched, beam-switched, and OTF observations.  The new AROWS spectrometer is the recommended backend for 12m observations.  The MAC and Filterbanks are still available; however, the Filterbanks will be decommissioned at the end of the 2018B semester.
+
+The 10m SMT currently supports a dual-polarization ALMA Band 6 (211-280 GHz) receiver with SBS mixers.  Higher frequency receivers will not be available this semester.  The SMT control system supports both dual-polarization ("2 IF mode") and dual-polarization+dual-sideband observations ("4 IF mode") with tunable IF from 4.5-7.5 GHz, for position-switched, beam-switched, and OTF observations. 
+
+Proposal candidates should consult the ARO Equipment Summary and Status sheet at https://www.as.arizona.edu/arizona-radio-observatory for possible backend modes and additional technical specifications.  Remote observing is available. Observers who plan to observe remotely must supply fixed IP address(es) of the computer(s) that will be used during observing on their Proposal Summary Sheet. For further information about remote observing and other operational questions, please contact Tom Folkers, ARO Software Engineer:  tfolkers@email.arizona.edu .
+
+Scheduling of successful proposals will be done according to availability of the receivers requested.  Graduate student participation is especially encouraged. Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by midnight (23:59 CST) September 10, 2018 (Monday).
+
+==============================================================================
+
+> Date: Thu, 9 Aug 2018 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chien-De Lee (NCU)
+Topic:        Be stars ¡X From PTF to ZTF
+Time:        8/13 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+Among the stellar spectral classifications, B-type stars are the fastest rotators with a equatorial speed of approximately 100 km/s.  Some of them showing hydrogen emission line, known as Be stars, can rotate even faster, up to the break-up velocity.  The formation of rapid rotation were thought to be part of the evolutionary effect, however, we found the least correlation between the age of the clusters and corresponding Be fraction through Palomar Transient Factory (PTF) project.  In addition to the issue of evolution, Be stars are known variable stars, but mostly they show heterogeneous semi- or non-regular variation.  Here comes Zwicky Transient Facility (ZTF) with a 47 square degree field of view, so the northern sky can be surveyed with high cadence e.g., over two times a night on galactic plan.  Unlike the individual Be stars monitoring, ZTF provides an opportunity window over three years which makes systemic census possible for the photometric variability investigati!
+ons of Be stars in the deeper sky.  Here, we also present the preliminary light curves of Be stars from the ZTF commissioning data.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Mike Alexandersen (ASIAA)
+Topic: 
+Time:        8/15 (Wednesday) 14:20 - 15:20
+Place:          R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Chia-Hsun Chuang (KIPAC-Stanford/SLAC)
+Topic:        Optimal BAO measurement from galaxies+voids / Robust covariance matrix estimation for clustering measurements
+Time:        8/16 (Thursday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+I would like to talk about our findings regarding how to optimize the Baryon Acoustic Oscillation (BAO) measurements and how to estimate their uncertainties. The results are summarized in two papers :
+
+1) Improving baryon acoustic oscillation measurement with the combination of cosmic voids and galaxies (Zhao, Chuang, et al., arXiv:1802.03990);
+
+2) Robustness of the covariance matrix for galaxy clustering measurements (Baumgarten & Chuang, arXiv:1802.04462).
+
+From paper #1, we find that the BAO measurement can be improved (smaller uncertainty) by > 10% on top of the BAO reconstruction when including the information from voids, i.e. the method increases >20% of survey volume effectively. We have validated the methodology with the final BOSS observed galaxy sample and mock catalogues.
+
+From paper #2, we find the covariance matrix for the 2-point clustering measurement is insensitive to the fiducial cosmology used for generating the mock galaxy catalogues. We obtain the conclusion by generating thousands of mocks with different cosmology models. On the other hand, within the same cosmology model, we find that the covariance matrices for the 2-point clustering statistics are different when varying their higher order statistics. These findings are essential for the data analysis of future surveys.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
+
+
+
+
+

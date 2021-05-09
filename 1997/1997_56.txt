@@ -1,0 +1,81 @@
+From kuan Sun Sep 21 17:06 CST 1997
+Return-Path: <kuan>
+Received: by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA07609; Sun, 21 Sep 1997 16:55:39 +0800
+Date: Sun, 21 Sep 1997 16:55:39 +0800
+From: kuan (Yi-Jehng Kuan)
+Message-Id: <9709210855.AA07609@biaa17.biaa.sinica.edu.tw>
+To: astro@biaa17.biaa.sinica.edu.tw
+Subject: Just a thought
+Content-Type: text
+Content-Length: 2628
+Status: R
+
+----------------------------------------------------------------------------
+Subject: Why Do We Need a Strong Astronomy Program?  Another Aspect
+
+For almost three years, I have been follwoing the VSOP (the VLBI Space
+Observatory Programme) newsletter from Japan.  The newsletter is 
+widely circulated among astronomers worldwide.  However, every once
+a while it contained messages like:
+===
+[Number 40, 7th July 1996]
+TANABATA
+ 
+July 7th is `Tanabata', or the star festival, in Japan. It is said that on
+this one night of the year a couple of lovers on opposite sides of the Milky
+Way, Vega (wife) and Altair (man), meet!
+The just-married Phil Edwards returns to Japan this week: his wife, Leanne,
+will follow next month. This delayed `Tanabata' will bring them together in
+the same side of the Galaxy, and, more specifically, the same side of the
+globe, but hopefully for more than just one night!
+
+[Number 68, 25th July 1997]
+TANABATA
+ 
+July 7th is `Tanabata', the star festival, in Japan. Japanese tradition has it
+that on this one night of the year a pair of lovers forced to reside on
+opposite sides of the Milky Way are allowed to meet. The stars Vega and Altair
+represent Orihime (the weaving princess) and her lover Hikoboshi, respectively.
+These latter two names have also been chosen by NASDA (Japan's National Space
+Development Agency) as the names for two satellites that will be used to
+attempt the first docking of unmanned space vehicles via Earth-based remote
+control. Closer to home, we are pleased to report that the recently-married
+George Moellenbrock has returned to Japan with his wife, Karen. The two will be
+allowed to see each other for more than just one night per year!
+
+[Number 72, 19th September 1997]
+TYPHOONS
+
+September and October are traditionally typhoon season in Japan, though this
+year the typhoons started arriving as early as late June! Earlier this week
+Typhoon no. 19 headed towards Kyushu, causing fears that the 20m antenna used 
+for commanding HALCA and other ISAS satellites might be put out of action by 
+the high winds. Indeed, one tracking pass was lost due to the typhoon, but the
+next day commanding was able to be carried out and co-observing with the EVN 
+went ahead as scheduled. The word `typhoon', by the way, is derived from two 
+Chinese characters: `tai', meaning great, and `fung' meaning wind. The word
+has been slightly modified in Japanese and is pronounced `taifuu'. 
+===
+
+It give us another good reason (other than science:-) to build up a strong
+astronomy project of our own.
+
+Yi-Jehng
+
+----------------------------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		      (or +02-652-2020 ext 224, fax +02-788-1106)
+To check the back issues:	   	 <http://biaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

@@ -1,0 +1,195 @@
+From wchen@astro.ncu.edu.tw Wed Apr  3 12:24 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA20759
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 3 Apr 2002 12:24:47 +0800 (CST)
+Received: from joule.phy.ncu.edu.tw (IDENT:root@joule.phy.ncu.edu.tw [140.115.30.14])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA27903
+	for <astro@asiaa.sinica.edu.tw>; Wed, 3 Apr 2002 12:24:02 +0800 (CST)
+Received: from localhost (wchen@localhost)
+	by joule.phy.ncu.edu.tw (8.11.6/8.11.6) with ESMTP id g334FXl07406
+	for <astro@asiaa.sinica.edu.tw>; Wed, 3 Apr 2002 12:15:33 +0800
+X-Authentication-Warning: joule.phy.ncu.edu.tw: wchen owned process doing -bs
+Date: Wed, 3 Apr 2002 12:15:32 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+X-Sender: wchen@joule.phy.ncu.edu.tw
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: JENAM2002 in Portugal Galactic Dynamics Workshop (fwd)
+Message-ID: <Pine.LNX.4.21.0204031215250.7347-100000@joule.phy.ncu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7536
+Status: RO
+
+
+---------- Forwarded message ----------
+Date: Thu, 28 Mar 2002 03:18:54 +0100
+From: Rainer Spurzem <spurzem@ari.uni-heidelberg.de>
+To: berczik@ari.uni-heidelberg.de, mike@astrophysik.uni-kiel.de,
+     samland@astro.unibas.ch, boehm@uni-sw.gwdg.de, drory@usm.uni-muenchen.de,
+     lutz.haberzettl@astro.ruhr-uni-bochum.de, zeilinger@astro.univie.ac.at,
+     Herwig.Dejonghe@rug.ac.be, corsini@pd.astro.it, naab@mpia-hd.mpg.de,
+     mkissler@eso.org, Harald.Kuntschner@durham.ac.uk,
+     Roberto.Capuzzodolcetta@uniroma1.it, deiters@ari.uni-heidelberg.de,
+     eckart@ph1.uni-koeln.de, mhilker@astro.uni-bonn.de,
+     weilbach@uni-sw.gwdg.de, zasov@sai.msu.ru, bziegler@uni-sw.gwdg.de,
+     afritz@uni-sw.gwdg.de, S.Noll@lsw.uni-heidelberg.de,
+     hopp@usm.uni-muenchen.de, holger@astron.s.u-tokyo.ac.jp,
+     ggentile@astro.uni-bonn.de, eliani@ari.uni-heidelberg.de,
+     binil.aryal@uibk.ac.at, aea@astrin.uzsci.net, rtf@univer.omsk.su,
+     fuchs@ari.uni-heidelberg.de, jesseit@mpia-hd.mpg.de,
+     just@ari.uni-heidelberg.de, telkal@central.ntua.gr,
+     khalisi@ari.uni-heidelberg.de, vik@rsusu1.rnd.runnet.ru,
+     korolov@physic.vgu.tsaritsyn.su, mkt@astrin.uzsci.net,
+     nurit@astrin.uzsci.net, nata@ip.rsu.ru, PALOUS@ig.cas.cz,
+     giovanna.temporin@uibk.ac.at, theis@astrophysik.uni-kiel.de,
+     tsuchiya@ari.uni-heidelberg.de, richard@saiph.ig.cas.cz,
+     demarchi@stsci.edu, afritz@uni-sw.gwdg.de,
+     Roberto.Capuzzodolcetta@uniroma1.it, pgrosbol@eso.org,
+     J.Heidt@lsw.uni-heidelberg.de, huette@astro.ruhr-uni-bochum.de,
+     jaeger@uni-sw.gwdg.de, khmil@aoku.freenet.kiev.ua, martina@mpia-hd.mpg.de,
+     mkonti@astro.noa.gr, dana@inasan.rssi.ru, maier@mpia-hd.mpg.de,
+     meus@tls-tautenburg.de, smuehle@astro.uni-bonn.de, rsiebenm@eso.org,
+     vergani@astro.uni-bonn.de, nat@sed.sao.ru, vo@sed.sao.ru,
+     eduard_vorobev@mail.ru, weilbach@uni-sw.gwdg.de, cwolf@mpia-hd.mpg.de,
+     scharw@ph1.uni-koeln.de, just@ari.uni-heidelberg.de, gdmarchi@eso.org,
+     fxela@glasnet.ru, piotto@pd.astro.it, sleon@mesunb.obspm.fr,
+     crwe@ari.uni-heidelberg.de, sskim@uju.es.pusan.ac.kr,
+     funato@grape.c.u-tokyo.ac.jp, fukushig@grape.c.u-tokyo.ac.jp,
+     kawai@tache.c.u-tokyo.ac.jp, birgitta@astro.ku.dk,
+     screy@galaxy.yonsei.ac.kr, alf@pd.astro.it, licai@qso.bao.ac.cn,
+     nobuo@info.kanagawa-u.ac.jp, klessen@strw.strw.LeidenUniv.nl,
+     wchen@joule.phy.ncu.edu.tw
+Subject: JENAM2002 in Portugal Galactic Dynamics Workshop
+
+
+
+     PLEASE CIRCULATE -------------------PLEASE CIRCULATE
+ ------------------------------NOTE-------------------------------------------
+  If you want to present something in the following workshop please use
+ the pre-registration form of JENAM-2002 at
+
+ http://www.sp-astronomia.pt/jenam2002/pre-registration.html
+
+ and do not forget to click on  WS-GD (our workshop Galactic Dynamics).
+ We, the conveners, will get an automatized  message, so we can contact
+ you in due course.
+ ---------------------------------------------------------------------------
+ SORRY IF YOU GET THIS TWICE - it may happen due to two non-consistent lists
+ ---------------------------------------------------------------------------
+ 
+Workshop on Galactic Dynamics
+
+JENAM 2002, Porto, Portugal September 2--7, 2002
+
+
+We are happy to invite you to take part in a workshop on galaxies and
+galactic dynamics at the JENAM meeting in Porto. This invitation is open
+to all registered participants at JENAM 2002. The costs of the
+participation in the workshop are included in the JENAM registration fee.
+
+Scientific Topics:
+
+The scientific programme of the workshop will be made up from
+contributions by participants; an update of workshop participants and
+titles/abstracts of presentations will be available here.
+
+The topics we propose to cover at this workshop are:
+
+    * The Milky Way.
+    * Galactic nuclei w/without black holes.
+    * Galactic dynamics, including galactic satellites (dwarfs, GC's
+systems).
+    * Stellar dynamics: stellar clusters, open and globular.
+
+Structure of the Workshop:
+
+Crucial to a successful workshop is the need to balance out theoretical
+and observational work. How this is achieved in practice depends on the
+response from participants at the meeting. We will allow for review
+speakers covering the four major themes of the workshop; these 40-minute
+reviews can then be followed by 20 minute talks. Time will also be
+allocated (10 minutes) for poster presentations or, if pressed for time, a
+session chair will be asked to summarise a set of posters.
+
+In as much as this is possible we will seek to attribute space to young
+and experienced researchers randomly in the programme, to help
+interactions.
+
+In this way we can accommodate from 8 to 9 speakers per session, times
+four half-day session. We are leaving out one afternoon as safety against
+time-compression. The (roughly) 36 presentations scheduled would match, or
+approach, what was done at previous JENAM meetings.
+
+We are also looking into the possibility of short demonstrations of data
+reduction packages or simulation software, which could be compressed in
+short presentations to a large audience, or as an open,
+individual-oriented format in a room during a specified afternoon. We have
+specifically laptop-type presentations in mind. If you would be interested
+in such an exercise, please let us know directly.
+
+
+Registration deadlines :
+
+In order to coordinate the programme with the JENAM schedule please check
+all the deadlines for registration set by the LOC. Only registered JENAM
+participants can attend workshops but of course our doors will remain open
+to all of them wishing to contribute.
+
+In addition, we would appreciate if you could also write to the conveners
+(email: jenam2002@ari.uni-heidelberg.de, with subject ``JENAM 2002'')
+directly, stating your name, affiliation and the title of your
+presentation. It is not necessary to write an abstract of your work. If
+you wish to take part in an open session on computer software, please
+mention this briefly in your message: for instance, would you present a
+package yourself or simply attend? This will help us get a feel for
+how many potential participants would take part in such a session.
+
+More details of format and logistics will be provided at the meeting.
+
+We hope to hear from you in Porto!
+
+Contact addresses :
+
+To contact the conveners send an email to jenam2002@ari.uni-heidelberg.de
+
+Workshop url : http://www.sp-astronomia.pt/jenam2002/ws-gd
+
+Workshop Conveners:
+
+      Christian Boily (Strasbourg, France)
+      Panos Patsis (Athens, Greece)
+      Simon Portegies Zwart (Amsterdam, The Netherlands)
+      Rainer Spurzem (Heidelberg, Germany)
+      Christian Theis (Kiel, Germany)
+
+
+Workshop Scientific Organizing Committee:
+
+      L. Athanassoula (Marseille, France)
+      M. Ballcells (IAC, Spain)
+      T. de Zeeuw (Leiden, Holland)
+      O. Gerhard (Basel, Switzerland)
+      G. Gilmore (Cambridge, U.K.)
+      M. Merrifield (Nottingham, U.K.)
+      J. Palous (Prague, Check Republic)
+      G. Piotto (Padova, Italy)
+
+
+
+  The conveners Chris, Panos, Simon, Rainer, Christian
+
+
+
+-- 
+============================================================================
+
+ Rainer Spurzem                      spurzem@ari.uni-heidelberg.de
+
+ Astronomisches Rechen-Institut                   Phone +49-6221-405-230
+ M"onchhofstrasse 12-14, 69120 Heidelberg         Fax   +49-6221-405-297
+
+ http://www.ari.uni-heidelberg.de/mitarbeiter/spurzem/index.html
+
+----------------------------------------------------------------------------
+
+

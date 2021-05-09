@@ -1,0 +1,47 @@
+From jiang@astro.ncu.edu.tw Wed Feb 25 10:32:13 2004
+Date: Mon, 23 Feb 2004 09:56:26 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Astronomy Colloquium 
+
+
+
+                ***********************************
+                |  National  Central  University  |
+                * ------------------------------- *     
+                \_____ Astronomy  Colloquium _____/
+
+
+                  2:00 p.m. 27th Feb. 2004 (Friday)
+              Science Building IV, Conf. Room, Rm 1013
+   
+                            
+              Speaker :  Prof. Yen, Chien-Chang
+                         (Fu-Jen Catholic University/ASIAA)
+         
+              Title : Numerical Simulations For A Gaseous Disk 
+                      Driven By A Bar
+
+              Abstract:
+
+              The high resolution observation make people be able to probe
+              the structures of galactic centeral region today. 
+              A gaseous disk is found in the center region in almost all 
+              normal galaxies.
+
+              We would like to study a gaseous disk driven by a bar, 
+              which consists of stars. Our approach is using numerical 
+              methods. We develop the gas dynamical codes based on Godunov 
+              methods and speed up the calculation of self-gravitation
+              by fast Fourier method. Those numerical results
+              are consistent with one derived by the spiral density wave 
+              theory.
+              
+              In this talk, I will give an introduction of the spiral 
+              density wave theory, numerical simulations for Milky Way,
+              the numerical method for gas dynamical codes and discuss 
+              some problems in numerical simulations.
+
+
+
+

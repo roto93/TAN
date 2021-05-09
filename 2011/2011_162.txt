@@ -1,0 +1,98 @@
+Date: Mon, 17 Oct 2011 18:56:00 +0800   
+From: Sebastien Foucaud <foucaud@ntnu.edu.tw>      
+Subject: Announcement to TAN
+
+Dear Yi-Jehng,
+
+Could you please send the following announcement to the TAN?
+
+Thank you very much,
+Cheers
+Seb
+
+
+-----------------
+
+
+###################################################################
+### First Announcement of 1st TWEA-DC Workshop:                 ###
+### Founding Astroinformatics and Virtual Observatory in Taiwan ###
+###################################################################
+
+Dear all,
+
+As part of our initiative linked to the Taiwan Extragalactic Astronomical Data Center, we are organizing a one-day workshop on Virtual Observatory and AstroInformatics on Monday November, 7 2011, at NTNU Science Campus in room S102A. 
+The goal of the meeting is for Astronomers and Computer scientists to meet and discuss the recent developments of this field in Taiwan. We would like to gather as many interested  people as possible, especially students, and promote our efforts. Furthermore we will use this workshop as a platform to prepare our future efforts (including preparing NSC grants).
+
+The workshop will include:
+(1) review of the latest status of VO in the world
+(2) invited talks from Taiwan and International colleagues the recent development of this field in Taiwan,
+(3) invited review talks from Taiwan colleagues on each potentially interesting scientific topics requiring usage of a Data Center,
+(4) discussion to strengthen our science cases.
+
+Invited review speakers and topics:
+
+Sebastien Foucaud (NTNU)
+Nicolas Kamennoff (ACSEL, France)
+Lin, Lihwai (ASIAA)
+Ngeow, Chow-Choong (NCU)
+Tsai, Meng-Feng (NCU)
+Umetsu, Keiichi (ASIAA)
+Chi-Hung Yan (ASIAA/NTNU)
+
+If you are interested in attending, please e-mail your name, position and institution to Lim, Chen-Fatt (497440180@ntnu.edu.tw) by Tuesday November, 1st, 2011 so that we will be able to arrange lunch. 
+
+Hope to see you in numbers! 
+
+Best Regards,
+Sebastien Foucaud
+on behalf of the organization Committee 
+(Chen, Lin-Wen; Foucaud, Sebastien; Hashimoto, Yasuhiro; Lee, Wolung; 
+Tsai, Meng-Feng; Umetsu, Keiichi)
+
+
+--------------------------------------
+
+1. Program
+2. Lunch boxes
+
+### 1. Program ###
+
+09:30-09:50    Registration and Coffee
+
+09:50-10:00    Opening Remarks (Seb Foucaud)
+10:00-10:30    Present Status of VO and AstroInformatics in the world (Seb Foucaud)
+10:30-11:00    CFHT-WIRCAM data pipeline (Chi-Hung Yan)
+11:00-11:30    BLINK: Billion Lines INdexing in a clicK (Nicolas Kamennoff)
+11:30-12:00    TWEA-DC: the Taiwan Extragalactic Astronomical Data Center (Seb Foucaud)
+
+12:00-13:30    Lunch
+
+13:30-14:00    Transients and Time-variable Astronomy (Chow-Choong Ngeow)
+14:00-14:30    Galaxy evolution (Lihwai Lin)
+14:30-15:00    Large-Scale structure and Cosmology (Keiichi Umetsu)
+15:00-15:30    Database, Clouding computing and peer-to-peer (Meng-Feng Tsai)
+
+15:30-15:45    Coffee Break
+
+15:45-16:45    Discussion per working group
+16:45-17:30    Summary and discussion
+
+
+### 2. Lunch boxes ###
+
+Please register by sending an email to Chen-Fatt Lim and order your lunch box.
+If you require a special diet, please specify!
+
+__________________________________________
+
+
+Prof. Sebastien R.A. Foucaud (??????)
+
+Department of Earth Sciences, National Taiwan Normal University
+No.88, Sec. 4, Tingzhou Rd., Wenshan District, Taipei 11677, Taiwan R.O.C.
+Tel: +886-(0)2-7734-6402
+email: foucaud@ntnu.edu.tw
+http://www.es.ntnu.edu.tw/Foucaud
+__________________________________________
+

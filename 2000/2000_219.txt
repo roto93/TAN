@@ -1,0 +1,144 @@
+From hkchang@phys.nthu.edu.tw Fri Oct 13 07:36 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA20855
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 13 Oct 2000 07:35:31 +0800 (CST)
+Received: from nyx.cc.nthu.edu.tw (nyx.cc.nthu.edu.tw [140.114.63.1])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA20980
+	for <astro@asiaa.sinica.edu.tw>; Fri, 13 Oct 2000 07:39:48 +0800
+Received: from phys.nthu.edu.tw (phux1.phys.nthu.edu.tw [140.114.80.5])
+	by nyx.cc.nthu.edu.tw (Postfix) with ESMTP id 7474D4CCF
+	for <astro@asiaa.sinica.edu.tw>; Fri, 13 Oct 2000 07:29:47 +0800 (CST)
+Received: from phys.nthu.edu.tw (crab5.phys.nthu.edu.tw [140.114.80.139])
+	by phys.nthu.edu.tw (8.9.3/8.9.3) with ESMTP id HAA36551
+	for <astro@asiaa.sinica.edu.tw>; Fri, 13 Oct 2000 07:39:34 +0800 (CST)
+	(envelope-from hkchang@phys.nthu.edu.tw)
+Message-ID: <39E64A39.897757E8@phys.nthu.edu.tw>
+Date: Fri, 13 Oct 2000 07:33:13 +0800
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+X-Mailer: Mozilla 4.72 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: astro@asiaa.sinica.edu.tw
+Subject: [Fwd: National Virtual Observatory - Call for Participation]
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 5737
+Status: R
+
+
+
+-------- Original Message --------
+Subject: National Virtual Observatory - Call for Participation
+Date: Tue, 10 Oct 2000 09:19:20 -0400
+From: Craig Tupper <dtupper@hq.nasa.gov>
+To: oss-research@lists.hq.nasa.gov
+
+Towards a Virtual Observatory
+Call for Participation
+
+Dear Colleague:
+
+The recent National Academy of Science report, Astronomy and Astrophysics
+in the New Millennium, ranked a National Virtual Observatory (NVO) as the
+most important small initiative in astronomy for the 2001-2010 timeframe.
+The NVO would provide a seamless digital sky in all wavelengths based on
+the massive data sets being created now and the even more massive data sets
+yet to come with future surveys and observatories, plus develop new tools
+to explore the data base.  The application of these new tools to this vast
+amount of integrated information would enable a new mode of research for
+astronomers and astrophysicists, as well as provide a powerful opportunity
+for education and public outreach.
+
+In addition to the National Academy report, the community-driven push for
+an NVO is further evidenced in a White Paper submitted to NASA and NSF from
+an ad hoc steering committee toward that purpose.  And in June some 160
+astrophysicists, computer scientists, and technologists participated at a
+conference at Caltech to discuss the scientific motivation and needs, and
+the technical challenges related to conception of an NVO and its global
+equivalent.  (http://astro.caltech.edu/nvoconf/).
+  
+The NASA Office of Space Science (OSS) intends to establish a Virtual
+Observatory (VO) initiative to respond to these recommendations. This
+announcement seeks representatives from the community to serve on the VO
+Science Definition Team, which will be chartered to provide science
+guidance and oversight during the definition phase.  OSS is also seeking
+Concept Papers and other forms of general response from the community for
+OSS to consider in defining and establishing the VO initiative.
+
+A project-like approach will be used to implement this initiative, led by a
+team of a VO Project Scientist and VO Project Manager.  It will be
+conducted in cooperation and coordination with other federal agencies as
+well as with our international colleagues.   There is funding identified in
+the FY01 budget for defining and formulating the initiative, but future
+funding beyond formulation is not assured.    
+
+The intent will be to build on current data archiving and analysis
+capabilities.  But while these and other subsets of VO-like capabilities
+provide a useful experience base to work from, the full realization of the
+seamless integration of our data assets and the tools to explore the vast
+collective parameter space remains an extremely challenging task.  The
+challenges provide a substantial opportunity for effective partnerships
+between the astrophysics and computer science and technology communities.   
+
+The Science Definition Team will act as the community conscience for the VO
+initiative and will assist OSS in developing the science requirements and
+performance metrics, assessing design concepts, implementation plans and
+schedules, and assuring performance.  The Science Definition Team will also
+represent the VO initiative and serve as a liaison to the larger space
+science and computer science communities.
+ 
+Individuals from the community interested in serving on the Science
+Definition Team should respond with a short (approximately 3 page) letter
+of interest and curriculum vitae outlining experience and expertise the
+applicant would bring to the working group.  It should also identify
+aspects of particular interest to the applicant. 
+
+OSS will select a 10-12 person Science Definition Team from the letters of
+interest.  The intent will be to form a balanced and broadly representative
+group across astrophysics and computer science.  
+
+VO Concept Papers should provide a brief (8-10 page) response with general
+reaction to, and ideas, thoughts, and suggestions for the OSS VO
+initiative. This could include science goals and driving needs for the
+initiative, the high-level functional requirements, conceptual design and
+alternative considerations, and first order resource estimates for
+achieving those goals.  Key issues and challenges associated with the
+initiative as well as approaches for resolving them should be outlined.
+Management structure and approaches for the formulation and implementation
+phases should be considered, as well as identification of roles,
+responsibilities, and qualifications for key personnel (project scientist
+and project manager, as a minimum). 
+
+These responses will serve as very important input to OSS in collaboration
+with the Science Definition Team to proceed with the definition and
+formulation of the VO initiative.
+
+Concept Papers and letters of interest for the Science Definition Team
+should be mailed to Joe Bredekamp, Senior Science Program Executive for the
+Virtual Observatory.  His mail address is Code SR, NASA Headquarters,
+Washington, DC 20546.  Copies can also be e-mailed as Word or ASCII files
+to joe.bredekamp@hq.nasa.gov .   For consideration they should be received
+by November 30, 2000.
+
+Sincerely,
+
+
+Dr. Anne L. Kinney                                               Dr. Alan
+N. Bunner                          
+Science Program Director                                    Science Program
+Director
+Astronomical Search for Origins                          Structure and
+Evolution of
+   and Planetary Systems                                        the Universe
+
+---------------------
+
+
+
+-------------------
+
+To subscribe, unsubscribe, or change your address for this list please
+follow the directions at:
+
+http://spacescience.nasa.gov/announce/listserv.htm#research
+

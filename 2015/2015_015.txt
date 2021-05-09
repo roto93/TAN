@@ -1,0 +1,414 @@
+=============================================================================== 
+In this issue (Jan 10 - 16, 2015)
+
+1. Arizona Radio Observatory - Call for Proposals: Spring 2015 (Feb 06, 2015)
+2. Workshop on Icy Grain Chemistry for Formation of Complex Organic Molecules
+  (Mar 5-7; abstract deadline Jan 30)
+3. JCMT Science Workshop on 01/23-01/24 at ASIAA
+4. ARC-Taiwan ALMA Archive is available
+5. Postdoctoral Position in Studies of Obscured Starbursts and AGNs (Feb 06)
+6. Pre-announcement of SMA Call for Proposals (Feb 12)
+7. ASIAA Colloquia/Seminars (Jan 19): Chuan-Chin Lai (ASIAA)
+                            (Jan 21): David Spergel (Princeton Univ)
+                            (Jan 21): Hu, Yen-Sang (ASIAA)
+
+===============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2015)
+------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT), located on
+Mount Graham, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period February 15, 2015 to June 15, 2015. Proposals will
+also be accepted on a limited shared-risk basis for the new ALMA Prototype
+12-meter Telescope (12m) located on Kitt Peak, Arizona. The proposal deadline
+of UCAT/ASIAA for this 2015 spring semester is set on February 06, 2015 (Fri).
+
+The SMT currently supports a dual-polarization, 1-mm (211-275 GHz) receiver
+with ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, and a 0.4-mm (602-720 GHz) dual-polarization receiver with
+ALMA Band 9 mixers. The SMT control system supports both dual-polarization
+("2 IF mode"), and dual-polarization, dual-sideband observations ("4 IF mode"),
+as well as OTF mapping. The new 12m will support ALMA Band 3 dual-polarization
+SBS receiver (84-116 GHz) for this season.
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Information about Remote Observing
+can be viewed at: http://aro.as.arizona.edu/remote/remote.htm/. Graduate student
+participation is especially encouraged. For further information about remote
+observing and operational questions, please contact Tom Folkers, Operations
+Manager at tfolkers@email.arizona.edu .
+
+Proposers should consult the ARO website, http://aro.as.arizona.edu/, for
+technical specifications and to download updated Proposal Summary Sheet 
+templates here: http://aro.as.arizona.edu/proposal_submission_information.htm .
+Proposal candidates are required to list on the Proposal Summary Sheet their
+requested observing blocks (LST ranges), dates on which they are NOT available
+to observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (44 degrees at the SMT).
+
+Proposals should consist of:
+1.  A Proposal Summary Sheet.
+2.  A brief scientific and technical justification (no more than 2 pages).
+3.  A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+
+Electronic submissions will be accepted in PDF format ONLY. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to
+kuan@asiaa.sinica.edu.tw by midnight (23:59 pm CST) February 06, 2015 (Friday).
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+===============================================================================
+
+> From: Hideko Nomura <nomura@geo.titech.ac.jp>
+> Subject: Icy Grain Chemistry for Formation of Complex Organic Molecules
+
+Dear Dr. Kuan, 
+
+I am writing to you about a small workshop 'Icy Grain Chemistry for Formation
+of Complex Organic Molecules: From Molecular Clouds to Protoplanetary Disks,
+Comets and Meteorite' which will be held in Tokyo Tech. during 5-7 March.
+
+Please have a look at the attached announcement and the workshop web site for
+the details. If you could kindly help us to circulate the announcement to those
+who may be interested in the workshop, I shall very much appreciate it!
+
+Thank you very much for your kind consideration. 
+
+
+Best wishes, 
+Hideko 
+
+--- 
+
+Hideko Nomura 
+Department of Earth and Planetary Sciences 
+Tokyo Institute of Technology 
+Tokyo 152-8551, Japan 
+Tel: +81-3-5734-2622 Fax: +81-3-5734-3538 
+Email: nomura@geo.titech.ac.jp 
+
+----------------------------------------------------------------------------
+
+"Icy Grain Chemistry for Formation of Complex Organic Molecules: 
+From Molecular Clouds to Protoplanetary Disks, Comets and Meteorites" 
+March 5 - 7, 2015 at Tokyo Institute of Technology, Japan 
+http://www.geo.titech.ac.jp/lab/nomura/grain_chem/index.html 
+
+*Abstract Submission Deadline : January 30, 2015* 
+
+Thanks to development of infrared and mm/submm instruments, more than 
+170 molecules have been detected in the interstellar medium (ISM). 
+Complexity of the detected molecules is increasing, and now ALMA 
+(Atacama Large Millimeter/submillimeter Array) is challenging to detect 
+amino acids in the ISM. On the other hand, amino acids have been discovered 
+in comets and meteorites in our Solar System, and it is an open question 
+how the complex organic molecules in our Solar System have been formed 
+from the molecules found in the ISM. 
+
+Formation processes of complex organic molecules in space are not 
+understood very well, but grain surface chemistry is thought to play 
+an important role. Modelling grain surface chemistry has been developed 
+for decades, but it still contains many uncertainties due to difficulty 
+in laboratory experiments and theoretical calculations. 
+
+In this workshop we would like to discuss how we can develop chemical 
+reaction network of grain surface reactions/icy mantle reactions based 
+on laboratory experiments and theoretical calculations of basic processes. 
+We aim to understand formation processes of complex organic molecules/ 
+prebiotic molecules found in comets and meteorites through chemical 
+reactions in protoplanetary disks and molecular clouds. 
+
+We look forward to fruitful discussions with participants working on 
+laboratory experiments, theoretical calculations of basic processes 
+and chemical reaction network, astronomical observations of complex 
+organic molecules, and wide range of fields. 
+
+*INVITED SPEAKERS* 
+
+Yuri Aikawa (Kobe University, Japan) 
+Steven Charnley (NASA Goddard Space Flight Center, USA) 
+Jim Cleaves (ELSI, Tokyo Institute of Technology, Japan) 
+Robin Garrod (Cornell University, USA) 
+Eric Herbst (University of Virginia, USA) 
+Kensei Kobayashi (Yokohama National University, Japan) 
+Brett McGuire (NRAO/California Institute of Technology, USA) 
+Tom Millar (Queen's University Belfast, UK) 
+Masatoshi Ohishi (National Astronomical Observatory of Japan) 
+W.M.C. Sameera (Fukui Inst. for Fundamental Chemistry, Kyoto Univ., Japan) 
+Patrice Theule (Aix-Marseille University, France) 
+Catherine Walsh (Leiden Observatory, The Netherlands) 
+Naoki Watanabe (Hokkaido University, Japan) 
+
+
+*SOC* 
+
+Masatoshi Ohishi (National Astronomical Observatory of Japan) 
+Shigeru Ida (ELSI, Tokyo Institute of Technology) 
+Yuri Aikawa (Kobe University) 
+Hideko Nomura (Tokyo Institute of Technology) 
+
+===============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Subject: JCMT Science Workshop on 01/23-01/24 at ASIAA
+> Date: Mon, 12 Jan 2015 14:35:09 +0800
+> Cc: astro@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+    The East Asian Observatory will take over the operation of JCMT from February 1st, 2015. Augmenting the international workshops held at Imperial College London and at NAOJ for the preparation of JCMT science, a local JCMT workshop in Taiwan will be held on January 23-24 at ASIAA.
+
+    The aim of this workshop is for the potential JCMT users in Taiwan to get familiar with the latest telescope information including its operation and instrumentation status and to review the science highlights from previous or ongoing JCMT observations as well as to discuss future (PI- and/or legacy-based) projects. Hands-on sessions for proposal preparation and submission as well as data archive, access, and reduction will be conducted. A tentative schedule is enclosed at the end of this announcement. Information about pre-installation of software on your laptops/computers for the tutorial session will be circulated soon.
+
+    Three scientists from JCMT (Jessica Dempsey, Per Friberg, Harriet Parson) and Gary Fuller from U. of Manchester will be visiting and participating the workshop. 
+
+    Most importantly, contributions from local participants about science proposals are solicited. If you have ideas for projects, you are strongly encouraged to share it with a short presentation in the workshop for discussions and collaborations!
+
+    Please register at the website and let me know if you would like to contribute a presentation. Thanks very much for your attention.
+
+----------------------------------------
+  JCMT Science Workshop
+  Date : 2015 January 23 (Friday) - January 24 (Saturday)
+  Venue : ASIAA Rm 1203
+  Web : "http://events.asiaa.sinica.edu.tw/workshop/20150123/â€œ
+  Agenda :
+    2015 January 23 (Friday)
+
+    9:00 -  9:05    Opening - IAA Director
+    9:05 -  9:10    Introduction and overview - J Dempsey
+    9:10 - 10:00    JCMT telescope and instrument suite - P Friberg
+    10:00 - 10:40    JCMT Operational model overview - J Dempsey
+
+    10:40 - 11:00    Break
+
+    11:00 - 11:30    Creating a project: From Idea to Data - H Parsons
+    11:30 - 12:00    Discussion - Operational Options, Project Planning
+
+    12:00 - 13:30    Lunch
+
+    13:30 - 14:00    JCMT Science highlights and future opportunities - J Dempsey
+    14:00 - 14:20    The Spectral Legacy Survey - G Fuller
+    14:20 - 14:40    Taiwanese Research Proposal
+    14:40 - 15:00    The CO High Resolution survey - J Dempsey
+    15:00 - 15:20    Taiwanese Research Proposal
+    15:20 - 15:40     Galactic Centre - H Parsons
+
+    15:40 - 16:00    Break
+
+    16:00 - 16:20    Taiwanese Research Proposal
+    16:00 - 16:40    Taiwanese Research Proposal
+    16:40 - 17:00    Taiwanese Research Proposal
+    17:00 - 17:30    JCMT Data: from the sky to science
+                    (data accessing, data reduction techniques, CADC archive)
+
+    2015 January 24 (Saturday)
+
+    9:00 - 12:00    Hands-on tutorial 
+            - CADC archive
+            - data reduction
+            - science proposal preparation/submission
+    12:00 -        Adjourn 
+----------------------------------------
+
+    If there is any further question, please feel free to email.
+
+best,
+sheng-yuan
+
+
+===============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: ARC-Taiwan ALMA Archive is available
+> Date: Tue, 13 Jan 2015 21:26:00 +0800
+> Cc: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>    riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear Potential ALMA users,
+
+  Here is an announcement that ARC-Taiwan ALMA Archive is now available at the following link:
+    
+    http://www.asiaa.sinica.edu.tw/~kswang/ALMA/index.html
+
+  ARC-Taiwan ALMA Archive - a website providing preview images and spectra of ALMA archival data
+
+  Using the official ALMA archive system, we have built up an ARC-Taiwan ALMA archive with enhanced functions. Unlike the official archive which provides calibrated visibilities only, we provide direct images and spectra of the data. Our ALMA archive categorizes the data into five research fields which ALMA defines for proposal submission. There are 117 cycle 0 projects in the official ALMA archive and we have processed 46 projects (as of 2015-01-13) which are ready to be explored for archival science. Cycle 1 and future cycle data will also be included once released. People are strongly encouraged to surf the website if you want to do ALMA science from now (archive science) and in the future (cycle 3+ proposal submission). Comments, suggestions, and questions are welcome.
+
+Best Wishes,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+===============================================================================
+
+> Date: Wed, 14 Jan 2015 13:50:09 +0800
+> From: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> CC: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> Subject: Fwd: postdoc ad
+
+Dear Yi-Jehng,
+
+Would you please send out the following message to TAN?
+
+Thank you,
+Satoki
+
+----------------------------------------------------------------------------
+
+Postdoctoral Position in Studies
+of Obscured Starbursts and AGNs
+
+
+Institution Name: Chalmers University of Technology
+
+Email address for inquiries: saalto@chalmers.se
+
+
+Applications are invited for a postdoc position, with a duration
+of up to 2 years, to work with Professor Susanne Aalto
+(saalto@chalmers.se) on a project on obscured starbursts and AGNs
+through a range of observational but potentially also theoretical
+projects relating to the properties of deeply embedded galaxy
+nuclei and their associated in- and outflows.
+You will be working in an extended network of collaboration
+consisting of senior researchers and postdocs - primarily across
+Europe (Sweden, UK, France, Spain, Italy, Germany, The Netherlands)
+but also involving partners in the US, Japan and Taiwan.
+
+
+Applicants should have a PhD in an area of astrophysics that is
+relevant to the research programme outlined above. Experience in
+observational sub-millimetre astronomy, preferably in the areas
+of extragalactic star-formation and AGNs is an advantage.
+
+
+Deadline for application: February 6 2015
+
+
+Applications should be made online via this website:
+
+http://www.chalmers.se/en/about-chalmers/vacancies/?rmpage=job&rmjob=2690
+
+(The above ad hints at a three year limit after PhD for the position
+  – but this does not apply for this postdoc position.)
+
+---------------------------------------------------------------------------
+
+===============================================================================
+
+> From: <takakuwa@asiaa.sinica.edu.tw>
+> Subject: pre-announcement of SMA Call for Proposals; Deadline Feb 12
+> Date: Wed, 14 Jan 2015 18:46:33 +0800
+> To: astro@asiaa.sinica.edu.tw
+
+
+Dear Taiwanese Astronomers,
+
+Here I am forwarding you the pre-announcement of the next SMA call for =
+proposals.
+The deadline is Feb. 12, 2015.
+
+Sincerely,
+Shigehisa Takakuwa
+ASIAA SMA TAC
+
+
+---------- Forwarded message ----------
+> From: Zhang, Qizhou <qzhang@cfa.harvard.edu>
+> Date: Tue, Jan 13, 2015 at 8:26 PM
+> Subject: pre-announcement of SMA Call for Proposals
+> To: sma-science@cfa.harvard.edu, cfa-wide@cfa.harvard.edu
+
+
+Dear Colleagues:
+
+This is a pre-announcement of an upcoming Call for Proposals for
+the Submillimeter Array (SMA), the reconfigurable interferometric array
+of eight 6-m antennas on Mauna Kea jointly built and operated by the
+Smithsonian Astrophysical Observatory and the Academia Sinica
+Institute of Astronomy and Astrophysics. The array operates in the
+230 GHz, 345 GHz and 420 GHz bands.
+
+The proposal deadline for the coming 2015A semester (16 May 2015 -
+15 Nov. 2015) is on 12 Feb 2015. The SMA Observer Center website =
+(http://sma1.sma.hawaii.edu) is expected to be open for
+proposal submission on 20 Jan. 2015.
+
+Best wishes,
+Qizhou Zhang
+SMA TAC Chair=
+
+===============================================================================
+
+> Date: Thu, 15 Jan 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chuan-Chin Lai (ASIAA)
+Topic:         Can We Measure Galaxy Environments with Photometric Redshifts?
+Time:         1/19 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+A variety of methods have been proposed to define and to quantify galaxy environments. While these techniques work well in general with spectroscopic redshift samples, their application to photometric redshift surveys remains uncertain. To investigate whether galaxy environments can be robustly measured with photo-z samples, we quantify how the density measured with the nearest neighbor approach is affected by photo-z uncertainties by using the Durham mock catalogs in which the 3D real-space environments and the properties of galaxies are exactly known. Furthermore, we present an optimization scheme in the choice of parameters used in the 2D projected measurements which yields the tightest correlation with respect to the 3D real-space environments. By adopting the parameters in the density measurements, we show that the correlation between the 2D projected optimized density and real-space density can still be revealed, and the color-density relation is also visible even for !
+a photo-z uncertainty (Ïƒâˆ†z/(1+z)) up to 0.06. We find that a deep (i âˆ¼ 25) photometric redshift survey with Ïƒâˆ†z/(1+z) = 0.02 yields a comparable performance of density measurement to a shallower i âˆ¼ 22.5 (24.1) spectroscopic sample with 40% (20%) sampling rate. Finally, we discuss the application of the local density measurements to the Pan-STARRS Medium Deep survey, one of the largest on-going deep imaging surveys. Using data from âˆ¼ 5deg2 of survey area, our results show that it is possible to measure local density and to probe the color-density relation in the PS-MDS, confirming the simulation results. The color-density relation, however, quickly degrades for data covering smaller areas.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    David Spergel (Princeton University)
+Topic:         Searching for Gravitational Waves in the Microwave Background
+Time:         1/21 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The detection of gravitational waves from the early universe would have a profound impact on our understanding of the early universe and would have
+an important implications for our understanding of fundamental physics.  The BICEP2 team recently claimed to have made the first detection of gravitational waves.  I will suggest that polarized dust is a more likely explanation and discuss the recent results from the Planck satellite.  I will then look forward to upcoming experiments that will use multi-wavelength data to search for gravitational waves.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Hu, Yen-Sang (ASIAA)
+Topic:         Image sensor readout device in OIR
+Time:         1/21 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

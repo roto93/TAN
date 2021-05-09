@@ -1,0 +1,47 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu, 11 Sep 2014 08:00:01 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Charles Ying-Tung Chen (ASIAA)
+Topic:         Solar System Science with HSC
+Time:         9/15 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Wei-Ling Tseng (NTNU)
+Topic:         Exploring Our Solar System with Mass Spectrometry
+Time:         9/17 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+I would like to introduce my research work, which focuses on exploring 1) the Saturnian system (Cassini mission), 2) Mercury’s exosphere (Bepi-Colombo mission) and 3) Earth’s upper atmosphere (AirCore). 
+
+1) The Saturnian system is immersed in the extended clouds of O2, H2O and their fragments like OH, O and H. Although water vapor ejected from Enceladus’ south pole is the dominant neutral source, photolysis and radiolysis of ices can release H2O, O2, and H2 from the icy ring particles and the icy satellites. In addition, Titan’s exosphere is another major source contributing neutral gas like H2 and H. Once ionized, these neutrals will be fed into the thermal plasma disk in the magnetosphere. Most of my work is focused on the simulations of the structures and compositions of the neutral clouds of different origins with a plasma chemistry model based on the latest measurements from the Cassini INMS (Ion and Neutral Mass Spectrometer), CAPS (Cassini Plasma Spectrometer) and MIMI (Magnetospheric Imaging Instrument) instruments.
+
+2) Strofio is a neutral mass spectrometer utilizing with electron-impact ionization, part of the SERENA neutral and ionizing particle suite onboard BepiColombo mission, to explore Mercury’s exosphere. Strofio can measure the in-situ composition of exosphere yielding the spatial distribution and temporal variability of neutral particles. The structure and composition of Mercury’s exosphere is bounded to its surface interaction (i.e., ion sputtering and photo desorption) and magnetospheric processes (i.e., plasma precipitation profile on surface). Leading by Dr. S. Livi (PI of Strofio) in SwRI, we vary the ion extraction efficiency with voltage change inside the ionization source of Strofio which can help us retrieve the energy distribution of parent molecules and their fragments. 
+
+3) AirCore (developed by Dr. P. Tans in NOAA) is an air collection device that has been used for measuring the vertical profiles of trace gas, such as CO2 and CH4, in Earth’s atmosphere. Molecular diffusion in the tube is slow enough that the collected gas remains ordered, and AirCore can provide a continuous vertical profile of the high-altitude measurements. In SwRI, Dr. M. Mandt’s research group has designed a sample-collection package of the AirCore for high altitude measurements on a variety of platforms (i.e., balloons and sounding rockets etc.), focusing on the possible mass fractionation in the tube due to low air pressure and flight velocity.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chueh-Yi Chou (ASIAA)
+Topic:         Metrology Camera System of Prime Focus Spectrograph for Subaru Telescope
+Time:         9/17 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+==============================================================================

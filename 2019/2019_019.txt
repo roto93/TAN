@@ -1,0 +1,37 @@
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: The ALMA Configuration Schedule for Cycles 7, 8, and 9 
+> Date: Wed, 20 Feb 2019 17:21:37 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>     riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+
+Yu-Nung
+
+=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The ALMA Configuration Schedule for Cycles 7, 8, and 9
+Feb 15, 2019
+
+A preview of the Cycles 7, 8, and 9 ALMA Configuration Schedule is now =
+available. This schedule is being released to allow ALMA users to plan =
+their proposal strategy for the next three Cycles. Note that the overall =
+schedule may be modified depending on the outcomes of the proposal =
+review process and the proposal pressure in the different =
+configurations. While configurations C-1 through C-8 (with maximum =
+baselines between 0.16 and 8.5 km) will be offered every cycle, users =
+should note that configurations with baselines longer than 13 km (C-9 =
+and C-10) are scheduled for Cycle 7 and 9 but not Cycle 8.
+
+The Schedule is provided at the following link
+        =
+https://almascience.nao.ac.jp/observing/observing-configuration-schedule/l=
+ong-term-configuration-schedule=
+
+==============================================================================

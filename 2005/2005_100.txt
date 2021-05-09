@@ -1,0 +1,48 @@
+
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+Subject: Special Talk THIS Afternoon (08/16 Tuesday)
+Date: Tue, 16 Aug 2005 11:23:03 +0800
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+Cc: Michael Liu <mliu@ifa.hawaii.edu>, astro@asiaa.sinica.edu.tw
+
+  Dear all,
+
+        Dr. Michael Liu is kindly offering to give another presentation this 
+afternoon at 2:00PM on the topic of laser guide star adaptive optics. 
+The talk will give some background on the technique and showcase some 
+early science results from the Keck LGS AO system.
+
+        Anyone interested in this subject is very welcome to join at Rm 716 
+this afternoon!
+
+  best,
+
+  sheng-yuan
+
+------------------------------------------------------------------
+   Speaker : Dr. Dr. Michael Liu (Institute for Astronomy, U. of Hawaii)
+   Title   : Early Results from Keck Laser Guide Star Adaptive Optics:
+             An Observer's Report from the Front Lines
+   Time    : 08/16 (Tue) 2:00 PM
+   Location: ASIAA Room 716
+   Abstract: LGS AO provides a powerful new instrumental capability for 
+high angular resolution science from ground-based telescopes.  Unlike 
+natural guide star AO systems, which are restricted to observations 
+around bright stars, LGS AO opens up most of the sky to 
+diffraction-limited imaging and spectroscopy at infrared wavelengths.  
+In the near-future, LGS AO will be deployed on all large ground-based 
+telescopes and will provide an enduring platform for high angular 
+resolution science.  LGS AO is also a key component in designs of 
+next-generation extremely large telescopes.
+
+The Keck II Telescope commissioned the first laser guide star (LGS) 
+adaptive optics system on an 8-10 meter class telescope last year.
+The system has been carrying out science observations for several 
+months now, achieving angular resolutions as good as 0.05" FWHM in the
+near-IR, 3-4 time better than Hubble Space Telescope at similar 
+wavelengths.  In this informal talk, I present a brief description of 
+the
+LGS system and its performance, some of the first science results, and 
+some early impressions on its merits and weaknesses from the
+perspective of one of the first scientific users.
+

@@ -1,0 +1,207 @@
+From zhao@biaa5 Thu Sep 19 08:05 CST 1996
+Return-Path: <zhao@biaa5>
+Received: from biaa5.biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA12038; Thu, 19 Sep 1996 08:05:19 +0800
+Received: by biaa5.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA19449; Thu, 19 Sep 1996 07:59:13 +0800
+Date: Thu, 19 Sep 1996 07:59:13 +0800
+From: zhao@biaa5 (Dr. JH Zhao)
+Message-Id: <9609182359.AA19449@biaa5.biaa.sinica.edu.tw>
+To: astro@biaa17
+Subject: iau164 1st mailing
+Cc: zhao@biaa5
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 7161
+Status: O
+
+===================================================================
+
+               I A U   C O L L O Q U I U M   1 6 4
+
+ Radio Emission from Galactic and Extragalactic Compact Sources
+
+           Socorro, New Mexico, USA, 21-26 April 1997
+
+               F I R S T  A N N O U N C E M E N T
+
+                               and
+
+         P R E L I M I N A R Y   R E G I S T R A T I O N
+
+
+This Colloquium will mark the 30th anniversary of the first successful
+experiments in Very Long Baseline Interferometry (VLBI).  This
+technique has developed at a rapid pace, and produced spectacular
+results in a variety of astronomical research areas by steadily
+advancing towards higher resolution, sensitivity, and image quality.
+Several regional arrays and the global VLBI array are routinely
+available, and the first fully dedicated VLBI array, the Very Long
+Baseline Array, is now operating with great success.  The first space
+VLBI mission (VSOP) is underway and expected to begin scientific
+operation in early 1997.  New VLBI antennas, advanced recording
+systems, and new correlators are under construction around the world,
+and new methods for data processing and analysis are being developed.
+
+This meeting will bring together researchers primarily interested in
+the astronomical use of VLBI.  The meeting will provide a forum for
+the discussion of research results from VLBI, and for the formation of
+new technical and scientific ideas that will shape future developments
+in VLBI.  About two thirds of the meeting will be devoted to the
+discussion of recent astronomical results, while about one third will
+focus on software and hardware developments.  There will be invited
+review papers, contributed papers, and posters.  Specialized sessions
+may also be arranged, subject to demand (e.g., discussions of specific
+software or hardware issues).
+
+SPONSORS: The meeting is co-sponsored by Commissions 28 (Galaxies) and
+40 (Radio Astronomy) of the International Astronomical Union, by
+Commission J (Radio Astronomy) of the Union Radio-Scientifique
+Internationale, by the New Mexico Institute of Mining and Technology
+(NMIMT), and by Associated Universities, Inc.
+
+VENUE: The National Radio Astronomy Observatory (NRAO) will host the
+meeting, which will be held in Socorro, 21-26 April 1997, at NMIMT's
+Macey Center.  The Macey Center is adjacent to the NRAO's Array
+Operations Center (AOC).
+
+SCIENTIFIC ORGANIZING COMMITTEE (SOC):
+A. Zensus (azensus@nrao.edu), NRAO, USA [chair]
+L. Gurvits, JIVE, Netherlands and Astro Space Center, Russia
+M. Inoue, National Observatory, Japan
+D. Jauncey, CSIRO, Australia
+J. Moran, Harvard-CfA, USA
+G. Nicolson, Hartebeesthoek Observatory, South Africa
+L. Padrielli, Istituto di Radioastronomia, Italy
+R. Schilizzi, Joint Institute for VLBI in Europe (JIVE), Netherlands
+P. Wilkinson, Nuffield Radio Astronomy Laboratories, England
+A. Witzel, MPI f. Radioastronomie, Germany
+Wu Shenying, Beijing Observatory, China
+
+LOCAL ORGANIZING COMMITTEE (LOC): J. Wrobel (jwrobel@nrao.edu)
+[chair], D. Adler, P. Diamond, V. Dhawan, J. Eilek, T. Romero,
+C. Walker
+
+TRAVEL SUPPORT: There will be limited, and typically only partial,
+travel support available from the IAU and URSI.  These funds will be
+allocated based on review by the SOC and in accordance with the rules
+and procedures of the IAU.
+
+PROCEEDINGS: Proceedings will be published soon after the meeting.
+There will be a tight publication schedule: please be advised that
+your manuscript will be needed by 2 weeks after the end of the
+meeting.  LaTex style files and examples will be made available.
+
+REGISTRATION FEE: Each participant will be asked to pay a registration
+fee, estimated to be about US$ 175.  This fee will cover the cost of
+breakfasts, coffee breaks, lunches, receptions, the conference dinner,
+bus transportation, an abstracts notebook, and a copy of the
+proceedings.  This fee will not cover the cost of hotel rooms or
+commercial airport shuttles.
+
+ACCOMMODATION AND MEALS: A number of rooms in selected Socorro hotels
+have been pre-reserved, and can be booked using the final registration
+form.  The registration fee for the meeting includes breakfasts,
+lunches, and the conference dinner.
+
+TOURS: A day has been set aside for optional tours of the NRAO
+facilities at the AOC, at the Very Large Array, and at the Very Long
+Baseline Array's station at Pie Town, New Mexico.
+
+TARGET DATES:
+01 Aug 96 - Deadline for return of preliminary registration form.
+01 Sep 96 - Second mailing, including preliminary program and final
+            registration form.
+01 Nov 96 - Deadline for return of final registration form, including
+            abstract submission and application for travel assistance.
+01 Mar 97 - Third and final mailing, including program.
+21-26 Apr 97 - IAU Colloquium 164, Socorro, New Mexico, USA
+
+PRELIMINARY MEETING SCHEDULE:
+21 Apr 97 (Monday   ) - Arrival of participants, evening registration.
+22 Apr 97 (Tuesday  ) - Oral and poster sessions.
+23 Apr 97 (Wednesday) - Oral and poster sessions.
+24 Apr 97 (Thursday ) - Tours.
+25 Apr 97 (Friday )   - Oral and poster sessions, conference dinner.
+26 Apr 97 (Saturday ) - Oral and poster sessions, early departure.
+27 Apr 97 (Sunday   ) - Departure of participants.
+
+MORE INFORMATION: Updated meeting information will be made available
+on the World-Wide Web by selecting "Meetings" from the NRAO home page
+(http://www.nrao.edu/).  More details will also be disseminated in the
+second and third mailings.  All further questions should be sent by
+electronic mail to iau164@nrao.edu.
+
+PRELIMINARY REGISTRATION: If you are interested in attending this
+meeting, please extract and complete the preliminary registration form
+below and return it by the deadline and means indicated.
+
+
+Anton Zensus
+Joan Wrobel
+
+14 June 1996
+
+(begin form) 
+*********************************************************************
+14 June 1996
+
+               I A U   C O L L O Q U I U M   1 6 4
+
+ Radio Emission from Galactic and Extragalactic Compact Sources
+
+           Socorro, New Mexico, USA, 21-26 April 1997
+
+         P R E L I M I N A R Y   R E G I S T R A T I O N
+
+Last Name    :
+First Name(s): 
+Affiliation  :
+Telephone    :
+FAX          :
+Electronic Mail Address:
+Paper Mail Address     :
+
+Please indicate your preferences by changing ___ to _x_ below:
+___ I definitely plan to attend the meeting.
+___ I am interested in the meeting, but I do not know if I will 
+    be able to attend.  Please send me the second mailing anyway.
+___ I would like to give a paper with the following preliminary 
+    title:
+    ___  I would prefer to give an oral contribution.
+    ___  I would prefer to give a poster contribution.
+
+Comments:
+
+
+Please complete this form and return it by 1 August 1996, via either
+electronic mail (preferred) to
+   iau164@nrao.edu, 
+or by FAX to 
+   Ms. Terry Romero at +1-505-835-7027 (voice: +1-505-835-7000), 
+or by paper mail to 
+   IAU Colloquium 164, c/o Ms. Terry Romero, 
+   NRAO, P. O. Box O, Socorro, NM 87801, USA
+*********************************************************************
+(end form) 
+
+=====================================================================
+(end first mailing)
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+Please pass the words of the existence of TAN to people who you think should 
+be included.
+ 
+To send a message to entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:                kuan@sinica.edu.tw
+                              (or +02-789-9818 ext 224, fax +02-788-1106)
+To check archives:              <http://biaa1.biaa.sinica.edu.tw:80/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+----------------------------------------------------------------------------
+

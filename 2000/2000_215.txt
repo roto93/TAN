@@ -1,0 +1,63 @@
+From kyl@asiaa.sinica.edu.tw Sun Oct  8 22:27 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA10396
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 8 Oct 2000 22:27:08 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA01038
+	for <astro@asiaa.sinica.edu.tw>; Sun, 8 Oct 2000 22:32:09 +0800
+Date: Sun, 8 Oct 2000 22:21:27 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: gbtnews (fwd)
+Message-ID: <Pine.SOL.4.10.10010082221170.27815-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1618
+Status: R
+
+
+---------- Forwarded message ----------
+Date: Tue, 3 Oct 2000 10:56:40 -0400 (EDT)
+From: Dana Balser <dbalser@gb.nrao.edu>
+To: dbalser@sadira.gb.nrao.edu
+Subject: gbtnews
+
+
+Dear Colleague:
+    We have established an email exploder called "gbtnews" for the
+dissemination of information about the new Green Bank Telescope.  You
+should have just received a notice for the first call for Early Science
+proposals for the GBT.  In the future, such proposal calls will come
+through gbtnews, which will also contain GBT status reports, milestones
+achieved, the availability of new instruments or capabilities, and other
+such announcements.  This information will also be posted on the NRAO web
+pages (www.nrao.edu).
+
+To be placed on the gbtnews distribution list, you must subscribe to it,
+which is a two-step process.  First, send email to 
+
+	majordomo@majordomo.cv.nrao.edu
+
+In the body of the email (not in the subject line), enter the line
+
+	subscribe gbtnews
+
+You will then receive an email authentication notice asking you to confirm
+that you wish to join gbtnews.  Follow the instructions, which ask you to
+reply with the lines listed in the body of the email, which are of the
+form
+
+	auth <code> subscribe gbtnews \
+        your_email_address
+
+No further general distribution emails on the GBT will come to you if you
+do not subscribe to gbtnews.  If you wish, you can unsubscribe from
+gbtnews at any time according to the instructions provided.  News on the
+GBT will also appear in the NRAO Newsletter (issued quarterly) as well as
+on the NRAO web pages. 
+
+					Dana Balser (dbalser@nrao.edu)
+					'gbtnews' Editor
+
+

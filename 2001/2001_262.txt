@@ -1,0 +1,169 @@
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id TAA24683
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 6 Dec 2001 19:50:28 +0800 (CST)
+Received: from iaa1 (kyl@iaa1 [140.109.177.7])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA04004
+	for <astro@asiaa.sinica.edu.tw>; Thu, 6 Dec 2001 09:31:10 +0800 (CST)
+Date: Thu, 6 Dec 2001 09:33:47 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: BIMA Call for Proposals (fwd)
+Message-ID: <Pine.SOL.4.10.10112060933450.26901-100000@iaa1>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Research Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+Postal Address:				Phone: 886-2-3365-2200 ext 700
+ASIAA, P.O. Box 23-141,			Fax: 886-2-2367-8405
+Taipei 106, Taiwan, ROC                 Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Wed, 5 Dec 2001 14:59:39 -0600 (CST)
+From: bimasched@astro.uiuc.edu
+To: laiusers Explode <laiusers@astro.uiuc.edu>,
+     lmausers Exploder <lmausers@astro.umd.edu>,
+     ralusers Exploder <ralusers@astron.berkeley.edu>,
+     bimaext Exploder <bimaext@astro.uiuc.edu>,
+     ASIAA Taiwan Group <iaa_ast@asiaa.sinica.edu.tw>
+Subject: BIMA Call for Proposals
+
+
+BIMA: Call for Proposals (Spring 2002 observing)
+
+Proposal Deadline
+
+Wednesday, January 16, 2002 (11:59 pm CST) is the deadline for BIMA proposals
+requesting use of the 10-element interferometer for B, C, and D
+arrays at 3 mm and 1 mm for the period March 2002 through June 2003.  
+Proposers should note that the amount of time suitable for B-array 
+observations in the upcoming cycle is expected to be extremely limited.
+
+
+
+Warning
+
+We often receive proposals that will not process correctly. We have neither
+the time nor the personnel to deal with these errors. For your convenience,
+a list of some errors people have made has been added to the Instructions
+for BIMA Observing Proposals. Any proposal containing one of these errors is
+subject to being summarily dropped from consideration. If we can't process
+it, we can't send it to the referees, and you won't get observing time! It
+is as simple as that. We recommend that you Latex the final version of your
+proposal, proofread it carefully, and then follow the submission
+instructions exactly.
+  ------------------------------------------------------------------------
+
+General Reminders
+
+  1. Use new version 1.9 of bimaprop.tex and bimaprop.sty.
+  2. Standard track lengths in A, B, and C arrays are 8 hours or the time
+     the source is at least 12 degrees above the horizon, whichever is
+     least. Projects requiring additional integration time should request
+     (and justify the need for) multiple tracks. If you need less than a
+     full track, specify this via the min-max hours. A short track is not
+     the same thing as a Filler track. Filler tracks take lower priority and
+     will be fit into the schedule only when there are open slots in the
+     desired LST range.
+  3. Projects requesting A array time should first obtain B array data. This
+     is necessary in order to assess the feasibility of the A array
+     observations and to aid in planning optimal observing strategies. Your
+     technical justification should address the issues of feasibility and
+     strategy.
+  4. D array tracks generally should be shorter than standard A, B, and C
+     array tracks. D array gives dense coverage of the inner uv plane in 2-3
+     hours. Longer tracks may be desired with weak sources or when mosaicing
+     large areas. However, shadowing in D array becomes severe away from the
+     meridian at certain declinations. D array tracks should be no longer
+     than 3 hours south of -10 degrees and no longer than 2 hours south of
+     -15 degrees.
+
+Click on WHAT'S NEW? for further information.
+  ------------------------------------------------------------------------
+
+Projects involving more than 5 tracks per configuration must be submitted as
+"Key" proposals. See WHAT'S NEW? for the policy on Key proposals
+
+Due to weather constraints, 1 mm observing time is very limited and not
+guaranteed. Projects at 1 mm are best done with a collaborator at one of the
+BIMA institutions.
+
+Are you on a BIMA email exploder? If not, and you wish to be kept informed
+about scheduling and other matters, send email to bimasched@astro.uiuc.edu
+asking that your name be added to the exploder.
+  ------------------------------------------------------------------------
+
+Electronic submission process
+
+Be sure to download the latest LaTeX Proposal Style file bimaprop.sty and
+LaTeX Proposal Cover Sheet bimaprop.tex (version 1.9, updated 04/17/00)
+before preparing your proposal. At the top of both forms is the version
+number and date.
+
+For more details, see proposal procedures. In Brief:
+
+  1. Email your filled-in LaTex coversheet form to
+     ``bimaprop-submit@astro.uiuc.edu''
+  2. Wait for a response from the automated BIMA email handler. The response
+     will inform you of the proposal ID number assigned to your proposal.
+     Take a note of this proposal ID number.
+  3. Then if you have any Additional Files, the response will also instruct
+     you how to submit them.
+
+  ------------------------------------------------------------------------
+Helpful Interactive Resources:
+
+   * How To Determine A Sensitivity Based HA Range
+   * Rms Noise Calculator
+   * Double sideband receiver temperatures
+   * Latest measurements of the 15 brightest calibrators
+   * BIMA Calibrator Locater
+
+  ------------------------------------------------------------------------
+
+Detailed information on the technical capabilities of the instrument and the
+proposal procedures are available by the following electronic methods:
+
+  1. The BIMA Web server: http://bima.astro.umd.edu. Click here to view the
+     instructions directly.
+  2. By email: (This is an automated service; do not send questions here.)
+     a) For a single-file summary of instructions, send email to
+     bimaprop-info@astro.uiuc.edu.
+     b) For basic proposal materials, send email to
+     bimaprop-request@astro.uiuc.edu. The materials will be returned to you
+     in several messages.
+  3. By anonymous ftp to ftp.astro.uiuc.edu . Change into the
+     pub/BIMA/proposal directory and consult the README and
+     call_for_proposals.txt files to determine which files you need.
+
+  ------------------------------------------------------------------------
+Please send comments and questions to:bimasched@astro.uiuc.edu or
+bimaprop@astro.uiuc.edu
+  ------------------------------------------------------------------------
+
+========================================================================
+BIMA SCHEDULER 			 		bimasched@astro.uiuc.edu
+Department of Astronomy				FAX:   (217)244-7638
+1002 W. Green St.				
+University of Illinois
+Urbana, IL 61801
+
+Robert Gruendl					Phone: (217)244-4209
+========================================================================
+
+
+
+
+
+--TAA24684.1007639481/iaa17.asiaa.sinica.edu.tw--
+

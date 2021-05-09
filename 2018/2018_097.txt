@@ -1,0 +1,44 @@
+
+> from: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> to: astro@asiaa.sinica.edu.tw
+> date: Thu, Jun 28, 2018 at 4:10 PM
+> subject: TTTT seminar on 11 July at NTHU
+
+Dear all, 
+
+We will have TTTT seminar at NTHU on 11 July given by 
+Prof. Hiroyuki Hirashita in Academia Sinica. 
+If you have a request of skype connection, please contact to
+tetsuya@phys.nthu.edu.tw
+
+Title: Theoretical modeling of dust evolution in galaxies
+
+Speaker: Prof. Hiroyuki Hirashita (平下博之)
+
+Time: 12:20-13:00pm 11th July (Wednesday) 
+
+Venue: R501, IoA, 5th floor in the 2nd General Building 
+
+Abstract: The evolution of dust in the interstellar medium is one of 
+the most important aspects in galaxy evolution. For the evolution of 
+dust, it is important to clarify the dust amount and the dust properties 
+(especially the grain size distribution). We modeled the evolution of 
+these two aspects in a consistent framework and proposed the following 
+dust evolution scenario: Dust formation in stellar ejecta is important for 
+the dust enrichment in the early stage of galaxy evolution or in the 
+metal-poor phase. The subsequent evolutions of dust amount and grain 
+size distribution are governed by interstellar processing of dust. Especially, 
+grain disruption by shattering and dust growth by accretion enhance the 
+abundance of small grains while coagulation pushes those created small 
+grains to large sizes. We also show that the above processes governing 
+dust evolution have a variety of impacts on some observable quantities 
+such as extinction curves. I also talk about our recent efforts of 
+implementing the above dust evolution processes into hydrodynamical 
+galaxy evolution simulations. We have recently implemented dust evolution 
+into a cosmological simulation, based on which we are able to predict the 
+dust evolution over a cosmological time and volume.
+
+With best regards,
+Tetsuya Hashimoto
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

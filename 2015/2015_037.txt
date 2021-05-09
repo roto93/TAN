@@ -1,0 +1,35 @@
+> Date: Thu, 19 Feb 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Paulo Freire (Max Planck Institute for Radio Astronomy)
+Topic:         Testing general relativity and alternative theories of gravity with binary pulsars
+Time:         2/24 (Tuesday) 15:20 - 16:20
+Place:         R1203
+Abstract:
+The last decade has witnessed a revolution in tests of general relativity using binary pulsars. First, the discovery of the "double pulsar", PSR J0737-3039, has greatly improved the quality (and quantity) of tests of general relativity possible with double neutron star systems. In particular, it has greatly improved the famous test of the emission of gravitational waves, which was originally carried out with the Hulse-Taylor binary pulsar, PSR B1913+16. In this talk I review some of the basics on pulsars and neutron stars, discuss the basics of pulsar timing and discuss in detail these classical tests and their  results, with a particular emphasis on the upcoming results from the double pulsar.
+    Second, the discovery of several tight binary millisecond pulsar systems with optically bright white dwarf companions like PSR J1738+0333 and PSR J0348+0432 has allowed extremely constraining tests of alternative theories of gravity from the combination of radio pulsar timing and optical spectroscopy of the white dwarf companion. In this talk I discuss this new technique and present some of the results, their constraints on alternative theories of gravity, and future prospects for improvements. If time allows, I will also mention some of the constraints on violations of the local Lorenz invariance of gravity.
+    In the last part of the talk I discuss future and more powerful tests of GR with pulsars. The first one is a test of the strong equivalence principle (SEP) using the new millisecond pulsar in a triple star system, PSR J0337+1715. The second is a very precise test of the no-hair theorem for black holes with a hypothetical pulsar orbiting the super-massive black hole at the center of our Galaxy.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Kevin Walsh (Southwest Research Institute (SwRI))
+Topic:         Planet Formation 2.0 - From Planetesimals to Planets
+Time:         2/25 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Models of each stage of planet growth have mostly been successful at identifying the important physics in different regions of space at different times. The earliest stages are dominated by small-body physics, where sub-km-size bodies collide with each other and also interact with the gaseous solar nebula. Later, the gravitational interaction between planetary
+embryos on long timescales becomes more important. However, splitting the problem into different stages, each modeling subsets of the total physics, has an inherit weakness - planet growth does not progress at the same speed at all locations. Rather the inner regions of the Solar System may have many gravitationally interacting planetary embryos, while outer regions are still dominated by small-body collisions. Indeed, it has been recently shown that performing these simulations in a piecemeal way can lead us to fundamentally wrong conclusions about how the planets formed.
+
+Here we present simulations of planet formation from km-sized planetesimals all the way to planets. Using a particle-based code that models the fragmentation, accretion and dynamical evolution of a large number of planetesimals through the entire growth process we avoid the pitfalls of the classical piece-wise approaches. We generally find growth timescales that are far more dependent on distance from the Sun than previously expected. This leads to giant collisions between planetary embryos at 1 AU before Ceres-sized embryos have formed beyond 2 AU. We use these results to test classical models of Terrestrial Planet formation, including the recent Grand Tack model.
+
+===============================================================================

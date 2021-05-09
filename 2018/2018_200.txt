@@ -1,0 +1,68 @@
+
+> Date: Thu, 13 Dec 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        PC Yu (NCU)
+Topic:          Searching for  Intraday Variability of QSOs using High-Cadence Wide-Field Survey
+Time:           12/17 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Investigation of variability is a powerful tool to understand the nature and process in the inner nuclear regions of AGNs. Variability can range time scales from intraday to years. However, variability on intraday timescales in AGNs is puzzled. Mechanisms for intraday variability include shock-in-jets models and instabilities of accretion disks. To extend the sample of AGN with intraday variability, we searched for intraday variability in ~3600 QSOs using high-cadence (20 mins) data of PTF/iPTF survey. I will present current preliminary results and status. Also, I will introduce future plans of using Zwicky Transient Facility (ZTF)  data with a 47 square degree field of view (,and LSST) for this project.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Robin Dong (University of Victoria)
+Topic:          
+Time:           12/19 (Wednesday) 14:20 - 15:20
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Benjamin Horowitz (UC Berkeley)
+Topic:          Optimal Reconstruction of Cosmological Density Fields: Examples from Lyman Alpha Forest Tomography and Weak Lensing
+Time:           12/20 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In this talk I will discuss recent and ongoing work on reconstructing density fields from cosmological observations. Starting with a toy example to establish the maximum likelihood formalism, I will then apply it to three dimensional intergalactic medium (IGM) interpreted from lyman alpha absorption lines in the spectra of high redshift sources. Unlike standard galaxy redshift surveys which can trace the nearby universe (z<0.2), IGM tomography provides accurate maps at ``Cosmic Noon'' (z~2.0), capturing galaxies at a critical early time in their formation. By utilizing a maximum likelihood approach, I show that it is possible to reconstruct the initial density field of observed regions and potentially provide a new probe of astrophysical processes. Time permitting, I will discuss applying these techniques to galaxy weak lensing surveys where they can be used to optimally extract cosmological information even in the presence of severe instrumental systematics.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        A. Gopakumar (Tata Institute of Fundamental Research)
+Topic:          Blazar OJ287 and its nano-Hertz GW emitting massive BH binary central engine
+Time:           12/21 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Blazars are active galactic nuclei with strong jets. They tend to
+exhibit dramatic and unpredictable flux variations, namely
+outbursts.Certain observed outbursts from an exceptional Blazar OJ287
+can be explained by invoking a massive  black hole binary as its
+central engine. Detailed General Relativistic modeling allowed us to
+predict a major optical outburst during November 2015. The outburst
+did occur within the expected time range, peaking on 5/12/2015. A
+multi-wavelength observational campaign confirmed the  occurrence of
+certain impact flare and the presence of a major thermal component in
+the flare, as predicted. These observations and subsequent analysis
+allowed us to establish the presence of a spinning supermassive black
+hole binary that spirals in due to the emission of nano-Hertz
+gravitational waves in the central engine of OJ287.
+I will  briefly list our on-going efforts that should be interesting
+to the Event Horizon Telescope consortium and the International Pulsar
+Timing Array.
+
+
+==============================================================================

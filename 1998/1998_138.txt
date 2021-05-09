@@ -1,0 +1,163 @@
+From kyl@asiaa.sinica.edu.tw Mon Jul  6 23:05:48 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA07562; Mon, 6 Jul 1998 23:01:35 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id WAA06263; Mon, 6 Jul 1998 22:59:59 +0800
+Date: Mon, 6 Jul 1998 22:59:59 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: IRAM Newsletter (fwd)
+Message-Id: <Pine.GSO.3.96.980706225954.6252A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4874
+Status: R
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 6 Jul 1998 11:51:19 +0100
+From: NEWSSERV mailing list <newsserv@iram04.iram.fr>
+To: perrigou@iram.grenet.fr, WILNER@cfa.harvard.edu, robert@cfa.harvard.edu,
+    awootten@nrao.edu, jmangum@nrao.edu, sradford@nrao.edu, planesas@oan.es,
+    alcolea@oan.es, codella@oan.es, cesa@arcetri.astro.it,
+    kyl@astro.uiuc.edu, kahane@obs.ujf-grenoble.fr,
+    forveill@obs.ujf-grenoble.fr, duvert@obs.ujf-grenoble.fr,
+    jewitt@murk.ifa.hawaii.edu, luu@cfa206.harvard.edu,
+    WKPG@starlink.roe.ac.uk, vallee@hiaras.hia.nrc.ca,
+    lorne@hiaras.hia.nrc.ca, kstrom@donald.phast.umass.edu,
+    andre@sapvxa.cern.ch, p633dim@mpifr-bonn.mpg.de,
+    p003wal@mpifr-bonn.mpg.de, guesten@mpifr-bonn.mpg.de,
+    p393edi@mpifr-bonn.mpg.de, p591hau@mpifr-bonn.mpg.de,
+    p713hwi@mpifr-bonn.mpg.de, p417con@mpifr-bonn.mpg.de,
+    p166she@mpifr-bonn.mpg.de, p073twi@mpifr-bonn.mpg.de,
+    ub@mpifr-bonn.mpg.de, kruf@mpifr-bonn.mpg.de, rchini@mpifr-bonn.mpg.de,
+    p181bck@mpifr-bonn.mpg.de, p044pre@mpifr-bonn.mpg.de,
+    michael@oso.chalmers.se, anders@oso.chalmers.se, tommy@oso.chalmers.se,
+    hans@astro.su.se, vlangeve@strw.leidenuniv.nl
+Subject: IRAM Newsletter
+
+-------------------------------------------------------------
+Message Number:     15
+Originally From:    SMTP%"pub@iram.fr"
+-------------------------------------------------------------
+
+
+
+
+
+   To IRAM users:
+
+
+   A new issue (Num.  36, July 1998) of the IRAM Newsletter has
+appeared:
+
+
+   http://iram.fr/newsletter/jul98/jul98.html (HTML version)
+
+
+   http://iram.fr/newsletter/jul98/jul98.ps (Postscript version)
+
+
+   It contains the following sections:
+
+
+- Editorial
+- Installation of the #1 Dual-channel Receiver at the 30-m Telescope.
+- Observations with DIABOLO at the 30m telescope
+- Call for Observing Proposals on the 30-m Telescope
+- Call for Observing Proposals on the Plateau de Bure Interferometer
+- Scientific results
+- New Preprints
+- Vacant Position
+
+
+
+   The IRAM Newsletter is available in electronic form:
+
+
+
+  o on the World Wide Web, using e.g.  Netscape of NSCA Mosaic:
+    you may use the direct links mentioned above, or the reach it from
+    the IRAM Home page (http://iram.fr/) and follow the links to the
+    last issue for the Newsletter, or other new items ...
+
+  o by means of an anonymous FTP account, opened at IRAM for In-
+    ternet users, containing in a read-only public area the most recent
+    issues of the IRAM Newsletter, as well as documentation on the
+    IRAM telescopes and on reduction software, distribution files for
+    reduction software, files for proposal preparation, ... etc. To access
+    those files, please connect through ftp to iram.fr (or 193.48.252.22),
+    go to directory dist/newsletter, and read the README file.
+
+  o on electronic mail, by means of an electronic mail file server in-
+    stalled at IRAM. This file server is a file distribution service that
+    uses electronic mail facilities to deliver files. To communicate with
+    it you should send a message to the electronic address:
+
+
+    newsserv@iram.grenet.fr
+
+
+    For instance, to obtain a copy of this issue, just send the one line
+    message:
+
+
+    sendme jul98.ps
+
+
+    to the above electronic address. You will receive later a mail mes-
+    sage containing the IRAM Newsletter in postscript code.  Just
+    discard all the e-mail header information with a text editor, and
+    send the file to a postcript laser printer.
+    More information may be obtained by sending the simple one line
+    message:
+
+
+    HELP
+
+
+    Note that the file server also contains Postcript files for the pro-
+    posal forms (PROPOSAL.30M and PROPOSAL.INTER), as well
+    as a Latex source file (PROPOSAL.STY) to prepare proposals.
+
+   The above address is valid on Internet. Please keep me informed of
+any problem you may encounter.
+
+
+
+                                1
+================== RFC 822 Headers ==================
+Return-Path: pub@iram.fr
+Received: by iram04.iram.fr (UCX V4.0 AXP);
+	Mon, 6 Jul 1998 11:07:26 +0100
+Received: from (pub@localhost)
+          by iraux2.iram.fr (8.8.5/jtpda-5.2) id KAA07651
+          for newsserv@iram.grenet.fr; Mon, 6 Jul 1998 10:54:57 +0200 (METDST)
+From: pub@iram.fr (Edition account)
+Message-Id: <199807060854.KAA07651@iraux2.iram.fr>
+Subject: IRAM Newsletter
+To: newsserv@iram.grenet.fr
+Date: Mon, 6 Jul 1998 10:54:49 +0200 (METDST)
+X-Mailer: ELM [version 2.4 PL24]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+

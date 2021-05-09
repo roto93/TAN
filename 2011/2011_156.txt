@@ -1,0 +1,50 @@
+From tcchang@asiaa.sinica.edu.tw Sun Oct  2 08:00:10 2011
+Date: Sun, 2 Oct 2011 08:00:02 +0800
+From: Tzu-Ching Chang <tcchang@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu, web@asiaa.sinica.edu.tw
+Subject: Colloquium/special seminar this week
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Prof. Len Cowie (University of Hawaii)
+Topic:		Lyman alpha emitters from redshifts zero to seven
+Time:		10/7 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+In studying very high redshifts we only have two diagnostics: the UV continuum and the Lyman alpha emission line. The fraction of Lyman alpha emitters (LAEs) relative to UV-continuum sources has been suggested as a potential diagnostic of the evolution in the properties of the intergalactic gas.  However, our understanding of the mechanisms governing the escape of Lyman alpha photons from galaxies is poor. I will discuss recent low redshift studies which allow us to study the properties of the LAES in great detail and which have found that LAEs are chosen from young and low-metallicity galaxies, so we might expect a high fraction of galaxies to be LAEs at very high redshifts.  However, the current data on the fraction of galaxies that are LAEs at z>6 are confused.  It may be that the fraction at z~6.5 is almost identical to that at z~3, which would suggest that we have not yet hit the point where the LAE fraction begins to change.  Deep X-ray studies also do not seem to show!
+  much evidence for metal evolution, but we cannot quite get to the highest redshift (z~6) sources, even with the 4 Ms Chandra data.
+
+
+
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:	Prof. Evgeny (Uri) Griv (Ben-Gurion University of the Negev)
+Topic:		Waves and Their Instabilities in Astrophysical Disks
+Time:		10/4 (Tuesday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+Self-gravitating disk systems (disk-shaped galaxies, disks around massive
+objects, protostellar and protoplanetary clouds, planetary rings) are of
+great interest in astrophysics because of their widespread appearance. Such
+rapidly and nonuniformly rotating flat systems are highly dynamic and are
+subject to various collective instabilities of small-amplitude gravity
+perturbations (e.g., those produced by a spontaneous disturbance or, in rare
+cases, a companion system). This is because their evolution is primarily
+driven by angular momentum redistribution. The system may then fall toward
+the lower potential energy configuration and use the energy so gained to
+increase its coarse grained entropy. In this talk, I review recent studies
+of dynamics of astrophysical disks with special emphasis on their ring
+and/or spiral structures. I show that because of the long-range nature of
+the gravitational forces between particles, a self-gravitating disk exhibits
+collective (or cooperative) modes of motion -- waves in which the particles
+in large regions move coherently or in unison. The evolution of strophysical
+disks would depend on the ring and spiral structures produced in the system
+through internal instabilities of waves. The extent to which our results on
+the disk's stability can have a bearing on observable astrophysical disks is
+discussed as well.
+

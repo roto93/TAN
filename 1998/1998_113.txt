@@ -1,0 +1,173 @@
+From kyl@asiaa.sinica.edu.tw Fri May 29 07:55:47 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA08927; Fri, 29 May 1998 07:50:29 +0800
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA02401; Fri, 29 May 1998 07:49:00 +0800
+Date: Fri, 29 May 1998 07:49:00 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: The JIVE Newsletter (fwd)
+Message-Id: <Pine.GSO.3.96.980529074858.2395A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5020
+Status: R
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Thu, 28 May 1998 16:19:19 +0200 (MET DST)
+From: Harro Verkouter <verkouter@jive.nfra.nl>
+To: vlbi@cv3.cv.nrao.edu
+Subject: The JIVE Newsletter
+
+
+
+ ----++++====   The JIVE Newsletter,  Year 1998, Number 1 ====++++----
+
+
+
+Dear All,
+
+
+This is the first issue of the JIVE newsletter. The JIVE newsletter is
+intended for those interested in and working with VLBI and its
+associated techniques. The newsletter will be prepared about six
+times per year.
+
+Its contents will mostly discuss the current situation, performance
+and the capabilities of the EVN MkIV correlator at JIVE and progress
+thereof as well as issues concerning the European VLBI Network
+(EVN). Of course our attention will not be limited to only the
+European community, input from other groups/institutes will be gladly
+received and distributed as well. Our goal is to keep the
+users/developers in contact with recent developments in the field of
+VLBI.
+
+Furthermore, the newsletter can be used to announce conferences,
+meetings and symposia on the subject of VLBI.
+
+
+NOTE: subscription to the JIVE newsletter does not happen
+automatically, future versions will NOT be sent to existing mailing
+lists. If you are interested in receiving the JIVE newsletter, please
+mail to the following address, stating that you would like to receive
+the newsletter.
+
+mailto:verkouter@jive.nfra.nl
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+                   NEWS  NEWS  NEWS  NEWS  NEWS  NEWS 
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
+
+1)  The Current situation of the JIVE MkIV Correlator 
+
+After the successfull first fringes on July 21st 1997, the EVN MkIV
+DataProcessor team reached a new milestone on February 17 1998, when
+fringes were detected from 2 MarkIII tapes from Effelsberg and
+Medicina. The correlation was controlled using a prototype CJD
+(Correlation Job Descriptor) which controls the correlator hardware
+settings. The correlator was set for dynamic phase/delay
+correction. This test addressed two important issues: controlling the
+correlator settings from a UNIX workstation and controlling multiple
+Playback Units at the same time from the same high level control
+software. Refer to http://www.nfra.nl/jive/correlator/first.html for
+specific information about the experiments. At this moment,
+experiments to get MkIV fringes are being carried out. 
+
+
+
+2) The JIVE MkIV Data Processor hardware
+
+At this time, 10 out of the total number of 16 Data Playback Units
+(DPU's) have arrived at JIVE after passing their Factory Acceptance
+Tests (FATs). The last four DPU's will be tested within two weeks and
+are due to arrive shortly after that.
+
+JIVE's technical manager, Steve Parsley, witnessed the FAT of the
+reproduced Station Units at Allied Signal. The reports are
+satisfactory. Two new station units are expected to arrive at JIVE
+within two weeks from now.
+
+Almost all of the correlator boards, needed to make up the whole of
+the MkIV data processor, have arrived at JIVE and are being
+tested. Currently, the tests are run on a test setup, having one-eighth
+of the capacity of the full data processor.
+
+
+
+
+3)  The upgrading of EVN recording terminals from MkIII to MkIV
+
+The upgraded MKIII to MkIV equipment continues to be successfully used
+for EVN observing sessions in both MkIII and VLBA modes. The problems
+at low bandwidths when 500 kHz sample rates are used in the formatter
+have been identified and solved. It should now be possible to run
+narrow band line experiments.
+
+Furthermore, the recorder at Shanghai was upgraded. It now is possible
+to run thin tape at Shanghai. A number of other problems were also
+fixed, which should result in improvements in recording quality.
+
+
+
+
+**********************************************************************
+
+This newsletter was prepared by Harro Verkouter, offline software
+scientist at JIVE, Dwingeloo.
+
+I would appreciate your suggestions, comments, additions and any other
+form of feedback, especially if you plan to have a symposium (or the
+like). Please mailto:verkouter@jive.nfra.nl.
+
+
+  Harro Verkouter
+  email:     verkouter@jive.nfra.nl
+  telephone: +31 (0)521 596516
+
+**********************************************************************
+
+
+			  _______    ________     
+		         / /  _/ |  / / ____/     
+		    __  / // / | | / / __/        
+		   / /_/ // /  | |/ / /___        
+		   \____/___/  |___/_____/        
+
+
+
+		     http://www.nfra.nl/jive/
+
+
+
+		Joint Institute for VLBI in Europe
+		Postbus 2, 7990 AA Dwingeloo
+		The Netherlands 
+		Phone (switchboard): +31 (0)521 596500
+		Fax:                 +31 (0)521 597332
+
+
+
+

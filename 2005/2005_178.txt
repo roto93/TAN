@@ -1,0 +1,284 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Thu Dec 22 11:29:59 2005
+Date: Tue, 6 Dec 2005 00:39:19 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue December 02 - 05, 2005)
+
+==============================================================================
+
+In this issue (December 02 - 05, 2005)
+
+1. NCU Astronomy colloquia (Dec 08): Chia-Hsien Lin (Armagh Observatory)
+                           (Dec 09): Barbara Whitney (Space Science Institute)
+                                     Chih-Hao Hsia (Graduate Inst of Astronomy)
+                                     Zhi-Wei Zhang (Graduate Inst of Astronomy)
+2. Pan-STARRS presentations (Dec 22): Nick Kaiser and Ken Chambers (IfA)
+3. Joint Colloquium of Academia Sinica and National Taiwan University (Dec 06):
+                                Michael S. Turner (Fermi Inst, Univ of Chicago)
+4. ASIAA Colloquium (Dec 09): K.L. Chan (Hong Kong Univ of Sci & Technology)
+
+==============================================================================
+
+Subject: FW: (asall 02090) Colloquium next week
+From: "Yi Chou" <yichou@astro.ncu.edu.tw>
+To: <astro@asiaa.sinica.edu.tw>
+Date: Fri, 2 Dec 2005 09:46:23 +0800
+
+
+Dear Yi-Jheng,
+ 
+Please distribute the following message to TAM
+ 
+Thanks
+ 
+
+Yi Chou
+
+Assistant Professor
+
+Astronomy Institute
+
+National Central University
+
+  _____  
+
+From: Yi Chou [mailto:yichou@astro.ncu.edu.tw] 
+Sent: Friday, December 02, 2005 9:40 AM
+To: asall ML
+Subject: (asall 02090) Colloquium next week
+
+
+           _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/ _/_/              
+         _/                                                   _/
+       _/      NCU Astronomy Colloquium     _/
+     _/                                                    _/
+   _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/ 
+ 
+ 
+Please note that we have a special colloquium on Thursday morning and a
+two-hour Friday colloquium (3 speakers).
+ 
+ 
+ 
+(1)
+Speaker :       Dr. Chia-Hsien Lin  (Armagh Observatory)
+ 
+Title :             Observed magnetoacoustic waves above solar active
+regions
+       
+Date    :          December 8th, 2005 (Thursday)
+
+Time    :         10:00 am
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+ 
+ 
+(2)
+  
+Speaker :       Dr. , Barbara Whitney (Senior Research Scientist, Space
+Science Institute)
+ 
+Title :              Star Formation in the Spitzer GLIMPSE Survey and a
+Radiation  Transfer Tool to Analyze the Data
+       
+Date    :          December 9th, 2005 (Friday)
+
+Time    :         02:00 pm
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+ 
+Abstract
+ 
+I will give a brief overview of some of the unanswered questions in 
+star formation, show results from the GLIMPSE survey, discuss a tool 
+we've developed to analyze the data, and then determine if we've 
+ answered any of the questions yet (some, a little).  GLIMPSE is the 
+Galactic Legacy Infrared Midplane Survey Extraordinaire, a legacy 
+project on the Spitzer Space Telescope.  GLIMPSE is mapping the 
+inner galactic plane, inside a longitude of l=65 on both sides, 
+using the IRAC camera at 3.6-8 microns.  GLIMPSE sees further into 
+the galaxy and with higher spatial resolution than previous surveys 
+at these wavelengths.  We are seeing hundreds of previously unknown 
+ star formation regions.
+ 
+To analyze these data we have constructed a large grid of radiative 
+transfer models of forming stars (surrounded by disks and envelopes) 
+at various evolutionary states.  We use a linear regression fitter 
+to find the best model from the grid to fit a given set of data 
+(flux vs wavelength).  The fitter is very fast, and can model the 
+entire GLIMPSE point source catalog in a few days.
+ 
+
+(3)
+ 
+Speaker :       Mr. Chih-Hao Hsia (Graduate Institute of Astronomy)
+ 
+Title :              Search Candidates of Binary Origin in the Nuclei of
+Planetary Nebulae  
+       
+Date    :          December 9th, 2005 (Friday)
+
+Time    :         03:00 pm
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+ 
+(4)
+  
+Speaker :       Mr. Zhi-Wei Zhang (Graduate Institute of Astronomy)
+ 
+Title :                Automated Pipeline and KBO Occultation Event
+Detection of the TAOS Project
+       
+Date    :          December 9th, 2005 (Friday)
+
+Time    :         03:30 pm
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+  
+
+Yi Chou
+
+Assistant Professor
+
+Astronomy Institute
+
+National Central University
+
+==============================================================================
+ 
+Subject: Pan-STARRS presentations
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Date: Fri, 2 Dec 2005 09:49:25 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+
+
+Dear colleagues, 
+
+The project PI and science PI of the Pan-STARRS project, Nick Kaiser and
+Ken Chambers, are scheduled to visit us from December 19 to 22.  The main
+purpose of their visit is to discuss about the planned collaboration, in
+particular how the OIR astronomy community can contribute to, and take
+advantage of, the unique PS dataset.  On December 22, Thursday, starting
+at 10 am, there will be an open session for which the Hawaiian and
+Taiwanese groups will present the project status and summarize the results 
+of the negotiation/discussion of their visit.  All are welcomed to express 
+your concerns and share your thought.  
+
+          ========= Pan-STARRS Presentations ============
+           Time: December 22, Thursday, 10 am
+           Place: Room 1013 S4, Astronomy Institute, NCU
+
+If you have any questions regarding this event, please contact either 
+Wen-Ping Chen (wchen@astro.ncu.edu.tw) or Ms Layla Ho 
+(hyho@astro.ncu.edu.tw).  
+
+Wen Ping
+
+==============================================================================
+
+Subject: Fwd: Joint Colloquium of Academia Sinica and National Taiwan University
+Cc: astro@asiaa.sinica.edu.tw
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+Date: Fri, 2 Dec 2005 10:28:39 +0800
+
+
+Dear all,
+
+	A reminder to you about the following event next Tuesday.
+
+best,
+
+sheng-yuan
+
+=B6}=A9l=C2=E0=B1H=B6l=A5=F3=A1G
+
+> =B1H=A5=F3=A4H: "prpc" <prpc@phys.nthu.edu.tw>
+> =A4=E9=B4=C1: 2005=A6~12=A4=EB1=A4=E9 =A4U=A4=C802=AE=C951=A4=C033=AC=ED=
+
+> =A6=AC=A5=F3=A4H: <Undisclosed-Recipient:;>
+> =BC=D0=C3D: =C2=E0=B1H: Joint Colloquium of Academia Sinica and =
+National Taiwan=20
+> University
+>
+>
+>>
+>> *****************************************************
+>>
+>> Joint Colloquium of Academia Sinica and National Taiwan University
+>>
+>> Speaker: Prof. Michael S. Turner
+>>              Bruce V. and Diana M. Rauner Distinguished Service=20
+>> Professor,
+>> Enrico Fermi Institute, The University of Chicago
+>>              Deputy Director, National Science Foundation
+>> Title: Beyond Einstein: from Before the Big Bang to the End of Time
+>> Date: 2005.12.6 (Tue.)   10:00 AM
+>> Place: International Auditorium (Room 204), Dept. of Physics, =
+National
+>> Taiwan University
+
+==============================================================================
+
+Subject: [Colloquium] ASIAA Colloquium (12/09 Friday)
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+cc: astro@asiaa.sinica.edu.tw, faculty@phys.ntu.edu.tw, ybyun@yonsei.ac.kr
+Date: Mon, 5 Dec 2005 15:44:07 +0800 (CST)
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+
+
+  Dear all,
+
+ 	We will have a colloquium talk this Friday presented by Prof. K.L.
+  Chan from Hong Kong University of Science and Technology. In the talk
+  titled "Dynamics of Atmospheres in the Solar System", Prof. Chan will
+  discuss the exploration of interesting atmospheric phenomena in our
+  solar system.
+
+ 	Please mark your calendar and remember to join!
+
+  Regards,
+
+  sheng-yuan
+
+  ------------------------- ASIAA Colloquium -----------------------
+   Speaker : Prof. K.L. Chan
+             (Hong Kong University of Science and Technology)
+   Title   : Dynamics of Atmospheres in the Solar System
+   Time    : 12/09 (Fri) 2:00 PM
+   Location: ASIAA Room 716
+   Abstract:
+             Our solar system hosts extreme conditions and a wide variety
+             of atmospheric behavior. Exploration of the various atmospheres
+             not only enhances our appreciation of the uniqueness and the
+             fragility of our Earth's atmosphere, but is also a necessity
+             for the preparation of human visits to other planets. I offer
+             to accompany the audience through a hopping tour for interesting
+             atmospheric phenomena in our solar system, with occasional simple
+             explanations.
+  ------------------------------------------------------------------
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+  ------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

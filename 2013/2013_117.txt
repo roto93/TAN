@@ -1,0 +1,229 @@
+Date: Tue, 18 Jun 2013 03:07:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 13 - 17, 2013)
+
+============================================================================== 
+
+In this issue (Jun 13 - 17, 2013)
+
+1. Lulin One-meter Telescope (LOT) Call for Observing Proposals for 2013B
+2. ASIAA Special Seminars (Jun 18): Christopher Reynolds (Univ of Maryland)
+                          (Jun 20): M.B.N. (Thijs) Kouwenhoven (Peking Univ)
+3. NTHU Astronomy Seminar(Jun 21): Kuo-Chuan Pan (Basel Univ, Switzerland)
+
+==============================================================================
+
+> Date: Mon, 17 Jun 2013 17:55:40 +0800  
+> From: Hung-Chin Lin <hclin@gm.astro.ncu.edu.tw>        
+> Subject: Fwd: Lulin One-meter Telescope (LOT) Call for Observing Proposals for 2013B 
+
+Dear Prof. Kuan,
+
+
+Would you please distribute the attached file to TAN ?
+Thank you very much.
+
+-- 
+
+Regards, 
+aL§?’U Hung-Chin Lin 
+hclin@astro.ncu.edu.tw
+Lulin Observatory, Institute of Astronomy 
+National Central University 
+(http://www.lulin.ncu.edu.tw) 
+LuLin obs. Phone# 0910-267-184 
+IANCU phone# 03-427-8445
+
+------------------------------------------------------------------------------
+Lulin One-meter Telescope (LOT) Call for Observing Proposals for 2013B 
+
+
+
+Proposal Deadline 23:59 June 30 2013
+
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the 
+semester of 2013B.  The new semester begins on 1 August 2013 and ends 
+on 31 January 2014. 
+
+As Prof. Ko (Director, Lulin Observatory) have announced (see #1), we
+are going to charge a fee for telescope use.  However, faculty members
+of IANCU will donate the fee in the 2013B semester for your
+observation(s). Therefore, most of you will not be asked to cover the
+cost. As usual, collaboration with NCU faculty is encouraged.
+
+The new proposal LaTex package are available at 
+  http://eafon.astro.ncu.edu.tw/lulinprop/lotprop2013b.tar.gz
+The completed proposal should contain the filled and compiled version
+of the LaTex file (in PDF or PS format), plus up to two PDF pages of
+scientific justification including figures, tables, and references.
+The proposal (cover form and 2-page of scientific case) should be
+submitted to the following email address:
+  lottac@eafon.astro.ncu.edu.tw 
+with a copy to me to avoid occasional erroneous delivery: 
+  urata@astro.ncu.edu.tw 
+
+Please note that in addition to research proposals, we also accept
+educational programs for astronomical observation courses. 
+
+The Observatory management pays particular attention to the scientific
+products by our facilities. So if you have used the LOT before, please
+fill in the status of the data, and any publications as results of any
+LOT data.  The publication list is summarized at
+http://lulin.ncu.edu.tw/Research/index.htm
+
+If you have any updates from your previous observations, please list
+up the complete list.  If no information is forthcoming, the TAC will
+assume that no progress has been made and will take this into
+consideration in allocation of observing time.  If your program is
+continuous one, please do NOT forget to mention about the status of
+the project and publication plans.
+
+As usual, there will be three instruments available, the Lulin CCD
+Imager (LCI), the Lulin Compact Spectrograph (LCS), and TRIPOL, a
+simultaneous tricolor (g', r', i') imaging polarimeter.  At the time
+of this announcement, TRIPOL is being shaked down and characterized.
+Those who are interested in the specs of any of these instrument
+should contact Prof. Wen Ping Chen.  You can follow this url to get
+information regarding the telescope and instruments,
+  http://www.lulin.ncu.edu.tw/lot/
+
+To ensure the capabilities of LOT and instruments, you can also refer
+the previous publications with LOT listed in the above url.
+
+If you have any questions or problems regqarding the preparation of the
+proposals, please contact
+
+Instrumentation/Telescope/Instrumentation queries Mr. Hunag-Chin Lin
+Scientific queries Yuji Urata
+
+Time allocation will be announced by mid-July, 2013.
+
+
+Regards, 
+
+
+Yuji Urata
+on behalf of the LOT Time Allocation Committee
+
+---------------------------------------------------------------------
+
+#1 Telescope fee
+
+Subject: TELESCOPE FEES ANNOUNCEMENT
+Date:     2012年11月19日 11:36:30 GMT+08:00
+Dear LOT users and friends of Lulin,
+
+
+Attn: TELESCOPE FEES ANNOUNCEMENT
+
+I would like to take this opportunity to thank all our users of LOT
+(and others facilities at Lulin) for the approval of our services.
+However, due to the financial difficulties, we are no longer able to
+support the facilities at Lulin Observatory by our institute alone.
+Thus we would like call on our friends and users of Lulin to
+contribute and support the maintenance cost of the observatory.
+
+After some considerations, we come up with a plan.  Starting from the
+semester 2013B, we are going to charge a fee for telescope use.  Lulin
+1-m Telescope (LOT) will be charged for "Observing Time".  The rate
+will be "NTD 1000 per observing hour".  "Observing" is defined as when
+the dome and shutter are open for scientific data (observation log
+will be taken as reference when necessary).
+
+If you have applied or is going to apply for funding from NSC, please
+read on.  We have discussed with NSC about our intention.  They agreed
+that "telescope using fees" can be included in NSC proposals.  If you
+are applying for a new NSC proposal (by the end of this year), please
+don't forget to put your request (e.g., how many hours observing time)
+into your new proposal.  If you are working on a multi-year NSC
+project, please add this item into the funding request next May (along
+with your mid-term report).
+
+Once again, thank you for using our facilities. 
+Your continuous support is vital to the quality of the observatory.
+
+
+best wishes,
+Chung-Ming Ko (Director, Lulin Observatory).
+
+==============================================================================
+
+> Date: Sun, 16 Jun 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Special Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Christopher Reynolds (University of Maryland)
+Topic:        TBA
+Time:        6/18 (Tuesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+____________________________________________________ 
+Speaker:    M.B.N. (Thijs) Kouwenhoven (Kavli Institute for Astronomy and Astrophysics, Peking University)
+Topic:        The origin of wide binary star companions and wide planetary orbits
+Time:        6/20 (Thursday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Observations have revealed the presence of a significant population of wide (> 1000 AU) binary systems in the Galactic field and halo. In addition, planets in wide (> 100 AU) orbits have been detected. The origin of both of these populations is difficult to explain with theories of star formation and planet formation. We carry out N-body simulations of dissolving star clusters with a free-floating planet population, and show that dynamical capture processes can explain these wide orbits. Interestingly, the simulations also predict the existence of other peculiar systems, such as higher-order multiple systems, circumbinary planets, planets around black holes and white dwarfs, retrograde planetary orbits, and free-floating double planets.
+
+==============================================================================
+
+> Date: Mon, 17 Jun 2013 09:44:24 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+#############################################
+                      NTHU
+              Astronomy Colloquium
+#############################################
+
+        2:20 p.m. 21st June 2013 (Friday)
+          NTHU Physics Building, Rm620
+
+        Speaker: Dr. Kuo-Chuan Pan
+                (Basel University, Switzerland)
+
+        Title: Search for Surviving Post-Impact Remnant Stars
+
+        Abstract:
+The nature of the progenitor systems of Type Ia supernovae is still
+unclear. One way to distinguish between the SDS and DDS is to search
+for the surviving Post-Impact Remnant Stars (PIRSs). Using our
+stellar evolution simulations of main-sequence- (MS-) and
+helium-rich- (He-) PIRSs, we predict the color and magnitude of MS-
+and He-PIRSs as functions of time. We also discuss PIRS candidates in
+Galactic Type Ia supernova remnants (Ia SNRs), including SN 185, SN
+1006, SN 1574, SN 1604, and G1.9+0.3, and nearby extragalactic Ia SNRs
+
+Tea/Discussion Time is followed in the same room.
+
+                  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

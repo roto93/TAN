@@ -1,0 +1,157 @@
+From astro@iaa17.asiaa.sinica.edu.tw Sun Sep 26 00:47:19 2010
+Date: Sun, 26 Sep 2010 00:44:54 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Sep 20 - 25, 2010)
+
+============================================================================== 
+
+In this issue (Sep 20 - 25, 2010)
+
+1. UCAT Postdoctoral Position Openings (Deadline: Dec 01)
+2. EA Interferometry Winter School (Deadline: Nov 15)
+
+============================================================================== 
+
+UCAT Postdoctoral Position Openings
+--------------------------------------
+
+Institution: University Consortium of ALMA-Taiwan
+
+The University Consortium of ALMA-Taiwan (UCAT) has four immediate openings
+for postdoctoral positions. The postdoc appointments will initially be for
+two years, with possible extension for additional years based on satisfactory
+performance.
+
+Taiwan has joined the ALMA project through collaborations with Japan and North
+America. To promote ALMA research in universities, UCAT was formed by five
+leading Universities in radio astronomy in Taiwan - National Central
+University, National Cheng Kung University, National Taiwan Normal University,
+National Tsing Hua University, and Tamkang University. Areas of research
+interests of the UCAT faculty include Solar Physics, Solar System, Star
+Formation, Astrochemistry, Active Galaxies, Galaxy Evolution, and Cosmology.
+More information on each topic can be found at our home page
+( http://www.es.ntnu.edu.tw/tuCASA ).
+
+Scientists with radio interferometry background are preferred; however, all
+candidates with a PhD in any area of astronomy interested to conduct research
+using ALMA are encouraged to apply. UCAT postdoctoral fellows are expected to
+conduct their research at one of the five UCAT universities. Being in a
+Taiwanese research institute, UCAT postdoctoral fellows have the privilege to
+apply for Taiwan's share of observing time for CFHT, SMA, and the Arizona 12-m
+(KP12M) and 10-m (SMT) radio telescopes.
+
+Applicants should submit the following documents to tuCASA@ntnu.edu.tw by 2010
+December 01 for full consideration: 
+
+  1. a curriculum vitae
+  2. a brief summary of past research experience
+  3. a future research plan
+
+Applicants are also requested to arrange three letters of recommendation to be
+sent to: Prof. Yi-Jehng Kuan, Chair, Department of Earth Sciences, National
+Taiwan Normal University, Taipei 11677, Taiwan. Email: tuCASA@ntnu.edu.tw 
+
+============================================================================== 
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Fwd: EA Interferometry Winter School
+> Date: Fri, 24 Sep 2010 11:39:30 +0800
+
+Dear Yi-Jehng,
+
+    The previous message about EA interferometry winter school in Japan
+may have failed to reach you. Please kindly circulate it via TAN.
+Thanks very much!
+
+best,
+sheng-yuan
+
+Begin forwarded message:
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Date: September 16, 2010 11:12:00 AM GMT+08:00
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Fwd: EA Interferometry Winter School
+>
+> Dear Yi-Jehng,
+>
+> 	Please kindly circulate the following information via TAN. Thanks  
+> very much!
+>
+> best,
+> sheng-yuan
+>
+>> ----------------------------------------------------------------------------
+>>
+>> East-Asia Interefometry Winter School (First Circular)
+>> Hosted by: Graduate University for Advanced Studies (GUAS),
+>>          Department of Astronomical Science, and
+>>          National Astronomical Observatory of Japan (NAOJ)
+>> Software Tutorial Support: NAOJ Astronomy Data Center
+>>
+>> This Winter School is aimed to provide lectures and software
+>> tutorials for young astronomers (graduate students and postdocs)
+>> interested in millimeter and submillimeter interferometric  
+>> observations
+>> and/or VLBI observations.
+>> This First Circular announces the date and the venue, and program  
+>> outline.
+>> Detailed programs, application forms for attendance/accommodation/ 
+>> travel
+>> support will be announced in Second Circular.
+>>
+>> Dates of the school: February 7-11, 2011
+>> Venue: National Astronomical Observatory of Japan (NAOJ), Mitaka  
+>> campus
+>> 	            (including one-day trip to Nobeyama Radio Observatory)
+>>
+>> Official language: English
+>>
+>> Program outline
+>> Feb 7 Lectures (Radio Astronomy, Science, Radio Telescope  
+>> Instrumentation)
+>> Feb 8 Lectures (Interferometric observations--calibrations,  
+>> proposal preparations, data reduction etc)
+>> Feb 9 Software tutorial (ALMA Observing Tool, CASA, AIPS)
+>> Feb 10 Software tutorial (CASA, AIPS), banquet
+>> Feb 11 Nobeyama one-day tour
+>>
+>> The maximum number of acceptable participants
+>> for tutorial and Nobeyama tour will be
+>> limited to 50 people because of the capacity of the rooms.
+>> We will have additional 50 people as lecture-only attendees.
+>> We will select the attendees
+>> after the registration is closed.
+>>
+>> Important Dates:
+>> September 15, 2010 First Circular
+>> October 10, 2010, Second Circular
+>> November 15, 2010 Deadline for registration, accommodation, travel  
+>> support
+>>
+>> Organizing Committee
+>> Ken Tatematsu (NAOJ/ALMA, chair)
+>> Tomoya Hirota (NAOJ/Mizusawa VLBI, co-chair)
+>> Yoshiaki Hagiwara (NAOJ/Mizusawa VLBI)
+>> Aya Higuchi (NAOJ/ALMA)
+>> Nario Kuno (NAOJ/Nobeyama)
+>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

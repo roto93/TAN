@@ -1,0 +1,19 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun, 27 Jul 2014 08:00:03 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Seong Jin Kim (Seoul University)
+Topic:        Infrared point source catalogue of the AKARI NEP-Wide Survey
+Time:        7/30 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+This talk introduces a photometric catalog of infrared (IR) sources based on the North Ecliptic Pole Wide field (NEP-Wide) survey carried out by AKARI, which is an infrared space telescope.  The NEP-Wide survey covered 5.4 sq-deg circular area, using nine photometric filter-bands continuously covering the wavelength range from 2 to 25 μm.  During the data reduction, extensive efforts were made to reduce possible false/artificial objects. 
+The number of detected sources varied depending on the filter band: with about 109 000 sources cataloged in the near-infrared bands, up to 18 500 sources in the mid-infrard (MIR) bands.  The estimated 5σ detection limits are approximately 21 mag (mag) in the 2μm bands, 19.5 mag in the 7μm, and 18.8  mag in the 15 μm bands in the AB magnitude.  To construct a reliable source catalog, all of the detected sources were examined by matching with those in other wavelength data, including optical and ground-based NIR bands.  The final catalog contains about 114 800 sources detected in the IRC filter bands.  At the end of this talk, the properties of the sources are presented and following studies base on this catalogue are briefly introduced.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

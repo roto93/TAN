@@ -1,0 +1,261 @@
+=============================================================================
+
+In this issue (Jan 23 - Feb 02, 2020)
+
+1. NRAO community event in NAOJ
+2. SMA_Call_for_Standard_Observing_Proposals (2020A_Semester)
+3. Call for SMA-Taiwan Key Science Proposals
+4. ASIAA Colloquium/Seminar/Lunchtalk (Feb 05): Chang, Hsiao-Wen (ASIAA)
+
+==============================================================================
+
+Subject: Fwd: NRAO community event in NAOJ
+From    Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>Add contact
+Date    2020-01-28 11:08
+
+Dear Prof Kuan,
+
+Could you help to forward this to TAN?
+
+Cheers,
+Wei-Hao
+
+---------- Forwarded message ---------
+From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+Date: Tue, Jan 28, 2020 at 11:08 AM
+Subject: NRAO community event in NAOJ
+To: riaa <riaa@asiaa.sinica.edu.tw>
+
+Hi everyone,
+
+NRAO will hold a community event in NAOJ (Mitaka) on
+March 31 and April 1.  It will be about introducing VLA and
+VLBA to new users, including data reduction and observation
+planning hands-on sessions.  You are welcome to go if you
+need to learn about VLA and VLBA.
+
+The website is:
+https://science.nrao.edu/science/meetings/2020/naoj20
+
+Cheers,
+Wei-Hao
+
+==============================================================================
+
+From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+Subject: =?utf-8?Q?Fwd=3A_SMA_Call_for_Standard_Observing_Proposals_?==?utf-8?Q?=E2=80=93_2020A_Semester?=
+To: astro@asiaa.sinica.edu.tw
+Date: Thu, 30 Jan 2020 11:51:56 +0900
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the SMA call for standard =
+proposals.
+
+Regards,
+Naomi
+
+=E8=BB=A2=E9=80=81=E3=81=95=E3=82=8C=E3=81=9F=E3=83=A1=E3=83=83=E3=82=BB=
+=E3=83=BC=E3=82=B8:
+=20
+=E5=B7=AE=E5=87=BA=E4=BA=BA: Mark Gurwell <mgurwell@cfa.harvard.edu>
+=E4=BB=B6=E5=90=8D: SMA Call for Standard Observing Proposals =E2=80=93 =
+2020A Semester
+=E6=97=A5=E4=BB=98: 2020=E5=B9=B41=E6=9C=8830=E6=97=A5 0:34:27 JST
+=E5=AE=9B=E5=85=88: sma-propose <sma-propose@cfa.harvard.edu>
+=20
+Dear Colleagues,
+=20
+We wish to draw your attention to the latest Call for Standard =
+Observing Proposals for observations with the Submillimeter Array (SMA). =
+This call is for the 2020A semester with observing period 16 May 2020 =
+=E2=80=93 15 Nov 2020.
+Standard Observing Proposals
+=20
+Submission deadline: 05 Mar 2020 21:00 UTC =3D 05 Mar 2020 16:00 EST =3D=
+ 06 Mar 2020 05:00 Taiwan
+=20
+Proposal Information and Submission =
+<http://sma1.sma.hawaii.edu/proposing.html>
+The SMA is a reconfigurable interferometric array of eight 6-m =
+antennas on Maunakea jointly built and operated by the Smithsonian =
+Astrophysical Observatory and the Academia Sinica Institute of Astronomy =
+and Astrophysics. The array operates in the 230, 345 and 400 GHz bands, =
+observing simultaneously with two orthogonally polarized receivers, one =
+in the 230 GHz or 345 GHz band and the other in the 240 GHz or 400 GHz =
+band (with full polarimetric observations available using the 230+240 or =
+345+400 band combinations).
+=20
+The SMA configurations include antenna separations ranging between 9 m =
+and 508 m. The small antennas allow access to low spatial frequencies =
+(with projected baselines as short as 6-m) in the sub-compact =
+configuration, and at the other extreme, the finest angular resolution =
+with the very extended configuration at 345 GHz is ~ 0.25". The compact =
+and extended configurations complete the range. The characteristics, =
+performance and sky coverage of the SMA are both similar and =
+complementary to those of the stand-alone Atacama Compact Array (ACA) =
+component of ALMA, while providing full access to the northern sky.
+=20
+The heart of the SMA backend is the SWARM correlator, able to process =
+8 GHz bandwidth (IF coverage of 4 to 12 GHz) for each receiver in each =
+sideband, for a total of 32 GHz bandwidth, at a uniform 140 kHz =
+resolution. We are currently expanding the correlator coverage by 50%, =
+to 12 GHz bandwidth (IF coverage from 4 to 16 GHz) for each receiver in =
+each sideband, for 48 GHz total bandwidth, while maintaining the fine =
+140 kHz uniform resolution. While not yet fully commissioned, we are =
+working toward offering this new capability in 2020A as a shared-risk =
+opportunity.
+=20
+The SMA can tune the orthogonal receiver combinations independently, =
+resulting in a very flexible frequency coverage capability. For example, =
+observations can be made at 1.3 mm and 870 micron simultaneously (with =
+many other configurations possible). One popular configuration allows =
+the current 8 GHz/sideband/receiver frequency coverage to cover up to 32 =
+GHz contiguously, where the tuning ranges overlap for the two =
+orthogonally polarized receivers. Alternatively, the two receivers can =
+be set with the same LO to cover the same 16 GHz (8 GHz in each =
+sideband) of frequency space in the two orthogonally polarizations, =
+allowing improved spectral line sensitivity. In such a case, full Stokes =
+polarization measurements are also possible at 1.3 mm and 870 microns. =
+When our upgrade is completed to 12 GHz/sideband/receiver, the frequency =
+coverage will be configurable to cover 44 GHz contiguously (with 4 GHz =
+of overlap), or can be configured to cover the same 24 GHz (12 GHz in =
+each sideband) with the same LO.
+=20
+The SMA provides flexible, wide band frequency coverage that delivers =
+high continuum sensitivity and excellent spectral line capabilities. A =
+full transit observation with the current 8 GHz/sideband/receiver =
+correlator coverage will offer continuum sensitivity of 250 or 600 =
+micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions =
+(precipitable water vapor 2.5 mm and 1.0 mm, respectively). When the =
+correlator upgrade is fully commissioned this will improve the continuum =
+sensitivities by 22% per unit time. The corresponding line sensitivities =
+at 1 km/s resolution are 35 and 80 mJy.
+=20
+For more information about SMA capabilities, visit the SMA Observer =
+Center website <http://sma1.sma.hawaii.edu/status.html> and explore the =
+set of SMA proposing tools <http://sma1.sma.hawaii.edu/tools.html>. =
+Current and archived SMA Newsletters =
+<https://www.cfa.harvard.edu/sma/Newsletters/> provide a sampling of the =
+wide variety of science possible with the SMA.
+=20
+For more details visit the SMA Observer Center Proposal Information =
+Page <http://sma1.sma.hawaii.edu/proposing.html>.
+=20
+IMPORTANT DATES FOR STANDARD OBSERVING PROPOSALS
+=20
+Submissions open: 06 February 2020 (on or before)
+Submissions close: 05 Mar 2020 21:00 UTC =3D 05 Mar 2020 16:00 EST =3D =
+06 Mar 2020 05:00 Taiwan
+Due to current and expected investment in further upgrades to the SMA =
+capabilities, as well as obligations to previous approved programs, the =
+Large Scale Projects program (for projects requesting 100 to 1000 hours) =
+will not be accepting proposals at this time.
+=20
+Questions or comments regarding the Standard Observing Proposals can =
+be addressed to sma-propose@cfa.harvard.edu =
+<mailto:sma-propose@cfa.harvard.edu>.
+=20
+=20
+ <>Sincerely,
+=20
+Mark Gurwell
+Submillimeter Array TAC Chair
+=20
+--=20
+Mark Gurwell
+Astrophysicist
+Submillimeter Array
+Center for Astrophysics | Harvard & Smithsonian
+=20
+Office: (617) 495 7292=20
+60 Garden Street | MS 42 | Cambridge, MA 02138
+=20
+=20
+=20
+cfa.harvard.edu <http://cfa.harvard.edu/> | Facebook =
+<http://cfa.harvard.edu/facebook> | Twitter =
+<http://cfa.harvard.edu/twitter> | YouTube =
+<http://cfa.harvard.edu/youtube> | Newsletter =
+<http://cfa.harvard.edu/newsletter>
+=20
+--=20
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to sma-newsletter+unsubscribe@cfa.harvard.edu =
+<mailto:sma-newsletter+unsubscribe@cfa.harvard.edu>.
+
+==============================================================================
+
+From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+Subject: Call for SMA-Taiwan Key Science Proposals
+Date: Thu, 30 Jan 2020 11:56:24 +0900
+To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the â€œCall for SMA-Taiwan
+Key Science Proposalsâ€￾ to TAN.
+
+Thank you,
+Naomi
+
+-----------------------------------------------------------------------------
+
+Dear colleague,
+
+The SMA-Taiwan (SMA-T) invites key science programs requiring substantial amount of time spreading over the multiple semesters.  The SMA-T key science project is aimed at achieving significant scientific impact using the capabilities of the SMA such as wide bandwidth and large field-of-view efficiently. The project will be conducted using the ASIAA time of the SMA, which is 13 % of the total SMA observing time. Each semester, approximately half of the ASIAA time will be allocated to the approved key science project.
+
+Prospective PIs of the SMA-T key science projects need to submit a Notice of Intent (NoI) in advance of the submission of a full proposal. The full proposal must be submitted by the deadline of the regular science proposals.
+
+The deadlines for consideration in the 2019B cycle are"
+Notice of Intent: 2020 Fwb. 14 (Fri.) 24:00 CST
+Full submission:: 2020 Mar. 6 (Fri.) 5:00 CST
+
+For detail of the SMA-T Key Science Projects, please refer to
+    http://sma.asiaa.sinica.edu.tw/proposal_key.php
+
+Note that this opportunity is open to the researchers in Taiwanese institutions including ASIAA Hawaii.
+
+Questions may be addressed to
+    hirano [at] asiaa [dot] sinica [dot] edu [dot] tw.
+
+
+Regards,
+Naomi Hirano (on behalf of the SMA-Taiwan)
+
+==============================================================================
+
+Date: Thu, 30 Jan 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Chang, Hsiao-Wen (ASIAA)
+Topic:         Advanced materials development for superconducting mixers.
+Time:         2/5 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

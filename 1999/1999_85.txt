@@ -1,0 +1,48 @@
+From kuan Thu Apr 15 02:20:03 1999
+Return-Path: <kuan>
+Received: by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA12942; Thu, 15 Apr 1999 02:18:03 +0800
+Date: Thu, 15 Apr 1999 02:18:03 +0800
+From: kuan (Yi-Jehng Kuan)
+Message-Id: <9904141818.AA12942@iaa17.asiaa.sinica.edu.tw>
+Errors-To: kuan@asiaa.sinica.edu.tw
+To: astro@asiaa.sinica.edu.tw
+Subject: the most distant object ever identified
+Content-Length: 1688
+Status: RO
+
+
+Wow! Just saw this one -- from another Chinese astronomer who is also 
+a member of TAN!
+
+Yi-Jehng
+
+------------------------------------------------------------------------------
+\\
+Paper: astro-ph/9904161
+From: Hsiao-Wen Chen <hchen@sbast3.ess.sunysb.edu>
+Date: Wed, 14 Apr 1999 00:01:26 GMT   (453kb)
+
+Title: A Spectroscopically Identified Galaxy of Probable Redshift z = 6.68
+Authors: Hsiao-Wen Chen, Kenneth M. Lanzetta, and Sebastian Pascarelle (SUNY at
+  Stony Brook)
+Comments: 7 pages, 2 figures. To appear in Nature (15 April 99)
+\\
+  The detection and identification of distant galaxies is a prominent goal of
+observational cosmology because distant galaxies are seen as they were in the
+distant past and hence probe early galaxy formation, due to the cosmologically
+significant light travel time. We have sought to identify distant galaxies in
+very deep spectroscopy by combining a new spectrum extraction technique with
+photometric and spectroscopic analysis techniques. Here we report the
+identification of a galaxy of redshift z = 6.68, which is the most distant
+object ever identified. The spectrum of the galaxy is characterized by an
+abrupt discontinuity at wavelength $\lambda \approx 9300$ \AA, which we
+interpret as the \lya decrement (produced by intervening Hydrogen absorption),
+and by an emission line at wavelength $\lambda \approx 9334$, which we
+interpret as \lya. The galaxy is relatively bright, and the ultraviolet
+luminosity density contributed by the galaxy alone is almost ten times the
+value measured at $z \approx 3$.
+\\ ( http://xxx.lanl.gov/abs/astro-ph/9904161 ,  453kb)
+------------------------------------------------------------------------------
+
+

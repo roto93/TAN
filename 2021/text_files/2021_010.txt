@@ -1,0 +1,52 @@
+==============================================================================
+
+Date: Thu, 14 Jan 2021 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *6PM* this Thursday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Yuji Matsumoto (ASIAA)
+Topic:         TBD
+Time:         1/18 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+TBD
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Haifeng Yang (THU)
+Topic:         "A remote talk by the distinguished fellow"
+Time:         1/19 (Tuesday) 13:30 - 14:30
+Place:          R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *6PM* next Monday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Chen, Ying-Tung (ASIAA)
+Topic:         ç¾ä»£å…‹åœå‹’ - é‹ç”¨ç¾ä»£å¤©æ–‡å­¸å‰µé€ æ›´å¤šçš„èƒ½æº
+Time:         1/20 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Ting-Yun Cheng (Sunny) (Durham University)
+Topic:         What a machine sees? - Galaxy morphological classification told through machine learning
+Time:         1/20 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Along with the significant development of astronomical data in 4V aspects (Volume, Velocity, Variety, and Value/Veracity), machine learning techniques, as an analysis tool, are applied in a broad range of astronomical studies. In my PhD, I studied galaxy morphology with supervised and unsupervised machine learning techniques for two types of tasks - classification and exploration. In this talk, I will give an overview about how I think machine learning techniques can be used in astronomical studies, in particular, galaxy morphological classification, with four projects I accomplished during my PhD using a broad range of data (DES, SDSS, simulated data for Euclid). Additionally, I would like to bring up a discussion about a possibility of a new astronomical approach may be carried out through machineâ€™s perspective.
+
+==============================================================================

@@ -1,0 +1,65 @@
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Announcement of ALMA User Workshop 2013
+> Date: Fri, 25 Oct 2013 14:21:46 +0800
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear colleagues,
+
+    The ALMA Regional Center (Taiwan=E2=80=90ARC) of ASIAA and the =
+UCAT Center for ALMA Science Advancement (tuCASA) of the University =
+Consortium of ALMA=E2=80=90Taiwan (UCAT) are pleased to host jointly the =
+ALMA User Workshop 2013 for potential ALMA users in Taiwan.=20
+
+    The call for proposal for ALMA Cycle 2 has been issued on =
+October 24, 2013 =
+(http://almascience.nao.ac.jp/proposing/call-for-proposals). The ALMA =
+User Workshop 2013 is designed for the preparation of ALMA Cycle 2 =
+proposals, and is aimed for graduate students, postdocs, faculty members =
+and people who are interested in observing with ALMA.
+
+    The programs of the ALMA User Workshop 2013 include:
+        * ALMA progress report and Cycle 2 capabilities
+        * Suggestions from ALMA science assessor
+        * ALMA polarization observations
+        * Correlator & Splatalogue
+        * ALMA Observing Tool
+        * SIMDATA simulation
+        * Discussion=20
+
+    Date and Venue:
+        Date: 2013 November  08 (Friday)
+        Venue: Room 1203, Astronomy-Mathematics Building, No.1, =
+Roosevelt Rd, Sec. 4, (inside NTU main campus), Taipei, Taiwan
+
+    Registration:
+        On-line registration is available at:  =
+http://events.asiaa.sinica.edu.tw/workshop/20131108/registration.php
+        The registration deadline is at 12 noon on November 04 =
+(Monday), 2013.
+
+    Action items before coming to the workshop:
+        * read through the ALMA ES Primer =
+(http://almascience.nao.ac.jp/documents-and-tools/cycle-2/alma-early-scien=
+ce-primer) and the Science Web pages
+        * have the latest version of OT =
+(http://almascience.nao.ac.jp/proposing/observing-tool) and CASA =
+(http://casa.nrao.edu/current_casa.shtml) installed in your laptop
+
+    LOC
+        Chin-Fei Lee (Chair)
+        Hau-Yu Liu
+        Sheng-Yuan Liu
+        Yu-Nung Su
+        Shigehisa Takakuwa
+        Alfonso Trejo Cruz
+              Lynn Lin
+        Shirley Huang
+
+    E-mail contact: cflee@asiaa.sinica.edu.tw
+
+best,
+Yu-Nung
+On behalf of the organizing committee
+
+==============================================================================

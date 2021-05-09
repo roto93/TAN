@@ -1,0 +1,36 @@
+
+> Date: Fri, 15 Sep 2006 18:37:15 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Subject: colloquium talk on 22 Sep
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Here is the information of the colloquium talk at NCU on 22
+Sep. Please distribute the announcement. Thank you. Daisuke
+
+---------------------------------------------------------------------------
+Date: 14:00, 22/Sep/2006
+Loc.: Room 1013, Science Building IV, National Central University
+
+Speaker: Dr. Nishioka Hiroaki (ASIAA)
+
+Title: Quadrupole power spectra for the 2dF QSO and future redshift surveys
+
+Abstract:
+Redshift-space distortions due to peculiar velocities and space-time
+geometry causes anisotropy of the galaxy distribution with respect to
+line-of-sight direction and perpendicular to it.  The quadrupole power
+spectrum is one of the useful statistics to quantify the anisotorpy
+and detect the signature of the redshift-space distortions.
+We develop an estimator for the quadrupole power spectrum starting
+from a discrete data set for a redshift survey and show algorism to
+compute the quadrupole power spectrum. We apply our estimator to 2dF
+QSO redshift survey and measure the quarupole power spectrum.  The
+best-fit bias parameter (the relation between background matter and
+QSO distributions) from the measured power spectrum is consistent with
+the previous results obtained by other approach, although measured
+quadrupole power spectrum is noisy due to poor data set.
+We also show the quadrupole power spectrum will be useful to constrain
+the property of dark energy for the future redsfhit surveys using the
+Fisher matrix approach assuming the WFMOS (former KAOS) sample.
+---------------------------------------------------------------------------
+

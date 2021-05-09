@@ -1,0 +1,98 @@
+From astro@.MISSING-HOST-NAME. Tue Nov 25 06:27:06 2003
+Date: Wed, 5 Nov 2003 19:46:52 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue November 05, 2003)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (November 05, 2003):
+
+1. CFD-MHD Workshop (December 10-12, 2003)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From yuan@asiaa.sinica.edu.tw Wed Nov  5 13:34 CST 2003
+Date: Wed, 05 Nov 2003 13:33:03 +0800
+From: Chi Yuan <yuan@asiaa.sinica.edu.tw>
+To: kuan <kuan@asiaa.sinica.edu.tw>
+Subject: CFD-MHD Workshop
+
+Dear Yi-Jehng:
+
+Attached please find the announcement of the forthcoming workshop. 
+Please put it on next tanet issue.
+
+Thanks,    Chi Yuan
+
+---------------------------------------------------------------------------
+
+                         Announcement
+                  CFD-MHD Workshop in Astrophysics:
+       	    Numerical Methods and Astrophysical Turbulence
+	       December 10, 2003 to December 12, 2003
+
+The Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA) is
+pleased to announce the 2003 CFD-MHD Workshop in Astrophysics: 'Numerical
+Methods and Astrophysical Turbulence', to be held in CCMS-Physics
+Building, National Taiwan University, Taipei, Taiwan, from December 10 to
+December 12.
+
+This workshop will congregate many of the eminent researchers around the
+world specialized in applications of computational fluid dynamics and/or
+magnetohydrodynamics in astrophysical problems to share their most
+state-of-art works in the field. In our program, the keynote speakers are
+Bruce Elmegreen (IBM, USA), Peter Goldreich (Caltech, USA), and Frank H.
+Shu (NTHU, Taiwan) for astrophysical turbulence, and Phil Colella
+(UC-Berkeley, USA), Michael L. Norman (UC-San Diego, USA), James M. Stone
+(Princeton, USA), and Paul R. Woodward (Minnesota, USA) for numerical
+methods and applications to astrophysics. In addition to the keynote
+speakers, we have 16 invited speakers, all world experts in the field. The
+topics will cover a wide-range of problems in star formation, galactic
+dynamics, accretion disks, astrophysical jets, and cosmology, as well as
+numerical techniques.
+
+The CFD-MHD workshop is planned in conjunction with a grand celebration
+for the ASIAA 10th anniversary on December 10 that will feature a series
+of scientific talks in the morning and early afternoon. The speakers for
+the series are Charlie Townes, Jack Welch, Jeremy Mould, Peter Goldreich,
+and Reinhard Genzel. We are glad we can host these two events together to
+give people a rare chance to have a panoramic view of the foremost
+research in astrophysics.
+
+Scheduled also on Dec. 10, will be the poster presentation session.  The
+posters will remain posted during the entire workshop. The number of the
+posters is limited up to 25. They will be reviewed by the organizers of
+the workshop and generally accepted on the first-come-first-serve basis.
+So please send in your title and abstract as soon as possible when
+registering.
+
+If you are interested in this workshop, please register at the official
+website http://cfd-mhd2003.asiaa.sinica.edu.tw.  Also, please take a look
+for updated news and information. We will charge an NT$800 (US$25) fee for
+each participant, covering the expenses of two lunches and one banquet,
+plus programs and other paperwork.  If you have any questions about this
+workshop, please e-mail to cfd-mhd2003@asiaa.sinica.edu.tw. Again, we
+cordially invite you to attend this great event in CFD-MHD community.
+
+The invited speakers are:
+
+I-Liang Chern (NTU, Taiwan)
+Tomoyuki Hanawa (Nagoya, Japan)
+Seung Soo Hong (Seoul, Korea)
+Richard Klein (UC-Berkeley, USA)
+Alex Lazarian (Wisconsin, USA)
+Hui Li (LANL, USA) 
+Pak-Shing Li (UC-Berkeley, USA) 
+Tai-Ping Liu (ASIM, Taiwan)
+Stephen Lubow (STSci, USA)
+Ryoji Matsumoto (Chiba, Japan)
+Ue-Li Pen (CITA, Canada)
+Paul Ricker (UIUC, USA)
+Dongsu Ryu (Chungnam, Korea)
+Keiichi Wada (NAO, Japan)
+Kun Xu (USTHK, HK)
+Chi Yuan (ASIAA, Taiwan)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

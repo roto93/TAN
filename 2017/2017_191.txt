@@ -1,0 +1,52 @@
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> Subject: TTTT seminar
+> Date: Tue, 21 Nov 2017 15:03:49 +0800
+
+To who it may concern,
+
+Could you please forward the following announcement to TAN?
+
+Regards,
+Tetsuya
+------------------------------------------------------------------------------
+Dear all,
+
+This is a reminder of "TTTT seminar" in NTHU.
+We start to have periodic guest talks in the astro-ph class
+in National Tsing Hua University (NTHU) namely
+Timely Talk per Thirty days organized by Tetsuya (TTTT).
+Any students and faculties are welcome to join.
+The first speaker is as follows.
+
+Title:
+An extremely luminous dust-obscured galaxy discovered
+by the optical to millimeter observations
+
+Speaker: Yoshiki Toba
+Institute of Astronomy and Astrophysics, Academia Sinica
+
+Time: 12:20pm 14th Dec. 2017 (Thursday)
+Venue: R501, IoA, 5th floor in the 2nd General Building
+
+Abstract:
+I will report the discovery of an extremely-luminous dust-obscured
+galaxy (DOG) at z = 3.70. This DOG is selected as a candidate of
+extremely-luminous infrared (IR) galaxies based on the photometry
+from the Sloan Digital Sky Survey (SDSS) and Wide-field Infrared
+Survey Explorer (WISE). In order to derive its accurate IR luminosity,
+we perform follow-up observations at 450 and 850 micron using the
+Submillimetre Common User Bolometer Array 2 (SCUBA-2) on the
+James Clerk Maxwell Telescope (JCMT), and at 870 and 1300 micron
+using the Submillimeter Array (SMA), which enable us to pin down its
+IR Spectral Energy Distribution (SED). We perform SED fitting using
+14 photometric data (0.4 - 1300 micron) and estimate its IR luminosity,
+L_IR (8-1000 micron), to be {1.8 ± 0.2) × 10^14 L_sun, making it one
+of the most luminous IR galaxies in the Universe. I will present our
+follow-up observations and the SED modeling in detail
+(Toba et al. 2017, ApJ, submitted).
+
+With best regards,
+Tetsuya
+
+==============================================================================

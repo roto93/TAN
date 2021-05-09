@@ -1,0 +1,74 @@
+From kyl@asiaa.sinica.edu.tw Mon Mar 20 15:05 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA14081
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 20 Mar 2000 15:04:54 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA26072
+	for <astro@asiaa.sinica.edu.tw>; Mon, 20 Mar 2000 15:03:35 +0800
+Date: Mon, 20 Mar 2000 15:00:12 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MERLIN - Call for Proposals (fwd)
+Message-ID: <Pine.SOL.4.10.10003201500090.8400-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1745
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 14 Mar 2000 16:59:42 +0000 (GMT)
+From: Simon Garrington <stg@jb.man.ac.uk>
+To: vlbi@cv3.cv.nrao.edu
+Subject: MERLIN - Call for Proposals
+
+                                  
+                             MERLIN - CALL FOR PROPOSALS
+           Semester 00B Observations : October 2000 - January 2001
+
+              Deadline for Receipt of Proposals - 9 April 2000.
+
+                                 **********
+
+               Observing frequencies likely to be available:-
+
+         L-Band  -1330 MHz to 1430 MHz and 1550 MHz to 1730 MHz  -
+         C-Band  -              4.5 GHz to 5.2 GHz               -
+         K-Band  -               21 GHz to 24 GHz                -
+
+L-Band will be available at the start of the session. The timing of the
+change to C/K-Band will be determined by user demand as rated by the 
+MERLIN TAG.
+There will be only one change from L-Band to C/K-Band.
+
+Proposal forms, information on Key Programmes and further general
+information can be obtained via
+
+    ftp:     ftp.jb.man.ac.uk, Directory: /pub/merlin/proposals
+    www:     http://www.jb.man.ac.uk/merlin/MERLIN.html
+    email:   merlin@jb.man.ac.uk
+
+Proposals can be submitted by email.
+
+There are planned MERLIN + EVN observations at L-Band in November 2000.
+Applications for MERLIN + EVN observations should be sent to the 
+EVN PC (deadline 1 June 2000).
+
+
+See http://www.jb.man.ac.uk/merlin/MERLIN.html for further details
+
+
+

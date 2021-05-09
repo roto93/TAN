@@ -1,0 +1,192 @@
+From kyl@asiaa.sinica.edu.tw Fri Sep 17 08:01 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA24850
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 17 Sep 1999 07:59:29 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA01587
+	for <astro@asiaa.sinica.edu.tw>; Fri, 17 Sep 1999 07:51:33 +0800
+Date: Fri, 17 Sep 1999 07:55:39 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ISO Publications (fwd)
+Message-ID: <Pine.SOL.4.10.9909170755370.12987-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7291
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 16 Sep 1999 18:38:38 +0200 (MET DST)
+From: ISO Helpdesk <helpdesk@iso.vilspa.esa.es>
+To: kyl@astro.uiuc.edu
+Subject: ISO Publications
+
+Dear ISO Observer,
+
+As you might know, all the ISO data are now in the public domain and
+available from the archive at:
+
+                  http://www.iso.vilspa.esa.es/
+
+We are currently compiling (and wish to keep updated) a list of all 
+publications arising from ISO data. Obviously, we are scanning the
+literature and using the various search capabilities; however, to help
+ensure that our lists are as complete and accurate as possible, we need 
+your help. Appended to this mail you will find a list we have compiled 
+of the _refereed_ publications by you that have come from your ISO
+programme(s). Note that the list also contains our best identification
+of the specific observations used in each publication. I ask you to
+check this list and inform the ISO Helpdesk (helpdesk@iso.vilspa.esa.es)
+of any corrections or additions (including any non-refereed papers). I
+would also greatly appreciate you continuing to inform helpdesk of
+future papers; a WWW page will be established to make this chore as easy
+as possible.
+
+We plan to include the publications list in future versions of the
+archive and also intend to have detailed links between the observing
+programmes and the resulting publications. Additionally, we are thinking
+of including in the public archive data reduced to publication level by
+the observer. Your inputs on these topics, via the attached
+mini-questionnaire, will be greatly appreciated.
+
+To help the community maximise their return from their ISO
+observations, a network of 7 ISO data centres has been set up, for
+details see 
+
+   http://www.iso.vilspa.esa.es/users/post_ops/post_operations.html
+
+Should you require help via a visit to a data centre (or remotely via
+e-mail) please contact the specialists at these centres for assistance.
+They will be pleased to try to help you get your data reduced for
+publication.
+
+May I also ask you to spend a few minutes answering the following
+questions so that we may tune the services of the data centres and
+the data archive to your needs.
+
+Thanking you in advance,  
+With best regards,
+
+Martin Kessler
+ISO Project Scientist
+
+-----------------------------------------------------------------------------
+PLEASE COMPLETE AND RETURN TO: helpdesk@iso.vilspa.esa.es
+
+
+1. Have you reduced your ISO data?
+   [ ] yes    [ ] no    [ ] partially
+
+  If your ISO data is fully or partially reduced:
+     1.1 which data centre did you visit?
+          [ ] ISO Data Centre, Vilspa, Spain
+          [ ] French ISO Centres, Saclay/Orsay, France
+          [ ] ISOPHOT Data Centre, Heidelberg, Germany
+          [ ] ISO Spectrometer Data Centre, Garching, Germany
+          [ ] Dutch ISO Data Analysis Centre, Groningen, Netherlands
+          [ ] UK ISO Data Centre, Chilton, UK
+          [ ] IPAC, Pasadena, USA
+          [ ] none
+      1.2 what tools did you use?
+          [ ] CIA      
+          [ ] PIA
+          [ ] OSIA
+          [ ] SIA
+          [ ] LIA 
+          [ ] ISAP
+          [ ] other   Which? ............................
+          [ ] own tools
+     1.3 to what extent did the processed data meet your scientific
+         expectations?
+         ................................................
+         ................................................
+     1.4 did the data lead to publications? 
+         [ ] yes  
+             [ ] published
+             [ ] in press
+             [ ] submitted
+         [ ] no
+         If yes, please complete question 3.
+         If no, how can the data centres help you? 
+         ................................................
+         ................................................
+
+  If your ISO data is not, or is only partially, reduced:
+     1.5 what is/are the main reasons for the current status?
+          [ ] lack of time and/or funding
+          [ ] other projects taking priority
+          [ ] lack of tools to reduce the data
+          [ ] don't know how to reduce the data
+          [ ] other. Please comment.
+          Comments: ............................................
+     1.6 the data centres organise "hands-on" data workshops of duration
+         about a week focussing on very specific topics.  Please suggest
+         any topics that would help you:
+         ................................................
+         ................................................
+
+
+2. We are planning to include user-reduced data into the ISO Data
+   Archive.  The format of such data is under definition but the
+   intention is to minimise any extra work for the person supplying the
+   reduced data back to the archive.
+   Would you, in principle, be willing to provide your final reduced 
+   data sets (plus information on the reduction processing) to the ISO
+   Data Archive?
+   [ ] yes    [ ] no
+   Comments: ............................................
+
+
+3. We are planning to provide through the archive links from
+   observations to articles based on them. Therefore we request you
+   to check the observations used for the publications listed below. For  
+   simplicity, you may identify any observations either by: 
+   1) target name as in the proposal, or
+   2) observation number (the sequence number of the observation in the
+      proposal), or
+   3) TDT number (simplest for archive; this is the 8 digit number in the
+      data file names).
+   We have included all three in the list below.
+
+Hwang, C.-Y., Lo, K.Y., Gao, Y. et al, 1999, ApJ, 511, L17
+Mid-Infrared Images of Luminous Infrared Galaxies in a Merging
+Sequence
+Observer ID   Proposal ID  OSN  Target               TDT       AOT
+KLO           LIRG_MS      8    NGC6670              46200208  C01
+KLO           LIRG_MS      6    MRK848               46300606  C01
+KLO           LIRG_MS      1    UGC2369              46501001  C01
+KLO           LIRG_MS      17   UGC2369              46501417  C01
+KLO           LIRG_MS      4    ARP302_A             46600404  C01
+KLO           LIRG_MS      5    ARP302_B             46600605  C01
+KLO           LIRG_MS      7    NGC6090              50100407  C01
+KLO           LIRG_MS      16   NGC6090              50100516  C01
+KLO           LIRG_MS      3    NGC5256              53200203  C01
+KLO           LIRG_MS      9    NGC7592              54500809  C01
+KLO           LIRG_MS      22   NGC6670              63501322  C01
+KLO           LIRG_MS      15   NGC7592              77100815  C01
+
+   Corrections?.........................................................
+
+   Additions?...........................................................
+
+   Despite our tracking of publications based on ISO Data, we ask that
+   you continue to inform us of your future publications.  This is 
+   especially important in view of getting the linking between articles
+   and used observations as correct as possible.  We intend to 
+   establish a WWW page to make this process more convenient.
+
+

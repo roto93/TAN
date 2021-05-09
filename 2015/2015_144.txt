@@ -1,0 +1,42 @@
+> Date: Thu, 23 Jul 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chris Lintott (Oxford)
+Topic:          Citizen Science for a Transient Universe
+Time:           7/27 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Projects such as Galaxy Zoo and Planet Hunters have established that the involvement of volunteers in astronomical data processing can produce remarkable results, sorting through large datasets and enabling serendipitous discoveries. Yet the next generation of large surveys threaten to overwhelm such projects, especially when decisions are needly rapidly in response to transient events. Taking seriously the promise of citizen science in the era of LSST and SKA requires efficient allocation of tasks, collaboration between human and machine classifiers and a focus on the areas where humans can really make a difference. This talk will use examples drawn from the Zooniverse platform to illustrate the latest thinking on these problems, and explain how rapid project iteration enabled by new software puts citizen science in reach of all astronomers.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Kinsuk Giri (NTHU)
+Topic:          How does a Two Component Advective Flow Form?
+Time:           7/29 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+A black hole accretion is necessarily transonic. In presence of sufficiently high viscosity and cooling effects, a low angular momentum transonic flow can become a standard Keplerian disc except close to the hole where it must pass through the inner sonic point. However, if the viscosity is not high everywhere and cooling is not efficient everywhere, the flow cannot completely become a Keplerian disc. We show that, in agreement with the theoretical solutions of viscous transonic flows, matter having the viscosity parameter above a critical value becomes a Keplerian disc while matter having lesser viscosity remains a low angular momentum, sub-Keplerian flow. Thus, for instance, a flow having sufficiently high viscosity on the equatorial plane and low viscosity above and below would produce a two-component advective flow where a Keplerian disc is surrounded
+by a rapidly infalling sub-Keplerian halo. We find that the post-shock region of the relatively cooler Keplerian disc is evaporated and the overall configuration is quite stable. This agrees with the theoretical model with two components, which attempts to explain the spectral and timing properties of black hole candidates.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Hsin-Yu Chen (University of Chicago)
+Topic:          Compact Binary Merger Rate, Detection, and Followup
+Time:           7/30 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Compact binary coalescences (CBCs) are the most promising gravitational wave source for the LIGO/Virgo detectors. We predict the detectable rate of CBCs from short GRB observations, and constrain the GRB beaming angles from the non-detection of mergers in existing LIGO/Virgo data. The gravitational wave signals are almost impossible to obscure via dust absorption or other astrophysical processes, allowing us to derive the universal distribution of signal-to-noise ratios (SNR) for gravitational wave detection. This distribution guarantees the existence of high SNR events, and these provide the best constraints on source parameters such as sky locations. We discuss low-latency localization from these high SNR CBC detections, and some preliminary work on optimizing EM follow-up of CBC sources.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

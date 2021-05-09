@@ -1,0 +1,74 @@
+From jlim@asiaa.sinica.edu.tw Wed Oct  7 11:44:33 1998
+Return-Path: <jlim@asiaa.sinica.edu.tw>
+Received: from biaa33.biaa.sinica.edu.tw (iaa11) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA04802; Wed, 7 Oct 1998 11:42:07 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id LAA06706; Wed, 7 Oct 1998 11:39:58 +0800
+Date: Wed, 7 Oct 1998 11:39:58 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199810070339.LAA06706@biaa33.biaa.sinica.edu.tw>
+To: iaa@iaa1, astro@iaa1
+Subject: ASIAA-NCU Colloquium
+Cc: kaiser@po.iams.sinica.edu.tw
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Md5: 4mVdJpLjuhbiNuLwSJ24xg==
+Content-Length: 2841
+Status: RO
+
+                 I- ------------------------------------- -I
+                 I     Graduate Institute of Astronomy     I
+                 I        NATIONAL CENTRAL UNIVERSITY      I
+                 * --------------------------------------- *
+         
+                    *     J O i N T    S E M i N A R    *
+
+
+                            9 Oct 1998 (Friday)
+   Room 1013 (Conference Room), Science IV Building, National Central University
+            ==================================================
+            
+Session 1:  Colloquium (2:30 - 3:30 pm)
+
+            SPEAKER: Dr. Ralf Kaiser
+                    (Academia Sinica Institute of Atomic and Molecular Sciences)
+	    TITLE:   "Cosmic ray particle induced formation 
+	              of molecules in frozen ices"
+            ABSTRACT:
+The reaction products of cosmic ray particle induced reactions of energetic
+(suprathermal) carbon (C) and hydrogen (H) atoms with methane (CH4), ethene
+(C2H4), and acetylene (C2H2) ices at 10 K are investigated experimentally.
+Ices are irradiated in an ultra high vacuum vessel with 9.0 MeV alpha-particles
+and 7.3 MeV protons, and analyzed on line and in situ via a quadrupole mass
+spectrometer (QMS, gas phase) and Fourier transform infrared spectrometer
+(FTIR, solid state). The experiments show that suprathermal H and C atoms
+lead to a broad product spectrum of synthesized molecules ranging from
+atomic and molecular hydrogen, H and H2, CHn  (n = 1  4), C2Hn (n = 1  6),
+C3Hn (n = 4  8), larger alkanes and alkenes with up to 18 carbon atoms, and
+to polycyclic aromatic hydrocarbons (PAHs) as complex as coronene. The
+explicit identification of these reaction products in the solid state at 10 K 
+opens a versatile pathway to a cosmic ray induced formation of molecules
+in interstellar ices. These investigations show synthetic routes to
+astronomically observed C2H2, C2H4, and CH3CCH molecules and postulate
+formation mechanisms of hitherto unobserved interstellar molecules.
+Further, the cosmic ray particle induced formation of H2 inside ices offers
+a strong alternative to hitherto assumed formation of H2 via grain-surface
+chemistry. Finally, the identification of PAH molecules suggests, that these
+species are very likely formed in carbon-rich interstellar grains - a
+powerful option compared to postulated gas-phase reactions proceeding thru
+stepwise condensation of C2H2 and C2H molecules.
+            REFERENCES: R.I. Kaiser & K. Roessler, 1997, ApJ, 475, 144
+                        R.I. Kaiser, G. Eich, A. Gabrysch, K. Roessler, 1997,    
+                        ApJ, 484, 487
+                        R.I. Kaiser, K. Roessler, 1998, ApJ, 503, 595
+
+
+
+Session 2:  Journal Club (3:45 -- 4:15)
+
+            SPEAKER: Dr. Jeremy Lim (ASIAA)
+	    TITLE:   "On the multiplicity of eta Carina"
+	              (1998, ApJL, 505, L131)
+

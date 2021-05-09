@@ -1,0 +1,34 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu, 11 Dec 2014 08:00:03 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Kartik Sheth (NRAO)
+Topic:         Constraining the Assembly of Galaxy Disks over the last 12 Billion Years with ALMA, HST and Spitzer
+Time:         12/16 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Bars are a key signpost in the evolutionary history of a disk galaxy. When a disk is sufficiently massive, dynamically cold and rotationally supported, and sufficient time has elapsed for the baryonic matter to exchange energy and angular momentum with the dark matter halo or the outer disk, the formation of a bar is inevitable.  Therefore understanding the evolution of the bar fraction as a function of the host galaxy properties and as a function of redshift provides important clues to the evolutionary history of galaxies.  I will present the latest results on local bars from the Spitzer Survey of Stellar Structure in Galaxies (S4G) and discuss the observations for the declining bar fraction with redshift from the COSMOS survey.  A plausible reason for the decline in the bar fraction may be that galaxy disks were too dynamically hot to host bars at higher redshift which we have investigated using the DEEP2 / AEGIS data. Together these data are beginning to provide a coherent
+  and consistent picture for the assembly history of disks on the Hubble sequence. The star formation in these disks is also now being understood with the latest results from ALMA.  I will show the latest results on the cosmological evolution of the molecular gas content in a mass-selected sample of galaxies at three epochs, z=2.2, z=1, and z=0.3 and discuss planned Cycle 1 observations of the molecular gas environment in the prototypical barred spiral NGC 1097.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Sebastien Muller (Onsala Observatory)
+Topic:         PKS1830-211: the molecular absorption at z=0.89 and the background blazar
+Time:         12/17 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The line of sight to the lensed blazar PKS1830-211 intercepts the disk of a foreground spiral galaxy at z=0.89, yielding absorption detected in 40+ molecular species. These molecules can be used as cosmological probes at a look-back time of more than half the present age of the Universe. We can determine their excitation and measure the temperature of the cosmic microwave background, compare their kinematics and set constraints on the variations of the fundamental constants, measure the isotopic ratios from different isotopologues and investigate the elemental enrichment from stellar processes, and, of course, investigate the chemistry in the disk of the absorber.
+Regarding the background blazar, we will discuss ALMA observations obtained serendipitously at the time of a gamma-ray flare, allowing us to investigate the submm to gamma-ray connection. Last we will present the first ALMA polarimetry results, with the highest Faraday rotation ever measured, revealing a strong magnetic field at the base of the jet in PKS1830-211.
+In short, one line of sight, but many and diverse science results !
+
+
+==============================================================================

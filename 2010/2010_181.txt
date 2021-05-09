@@ -1,0 +1,229 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Nov 10 23:44:29 2010
+Date: Wed, 10 Nov 2010 23:37:56 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Nov 09 - 10, 2010)
+
+============================================================================== 
+
+In this issue (Nov 09 - 10, 2010)
+
+1. Reminder: East-Asia Interferometry Winter School (2nd Circular: Nov 15)
+
+==============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Fwd: East-Asia Interferometry Winter School (Second Circular)
+> Date: Wed, 10 Nov 2010 22:12:36 +0800
+
+Dear Yi-Jehng,
+
+	Please kindly circulate this announcement again as a reminder. Thanks!
+
+best,
+sheng-yuan
+
+>> -----------------------------------------
+>> East-Asia Interefometry Winter School (Second Circular)
+>>
+>> Hosted by: Graduate University for Advanced Studies (GUAS),
+>>          Department of Astronomical Science, and
+>>          National Astronomical Observatory of Japan (NAOJ)
+>> Software Tutorial Support: NAOJ Astronomy Data Center
+>>
+>>
+>> This Winter School is aimed to provide lectures and software
+>> tutorials for young astronomers (graduate students and postdocs)
+>> interested in millimeter and submillimeter interferometric
+>> observations and/or VLBI observations.
+>>
+>>
+>> - Dates of the school: February 7-11, 2011
+>> - Venue:               National Astronomical Observatory of Japan  
+>> (NAOJ),
+>>                      Mitaka campus
+>>                      (including one-day trip to Nobeyama Radio
+>> Observatory)
+>> - Official language:   English
+>> - Official website:    http://vsop.mtk.nao.ac.jp/EAIWS2010/
+>>
+>>
+>> - Registration:
+>> We would like to open the registration for the East-Asia Radio  
+>> Astronomy
+>> Winter School. Please visit the on-line registration page on our  
+>> web site
+>> (http://vsop.mtk.nao.ac.jp/EAIWS2010/registration2.html),
+>> and fill out all items in the registration form.
+>>
+>> =====================================================================
+>> The deadline for registration, financial support, and/or  
+>> accommodation
+>> is November 15, 2010.
+>> The maximum number of acceptable participants for tutorial and  
+>> Nobeyama
+>> tour will be limited to 50 people because of the capacity of the  
+>> rooms.
+>> We will have additional 50 people as lecture-only attendees. We will
+>> select the attendees after the registration is closed.
+>> Please note that, due to limited capacity (50 people), your  
+>> participation
+>> is not guaranteed until the LOC informs you of the results of the
+>> selection,
+>> even if your registration is received on time.
+>>
+>> =====================================================================
+>>
+>>
+>> - Registration fee and other costs:
+>> There will be a registration fee of \1,000 Japanese Yen (JPY), which
+>> includes coffee/tea and other miscellaneous items.
+>> In addition, there will be extra charges for banquet (\3,000 per  
+>> person),
+>> software tutorial (\3,000 per person), and  Nobeyama one-day tour
+>> (\3,000 per person, including lunch).
+>> They should be paid at the registration desk only in cash (JPY).
+>> Please select each option when you fill out the registration form.
+>>
+>> - Accommodation:
+>> The LOC have block bookings during February 6-12 at Hotel Mets
+>> Musashisakai
+>> (http://www.jrhotelgroup.com/eng/code/codeeng124.htm), which is  
+>> located
+>> near the NAOJ Mitaka campus. The discount rate for a single room
+>> (\8,100 per night including breakfast) will be applied if you book  
+>> your
+>> room via the registration form.
+>> We will also arrange limited number of accommodations at the  
+>> observatory
+>> dormitory "Cosmos-Kaikan" located at the NAOJ Mitaka campus.
+>> Please select the preferred type of accommodation in the registration
+>> form.
+>> If you wish to share a room, we will try to pair you up with other
+>> attendee(s). If so, please advise the LOC via the registration form.
+>> The results of arrangements will be informed after the registration  
+>> is
+>> closed.
+>>
+>> - Financial support:
+>> We can offer limited amount of financial support to encourage student
+>> participation in the Winter School. The support will be provided in
+>> the form
+>> of a partial reimbursement of the transportation and/or accommodation
+>> expenses.
+>> If you need financial support, the on-line registration must be  
+>> made by
+>> November 15, 2010. Later, applicants who have requested financial
+>> support will
+>> be informed of the details of the support.
+>>
+>>
+>> - Visa:
+>> Some of the attendees from outside Japan are required to have
+>> a visa issued from the Japanese embassy. Please see
+>> "A Guide to Japanese Visas" in detail.
+>> (http://www.mofa.go.jp/j_info/visit/visa/index.html)
+>> If you need a visa, please note in the registration fee.
+>> We will issue an invitation letter for your request.
+>>
+>>
+>> - Program outline:
+>> The preliminary program is given in the following table.
+>> The final version of the program will be described in the third  
+>> circular.
+>>
+>> Feb 7 Lectures I.
+>>   1. Radio astronomy
+>>      1.1. Basic radio astronomy (1hr)
+>>      1.2. Interferometry (basics) (1hr)
+>>      1.3. Interferometers in the world (1hr)
+>>      1.4. Radio telescopes in Japan (1hr)
+>>   2. Instrumentation and methods
+>>      2.1. System (40min)
+>>      2.2. Antenna (40min)
+>>      2.3. Receiver (40min)
+>>      2.4. Correlator, backend, digital process (40min+1hr)
+>> Feb 8 Lectures
+>>   2. Instrumentation and methods(continued)
+>>      2.5 Calibration (1hr)
+>>      2.6 Imaging (1hr)
+>>      2.7. Atmospheric phase correction (40min)
+>>   3. Sciences
+>>      3.1. Galactic  (1hr)
+>>      3.2. Extragalactic (1hr)
+>>      3.3. VLBI (1hr)
+>>      3.4. Astrometry (1hr)
+>>   4. Proposal preparation (40m)
+>> Feb 9 Software tutorial (ALMA Observing Tool, CASA, AIPS)
+>> Feb 10 Software tutorial (CASA, AIPS), banquet
+>> Feb 11 Nobeyama one-day tour
+>>
+>>
+>> - Confirmed Lecturers:
+>> Yoshiharu Asaki (JAXA, Japan)
+>> Ming-Tang Chen (ASIAA, Taiwan)
+>> Yoshiaki Hagiwara (NAOJ, Japan)
+>> Tomoya Hirota (NAOJ, Japan)
+>> Paul T. P. Ho (ASIAA, Taiwan)
+>> Mareki Honma (NAOJ, Japan)
+>> Seiji Kameno (Kagoshima U., Japan)
+>> Kotaro Kohno (U. Tokyo, Japan)
+>> Sheng-Yuan Liu (ASIAA, Taiwan)
+>> Hiroyuki Nakanishi (Kagoshima U., Japan)
+>> Nagayoshi Ohashi (ASIAA, Taiwan)
+>> Sachiko K. Okumura  (NAOJ, Japan)
+>> Masao Saito  (NAOJ, Japan)
+>>
+>>
+>> - Poster presentation:
+>> Upon request, we can prepare for your poster presentation
+>> at the school venue.
+>> If you want to present your poster, please let us know it
+>> in Special Request in registration, with the title of your poster.
+>>
+>>
+>> - Important Dates:
+>> October 10, 2010;    Second Circular
+>> November 15, 2010;   Deadline for registration, accommodation, travel
+>> support
+>> Late November, 2010; Selection of financial support and attendees
+>> January ??, 2011;    Final Circular
+>> February 7-11, 2011; Dates of the school
+>>
+>>
+>> - Organizing Committee:
+>> Ken Tatematsu (NAOJ/ALMA, chair)
+>> Tomoya Hirota (NAOJ/Mizusawa VLBI, co-chair)
+>> Yoshiaki Hagiwara (NAOJ/Mizusawa VLBI)
+>> Aya Higuchi (NAOJ/ALMA)
+>> Nario Kuno (NAOJ/Nobeyama)
+>>
+>>
+>> - E-mail contact: eaiws2010_AT_nro.nao.ac.jp
+>>                 (replace _AT_ with @)
+>> -----------------------------------------
+>>
+>> 廣田朋也
+>> 国立天文台水沢VLBI観測所
+> _______________________________________________
+> Iaa mailing list
+> Iaa@asiaa.sinica.edu.tw
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

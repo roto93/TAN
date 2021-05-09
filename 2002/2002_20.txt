@@ -1,0 +1,161 @@
+From yuanru@phys.ntu.edu.tw Tue Jan 22 12:07 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA21460
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 22 Jan 2002 12:07:08 +0800 (CST)
+Received: from main.phys.ntu.edu.tw (main.phys.ntu.edu.tw [140.112.101.1])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA08885;
+	Tue, 22 Jan 2002 12:02:46 +0800 (CST)
+Received: from yuanju (yuanju.phys.ntu.edu.tw [140.112.101.224])
+        by main.phys.ntu.edu.tw (8.12.0.Beta5/8.12.0.Beta5/Debian 8.12.0-1) with SMTP id g0M4DXZs011470;
+	Tue, 22 Jan 2002 12:13:34 +0800
+Message-ID: <002401c1a2fa$79b7d8e0$e065708c@phys.edu.edu.tw>
+From: "yuanru" <yuanru@phys.ntu.edu.tw>
+To: "amiba" <amiba@asiaa.sinica.edu.tw>, "belle" <belle@hep1.phys.ntu.edu.tw>,
+        "iaa" <iaa@asiaa.sinica.edu.tw>,
+        "Taiwan HEP Friends" <twhepnet@hepmail.phys.sinica.edu.tw>,
+        "astro" <astro@asiaa.sinica.edu.tw>, "Ghosh" <dghosh@phys.ntu.edu.tw>,
+        "Guo-Chin Liu" <gcliu@asiaa.sinica.edu.tw>,
+        "hsyang" <hsyang@phys.ntu.edu.tw>, "K-W Ng" <nkw@phys.sinica.edu.tw>,
+        "Lin-wen Chen" <clw@phys.ntu.edu.tw>, "Miao Li" <mli@phys.ntu.edu.tw>,
+        "Prof. Yuan Chi" <yuan@asiaa.sinica.edu.tw>, <cwwang@phys.ntu.edu.tw>,
+        <tony@asiaa.sinica.edu.tw>, "Prof. He" <hexg@phys.ntu.edu.tw>,
+        =?big5?B?p2SnZ6tq?= <bonwood@ms24.hinet.net>,
+        <taiji@asiaa.sinica.edu.tw>,
+        "libb@phys.sinica.edu.tw" <lihb@phys.sinica.edu.tw>,
+        <ktwang@phys.ntu.edu.tw>, "lihwai@sinamail.com" <Lihwai@sinamail.com>,
+        <lupin@asiaa.sinica.edu.tw>, <kager@pchome.com.tw>,
+        <deutsch@stella.astro.ncu.edu.tw>, <hexg1@phys.ntu.edu.tw>,
+        =?big5?B?sKimqK14?= <chengjiun@yahoo.com.tw>,
+        =?big5?B?sWmn06n6?= <nnp1@phys.ntu.edu.tw>,
+        =?big5?B?sWmyTatU?= <r8222001@dove.cc.ntu.edu.tw>,
+        =?big5?B?s6+mv7H2?= <cmchen@phys.ntu.edu.tw>,
+        =?big5?B?s6+rVKh9?= <r8222013@dove.cc.ntu.edu.tw>,
+        =?big5?B?tL/Eo77I?= <tseng327@ms7.hinet.net>,
+        "Prof. Ho" <pmho@phys.ntu.edu.tw>,
+        "Prof. W-Y. Pauchy Hwang" <wyhwang@phys.ntu.edu.tw>,
+        =?big5?B?uK2tWrxs?= <b5202023@ms.cc.ntu.edu.tw>,
+        =?big5?B?vbKp06lb?= <klem@ethome.net.tw>,
+        =?big5?B?v72m9rDq?= <hexg4@phys.ntu.edu.tw>,
+        =?big5?B?v+Cl+s7r?= <kclai@phys.ntu.edu.tw>,
+        =?big5?B?wrK5xae7?= <chiueh1@phys.ntu.edu.tw>,
+        "Prof. Chiueh" <chiuehth@phys.ntu.edu.tw>, <yen@asiaa.sinica.edu.tw>,
+        "Je-An Gu" <wyhwange@phys.ntu.edu.tw>
+Cc: <wcchen@phys.ntu.edu.tw>, <carollee@hep1.phys.ntu.edu.tw>,
+        <jackie@asiaa.sinica.edu.tw>
+Subject: =?big5?B?MjAwMSCmfqvXpqiqR7Vvqu23fDUvMg==?=
+Date: Tue, 22 Jan 2002 12:08:23 +0800
+MIME-Version: 1.0
+	charset="big5"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Content-Type: text/plain;
+	charset="big5"
+Content-Length: 2690
+Status: R
+
+Dear colleagues,
+
+     In February 5, 2002(Tuesday) we are going to hold "2001 年度
+成果發表會 "  at Tung Hai University(Room ST 635).  It's our great
+pleasure to invite all of you to join us at this occasion. We wish to
+share with you some of the progresses which we have made  in
+connection with Taiwan CosPA Project.
+
+With best regards,
+
+Yuanru Ho
+assistant to Prof. Pauchy W-Y. Hwang
+
+============================================
+「宇宙學與粒子天文物理學」追求學術卓越計畫
+            Cosmology and Particle Astrophysics
+                      2001 年度成果發表會
+============================================
+Session Chairman: Prof. W-Y. Pauchy Hwang
+
+Sub-Project 1:
+10:30 – 10:45
+General Review on AMiBA
+Prof. Kwok-Yung Lo
+10:45 – 11:00
+AMiBA Cluster Survey via SZ Effects
+Prof. Tzihong Chiueh
+11:00 – 11:15
+Data Pipeline for AMiBA Polarization Measurement
+Prof. Kin-Wang Ng
+11:15 – 11:30
+Prototype Receivers for AMiBA
+Dr. Ming-Tang Chen
+
+Sub-Project 2:
+11:30 – 11:45
+Status of CosPA-2: From Particle to Astroparticle Experiments
+Prof. Wei-Shu Hou
+11:45 – 12:00
+A Flexible Circuit in Belle SVD2
+Rong-Shyang Lu
+12:00 – 12:15
+Trigger Timing Module for the SVD2 Upgrade at Belle
+Ming-Chuan Chang
+12:15 – 12:30
+A Neutrino Telescope Detector
+Dr. Y. Velikzhanin
+
+Session Chairman:  Prof. Kwok-Yung Lo
+
+Sub-Project 3:
+14:30 – 14:50
+Overview of CosPA Theory
+Prof. W-Y. Pauchy Hwang
+14:50 – 15:10
+The Balance of Matter Atraction and Dark Energy Repulsion in
+the Universe
+Prof. Xiao-Gang He
+15:10 – 15:25
+Supergravity Fluxbranes in Various Dimensions
+Dr. Chiang-Mei Chen
+15:25 – 15:40
+Accelerating Universe as from the Evolution of Extra
+Dimensions
+Dr. Je-An Gu
+15:40 – 15:55
+ High-Energy Cosmic-Ray Tau Neutrino Flux from the Milky Way
+Jie-Jun Tseng
+
+Sub-Project 4 & Sub-Project 5:
+16:30 – 16:45
+Wide Field Infrared Camera for Canada France Hawaii Telescope
+Prof. Typhoon Lee
+16:45 – 17:00
+Acceptance Test of TAOS Telescopes Using a Shack
+Interferometer
+Dr. Jen-Hung Wang
+17:00 – 17:15
+National Infrastructure
+Prof. Wing-Huen Ip
+17:15 – 17:30
+Information about Reionzation from Cosmic Microwave
+Background
+Dr. Guo-Chin Liu
+17:30 – 17:45
+X-ray Luminosity and Temperature Scaling Relation in N-body
+Simulation
+Kai-Yang Lin
+
+
+※ If you want to attend this meeting, please register on website
+http://phys.thu.edu.tw/2002/ first.
+※ Lunch box provided. Please send a request to
+Sub-Project 1 & 4 Jackie Wang    jackie@asiaa.sinica.edu.tw
+Sub-Project 2        Carol Lee         carollee@hep1.phys.ntu.edu.tw
+Sub-Project 3       Wen-Chi Chen  wcchen@phys.ntu.edu.tw
+Any other one who is interested, please contact  Yuanru Ho
+yuanru@phys.ntu.edu.tw
+Tel: 02-33665187
+Fax: 02-23655473
+
+
+

@@ -1,0 +1,190 @@
+From hkchang@phux1.phys.nthu.edu.tw Thu Jan  6 12:04 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA26239
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 6 Jan 2000 12:03:27 +0800 (CST)
+Received: from nyx.cc.nthu.edu.tw (qmailr@nyx.cc.nthu.edu.tw [140.114.63.1])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id LAA03500
+	for <astro@asiaa.sinica.edu.tw>; Thu, 6 Jan 2000 11:55:46 +0800
+Received: (qmail 21891 invoked by uid 10); 6 Jan 2000 03:59:03 -0000
+Received: from phux1.phys.nthu.edu.tw(140.114.80.5), claiming to be "phys.nthu.edu.tw"
+ via SMTP by nyx.cc.nthu.edu.tw, id smtpdmHfk0f; Thu Jan  6 11:58:55 2000
+Received: from localhost (hkchang@localhost)
+	by phys.nthu.edu.tw (8.9.3/8.9.3) with ESMTP id MAA03533
+	for <astro@asiaa.sinica.edu.tw>; Thu, 6 Jan 2000 12:02:34 +0800 (CST)
+	(envelope-from hkchang@phux1.phys.nthu.edu.tw)
+Date: Thu, 6 Jan 2000 12:02:34 +0800 (CST)
+From: Hsiang-Kuang Chang <hkchang@phux1.phys.nthu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: Microlensing 2000 (fwd); those involved in TAOS may be interested
+Message-ID: <Pine.BSF.4.10.10001061201480.2714-100000@phux1.phys.nthu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7756
+Status: RO
+
+
+
+-------------------------------------------------------------
+Hsiang-Kuang Chang                   hkchang@phys.nthu.edu.tw
+
+Department of Physics                      Tel: 886-3-5718688
+National Tsing Hua University                   
+Hsinchu 300                                Fax: 886-3-5723052
+                                                
+Taiwan, ROC          URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------
+
+---------- Forwarded message ----------
+Date: Wed, 5 Jan 2000 22:04:03 +0200 (SAST)
+From: Lens <lens@da.saao.ac.za>
+To: group10 <vietri@coma.mporzio.astro.it>, sv@star.ucl.ac.uk,
+     walker@astro.ubc.ca, maw@physics.usyd.edu.au, jwambsganss@aip.de,
+     Wayne.H.Warren.1@gsfc.nasa.gov, rwebster@physics.unimelb.edu.au,
+     gwiedema@eso.org, aweiss@mpa-garching.mpg.de, aow@mpa-garching.mpg.de,
+     mww@ipac.caltech.edu, wetherill@dtm.ciw.edu, hwitt@aip.de,
+     awolszczan@astro.psu.edu, nwoolf@as.arizona.edu,
+     wuchterl@amok.ast.univie.ac.at, yanagi@alfven.ee.uec.ac.jp,
+     yun@astro.cc.fc.ul.pt, zakharov@vitep5.itep.ru, mosorio@iac.es,
+     dennis@ucolick.org, hsz@mpa-garching.mpg.de, hzinnecker@aip.de,
+     dolf@astro1.ft.uam.es, new addresses <ptamblyn@boulder.swri.edu>,
+     agol@pha.jhu.edu, artie@astro.as.utexas.edu,
+     freedman@darkstar.arc.nasa.gov, hkchang@phys.nthu.edu.tw,
+     kamion@phys.columbia.edu, kent@fnal.gov, rdb@tapir.caltech.edu,
+     sdh@usno.navy.mil, seu@pyxis.usno.navy.mil, tsdashi.nakajima@nao.ac.jp,
+     wyse@tardis.pha.jhu.edu, mateo_list <anderson@astro.washington.edu>,
+     HalleyDude@aol.com, brandt@lyrae.colorado.edu,
+     Sidney.vandenBergh@hia.nrc.ca, alberto@ipac.caltech.edu, armand@noao.edu,
+     baird@kuphsx.phsx.ukans.edu, balick@astro.washington.edu, bates@ups.edu,
+     baum@astro.washington.edu, bmiller@strw.leidenuniv.nl,
+     bohm@astro.washington.edu, boynton@astro.washington.edu,
+     brownlee@bluemoon.astro.washington.edu, catyp@noao.edu,
+     chicag@astro.ucla.edu, chip@ucolick.org, cmartin@stsci.edu,
+     dah@lowell.lowell.edu, dant@u.washington.edu, david.crampton@hia.nrc.ca,
+     deeter@astro.washington.edu, dennis@ucolick.org,
+     deutsch@astro.washington.edu, dgeisler@noao.edu,
+     dolphin@astro.washington.edu, don@ucolick.org, edo@as.arizona.edu,
+     efremov@sai.msu.su, erica@astro.washington.edu,
+     eskridge@astronomy.ohio-state.edu, etolstoy@eso.org,
+     ewilcots@astro.wisc.edu, fich@astro.uwaterloo.ca, fnb@astro.as.utexas.edu,
+     gene@astro.washington.edu, gfl@almuhit.phys.uvic.ca,
+     gonzalez@astro.washington.edu, graeme@ucolick.org,
+     grebel@orca.astro.washington.edu, heckman@eta.pha.jhu.edu,
+     hodge@astro.washington.edu, hogan@astro.washington.edu,
+     james.hesser@hia.nrc.ca, jennifer@ucolick.org, jharris@ucolick.org,
+     jmn@isr.bc.ca, kcook@llnl.gov, king@glob.berkeley.edu, kinman@noao.edu,
+     lake@astro.washington.edu, larson@astro.washington.edu, luckepb@muc.edu,
+     margon@astro.washington.edu, massey@noao.edu, mateo@astro.lsa.umich.edu,
+     mglee@astrog.snu.ac.kr, nick@ctio.noao.edu, nking@charon.nmsu.edu,
+     nuts@bigmoo.uoregon.edu, oey@stsci.edu, okk@spu.edu,
+     olsen@ctiowd.ctio.noao.edu, peter.stetson@hia.nrc.ca,
+     peterg@mars.harvard.edu, phillips@ucolick.org, pjf@gamma.phys.clemson.edu,
+     proffitt@figaro.gsfc.nasa.gov, raga@astroscu.unam.mx,
+     rdpalmer@astro.lsa.umich.edu, robk@vega.as.arizona.edu, rwalterb@nmsu.edu,
+     siegmund@astro.washington.edu, siobahn@Nitro9.earth.uni.edu,
+     skelton@astro.washington.edu, skillman@ast1.spa.umn.edu,
+     smith@astro.washington.edu, snow@casa.colorado.edu, spiesman@earthling.net,
+     strobel@lightspeed.net, stubbs@astro.washington.edu,
+     szkody@astro.washington.edu, tavarez@astro.lsa.umich.edu,
+     trq@astro.washington.edu, vandyk@astro.ucla.edu,
+     vdbosch@hermes.astro.washington.edu, waddell@astro.washington.edu,
+     wall@orca.astro.washington.edu, welch@stmarys.ca,
+     willman@astro.washington.edu, woody@astro.washington.edu,
+     wwalle01@emerald.tufts.edu, wyder@astro.washington.edu,
+     zucker@astro.washington.edu
+Subject: Microlensing 2000
+
+
+Dear Colleague,
+
+I am sending this as a final reminder that the closing date for abstracts 
+(oral presentations) to Microlensing 2000 is fast approaching. 
+ If you have already registered, thank you, we look forward to seeing you.
+ If not, have another look at the web page and contemplate what you might be 
+missing!
+              _______________________________________________________
+             |                  MICROLENSING 2000:                   |
+             |        A New Era in Microlensing Astrophysics         |
+             |                                                       |
+             |            Cape Town, 21 - 25 Feb 2000                |
+             |                                                       |
+             |         URL: http://www.saao.ac.za/~lens              | 
+             |   POSTER: http://www.saao.ac.za/~lens/micro2000.html  |   
+             |                                                       |
+             |        CLOSING DATE FOR ABSTRACTS: 17 Jan 2000        | 
+             |________________________________________________________
+
+The meeting will focus on the growing symbiotic relationship between 
+microlensing astrophysics and 
+
+	Galactic Structure and Dynamics 
+	Composition and Dynamics of the Local Group 	
+	The Stellar Mass Function
+	Baryonic Dark Matter 
+	Stellar Atmospheres 
+	Stellar Binarity 
+	Extrasolar Planets 
+	Cosmology
+	Future Astronomical Instrumentation
+
+In particular, the following questions will be addressed:
+
+	o What observational and theoretical considerations constrain 
+		the amount and type of Baryonic Dark Matter in galaxies?
+	o Has microlensing revealed a significant amount of BDM?
+
+	o Is the distribution of lensing Binaries and Planets consistent 
+		with previous expectations?
+	o Can the positive and null results from various Extrasolar Planet 
+		search techniques be combined to create a unified picture?
+
+	o Do microlensing results signficantly constrain models of 
+		Stellar Atmospheres?
+	o Can models be improved for more direct comparison with existing 
+		and expected microlensing results on stellar profiles?
+
+	o Should particular constraints on the Stellar Mass Function serve 
+		as input to the interpretation of microlensing results?
+	o Is microlensing already telling us something about the IMF?
+
+	o What information about the Milky Way and Local Group 
+		is needed to interpret microlensing results?
+	o What can microlensing tell us about the Galaxy and its environs?
+
+	o What can Cosmological Microlensing tell us about quasars and 
+		the contents of distant galaxies?
+	o Which Technological Advances planned for the next 10-20 years 
+	 	could most benefit the field?
+
+Emphasis will be on very recent results and expectations for the future, 
+rather than on reports of older work.  Invited speakers include:
+
+	James Binney
+	Bernard Carr
+	Kem Cook
+	Debra Fischer
+	Roberto Gilmozzi
+	Andy Gould
+	Eva Grebel
+	Peter Hauschildt
+	Michel Mayor
+	Neill Reid
+	Joachim Wambsganss
+
+Ample time will be available for discussion in small groups, and attendees 
+may opt for one of three possible excursions to the surrounding countryside 
+during the week.  Details, including an evolving list of registered 
+participants, a preliminary program, registration forms, and tour 
+information can be found on the web site given above.
+
+But space is limited. If you would like to attend this novel meeting in 
+a beautiful southern hemisphere setting, please register quickly.
+
+Best wishes for the New Year,
+Penny D. Sackett
+Chair, Scientific Organizing Committee
+psackett@astro.rug.nl
+
+John Menzies, LOC
+
+
+

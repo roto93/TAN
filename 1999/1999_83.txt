@@ -1,0 +1,76 @@
+From kyl@asiaa.sinica.edu.tw Wed Apr 14 09:04:30 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA27721; Wed, 14 Apr 1999 09:04:21 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA21052; Wed, 14 Apr 1999 09:01:21 +0800
+Date: Wed, 14 Apr 1999 09:01:19 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: JIVE's first image (fwd)
+Message-Id: <Pine.GSO.3.96.990414090117.19500A-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2140
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 13 Apr 1999 16:35:50 +0200 (MET DST)
+From: Huib Jan van Langevelde <langevelde@jive.nfra.nl>
+To: vlbi@cv3.cv.nrao.edu
+Subject: JIVE's first image
+
+
+We are proud to announce that on April 7 the EVN MkIV data processor
+at JIVE generated its first astronomical image. The result, an image
+at 6cm of 3C380 using 8 EVN antennas recording in a MkIV compatible
+mode, can be seen at:
+http://www.nfra.nl/jive/jive/correlator/fimage.html.  The source shows
+the same features as previous VLBI maps. In particular, we were happy
+to see the jet points in the same direction!
+
+Obtaining the first image exercised the data path at the JIVE
+processor for the first time. This is an important milestone in the
+commissioning phase and will lead to an operational correlator in
+the next few months.
+
+The development of the MkIV processor and MkIV recording system was a
+combined effort of the EVN institutes and the MIT Haystack
+Observatory. We acknowledge the help of NRAO in providing crucial test
+data. Special efforts to get the JIVE data processor to this stage
+were made by Sergei Pogrebenko, Chris Phillips and Harro
+Verkouter. Richard Schilizzi initiated this effort to process VLBI
+data end-to-end in Dwingeloo many years ago.
+
+On behalf of the JIVE correlator project team, 
+
+Huib Jan van Langevelde
+
+------------------------------------------------------------------------------
+Huib Jan van Langevelde, Operations Manager, EVN MkIV Correlator at JIVE
+
+langevelde@jive.nfra.nl                         http://www.nfra.nl/jive   
+Joint Institute for VLBI in Europe              Phone : +31-521-596515
+Radiosterrenwacht Dwingeloo                     or    : +31-521-596500
+Postbus 2                                       Fax   : +31-521-597332
+7990 AA DWINGELOO, the Netherlands              Home  : +31-528-221273
+
+
+
+
+

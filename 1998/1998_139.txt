@@ -1,0 +1,728 @@
+From kyl@asiaa.sinica.edu.tw Tue Jul  7 09:23:21 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA07883; Tue, 7 Jul 1998 09:20:13 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA09560; Tue, 7 Jul 1998 09:18:37 +0800
+Date: Tue, 7 Jul 1998 09:18:36 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Magellanic Clouds Newsletter #22 (LaTeX file) (fwd)
+Message-Id: <Pine.GSO.3.96.980707091834.8854I-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 25954
+Status: R
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 6 Jul 1998 12:08:26 -0500 (CDT)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: Magellanic Clouds Newsletter #22 (LaTeX file)
+Resent-Date: Mon, 6 Jul 1998 12:08:47 -0500 (CDT)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+\documentstyle[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\fboxsep=4.5pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+\def\vinfty{$v_{\infty}$}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\mdot{\.M}
+\def\msunyr{($M_{\odot}\,{\rm yr}^{-1}$)}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+% "less than or approximately"
+\def \la{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+<\cr\sim\cr}}}}}
+
+% "greater than or approximately" 
+\def \ga{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\sim\cr}}}}}
+
+
+\begin{document}
+
+{\fbox{{\fbox{\parbox[]{17cm}{
+\bigskip
+\smallskip
+\centerline{\Huge{\sc The Magellanic Clouds Newsletter}}
+\bigskip
+\centerline{\Large \bf An electronic exchange on Magellanic Clouds research}
+\bigskip
+\smallskip
+\centerline{\bf Edited by\, Eva K.\ Grebel and You-Hua Chu}
+\smallskip
+\centerline{{\tt mcnews@astro.uiuc.edu}}
+\medskip    
+\centerline{{\tt http://www.astro.uiuc.edu/mcnews/MCNews.html}}
+\centerline{{\tt http://www.astro.uni-bonn.de/\~{}mcnews/}}
+% THAT IS http://www.astro.uni-bonn.de/~mcnews/
+\bigskip
+\smallskip
+\hspace{0.5cm} {\Large\it{No.\ 22}} \hspace{11cm} {\Large\it{July 5, 1998}}
+}}}}
+
+
+\bigskip\noindent
+
+\bigskip
+\bigskip
+
+\begin{center}
+{\LARGE\sc{Contents}} 
+\bigskip
+\bigskip
+
+\begin{tabular}{lr}
+News & 1\\
+Abstracts of 7 refereed papers & 2 \\
+%Job opportunity & 12 \\
+Abstracts of 2 non-refereed papers & 6 \\
+Abstract of a book & 7
+\end{tabular}
+\end{center}
+
+%\hrulefill
+\bigskip
+\bigskip
+\bigskip
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{1.7cm}{
+%{\LARGE\bf{\sc News}}}
+{\LARGE\bf{News}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+\centerline{\Large \bf OGLE data available over the Internet}
+ 
+\bigskip
+The Optical Gravitational Lensing Experiment (OGLE) team announces
+the availability of:
+
+\begin{itemize}
+
+\item ``OGLE $BVI$ maps of Dense Stellar Regions. The Small Magellanic
+Cloud.'' The maps contain $BVI$ photometric and astrometric data of about
+2.2 million stars from the central regions of the SMC (about 2.4 square
+degrees) observed during the OGLE microlensing survey.
+
+\item ``Catalog of Star Clusters in the Small Magellanic Cloud.'' The catalog
+contains data and $BVI$ photometry of 238 star clusters from the central
+part of the SMC.
+
+\end{itemize}
+
+The maps and catalog can be retrieved from the following URLs:\newline
+{\tt http://www.astrouw.edu.pl/\~{}ftp/ogle}\, or its mirror\, %\newline
+{\tt http://www.astro.princeton.edu/\~{}ogle}
+
+\bigskip
+
+{\it Andrzej Udalski}
+
+\newpage
+
+\bigskip
+
+
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{9cm}{
+{\LARGE\bf{Abstracts of Refereed Papers}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+\begin{center}
+{\Large\bf Compact HII regions in the Large Magellanic Cloud\\
+  observed by ISO
+}
+\end{center}
+\centerline{\bf F. Comer\'on $^1$ and P. Claes$^2$
+}
+{\footnotesize  $^1$ European Southern Observatory, Karl-Schwarzschild-Strasse 
+  2, 85748 Garching, Germany
+         \\     $^2$ ESTEC, European Space Agency, NL 2200 AG Noordwijk,
+  The Netherlands
+}\\
+
+  We present ISOCAM observations of five fields in the Large Magellanic
+Cloud centered on IRAS point sources with colors of ultracompact HII regions.
+Three bright sources of parsec or subparsec size, with luminosities consistent
+with being embedded O stars, are detected at 15 $\mu$m in two fields
+belonging to the HII region N 159. Using published high resolution
+radio observations, it is found that two of these sources may be ultracompact
+HII regions with a turnover frequency above 2.4 GHz, while the other is
+identified with a known compact HII region. If their nature as true
+ultracompact HII regions is confirmed by follow-up observations, these
+objects can provide a first sample useful for future studies of early massive
+star evolution in a low metallicity environment.  \\
+
+{\bf   Accepted by: Astronomy and Astrophysics (Letters)
+}\\
+{\it For preprints, contact\, }       {\tt fcomeron@eso.org}\\
+{\it Also available from the URL\, }  
+{\tt http://www.eso.org/$\sim$fcomeron/publicat.html }\\
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large\bf
+Star clusters and the structure of the ISM. Tunnels and wakes
+in giant extragalactic HII regions
+}
+\end{center}
+\centerline{\bf
+G.\ Tenorio-Tagle$^1$ and
+G.\ Medina Tanco$^{2,3}$
+}
+{\footnotesize  $^1$  Instituto Nacional de Astrof\'\i sica Optica y
+Electr\'onica, AP 51, 72000 Puebla, M\'exico \\
+$^2$ Instituto Astron\^omico e Geof\'{\i}sico, Universidade de S\~ao Paulo,
+Brazil; 
+gustavo@iagusp.usp.br \\
+$^3$ Dept. of Physics and Astronomy, University of Leeds,
+Leeds LS2 9JT, UK
+}\\
+
+Several structures have been discovered embedded in regions of recent
+or ongoing star formation, which point to the importance of the
+interaction between fast moving wind-blowing stars and their environment.
+Using hydrodynamic simulations, we investigate the passage through the
+interstellar medium of a supersonic stellar wind source, and show how
+it can naturally lead to the formation of tubes, channels and swamps
+of globules as interfaces are crossed. The results are in excellent
+agreement with observation of 30 Doradus.
+\\
+
+{\bf   Accepted by:\,   Astrophysical Journal Letters
+}\\
+{\it For preprints, contact\, Gustavo Medina Tanco, }       {\tt
+gustavo@iagusp.usp.br  }\\
+{\it Also available from the URL\, }  {\tt
+http://babbage.sissa.it/abs/astro-ph/9806367 }\\
+\bigskip
+
+%========================================================================
+\newpage
+
+
+\begin{center}
+{\Large\bf  {\it HST} UV measurements of wind structure and velocities \\
+in Local Group OB stars
+}
+\end{center}
+\centerline{\bf       Raman K.\ Prinja and Paul A.\ Crowther
+}
+{\footnotesize    Department of Physics {\&} Astronomy, University
+College London, Gower Street, London WC1E 6BT, UK
+}\\
+
+Archival $HST$ FOS and GHRS data sets have been used to collect ultraviolet
+evidence for
+large- and small-scale stellar wind structure in extragalactic
+Local Group OB
+stars (i.e. SMC, LMC including R136, M~31, M~33, and NGC~6822).
+By comparison to previous
+studies of Galactic OB stars, wind activity is principally
+diagnosed in individual spectrograms via the presence of `narrow absorption
+components' and saturated `black' absorption troughs in the
+resonance line doublets. Their characteristics broadly suggest
+that these stars share the same physical mechanisms for
+perturbing the winds as those that act in Galactic stars.
+Both these spectral indicators are also used to provide
+reliable measures
+of wind terminal velocities. These velocities are directly compared
+to previously published Galactic values, without reliance
+on model profile fitting.
+Relative to Galactic OB stars, the most discrepant terminal velocities
+(and wind line profiles) are due to {\it main-sequence} early
+O-type stars in the SMC.
+\\
+
+{\bf   Accepted by:   Monthly Notices of the Royal Astronomical Society
+}\\
+{\it For preprints, contact\, }       {\tt   rkp@star.ucl.ac.uk  }\\
+\bigskip
+
+%========================================================================
+
+
+
+
+\begin{center}
+{\Large\bf Discovery of H$_2$O maser emission from the red supergiant
+IRAS04553$-$6825 in the Large Magellanic Cloud}
+\end{center}
+\centerline{\bf Jacco Th. van Loon$^1$, Peter te Lintel Hekkert$^2$,
+Valent\'{\i}n Bujarrabal$^3$,}
+\centerline{\bf  Albert A. Zijlstra$^4$ and Lars-{\AA}ke
+Nyman$^{5,6}$}
+{\footnotesize
+$^1$ Astronomical Institute ``Anton Pannekoek'', University of Amsterdam,
+Kruislaan 403, NL-1098 SJ Amsterdam, The Netherlands \\
+$^2$ Australia Telescope National Facility, Parkes Observatory, P.O.Box 276,
+Parkes, NSW 2870, Australia \\
+$^3$ Observatorio Astron\'{o}mico Nacional, Campus Universitario, Apartado
+1143, E-28800 Alcal\'{a} de Henares (Madrid), Spain \\
+$^4$ University of Manchester Institute of Science and Technology, P.O.Box 88,
+Manchester M60 1QD, United Kingdom \\
+$^5$ European Southern Observatory, Casilla 19001, Santiago 19, Chile \\
+$^6$ Onsala Space Observatory, S-439 92 Onsala, Sweden
+}\\
+
+We report the detection of 22 GHz H$_2$O maser emission from the red
+supergiant IRAS04553$-$6825 in the Large Magellanic Cloud. It is the first
+known source of circumstellar H$_2$O maser emission outside the Milky Way. The
+measured flux density is comparable to that expected from scaling the galactic
+red supergiant NML Cyg. The peak velocity agrees with the SiO maser peak
+velocity.
+
+A near-infrared spectrum indicates that IRAS04553$-$6825 has a typical LMC
+metallicity. We argue that, possibly as a result of the low metallicity, the
+H$_2$O emission probably occurs near or within the dust formation radius,
+rather than further out as appears to be the case in NML Cyg and galactic
+OH/IR stars. 
+\\
+
+{\bf   Accepted by: Astronomy \& Astrophysics 
+}\\
+{\it For preprints, contact\, }       {\tt jvanloon@astro.uva.nl}\\
+\bigskip
+
+%========================================================================
+
+
+
+\begin{center}
+{\Large\bf            
+Hubble Space Telescope Images of Magellanic Cloud 
+Planetary Nebulae: Data and Correlations across Morphological Classes
+}
+\end{center}
+\centerline{\bf      L.\ Stanghellini$^{1,2,3}$, J.C.\ Blades$^1$, 
+S.J.\ Osmer$^{1,4}$, M.J.\ Barlow$^5$, and X.--W.\ Liu$^5$
+}
+{\footnotesize  $^1$  Space Telescope Science Institute, 3700 San Martin Drive,
+Baltimore MD 21218, USA
+         \\     $^2$  Affiliated to the Astrophysics Division, Space Science
+Department of ESA
+        \\     $^3$  Osservatorio Astronomico di Bologna, Italy
+        \\     $^4$  Present address:
+Department of Computer Sciences, University of Edinburgh,
+King's Buildings, Mayfield Road, Edinburgh EH9 3JZ, Scotland
+         \\    $^5$  Department of Physics and Astronomy, University College 
+London, Gower Street, London WC1 6BT, UK
+}\\
+
+The morphology of planetary nebulae (PNe) provides an essential tool for
+understanding their origin and evolution, as it reflects both the dynamics
+of the gas ejected during the TP--AGB phase, and the central star
+energetics. Here we study the morphology of 27 Magellanic Cloud planetary
+nebulae (MCPNe) 
+and present an analysis of their physical characteristics across
+morphological classes. Similar studies have been successfully carried out
+for galactic PNe, but were compromised by the uncertainty of individual PN
+distances. 
+We present our own HST/FOC images of 15 Magellanic Cloud PNe
+(MCPNe) acquired through a narrow-band $\lambda$5007 [O~${\sc iii}$]
+filter.  We use the Richardson--Lucy deconvolution technique on these
+pre--COSTAR images to achieve post--COSTAR quality. Three PNe imaged
+before and after COSTAR confirm the high reliability of our deconvolution
+procedure.  We derive morphological classes, dimensions, and surface
+photometry for all these PNe.  We have combined this sample with HST/PC1
+images of 15 MCPNe, three of which are in common with the FOC set, 
+acquired by Dopita et al. (1996), to obtain the
+largest MCPN sample ever examined from the morphological viewpoint. By
+using the whole database, supplemented with published data from the
+literature, we have analyzed the properties of the MCPNe and compared them
+to a typical, complete galactic sample. Morphology of the MCPNe is
+then correlated with PN density, chemistry, and evolution.
+\\
+
+{\bf   Accepted by:   The Astrophysical Journal}
+\\
+{\it For preprints, contact\, }       {\tt   lstanghe@stsci.edu  }\\
+\bigskip
+
+%========================================================================
+
+
+
+\begin{center}
+{\Large\bf  The Optical Gravitational Lensing Experiment. \\
+BVI Maps of Dense Stellar Regions.\\
+\vskip 5pt
+I. The Small Magellanic Cloud.
+}
+\end{center}
+\centerline{\bf A.~Udalski$^1$, M.~Szyma{\'n}ski$^1$, M.~Kubiak$^1$,}
+\centerline{\bf G.~Pietrzy\'nski$^1$, P.~Wo\'zniak$^2$, and
+K.~\.Zebru\'n$^1$}
+{\footnotesize   
+$^1$  Warsaw University Observatory, Al.~Ujazdowskie~4, 00-478~Warszawa,
+Poland\\
+$^2$  Princeton University Observatory, Princeton, NJ 08544-1001, USA
+}\\
+
+We present three color, {\it BVI} maps of the Small Magellanic  Cloud.
+The maps contain precise photometric and astrometric data for about 2.2 
+million stars from the central regions of the SMC bar covering
+${\approx2.4}$  square degrees on the sky. Mean brightness of stars is
+derived from  observations collected in the course of the OGLE-II
+microlensing search from  about 130, 30 and 15 measurements in the {\it
+I}, {\it V} and {\it B}-bands,  respectively. Accuracy of the zero
+points of photometry is about 0.01~mag, and  astrometry 0.15~arcsec
+(with possible systematic error up to 0.7~arcsec).  Color-magnitude
+diagrams of observed fields are also presented. 
+
+The maps of the SMC are the first from the series of similar maps
+covering  other OGLE fields: LMC, Galactic bulge and Galactic disk. The
+data are very  well suited for many projects, particularly for the SMC
+which has been  neglected photometrically for years. Because of
+potentially great impact on  many astrophysical fields we decided to
+make the SMC data available to the  astronomical community from the OGLE
+Internet archive.
+\\
+
+{\bf   Accepted by: Acta Astronomica 1998, 48, 147
+}\\
+{\it For preprints, contact\, }       {\tt   udalski@sirius.astrouw.edu.pl }\\
+{\it Also available from the URL\, }  {\tt  
+http://xxx.lanl.gov/abs/astro-ph/9806313,}\\
+{\tt   http://www.astrouw.edu.pl/\~{}ftp/ogle,} \, and \,
+{\tt http://www.astro.princeton.edu/\~{}ogle}\\
+\bigskip
+
+%========================================================================
+
+
+
+\begin{center}
+{\Large\bf  The Optical Gravitational Lensing Experiment. \\
+The Catalog of Clusters in the Small Magellanic Cloud.
+}
+\end{center}
+\centerline{\bf G.~Pietrzy\'nski$^1$, A.~Udalski$^1$, M.~Kubiak$^1$,}
+\centerline{\bf M.~Szyma{\'n}ski$^1$, P.~Wo\'zniak$^2$, and
+K.~\.Zebru\'n$^1$}
+{\footnotesize   
+$^1$  Warsaw University Observatory, Al.~Ujazdowskie~4, 00-478~Warszawa,
+Poland\\
+$^2$  Princeton University Observatory, Princeton, NJ 08544-1001, USA
+}\\
+
+We present the catalog of clusters found in the area of ${\approx  2.4}$
+square degree in the central regions of the Small Magellanic Cloud. The 
+catalog contains data for 238 clusters, 72 of them are new objects. For
+each  cluster equatorial coordinates, radii, approximate number of
+members,  cross-identification, finding chart and color magnitude
+diagrams: ${V-(B-V)}$  and ${V-(V-I)}$ are provided. Photometric data
+for all clusters presented in  the catalog are available from the OGLE
+Internet archive.
+\\
+
+{\bf   Accepted by: Acta Astronomica 1998, 48, 175
+}\\
+{\it For preprints, contact\, }       {\tt  pietrzyn@sirius.astrouw.edu.pl }\\
+{\it Also available from the URL\, }  {\tt  
+http://xxx.lanl.gov/abs/astro-ph/9806321,}\\
+{\tt   http://www.astrouw.edu.pl/\~{}ftp/ogle,} \, and \,
+{\tt   http://www.princeton.edu/\~{}ogle}\\
+\bigskip
+
+%========================================================================
+
+\newpage
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{10.3cm}{
+{\LARGE\bf{Abstracts of Non-Refereed Papers}}
+}}}}
+\bigskip\noindent
+
+\bigskip
+
+\begin{center}
+{\Large\bf Hot Gas in the Large Magellanic Cloud}
+\end{center}
+\centerline{\bf You-Hua Chu}{\footnotesize
+Astronomy Department, University of Illinois, 
+1002 W. Green Street, Urbana, IL 61801, USA}\\
+
+Massive stars interact with the interstellar medium (ISM) 
+via UV radiation, fast stellar winds, and supernova ejecta.  
+These energetic interactions ionize, accelerate, and heat 
+the ISM, producing hot gas with temperatures up to 10$^7$ K.
+The mass exchange between this hot gas and the cold neutral
+gas constitutes the evolution of a multi-phase ISM.
+
+Hot ionized gas is an essential component of the ISM.  
+However, it is difficult to study the distribution and 
+physical properties of hot gas in the Galaxy because of 
+confusion and obscuration along the Galactic plane.  
+The Large Magellanic Cloud (LMC), owing to its close 
+proximity, nearly face-on view, and small extinction, 
+presents an ideal site to study hot gas and its role 
+in the interstellar matrix.
+
+Soft X-ray images of the LMC show bright diffuse emission,
+indicating the existence of hot (10$^6$--10$^7$ K) ionized 
+gas.  Clues to the origin of the hot gas in the LMC are 
+provided by comparisons between X-ray and H$\alpha$ images.
+H$\alpha$ images of the LMC show a variety of interstellar 
+shells, ranging from small supernova remnants a few pc 
+in diameter to large supergiant shells more than 
+1000 pc across.  Some of the diffuse X-ray emission is 
+associated with shell structures, but there is also 
+large-scale diffuse emission that does not appear
+to be confined by any cooler interstellar structures.
+The origins of hot gas in these different types of diffuse 
+X-ray emission regions are individually discussed.
+
+A hot (10$^5$ K) gas halo of the LMC was suggested in 
+the early 1980's.  As most of the previously reported 
+interstellar C~{\sc iv} absorption occurs in large shell 
+structures where supernovae and fast stellar winds are 
+rampant, the evidence for a global hot gas halo around the 
+LMC has been weak.  Recent HST GHRS observations of 
+five carefully chosen probe stars show clear detections 
+of the interstellar C\,{\sc iv}, providing unambiguous
+evidence for a hot gas halo of the LMC.  Three sightlines 
+have C\,{\sc iv} velocities blue shifted from the H$\alpha$ 
+by 25--60 km~s$^{-1}$, indicating that the hot gas halo 
+may be expanding away from the disk gas.  The hot gas halo 
+of the LMC is most likely patchy, as implied by a stringent 
+nondetection by the IUE along one sightline.  \\
+
+{\bf To appear in: Proceedings of the Workshop ``The Large Magellanic
+Cloud and Other Dwarf Galaxies'', Bad Honnef, Jan 18-22, 1998, eds.\
+T.\ Richtler \& J.M. Braun}\\
+{\it For preprints, contact\, }  {\tt chu@astro.uiuc.edu} \\
+{\it Also available from the URL\, } {\tt
+http://www.astro.uiuc.edu/$\sim$chu/publications/preprints/lmchg.ps}\\
+
+
+\bigskip
+
+
+\begin{center}
+{\Large\bf  Star Formation Histories of Local Group Dwarf Galaxies}
+\end{center}
+\centerline{\bf Eva K.\ Grebel}{\footnotesize
+UCO/Lick Observatory, University of California at Santa Cruz, Santa Cruz,
+CA 95064, USA}\\
+
+
+40 galaxies are currently known as, or suspected to be Local Group members 
+within a radius of 1.8 Mpc.  37 of these galaxies are dwarf galaxies with 
+$M_B > -18.5$ mag. I present a compilation of the star formation histories 
+of dwarf irregulars, dwarf ellipticals, and dwarf spheroidals in the Local 
+Group, and visualize their evolutionary histories through Hodge's population 
+boxes. 
+
+The study of these star formation histories is a multi-parameter problem: 
+Ages, metallicities, population fractions, and spatial variations must be 
+determined, which depend crucially on the knowledge of reddening and distance. 
+
+Even the lowest-mass dwarf spheroidal galaxies can show significant spatial 
+variations in star formation, ages, and metallicities. All Local Group dwarf 
+galaxies appear to contain old ($>10$ Gyr) and intermediate-age ($1-10$ Gyr) 
+populations irrespective of morphological type.  No two galaxies are alike. 
+They vary widely in star formation histories, metallicities, fractions, and 
+ages of their subpopulations even within the same morphological type. Star
+formation has occurred either in distinct episodes or continuously over long 
+periods of time.\\ 
+
+
+{\bf   Invited review to be published in the proceedings of the XVIIIth 
+Moriond conference on ``Dwarf Galaxies and Cosmology'', Les Arcs,
+March 1998, eds. T.X.\ Thuan, C.\ Balkowski, V.\ Cayatte, \& J.\ Tran Thanh 
+Van, Editions Fronti\`eres}\\ 
+{\it For preprints, contact\, }       {\tt grebel@ucolick.org}\\
+{\it Also available from the URL\, }  {\tt
+http://xxx.lanl.gov/abs/astro-ph/9806191}\\
+\bigskip
+\bigskip
+\bigskip
+
+%========================================================================
+
+
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{4.5cm}{
+{\LARGE\bf{Book Abstract}}
+}}}}
+%{\LARGE\bf{\sc Book Abstract}}}
+
+\bigskip
+\bigskip
+
+
+
+\begin{center}
+{\Large\bf           The Brightest Binaries
+}
+\end{center}
+\centerline{\bf
+ D.\ Vanbeveren, W.\ Van Rensbergen, and C.\ De Loore
+}
+{\footnotesize
+Astrophysical Institute, Vrije Universiteit Brussel, Pleinlaan 2, 1050 Brussel,
+Belgium
+}\\
+
+
+The monograph describes in extenso the present state of massive star
+research seen from the standpoint of stellar evolution, with special
+emphasis on close binaries. Statistics of massive close binaries are
+reasonably complete for the Solar neighbourhood. We demonstrate that within
+our knowledge, many scientific results where the effect of binaries are
+ignored, have an academic value but may be far from reality.
+
+In chapter I, we summarize general observations of massive stars where we
+focus on the HR diagram, stellar wind mass loss rates, the stellar surface
+chemistry, rotation, circumstellar environments, supernovae.
+
+Close binaries can not be studied separately from single stars and vice
+versa. First, the evolution of single stars is discussed (chapter II). We
+present new calculations with updated stellar wind mass loss rate
+formalisms. Especially the rates during the red supergiant phase and the
+rates during the Wolf-Rayet (WR) phase are different compared to previous
+values and this affects in a profound way the evolution during core helium
+burning. The computations are compared in detail to representative
+observations. The chapter ends with a general discussion on the effects of
+rotation on massive single star evolution.
+
+Massive binaries, the main topic of the work, are considered in chapter
+III. Basic processes are described, i.e. the Roche lobe overflow and mass
+transfer, the common envelope process, the spiral-in process in binaries
+with extreme mass ratio, the mass accretion process and the merging
+process, the effect of the (asymmetric) supernova explosion of one of the
+components on the orbital parameters of the binary. Evolutionary
+computations of interacting close binaries are discussed and general
+conclusions are drawn. The enormous amount of observational data of massive
+binaries is summarized. We separately consider the non-evolved and evolved
+systems. The latter class includes the semi-detached and contact binaries,
+the WR binaries, the X-ray binaries, the runaways, the single and binary
+pulsars. A general comparison between theoretical evolution and
+observations is combined with a discussion of specially interesting
+binaries: the evolved binaries HD 163181, HD 12323, HD 14633, HD 193516, HD
+25638, HD 209481, $\phi$ Per and $\upsilon$ Sgr; the WR+OB binaries
+$\gamma^2$Vel, V444 Cyg; the high mass X-ray binaries Vela X-1, Wray 977,
+Cyg X-1; the low mass X-ray binaries Her X-1 and those with a black hole
+candidate; the runaways $\zeta$ Oph and $\zeta$ Pup, the WR+compact
+companion candidates HD 50896 and Cyg X-3; the supernova event SN 1987A. We
+finally propose an overall evolutionary model of massive close binaries as
+a function of primary mass, mass ratio and orbital period.
+
+The fourth chapter deals with massive star population synthesis with a
+realistic population of binaries. We discuss the massive close binary
+frequency, mass ratio and period distribution, the observations that allow
+to constrain possible asymmetries during the supernova explosion of a
+massive star. Observed star numbers (as a function of metallicity) are then
+compared to theoretically predicted numbers where we focus on stellar
+populations in regions of continuous star formation and in starburst
+regions. Special attention is given to the O-type star/WR star/red
+supergiant star population, the pulsar and binary pulsar population, the
+supernova rates.
+
+The monograph counts 347 pages, contains a considerable amount of new
+results and will be useful as reference work for everybody working in the
+field of massive stars in general, in the field of massive binaries in
+particular. Our hope is that this book encourages youngish researchers to
+pursue binary research, rather than fall into the bottomless pit of
+extra-Galactic research, including the eternal and largely illusory quest
+for 'standard candles'. Probably the best standard candles are, or will be,
+massive OB eclipsing systems, which in principle are capable of giving
+distances independent of the usual chain of hypotheses.
+\\
+
+The book is published by Kluwer (Dordrecht), ISBN  0-7923-5155-X and can be
+ordered on-line via www.wkap.nl.
+
+
+
+
+%\newpage
+%
+%\bigskip\noindent
+%\centerline{
+%{\fbox{\parbox[]{7.2cm}{
+%{\LARGE\bf{Meeting Announcement}}
+%}}}}
+%\smallskip
+%
+%\bigskip
+%\bigskip
+
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+

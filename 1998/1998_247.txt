@@ -1,0 +1,262 @@
+From kyl@asiaa.sinica.edu.tw Tue Dec  8 09:49:20 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA19173; Tue, 8 Dec 1998 09:48:56 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA10311; Tue, 8 Dec 1998 09:46:35 +0800
+Date: Tue, 8 Dec 1998 09:46:35 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: International Conference 871212-871220 (fwd)
+Message-Id: <Pine.GSO.3.96.981208094631.10293A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6411
+Status: R
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 7 Dec 1998 20:25:28 +0800 (CST)
+From: cts@phys.nthu.edu.tw
+To: kyl@asiaa.sinica.edu.tw
+Subject: International Conference 871212-871220
+
+
+***************************************************************
+   International Conference on Novel Formation Mechanisms 
+         And Physical Properties of Nanostructures 
+***************************************************************
+
+                 	Tentative Schedule
+			==================
+
+Phase I at NCTS Lecture Room, National Tsing Hua University.
+
+Dec 12 morning, STM
+
+08:30-08:50   Registration
+08:50-09:00   Opening Remarks
+09:00-10:00   PE2
+10:00-11:00   D1
+11:00-11:20   coffee break
+11:20-12:20   PB4
+
+Dec 12 afternoon, Simulation
+
+02:00-03:00    H1
+03:00-04:00    CM3
+04:00-04:20    coffee break
+04:20-05:20    W1
+
+Dec 13 morning, Growth
+
+09:00-10:00   T3
+10:00-11:00   CC1
+11:00-11:20   coffee break
+11:20-12:20   Z1
+
+Dec 13 afternoon, Nanotubes
+
+02:00-03:00   LS1
+03:00-04:00   D2
+04:00-04:20   coffee break
+04:20-05:20   PB1
+
+06:00         Reception
+
+Dec 14 morning, Dots etc.
+
+09:00-10:00   S1
+10:00-11:00   G1
+11:00-11:20   coffee break
+11:20-12:20   LS2
+
+Dec 14 afternoon, Surface Processes
+
+02:00-03:00   PE3
+03:00-04:00   H2
+04:00-04:20   coffee break
+04:20-05:20   T1
+
+Phase II Robert Poe Memorial Hall, Institute of Atomic and Molecular
+Sciences, Academia Sinica (located on National Taiwan University's
+campus).
+
+Dec 16 afternoon
+ 
+01:30-02:15   PB2
+02:15-03:00   H4
+03:00-03:20   coffee break
+03:20-04:05   CM2
+04:05-04:50   LS3
+04:50-05:35   W3
+
+Phase III M105 Lecture Room, Howard Hotel, Kenting National Park.
+
+Dec 18 morning, Nanotubes
+
+09:00-09:45   D3
+09:45-10:30   LJ1
+10:30-10:50   coffee break
+10:50-11:35   LJ3
+
+Dec 18 afternoon, sight-seeing break
+
+Dec 18 evening, Simulation
+
+07:00-07:45   H3
+07:45-08:30   CM1
+08:30-08:50   coffee break
+08:50-09:35   W2
+09:35-10:20   CC2
+
+Dec 19 morning, dots
+
+09:00-09:45   G2
+09:45-10:30   N2
+10:30-10:50   coffee break
+10:50-11:20   CHU1
+11:20-11:50   GS1
+
+Dec 19 afternoon, sight-seeing break
+
+Dec 19 evening
+
+06:00-08:00   banquet
+
+08:00-08:45   T2
+08:45-09:30   LJ2
+
+Dec 20 morning, growth
+
+09:00-09:45   HI1
+09:45-10:30   Z2
+10:30-10:50   coffee break
+10:50-11:20   HJ1
+11:20-11:50   WEI1
+
+*******************************************************************
+
+                          Partial List of Talks
+                          =====================
+
+C. T. Chan
+CC1 First Principles Studies of the Growth Mode and Growth-induced
+    instability of bcc metal (111) surfaces.
+CC2 The Effect Of An External Electric Field on bcc(001) surfaces.
+
+Mei-Yin Chou
+CM1 Effect of Hydrogen on the Surface-Energy Anisotropy of Diamond and
+    Silicon.
+CM2 Structural Properties of NbH_0.75: Pressure Induced Phase Transition
+    and Incompressible Hydrogen.
+CM3 Quantum Monte Carlo Studies of Electron Exchange and Correlation in 
+    Bulk Silicon.
+
+C.S Chu
+CHU1 Quantum transport in coherent nanostructures in the presence of time-   
+     modulated fields. 
+
+Hongjie Dai
+D1 Carbon Nanotubes as Scanning Probes.
+D2 New Path Ways to Single-Walled Nanotubes and Their Devices.
+D3 Regular Arrays of Self-Aligned Nanotubes on Silicon.
+
+Hong Guo
+G1 Transport Theory for Coherent Quantum Nanostructures.
+G2 Quantum Transport Through Atomic Scale Devices.
+
+S. Guo
+GS1 Prospects of SPM-Based Nanolithography for Electronic & Photonic   
+    Applications.
+
+Juergen Hafner
+H1 Ab-initio local-density-functional calculations for large systems: The
+   Vienna ab-initio simulation program VASP.
+H2 Clean and hydrogenated diamond surfaces: Reconstruction,
+   de-reconstruction and electronic properties.
+H3 Ab-initio studies of the graphitization of diamond surfaces.
+H4 Ab-initio studies of catalytic reactions at metallic surfaces: CO
+   oxidation on Pt(111).
+
+Ing-Shouh Huang
+HI1 Observation of a Novel Nucleation and Growth Behavior in Ge/Pb/Si(111)
+
+J. C. A. Huang
+HJ1 Self assembly of 1D like columnar structure in metallic thin films
+
+Steven G. Louie
+LS1 Theory of Carbon and B-C-N Nanotubes
+LS2 Excitonic Effects and Optical Transitions: Solids, Surfaces, Polymers,
+    and Clusters
+LS3 Ab initio Theory of NMR Chemical Shifts in Solids
+
+Jianping Lu
+LJ1 Carbon Nanotubes -- The Material for the new Millennium.
+LJ2 Nanomechanics and Nanofriction.
+LJ3 Novel Electronic Properties of Nanotubes.
+
+Qian Niu
+N1 Berry phase in condensed matter.
+N2 Single electron transfer devices.
+N3 Quantum transport of ultra-cold atoms.
+
+B.N.J. Persson
+PB1 Physics of Sliding Friction.
+PB2 Ordered Structures and Phase Transitions in Adsorbate Layers.
+PB3 Model Study of Brittle Fracture of Polymers.
+PB4 Local bond breaking via STM-induced excitations: the role of
+    temperature and the electric field.
+
+E Ward Plummer
+PE1 Surfaces of Layered Transition-Metal Oxides: An Opportunity for
+    Surface Science. (to be given at IAMS on 12/9, and at SRRC on 12/11)
+PE2 Electron Density Waves in Two-Dimemsions: From Friedel Oscillations to  
+    Complexity.
+PE3 The Interplay between Electronic and Geometric Structure at a Surface:
+    From Anamolous thermal expansion to charge density waves and defect
+    controlled phase transitions.
+PE4 Surface: a playground for physics to Reduced Dimensionaity. (to be
+    given at IAMS on 12/9)
+
+C. K. Shih
+S1 Spectroscopy of Quantum Dots with Nanometer Resolution:
+   Inter-Dot Population Shuffling and its Effects on Many-body State.
+
+Tien Tzou Tsong
+T1 Mechanisms and Energetics of Atomic and Molecular Dynamics on Flat
+   Surfaces.
+T2 Energetics of Surface Atomic Processes near and at Lattice Steps.
+T3 Atom Dynamics on Surfaces and Epitaxial Growth.
+
+Ching-Ming Wei
+WEI1 Diffusion mechanisms for Al adatom and small clusters on Al (111)
+     surface.
+
+Shi Yu Wu
+W1, W2 and W3 Quantum Mechanical Simulations and Local Analysis of Complex
+	      Systems with Reduced Symmetry (I, II, and III).
+
+Zhenyu Zhang
+Z1 Quantum Effects in Thin-Film Growth.
+Z2 Self-Organized Aggregation of Quantum Dots of Nearly Anything on
+   Anything under the Influsion of Coulomb Repulsion.
+
+
+

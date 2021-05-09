@@ -1,0 +1,132 @@
+==============================================================================
+
+In this issue (Nov 24 - Dec 01, 2017)
+
+1. TTTT seminar (Dec 18)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Dec 04): Kyle Parfrey (UC Berkeley)
+                                      (Dec 04): Sacha Hony (Univ of Heidelberg)
+          (Dec 05): Frank H. Shu (Academia Sinica & UC Berkeley, UC San Diego)
+                                      (Dec 06): Michael Ireland (ANU)
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya.hashimoto@nao.ac.jp>
+> Subject: TTTT seminar moved on 18th Dec.
+> Date: Wed, 29 Nov 2017 12:53:51 +0800
+
+
+Dear all,
+
+I'd like to notice that the date of TTTT seminar in NTHU has
+been changed to 18th Dec. The following is revised information.
+
+Title:
+An extremely luminous dust-obscured galaxy discovered
+by the optical to millimeter observations
+
+Speaker: Yoshiki Toba
+Institute of Astronomy and Astrophysics, Academia Sinica
+
+Time: 12:20pm 18th Dec. 2017 (Monday)
+Venue: R501, IoA, 5th floor in the 2nd General Building
+
+Abstract:
+I will report the discovery of an extremely-luminous dust-obscured
+galaxy (DOG) at z = 3.70. This DOG is selected as a candidate of
+extremely-luminous infrared (IR) galaxies based on the photometry
+from the Sloan Digital Sky Survey (SDSS) and Wide-field Infrared
+Survey Explorer (WISE). In order to derive its accurate IR luminosity,
+we perform follow-up observations at 450 and 850 micron using the
+Submillimetre Common User Bolometer Array 2 (SCUBA-2) on the
+James Clerk Maxwell Telescope (JCMT), and at 870 and 1300 micron
+using the Submillimeter Array (SMA), which enable us to pin down its
+IR Spectral Energy Distribution (SED). We perform SED fitting using
+14 photometric data (0.4 - 1300 micron) and estimate its IR luminosity,
+L_IR (8-1000 micron), to be {1.8 ± 0.2) × 10^14 L_sun, making it one
+of the most luminous IR galaxies in the Universe. I will present our
+follow-up observations and the SED modeling in detail
+(Toba et al. 2017, ApJ, submitted).
+
+With best regards,
+Tetsuya
+
+==============================================================================
+
+> Date: Thu, 30 Nov 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Kyle Parfrey (Berkeley)
+Topic:         Relativistic Accretion onto Neutron Stars
+Time:         12/4 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Accreting neutron stars produce a wide range of astrophysical phenomena including X-ray binaries, ultra-luminous X-ray sources (ULXs), and potentially short- and long-duration gamma-ray bursts. There are several long-standing puzzles, such as the cause of millisecond pulsars’ limiting spin frequency and the mechanism underlying their relativistic jets, as well as recent problems raised by the newly discovered transitional millisecond pulsars and the pulsing ULXs. I will present results from the first relativistic MHD simulations of accretion onto magnetized, rotating neutron stars, performed in general relativity in the Kerr spacetime geometry. Four distinct states of the magnetosphere-disk system are found, depending on the stellar field strength and the mass accretion rate. A Poynting-flux-dominated relativistic jet, powered by stellar rotation, is produced at high accretion rates. The simulations suggest that rapidly rotating neutron stars with a magnetar-strength field!
+s may be responsible for short gamma-ray bursts, including the neutron-star merger event GW170817.
+
+
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Sacha Hony (University of Heidelberg)
+Topic:         Indications of IMF variations based on the occurrence rates of
+high-mass stars in Milky Way stellar clusters
+Time:         12/4 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+I will present the results of a study (Dib, Schmeja & Hony 2017) to investigate the occurence rates of single high-mass stars in clusters in order to put constraints on the IMF. The key idea is that the for small clusters (of a few hundred solar masses) that have trouble to make an O-type star this occurence rate will depend strongly on the IMF.
+
+We compare the fractions of single and lonely massive O stars in a recent catalogue of the Milky Way clusters with a library of simulated clusters built with various distribution functions of the IMF parameters. The synthetic clusters are corrected for the effects of the binary population, stellar evolution and sample incompleteness. Our findings indicate that significant cluster-to-cluster variations of the IMF parameters are required in order to reproduce the fractions of single and lonely O stars in Galactic clusters.
+
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________ 
+Speaker:    Frank H. Shu (Academia Sinica (Academician),  UC Berkeley, UC San Diego)
+Topic:         Sixty Years of Spiral Density Wave Theory
+Time:         12/5 (Tuesday) 14:20 - 15:20
+Place:         Room 104, CCMS
+Abstract:
+The theory of spiral density waves had its origin approximately six decades ago in an attempt to reconcile the winding dilemma of material spiral arms in flattened disk galaxies. Our review begins with the earliest calculations of linear and nonlinear spiral density waves in disk galaxies, in which the hypothesis of quasi-stationary spiral structure (QSSS) plays a central role. The earliest success was the prediction of the nonlinear compression of the interstellar medium and its embedded magnetic field; the earliest failure, seemingly, was not detecting color gradients associated with the migration of OB stars whose formation is triggered downstream from the spiral shock front. The reasons for this apparent failure are understood with an update on the current status of the problem of OB star formation, including its relationship to the feathering substructure of galactic spiral arms. Infrared images can show two-armed, grand design spirals, even when the optical and UV imag!
+es show flocculent structures. We suggest how the nonlinear response of the interstellar gas, coupled with overlapping subharmonic resonances, might introduce chaotic behavior in the dynamics of the interstellar medium and Population I objects, even though the underlying forces to which they are subject are regular. 
+We then move to a discussion of resonantly forced spiral density waves in a planetary ring and their relationship to the ideas of disk truncation, and the shepherding of narrow rings by satellites orbiting nearby. The back reaction of the rings on the satellites led to the prediction of planet migration in protoplanetary disks, which has had widespread application in the exploding data sets concerning hot Jupiters and extrasolar planetary systems. We then return to the issue of global normal modes in the stellar disk of spiral galaxies and its relationship to the QSSS hypothesis, where the central theoretical concepts involve waves with negative and positive surface densities of energy and angular momentum in the regions interior and exterior, respectively, to the corotation circle; the consequent transmission and overreflection of propagating spiral density waves incident on the corotation circle; and the role of feedback from the central regions. 
+Lastly, we discuss how the amplitude modulation predicted for the destructive interference of oppositely propagating waves that form standing wave patterns may have been observed in deep infrared images of nearby spiral galaxies. We also present without comment the tantalizing ALMA image of spiral structure in the protoplanetary disk around the forming star Elias 2-27.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Michael Ireland (ANU)
+Topic:         Answering fundamental questions of exoplanet formation and habitability with new facilities
+Time:         12/6 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The question “how do planets form and evolve?” remains complex and difficult to answer, as current telescopes including ALMA, as well as the coming extremely large telescopes, lack the angular resolution to distinguish between formation pathways. To properly resolve planet formation and distinguish between models, we will need to resolve scales as small as the Hill sphere, requiring an interferometer. I will describe a baseline design for the Planet Formation Imager (PFI), and how a nulling interferometer on the VLTI is an important first step in realising the goal of this facility. Answering the other big exoplanet question: “has life evolved elsewhere?” requires probes of the atmospheres of terrestrial planets. I will describe the technique of high dispersion coronagraphy (the “Siren” concept), and how measuring the reflected light spectrum of a habitable zone planet may be possible even with 8-10m class telescopes. I will outline the key technical challenges i!
+n achieving this goal - namely high end to end throughput (which has proved difficult with a prototype on Subaru) and predictive multi-wavefront sensor wavefront control for adaptive optics.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

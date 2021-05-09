@@ -1,0 +1,227 @@
+=============================================================================
+
+In this issue (Oct 15 - 17, 2020)
+
+1. [Shida CAG Seminar] (Oct 23): Howard_Chen (Northwestern Univ)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Oct 20): Howard Chen (Northwestern U.)
+                                      (Oct 21):    Hsi-An Pan (MPIA)
+3. AS/NTU Joint Colloquium (Oct 20): You-Hua Chu (ASIAA)
+
+==============================================================================
+
+Date: Thu, 15 Oct 2020 09:23:37 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: =?UTF-8?Q?=5BCAG_Seminar=5D_12=3A20pm=2C_Oct_23=2C_Howard_Chen_?= =?UTF-8?Q?=28=E9=99=B3=E7=9A=93=3B_Northwestern_University=29?=
+
+Dear all,=20
+
+Next Friday (Oct 23) we will have another CAG seminar at Room B101.
+Howard Chen (=E9=99=B3=E7=9A=93; PhD student, Northwestern University) wi=
+ll present his
+latest efforts on modeling rocky exoplanet atmospheres around active
+low-mass stars.=20
+
+Best,
+Ya-Lin=20
+
+-------------------------------------------------------------------------=
+
+Speaker: Howard Chen (=E9=99=B3=E7=9A=93; Northwestern University)
+Time: 12:20 pm, 2020 Oct 23
+Venue: B101=20
+
+Title: Influence of Large Stellar Flares on Rocky Exoplanets=20
+
+Abstract: Planets orbiting low-mass stars are prime systems for
+atmospheric characterization due to their low star-to-planet brightness
+contrast, high transit frequency, and prolonged main sequence stellar
+lifetimes. However, small stars such as M-dwarfs are highly magnetically
+active stemming from strong interactions between the stellar photosphere
+and corona. As a result, the atmospheres of attendant rocky planets in
+these systems may suffer severe atmospheric escape and chemical
+modulations by strong X-ray and UV activity. Previous 1D models found
+that although a single large flare does not substantially impact the
+ozone layers, repeated secular flaring with the inclusion of highly
+energetic particles could rapidly destroy the ozone columns of planets
+with initially Earth-like atmospheres.=20
+
+In this talk, I present our results in studying the effects of repeated
+stellar flares on planets orbiting G-, K-, and M-stars using
+state-of-the-art 3D models. First, I will briefly present key
+conclusions from my previous work simulating the atmospheres of rocky
+planets. Second, I will describe our methodology of this study by
+coupling an M-dwarf flare model to the 3D atmosphere model.
+Specifically, I will discuss how we compute realistic flare intensities,
+frequencies, and durations with a flare toolkit with data drawn from
+Hubble Space Telescope observational campaigns. I will then present new
+results in that we find that recurring stellar flares drive planetary
+atmospheres around K- and M-dwarfs into new chemical equilibria that
+substantially deviate from their initial pre-flare regimes. This stems
+from increased M-dwarf proton fluences, changes in the latitudinal
+extensions of energetic particle deposition due to absence of planetary
+magnetic fields, and transport via large-scale circulation and wave
+breaking. Using a newly published radiative transfer model, I will show
+that chemical compounds such as nitrous oxide (N2O) and nitric acid
+(HNO3) can be prominently observed throughout the entirety of the
+planet's orbit in active stellar systems, making these "beacons of life"
+highly amenable to detection by the James Webb Space Telescope and
+next-generation instruments.
+
+--=20
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+==============================================================================
+
+Date: Thu, 15 Oct 2020 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Howard Chen (Northwestern University)
+Topic:         Phosphine in the Atmosphere of Venus: Life or just gas?
+Time:         10/19 (Monday) 12:15 - 13:15
+Place:          R1203
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________
+Speaker:    You-Hua Chu (ASIAA)
+Topic:
+Time:         10/20 (Tuesday) 14:20 - 15:20
+Place:         CCMS R104
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Hsi-An Pan (MPIA)
+Topic:         PHANGS and its view of gas and star formation distributions in nearby galaxies
+Time:         10/21 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Star formation in galaxies is determined by the efficiency of the conversion of gas to stars and stellar feedback that shapes the reservoir of gas for future star formation. In this talk, I will introduce the PHANGS survey (Physics at High ANgular resolution in Nearby GalaxieS), a large multi-wavelength project to survey nearby galaxies at ~100-pc scale in molecular gas, star-forming regions, and stellar clusters, aiming to study the link between the small-scale physics of gas and star formation and galaxy properties and  evolution.
+
+I will also show you the preliminary results that probe the global property dependency of the relative distribution of molecular gas and star formation in nearby galaxies. We employ a simple approach to quantify the distributions of regions with different evolutionary stages of star formation: from quiescent molecular gas, to star-forming gas, and to regions of massive star formation only. At the best-match resolution of 150 pc, the distribution of regions with different evolutionary stages show a dependence on the stellar mass and morphology of galaxies, both globally and locally. Galactic dynamics (e.g., bar and spiral arms) also add to the complexity of the star formation process. Our results highlight the potential importance of galaxy properties for the gas-star formation cycle, and imply a global-property-dependent Kennicuttâ€“Schmidt relation. However, any trends between galaxy properties and molecular gas and HII region distributions is visible only when the observed!
+  spatial scale is smaller than ~500 pc, indicating a critical resolution requirement to resolve the dependency.
+
+==============================================================================
+
+From: Teppei OKUMURA <tokumura@asiaa.sinica.edu.tw>
+Date: Fri, 16 Oct 2020 04:16:13 +0800
+Subject: Re: Colloquium/Seminar/Lunchtalk next week
+To: circular_colloquium@asiaa.sinica.edu.tw
+
+Next Tuesday, You-Hua will give AS/NTU Joint colloquium at physics building=
+.=20
+Please see below for the title and abstract of her talk.
+
+AS/NTU Joint Colloquium: 2020-10-20 Tue 14:20~15:20 [CCMS R104]
+Speaker:    You-Hua Chu
+Topic:    CSI: Type Ia Supernova Remnant in Taiwan
+Abstract:    Searching for clues on supernovae (SNe) from their supernova remn=
+ants (SNRs) is like a crime scene investigation (CSI). This talk is based o=
+n Type Ia SNR work by my students and postdoc in Taiwan. Type Ia SNe have b=
+een used as standardizable candles to discover the accelerated expansion of=
+ the Universe; however, we still are not certain how Type Ia SNe exploded e=
+xactly. Two popular scenarios have been suggested, one involves a white dwa=
+rf (WD) having accreted too much material from a normal-star companion, and=
+ the other involves merger of two WDs. In the former scenario, the stellar =
+companion survives the SN explosion, while in the latter scenario no stella=
+r remnant is left. We have been studying the Type Ia SNRs in our neighborin=
+g galaxy the Large Magellanic Cloud (LMC), using Hubble Space Telescope ima=
+ges to search for surviving companions of their SN progenitors and dense ci=
+rcumstellar material ejected by the SN progenitors. I will report our findi=
+ngs and suggest possible explosion mechanisms. I will also report on our se=
+arch for young Type Ia SNRs in the M33 galaxy. The goal of this research is=
+ to understand the explosion mechanisms of Type Ia SNe.
+
+
+
+On Oct 15, 2020, at 11:30, ASIAA Colloquium/Talks <talks@asiaa.sinica.edu=
+.tw> wrote:
+=20
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+=20
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.=20
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the=
+ lunch box fee will be charged to YOU.
+____________________________________________________=20
+Speaker:    Howard Chen (Northwestern University)
+Topic:         Phosphine in the Atmosphere of Venus: Life or just gas?
+Time:         10/19 (Monday) 12:15 - 13:15
+Place:          R1203
+=20
+=20
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________=20
+Speaker:    You-Hua Chu (ASIAA)
+Topic:     =09
+Time:         10/20 (Tuesday) 14:20 - 15:20
+Place:          CCMS R104
+=20
+=20
+*** Colloquium ***
+____________________________________________________=20
+Speaker:    Hsi-An Pan (MPIA)
+Topic:         PHANGS and its view of gas and star formation distributions in n=
+earby galaxies
+Time:         10/21 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Star formation in galaxies is determined by the efficiency of the convers=
+ion of gas to stars and stellar feedback that shapes the reservoir of gas f=
+or future star formation. In this talk, I will introduce the PHANGS survey =
+(Physics at High ANgular resolution in Nearby GalaxieS), a large multi-wave=
+length project to survey nearby galaxies at ~100-pc scale in molecular gas,=
+ star-forming regions, and stellar clusters, aiming to study the link betwe=
+en the small-scale physics of gas and star formation and galaxy properties =
+and  evolution.
+=20
+I will also show you the preliminary results that probe the global proper=
+ty dependency of the relative distribution of molecular gas and star format=
+ion in nearby galaxies. We employ a simple approach to quantify the distrib=
+utions of regions with different evolutionary stages of star formation: fro=
+m quiescent molecular gas, to star-forming gas, and to regions of massive s=
+tar formation only. At the best-match resolution of 150 pc, the distributio=
+n of regions with different evolutionary stages show a dependence on the st=
+ellar mass and morphology of galaxies, both globally and locally. Galactic =
+dynamics (e.g., bar and spiral arms) also add to the complexity of the star=
+ formation process. Our results highlight the potential importance of galax=
+y properties for the gas-star formation cycle, and imply a global-property-=
+dependent Kennicutt=E2=80=93Schmidt relation. However, any trends between g=
+alaxy properties and molecular gas and HII region distributions is visible =
+only when the observed!
+ spatial scale is smaller than ~500 pc, indicating a critical resolution =
+requirement to resolve the dependency.
+=20
+=20
+=20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

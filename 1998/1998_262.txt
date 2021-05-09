@@ -1,0 +1,109 @@
+From ohashi@asiaa.sinica.edu.tw Wed Dec 23 18:15:46 1998
+Return-Path: <ohashi@asiaa.sinica.edu.tw>
+Received: from biaa19.biaa.sinica.edu.tw (iaa19) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA28299; Wed, 23 Dec 1998 18:15:15 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: by biaa19.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id SAA19621; Wed, 23 Dec 1998 18:12:48 +0800
+Date: Wed, 23 Dec 1998 18:12:48 +0800
+From: ohashi@asiaa.sinica.edu.tw (N. Ohashi)
+Message-Id: <199812231012.SAA19621@biaa19.biaa.sinica.edu.tw>
+Subject: OVRO proposal deadline
+To: astro@iaa1
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Md5: HrkC45HtfoigCHo3RlAT3Q==
+Content-Length: 4873
+Status: RO
+
+------------- Begin Forwarded Message -------------
+
+From jmc@astro.caltech.edu Wed Dec  9 08:54:39 1998
+From: John Carpenter <jmc@astro.caltech.edu>
+Date: Tue, 8 Dec 1998 16:54:04 -0800 (PST)
+To: aargon@cfa.harvard.edu, patricia@cuevano.astro.ugto.mx,
+        acr@phobos.caltech.edu, afs@phobos.caltech.edu, ajb@phobos.caltech.edu,
+        akeson@ipac.caltech.edu, ase@phobos.caltech.edu, awootten@nrao.edu,
+        bally@casa.colorado.edu, barsony@earthlink.net,
+        bergman@oso.chalmers.se, boonman@strw.leidenuniv.nl,
+        butner@clrs1.ciw.edu, cdw@phobos.caltech.edu, cesa@arcetri.astro.it,
+        chicag@jean.astro.ucla.edu, cjc@mrao.cam.ac.uk, dbrown@mrao.cam.ac.uk,
+        dcl@medoc.submm.caltech.edu, dcl@tacos.caltech.edu,
+        dmehringer@socrates.submm.caltech.edu, dss@phobos.caltech.edu,
+        dtf@phobos.caltech.edu, ebergin@cfa.harvard.edu,
+        emg@phobos.caltech.edu, ewine@strw.leidenuniv.nl,
+        gab@csardas.gps.caltech.edu, gaf@saturn.phy.umist.ac.uk,
+        genzel%mpeis1@mpe.mpe-garching.mpg.de, gk@astro.princeton.edu,
+        gmitchell@ap.stmarys.ca, gms@jach.hawaii.edu, gott@nervm.nerdc.ufl.edu,
+        greenhill@cfa.harvard.edu, hans@astro.su.se, hemant@ovro.caltech.edu,
+        heyer@fcrao1.phast.umass.edu, hibbard@nrao.edu, hofner@naic.edu,
+        huette@astro.uni-bonn.de, jbieging@as.arizona.edu,
+        jbk@medoc.submm.caltech.edu, jc@hyde.uchicago.edu,
+        jc@oddjob.uchicago.edu, jdifrancesco@cfa.harvard.edu,
+        jensen@gila.la.asu.edu, jherrnst@nrao.edu, jmangum@nrao.edu,
+        jmc@phobos.caltech.edu, jonas@tacos.caltech.edu, jpw@cfa.harvard.edu,
+        jrg@graham.berkeley.edu, jura@bonnie.astro.ucla.edu,
+        kachun@casa.colorado.edu, kenney@astro.yale.edu, krs@lb6.jpl.nasa.gov,
+        kuiper@dsnra.jpl.nasa.gov, kurtz@astroscu.unam.mx,
+        kyoung@cfa.harvard.edu, langer@nimba.jpl.nasa.gov,
+        laurent.loinard@obs.ujf-grenoble.fr, lee@ipac.caltech.edu,
+        leo@das.uchile.cl, lgm@astro.umd.edu, lord@ipac.caltech.edu,
+        lt@phobos.caltech.edu, luisfr@astrosmo.unam.mx,
+        madden@discovery.saclay.cea.fr, marscher@bu.edu,
+        mathieu@madraf.astro.wisc.edu, mazz@ipac.caltech.edu,
+        mbrown@gps.caltech.edu, mcrosas@cfa.harvard.edu,
+        meierd@eggneb.astro.ucla.edu, merce@alpmc.harvard.edu,
+        mgh@ast.leeds.ac.uk, mgurwell@cfa.harvard.edu,
+        michiel@astron.Berkeley.EDU, mjb@star.ucl.ac.uk,
+        molinari@ipac.caltech.edu, moran@cfa.harvard.edu,
+        morris@astro.ucla.edu, msaito@cfa.harvard.edu, myers@cfa.harvard.edu,
+        myun@aoc.nrao.edu, natta@arcetri.astro.it, nzs@phobos.caltech.edu,
+        ohashi@asiaa.sinica.edu.tw, papadop@radio.astro.utoronto.ca,
+        pfg@astrosun.tn.cornell.edu, phillips@tacos.caltech.edu,
+        pho@cfa.harvard.edu, pmyers@cfa.harvard.edu,
+        pvdwerf@strw.leidenuniv.nl, r.ivison@jach.hawaii.edu,
+        reid@cfa.harvard.edu, ressler@cougar.jpl.nasa.gov,
+        rhurt@ipac.caltech.edu, rjallen@stsci.edu, rjs@star.ucl.ac.uk,
+        sanders@galileo.ifa.hawaii.edu, sara@wise1.tau.ac.il,
+        seaquist@astro.utoronto.ca, serabyn@huey.jpl.nasa.gov,
+        sg@phobos.caltech.edu, sj@phobos.caltech.edu,
+        snell@fcrao1.phast.umass.edu, snyder@astro.uiuc.edu,
+        srk@phobos.caltech.edu, st@ipac.caltech.edu, susanne@oso.chalmers.se,
+        terebey@extrasolar.com, tjp@phobos.caltech.edu,
+        txt@starburst.astro.virginia.edu, vdtak@strw.leidenuniv.nl,
+        velu@rams.jpl.nasa.gov, walmsley@arcetri.astro.it,
+        wilner@cfa.harvard.edu, wilson@eccles.physics.mcmaster.ca,
+        zhu@astro.utoronto.ca, zwang@cfa.harvard.edu
+Subject: OVRO proposal deadline
+X-Status: 
+
+
+Dear Colleague,
+ 
+The deadline for proposals for observations with the Owens Valley Radio 
+Observatory millimeter-wave array in the period February 1999 through May 1999 
+is 5 pm January 5, 1999.
+ 
+Proposals from investigators who are not at Caltech are strongly encouraged!
+In the past, external proposals have typically received about half of the
+assigned time in an observing season. All proposals are evaluated on a
+competitive basis independent of whether they involve internal collaborators.
+ 
+Instructions for submitting proposals and technical information about the
+array can be found at the OVRO web site at
+
+                   http://www.ovro.caltech.edu/mm/main.html
+ 
+Please note that the OVRO mm-wave array operates in both the 3 mm and
+1 mm bands. However, since most of the 1998-99 1 mm time was allocated
+following the September 1998 TAC, few new 1 mm observations will be
+scheduled at this time.
+ 
+
+Any questions concerning the interferometer or submitting proposals can be
+directed toward one of the OVRO postdocs listed at the above web site, or by
+contacting Anneila Sargent at afs@astro.caltech.edu (phone: 626-395-6622).
+------------- End Forwarded Message -------------
+
+

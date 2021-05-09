@@ -1,0 +1,56 @@
+Arizona Radio Observatory: Call for Proposals (Fall 2015)
+----------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT), located on
+Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
+located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period October 15, 2015 to January 16, 2016. The proposal
+deadline of UCAT/ASIAA for this 2015 fall semester is set on October 01, 2015
+(Thursday).
+
+The SMT currently supports a dual-polarization 1-mm (211-275 GHz) receiver with
+ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, a 0.4-mm (602-720 GHz) dual-polarization receiver with ALMA
+Band 9 mixers, and a new Band 7 receiver with SBS mixers will be available in
+January 2016. The SMT control system supports both dual-polarization ("2 IF
+mode"), and dual-polarization, dual-sideband observations ("4 IF mode"), as
+well as OTF mapping. The new 12m supports an ALMA Band 3 dual-polarization SBS
+receiver (84-116 GHz) for this season.
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Information about Remote Observing
+can be viewed at: http://aro.as.arizona.edu/remote/remote.htm/. Graduate
+student participation is especially encouraged. For further information about
+remote observing and operational questions, please contact Tom Folkers,
+Operations Manager at tfolkers@email.arizona.edu.
+
+Proposers should consult the ARO website, http://aro.as.arizona.edu/, for
+technical specifications and to download updated Proposal Summary Sheet
+templates here: http://aro.as.arizona.edu/proposal_submission_information.htm .
+Proposal candidates are required to list on the Proposal Summary Sheet their
+requested observing blocks (LST ranges), dates on which they are NOT available
+to observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (44 degrees at the SMT).
+
+Proposals should consist of:
+1.  A Proposal Summary Sheet.
+2.  A brief scientific and technical justification (no more than 2 pages).
+3.  A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+
+Electronic submissions will be accepted in PDF format ONLY. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to
+kuan@asiaa.sinica.edu.tw by midnight (23:59 pm CST) October 01, 2015 (Thursday).
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================

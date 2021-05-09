@@ -1,0 +1,265 @@
+============================================================================== 
+
+In this issue (Mar 30 - Apr 06, 2014)
+
+1. ASIAA Colloquia (Apr 02): Denise Gabuzda (University College Cork)
+                  (Apr 01): Chao-Lin Kuo (Stanford Univ)
+                  (Mar 31): Shane O'Sullivan (Univ of Sydney)
+                  (Apr 01): Aglaé Kellerer (Durham Univ)
+                  (Apr 03): Khee-Gan Lee (MPIA)
+2. NTHU Astronomy Colloquium (Apr 11): Ciska Kemper (ASIAA)
+3. Announcement of "East Asia ALMA Science Workshop 2014" (Jul 14-17)
+4. ASIAA Colloquium (Apr 09): Tom Barclay (NASA ames)
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 30 Mar 2014 08:00:02 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Denise Gabuzda (University College Cork)
+Topic:        Using Faraday Rotation to Probe the Magnetic Field Structure of AGN Jets
+Time:        4/2 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Measurements of the distribution of Faraday rotation of the plane of polarization
+occurring in the vicinities of the jets of Active GalacticNuclei (AGN) using multi-wavelength
+polarization VLBI can be used to probe the magnetic (B) field structure of the jet, as well
+as the B field and  and  distribution of thermal electrons in the immediate vicinity of the
+radio-emitting region. Because the Faraday rotation measure (RM) depends on the
+line-of-sight component of the B field in the region of Faraday rotation, it can provide a
+diagnostic for the presence of toroidal or helical fields, offering an important observational
+tie to theoretical models of jet launching. The crucial importance of  determining whether
+reports of transverse RM gradients interpreted as evidence for helical jet B fields were reliable
+led to a number of studies aimed at improving our understanding of pixel-based uncertainties in
+images, sometimes leading to surprising results. My talk will discuss recent analyses of RM
+measurements of AGN on parsec scales aimed at searching for evidence of helical jet B fields,
+as well as Monte Carlo simulations investigating restrictions on the reliability of observed
+transverse RM gradients.  These simulations have revised our ideas about the estimation of
+pixel-based uncertainties in images, and also clearly show the ability to detect transverse RM
+gradients when the intrinsic jet structures are much narrower than the beam size. This has 
+cleared the way to both re-evaluating the significance of previously reported results, and searching 
+for new reliable RM gradients across AGN jets.  The majority of previously reported transverse RM 
+gradients have proved to be reliable (statistically significant), and a number of new gradients have 
+been discovered in the past year. The collected results suggest that helical B fields are common 
+in AGN jets, and provide evidence for the action of a cosmic battery, as initially proposed by 
+Contopoulos et al. (2009).
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________ 
+Speaker:    Chao-Lin Kuo (Stanford)
+Topic:        TBA
+Time:        4/1 (Tuesday) 14:20 - 15:20
+Place:        Physics 204
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Shane O'Sullivan (THE UNIVERSITY OF SYDNEY)
+Topic:        New insights into AGN jet and lobe physics from radio spectropolarimetry
+Time:        3/31 (Monday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+New and upgraded radio telescopes, with broadband radio receivers, are enabling high-precision multi-frequency polarization and Faraday rotation measurements across a wide range of jet scales. Spectropolarimetric techniques such as Faraday rotation measure synthesis and QU-fitting have been developed to take advantage of these new capabilities, providing key insights into the magnetic field structure, particle composition and environmental impact of AGN jets and lobes. I will describe some recent results from radio spectropolarimetric studies of AGN jets and lobes, before presenting future radio telescope projects that will revolutionise our view of the polarized sky and with it our understanding of AGN jets and lobes.
+
+
+____________________________________________________ 
+Speaker:    Aglaé Kellerer (Durham University)
+Topic:        Angular resolution in astronomy: present, future and beyond
+Time:        4/1 (Tuesday) 10:30 - 11:30
+Place:        R1203
+Abstract:
+This talk will be divided into two grand themes: the development of
+novel adaptive optical (AO) correction systems for the next generation
+of telescopes, and the application of quantum optical mechanisms to
+astronomy.
+
+Advanced adaptive optics systems have kept ground based telescopes at
+the forefront of astronomical research. However, as the telescopes
+further increase in size current AO systems begin to be inadequate.
+The future extremely large telescopes require new approaches, and I
+will discuss some of these during my talk. I will notably argue in
+favor of wavefront sensors that determine the phase directly.
+
+The aim of adaptive optical systems is to reach the diffraction limit.
+This limit is considered as the absolute boundary for the angular
+resolution of a telescope; it can, however, be overcome through
+non-linear processes, such as stimulated emission and quantum
+entanglement.  I will examine the possibility of overcoming the
+diffraction limit of a telescope through heralded photon cloning
+processes (http://dx.doi.org/10.1051/0004-6361/201322665). The main
+message will be the possibility in principle to improve the angular
+resolution of a telescope beyond the diffraction limit, and thus to
+achieve high-angular resolutions even with moderately sized
+telescopes.
+
+
+____________________________________________________ 
+Speaker:    Khee-Gan Lee (MPIA)
+Topic:        3D Mapping of the IGM on 〜Mpc scales with Ly-a forest Tomography
+Time:        4/3 (Thursday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The Lyman-alpha forest absorption at z>2 can, with a sufficient density of background sightlines, be used to create 3D tomographic maps of large-scale structure. The Cosmic Lyman-Alpha Program for the Tomographic Reconstruction of Absorption Probes (CLAPTRAP) will be the first survey to attempt this technique. We aim to obtain spectra for a background grid of faint quasars and bright LBGs at 2<z<3 at a limiting apparent magnitude of g<24. These sources are separated by transverse comoving distances of ~4 cMpc enabling a 3D absorption map with ~4-5 cMpc spatial resolution to be reconstructed. In a recent paper, we have found that spectra with S/N ~4 per angstrom are sufficient to make excellent-quality maps that clearly trace the underlying dark-matter distribution at overdensities of order unity. We aim to observe ~2500-3000 background sources over 1 sq deg of the COSMOS field with Ly-a forest coverage over 2.0<z<2.4, mapping out a total comoving volume of ~3x10^6 cMpc^3. The
+  resulting tomographic maps will be the first 3D maps of large-scale structure at z>2, on ~Mpc scales. In conjunction with the rich multi-wavelength data from the COSMOS survey, these maps will facilitate the study of galaxies in the context of their large-scale environment, reveal the topology of the universe at high-redshifts, and allow the direct detection of galaxy protoclusters at the intersections of the cosmic web. In the near-future, Subaru PFS will be able to map out large areas of the high-redshift universe using this technique.
+
+==============================================================================
+
+> Date: Thu, 3 Apr 2014 16:31:28 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium 
+
+############################################
+                    NTHU
+            Astronomy Colloquium
+############################################
+
+    2:20 p.m. 11th April 2014 (Friday)
+        NTHU Physics Building, Rm620
+
+    Speaker: Dr. Ciska Kemper
+              (ASIAA)
+
+    Title: Fullerenes around carbon-rich evolved stars
+            in the Milky Way and the Magellanic Clouds
+
+      Tea/Discussion Time is followed !
+
+                All Welcome !!
+
+==============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: Fwd: Announcement of " East Asia ALMA Science Workshop 2014 "
+> Date: Fri, 4 Apr 2014 15:42:41 +0800
+> To: riaa@asiaa.sinica.edu.tw,
+> Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>        alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+Dear All,
+
+    Below is the announcement of  "East Asia ALMA Science Workshop 2014" =
+to be held by KASI in this July.=20
+    This workshop is to continue promoting ALMA science collaborations =
+in East Asia Region.=20
+
+    Please attend if you are interested. Thank you.
+
+Best,
+Chin-Fei
+O behalf of Taiwan ARC node
+
+> From: ARan Lyo <arl@kasi.re.kr>
+> Subject: Announcement of " East Asia ALMA Science Workshop 2014 "=20
+> Date: April 4, 2014 at 2:09:47 PM GMT+8
+> To: "k.tatematsu@nao.ac.jp" <k.tatematsu@nao.ac.jp>, =
+"cflee@asiaa.sinica.edu.tw" <cflee@asiaa.sinica.edu.tw>
+> Cc: =E6=8D=9E=E6=B2=A5=E7=9B=94 <jwl@kasi.re.kr>, Jongsoo Kim =
+<jskim@kasi.re.kr>, =EA=B0=95=EC=A7=80=ED=98=84 <jkang@kasi.re.kr>
+>=20
+> Dear all,
+>=20
+> We are pleased to announce the  "East Asia ALMA Science Workshop 2014" =
+and=20
+> opened the web-site (http://eaalma2014.kasi.re.kr).
+> Please, help us to announce it to your communities.
+>=20
+> Thanks and
+> best,
+>=20
+> Aran.
+>=20
+> =
+--------------------------------------------------------------------------=
+>                              East Asia ALMA Science Workshop 2014 =
+(http://eaalma2014.kasi.re.kr)
+>                                                      July 14-17, 2014, =
+Phoenix Island in Jeju
+>=20
+> The "East-Asian ALMA Science workshop 2014" will be held in Phoenix =
+island, Jeju island, Korea, on July 14th - 17th, 2014, hosted by the =
+ALMA Korea project group in the Korea Astronomy and Space Science =
+Institute (KASI). The LOC is pleased to host this annual joint ALMA =
+science workshop of Japan, Taiwan, and Korea, especially, in the year =
+when the ALMA Korea project has officially started in the KASI.
+>=20
+> The main aim of this annual workshop is to continue promoting =
+collaborations among the East Asian astronomers for ALMA sciences. =
+Therefore, we will prepare ample time for group discussions, as well as =
+reporting the ALMA current status, science results, and proposals. In =
+addition, we will have a session for ALMA archive sciences in the =
+afternoon of July 14th, 2014. Since most of Cycle 0 data were already =
+archived, it is good time to think about ALMA archive sciences. Please =
+join this session, hear science cases using archive data and learn how =
+to navigate and collect observational data from a ALMA archive. Except =
+of the archive session, most of time of July 14th will be devoted to a =
+CASA (Common Astronomy Software Applications) tutorial. If you want to =
+learn the CASA, please also join this tutorial session, too.
+>=20
+> The Jeju island is the best place to relax yourself in South Korea. =
+Please come to the workshop and interact with neighboring astronomers in =
+a cozy environment and make future collaborations for ALMA sciences.
+>=20
+> Scientific Organizing Committee
+> : Vivien Chen (NTHU), Chin-Fei Lee (ASIAA), Ken Tatematsu (NAOJ), =
+Daisuke Iono (NAOJ), Jongsoo Kim (KASI, chair), Aran Lyo (KASI)
+>=20
+> Local Organizing Committee
+> : Jongsoo Kim, Aran Lyo, Ji-Hyun Kang, Jung-Won Lee, Do Heung Je, =
+Seung-Rae Kim, Jiman Kang, Chandreyee Sengupta, Hyun Ah Pak (KASI)
+>=20
+> Sponsors : This meeting is supported by the KASI.
+>=20
+> Contact Points
+> : If you have questions and comments on this meeting, please send an =
+email to eaalma2014@kasi.re.kr
+> =
+--------------------------------------------------------------------------=
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun,  6 Apr 2014 08:00:02 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Tom Barclay (NASA ames)
+Topic:        Exoplanet discoveries enabled by the precision photometry of Kepler
+Time:        4/9 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The Kepler spacecraft has reinvented the field of exoplanetary science. In this talk I will highlight what is possible with such high quality data. For large planets relativistic Doppler boosting can enable the determination of a planet’s mass purely from photometry. Kepler also has revealed planets smaller than any in our own Solar System, I how how planets that block just 20 in every million photons coming from the star. Finally, I will discuss progress made toward finding the first Earth-like exoplanet.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

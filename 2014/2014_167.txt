@@ -1,0 +1,36 @@
+> Date: Wed, 29 Oct 2014 21:51:31 +0800
+> Subject: NTHU astronomy colloquium
+> From: Dani Chao <edcamel@gmail.com>
+> To: astro@asiaa.sinica.edu.tw
+
+NTHU astronomy colloquium - Friday, November 7 2014, 14:00-15:00, R620
+
+Speaker: Gregg Hallinan (Caltech)
+Title: Space Weather Beyond Our Solar System
+
+Abstract:
+Magnetic activity has played a key role in the formation and angular
+momentum evolution of our Sun and continues to power its radio and high
+energy output. The associated radiative output and magnetized plasma
+outflow (solar wind) dominates the local space environment of solar system
+planets, including Earth, particularly during flares and CMEs. Radio
+observations are a powerful trace of these phenomena, both through the
+radio bursts produced during flares and CMEs and the low frequency auroral
+radio emission produced by magnetized planets experiencing magnetic storms,
+the latter a key diagnostic for the presence and strength of planetary
+magnetic fields. I will talk about new experiments at Caltech's Owens
+Valley Radio Observatory (OVRO), dedicated to the detection of such space
+weather on nearby stellar and planetary systems. These includes the
+Starburst program, dedicated to the detection and imaging of coronal mass
+ejections on nearby stars, and the Owens Valley Long Wavelength Array,
+which aims to detect the auroral radio emissions from nearby exoplanets.
+The latter is particularly innovative, consisting of 288 antennas, combined
+to image the entire viewable sky every second from 25-85 MHz. This facility
+recently saw first light and is currently aiming to provide the first
+measurement of magnetic fields on extrasolar planets. Finally, I will also
+discuss the recent detection of similar aurorae, both optical and radio,
+from brown dwarfs, which has allowed us to place the strongest constraints
+yet achieved on dynamo theory in the substellar regime.
+
+==============================================================================
+

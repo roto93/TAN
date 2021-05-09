@@ -1,0 +1,35 @@
+
+> Date: Thu, 2 May 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Li-Hsin Chen (NTU/ASIAA)
+Topic:          Pop III Supernova Remnants on The Formation of The First Galaxies I. Gas, Metals, and Stars
+Time:           5/6 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+Modern cosmological simulations successfully demonstrate that the hierarchical assembly of dark matter halos provided the gravitational wells that nurse the primordial gases to form stars and galaxies inside them. One of the most significant objects in the universe, the first galaxies contained the first groups of stars residing in the dark matter halos are naturally regarded as the fundation of early Universe. To understand the formation of the first galaxies, we use an adaptive mesh refinement (AMR) cosmological code, ENZO to simulate the formation and evolution of the first galaxies. We first model an isolated galaxy by considering much microphysics such as gas dynamics, self-gravity, star formation, stellar feedback, and primordial gas cooling. To examine the effect of Pop III supernovae feedback to the first galaxy formation, we set up the initial temperature, density, and metallicity distributions of Pop III supernova bubbles by assuming different initial PopIII IMF. O!
+ ur results suggest that star formation in the first galaxies is sensitive to yields and energetics of the first supernovae. Therefore, our study can provide a channel to correlate the populations of the first stars and supernovae to star formation inside these first galaxies which may be soon observed by the James Webb Space Telescopes.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Bo Zhao (MPE)
+Topic:          Protostellar Disk Formation & Fragmentation Enabled by Removal of Small Dust Grains
+Time:           5/8 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+It has been shown that a realistic level of magnetization of dense molecular cloud cores can suppress the formation of a rotationally supported disk (RSD) through catastrophic magnetic braking. We show that removing from the standard MRN distribution the large population of very small grains (VSGs: ~10 to few 100 angstrom) that dominate the coupling of the bulk neutral matter to the magnetic field increases the ambipolar diffusivity by ~1-2 orders of magnitude at densities below 10^10 cm^-3. The enhanced ambipolar diffusion in the envelope causes the infall speed of ions (and thus the magnetic field lines tied to them) to almost vanish in the 100-1000 AU scale "pseudo-disk", where the field lines are most severely pinched and most of protostellar envelope mass infall occurs. As a result, the bulk neutral envelope matter can collapse without dragging much magnetic flux into the disk forming region, which lowers the magnetic braking efficiency. We find that the initial disks e!
+ nabled by VSGs removal tend to be Toomre-unstable, which leads to the formation of prominent spiral structures that function as centrifugal barriers. The piling-up of infall material near the centrifugal barrier often produces dense fragments of tens of Jupiter masses, especially in cores that are not too strongly magnetized. Some fragments accrete onto the central stellar object, producing bursts in mass accretion rate. Others are longer lived, although whether they can survive long term to produce multiple systems remains to be ascertained. Our results highlight the importance of dust grain evolution in determining the formation and properties of protostellar disks and potentially multiple systems.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

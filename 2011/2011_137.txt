@@ -1,0 +1,137 @@
+From astro@iaa17.asiaa.sinica.edu.tw Thu Sep  8 03:01:41 2011
+Date: Thu, 8 Sep 2011 02:55:19 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Sep 03 - 07, 2011)
+
+============================================================================== 
+
+In this issue (Sep 03 - 07, 2011)
+
+1. ARO Call for Proposals (CORRECTION: the deadline is FRIDAY, Sept 23)
+2. Reminder: NO membership fee for IAU Individual Member (Sep 30)
+3. ASIAA Colloquium (Sep 9): Ananda Hota (ASIAA)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Fall 2011)
+------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+UCAT's ARO proposals are being solicited for observing time for the period
+October 1, 2011 - February 1, 2012, and the proposal deadline for this
+2011 fall semester is set on September 23, 2011 (Friday).
+
+The Arizona Radio Observatory operates the Sub-Millimeter Telescope (SMT) and
+the Kitt Peak 12 Meter. The SMT currently supports a dual-polarization, 1 mm
+receiver with ALMA Band-6 sideboard-separating mixers, a dual-polarization
+0.8 mm receiver, and a 0.4 mm (602-720 GHz) dual-polarization receiver with
+ALMA Band-9 mixers. The SMT control system has been updated to allow for dual
+polarization, dual sideband observations (so-called "4 IF mode"). The 12 m
+supports a dual-polarization 3 mm receivers (82-116 GHz) that employs ALMA
+Band-3 sideboard-separating mixers, as well as dual polarization, single
+sideboard receivers for the lower part of the 3 mm window (65-86 GHz) and at
+2 mm (130-180 GHz). Remote observing is accessible at both ARO telescopes.
+Please refer to http://aro.as.arizona.edu/ for more details.
+
+Information about Remote Observing can be viewed at:
+http://aro.as.arizona.edu/remote/remote.htm
+For further information about remote observing and other operational questions,
+please contact Tom Folkers, Operations Manager: tfolkers@as.arizona.edu
+
+People are required to use the 12m and SMT proposal Cover Sheets, attainable at
+http://aro.as.arizona.edu/proposals, for their proposals. Proposals should
+consist of a proposal Cover Sheet and a brief scientific and technical
+justification. The justification may be up to two pages of text, and should NOT
+exceed three pages in total including tables, figures, references and a source
+list with observing time requirements.
+
+Please pay special attention to the Sun avoidance issue of your proposed
+observations. The SMT telescope will not be pointed to within 42 degrees of the
+Sun, and the 12 Meter, 15 degrees. In addition, please also provide the IP
+number of the computer you will be using during your observing time. 
+
+Electronic submissions to UCAT-ASIAA will be accepted in PDF format only.
+Scheduling of successful proposals will be done according to availability of
+the receivers requested. Please submit your proposals by midnight (23:59 pm CST)
+September 23, 2011 to: kuan @ asiaa.sinica.edu.tw .
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================
+
+Dear Colleagues,
+
+The XXVIII General Assembly of IAU will be held on August 20-31, 2012
+in Beijing, China. As usual, it is time for professional astronomers
+and astrophysicists, if you are not already an IAU Individual Member,
+to file your IAU Individual Membership applications. An Individual
+Member can be admitted to the IAU by the Executive Committee at the
+General Assembly on the basis of a proposal for nomination from the
+National Committee for Astronomy (NCA) in their home country or in their
+long-term residence country. In Taiwan, the NCA is the Astronomical
+Society of the Republic of China (ASROC).
+
+Basically, the individual membership in the IAU is open to astronomers and
+astrophysicists with a PhD or equivalent. Individuals applying for
+nomination for IAU Individual Membership should contact ASROC before
+September 30, 2011. An application for nomination of Individual Membership
+should include the full name (in both Chinese and English if applicable),
+date and place of birth, and nationality of the candidate; postal and email
+addresses; the University, year, and subject of the M.Sc./Ph.D. or
+equivalent degree; the current affiliation and occupation, the position
+title, and the IAU Division(s) and/or IAU Commission(s) (please see
+http://www.iau.org/science/scientific_bodies/ ) which the candidate wishes
+to join. More details on the qualification for membership and application
+procedure can be found at:
+http://www.iau.org/administration/membership/individual/qualification/
+
+If interested, please send your application to Ms. Emily Wei at
+<emilywei@asiaa.sinica.edu.tw> and cc it to Ms. P-J Liu at
+<peijuliu@ntnu.edu.tw> by September 30, 2011.
+
+
+Regards,
+Yi-Jehng Kuan
+on behalf of the ASROC
+
+==============================================================================
+
+> Date: Sun, 4 Sep 2011 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>         web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Dr. Ananda Hota (ASIAA)
+Topic:		Discovery of a Spiral-host Episodic radio galaxy tracing Cluster Accretion (Speca)
+Time:		9/9 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+We report the discovery of a unique radio galaxy at z= 0.137, which could possibly be the second spiral-host large radio galaxy and also the second triple-double episodic radio galaxy. The host galaxy shows signs of recent star formation in the ultraviolet but is optically red and is the brightest galaxy of a possible cluster. The outer relic radio lobes of this galaxy, separated by ~1 Mpc, show evidence of spectral flattening and a high fraction of linear polarization. We interpret that these relic lobes have experienced re-acceleration of particles and compression of the magnetic field due to shocks in the cluster outskirts. From the morphology of the relics and galaxy distribution, we argue that re-acceleration is unlikely to be due to a cluster-cluster merger and speculate about the possibility of accretion shocks. The source was identified from Sloan Digital Sky Survey, Galaxy Evolution Explorer, NRAO VLA Sky Survey and Faint Images of the Radio Sky at Twenty-Centimetre!
+ s survey data, but we also present follow-up optical observations with the Lulin telescope and 325-MHz low-frequency radio observations with the Giant Metrewave Radio Telescope. We briefly discuss the scientific potential of this example in understanding the evolution of galaxies and clusters by accretion, mergers, star formation and active galactic nucleus feedback.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

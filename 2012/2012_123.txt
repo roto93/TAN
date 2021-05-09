@@ -1,0 +1,216 @@
+Date: Thr, 21 Jun 2012 01:57:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 14 - 20, 2012)
+
+============================================================================== 
+
+In this issue (Jun 14 - 20, 2012)
+
+1. NAOJ Subaru Telescope Job Vacancy - call for applications (Aug 15)
+2. ASIAA Coloquium (Jun 22): Frédéric Deschamps (ASIES)
+3. Reminder for ALMA Proposal Writing Camp (late)
+4. Specifics for ALMA users in Taiwan
+
+==============================================================================
+
+> From: Nagayoshi Ohashi <nohashi@naoj.org>
+> Sent: Wed, 13 Jun 2012 09:42:07 -1000
+> Subject: Fwd: NAOJ Subaru Telescope Job Vacancy -call for applications
+
+Dear Yi-Jehng,
+
+Would you please post the following information at TAN?
+
+thanks,
+nagayoshi
+-----------------------------------------------------
+
+The National Astronomical Observatory of Japan (NAOJ) invites applications
+for one vacant position to work for Subaru telescope, an optical-infrared
+telescope at the 4,200 m (13,460ft.) summit of Mauna Kea on the island of
+Hawaii. NAOJ operates the Subaru telescope for open use observations, and
+is also active in the research and development for its future systems. We
+are seeking an assistant professor that assumes leadership role in the
+research and development activities for the telescope and instrument
+systems to maintain and advance further its high level of science outputs.
+More information on the position, including how to apply for the position,
+is available at
+http://www.subarutelescope.org/Announce/2012/06/08/index.html.
+
+The position of the Assistant Professor with the Subaru Telescope, National
+Astronomical Observatory of Japan (NAOJ) is based in Hilo, Hawaii, U.S.A.
+Primary duties and responsibilities of the incumbent is to maintain and
+improve the performance of the telescope system including instrumentation,
+from research scientist point or view, as follows:
+
+-      Leads, by taking full advantage of strengths of the Subaru
+Telescope, development of new instrumentation to assure continued
+production of first class sciences in the coming decade
+
+-      Directs the development of new instrumentation, by working closely
+with the engineers of the Telescope Engineering Division and Instrument
+Division, to the highest level of readiness and operability both from
+system engineering viewpoint and for the benefit of common use operation on
+the Subaru Telescope
+
+-      Plans and proposes modifications and upgrades of the telescope and
+instrumentation in order to operate them strategically and reliably in the
+era entering the construction of extremely large telescope
+
+Application document must be received by no later than August 15, 2012. I
+would appreciate serious consideration of relevant researchers.
+
+With best wishes,
+
+Nobuo Arimoto (sent by N. Ohashi)
+Director, Subaru telescope, NAOJ
+
+==============================================================================
+
+> Date: Sun, 17 Jun 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Dr. Frédéric Deschamps (Institute of Earth Sciences, AS)
+Topic:        The role of anti-freeze compounds in maintaining subsurface oceans  in icy moons' interiors
+Time:        6/22 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+A key parameter that controls the crystalization of primordial oceans in large icy moons is the presence of anti-freeze compounds. The phase diagram of the water-ammonia system is well documented, and several studies showed that the presence of a few wt% of ammonia in the primordial oceans of icy moons may stop the crystalization of these oceans. Another anti-freeze compound that may be present in Titan's interior is methanol. Using a thermodynamic model of the solar nebula and assuming a plausible composition of its initial gas phase, we first calculate the condensation sequence of ices in Saturn's feeding zone, and show that in Titan's building blocks methanol can have a mass fraction of ~4 wt% relative to water, i.e., methanol can be up to four times more abundant than ammonia. We then combine available data on the phase diagram of the water-methanol system and scaling laws derived from thermal convection to estimate the influence of methanol on the dynamics of the outer !
+ice I shell and on the heat transfer through this layer. Our results indicate that a small fraction of methanol, which is consistent with the determination of Titan's building blocks composition, strongly reduces the vigor of convection in the outer ice shell. The effect of 5 wt% methanol is equivalent to that of 3 wt% ammonia. Thus, if methanol is present in the primordial ocean of Titan, the crystallization may stop, and a sub-surface ocean may be maintained between the ice I and high pressure ice layers. A preliminary estimate indicates that the presence of 4 wt% methanol and 1 wt% ammonia may result in an ocean at least 90 km thick.
+
+==============================================================================
+
+> Date: Fri, 15 Jun 2012 19:39:59 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Reminder for ALMA Proposal Writing Camp
+
+Dear Potential ALMA users,
+
+    The writing camp will be in room 1107 in the ASMAB building from June 18 to 
+20 in the afternoon from 1pm to 5pm. We will hire an english editor. We 
+strongly encourage all the potential ALMA users to join this camp even if you 
+have not signed up or are too busy to sign up for the camp. The presence of 
+faculty members would be very important for the success of this camp.
+
+Cheers,
+Chin-Fei
+On behalf of the Taiwan ARC Node
+
+On Wed, 13 Jun 2012, Chin-Fei Lee wrote:
+
+> Dear Potential ALMA users,
+>
+>    As mentioned in the ALMA user workshop on June 9, the Taiwan ARC node
+> will host an ALMA Proposal Writing Camp, helping Taiwan users to sharpen and
+> polish their proposals to be submitted for Mock Review.  For the details of
+> the Mock Review, please visit the following website:
+>
+>  http://alma.asiaa.sinica.edu.tw/proposals_cycle01.php#mock
+>
+>    This camp will be hosted in Astronomy-Mathematics Building on the NTU 
+> campus.  It will run from June 18 to 20 in the afternoon from 1 to 5
+> pm.  One to two ARC members will stay with the users, providing technical
+> advices.  The mock review panel members will standby and can be consulted
+> for science questions.
+>
+>  In this camp, the users need to bring their own laptop that has the ALMA
+> softwares (e.g., OT and CASA) installed.  Also, in order to benefit from
+> this camp, the users should have their proposal draft ready as much as
+> possible.
+>
+>  We encourage all potential ALMA users to attend this camp. Please let 
+> Pei-Ying (pyhsieh@asiaa.sinica.edu.tw) know by June 13 (today) whether or not 
+> you can attend this camp.  Also, please let her know if you need an English 
+> editor.  We will hire one if needed.
+> 
+> Best Wishes,
+> Chin-Fei
+> On behalf of the Taiwan ARC node
+> 
+>
+
+==============================================================================
+
+> Date: Fri, 15 Jun 2012 20:14:58 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> cc: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+>        alma-t@asiaa.sinica.edu.tw
+> Subject: Specifics for ALMA users in Taiwan
+
+Dear Potential ALMA users in Taiwan,
+
+A PI in Taiwan has access to ALMA through both East Asia (EA) and North 
+America (NA) regions. He/She can register in the ALMA Science Portal. 
+After registration, the user can select freely (and also can change it) to 
+which region the time should be charged to. Also for submitting Helpdesk 
+tickets, both regions can be selected. Accordingly, and since as a rule, 
+ALMA users should have only a single account. If you have two accounts, 
+you should have received a email informing you that the two accounts would 
+be merged. If they are not merged automatically, please remove one or 
+submit a Helpdesk ticket. With the account, you should be able to see a 
+drop-down menu in Observing Tool (OT) for you to select which region to 
+submit your proposal. If you don't see the drop-down menu in OT, then you 
+may need to reset/update your institution in your profile in the science 
+portal.
+
+In Cycle 1, a PI in Taiwan can also have a 50/50 split option for time 
+charge. To facilitate the explanation, here we assume some one submits a 
+proposal with this split option, and requests a total time of 10 hrs, 
+i.e., 5 hrs in EA and 5 hrs in NA.
+
+If one selects the split option, it depends on where the proposal stands 
+in BOTH queues. For the proposal to be accepted, it needs to fit within 
+BOTH queues; i.e., for the above proposal submitted for Cycle 1, the 5 hrs 
+needs to fit within the NA 270 hr allotment and the other 5 hrs needs to 
+fit within the EA 180 hr allotment. If it only fits within one queue and 
+not the other, it will not be given a "High Priority" status.
+
+Note that this is not necessarily a double jeopardy; it depends on the 
+relative over-subscription between the two regions, and how close to the 
+dividing line the proposal lies. Not obvious for the example of a 10 hrs 
+proposal; more-so for larger proposals where e.g. fitting 20 hrs into two 
+queues is easier than fitting 40hrs into one.
+
+On the other hand, a Taiwanese PI can submit two 5hr proposals SEPARATELY, 
+one with EA as the Executive, another with NA as the Executive. Then each 
+part would be judged against the relevant queue, - they get all the time 
+if they pass both Executives cutoff; they get 5 hrs if they only pass one 
+Executives cutoff.
+
+Note that this workflow would only work for projects that could be split 
+by number of targets, not total integration time, since there is a 
+prohibition against submitting the exact same proposal with different 
+Executive affiliations.
+
+Best Regards,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

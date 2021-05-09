@@ -1,0 +1,63 @@
+From kyl@asiaa.sinica.edu.tw Wed Jul 26 10:05 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA03164
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 26 Jul 2000 10:04:49 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA25021
+	for <astro@asiaa.sinica.edu.tw>; Wed, 26 Jul 2000 10:07:31 +0800
+Date: Wed, 26 Jul 2000 09:59:34 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ISO_Calibration_Sources (fwd)
+Message-ID: <Pine.SOL.4.10.10007260959270.23031-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1542
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 24 Jul 2000 22:56:41 +0200 (MET DST)
+From: ISO Helpdesk <helpdesk@iso.vilspa.esa.es>
+To: kyl@astro.uiuc.edu
+Subject: ISO_Calibration_Sources
+
+
+Dear colleague,
+
+During the preparation and execution of the European Space Agency's
+Infrared Space Observatory (ISO) mission extensive programmes were
+conducted to establish catalogues of celestial calibration standards
+adequate to support the calibration needs of the mission.  These
+programmes have led, in particular, to the production of sets of stellar,
+asteroidal and planetary calibration sources - both photometric and spectral,
+often spanning the full 2.5 to 240 micron wavelength range of ISO.
+
+We would like to draw your attention to this, now publicly available,
+database of near to far-infrared calibration sources, which you can find
+- along with comprehensive explanatory and reference material, at:
+
+  http://www.iso.vilspa.esa.es/users/expl_lib/ISO/wwwcal/ 
+      
+We hope that the astronomical community will find these products of 
+the ISO mission useful in a wide range of applications.
+
+
+  Martin Kessler (ISO Project Scientist), Leo Metcalfe, Alberto Salama 
+  on behalf of all calibrators that contributed to this activity 
+  over many years.
+
+

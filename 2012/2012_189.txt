@@ -1,0 +1,30 @@
+> Date: Sun, 21 Oct 2012 14:49:46 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>        riaa@asiaa.sinica.edu.tw, alma-t@asiaa.sinica.edu.tw
+> Subject: New ALMA Science Verification data release 
+
+Dear ALMA users,
+
+A new installment of Science Verification data is planned for release on 
+26 October 2012. The datasets that will be included in this release 
+correspond to targets suggested by the community and listed in Table 2 of 
+the Science Verification web page.
+
+The release will include the following Science Verification datasets:
+
+- The protoplanetary disk HD163296: multiple spectral lines, demonstrating 
+the mixed modes capability, at Bands 6 and 7
+
+- The Galactic Centre, Sgr A*: recombination lines at Band 3
+
+Future science verification releases will also be preceded by a similar 
+announcement.
+
+Edwige from the Taiwan ARC node contributed Band 6 of HD163296 work.
+
+Best Regards,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+==============================================================================

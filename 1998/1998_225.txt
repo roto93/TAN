@@ -1,0 +1,94 @@
+From kyl@asiaa.sinica.edu.tw Sun Nov 15 11:21:23 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA04773; Sun, 15 Nov 1998 11:12:19 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id LAA19020; Sun, 15 Nov 1998 11:10:01 +0800
+Date: Sun, 15 Nov 1998 11:10:01 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Astronomical data services (fwd)
+Message-Id: <Pine.GSO.3.96.981115110958.19016A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3300
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Sat, 14 Nov 1998 12:05:58 -0800
+From: Chris Aikman <aikman@seameadow.com>
+To: john.p.lynch@gsfc.nasa.gov, blynds@unidata.ucar.edu,
+    lysaght@whately.phast.umass.edu, lynch@gsti.com,
+    scott.c.lundgren@lmco.com, lu@wcsub.CTSTATEU.EDU,
+    jlutz@orca.astro.washington.edu, lundquc@email.ugh.edu, luckepb@muc.edu,
+    luu@cfa.harvard.edu, lutter@access.etsu.edu, luck@grendel.astr.cwru.edu,
+    klum@air-boston.com, kyl@astro.uiuc.edu, laird@tycho.bgsu.edu,
+    dong@spacenet.tn.cornell.edu, elanger@tikki.cc.colorado.edu,
+    lanning@stsci.edu, wlahaise@gpc.DC.PeachNet.EDU, ladd@bucknell.edu,
+    mlane@palomar.edu, lavery@iastate.edu, tlarosa@ksumail.kennesaw.edu,
+    laubcorp@impulse.net, leising@nova.phys.clemson.edu,
+    leighly@ulisse.phys.columbia.edu, rplebeau@engr.uky.edu,
+    lestrade@ra.msstate.edu, levan@plk.af.mil, leungc@rpi.edu,
+    lien@vrisv.com, liebovitch@walt.ccs.fau.edu,
+    link@enif.astro.indiana.edu, blink@dante.physics.montana.edu,
+    slinder@astro.psu.edu, jlotz@brynmawr.edu, lockett@centre.edu,
+    jlockman@edisto.cofc.edu, lopresto@edinboro.edu, loh@pa.msu.edu,
+    cloken@hades.physics.missouri.edu, james@daisy.phast.umass.edu,
+    rfl@oddjob.uchicago.edu, william.luebke@ccc-infonet.edu,
+    lugger@indiana.edu
+Cc: Chris Aikman <aikman@seameadow.com>
+Subject: Astronomical data services
+
+Dear Observational Astronomer,
+
+Do you need original astronomical imaging or spectroscopic data for your
+research? The 1.8-m and 1.2-m telescopes of the Dominion Astrophysical
+Observatory at Victoria are available to professional astronomers upon
+application.
+
+The telescope capabilities, site characteristics, and application procedure
+are described at
+  http://www.hia.nrc.ca/facilities/dao/   
+The one-page application form is available at:
+  http://www.hia.nrc.ca/facilities/dao/observing/forms/forms.html 
+The next application deadlines are DECEMBER 1, 1998, and March 1, June 1,
+September 1, 1999.
+
+However, you need not travel to Victoria to obtain your observations.
+Observing services:
+  http://www.hia.nrc.ca/facilities/dao/observing/service/service.html 
+are offered by three companies (Aurora Astronomical Services, Seameadow
+Astronomical Services, and Spaceguard Consulting) acting as independent
+contractors who will obtain observations on your behalf, and transfer all
+data to you by ftp or on 4-mm or 8-mm data tape, as you request. The cost
+of this service is US$ 35 per hour (Cdn$50 per hour) from dome opening to
+dome closing, for single-night projects. You aren't billed for any night
+unless useable data are taken. Major projects can be undertaken at
+negotiated prices. Please contact any of these companies (as given at the
+above website) directly for further information.
+
+            astronomically yours,                                          
+ 
+                            Chris Aikman
+                            http://www.seameadow.com
+
+
+
+

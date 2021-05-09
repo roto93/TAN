@@ -1,0 +1,114 @@
+> Date: Wed, 20 Jan 2016 10:16:30 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: cheung@phys.nthu.edu.tw, <twhepnet@hepmail.phys.sinica.edu.tw>,
+>         <astro@asiaa.sinica.edu.tw>
+> cc: ty18@cornell.edu, <jcpeng@illinois.edu>,
+>         "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>, <wyph.jh@msa.hinet.net>,
+>         Chih-Hsin Huang <chhuang@phys.ntu.edu.tw>
+> Subject: A new Higgs particle? (fwd)
+
+Maybe we should add a few crucial points, which we knew (understood) but
+we didn't elucide further.
+
+No.1: Our Standard Model predicts (or, postdicts) m_{SM Higgs}=v/2 with v
+the SM Higgs VEV. You may check with the Particle Data Group to confirm
+that this is true.
+
+     The underlying reason is that our "ignition" term is in the purely
+family channel, \Phi(3,1), to make sure that the mass generation covers
+everything, if needed.
+
+No.2: The origin of mass.
+
+All the masses, including the Higgs sector, the six quark masses (the
+quark world), and the lepton masses (the lepton world), are through the
+dimensionless couplings. It means that they are probably determined by the
+(quantum) 4-dimensional Minkowski space-time, as a whole, not by the
+details of the fields.
+
+There is only one "ignition" dimensional term, which is for the turn-on of
+the spontaneous symmetry breaking (SSB). This process is similar to the
+phase transition of some sort, a "super phase transition".
+
+No.3: The origin of fields (point-like particles):
+
+The Einstein basic relation, E^2=(\vec p)^2 + m^2, is meant to describe
+the motions. But the squares bother us. So, we turn to the Dirac's
+learization, E={\vec \alpha}\cdot {\vec p} + \beta m, for a unique help.
+We do this in the lepton world, again for the quark world. The
+4-component solution of Dirac equation means that the 2-spin is there and
+that the antiparticle is there - the origin of spin is tied to the
+(quantum) 4-dimensional Minkowski space-time, so is the origin of
+antiparticle.
+
+These, plus the Higgs and the gauge bosons, makes "our world" - complete
+and consistent. We don't need anything else.
+
+No.4: That is why we summarize "our world".
+
+We believe that we live in the quantum 4-dimensional Minkowski space-time
+with the gauge-group structure SU_c(3) x SU_L(2) x U(1) x SU_f(3) built-in
+from the very beginning - the "background" of our world. From the
+"background", we see the quark world, with the (123) symmetry, and we
+also see the lepton world, with another (123) symmetry.
+
+From the overall consistency, we see that neutrinos as Majorana particles
+do not belong. The presence of the 3^\circ K cosmic microwave bakground
+(CMB) means that the gauge-group structure should be built-in in the very
+beginning. Because of the group structure, we rule out, mathematically,
+the neutrinos as majorana particles.
+
+Recent references: "The Standard Model", ArXiv:1304.4705v2 [hep-ph] 25
+August 2015; the mass generation, arXiv:1301.6464v8 [hep-ph] 3 Nox 2015;
+neutrino oscillations, arXiv:1209.5488v4 [hep-ph] 3 Nov 2015; cosmology
+and neutrinos, arXiv:1012.1082v4 [hep-ph] 13 Jan 2016; partially
+dark-matter galaxies, arXiv:1203.1407v2 [hep-ph] 13 Jan 2016. For earlier
+references, see "The Universe" via the Inspire high-energy-physics network
+(universe).
+
+---------- Forwarded message ----------
+> Date: Mon, 18 Jan 2016 09:19:14 +0800 (CST)
+> From: Pauchy W-Y.Hwang <wyhwang@phys.ntu.edu.tw>
+> To: cheung@phys.nthu.edu.tw, twhepnet@hepmail.phys.sinica.edu.tw,
+>      astro@asiaa.sinica.edu.tw
+> Cc: ty18@cornell.edu, jcpeng@illinois.edu,
+>      Pauchy W-Y.Hwang <wyhwang@phys.ntu.edu.tw>, wyph.jh@msa.hinet.net,
+>      Chih-Hsin Huang <chhuang@phys.ntu.edu.tw>
+> Subject: A new Higgs particle?
+
+Dear Kingmen and others:
+
+     Thank you so much for keeping us informed.
+
+     In fact, all of us, particle physicists and alike, should think about
+these things (problems) in terms of the Standard Model.
+
+     Let's start from quantum fields (particles). The only missing link is
+about \lambda (\phi^\dagger \phi)^2, the only renormalizable left-over for
+the complex scalar field \phi, in the 4-dimensional Minkowski space-time.
+This lambda (=1/8?) is dimensionless in the 4-dimensional Minkowski
+space-time and lambda should be determined by the governing space-time in
+view of its dimensionlessness. Since lambda = +1/8, it is self-repulsive -
+thus it cannot exist by itself.
+
+     The Higgs fields exist in pairs: phi(1,2) (Standard-Model Higgs),
+phi(3,2) (mixed family Higgs), and phi(3,1) (purely family Higgs), the
+first label SU_f(3) while the second the electroweak SU_L(2). They are
+maximally attractive in pair - just enough to overcome the
+self-repulsiveness. These fields are just enough to make the eight family
+gauge bosons massive as well as to make four family Higgs bosons.
+
+      The quark world has the (123) symmetry (SU_c(3) x SU_L(2) x U(1)).
+The lepton world also has the other (weaker) (123) symmetry (SU_L(2) x
+U(1) x SU_f(3)). They are free of Landau ghosts, and asymptotically free.
+Thus, well-behaved in the r => 0 limit.
+
+      In fact, in this 21st century, we can declare that we live in the
+quantum 4-dimensional Minkowski space-time with the gauge-group structure
+SU_c(3) x SU_L(2) x U(1) x SU_f(3) built-in from the very beginning. Why
+built-in from the very beginning? We could ask the 3^\circ K cosmic
+microwave background (CMB) for the answer.
+
+                         Best wishes to you all, Pauchy
+
+==============================================================================

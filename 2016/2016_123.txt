@@ -1,0 +1,189 @@
+==============================================================================
+
+In this issue (July 25 - 29, 2016)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Aug 01): Chueh-Yi Chou (ASIAA)
+                                      (Aug 01): Jeffrey Fung (Berkeley)
+                                      (Aug 03): Hsi-An Pan (ASIAA)
+                                      (Aug 03): Huang Ping-Jie (ASIAA)
+2. [First Announcement] East-Asian Numerical Astrophysics Meeting
+
+==============================================================================
+
+> Date: Thu, 28 Jul 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chueh-Yi Chou (ASIAA)
+Topic:          Subaru Prime Focus Spectrograph Metrology Camera System
+Time:           8/1 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** CompAS Seminar ***
+____________________________________________________
+Speaker:        Jeffrey Fung (Berkeley)
+Topic:          PEnGUIn: A Fast GPU Hydrodynamics Code
+Time:           8/1 (Monday) 13:30 - 14:30
+Place:           R1108
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Hsi-An Pan (ASIAA)
+Topic:          Environmental Dependence of GMCs: simulation and observation
+Time:           8/3 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+A long-standing question about star formation is whether it is sensitive to large-scale galaxy structures. Observations show that strong bars (high ellipticity and long length) typically contain less or no star formation, while weak bars (low ellipticity and short) have more. This suggests that large-scale structure can indeed influence star formation. Yet galactic bar is a poorly-explored region, its actual effect on star formation is not yet clear.
+
+If star formation does care about galaxy structures, this should be reflected in the properties of giant molecular clouds (GMCs), because their conditions determine whether a star can form. In this research,  we study the impact of bar on the properties of simulated GMCs formed in a set of galaxies for which their bar strength differs in a quantitatively controlled way.
+We also discuss the possibility to observe the environmental dependence of GMCs by considering the observational bias.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Huang Ping-Jie (ASIAA)
+Topic:
+Time:           8/3 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================
+
+> Date: Fri, 29 Jul 2016 09:00:41 -0500
+> From: Ronald Taam <taam@asiaa.sinica.edu.tw>
+> Subject: Fwd: [First Announcement] East-Asian Numerical Astrophysics Meeting
+
+Dear Yi-Jehng,
+
+Would you advertise this bi-annual meeting in Numerical Astrophysics over the TAN network?
+
+Thanks.
+
+Best,
+
+Ron
+
+---------- Forwarded message ----------
+
+> From: Liang Gao <lgao@bao.ac.cn>
+> Date: Tue, Jun 14, 2016 at 3:58 AM
+> Subject: [First Announcement] East-Asian Numerical Astrophysics Meeting
+> To: Takiwaki Tomoya <takiwaki.tomoya@nao.ac.jp>
+> Cc: inutsuka@nagoya-u.jp, Juntai Shen <jsh684@gmail.com>, Chien-Chang Yen <yen@math.fju.edu.tw>, hjyo@mail.ncku.edu.tw, Hyesung Kang <hskang@pusan.ac.kr>, ??? <wkim@astro.snu.ac.kr>, Tomoaki Ishiyama <ishiyama@chiba-u.jp>, "P. F. Chen" <chenpf@nju.edu.cn>, Yipeng Jing <ypjing@sjtu.edu.cn>, Ing-Guey Jiang <jiang@phys.nthu.edu.tw>, Ronald Taam <taam@asiaa.sinica.edu.tw>, Dongsu Ryu <ryu@sirius.unist.ac.kr>, Eiichiro Kokubo <kokubo@th.nao.ac.jp>
+
+Dear Colleagues,
+
+We are ready to send the first announcement of the EANAM7, please circulate it to your astronomical societies and colleagues.
+
+Thanks very much!
+
+Liang
+
+---------------------------------------------------------------
+
+     The Seventh East-Asian Numerical Astrophysics Meeting (EANAM7)
+     October  24-28, 2016, Beijing
+     http://eanam7.csp.escience.cn/
+
+     First ANNOUNCEMENT
+     (Abstract submission until September 16)
+---------------------------------------------------------------
+*** Abstract submission is now open at  http://eanam7.csp.escience.cn/ ***
+
+------------------------
+Aims and Scope
+————————————
+
+Numerical simulations have been playing an increasingly vital role in most areas of Astrophysics. The numerical Astrophysical community in the East Asia region is growing and expanding rapidly. The goal of the series of the East-Asian Numerical Astrophysics Meetings (EANAMs) is to bring together numerical Astronomers from the region (but not limited to) to exchange results and promote potential collaborations. The scope of the seventh EANAM will comprise all major astronomical research fields that involve numerical simulations, including (but not limited to) cosmology, astronomical hydrodynamics, magnetohydrodynamics, radiative transfer, particle acceleration, and planetary/stellar/galactic dynamics. In addition, there will also be a focus on computer science applications directed toward astrophysics including numerical methods, simulation data analysis, and high performance computing. Participants from outside of the East Asia are also welcome.
+
+
+--------------
+Timeline
+--------------
+September 16, 2016: Abstract deadline
+July 15, 2016: Registration opens
+October 24, 2014: Meeting starts
+
+------------------------
+Registration Fees
+————————————
+Regular: 800 CNY
+Students: 400 CNY
+
+------------------------------------------
+Confirmed Invited Speakers
+——————————————
+Ken Chen                         (EACOA/NAOJ)
+Yuhong Fan                     (High Altitude Observatory, USA)
+Fu-Lai Guo                       (SHAO)
+Kenji Hasegawa                (University of Nagoya)
+Tsuyoshi Inoue                 (NAOJ)
+Pak-Shing Li                     (UC Berkeley)
+Min-Kai Lin                       (Univ. of Arizona)
+Tomoaki Matsumoto         (Hosei University)
+KwangHo Park                   (Georgia Institute of Technology)
+Rainer Spurzem                 (NAOC)
+Ataru Tanikawa                  (University of Tokyo)
+Hiroyuki Takahashi            (NAOJ)
+Qiao Wang                         (NAOC)
+------------------------------------------
+Scientic Organizing Committee
+—————————————————————
+
+Peng-Fei Chen           (Nanjing University)
+Shu-ichiro Inutsuka   (Nagoya University)
+Tomoaki Ishiyama     (Chiba University)
+Ing-Guey Jiang          (National Tsing Hua University)
+Yipeng Jing                (Shanghai Jiaotong University)
+Hyesung Kang           (Pusan National University)
+Woong-Tae Kim         (Seoul National University)
+Takiwaki Tomoya      (NAOJ)
+Chien-Chang Yen      (Fu Jen Catholic University)
+Dongsu Ryu               (Ulsan National Institute of Science and Technology)
+Juntai Shen                (SHAO)
+Ronald Taam              (Academia Sinica)
+Hwei-Jang Yo             (National Cheng Kung University)
+
+------------------------------------------
+Local Organizing Committee
+——————————————
+
+Chair:          Liang Gao   (NAOC)
+                   Jie Wang     (NAOC)
+                   Qi Guo        (NAOC)
+                   Lan Wang   (NAOC)
+                   Jing Zhao    (NAOC)
+-------------
+Contact
+——————
+http://eanam7.csp.escience.cn/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,73 @@
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Sun, 11 Aug 2019 15:28:04 +0800
+> Subject: JCMT YSO transient workshop
+> To: astro@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+There will be  JCMT Transient Survey workshop next week at NCU, in Room
+1013 of the Astronomy Institute.  The program aims to detect and
+characterize episodic brightening events associated with circumstellar
+accretion, or chromospheric magnetic reconnection.  A total of eight nearby
+star-forming regions are being monitored in submillimeter wavelengths,
+about once per month for the last three years, affording first ever such
+time series studies, and upon stacking, the deepest stacking images.
+
+A few survey team members will give talks that may be of interest to you.
+In addition, a few local experts on YSO variability in general will add
+diversity to the discussions.
+
+The tentative agenda follows.  Those marked with asterisks,on Tuesday
+morning August 20, are likely attractive to an audience at large, whereas
+some other presentations may be technical. You are cordially invited to
+any, or all, of the sessions.
+
+Cheers,
+Wen Ping
+
+
+Monday, August 19
+===========
+9:00   Greg Herczeg:  Goals for the meeting and status update
+9:30   Yong Hee Lee:  Light Curve Analysis: Identifying Periodic Variation
+10:00  Steve Mairs:  450 micron update
+10:30  Coffee Break
+11:00  Bhavna Lalchand:  Single-epoch transients
+11:30  Discussion:  what other analysis do we need for survey
+12:00  Lunch
+13:30  Park Woo Seok: Sub-mm/mm variation of EC 53 observed with the
+Atacama Compact Array (ACA)
+14:00  Logan Francis:  Variability with ALMA
+14:30  Zhi-Wei Chen (remote):  A high-mass variable in M17
+15:00  Discussion:  Follow-up proposal
+15:30  Break
+16:00  Giseon Baek:  Transfer modeling of EC 53: An Episodically
+Accreting Class I Young Stellar Object
+16:20  Carlos Contreras-Pena (remote):  WISE-JCMT Variability
+16:40  Discussion:  modeling needs?
+17:00  Paper organization/updates
+18:00  Team dinner
+
+
+Tuesday, August 20
+===========
+***9:00    Greg Herczeg:  Background of the JCMT Transient Survey
+***9:30    Doug Johnstone:  Results from the JCMT Transient Survey
+***10:00    Hiro Takami:  Accretion variability and CTTSs
+10:20  Break
+***10:40  Jeong-Eun Lee:  ALMA ToO update
+***11:10  Daniel Harsono:  "Chemistry and Protostellar Variability"
+***11:30  Tien-Hao Hsieh:  Chronology of Episodic Accretion in Protostars -
+an ALMA survey of the CO and H2O snowlines
+11:50   Discussion:  Transient and chemistry follow-up
+----------
+12:00  Lunch
+13:30  Greg Herczeg:  update on proposal to extend Transient
+14:00  Vivien Huei-Ru Chen:   thoughts on high-mass star formation
+14:30  Discussion of high-mass star formation
+15:30  Break
+16:00  Assignments for Transient extension
+
+==============================================================================

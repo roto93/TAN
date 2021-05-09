@@ -1,0 +1,73 @@
+> Date: Thu, 14 Jul 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Hsi-Wei Yen (ASIAA)
+Topic:          Stacking Spectra in Protoplanetary Disks
+Time:           7/18 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Chia-Hsun Chuang (AIP Potsdam)
+Topic:          Baryon Acoustic Oscillation measurements from the BOSS final data release
+Time:           7/19 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Recently, the BOSS collaboration submitted a set of papers (arxiv:1607.03143 ~​
+03155) analysing the final data release of the BOSS galaxy sample ​​
+within redshift 0.2 < z < 0.75​ (~1.2 million galaxies)​. We obtained two independent 1% distance measurements at ​two ​
+redshifts​ (z=0.38 and 0.61)​ which can be used to derive the evolution of our universe and understand better dark energy. I would like to explain the methodologies and the cosmological results.
+
+In the second part of this talk, I would like to present our studies of measuring BAO from void clustering (arxiv:1511.04405,1511.04391,1511.04299). It was not possible to measure BAO from voids because of the low statistical power. ​However, ​we have developed a methodology to extract the information from the large scale structure of void clustering observed from BOSS data. In addition, we investigate and model the redshift distortion effect of void clustering​ (arXiv:1605.05352)​
+and found that it would be a challenge to measure growth history ​of our universe ​
+from voids.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Ian Czekala (Harvard/Smithsonian CfA)
+Topic:          The Fundamental Properties of Young Stars
+Time:           7/20 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Accurate knowledge of the fundamental properties of stars--mass, temperature, and luminosity--are key to our understanding of stellar evolution. In particular, empirical measurements of stellar mass are difficult to make and are generally limited to stars that dynamically interact with a companion (e.g., eclipsing or astrometric binaries), a precious but ultimately small sample. First, I will discuss my development of a recent technique that uses the rotation of the protoplanetary disk--a consequence of the star formation process and still present around many pre-main sequence stars--to measure the stellar mass. To vet the absolute accuracy of this technique, I led the analysis of an ALMA Cycle 1/2 program to observe the few circumbinary disks around double-lined spectroscopic binary stars, enabling an independent confirmation of the total stellar mass. Our comparison with radial-velocity results demonstrates that the disk-based dynamical mass technique can reliably achieve !
+ precise measurements of stellar mass on the order of 2-5%, clearing the way for widespread application of this technique to measure the masses of *single* stars.
+
+Second, I will discuss our development of novel statistical techniques for spectroscopic inference. Young stars exhibit rich and variable spectra; although interesting phenomena in their own right, accretion veiling and star spots complicate the retrieval of accurate photospheric properties. Moreover, the uncertain spectral type--effective temperature scale for low mass pre-main sequence stars introduces a systematic error when placing a star on the Hertzsprung Russell diagram. The Gaussian process techniques we have developed to address these problems are also generally applicable to a wide range of spectroscopic problems. Lastly, I will discuss recent progress in measuring the masses of a large sample of single pre-main sequence stars observed with the Submillimeter Array, which will double the number of disk-based dynamical mass estimates of pre-main sequence stars. With ALMA, the disk-based technique holds enormous promise to become the primary means of stellar mass for !
+ statistically large samples of pre-main sequence stars, ushering in a new era of high precision in star and planet formation studies.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Wang, Chun-Lun (ASIAA)
+Topic:
+Time:           7/20 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chun-Lun Wang (ASIAA)
+Topic:          Electron Beam Lithography of HEB Mixers
+Time:           7/20 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================

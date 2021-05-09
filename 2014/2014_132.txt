@@ -1,0 +1,135 @@
+============================================================================== 
+In this issue (Aug 23 - 28, 2014)
+
+1. ASIAA Seminars (Aug 26): Ronin Wu (University of Tokyo)
+                  (Aug 27): Hwei-Jang Yo (NCKU)
+2. ASIAA Colloquia/Seminars (Sep 01): Hiroyuki Hirashita (ASIAA)
+                            (Sep 02): Ruben Krasnopolsky (ASIAA)
+                            (Sep 03): Melody Wolk (Univ of Hawaii)
+                            (Sep 03): Ho, Chin-Ting (ASIAA)
+                            (Sep 05): Chihway Chang (ETH)
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun, 24 Aug 2014 08:00:01 +0800 (CST)
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Ronin Wu (University of Tokyo)
+Topic:        Spatially resolved physical conditions of molecular gas and potential star-forming tracers in M83, revealed by the Herschel SPIRE FTS
+Time:        8/26 (Tuesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Since the launch of the Herschel Space Observatory, our understanding
+about the photo-dissociation regions (PDR) has taken a step forward.
+In the bandwidth of the Fourier Transform Spectrometer (FTS) of the
+Spectral and Photometric Imaging REceiver (SPIRE) on board Herschel,
+ten CO rotational transitions, including J=4-3 to J=13-12, and three
+fine structure lines, including [CI] 609, [CI] 370, and [NII] 250
+micron, are covered. In this talk, I present our findings from the FTS
+observations at the nuclear region of M83, based on the spatially
+resolved physical parameters derived from the CO spectral line energy
+distribution (SLED) map and the comparisons with the dust properties
+and star-formation tracers. I will discuss (1) the potential of using
+[NII] 250 and [CI] 370 micron as star-formation tracers; (2) the
+reliability of tracing molecular gas with CO; (3) the excitation
+mechanisms of warm CO; (4) the possibility of studying stellar
+feedback by tracing the thermal pressure of molecular gas in the
+nuclear region of M83.
+
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Prof. Hwei-Jang Yo (NCKU)
+Topic:        Modifications for improved accuracy on angular momentum in black hole evolution calculations
+Time:        8/27 (Wednesday) 13:30 - 14:30
+Place:        R1108
+Abstract:
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu, 28 Aug 2014 08:00:03 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Hiroyuki Hirashita (ASIAA)
+Topic:         A future view for single-dish THz observations
+Time:         9/1 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** CompAS Seminar ***
+____________________________________________________ 
+Speaker:    Dr. Ruben Krasnopolsky (ASIAA)
+Topic:         TBA
+Time:         9/2 (Tuesday) 13:30 - 14:30
+Place:         R1108
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Melody Wolk (University of Hawaii)
+Topic:         Statistical properties of the matter density field
+Time:         9/3 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+In our current paradigm of the Universe, gravitational instabilities give rise to the large scale structures observed today by hierarchical clustering. Two-point statistics are known to fail at providing a complete description as the actual galaxy distribution is non-Gaussian. Moreover, it has been shown that, beyond the linear regime, high order
+moments no longer capture all the information encoded in the matter density field.
+In this talk, I will introduce an optimal "sufficient statistics" in the case of discrete density fields such as the galaxy
+distribution. This new observable was specially designed to capture all the useful cosmological information.
+I will describe how it could be applied to one of the current "state of the art" photometric redshift surveys, the CFHTLS Wide, and discuss its efficiency compared to previous method focusing mainly on the power spectrum measurement.
+I will also present some forecasts of this method for the upcoming large scale structure surveys.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Ho, Chin-Ting (ASIAA)
+Topic:         
+Time:         9/3 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Chihway Chang (ETH)
+Topic:         Mapping the Universe — Weak Lensing Maps with the Dark Energy Survey and beyond
+Time:         9/5 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Our view of the Universe is distorted due to gravitational lensing. These distortions help us understand the content and history of the Universe. In this talk I will describe some of the early work that is being done with the DES Science Verification data to make the largest contiguous weak lensing maps of the sky to date. I then discuss a variety of exciting topics that can be explored with these maps as we look forward to several large optical surveys coming up in the next decade.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

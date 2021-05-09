@@ -1,0 +1,50 @@
+> From: Trejo-Cruz Alfonso <trejo@asiaa.sinica.edu.tw>
+> Date: Wed, 30 Aug 2017 18:20:20 +0800
+> Subject: ALMA pipeline meeting
+> To: riaa@asiaa.sinica.edu.tw, alma-taiwan@asiaa.sinica.edu.tw
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear all,
+
+ALMA and the ARCs have been increasing the fraction of the observations
+that go through the pipeline, for both calibration and imaging stages. More
+and more PIs and archive users are encountering Scheduling Blocks (SB), the
+basic constituents of an ALMA delivery, processed by the pipeline.
+
+The ARC Taiwan node is organizing a short meeting for users interested in
+learning more about he pipeline deliveries and how to modify its results.
+The topics to be covered are:
+- Basic structure and files found in an ALMA pipeline delivery
+- Files/plots for quick assessment of calibration and imaging quality
+- Way to change/modify the pipeline results
+- Cases when is better to calibrate/image manually instead
+- Examples
+
+The meeting will be on September 15, from 1:30 to 3:30 pm. Users interested
+in the
+above topics are encouraged to attend.
+
+ALMA provides some material that is expected to get more extensive as the
+pipeline matures and provides for tools for users.
+It is not necessary to read through the documents in advance however.
+
+    CASAGuide page
+        https://casaguides.nrao.edu/index.php/ALMA_Imaging_Pipeline_
+Reprocessing
+
+    Pipeline User=E2=80=99s Guide
+   https://almascience.nrao.edu//documents-and-tools/alma-scie
+nce-pipeline-users-guide-casa-4.7.0
+
+Let us know in the doodle below if you plan to attend, so we know how many
+people to expect.
+
+https://doodle.com/poll/ttzxi5kseqgark6g
+
+
+Regards,
+
+Alfonso
+on behalf of the ARC
+
+==============================================================================

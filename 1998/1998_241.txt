@@ -1,0 +1,129 @@
+From kyl@asiaa.sinica.edu.tw Wed Dec  2 18:08:33 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA15835; Wed, 2 Dec 1998 18:08:14 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id SAA28631; Wed, 2 Dec 1998 18:05:54 +0800
+Date: Wed, 2 Dec 1998 18:05:54 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: New SCHED release. (fwd)
+Message-Id: <Pine.GSO.3.96.981202180550.28210D-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4974
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 1 Dec 1998 22:22:16 -0700 (MST)
+From: Craig Walker <cwalker@arana.aoc.NRAO.EDU>
+To: analysts@arana.aoc.NRAO.EDU, pperley@arana.aoc.NRAO.EDU,
+    scistaff@arana.aoc.NRAO.EDU, vlbaops@arana.aoc.NRAO.EDU,
+    vlbi@cv3.cv.nrao.edu
+Subject: New SCHED release.
+
+There is a new release of SCHED - dated 1 Dec. 98.
+
+See the section in the manual on this release for details of changes.
+
+Some of the more significant changes are:
+
+The source and station catalogs have been updated.  The VLBA
+correlator catalogs were updated recently based on a new solution from
+the USNO.  It has been many years since the last update so some of the
+station locations were getting out of date.  This did not matter for
+scheduling, but could introduce phase errors in processing.  The new
+catalog has the station velocities, so it should remain accurate
+longer.  Related to this, the formats for source positions in the
+telescope control files and in the summary file (including the coordinates
+that can be passed to the correlator) have changed to add a digit.
+
+The plot options now include the ability of plot the dirty beam for a
+given source.  Thank you Franco.  There have been some other
+improvements to the plotting, especially for when there are large
+numbers of stations.  I encourage those who haven't tried the plotting
+yet to do so. I think you'll like it.
+
+The default observe date used in conversions between B1950 and J2000
+positions has been changed to 1979.9, which is correct for 1950
+positions from the VLA which are based on calibrator positions
+determined at that time.  For some instruments, like MERLIN, the right
+date is 1950.  The documentation of this issue has been extended.
+
+Sched will now inforce the correct three numeral format for project
+codes that start with A, B, E, or G.  You must have, for example, BA035
+rather than BA35.  This might seem trivial, but when managing the
+hundreds of schedule files, it can be a real pain if users are not
+consistent.
+
+For doppler calculations, SCHED now supports LSR, heliocentric, and
+geocentric reference frames and radio and optical definitions of
+velocity.  You can also give "z", but if you do, be sure you have
+sufficient accuracy.  These capabilities have not been thoroughly
+tested so early users should compare results with other sources.
+
+Early, rudimentary, support for the VLA-Pie Town link is provided.
+
+At the AOC, there will now be subdirectories under the
+/home/arana/cwalker/sched/bin directory where the executables reside.
+The subdirectories will include SUN, LINUX, and SGI.  Executables for
+those architectures will be in the subdirectories.  There will be
+links in the bin directory to the SUN versions, but users on other
+architectures should go to the OS specific directory.  Other sites may
+wish to do something similar.  Something like this is required now
+that our new workstations are Linux PC's.
+
+Some checks are now made for JIVE correlator constraints when that
+correlator is specified.  Also enhancements have been made to 
+the ability to write VEX for more complicated schedules.
+
+There were a moderate number of bug fixes and improvements of defaulting
+capabilities.
+
+UPTIME: I intend for this to be the last release that includes the
+separate program UPTIME.  This program's functions have been replaced
+by the schedule planning and plotting capabilities of SCHED.  If there
+is anyone who objects to this, speak now or forever hold your peace.
+You are, of course, welcome to keep the current version.  It is not
+being altered except when some compiler has problems with it - which
+is happening often enough to make us want to stop supporting it.
+
+
+As usual, the code, catalogs, examples, etc are in the compressed
+tar files on the ftp.aoc.nrao.edu anonymous ftp site in the pub/sched
+subdirectory.  Some binary execute modules are available in
+subdirectories below that.  
+
+Also, as usual, the web version of the manual is at 
+http://www.aoc.nrao.edu/~cwalker/sched/sched/sched.html.  
+I highly recommend using the web version of the manual rather than trying
+to generate a printed copy (possible using latex and the sched.tex file
+included with the distribution).  It is over 200 pages long and evolves
+fairly fast.  I have not personally printed a copy in many years.  The
+HTML version is included with the distribution so you can browse
+through it locally and avoid the World Wide Wait.  To do that, point
+your browser at file://$SCHED/doc/sched/sched.html (You might need
+to define or expand out the environment variable $SCHED).
+
+Happy scheduling!
+
+Craig Walker  (cwalker@nrao.edu).
+
+

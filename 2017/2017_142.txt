@@ -1,0 +1,19 @@
+> Date: Thu, 31 Aug 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        George Djorgovski (Caltech)
+Topic:          Big Data Meet Big Black Holes: Quasars in the Time Domain
+Time:           9/6 (Wednesday) 14:20 - 15:20
+Place:          the 1F auditorium
+Abstract:
+Variability is one of the key observational properties of quasars, and it can be used as a probe of their fueling, physics, and evolution. A new generation of synoptic sky surveys, in combination with the novel data analytics tools, offers unprecedented data sets for the studies of quasars in the time domain.  I will illustrate this with examples from the Catalina Real-Time Transient Survey (CRTS), which has an open and growing archive of 500 million light curves, including 350,000 spectroscopically confirmed quasars, with the time baselines ranging from 10 minutes to 10 years.  This includes: a new approach to quasar discovery using a combination of variability and mid-IR colors from WISE, that will result in a catalog of at least a million new quasar candidates; the discovery of a characteristic time scale for a stochastic variability of quasars, that may probe the physics of their accretion disks; discoveries of type-changing quasars that show strong spectroscopic changes!
+  on the time scales of years, coupled with an anomalous variability; discovery of megaflares lasting a few years; and so on.  Perhaps the most interesting is the discovery of periodically variable quasars, which we interpret as a signature of close (milliparsec scale) supermassive black hole (SMBH) binaries en route to a merger.  Existence of such systems is expected from our understanding of hierarchical galaxy and SMBH assembly, and studies of this population can provide new insights into the final stages of SMBH mergers.  Long wavelength gravitational waves from them may be detectable with the pulsar timing arrays in the next decade.
+
+==============================================================================

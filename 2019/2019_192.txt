@@ -1,0 +1,75 @@
+=============================================================================
+
+In this issue (Dec 7 - 12, 2019)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Dec 18): Hui Li (Los Alamos Nat'l Lab)
+                        (Dec 19): Tom Broadhurst (Univ of the Basque Country)
+                        (Dec 20): Hui Li (LANL)
+
+==============================================================================
+
+Date: Thu, 12 Dec 2019 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Hui Li (Los Alamos National Lab)
+Topic:         Dust-Gas Interactions in Protoplanetary Disks: Lessons Learned and New Puzzles
+Time:         12/18 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+In the recent years, high spatial resolution observations of protoplanetary disks by ALMA have revealed many details that are providing interesting constraints on the disk physics as well as dust dynamics, both of which are essential for understanding planet formation. We carry out high-resolution, 2D and 3D hydrodynamic simulations of global disks, including the effects of dust feedback. We find that a variety of instabilities can occur in PPDs which lead to both the quasi-axisymmetric rings and non-asymmetric dust traps. In particular, we find that quasi-axisymmetric dust rings can be subject to several instabilities due to dust-gas interactions and this could provide several observational signatures that can be tested. These effects are providing additional understanding of dust dynamics in PPDs. We also produce synthetic dust emission images using our simulation results and discuss the comparison between simulations and observations.
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Tom Broadhurst (University of the Basque Country)
+Topic:         Magnified Gravitational Waves at high-z: Revising 80% of LIGO/Virgo Black Holes
+Time:         12/19 (Thursday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+We show how the puzzlingly peaked distribution of chirp masses centred on 30 solar masses, is
+readily accounted for by gravitational lensing.  We demonstrate this by simply lensing the known mass distribution
+of Galactic black holes by the known population of lensing galaxies. The stellar black holes in our Galaxy
+centre on 10 solar masses and  this becomes redshifted to larger chirp mass with increasing
+redshift, scaling as 1+z. We show that distant BBH events with typically z~2 become detectable by
+LIGO/Virgo  when magnified by intervening galaxies,  dominating over unlensed events by a ratio of ~4, matching
+well the apparent 30 solar mass peak. This conclusion means most BBH detections to date span 1<z<3, with
+chirp masses typically 3x smaller than published. We also show the data may favour a capture origin for
+BBH black hole pairs and we discuss likely cases of repeated lensed events already apparent in the data. This is
+good news for LIGO/Virgo as lensing allows the evolution of  binary black holes can be measured over most
+of  cosmic history.
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Hui Li (LANL)
+Topic:         All Hands on Deck: What observations, theory, simulation and laboratory experiments are teaching us about the powerful AGN jets
+Time:         12/20 (Friday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Powerful jets from active galactic nuclei (AGNs) are observed on scales from Mpc down to astronomical units , from essentially all observable wavebands and via multi-messengers. These enigmatic sources could hold the key to several long-standing mysteries such as ultra-high energy cosmic rays and more recently the origin of high-energy ~ PeV neutrinos. Understanding such sources has strongly influenced the development of (general) relativistic magnetohydrodynamics (MHD) and kinetic plasma astrophysics, including even laboratory experiments. We present observational and theoretical/numerical modeling results that link the large-scale global morphologies with small-scale particle energization processes. We discuss how the behavior of magnetic fields can shift the framework within which we interpret the AGN jets/lobes. These include their lobe polarization properties, lobe energy composition, Fermi flares and their corresponding optical polarization properties, as well as the e!
+ fficient particle acceleration by the dissipation of jet magnetic fields, studied via comprehensive multi-dimensional plasma kinetic simulations. Future prospects of progress in simulations, experiments and observations will be discussed as well.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

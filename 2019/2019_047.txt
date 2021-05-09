@@ -1,0 +1,161 @@
+==============================================================================
+
+In this issue (Mar 23 - 30, 2019)
+
+1. Colloquium at NCU (Mar 29; late): Pisin Chen (NTU and LeCosPA)
+2. TTTT seminar on 1 April at NTHU: Chen-Fatt Lim (NTU/ASIAA)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Apr 01): Kouichi Hirotani (ASIAA)
+                 (Apr 02): Xiaoying Pang (Xi'an Jiaotong Liverpool University)
+                 (Apr 03): Yuji Matsumoto (ASIAA)
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Sun, 24 Mar 2019 09:47:28 +0800
+> Subject: Re: colloquium at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+** NCU Colloquium ***
+
+Speaker: Pisin Chen (NTU and LeCosPA)
+Date/Time: March 29, 14:00
+Room: NCU, S4 Room 1013
+Title: Can the black hole war be ended?
+Abstract:
+The question of whether Hawking evaporation violates unitarity, and
+therefore results in the loss of information, has remained unresolved since
+Hawking's seminal discovery. To date, the debates have remained mostly
+theoretical since it is almost impossible to settle this paradox through
+direct astrophysical black hole observations. Is there any hope to see the
+end of such a =E2=80=9Cblack hole war=E2=80=9D?  In this talk we will first=
+ review, in a
+very pedagogical way, the origin and the history of the black hole war.  We
+then point out that accelerating relativistic flying plasma mirrors can
+serve as analog black holes that mimic the late stage of black hole
+evaporation. Such an accelerating plasma mirror can be prepared by injectin=
+g
+an intense x-ray pulse into a nano thin film with a graded density.  This
+can in principle be accomplished via state-of-the-art laser and
+nano-fabrication technologies. A conception of such an experiment is
+proposed and a self-consistent set of physical parameters is presented.
+Critical issues, such as how the black hole unitarity may be preserved, can
+be addressed through the entanglement between the analog Hawking radiation
+photons and their partner modes.
+
+==============================================================================
+
+> Subject: TTTT seminar on 1 April at NTHU
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw, astr_undergrad@phys.nthu.edu.tw,
+>     zzzzzzzzzz1111144@gmail.com, Oliver CHEN <369grant2@gmail.com>,
+>     jimmy871201@gmail.com, tinattw0127@yahoo.com.tw,
+>     ho simon <simonsimon259@hotmail.com>, astro@asiaa.sinica.edu.tw
+> Date: Tue, 26 Mar 2019 10:52:29 +0800
+
+Dear all,
+
+TTTT seminar at NTHU is scheduled on 1st April given
+by Chen-Fatt in NTU/ASIAA.
+
+Title:
+SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES):
+Multi-wavelength properties and luminosity function of
+450 Î¼m selected galaxies
+
+Speaker: Chen-Fatt Lim (NTU/ASIAA)
+Time: 12:20-13:00pm 1st April (Monday)
+Venue: R501, IoA, 5th floor in the 2nd General Building
+
+Abstract:
+The majority of star formation in the Universe is obscured
+by dust and produces strong infrared and sub-millimeter
+radiation. Far-infrared or sub-millimeter observations are
+therefore required to fully understand the formation history
+of galaxies. In this talk, I will present the recent progress and
+results of the SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES)
+project. STUDIES is a JCMT Large Project aiming at obtaining
+confusion limited 450 Î¼m images in the COSMOS and SXDS
+regions, to detect the majority of the dusty galaxy population.
+So far, ~ 60% of the total allocated integration of the COSMOS
+field has been obtained. This leads to by far the deepest 450 Î¼m
+image with an area of ~300 arcmin2 and a noise level of ~ 0.65
+mJy in the map center. We conducted SED fitting on sources with
+multi-wavelength counterparts to estimate their physical
+properties, including photometric redshifts, infrared luminosities,
+star formation rates, dust temperatures, stellar masses, and dust
+attenuations. Because of the unprecedented depth of the
+STUDIES image, these analyses reached ~ 30 Mâ¦¿ yr-1 galaxies
+at z ~ 2. Our data provide new measurements of obscured SFR
+densities at z =0-4, without any assumptions in the faint-end
+slopes of the infrared luminosity function. We are also building a
+450 Î¼m-based machine-learning algorithm to identify the SMG
+candidates in the entire 1.77 deg2 COSMOS region. There will be
+roughly 7500 such machine-learning candidates and they will be
+used for clustering analyses and halo mass estimations for faint
+SMGs. All the above will advance our understanding of the typical
+members in the high-redshift dusty galaxy population.
+
+Best regards,
+Tetsuya Hashimoto
+
+==============================================================================
+
+> Date: Thu, 28 Mar 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Kouichi Hirotani (ASIAA)
+Topic:          
+Time:           4/1 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Xiaoying Pang (Xi'an Jiaotong Liverpool University)
+Topic:          The fundamental plane of open clusters in the Milky Way
+Time:           4/2 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The fundamental plane (FP) is a scaling relation among effective radius, central velocity dispersion and average surface brightness of spherical dynamical systems, which is expected to be originated from the virial equilibrium of their members. Observations show that two kind of old and (relatively) isolated dynamical systems (age > 10 giga-year (Gyr)) both have FP: 1) elliptical galaxies (mass of ~10^12 solar masses), and 2) globular clusters (mass of 10^6 solar masses). Open clusters are the lower-mass counterparts of globular clusters, with masses are in the range of 100â€“104  solar masses. On the contrary to globular clusters, which are isolated in the remote halo of Milky Way without much perturbation, open clusters reside in the crowded plane of the Milky Way. They are subjected to strong tidal disturbance, such as disk shock, spiral arm passage, molecular cloud encounter, which increase the internal cluster energy, and consequently lead to their expansion and disrupt!
+ ion. Many studies have suggested a typical survival timescale of 200 million-year (Myr) for open clusters and only 3% of the known open clusters have ages above 1 Gyr. Besides, the velocity dispersion of open clusters is at the order of 0.5-1 km/s, which requires spectroscopy of very high resolution. Therefore, their FP is not been studied or investigated in the past, due to the complexity of their dynamical evolution and the difficulty in obtaining precise velocity dispersion. We are motivated to extend the FP study to open clusters and quantify their dynamical status.  We select a sample of old open clusters (aged older than 1 Gyr) from the Milky Way open cluster catalog,  and make use of the data from the Apache Point Observatory Galactic Evolution Experiment-2 in the fourteenth data release of the Sloan Digital Sky Survey. For the first time, we establish a fundamental plane among cluster parameters, the line-of-sight velocity dispersion Ïƒ1D, Ks band luminosity LKs, an!
+ d the half-light radius rh. The existence of this relation, wh!
+ ich deviates significantly from the virial theorem prediction, implies that the dynamical structures of the old open clusters are quite similar, when survived from complex dynamical evolution to age older than 1 Gyr. Nbody simulation will be an approach to investigate the dynamical evolution of open clusters. In the end, most recent Nbody simulations of star clusters and discoveries of the nearby disrupted open clusters in the solar neighborhood will be mentioned briefly.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Yuji Matsumoto (ASIAA)
+Topic:          The formation of close-in super-Earths through in-situ giant impacts
+Time:           4/3 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Observations have found over 3000 exoplanets so far (exoplanets.org). These planets are located in close-in region of their central stars, typically within ~ 0.3 au. Most planets, especially members of multiple planet systems, are super-Earths whose main compositions are rock or ice (e.g., Batalha et al., 2013; Thompson et al. 2017). There are some scenarios of formation of close-in super-Earths systems (e.g., Raymond et al., 2014; Izidoro & Raymond 2018; Lambrechts et al. 2019). In all of these scenarios, most of the formed close-in super-Earths experience giant impacts. The planet growth via giant impacts at ~ 1 au around G dwarfs is intensively studied (e.g., Chambers & Wetherill 1998; Kokubo et al., 2006; Hansen 2009). It is expected that planet-planet scattering in close-in region becomes less effective than that at ~ 1au due to the strong central gravity. However, the dependences of the planet growth in the giant impact stage on the semimajor axis and central star mass!
+  are not well understood yet. We investigate the growth of close-in super-Earths in the giant impact stage by N-body simulations. In close-in region, planets collide soon after their orbits are crossed due to small scattering cross-section. The eccentricities and inclinations of planets are kept small, i.e., the evolution in close-in region is dynamically cold. The distributions of eccentricities and inclinations of close-in super-Earths are well reproduced when the initial inclinations are small.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

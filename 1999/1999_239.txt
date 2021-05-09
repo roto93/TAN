@@ -1,0 +1,99 @@
+From kyl@asiaa.sinica.edu.tw Fri Nov 12 09:37 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA25307
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 12 Nov 1999 09:37:07 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA03546
+	for <astro@asiaa.sinica.edu.tw>; Fri, 12 Nov 1999 09:36:17 +0800
+Date: Fri, 12 Nov 1999 09:36:16 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: VLBA Observational Status Summary / update (fwd)
+Message-ID: <Pine.LNX.4.10.9911120936120.3179-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3321
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 3 Nov 1999 14:11:04 -0700 (MST)
+From: Joan Wrobel <jwrobel@aoc.nrao.edu>
+To: nmsci@zia.aoc.nrao.edu, vlbi@zia.aoc.nrao.edu
+Cc: analysts@zia.aoc.nrao.edu, dmedcalf@zia.aoc.nrao.edu,
+     grhodes@zia.aoc.nrao.edu, jwrobel@zia.aoc.nrao.edu,
+     lappel@zia.aoc.nrao.edu, pperley@zia.aoc.nrao.edu,
+     sthompso@zia.aoc.nrao.edu
+Subject: VLBA Observational Status Summary / update
+
+1999 November 3
+
+Dear Colleague,
+
+The VLBA Observational Status Summary (OSS) was updated today.
+
+This document provides, in concise form, the minimal information
+needed to formulate technically sound proposals requesting VLBA
+resources.  It also provides lists of relevant software and
+documentation, plus a list of key NRAO personnel who can be consulted
+for further, more detailed information.
+
+The VLBA OSS is available via either
+ + anonymous FTP as a PostScript file with name "obssum.vlba.ps" in
+   directory "pub" on host "ftp.aoc.nrao.edu", or
+ + WWW browsers.  Use the URL "http://www.nrao.edu/" to point toward
+   the NRAO home page, which offers easy selection of the VLBA home
+   page.  Both HTML and PostScript versions of the VLBA OSS can be
+   accessed from the VLBA home page.
+
+This VLBA OSS update reflects two major changes of interest to users:
+
+ 1. VLBA Operations was reorganized November 1.  
+    * Dave Medcalf (dmedcalf@nrao.edu) became the VLBA Array
+      Operations Supervisor.  He is responsible for coordinating the
+      activities carried out on the VLBA antennas, for facilitating
+      the daily operations of the array, and for supervising the array
+      operators and the tape librarian.
+    * Steve Thompson (sthompso@nrao.edu) became the VLBA Correlator
+      Operations Supervisor.  He is responsible for facilitating the
+      daily operations, testing and maintenance of the correlator; and
+      for supervising the correlator operators.
+    * Peggy Perley (pperley@nrao.edu) assumed a new position in VLBA
+      Operations, that of VLBA Data Quality Coordinator.  She is
+      responsible for reviewing routine test results and non-test
+      output from both the array and correlator, to identify problems
+      and facilitate their efficient repair.  She also serves as an
+      assistant to the VLA/VLBA scheduling officer, including
+      providing the support needed for dynamic scheduling of the VLBA.
+    * The position of Chief VLBA Operator was phased out of VLBA
+      Operations.  Peggy Perley had served in that capacity since
+      1993.  The VLBA user community and all VLBA staff are indebted
+      to Peggy for her highly effective years as Chief VLBA Operator.
+
+ 2. References were added to the new book "Synthesis Imaing in Radio
+    Astronomy II", Astronomical Society of the Pacific Conference
+    Series, Volume 180, eds. G.B. Taylor, C.L. Carilli, and
+    R.A. Perley.  Book order information is available from URL
+    "http://www.aspsky.org".
+
+Yours sincerely,
+J.M. Wrobel
+Division Head
+Array and Correlator Operations
+NRAO, Socorro
+
+(end msg)
+
+

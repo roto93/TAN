@@ -1,0 +1,133 @@
+From kyl@asiaa.sinica.edu.tw Fri Apr 23 10:35:37 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA27679; Fri, 23 Apr 1999 10:29:44 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA12717; Fri, 23 Apr 1999 10:26:41 +0800
+Date: Fri, 23 Apr 1999 10:26:39 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: WIDE FIELD CAMERA 3 -Scientific Oversight Committee (fwd)
+Message-Id: <Pine.GSO.3.96.990423102637.10902B-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5177
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 22 Apr 1999 17:44:24 -0400 (EDT)
+From: macchetto@stsci.edu
+To: kyl@astro.uiuc.edu
+Subject: WIDE FIELD CAMERA 3 -Scientific Oversight Committee
+
+Subject: WIDE FIELD CAMERA 3 -Scientific Oversight Committee
+
+Dear Colleague :
+	Approximately one year ago NASA  approved the development of  the WFC3
+for installation in the HST on the 2003 Servicing  Mission.The WFC3 will
+be built as a facility instrument and thus will not have a PI nor a
+traditional Investigation Definition Team.Instead a Scientific Oversight
+Committee (SOC)  was established  to define the scientific aims and to
+ensure that the broad interests of the scientific community are
+represented during the development
+	The primary task of the SOC,whose current membership is shown below, is
+to advise the HST Project and STScI in all areas of scientific
+performance of WFC3.It has met five times since July 1998.
+	The WFC3, which is described in more detail in 
+http://wfc3.gsfc.nasa.gov/   ,was primarily intended to be a replacement
+for the WFPC2  to ensure that the HST  will continue to have superb
+imaging capabilities during its lifetime (2010).
+	 A number of scientific bodies, including the HST Second Decade
+Committee ,the ST Institute Council,the ST Users Committee, the Time
+Allocation Committee and  the NASA Origins Subcommittee  have
+recommended to NASA that a near-IR channel be added to the baseline
+concept.The near-IR channel will operate in the 1-1.9 micron range and
+will use a 1k x 1k  Hg:Cd:Te  detector.This addition is in the final
+NASA approval cycle.
+	In view of this exciting new possibility  we would like to augment the
+membership of the SOC to include three additional experts in IR
+astronomy.
+	A team of scientists and engineers from within the HST Project at GSFC
+and from the STScI is responsible for the day to day activities
+associated with the WFC3 project.  This team is  led by an
+Instrument Scientist (Ed Cheng) and an Instrument Manager(Thai Pham),
+both from GSFC, and a Deputy Project Manager (Marc Rafal) and Deputy
+Project Scientist and  Operations Scientist (John MacKenty)from STScI.
+	The SOC  provides broad scientific oversight and guidance to the
+WFC3 project.  In particular, it is expected that the SOC will define
+the key scientific objectives achievable by WFC3, within the
+constraints of its main characteristics, e.g., optical configuration
+and detectors.  The SOC will:
+
+ a) define the key scientific goals for WFC3, in particular, define a
+representative set of scientific  programs to be used in the development
+of a Design Reference Mission.
+
+b) define the main scientific success criteria for WFC3, and help
+determine the technical trade-offs and assess performance against these
+criteria.
+
+c) recommend the set of filters to be incorporated in the WFC3 for the
+optimal execution of the scientific program (broad community input will
+be sought as part of the  SOC's deliberations on this issue).
+
+d) participate in the selection of the flight and spare detectors,
+including the trade-offs of the performance parameters (QE,  read noise,
+cosmetics, etc.) and scientific objectives.
+
+e) assist in the prioritization of major operational modes.
+
+f)  participate in the major project reviews.
+
+	It is expected that the SOC will meet an average of 4 to 5 times
+each year.  Since WFC3 is to be built as a facility class instrument,
+there will  be no guaranteed observing time for the  SOC members or any
+other scientist. Travel and incidental expenses will be covered,  but we
+ask the members of the SOC to be willing to serve on this committee
+as a service to the astronomical community and as their representatives.
+	We invite scientists interested in participating in the SOC to submit a
+short (2-3 pages maximum) letter or email  with their personal
+qualifications and a description of their expertise in the scientific
+and technical areas associated with the Infrared Red  channel of the
+WFC3, outlining the contributions they expect to make to the successful
+completion of the project.  The letter or email  should be sent to Dr.
+Duccio Macchetto at the STScI by May 7 ,1999.
+	The new SOC members will be selected by a peer review panel , whose
+task  will be to evaluate the qualifications and the scientific merits
+of the proposed contributions .We expect those selected to be available
+to participate in the next  SOC meeting scheduled for July 15 and 16 at
+the STScI.
+
+
+    Best regards
+
+            Steve Beckwith         Duccio Macchetto
+              Director        Associate Director for Science Programs
+				(macchetto@stsci.edu)
+
+========================================================================
+                     WFC3 SOC MEMBERSHIP
+B.Balick ,H.Bond ,M.Carollo,M.Disney,M.Dopita,J.Frogel,J.Hester,
+J.Holtzman,G.Luppino,R.O'Connell(Chairman),F.Paresce,A.Saha,J.Trauger,A.Walker
+R.Windhorst,B.Whitmore
+
+
+
+
+
+

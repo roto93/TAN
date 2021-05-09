@@ -1,0 +1,53 @@
+From wency@asiaa.sinica.edu.tw Thu Dec 31 14:43:08 1998
+Return-Path: <wency@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02357; Thu, 31 Dec 1998 14:37:17 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa31 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id OAA00948; Thu, 31 Dec 1998 14:34:45 +0800
+Date: Thu, 31 Dec 1998 14:34:44 +0800 (CST)
+From: Wen Chih-Yi <wency@asiaa.sinica.edu.tw>
+X-Sender: wency@iaa31
+To: astro@asiaa.sinica.edu.tw
+Subject: TAOS Variable Star Workshop
+Message-Id: <Pine.GSO.3.96.981231142352.16896C-100000@iaa31>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1515
+Status: RO
+
+ASIAA is organizing a small informal workshop to study how to maximize the
+serendipity return to stellar physics using the large photometry database
+for background stars that the Taiwanese American Occultation Survey (TAOS)
+for Kuiper Belt Objects is expected to generate. All interested scientists
+in Taiwan are welcome to attend.
+
+
+Date: Feb. 25 - 27 (Thu - Sat), 1999.
+Place: ASIAA, Biochemistry Building, Academia Sinica, Nankang, Taipei.
+Format: The TAOS-Vstar workshop will consist of three components:
+
+    1.Tutorials on variable stars - given by invited speakers 
+    2.TAOS status reports - by members of the TAOS collaboration 
+    3.Discussion of possible projects and implications for TAOS' planning
+       - target field selection, observing strategy, data acquisition
+         method, data pipelines, and database structure. 
+
+Speakers: The invited speakers and their tutorial subjects are: 
+
+    1.Prof. Bohdan Paczynski (Princeton) - overview on stellar physics
+      research using large database from massive surveys. 
+    2.Prof. Don Kurtz (Cape Town) - stellar seismology 
+    3.Prof. Ron Taam (Northwestern) - compact objects and transient
+      phenomena 
+    4.Prof. Doug Welch (McMaster) - experience from MACHO-variable stars 
+
+Sponsors: Academia Sinica, National Central University, National Science
+Concil.
+Limit: A total of 50 participants.
+Registration: please register before January 31, 1999.
+
+For more information and registration
+TAOS Home page : http://taos.asiaa.sinica.edu.tw/
+
+

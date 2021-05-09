@@ -1,0 +1,105 @@
+From kyl@asiaa.sinica.edu.tw Fri Sep 29 11:30 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA25088
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 29 Sep 2000 11:29:35 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA14766;
+	Fri, 29 Sep 2000 11:32:43 +0800
+Date: Fri, 29 Sep 2000 11:23:55 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+cc: Howard Yee <hyee@astro.utoronto.ca>,
+        Shiang Yu Wang <sywang@pub.iams.sinica.edu.tw>
+Subject: Magellan Status (fwd)
+Message-ID: <Pine.SOL.4.10.10009291123460.3366-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2777
+Status: R
+
+
+
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Thu, 28 Sep 2000 10:56:32 -0700
+From: Erick Young <eyoung@as.arizona.edu>
+To: K. Y. Lo <kyl@asiaa.sinica.edu.tw>
+Subject: Magellan Status
+
+Hi Fred,
+I thought you might be interested in this announcement.
+Cheers, Erick
+
+---------------------------------------------------------------
+
+    First Light on the Magellan I 6.5 Meter Telescope
+
+First light was achieved with the Walter Baade 6.5 Meter telescope at
+Las Campanas Observatory on
+September 15, 2000. The CCD guide camera at one Nasmyth instrument port
+captured the image of
+NGC 6809 with an effective 20 second unguided exposure and no filter.
+Representative PSFs ranged
+from 0.52 to 0.55 arc-second FWHM.
+
+Since the guide camera was used to take the images, long guided
+exposures were not possible. A
+second guide camera and science grade CCD camera will be added in
+October permitting longer
+exposures. Initial results are that the open- and closed-loop tracking
+performance are very good.
+
+The thermal stability of the borosilicate primary mirror is critical for
+good imaging performance. The
+images were obtained on the evening following initial start-up of the
+thermal control system for the
+primary mirror. Air is blown into the cavities of the mirror at near
+ambient temperature to maintain its
+equilibrium. The set point for the air was adjusted manually on this
+night but in the future will be
+controlled automatically.
+
+The active optic correction of the primary mirror figure and adjustment
+of the telescope collimation were
+done by inspection of the out-of-focus images on the guide camera
+monitor. Early in October this
+process will be automated using the Shack-Hartmann wavefront analyzers
+in the guider assembly.
+
+Reporting on behalf of the Magellan Project team:
+
+Matt Johns, Project Manager
+Steve Shectman, Project Scientist
+
+First light images:
+
+A. NGC 6809. Frame size: 92 arcseconds.
+(http://blinky.lco.cl/~testcell/mgfl/full_field_2.gif)
+
+B. Enlarged image of NGC 6809. Frame size: 23 arc-seconds.
+(http://blinky.lco.cl/~testcell/mgfl/mgfl1.gif)
+
+C. PSF of the star at (0.18, 0.50) in image B. The horizontal scale is
+0.184 arc-seconds per unit.
+FWHM = 0.54 arc-seconds.
+(http://blinky.lco.cl/~testcell/mgfl/mgfl_profile.gif)
+
+D. Double star with 0.92 arc-second separation.
+(http://blinky.lco.cl/~testcell/mgfl/mgfl_contour.gif)
+
+

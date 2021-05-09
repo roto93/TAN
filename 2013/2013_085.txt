@@ -1,0 +1,42 @@
+> Date: Sun, 5 May 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Yutaro Sekimoto (Advanced Technology Center, National Astronomical Observatory of Japan (NAOJ))
+Topic:        Submillimeter-wave 10 kilo-pixel camera for future radio astronomy
+Time:        5/10 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Submillimeter-wave 10 kilo-pixel camera with wide field-of-view may bring a revolution in research of cosmic microwave background and high-z submillimeter galaxies. We have been developing superconducting "CCD"-like cameras for future radio astronomy after ALMA receiver developments.
+ALMA is a powerful instruments with capability of high spatial and spectral resolution, however, the field of view is quite limited to 21 arc second at 300 GHz.
+Wide field observation with a large format imaging array isn't only a complementary for ALMA but also suitable for study of large scale structure of the universe.
+
+Microwave kinetic inductance detector (MKID) or superconducting micro-resonator is a promising technology for this purpose because large arrays can be read out using frequency-domain multiplexing with a microwave low-noise amplifier. MKID can detect higher frequencies than the gap frequency of a superconducting material, for example, Aluminum gap frequency of 90 GHz. We have demonstrated a submillimeter 100 pixel camera which consists of Aluminum antenna coupled MKIDs and Si-lens array. The dark noise equivalent power (NEP) was achieved to be 6 x 10^{-18} W/rHz.  Beam pattern of the MKID camera has been measured.
+
+We are developing MKID cameras for two future projects.
+LiteBIRD is a future satellite to detect B-mode polarization of cosmic microwave background (CMB) led by KEK, which can explore the cosmological inflation.
+It consists of a small (60 cm) crossed Dragone telescope and
+a low-noise imaging array to observe CMB with a sensitivity of r (tensol-to-scalar ratio) ~ 0.001 at large angular scales.
+To reduce foreground contamination from diffuse galactic plane, it observes 50 - 270 GHz with dual-polarization imaging array.
+A 10m-class telescope for terahertz observations is planned by Tsukuba University at
+Dome Fuji (Alt. 3800 m) on Antarctica. A wide field-of-view (~1 degree) survey of submillimeter galaxies is planned with a 10 kilo-pixel array detector covering 400 GHz - 1.5 THz.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Hao-Yi Wu (University of Michigan)
+Topic:        Precision cosmology from galaxy clusters and large-scale structures: the role of N-body simulations
+Time:        5/7 (Tuesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The number counts and large-scale distribution of galaxy clusters are powerful probes of the structure and composition of the universe.  In the era of precision cosmology from deep wide surveys, dark matter N-body simulations play an essential role in modeling the non-linear gravitational effects and interpreting the survey results.  In this talk, I will first discuss what we have learned from these simulations, how much we still need to improve them for upcoming surveys, and what the potential dangerous systematics are.  I will then present the results from my cluster simulation project �hapsody�� �� a statistical sample of high-resolution re-simulated clusters �� which allows us to statistically characterize the distribution of and correlation between cluster properties at fixed mass.  I will focus on how we can use the understanding of the clusters�� formation history to optimize the use of cluster mass tracers, to model the covariances between different mass proxi!
+es, and to reduce systematic errors in cluster cosmology.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

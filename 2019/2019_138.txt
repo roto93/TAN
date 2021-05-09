@@ -1,0 +1,159 @@
+==============================================================================
+
+In this issue (Aug 19 - 25, 2019)
+
+1. ALMA Cycle 7 Supplemental Call Pre-Announcement
+2. ASIAA Colloquium/Seminar/Lunchtalk (Aug 26): Greg Herczeg (KIAA)
+                                     (Aug 27): Zeljko Ivezic (U of Washington)
+                                     (Aug 28): Greg Herczeg (KIAA)
+3. Arizona Radio Observatory - Call for Proposals: 2019B (Sep 09)
+
+==============================================================================
+
+> Subject: ALMA Cycle 7 Supplemental Call Pre-Announcement
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Date: Tue, 20 Aug 2019 08:13:10 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+X-Mailer: Apple Mail (2.3445.100.39)
+Status: RO
+
+Dear all,
+
+        ALMA Cycle 7 Supplemental Call Pre-Announcement has been =
+released.=20
+
+        The Cycle 7 Supplemental Call for Proposals is anticipated to =
+open at 15:00 UT on September 3 with a proposal deadline of 15:00 UT on =
+October 1. ALMA expects to allocate approximately 2500 h of observing =
+time on the ACA in the Supplemental Call. Preliminary information is =
+currently available at =
+https://almascience.org/proposing/7m-array-supplemental-call . Complete =
+details of the Supplemental Call will be posted on the ALMA Science =
+Portal on September 3.
+
+        Please note that approximately 2500 hours will be offered in the =
+Supplemental Call!
+=09
+best,
+Yu-Nung
+
+==============================================================================
+
+> Date: Thu, 22 Aug 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Greg Herczeg (KIAA)
+Topic:          The JCMT-Transient Survey:  Searching for sub-mm variability of protostars
+Time:           8/26 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+The main phase of stellar growth may be characterized by prolonged periods of very low accretion punctuated by short bursts of rapid accretion.  However, until recently studies of accretion variability had been restricted to the end stages of accretion.  Our long-term East Asia Observatory JCMT/SCUBA2 sub-mm monitoring program of eight nearby star forming regions, the first large sub-mm variability program, is measuring accretion variability of protostars to understand the physics of the disk instabilities that drive this variability.  To date, we have identified that ~10% of embedded sources as variable at the ~5%/year level, including one quasi-periodic variable.  We have also detected what may be the brightest radio flare ever detected from a cool star.  I will discuss our results and possible future directions for this science.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Zeljko Ivezic (University of Washington)
+Topic:          LSST: the greatest movie of all time is coming to you!
+Time:           8/27 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The Large Synoptic Survey Telescope (LSST, www.lsst.org) will deliver the most
+comprehensive optical sky survey ever undertaken. Starting in 2022, LSST will
+take panoramic images of the entire visible sky twice each week for 10 years. 
+The resulting hundred-petabyte imaging dataset for close to 40 billion objects
+will be used for scientific investigations ranging from the properties of
+potentially hazardous asteroids to characterizations of dark matter and dark
+energy. In this talk, I will start with a brief overview of the LSST science drivers,
+system design, and the status of its construction, and then touch on some
+Big Data research challenges that need to be tackled to make the best use of
+LSST data.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Gregory Herczeg (KIAA)
+Topic:         
+Time:           8/28 (Wednesday) 14:20 - 15:20
+Place:           R1203
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2019A)
+------------------------------------------------------------------------------
+Dear Astronomers and Astrophysicists of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the ALMA
+Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona, and for the
+10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for
+the period October 15, 2019 - February 15, 2019. Proposal candidates from
+members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should
+submit up to THREE pages of scientific and technical justification (including
+figures, tables, and references) in addition to their Proposal Summary Sheet
+(download 2019B form form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the 2019B Proposal Summary
+Sheet their requested observing blocks (the exact LST ranges to be scheduled
+and number of times to be repeated), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+The 12m ALMA Prototype antenna currently supports dual-polarization sideband-
+separating (SBS) observations in three bands: 4mm (66-90 GHz), 3mm (84-116GHz),
+and 1mm (211-275 GHz). Observations with the new 4mm and 1mm receivers are
+shared-risk for the 2019B season.  The 12m control system supports dual-
+polarization in the same sideband or single-polarization in each sideband ("2
+IF mode"; fixed 6.0 GHz IF frequency), position-switched, beam-switched, and
+OTF observations. Backend modes for the AROWS spectrometer may be found on the
+ARO Equipment Summary and Status sheet at:
+https://www.as.arizona.edu/arizona-radio-observatory
+
+The 10m SMT currently supports a dual-polarization sideband-separating (SBS)
+observations at 1mm (211 - 280 GHz) and dual-polarization double sideband
+observations at 0.8mm (325 - 370 GHz).  The SMT is the preferred site for 1mm
+observations.  The SMT control system supports both dual-polarization ("2 IF
+mode") and dual-polarization + dual-sideband observations ("4 IF mode") with
+tunable IF from 4.5 - 7.5 GHz, for position-switched, beam-switched, and OTF
+observations.  Proposal candidates should consult the ARO Equipment Summary
+and Status sheet for additional technical specifications at:
+https://www.as.arizona.edu/arizona-radio-observatory
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. For further information about remote
+observing and other operational questions, please contact Tom Folkers, ARO
+Software Engineer: tfolkers@email.arizona.edu
+
+Scheduling of successful proposals will be done according to availability of the
+receivers requested.  Graduate student participation is especially encouraged.
+Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by
+midnight (23:59 CST) September 09, 2019 (Monday).
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

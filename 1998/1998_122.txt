@@ -1,0 +1,1087 @@
+From kyl@asiaa.sinica.edu.tw Tue Jun  9 09:34:55 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA19406; Tue, 9 Jun 1998 09:31:32 +0800
+Errors-To: kuan@sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA13104; Tue, 9 Jun 1998 09:30:03 +0800
+Date: Tue, 9 Jun 1998 09:30:03 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Magellanic Clouds Newsletter #21 (fwd)
+Message-Id: <Pine.GSO.3.96.980609093001.12623C-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 42721
+Status: R
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 8 Jun 1998 18:30:27 -0500 (CDT)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: Magellanic Clouds Newsletter #21
+Resent-Date: Mon, 8 Jun 1998 18:30:46 -0500 (CDT)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+
+\documentstyle[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\fboxsep=4.5pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+\def\vinfty{$v_{\infty}$}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\mdot{\.M}
+\def\msunyr{($M_{\odot}\,{\rm yr}^{-1}$)}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+% "less than or approximately"
+\def \la{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+<\cr\sim\cr}}}}}
+
+% "greater than or approximately" 
+\def \ga{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\sim\cr}}}}}
+
+
+\begin{document}
+
+{\fbox{{\fbox{\parbox[]{17cm}{
+\bigskip
+\smallskip
+\centerline{\Huge{\sc The Magellanic Clouds Newsletter}}
+\bigskip
+\centerline{\Large \bf An electronic exchange on Magellanic Clouds research}
+\bigskip
+\smallskip
+\centerline{\bf Edited by\, Eva K.\ Grebel and You-Hua Chu}
+\smallskip
+\centerline{{\tt mcnews@astro.uiuc.edu}}
+\medskip    
+\centerline{{\tt http://www.astro.uiuc.edu/mcnews/MCNews.html}}
+\centerline{{\tt http://www.astro.uni-bonn.de/\~{}mcnews/}}
+% THAT IS http://www.astro.uni-bonn.de/~mcnews/
+\bigskip
+\smallskip
+\hspace{0.5cm} {\Large\it{No.\ 21}} \hspace{11cm} {\Large\it{June 8, 1998}}
+}}}}
+
+
+\bigskip\noindent
+
+\bigskip
+\bigskip
+
+\begin{center}
+{\fbox{\parbox[]{2.7cm}{
+{\LARGE\bf{Contents}} 
+}}}
+\bigskip
+\bigskip
+
+\begin{tabular}{lr}
+News & 1\\
+Abstracts of 15 refereed papers & 2 \\
+Job opportunity & 12 \\
+%Abstract of a non-refereed paper & 7 \\
+\end{tabular}
+\end{center}
+
+%\hrulefill
+\bigskip
+%\bigskip
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{1.7cm}{
+%{\LARGE\bf{\sc News}}}
+{\LARGE\bf{News}}
+}}}}
+
+%%\smallskip\noindent
+\bigskip
+\bigskip
+
+\centerline{\Large \bf IAU Symposium 190}\medskip
+\centerline{\large \bf NEW VIEWS OF THE MAGELLANIC CLOUDS}\medskip
+\centerline{\large \bf Victoria, Canada; 12 - 17 July 1998}\medskip
+\centerline{\large \bf http://cadcwww.hia.nrc.ca/iau190/}\medskip
+
+\bigskip
+
+One month to go for IAU Symposium 190, New Views of the Magellanic Clouds!
+\medskip
+
+The meetings are shaping up to be very exciting.  Registrations have
+climbed to the 150 mark, with participants from 22 countries
+(Argentina, Australia, Canada, Chile, Czech Republic, France, Germany,
+Greece, India, Italy. Japan, Latvia, The Netherlands, New Zealand,
+Russia, Spain, South Africa, South Korea, Sweden, Taiwan, UK and USA).
+There is still room for everyone, but the organizers would appreciate
+having you register soon so they can plan appropriately! \medskip
+
+Current registrants and abstracts will be listed on our Web pages by 10
+June, barring unforeseen complications. Current housing information is
+also on the conference Web pages. We look forward to having you join us
+for what promises to be a wonderful scientific and social occasion.\\
+
+{\em James Hesser, David Bohlender, You-Hua Chu, Nicholas Suntzeff}
+
+
+\newpage
+
+\centerline{\Large \bf
+       Magellanic Cloud H{\sc I} Data Available over Web!}
+\bigskip
+
+Recent H{\sc I} data from the Australia Telescope Compact Array and the 
+Parkes telescopes is now available for downloading via the web.
+Spectral data may be downloaded for any position within the LMC
+and SMC. It is presently possible to download GIF files, postscript 
+files, and ascii text files.\\ 
+
+The data sets available are:\\
+1. SMC Parkes and Compact Array data combined (Stanimirovic et al.\ 1998)\\
+2. SMC Compact Array-only data (Staveley-Smith et al.\ 1997)\\
+3. LMC Compact Array-only data  (Kim et al.\ 1998)\\
+
+HI column densities are also calculated (SMC combined data only).\\
+
+The site may be accessed directly at:\\
+\centerline{
+{\tt http://www.atnf.csiro.au/research/smc\_h1/get\_spectrum.html}}
+% THAT IS:  http://www.atnf.csiro.au/research/smc_h1/get_spectrum.html
+or via the ``links'' web page of the Magellanic Clouds Newsletter.
+The facility is under development, so please notify problems to
+{\tt lstavele@atnf.csiro.au}.\\
+
+{\em Lister Staveley-Smith}
+\bigskip
+\bigskip
+
+\centerline{\large \bf
+       Editorial Change}
+       \bigskip
+
+Dominik Bomans has left our editorial team.  We would like to thank him
+for his work on the Magellanic Clouds Newsletter and wish him success 
+with his future endeavors. 
+
+\bigskip
+\bigskip
+\bigskip
+
+
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{8.8cm}{
+{\LARGE\bf{Abstracts of Refereed Papers}}
+}}}
+}
+\smallskip\noindent
+
+
+%\rule{\textwidth}{2pt}\par
+\bigskip
+
+
+%================== LaTex template for MCNews abstracts =======================
+\begin{center}
+{\Large\bf
+Coronal C$^{+3}$ in the Large Magellanic Cloud: Evidence for a hot halo
+}
+\end{center}
+\centerline{\bf
+Bart Wakker$^1$, J.\ Chris Howk$^1$,
+You-Hua Chu$^2$, Dominik Bomans$^2$, Sean D. Points$^2$
+}
+{\footnotesize  $^1$  Department of Astronomy, University of Wisconsin,
+                      475 N Charter St,Madison, WI\,53705, USA
+         \\     $^2$  Department of Astronomy, University of Illinois,
+                      1002 W Green St, Urbana, IL\,61801, USA
+}\\
+
+Based on the detection of C\,IV absorption in five LMC stars observed with the
+{\it Goddard High-Resolution Spectrograph} on the {\it Hubble Space Telescope}
+we present the first unambiguous evidence that C$^{+3}$ exists in the Large
+Magellanic Cloud (LMC) away from regions where it could have been locally
+produced. We can exclude that this C$^{+3}$ is associated with hot early-type
+stars or active regions. Significant differences between the H$\alpha$ and
+C$^{+3}$ velocities toward our probes indicate that the H$^+$ and C$^{+3}$ are
+not co-spatial. Large column density variations show that the distribution of
+C$^{+3}$ is not uniform. The properties of the LMC C\,IV lines are similar but
+not identical to those found for the Milky Way: 45\,km/s vs 73\,km/s for the
+average FWHM, 8--12$\times$10$^{13}$\,cm$^{-2}$\ vs
+9--16$\times$10$^{13}$\,cm$^{-2}$ for the average column density. The H$\alpha$
+vs C\,IV velocity differences and the similarity of the properties of the
+LMC and Milky Way C\,IV absorption suggest that at least some of the C$^{+3}$ in
+the LMC is in a hot corona and that it has been produced by processes similar to
+those in the Milky Way. Our results show the feasibility of detecting
+high-ionization absorption in faint LMC stars, but more observations will be
+necessary before we can understand the distribution and properties of 10$^5$\,K
+gas in the LMC.
+\\
+
+{\bf
+Appeared in The Astrophysical Journal 499, L87 (May 20)
+}\\
+{\it For preprints, contact\, }       {\tt   wakker@astro.wisc.edu  }\\
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large\bf 
+N105 in the Large Magellanic Cloud: A newly evolved H{\sc ii} region }
+\end{center}
+\centerline{\bf  
+P.\ Ambrocio-Cruz$^{1,2}$, A.\ Laval$^1$, M.\ Marcelin$^1$,
+Ph.\ Amram$^1$, and F.\ Comer\'on$^3$
+}
+{\footnotesize \noindent  $^1$ Observatoire de Marseille, France \\
+	        $^2$ Instituto de Astronom\'ia UNAM, M\'exico \\ 
+		$^3$ European Southern Observatory, Garching, Germany
+}\\
+
+The detailed radial velocity field of the N105 H{\sc ii} region in the Large
+Magellanic Cloud has been obtained for the H$\alpha $ and [O{\sc iii}]5007
+lines with a spatial sampling of $9"$ and a spectral one of 16 and 7 km
+s$^{-1}$ respectively. The line profiles present complex splittings and
+broadening in several places. The peculiar velocity field and
+morphology indicate that N105 contains 4 bubble-shaped nebulae and two
+bright distinct quasi-spherical H{\sc ii} regions, more
+or less coeval, embedded inside another one large shell nebula.
+They are essentially formed by the action of the stellar winds of
+exciting stars, probably
+born deep inside their parental cloud. This result is
+deduced from the energy input inside the ionized gas by the stellar
+winds of early type stars and from dynamical simulations combining
+the effects of stellar winds with those of high-density gradients inside
+the neutral gas. The size and the morphology of the H{\sc ii} region are
+conditioned by the depth inside the natal cloud; the observed dynamic
+timescale of the H{\sc ii} region starts at the moment of blow-out of the
+molecular cloud.
+
+The kinematics of the field agrees with the expected issues of the 
+stellar content and of the molecular studies. The position of masers and 
+of a infrared source inside N105 and the structure of this nebula 
+suggest that such an IR source may be the consequence of star formation 
+triggered by the surrounding wind pressure due to the progenitors of the 
+presently evolved stars.\\
+
+{\bf   Accepted by:\, Astronomy \& Astrophysics }\\
+{\it For preprints, contact\, }       {\tt ambrocio@mistral.cnrs-mrs.fr}\\ 
+
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large\bf Star formation and shell formation in superbubble DEM 192 
+}
+\end{center}
+\centerline{\bf  M.S.\ Oey$^1$ and S.A.\ Smedley$^2$
+}
+{\footnotesize  $^1$ Institute of Astronomy, Madingley Road, Cambridge CB3 0HA, U.K. 
+         \\     $^2$ Dept. of Mathematics and Computer Science, University of
+		Leicester, University Road, Leicester, LE1 7RH, U.K.}\\
+
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\lta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13C$}}}
+ 
+Was star formation in the OB associations, LH~51 and LH~54, triggered
+by the growth of the superbubble DEM~192?  To examine this possibility,
+we investigate the stellar contents and star formation history, and
+model the evolution of the shell.  H-R diagrams constructed from
+$UBV$ photometry and spectral classifications indicate highly coeval
+star formation, with the entire
+massive star population having an age of $\lta$ 2--3 Myr.  However,
+LH~54 is constrained to an age of $\sim$ 3 Myr by the presence of a WR
+star, and the IMF for LH~51 suggests a lower-mass limit implying
+an age of 1--2 Myr.  There is no evidence of an earlier stellar
+population to create the superbubble, but the modeled shell kinematics
+are consistent with an origin due to the strongest stellar winds of LH~54.
+It might therefore be possible that LH~54 created the superbubble, which in
+turn may have triggered the creation of LH~51.  Within the errors, the
+spatial distribution of stellar masses and IMF appear uniform within
+the associations.
+ 
+We reinvestigate
+the estimates for stellar wind power $L_w(t)$, during the H-burning
+phase, and note that revised mass-loss rates yield a significantly
+different form for $L_w(t)$, and may affect stellar evolution
+timescales.  We also model superbubble expansion into an ambient
+medium with a sudden, discontinuous drop in density, and find that
+this can easily reproduce the anomalously high shell expansion
+velocities seen in many superbubbles. 
+\\
+
+{\bf   Accepted by:\,  The Astronomical Journal 
+}\\
+{\it For preprints, contact\, }       {\tt  oey@ast.cam.ac.uk}\\
+{\it Also available from the URLs\, 
+{\tt  http://www.ast.cam.ac.uk/\~{}oey/oeypubs.html } \\
+and {\tt http://xxx.lanl.gov/abs/astro-ph/9806009 } } \\
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large\bf
+Infrared Observations of Ongoing Star Formation in the
+30~Doradus Nebula and a Comparison with HST/WFPC2~Images
+}
+\end{center}
+\centerline{\bf       
+M\'onica Rubio$^1$,
+Rodolfo Barb\'a$^2$, 
+Nolan Walborn$^2$, 
+Jorge Garc\'{\i}a$^2$ and 
+Miguel Roth$^3$\\
+}
+{\footnotesize  
+$^1$  Departamento de Astronom\'{\i}a, Universidad de Chile, 
+Casilla 36-D, Santiago, Chile\\    
+$^2$ Space Telescope Science Institute, 3700 San Martin Drive, 
+Baltimore, MD 21218, USA\\
+$^3$  Las Campanas Observatory, The Observatories, Carnegie Institution 
+of Washington, Casilla 601, La Serena, Chile}
+\\
+
+Intercomparisons of groundbased IR continuum and H$_2$ images
+with HST/WFPC2 images of the 30~Doradus Nebula reveal detailed
+structural
+relationships, which provide new information about current star
+formation there. Numerous stellar IR sources have
+been discovered in or near the bright nebular filaments west and
+northeast of R136; their locations are intimately connected
+with the nebular microstructures, as well as with early O stars in dense
+nebular knots whose optical spectral
+classifications indicate extreme youth.
+The H$_2$ emission predominates in the dust
+clouds beyond the bright nebulosity and IR sources,
+with respect to R136.  The emerging
+picture suggests that a new stellar generation is being
+triggered by the energetic activity of the massive central
+cluster in the remanent interstellar material around
+its periphery.  Comparison with the more evolved,
+giant shell H~{\sc ii} region N11 in the LMC indicates a
+generic relationship to 30~Doradus, and that ``two-stage
+starbursts'' may be characteristic of massive star formation on
+this scale.
+\\
+
+{\bf   
+     Submitted to:\,  The Astronomical Journal
+}\\
+{\it For preprints, contact\, }       {\tt   rbarba@stsci.edu  }\\
+{\it Also available from the URL\, }  
+{\tt   http://sol.stsci.edu/\~{}rbarba/publications.html}\\
+\bigskip
+
+%========================================================================
+
+
+\newpage
+
+\begin{center}
+{\Large\bf   
+Triggered Star Formation in the LMC4/Constellation III
+Region\\ of the Large Magellanic Cloud
+}
+\end{center}
+\centerline{\bf   Y.\ Efremov$^1$ and B.\ Elmegreen$^2$
+}
+{\footnotesize   $^1$  
+ MSU, P.K.Sternberg Astronomical Institute, Moscow 119899, Russia
+         \\       $^2$  
+ IBM Research Division, T.J. Watson Research Center,
+        P.O. Box 218, Yorktown Heights, NY 10598, USA
+}\\
+
+The origin of a regular, 600 pc-long arc of young stars and clusters in
+the Constellation III region of the Large Magellanic Cloud is
+considered. The circular form of this arc suggests that the prestellar
+gas was uniformly swept up by a central source of pressure. In the
+center of the arc are six $\sim30$ My old A-type supergiant stars and
+a Cepheid variable of similar age, which may be related to the source 
+of this pressure. We calculate the expansion of a bubble around a cluster 
+of this age, and show that
+it could have triggered the formation of the arc at the right time and
+place. Surrounding the central old stars and extending well outside
+the young arc is the LMC4 superbubble and giant HI shell. We show how
+this superbubble and shell could have formed by the continued expansion
+of the 15 My old cavity, following star formation in the arc and the
+associated new pressures. The age sequence proposed here was not evident
+in the recent observations by Olsen et al.\ and Braun et al.\ because the
+first generation stars in the center of the LMC superbubble are
+relatively faint and scarce
+compared to the more substantial population of stars
+less than 15 My old that formed throughout the region in a second
+generation. These considerations lead to an examination of the origin of
+the LMC4/Constellation III region and other large rings in the LMC and
+other galaxies. Their size and circularity could be the result of low          
+galactic shear and a thick disk, with several generations of star formation
+in their interiors now too faint to see. 
+\\
+
+{\bf   Accepted by:\,
+Monthly Notices of the Royal Astronomical Society
+}\\
+{\it For preprints, contact\, }       {\tt   bge@watson.ibm.com  }\\
+{\it Also available from the URL\, }
+{\tt   http://xxx.lanl.gov/abs/astro-ph/9805092}\\
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large\bf   
+Hierarchical Star Formation from the Time-Space Distribution\\ of Star Clusters
+in the Large Magellanic Cloud
+}
+\end{center}
+\centerline{\bf  Y.N.\ Efremov$^1$ and B.G.\ Elmegreen$^2$
+}
+{\footnotesize   $^1$  MSU, P.K.\ Sternberg Astronomical Institute, 
+Moscow 119899, Russia
+         \\       $^2$  
+ IBM Research Division, T.J. Watson Research Center,
+        P.O. Box 218, Yorktown Heights, NY 10598, USA
+}\\
+
+The average age difference between pairs of star clusters in the Large
+Magellanic Clouds increases with their separation as the $\sim0.35$ power.
+This suggests that star formation is hierarchical in
+space and time.  Small regions form stars quickly and large regions,
+which often contain the small regions, form stars over a longer
+period.   A similar result found previously for Cepheid variables
+is statistically less certain than the cluster result.
+\\
+
+{\bf   Accepted by:\, Monthly Notices of the Royal Astronomical Society
+%          or
+}\\
+{\it For preprints, contact\, } {\tt   bge@watson.ibm.com}\\
+{\it Also available from the URL\, }
+{\tt   http://xxx.lanl.gov/abs/astro-ph/9805259}\\
+\bigskip
+
+
+
+%==============================================================================
+
+\begin{center}
+{\Large\bf HST Colour-Magnitude Diagrams of Six Old Globular Clusters\\ 
+in the LMC
+}
+\end{center}
+\centerline{\bf K.A.G. Olsen$^1$, P.W. Hodge$^1$, M. Mateo$^2$, 
+E.W. Olszewski$^3$,}
+\centerline{\bf R.A. Schommer$^4$, N.B. Suntzeff$^4$, and A.R. Walker$^4$
+}
+{\footnotesize $^1$University of Washington, Department of Astronomy, 
+Seattle, WA 98195, USA\\
+$^2$University of Michigan, Department of Astronomy, Ann Arbor, MI 48109, USA\\
+$^3$University of Arizona, Steward Observatory, Tucson, AZ 85721, USA\\
+$^4$Cerro Tololo Inter-American Observatory, La Serena, Chile}\\
+
+We report on HST observations of six candidate old globular clusters in the
+Large Magellanic Cloud: NGC 1754, NGC 1835, NGC 1898, NGC 1916, NGC 2005 and 
+NGC 2019. Deep exposures with the F555W and F814W filters provide us with 
+colour-magnitude diagrams that reach to an apparent magnitude in $V$ of 
+$\sim$25, well below the main sequence turnoff. These particular clusters are 
+involved with significantly high LMC field star densities and care was taken 
+to subtract the field stars from the cluster colour-magnitude diagrams 
+accurately. In two cases there is significant variable reddening across at 
+least part of the image, but only for NGC 1916 does the differential reddening 
+preclude accurate measurements of the CMD characteristics.  The morphologies 
+of the colour-magnitude diagrams match well those of Galactic globular 
+clusters of similar metallicity.  All six have well-developed horizontal 
+branches, while four clearly have stars on both sides of the RR Lyrae gap.    
+The abundances obtained from measurements of the height of the red giant 
+branch above the level of the horizontal branch are 0.3 dex higher, on 
+average, than previously measured spectroscopic abundances.  Detailed
+comparisons with Galactic globular cluster fiducials show that all six 
+clusters are old objects, very similar in age to classical Galactic globulars 
+such as M5, with little age spread among the clusters.  This result is 
+consistent with ages derived by measuring the magnitude difference between 
+the horizontal branch and main sequence turnoff.  We also find a similar 
+chronology by comparing the horizontal branch morphologies and abundances 
+with the horizontal branch evolutionary tracks of Lee, Demarque, \& Zinn 
+(1994).  Our results imply that the LMC formed at the same time as the 
+Milky Way Galaxy.
+\\
+
+{\bf   Accepted by:\,  Monthly Notices of the Royal Astronomical Society
+}\\
+{\it For preprints, contact\, }       {\tt   olsen@astro.washington.edu  }\\
+{\it Also available from the URL\, }
+{\tt   http://xxx.lanl.gov/abs/astro-ph/9806023}\\
+{\it and by anonymous ftp at\, }\\  
+{\tt ftp://ftp.astro.washington.edu/pub/users/oldclusters/mnsmall.ps.gz      }\\
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large\bf  Fine structure of the red giant clump from {\em Hipparcos}
+	data,\\ and distance determinations based on its mean magnitude 
+}
+\end{center}
+\centerline{\bf L\'eo Girardi$^1$, Martin A.T.\ Groenewegen$^1$, 
+	Achim Weiss$^1$, and Maurizio Salaris$^{2,1}$
+}
+{\footnotesize  $^1$ Max-Planck-Institut f\"ur Astrophysik, 
+	Karl-Schwarzschild-Stra{\ss}e 1, D-87540 Garching bei M\"unchen,
+	Germany 
+         \\     $^2$ Astrophysics Research Institute, Liverpool John Moores
+	University,
+	Byrom Street, Liverpool L3 3AF, UK 
+}\\
+
+The $I$-band brightness $M_I$ of clump stars is a possible distance
+indicator for stellar populations. Investigations have shown that
+$M_I$ is almost insensitive to the $(V-I)$ colour within the
+clump. Based on this, it was assumed that $M_I$ was insensitive to age
+and composition of the stellar population and therefore an ideal
+standard candle, which could be calibrated with local clump stars,
+whose absolute brightness is known from {\em Hipparcos}
+parallaxes. This resulted in a distance to the LMC about 15\% shorter
+than usually determined.
+
+In the present paper we show that with a population synthesis approach
+we can reproduce the constancy of $M_I$ with colour for the local {\sl
+Hipparcos} clump sample. Nevertheless, $M_I$ is not a constant among
+different populations, but depends on metallicity. As a result, the
+determined distance modulus to the LMC of $18.28\pm0.18$ mag is in
+better agreement with standard values. This resolves, at least
+partially, the controversial result obtained by the assumption of a
+universal value for $M_I$.
+
+Particularly remarkable is our prediction that stars slightly heavier
+than the maximum mass for developing degenerate He cores, $M_{\rm Hef}$,
+should define a secondary, clumpy structure, about 0.3~mag below the
+bluest extremity of the red clump. Both features are well separated in
+the $M_I$ vs.\ $V-I$ diagram of metal-rich stellar populations. Indeed,
+this secondary clump can be clearly identified in the {\em Hipparcos}
+database of stars with reliable $I$ photometry and parallax errors
+smaller than 10\%.  Since the stars in this feature should represent a
+narrow range of masses, their mass determination, e.g.\ by the use of
+binary systems, can provide information about the efficiency of
+convective overshooting from stellar cores.
+
+Our investigation demonstrates that the RGB clump cannot be used as a
+distance indicator without proper knowledge and modelling of the
+population under investigation. In addition, there remain unsolved
+problems in the models, such as correct bolometric corrections and
+colour transformations.
+\\
+
+{\bf   Submitted to:\, Monthly Notices of the Royal Astronomical Society
+}\\
+{\it For preprints, contact\, }       {\tt   leo@mpa-garching.mpg.de  }\\
+{\it Also available from the URL\, 
+{\tt   http://www.mpa-garching.mpg.de/greenreports.html   }\\
+and {\tt http://xxx.lanl.gov/abs/astro-ph/9805127}}\\
+%http://www.mpa-garching.mpg.de/~maria/greenreports/mpa98/MPA1097.ps.gz
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large\bf  The LMC distance modulus from Hipparcos RR Lyrae\\ and 
+       classical Cepheid data
+}
+\end{center}
+\centerline{\bf X. Luri$^{1,2}$, A.E. G\'omez$^{1}$,
+                J. Torra$^{2}$, F. Figueras$^{2}$, and M.O. Mennessier$^{3}$
+}
+{\footnotesize   $^1$  Observatoire de Paris-Meudon,
+                       D.A.S.G.A.L., URA CNRS 335, 
+                       F92195  Meudon CEDEX, France \\
+                 $^2$  Departament d'Astronomia i Meteorologia,
+                       Universitat de Barcelona,
+                       Avda. Diagonal 647,
+                       E08028, Barcelona, Spain \\
+                 $^3$  Universit\'e Montpellier II,
+                       GRAAL, URA CNRS 1368,
+                       F34095 Montpellier CEDEX 5, France
+}\\
+
+The LM method -- Luri et al.\ (1996) --, designed to exploit the Hipparcos 
+data to obtain luminosity calibrations, is applied to derive 
+luminosity calibrations for RR Lyrae and classical Cepheids. From these 
+calibrations the distance to the Large Magellanic Cloud (LMC) is 
+estimated. The distance moduli provided by the two calibrations 
+are in good agreement, giving a value of $\sim 18.3^m$, while several
+previous calibrations using Hipparcos data provided inconsistent results 
+between both types of stars. This result suggest that the Hubble constant 
+should have a value of $H_0 \sim 79$ km s$^{-1}$Mpc$^{-1}$.  \\
+
+{\bf   Accepted by:\, Astronomy \& Astrophysics Letters }\\
+{\it For preprints, contact\, }     {\tt xluri@mizar.am.ub.es }\\
+{\it Also available from the URL\, }  
+{\tt http://www.am.ub.es/DAM/Preprints/Luri1998a.ps.gz }\\
+
+\bigskip
+
+
+
+%==============================================================================
+
+\newpage
+
+\begin{center}
+{\Large\bf  Optical Gravitational Lensing Experiment. \\
+The Distance Scale: Galactic Bulge -- LMC -- SMC.
+}
+\end{center}
+\centerline{\bf A.~Udalski}
+{\footnotesize   
+Warsaw University Observatory, Al.~Ujazdowskie~4, 00-478~Warszawa,
+Poland
+}\\
+
+We analyze the mean luminosity of three samples of field RRab~Lyr  stars
+observed in the course of the OGLE microlensing experiment: 73 stars 
+from the Galactic bulge and 110 and 128 stars from selected fields in
+the LMC  and SMC, respectively. The fields are the same as in the recent
+distance  determination to the Magellanic Clouds with the red clump
+stars method by Udalski {\it et al} (1998). We determine  the relative
+distance scale $d_{GB}^{RR}:d_{LMC}^{RR}:d_{SMC}^{RR}$ equal to: 
+($0.194\pm0.010):1.00:(1.30\pm0.08$). 
+
+We calibrate our RR~Lyr distance scale with the recent calibration of
+Gould and Popowski (1998) based on statistical parallaxes. We obtain
+the  following distance moduli to the Galactic bulge, LMC and SMC: ${m-
+M=14.53{\pm}0.15}$, ${m-M=18.09{\pm}0.16}$ and ${m-M=18.66\pm0.16}$~mag.
+
+We use the RR~Lyr mean {\it V}-band luminosity at the Galactic bulge
+metallicity as the  reference brightness and analyze the mean, {\it
+I}-band luminosity of the red  clump stars in objects with different
+ages and metallicities. We add to our analysis the metal poor Carina
+dwarf galaxy which contains old RR~Lyr stars and intermediate age red
+clump population. We find a weak dependence of the mean red clump
+brightness on metallicity and we calibrate its zero point with the
+nearby local red clump stars measured by Hipparcos: $M^{\rm
+RC}_I=(0.09\pm0.03)\times{\rm [Fe/H]^{\rm RC}}-0.23\pm0.03$. Our revised
+red clump distance moduli to the Galactic bulge, LMC and SMC are ${m-
+M=14.53\pm0.06}$, ${m-M=18.13\pm0.07}$ and ${m-M=18.63\pm0.07}$~mag,
+respectively. The distance modulus to the Carina galaxy is
+${m-M=19.84\pm0.07}$~mag. Excellent  agreement of RR~Lyr and red clump
+distances  which have independent absolute calibrations confirms the
+short distance scale to the LMC.
+\\
+
+{\bf Submitted to:\,   Acta Astronomica
+}\\
+{\it For preprints, contact\, }       {\tt   udalski@sirius.astrouw.edu.pl }\\
+{\it Also available from the URL\, }  
+{\tt   http://xxx.lanl.gov/abs/astro-ph/9805221}\\
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Bipolar Outflows and the Evolution of Stars
+}
+\end{center}
+\centerline{\bf         Adam Frank$^1$
+}
+{\footnotesize   $^1$  Department of Physics and Astronomy,  
+Box 270171, University of Rochester, Rochester, NY 14627-0171, USA
+}\\
+
+Hypersonic bipolar outflows are a
+ubiquitous phenomena associated with both young and highly evolved
+stars. Observations of Planetary Nebulae, the nebulae surrounding
+Luminous Blue Variables such as $\eta$ Carinae, Wolf Rayet bubbles, the
+circumstellar environment of SN 1987A and Young Stellar Objects all
+revealed high velocity outflows with a wide range of shapes. In this
+paper I review the current state of our theoretical understanding of
+these outflows.
+
+Beginning with Planetary Nebulae considerable progress has been made in
+understanding bipolar outflows as the result of stellar winds
+interacting with the circumstellar environment.  In what has been
+called the "Generalized Wind Blown Bubble" (GWBB) scenario, a fast
+tenuous wind from the central star expands into an ambient medium with
+an aspherical (toroidal) density distribution.  Inertial gradients due
+to the gaseous torus quickly lead to an expanding prolate or bipolar
+shell of swept-up gas bounded by strong shock waves.  Numerical
+simulations of the GWBB scenario show a surprisingly rich variety of
+gasdynamical behavior, allowing models to recover many of the observed
+properties of stellar bipolar outflows including the development of
+collimated supersonic jets.
+
+In this paper we review the physics behind the GWBB scenario in detail
+and consider its strengths and weakness.  Alternative models involving
+MHD processes are also examined.  Applications of these models to each
+of the principle classes of stellar bipolar outflow (YSO, PNe, LBV,
+SN87A) are then reviewed.  Outstanding issues in the study of bipolar
+outflows are considered as are those questions which arise when the
+outflows are viewed as a single class of phenomena occurring across the
+HR diagram.
+\\
+
+{\bf   Accepted by:\, New Astronomy Reviews
+}\\
+{\it For preprints, contact\, }       {\tt   afrank@alethea.pas.rochester.edu
+}\\
+{\it Also available from the URL\, }
+{\tt   http://xxx.lanl.gov/abs/astro-ph/9805275}\\
+
+\bigskip
+
+%========================================================================
+
+
+\begin{center}{\Large\bf  
+WCFIELDS:  A Magnetic Rotating Stellar Wind Model\\ from Wind
+        Compression Theory}
+\end{center}
+\centerline{\bf   R. Ignace$^1$, J.P. Cassinelli$^2$, and J.E. Bjorkman$^3$  
+}{\footnotesize   
+     $^1$   Physics and Astronomy, Univ. of Glasgow, U.K.
+ \\  $^2$   Astronomy, Univ. of Wisconsin, USA
+ \\  $^3$   Physics and Astronomy, Univ. of Toledo, USA
+}\\
+
+A stellar wind model for a magnetic rotating star is presented.  We use
+the semi-analytic Wind Compression model that predicts the
+2-dimensional geometry of outflows from rotating stars and consider the
+addition of a magnetic field.  In the limit of weak magnetic fields,
+such that the fields are unimportant in accelerating the flow, the Wind
+Compression model can be used to predict the magnetic field
+distribution throughout the wind, which is shown to follow the mass
+flux distribution.  A compression of field lines near the equator
+results as the flow of material from higher latitudes brings magnetic
+flux toward that region.  As examples, Wind Compression models with
+magnetic fields (``WCField'' models) are computed for both a Wolf-Rayet
+star and a Red Supergiant star.  In both cases an order of magnitude
+enhancement of the equatorial magnetic field can result within a few
+stellar radii for stellar rotation rates around 20\% of critical.  Such
+enhancements could have consequences for explaining (1) non-thermal
+emission observed from some Wolf-Rayet winds and (2) the ring
+structures observed in the ejecta of SN1987A.
+\\
+
+{\bf   Accepted by:\,  The Astrophysical Journal} \\
+{\it For preprints, contact\, } {\tt    rico@astro.gla.ac.uk} \\
+{\it Also available by anonymous ftp at\, } 
+{\tt    info.astro.gla.ac.uk, cd /pub/rico/wcfields.ps}\\
+\bigskip
+
+\newpage
+
+\begin{center}{\Large\bf  Evolved Massive Stars in the Local Group II.
+A New Survey for Wolf-Rayet Stars in M~33 and Its Implications for
+Massive Star Evolution: Evidence of the ``Conti Scenario'' in Action
+}\end{center}
+\centerline{\bf   P. Massey$^1$ and O. Johnson$^2$ 
+}{\footnotesize   
+     $^1$   KPNO/NOAO, P. O. 26732, Tucson, AZ 85726-6732, USA 
+ \\  $^2$   CFA, 60 Garden Street, Cambridge, MA, USA
+}\\
+
+We expect the evolution of massive stars to be strongly influenced by
+mass-loss, and hence be sensitive to metallicity.  It should be possible
+to test this ``Conti scenario'' be comparing the populations of
+evolved massive stars among the Local Group galaxies, but such investigations 
+have been hampered by incompleteness. In Paper~I we
+presented results of a new survey for red supergiants (RSGs) in selected
+regions of the Local Group galaxies
+M~33, M~31, and NGC~6822.  In the present paper, we survey eight fields
+in M~33 for Wolf-Rayet stars (WRs), using interference
+filter imaging with a CCD to select candidates.  Follow-up spectroscopy
+is used to confirm 22 newly found WR stars, all of WN type.  We establish
+that our survey would readily detect WRs as weak-lined as any known, and
+we conclude that our survey is essentially complete.  This survey confirms
+suspicions that the previous photographic surveys were only 50\% complete
+for WN-type WRs and allows us to combine the data with equally complete
+samples on other Local Group galaxies.  We find that the relative number of
+WC and WN type WRs correlates extremely well with metallicity, varying by
+a factor of 3 with galactocentric distance within the plane of M~33, and
+continuing the trend to lower and higher metallicity galaxies. The WC/WN
+ratio within 3~kpc of the sun is slightly above this trend, and we argue
+that WN stars are underrepresented in this sample.  The WC/WN
+ratio is anomalously high in IC~10, given its low metallicity, and we
+demonstrate that this is not due to selection effects, but is likely
+due to IC~10's current status as a starburst system.  We examine the
+spectral properties of WC stars within these galaxies, confirming the
+previously reported trends that the spectral lines are stronger and broader
+in regions of lower metallicity.  We suggest that the different
+WC spectral subclasses do not primarily indicate different physical properties
+for these stars, but rather are simply a reflection of the effect that
+the initial metal abundances has had on the stellar wind structure.
+Finally, we compare the luminous RSGs with WRs in these galaxies.  We find
+that there is a very strong correlation of the relative numbers of RSGs and
+WRs with metallicity, in the sense predicted by Maeder, Lequeux, \& Azzopardi:
+at lower metallicities the fraction of luminous ($M_{bol}<-7$)
+RSGs is higher, with a
+factor of 6 change within the disk of M~33
+($\Delta$log (O/H)=0.35~dex), and a factor of $\sim10$ change from M~31
+(or the inner portions of M~33) to NGC~6822 ($\Delta$log (O/H)=0.5~dex).
+This is easily
+explained by the Conti scenario in terms of massive stars spending 
+proportionately less of their He-burning lifetimes as RSGs rather than WRs
+at higher metallicities and hence higher mass-loss rates.  Finally, we note
+that the presence of luminous RSGs and WRs stars is extremely well correlated
+for the OB associations in M~31 and M~33: where one finds one, one finds the
+other.  To the extent that an association is strictly coeval, this argues that
+some stars of 15$\cal M_\odot$ and above indeed do go through both a RSG
+and WR stage.  The presence of WR stars of both WN and WC type in the same
+associations as luminous RSGs further suggests that some WCs, at least,
+have gone through the RSG phase.  We include an appendix providing a complete
+catalog of confirmed WR stars in Local Group galaxies
+beyond the Magellanic Clouds.\\
+
+{\bf   Accepted by:\, The Astrophysical Journal   } \\
+{\it For preprints, contact\, }       {\tt   massey@noao.edu  }\\
+{\it Also available from the URL\, }  
+{\tt  ftp://tofu.tuc.noao.edu/pub/wrpre.ps     }\\
+{\it or by anonymous ftp at\, }       {\tt  tofu.tuc.noao.edu, cd pub, binary, 
+get wrpre.ps.Z     }\\
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large\bf  Expected EAGLE event rate towards the Magellanic Clouds 
+}
+\end{center}
+\centerline{\bf         T. Nakamura$^1$ and R. Nishi$^2$
+}
+{\footnotesize   $^1$  Yukawa Institute for Theoretical Physics, 
+Kyoto University, Kyoto 606-8502, Japan
+         \\       $^2$  Department of Physics, Kyoto University, 
+Kyoto 606-8502, Japan
+}\\
+
+We  propose to search for MACHOs by observing 
+EAGLE (Extremely Amplified Gravitational LEnsing) events
+of a majority of dim stars. This search is independent  
+of the usual one.
+For the  detection limit of EAGLE ($\sim$ 20 mag),  
+$\sim 100 ~f ~(\tau^{\rm LMC} / 3 \times 10^{-7})$ 
+$(100 ~{\rm days} / \langle \bar t \rangle)$ 
+EAGLE events/y are expected to result from all 
+the dim stars in LMC. Here $\tau^{\rm LMC}$ and 
+$\langle \bar t \rangle$ 
+are the optical depth and the average duration of microlensing events, 
+respectively, while  $f ~(0 < f < 1)$ is a parameter depending on 
+the unknown stellar luminosity function. 
+The observed mean duration of EAGLE events  also depends on the 
+luminosity function and is $0.01 \sim 0.4$ 
+times the usual duration of microlensing events, which corresponds to
+ $1 \sim 30$ days. The follow-up observation using larger 
+telescopes  may enable us to determine the impact parameter 
+and the true duration of the event. If $f$ is determined 
+by another independent method, we can 
+also determine $\tau^{\rm LMC}$. Even if $f$ is  undetermined, 
+the detection of  EAGLE events strongly suggest that MACHOs 
+are not due to variable 
+source stars, since EAGLE events are due to 
+the dim main-sequence stars. 
+Although for the SMC, the event rate is smaller 
+by a factor of $\sim 7$, it is still a substantial number 
+($\sim 13 ~f ~(\tau^{\rm SMC} / 3 \times 10^{-7}$) ($100 ~{\rm days} 
+/ \langle \bar t \rangle)$ events/y). 
+\\
+
+{\bf   Accepted by: Prog. Theor. Phys. 
+}\\
+{\it For preprints, contact\, }       
+{\tt   nishi@tap.scphys.kyoto-u.ac.jp  }\\
+{\it Also available from the URL\, }  
+{\tt  http://xxx.lanl.gov/abs/astro-ph/9805203    }\\
+
+\bigskip
+
+
+\begin{center}
+{\Large\bf The survival of the Sgr dwarf galaxy and the flatness of the 
+rotation curve of the Galaxy}
+\end{center}
+\centerline{\bf HongSheng Zhao$^1$}
+{\footnotesize   $^1$  Leiden Observatory, Postbus 9513, NL-2300RA
+Leiden, The Netherlands  }\\
+
+How did the Sgr dwarf galaxy manage to come within 16 kpc of the
+Galactic center while other satellite systems of the Galaxy are all
+orbiting beyond 50 kpc?  The consideration that its 10-Gyr-old
+``fluffy'' core should have long been dissolved by the strong and
+frequent tidal shocks by the Galactic disc and halo forces us to
+question the assumption that it was born on the present orbit.  A
+scenario that Sgr was deflected to its current orbit by the Magellanic
+Clouds after a rendezvous on the north Galactic pole $2-3$ Gyrs ago is
+examined.  It is shown that both the sense and the speed of
+circulations of Sgr and the LMC around the Galaxy are fixed by timing
+the collision, and fit direct observations of the proper motions
+remarkably well.  Furthermore the collision is very sensitive to the
+potential of the Galaxy between 20-100 kpc, hence provides an
+unconventional test of the existence and distribution of dark matter
+of the Galaxy.  The apparent agreement of our predictions with
+previous data leads us to propose that the two orthogonal polar
+circles, traced by a dozen or so Galactic halo dwarf galaxies and
+globular clusters (LMC-SMC-Magellanic Stream-Draco-Ursa Minor along $l
+\approx 270^o$ and M54-Ter 7-Ter 8-Arp 2-NGC 2419-Pal 15 along $l
+\approx 0^o$), are streams of tidal relics from two ancient galaxies
+which were captured on two intersecting polar rosette orbits by the
+Galaxy.  We contrast our model with observations, and provide
+interpretations of the microlensing towards the LMC and the star
+formation history of the objects on the two polar circles.
+\\
+
+{\bf   Accepted by:\, The Astrophysical Journal Letters}\\
+{\it For preprints, contact\, }             {\tt hsz@strw.strw.leidenuniv.n }\\
+{\it Also available from the URL\, } 
+{\tt http://babbage.sissa.it/abs/astro-ph/9804304}\\
+\bigskip
+
+%========================================================================
+
+\bigskip
+\bigskip
+\bigskip
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{5.6cm}{
+{\LARGE\bf{Job Advertisement}}
+}}}}
+%{\LARGE\bf{\sc Job Advertisement}}}
+
+\bigskip
+\bigskip
+
+
+\begin{center}
+{\Large\bf  Two Postdoctoral Positions\\ 
+\smallskip
+at the University of California, Irvine
+}
+\end{center}
+\bigskip
+
+
+Applications are invited for two postdoctoral research positions at the
+University of California, Irvine, to begin September 15, 1998.\\
+
+The first position will involve galaxy evolution research with Prof.\ Tammy 
+Smecker-Hane. The successful applicant will participate in ongoing work 
+on the star formation and chemical evolution histories of nearby dwarf 
+galaxies using the Hubble Space Telescope and the Keck Telescopes to 
+obtain color-magnitude diagrams and high-resolution spectra of individual stars.
+
+The second position will involve research with Prof.\ Gary Chanan in optical
+engineering, atmospheric optics and adaptive optics using the Keck Telescopes.
+Candidates with previous experience in these fields will be preferred.\\
+
+For both jobs, the initial appointment will be for two years (a third year 
+may be 
+possible), the salary will fall in the range of \$32,000 to \$35,000 
+commensurate 
+with experience, and some funding for independent research will be available. 
+Candidates should send an application letter and a CV with the names of three 
+references as soon as possible but no later than August 15, 1998 to: \\
+
+Prof.\ Tammy Smecker-Hane or Prof.\ Gary Chanan
+
+Dept.\ of Physics and Astronomy
+
+4129 Reines Hall
+
+University of California
+
+Irvine, CA 92697-4575, USA.\\ 
+
+If questions should arise please contact\,
+{\tt  tsmecker@uci.edu}\, or\, {\tt gachanan@uci.edu }\\
+
+\noindent
+UCI is an equal opportunity employer committed to excellence through diversity. 
+\\
+
+\bigskip
+
+
+%========================================================================
+
+
+
+%\newpage
+%
+%\bigskip\noindent
+%\centerline{
+%{\fbox{\parbox[]{7.2cm}{
+%{\LARGE\bf{Meeting Announcement}}
+%}}}}
+%\smallskip
+%
+%\bigskip
+%\bigskip
+
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+

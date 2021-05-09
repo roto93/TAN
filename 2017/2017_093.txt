@@ -1,0 +1,19 @@
+> Date: Thu, 25 May 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Ming Sun (University of Alabama Huntsville)
+Topic:          Study Baryon Physics with Galaxy Groups and Clusters
+Time:           6/2 (Friday) 15:20 - 16:20
+Place:           R1203
+Abstract:
+Galaxy groups and clusters are the least massive systems where the bulk of baryons are accounted for and also the most massive systems that are gravitationally bound. Baryons locked into stars and baryons remaining diffuse provide orthogonal constraints on cosmic structure formation, which makes groups and clusters ideal systems to study baryon physics. In this talk, I will summarize our results on X-ray scaling relations of local galaxy groups and clusters. By stacking the Chandra data of 320 galaxy clusters, we are able to track the X-ray emission beyond the virial radius and unambiguously detect the steepening of the density profile with radius (beta ~ 1 at r_200 and beyond). The universal baryon fraction is also recovered at r_200. The stacked emission is also significantly different along the major and minor axes of the hot gas distribution, implying the detection of cosmic filaments. We further applied the weak self-similarity of the emission measure profiles at large !
+ radii to obtain good constrains of cosmological parameters, which provides an independent, direct method solely based on observed quantities. The stacking work has also been extended to lower-mass halos like galaxy groups and I will highlight our recent results on a local galaxy group with over 400 ks Chandra data. In the end, I will discuss our results on a sample of the most massive MaxBCG clusters, which sheds light on the puzzling offset between the Planck stacked SZ signals and the predicted values from the X-ray pressure template.
+
+==============================================================================

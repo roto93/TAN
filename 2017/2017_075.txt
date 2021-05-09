@@ -1,0 +1,288 @@
+==============================================================================
+
+In this issue (Apr 23 - 28, 2017)
+
+1. KVN call for proposals 2017B (Jun 01)
+2. 3rd KAGRA International Workshop (KIW3) in Taipei (May 21-22)
+3. Call for Proposals of VERA 2017B (Jun 01)
+4. ASIAA Colloquium/Seminar/Lunchtalk (May 03): Xiaohu Li (ASIAA)
+5. NTNU Astronomy colloquium (May 02): Nilda Oklay (German Aerospace Cntr (DLR))
+6. NTHU Astronomy Colloquium/Seminar Series (May 05): Lung-Yih Chiang (ASIAA)
+
+==============================================================================
+
+> From: Bong Won Sohn <bwsohn@kasi.re.kr>
+> Date: Mon, 24 Apr 2017 13:38:20 +0900
+> Subject: KVN call for proposals 2017B
+> To: evntech <evntech@jb.man.ac.uk>, "vlbi@nrao.edu" <vlbi@nrao.edu>,
+> vlbi@listmgr.cv.nrao.edu, merlin-announce@jb.man.ac.uk,
+> astro@asiaa.sinica.edu.tw, Mareki Honma <mareki.honma@nao.ac.jp>,
+> "Katsunori M. SHIBATA" <k.m.shibata@nao.ac.jp>,
+> "zshen@shao.ac.cn" <zshen@shao.ac.cn>, AN Tao <antao@shao.ac.cn>
+
+Dear Colleagues.
+
+We invite proposals for the open use observations of the Korean VLBI
+Network.
+
+- Call for Proposals 2017B (KVN VLBI)
+The Korean VLBI Network (KVN, http://kvn.kasi.re.kr/) invites scientific
+proposals for VLBI observations during the 2017B season from Astronomers
+over the world. Observations of successful proposals will be scheduled
+between 15th August 2017 and 15th January 2018. Proposals should be emailed
+to kvnprop@kasi.re.kr before the deadline of UT 08:00 (KST 17:00) on 1st
+June 2017.
+
+- Korean VLBI Network (KVN)
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by
+Korea Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr).
+Its three 21m radio telescopes are located in Seoul, Ulsan and Jeju Island
+around South Korea. The baseline lengths ranges from 305km to 476 km. Its 4-
+channel receiving system allows simultaneous observation at 22, 43, 86, and
+129 GHz. From this call, higher than 1 Gbps recording rates (2, 4 and 8
+Gbps)
+using Mark6 recorder are available. Total machine time of 300 hours are
+planned for this call. The maximum observation time of a proposal will be
+limited to 100 hours. If requested in the proposals, the observation time
+can be allocated over a year, until June 15, 2018, for this call. But the
+observation time will not be increased. Details of the information and
+current status of the KVN can be found in the KVN VLBI Status Report.
+http://radio.kasi.re.kr/kvn/status_report_2017/array.html
+Proposer should fill the KVN VLBI proposal form (tex file can be found at
+http://kvn.kasi.re.kr/index.html/obs_proposal.php). Please carefully follow
+the instruction of the proposal form. A separate scientific and technical
+justification is mandatory. This Justification should be submitted together
+with the proposal form and not exceed 3 pages.
+
+Hyun-Goo Kim
+Director of Radio Astronomy Division, KASI
+
+----------------------------
+Sohn, Bong Won
+Korean VLBI Network, KASI
+bwsohn@kasi.re.kr
+
+Tel.+82-(0)42-865-2173
+Fax.+82-(0)42-865-2050
+
+==============================================================================
+
+> From: Sadakazu Haino <Sadakazu.Haino@cern.ch>
+> To: "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+> Subject: 3rd KAGRA International Workshop (KIW3) in Taipei - May/21, 22
+> Date: Wed, 26 Apr 2017 05:36:39 +0000
+
+
+Dear All,
+
+LIGO’s first detection of the Gravitational Waves (GW) 
+opened a new era of GW astronomy and physics.
+
+We will have the 3rd KAGRA International Workshop (KIW3) 
+at ASIAA (NTU campus) on May/21, 22.
+KAGRA is an Asian based GW project led by 2015 Nobel laureate, T.Kajita. 
+
+This workshop is open to and welcomes everyone who has interests.
+
+The detailed information and program are available at:
+http://grqc.ncts.ncku.edu.tw/KAGRA2017/index.html
+
+Particularly, on the second day (May/22) we will invite distinguished speakers 
+on the GW projects such as LIGO, Virgo, KAGRA as well as eLISA PF and other space-based projects.
+
+The talk by Gabriela Gonzalez (Former LIGO Spokesperson):
+"Searching for - and finding! gravitational waves"
+will be held as ASIAA-NTU special joint Colloquium.
+http://web.phys.ntu.edu.tw/colloquium/
+
+It would be great if many from our community can join the workshop and discussions.
+For those who are interested, please make a registration at:
+http://grqc.ncts.ncku.edu.tw/KAGRA2017/regi.html
+
+On the next day (May/23) there will be another workshop 
+Second ASTROD International Workshop (AIW2) at Hsinchu to discuss on the GW detection in space.
+http://www.phys.nthu.edu.tw/~gravity/gws2017/
+
+Best Regards,
+Sadakazu Haino
+
+==============================================================================
+
+> Subject: Call for Proposals of VERA 2017B
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Wed, 26 Apr 2017 14:59:21 +0900
+> To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+>        "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>        "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+>        "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcement of the call-for-proposals of 
+the VERA for 2017B season.  
+Please distribute this announcement to your community and encourage 
+people to write proposals.  
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+
+------------------------------------
+
+********************************
+Call for Proposals of VERA
+Deadline;  June 01, 2017, 08:00 UT.
+*********************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.  
+Available observation time is up to 200 hours during the observation period 
+from August 15th, 2017 to January 15th, 2018.
+Although it is limited to VERA array and  a single-beam mode, 
+the 6.7 GHz ( C-band ) is opened on shared-risk basis. 
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+                  Mareki Honma
+                  Director of Mizusawa VLBI  Observatory of NAOJ
+                    Email;  mareki.honma (at-mark) nao.ac.jp
+                    Phone; +81-197-22-7128
+
+==============================================================================
+
+> Date: Thu, 27 Apr 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Xiaohu Li (ASIAA)
+Topic:         TBA
+Time:         5/3 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+TBA
+
+==============================================================================
+
+> Date: Fri, 28 Apr 2017 19:32:23 +0800
+> From: "chenlw" <chenlw@ntnu.edu.tw>
+> To: chenlw@ntnu.edu.tw
+> Subject: NTNUES colloquium 02/May/2017: Multispectral investigation of water ice on cometary nuclei
+
+* Teatime at S801-2 after the colloquium 
+
+  Department of Earth Sciences    
+National Taiwan Normal University 
+No. 88, Sec. 4, Tingzhou Rd, Taipei 
+
+        C O L L O Q U I U M 
+      ===================== 
+        02/May/2017 14:20 
+  Room S101, 1F, Research Building 
+
+TITLE: Multispectral investigation of water ice on cometary nuclei 
+
+SPEAKER: Dr Nilda Oklay (German Aerospace Center (DLR)
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20170502.txt
+
+
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq 
+
+==============================================================================
+
+> Date: Fri, 28 Apr 2017 18:13:25 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+>        a355145@gmail.com, s104025505@m104.nthu.edu.tw
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 5th May 2017 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker: Dr. Lung-Yih Chiang
+          (ASIAA)
+
+Title: Excessive shift of the CMB acoustic peaks
+        of the Cold Spot area
+
+Abstract:
+
+Measurement of the acoustic peak positions of the
+cosmic microwave background (CMB) temperature
+anisotropies has been instrumental in deciding
+the geometry and content of the universe.
+Acoustic peak positions vary from patch to patch 
+in different parts of the sky due to statistical
+fluctuation.
+
+We present the statistics of the peak positions
+of small patches from ESA Planck data. It is found
+that the peak positions have significantly high 
+variance compared to the 100 CMB simulations with
+best-fit LambdaCDM model with lensing and Doppler
+boosting effects included, both of which can 
+significantly shift the peaks of small patches.
+
+Examining individual patches, we find the one 
+containing the mysterious "Cold Spot", an area
+near the Eridanus constellation where the
+temperature is lower than Gaussian theory predicts,
+displays large synchronous shift of peak positions
+towards smaller multipole numbers (i.e. larger scales)
+with significance lower than 1.11 x 10^{-4}.
+
+The combination of large synchronous shifts in acoustic
+peaks and lower than usual temperature at the Cold Spot
+area results in a 4.73 sigma detection (significance
+p~1.11 x 10^{-6}) against the LambdaCDM model, prompting
+us to propose one of the possible accounts for
+both anomalies: some localised unknown force to stretch
+the space around the Cold Spot area so that the acoustic
+peak positions are shifted towards large scales and
+the temperature is dragged down.
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

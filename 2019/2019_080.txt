@@ -1,0 +1,38 @@
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Fri, 10 May 2019 11:12:35 +0800
+> Subject: Re: colloquium at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+
+*** NCU Colloquium ***
+
+*Speaker*:    Dr Hsi-Yu Schive (NTU)
+*Date/Time*:   May 24 (F), 14:00
+*Room*:   NCU, S4 Room 1013
+*Title*:     Wave Dark Matter Predictions from GPU-accelerated Adaptive Mes=
+h
+*Abstrac*t:    The conventional particle interpretation of cold dark matter
+(CDM) still lacks laboratory support and struggles to explain the basic
+properties of low-mass galaxies. This tension motivates wave dark matter (=
+=CF=88DM)
+composed of extremely light particles (m=CF=88~10-22 eV), which suppresses
+structure below the kpc scale by the uncertainty principle but retains the
+large-scale structure predicted by CDM. In the first part of this talk, I
+will present cosmological =CF=88DM simulations with extremely high resoluti=
+on
+capable of resolving dwarf galaxies, revealing that every =CF=88DM halo has=
+ a
+prominent soliton core surrounded by fluctuating density granules. These
+predictions are consistent with the observations of galaxy formation,
+Lyman-alpha forest, reionization, and gravitational lensing flux anomalies.
+I will also discuss several critical challenges faced by this model. The
+second part of this talk will focus on GAMER, a GPU-accelerated adaptive
+mesh refinement (AMR) code developed from scratch by our group. A rich set
+of physics modules have been incorporated and which outperforms other AMR
+codes by one to two orders of magnitude. The code scales well to thousands
+of GPUs and achieves a uniform resolution as high as 10,2403 cells. I will
+present several ongoing astrophysical projects using GAMER that require
+substantially higher resolution than previously feasible.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

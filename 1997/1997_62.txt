@@ -1,0 +1,335 @@
+From kyl@biaa.sinica.edu.tw Sat Oct 18 07:09 CST 1997
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA24222; Sat, 18 Oct 1997 07:07:50 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA13714; Sat, 18 Oct 1997 07:07:57 +0800
+Date: Sat, 18 Oct 1997 07:07:54 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: Les Arc 1998 (fwd)
+Message-Id: <Pine.GSO.3.96.971018070750.13695C-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 13546
+Status: RO
+
+
+
+---------- Forwarded message ----------
+Date: Thu, 16 Oct 1997 14:35:12 +0002
+From: Sabine KIMMEL <sabine.kimmel@obspm.fr>
+To: armand@noao.edu, armando@cuevano.ugto.mx, nisse@astro.uu.se,
+    binggeli2@urz.unibas.ch, bomans@astro.uiuc.edu, nuts@moo.uoregon.edu,
+    noah@wise1.tau.ac.il, gbruzual@cida.ve, martin@mso.anu.edu.au,
+    burkert@mpia-hd.mpg.de, claude@astro.umontreal.ca, jcn@ll.iac.es,
+    gdc@mso.anu.edu.au, Jonathan.Davies@astro.cf.ac.uk,
+    dettmar@astro.ruhr-uni-bochum.de, john@astro.spa.umn.edu,
+    spd@edwin.phys.unsw.edu.au, pduc@eso.org, ferguson@stsci.edu,
+    ferrara@arcetri.astro.it, fica@st.nepean.uws.edu.au, kcf@mso.anu.edu.au,
+    kfricke@uni-sw.gwdg.de, ufritze@uni-sw.gwdg.de,
+    jsg@tiger.astro.wisc.edu, bianca@ifctr.mi.cnr.it, doug@noao.edu,
+    pmg@astro1.bnsc.rl.ac.uk, grebel@astro.uiuc.edu, bg@astro.uu.se,
+    rguzman@ucolick.org, hhanami@yeelen.hss.iwate-u.ac.jp,
+    htakashi@soleil.mtk.ioa.s.u-tokyo.ac.jp, HELD@astbo3.bo.astro.it,
+    cheller@uni-sw.gwdg.de, hensler@astrophysik.uni-kiel.d400.de,
+    supas030@astrophysik.uni-kiel.de, hodge@astro.washington.edu,
+    hoffman@nova.phys.lafayette.edu, hopp@usm.uni-muenchen.de,
+    p083huc@mpifr-bonn.mpg.de, izotov@mao.kiev.ua,
+    kawatad@mito.ipc.ibaraki.ac.jp, klessen@mpia-hd.mpg.de,
+    p213ukl@astro.uni-bonn.de, komiyama@silmaril.astron.s.u-tokyo.ac.jp,
+    koo@helios.ucolick.org, kunth@iap.fr, mglee@astrog.snu.ac.kr,
+    leitherer@stsci.edu, lilly@merlin.astro.utoronto.ca,
+    lin@helios.ucolick.org, lin@lick.ucolick.org, peter@astro.lu.se,
+    ulindner@walhall.uni-sw.gwdg.de, ute@goliat.ugr.es, kyl@astro.uiuc.edu,
+    dario@ifctr.mi.cnr.it, cmartin@as.arizona.edu, pepa@iaa.es,
+    mateo@astro.lsa.umich.edu, ssm@clrs1.ciw.edu, vmcintyr@atnf.CSIRO.AU,
+    mebold@astro.uni-bonn.de, jmelnick@eso.org, meurer@pha.jhu.edu,
+    bmiller@clrs1.ciw.edu, dminniti@igpp.llnl.gov,
+    mirabel@ariane.saclay.cea.fr, moles@oan.es,
+    mmori@mtk.ioa.s.u-tokyo.ac.jp, mochi@fugu.as.utexas.edu,
+    Zalia.Morshidi@astro.cf.ac.uk, CMT@ll.iac.es,
+    murakami@dpkato.nifs.ac.jp, akko@avalon.sci.hokudai.ac.jp,
+    sco@starburst.la.asu.edu, ohta@kusastro.kyoto-u.ac.jp, eva@astro.uu.se,
+    east@astro.uu.se, PAGEL@nbivms.nbi.dk, bpartrid@haverford.edu,
+    S.Phillipps@bristol.ac.uk, sap@sao.stavropol.su, gmrichter@aip.de,
+    jrroy@phy.ulaval.ca, l.sage@naturedc.com, sasaki-m@shimonoseki-cu.ac.jp,
+    schaerer@stsci.edu, jschombert@gm.ossa.hq.nasa.gov,
+    simpsonc@galaxy.fiu.edu, skillman@astro.spa.umn.edu,
+    smecker@carina.ps.uci.edu, sorai@nro.nao.ac.jp, ralph@astro.lu.se,
+    lstavele@atnf.CSIRO.AU, tajiri@het.ph.tsukuba.ac.jp,
+    taylorc@azalea.physics.McMaster.CA, gtt@ll.iac.es,
+    txt@astsun.astro.virginia.edu, etolstoy@eso.org,
+    atomita@center.wakayama-u.ac.jp, tosi@astbo3.bo.astro.it,
+    vtrimble@uci.edu, chicag@astro.ucla.edu, urb@oa.uj.edu.pl,
+    vandyk@astro.ucla.edu, vanzee@astrosun.tn.cornell.edu,
+    vacca@athena.ifa.hawaii.edu, hugo@astro.rug.nl,
+    wwalsh@astro.uni-bonn.de, walter@astro.uni-bonn.de,
+    Ronald.Weinberger@uibk.ac.at, dwestpfa@aoc.nrao.edu,
+    JWHITEOA@rp.CSIRO.AU, ewilcots@uwast.astro.wisc.edu,
+    RAW@cosmos.la.asu.edu, lyoung@aoc.nrao.edu, hzinnecker@aip.de,
+    hdeeg@ll.iac.es, bge@watson.ibm.com, golla@astro.ruhr-uni-bochum.de,
+    dah@lowell.edu, krueger@orion.mpia-hd.mpg.de, oey@ast.cam.ac.uk,
+    d.spray@ing.iac.es, garyb@astro.lsa.umich.edu, jgm@astrax.fis.ucm.es,
+    fbriggs@astro.rug.nl, vdhulst@astro.rug.nl, schneide@phast.umass.edu,
+    rwo@virginia.edu, slaz@parcha.astro.wesleyan.edu,
+    ebrinks@coyotl.astro.ugto.mx, calzetti@stsci.edu, grazyna@obspm.fr,
+    kyl@biaa.sinica.edu.tw, heckman@eta.pha.jhu.edu, koo@ucolick.org,
+    pettini@ast.cam.ac.uk, Francois.Hammer@gin.obspm.fr, med@stsci.edu,
+    ll@troyte.caltech.edu, alvio@astbo3.bo.astro.it, petitjean@iap.fr,
+    cayrel@obspm.fr, silk@pac2.berkeley.edu, guider@iap.fr,
+    vigroux@sapvxb.saclay.cea.fr, jrroy@phy.ulaval.ca, d.bowen@roe.ac.uk,
+    caryl@urania.astro.wesleyan.edu, vandriel@mesioq.obspm.fr,
+    sabine.kimmel@obspm.fr
+Subject: Les Arc 1998
+
+Dear colleague
+This is the first announcement of the Moriond meeting which will be held in
+Les Arcs (FRANCE) next March. A web page will be soon available for the
+registrations. The contact person for more details is Sabine Kimmel
+(kimmel@obspm.fr).
+Best regards
+
+
+
+                           MORIOND 1998 MEETING
+
+                          LES ARCS, SAVOIE,FRANCE
+
+                           14-21 MARCH 1998
+
+
+
+                        DWARF GALAXIES AND COSMOLOGY
+
+
+I. Scientific Rationale
+
+Dwarf galaxies are the most numerous type of galaxies in the Universe and
+are the "building blocks" of giant galaxies in the paradigm of the
+hierarchical growth of structures. They are central to many current issues
+in extragalactic astronomy and cosmology. This meeting wishes to compare
+the individual and statistical  properties of local dwarf galaxies with
+those of dwarfs at large (z about 1-2) redshifts and discuss the
+evolution of these building blocks as a function of look-back time.
+
+We are currently seeing a surge of activity in the study of dwarf galaxies,
+driven in part by their scientific interest, but also by the availability
+of new technology : wide field imaging telescopes, CCD detectors and
+sensitive spectrographs. This has brought and will continue to bring major
+advances in our knowledge of dwarf galaxies. This meeting which is being
+held 4.5 years after the previous meeting on dwarf galaxies at the
+Observatoire de Haute Provence, will be most opportune for summarizing and
+assessing the progress made in the study of dwarf galaxies and their impact
+on cosmological issues and chart out new directions for the future, both
+observationally and theoretically.
+
+The scientific issues which will be discussed in the meeting are :
+
+- The statistical properties of local dwarf galaxies.
+
+There are now several optical surveys using wide-field cameras with
+objective prisms or Ha filters coupled with CCDs to search for local new
+star forming dwarfs (also called blue compact dwarf galaxies or BCDs).
+There are also ongoing or future surveys in other wawelengths to search for
+HI intergalactic clouds and low-surface-brightness (LSB) dwarfs : blind
+sensitive HI searches, deep infrared searches (2-MASS, ISO) and UV surveys
+(ASTRO, FUSE).
+
+We shall discuss the faint end of the optical luminosity function of
+galaxies both in the field and in clusters of galaxies. The H a surveys
+provide the star-formation rate (SFR) at zero redshift, which can be
+compared with the SFR at higher redshifts, to study the SFR as a function
+of look-back time. The HI mass function provides important contraints on
+the population of LSB galaxies and is an important input into models of
+cosmology and galaxy formation.
+
+- Intrinsic properties of nearby young dwarf galaxies relevant to cosmology.
+
+We shall discuss the properties of the most metal deficient blue compact
+dwarf galaxies known. These are among the least chemically evolved galaxies
+known in the Universe, their metal content being between 1/50 and 1/3 that
+of the Sun.
+They thus best approximate primeval galaxies and constitute excellent
+nearby laboratories for studying star formation in nearly pristine gas. We
+shall discuss the intrinsic properties of dwarf galaxies which are most
+relevant to cosmological studies.
+
+
+The topics to be covered are :
+
+a) The Lyman alpha emission and absorption in BCDs.
+
+The absence of Lya emission in high-redshift galaxies is reminiscent of the
+behavior of Lya emission in nearby BCD galaxies, which is either absent or
+greatly diminished. The study of nearby young galaxies can shed light on
+the lack of high z Lya-emitting galaxies.
+
+b) HI primordial envelopes.
+
+The young nearby dwarf galaxies appear to be surrounded by nearly
+primordial HI envelopes which may be responsible for absorbing the Lya
+emission of the star-forming regions. What has prevented these HI clouds
+from collapsing and forming stars before the present starburst ?
+
+c) Interaction of massive star formation with the Interstellar Medium.
+
+In star-forming dwarf galaxies, the numerous massive stars made during the
+starburst episodes can cause significant damage to their surrounding
+interstellar medium through UV emission, stellar winds and supernova
+explosions, resulting in the production of shells and supershells, or
+blow-outs.
+
+d) Connection between BCDs, dIs and dEs.
+
+Star formation in BCDs cannot be continuous but occurs by bursts lasting
+less than 10 million years and separated by several billion years. LSB
+dwarfs (also called dwarf irregulars or dIs) are generally thought to be
+BCDs in their quiescent stage. Dwarf elliptical (dEs) have on the other
+hand little HI gas and star formation. What are the evolutionary links
+between the 3 types of dwarf galaxies ?
+
+e) Dark matter.
+
+Finally, there is the problem of dark matter in dwarf galaxies. There
+appears to be general agreement that dEs contain a large amount of dark
+matter, but there is still considerable debate concerning dark matter in
+dIs and BCDs. This question is very important for galaxy formation theory
+as dwarf galaxies are considered to be the "building blocks" of giant
+galaxies and the latter are known to contain dark matter.
+
+
+- Dwarf galaxies in deep redshift surveys
+
+We shall discuss the properties of the dwarf galaxies at high redshift
+discovered in deep optical and near-infrared surveys. The surveys include
+the Hubble Deep Field with follow-up spectroscopic surveys with the Keck
+telescope, and surveys carried out at the CFHT (the CFRS survey) and AAT
+telescopes.
+
+We shall also discuss the damped Lya systems seen in the direction of
+quasars and compare their properties with those of the HI envelopes seen
+around local BCDs.
+
+
+- Models and theory
+
+We shall discuss dwarf galaxy formation theory, focussing on the triggering
+mechanisms of the starburst and the interaction of the star forming region
+with the surrounding interstellar medium (stellar winds, chemical
+evolution). We shall also address the constraints that nearly primordial HI
+envelopes seen around dwarf galaxies can put on the existence of population
+III stars.
+
+Deep galaxy counts and redshift surveys have revealed a dominant population
+of star-forming dwarf galaxies with redshifts of about 1-2. A large dwarf
+population is also expected from simulations of galaxy evolution based on
+the cold dark matter model. However, the theory predicts for more dwarfs
+than are observed locally  until now. How do the results of the new dwarf
+surveys compare with theoritical predictions ? What constraints can be put
+on cosmological models from the local observed space density of dwarf
+galaxies ?
+
+II. SCIENTIFIC ADVISORY COMMITTEE
+
+Elias Brinks (Mexico)
+Andrea Ferrara (Firenze)
+Bruno Guiderdoni (Paris)
+Francois Hammer (Meudon)
+Timothy Heckman (Baltimore)
+Yuri Izotov (Kiev)
+Uli Klein (Bonn)
+David Koo (Santa Cruz)
+Daniel Kunth (Paris)
+Kwok-Yung Lo (Taipei)
+Joseph Silk (Berkeley)
+Laurent Vigroux (Saclay)
+
+III. Organising Committee
+
+Trinh Xuan Thuan (University of Virginia)
+Chantal Balkowski (Observatoire de Paris)
+Veronique Cayatte (Observatoire de Paris)
+Tran Thanh Van (IN2P3, Orsay, France)
+
+IV. PRELIMINARY LIST OF REVIEW TALKS (13 October 1997)
+            (Contributed talks will be added later)
+
+
+I) Statistical properties of local dwarf galaxies
+
+- The faint end of the luminosity function in the field (Sprayberry)
+- The faint end of the luminosity function in clusters of galaxies (Bernstein)
+- H-alpha surveys and the local star formation rate (Gallego)
+- The local HI mass function (Briggs)
+- IR surveys of local dwarf galaxies :
+        . ISO (van der Hulst)
+        . 2-MASS (Schneider)
+- UV properties of dwarf galaxies (O'Connell)
+
+
+II) Intrinsic properties of nearby young dwarf galaxies relevant to cosmology
+
+- Search for extremely metal-deficient dwarf galaxies (Salzer)
+- Young dwarf galaxies (Thuan)
+- Ly-alpha emission and absorption in dwarf galaxies (Kunth)
+- Star formation histories of nearby dwarf galaxies (Skillman)
+- Constraints on intergalactic HI clouds (Brinks)
+- The dwarf-low surface brightness galaxy connection (Bothun)
+- The Initial mass function in local star-forming dwarf galaxies (Leitherer)
+- Dust in star-forming galaxies (Calzetti)
+- Spectra of star-forming dwarf galaxies at low redshifts (Izotov)
+- Photoionization models (Stasinska)
+- Dark matter in dwarf spheroidal galaxies (Armandroff)
+- Dark matter in dwarf irregular galaxies (Lo)
+- Links between local star-forming dwarf galaxies and high redshift
+  galaxies (Heckman)
+
+III) Dwarfs in deep redshift surveys
+
+- Dwarf galaxies in the Hubble Deep Field (Ferguson)
+- Keck spectroscopy of compact galaxies in the Hubble Deep Field (Koo)
+- Spectra of star-forming galaxies at high redshifts (Pettini)
+- The Canada-France Redshift Survey (Hammer)
+- The cosmic star formation rate as a function of redshift (Dickinson)
+- Chemical enrichment history of high-redshift galaxies (Lu)
+- Main epoch of metal production in the universe (Renzini)
+- Damped Ly-alpha systems (Petitjean)
+- Population III stars (Cayrel)
+
+
+IV) Theory
+
+- Star formation in dwarf galaxies (Lin)
+- Dwarfs and galaxy formation (Silk)
+- N-body simulations of dwarf galaxies (Guiderdoni)
+- Chemical evolution of dwarf galaxies (Tosi)
+- Formation of Population III objects (Ferrara)
+
+V) Future Prospects
+
+- MEGACAM (Vigroux)
+- VLT (Hammer)
+- Gemini (Roy)
+
+
+
+Sabine Kimmel
+Observatoire de Meudon - D.A.E.C.
+Bureau 223 - Tel et Fax : 01 45 07 74 14
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		      (or +02-652-2020 ext 224, fax +02-788-1106)
+To check the back issues:	   	 <http://biaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

@@ -1,0 +1,139 @@
+=============================================================================
+
+In this issue (Sep 26 - Oct 02, 2020)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Oct 07): Hsiang-Kuang Chang (NTHU)
+2. ALMA starts the process of recovering the telescope array
+
+==============================================================================
+
+Date: Thu, 1 Oct 2020 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Hsiang-Kuang Chang (NTHU)
+Topic:         MeV Astronomy Instrumentation Development in Taiwan
+Time:         10/7 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+I will talk about science goals and current status of three projects: the Compton Spectrometer and Imager (COSI), the Compton Polarimeter (Compol), and the Gamma-ray Transient Monitor (GTM). These are all for building instruments to detect photons in the MeV energy range, which is relatively unexplored in the whole electromagnetic spectrum because of difficulties in detection techniques. COSI is a general-purpose, next-generation Compton telescope based on high-purity germanium detectors. It is led by Space Sciences Lab, UC Berkeley, and has been selected by NASA SMEX program for phase A study. Compol is a small Compton polarimeter based on scintillator detectors to fly on a CubeSat for observing polarization of soft gamma rays from Cyg X-1.Compol is still looking for CubeSat opportunities. GTM is, similar to Compol, based on scintillator detectors.
+It is mainly for GRB monitoring and may also detect bright transients from other sources. It has been selected by NSPO to fly on Formosat 8B, planned to launch in
+2024. Feasibility study for GTM to fly in a lunar orbit is underway.
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Subject: ALMA starts the process of recovering the telescope array
+Date: Thu, 1 Oct 2020 20:26:04 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI=20
+
+Yu-Nung
+
+=
+--------------------------------------------------------------------------=
+--------------------------------------------------------------------------=
+---------------------------
+ALMA starts the process of recovering the telescope array
+Oct 01, 2020
+=
+https://almascience.nao.ac.jp/news/alma-starts-the-process-of-recovering-t=
+he-telescope-array
+
+Dear colleagues,
+
+The past several months have been an extraordinary period as a result of =
+the global coronavirus pandemic. Everyone at ALMA hopes that you and =
+your families are safe and healthy, and we extend our thoughts to those =
+who have been directly affected by the pandemic.
+
+For six months, almost the whole ALMA site has been shut down =E2=80=93 =
+power, water treatment, and running water - with only a single piece of =
+key equipment (the hydrogen maser) still powered and checked daily as =
+one of the tasks of the ALMA Caretaker Teams  - the teams who have =
+ensured the safety and security of the ALMA Observatory through the =
+shutdown.  =20
+
+With the improving pandemic situation in Chile, ALMA is now scheduled to =
+begin the long process of recovering the telescope array in the Atacama =
+on October 1st, 2020, starting with preparation of the ALMA Operations =
+Support Facility (OSF) at 2900 metres for the return of staff and =
+contractors.
+
+The road to recovery of operations, and ultimately science observations =
+=E2=80=93 a milestone that will not take place this year - has been =
+carefully planned. It is difficult to predict the exact timeline since =
+several aspects of the plan depend on prevailing conditions not under =
+our control. However, the following describes the current plan of =
+activities and schedule for the return of ALMA to science operations.
+
+The ALMA Observatory has developed an extensive set of enhanced safety =
+protocols related to managing the risk posed by the virus, covering all =
+activities as the recovery of operations progresses. First, preparing =
+the OSF for the return of staff and contractors, followed by moving back =
+into the OSF and the use of the OSF facilities, before we begin the =
+process of restarting the Array Operations Site (AOS) at 5000 metres. =
+Without doubt, each of the phases will take time and patience, =
+establishing and working within new safety protocols while stabilizing =
+observatory systems that have been shut down for six months - a =
+situation which is unprecedented in the history of the Observatory.=20
+
+The current restart plan requires about 80 days to reach the antenna =
+power-up milestone, assuming there are no major repairs needed, or =
+changes in the schedule due to impacts of the pandemic. The time needed =
+to recover sufficient antennas for science observations is highly =
+uncertain. Nevertheless, our ambition is to have antennas collecting =
+data and verifying the observing systems after approximately 100 days - =
+whether this is a handful, or many antennas, remains difficult to =
+predict. This implies that January is the earliest there may be enough =
+functional antennas and cooled receivers to attempt the first science =
+observations.  In addition, we are anticipating regular February =
+maintenance will go ahead as the weather is typically poor for science =
+and critical power infrastructure maintenance must be done at a time of =
+year that minimizes the impact on science operations. =20
+
+Status updates will continue to be provided at least monthly, as the =
+recovery of operations progresses. Specific capabilities and potential =
+science observing dates will be identified after the status of antennas =
+and other critical systems is better understood.=20
+
+The plan described above assumes that the situation in Chile and =
+worldwide continues to improve. Regular monitoring of the pandemic =
+evolution is performed each week. These reviews could result in =
+advancing to the next phase in the recovery plan, maintaining the =
+current phase, or even taking a step backwards, if necessary.
+
+As always, the ALMA Regional Centres continue to provide support to =
+their respective communities. If you have any questions, comments or =
+concerns related to the situation at ALMA, please contact the ALMA =
+Helpdesk at https://help.almascience.org.=20
+
+We wish you, your families and colleagues continued good health and =
+safety.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

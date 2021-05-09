@@ -1,0 +1,106 @@
+From kyl@asiaa.sinica.edu.tw Mon Sep 13 16:38 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA29052
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 13 Sep 1999 16:38:03 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA28462
+	for <astro@asiaa.sinica.edu.tw>; Mon, 13 Sep 1999 16:30:44 +0800
+Date: Mon, 13 Sep 1999 16:34:17 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: GCFLASH - Vol. 10, No. 16 (Sep 13, 1999) (fwd)
+Message-ID: <Pine.SOL.4.10.9909131634150.26301-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3969
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 13 Sep 1999 10:10:46 +0200
+From: Galactic Center Newsletter <gcnews@mpifr-bonn.mpg.de>
+To: gcnews_exploder@sun184.mpifr-bonn.mpg.de
+Subject: GCFLASH - Vol. 10, No. 16 (Sep 13, 1999)
+
+
+========================================================================
+
+                              G C N E W S
+                             * Newsflash *
+
+            - The Newsletter for Galactic Center Research -
+
+gcnews@mpifr-bonn.mpg.de             http://www.mpifr-bonn.mpg.de/gcnews
+========================================================================
+Vol. 10, No. 16                                              Sep 13, 1999
+
+
+Recently submitted papers:
+--------------------------
+
+Email    : sellgren@astronomy.ohio-state.edu
+Title    : The First Stellar Abundance Measurements in the Galactic 
+           Center: the M Supergiant IRS 7
+Author(s): John S. Carr(1), K. Sellgren(2), and Suchitra C. Balachandran(3)
+Institute: (1) Naval Research Laboratory, Code 7217, Washington, 
+           DC, 20375 USA  (2) Department of Astronomy, Ohio 
+           State University, Columbus, OH  43210  USA  
+           (3) Department of Astronomy, University of Maryland, College 
+           Park, MD, 20742  USA
+Paper    : Accepted by ApJ
+Weblink  : ftp://ftp.astronomy.ohio-state.edu/pub/sellgren/carr_irs7.tar.gz
+EPrint   : astro-ph/9909037
+
+Abstract:
+The first measurement of the photospheric abundances in a star at the
+Galactic Center are presented.  A detailed abundance analysis of the
+Galactic Center M2 supergiant IRS 7 was carried out using
+high-resolution near-infrared echelle spectra.  The Fe abundance for
+IRS 7 was found to be close to solar, [Fe/H] = -0.02 +/- 0.13, and
+nearly identical to the Fe abundances we obtained for the nearby M
+supergiants alpha Ori and VV Cep.  Analysis of the first and second
+overtone lines of CO was used to derive an effective temperature of
+3600 +/- 230 K, a microturbulent velocity of 3.0 +/- 0.3 km s^-1, and
+a carbon abundance log \epsilon(C) = 7.78 +/- 0.13, or [C/H] = -0.77.
+In addition, we find a high depletion of 0.74 +/- 0.32 dex in O and an
+enhancement of 0.92 +/- 0.18 dex in N.  These abundances are
+consistent with the dredge-up of CNO-cycle products but require deep
+mixing in excess of that predicted by standard models for red
+supergiants.  In light of our measured solar Fe abundance for IRS 7,
+we discuss other indicators of metallicity at the Galactic Center, the
+interpretation of low-resolution near-infrared spectra of late-type
+giants and supergiants, including the need for caution in using such
+spectra as measures of metallicity, and the evolution of massive young
+stars at the Galactic Center.  We suggest the possibility that rapid
+stellar rotation is common for stars formed under conditions in the
+Galactic Center, and that extra internal mixing induced by high
+rotation rates, rather than evolution at high metallicity, is the
+explanation for many of the unusual properties of the hot
+emission-line stars in the Galactic Center.
+------------------------------------------------------------------------
+
+
+(Older versions of the Newsflash can be found at the gcnews web-page)
+========================================================================
+			       Edited by
+Angela Cotera                                Heino Falcke
+(cotera@ipac.caltech.edu)                    (hfalcke@mpifr-bonn.mpg.de)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ For Abstract submission please send the (La)Tex file of your paper to
+                          gcnews@mpifr-bonn.mpg.de
+========================================================================
+
+

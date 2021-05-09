@@ -1,0 +1,77 @@
+From jlim@iaa11.asiaa.sinica.edu.tw Tue Oct 17 10:49 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA18063
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 17 Oct 2000 10:48:52 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA05866
+	for <astro@asiaa.sinica.edu.tw>; Tue, 17 Oct 2000 10:52:29 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id KAA04485
+	for astro@asiaa; Tue, 17 Oct 2000 10:43:06 +0800 (CST)
+Date: Tue, 17 Oct 2000 10:43:06 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200010170243.KAA04485@iaa11.asiaa.sinica.edu.tw>
+Subject: ASIAA Colloquium
+To: astro@asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: n5SAuub0xI0fgsP1GOlpMA==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 2697
+Status: R
+
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         20 October 2000 (Friday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (3:30 pm)
+
+            SPEAKER: Dr. Yuri Aikawa
+                     (Kobe University)
+	    TITLE:   "Distribution of Molecular Abundances in Prestellar Cores:
+                      As a Probe of the Collapse Time Scale" 
+                      
+            ABSTRACT: 
+
+We investigate the evolution and distribution of molecules in collapsing
+prestellar cores, adopting the Larson-Penston solution and its delayed
+analogues as  collapse models.
+In a fluid element, which is flowing inward, the gaseous molecules
+are adsorbed onto grains and are depleted as time evolves
+and the density increases. The depletion time scale is
+different for different species; CCS depletes on a shorter time scale
+than CO, and N$_2$H$^+$ depletes at the last moment.
+Molecular abundances and distributions in the collapsing core are
+determined by the balance among the dynamical,
+chemical and adsorption time scales.
+When the central density of the core
+$n_{\rm H}$ rises to $3\times 10^6$ cm$^{-3}$, the distribution of
+CCS and CO column densities shows a central hole of radius
+7000 AU and 4000 AU, respectively,
+while the column density of N$_2$H$^+$ is centrally peaked. These predictions
+are consistent with observations of the prestellar core L1544.
+If the dynamical time scale of the core is larger than that of
+the Larson-Penston solution owing to magnetic fields, rotation,
+or turbulence, the column densities of CO and CCS are smaller, and
+their holes are larger than in the Larson-Penston core with the same central
+gas density. On the other hand, N$_2$H$^+$ and NH$_3$ are more abundant
+in the more slowly collapsing core. Therefore, molecular distributions
+can be probes in the investigation of the collapse time scale of the core.
+We also investigate deuterium fractionation in the core.
+The deuterium fraction in molecules increases as the core evolves and
+molecular depletion proceeds. When the central density of the core is
+$n_{\rm H}= 3\times 10^6$ cm$^{-3}$, the ratio DCO$^+$/HCO$^+$ at the
+center is in the range 0.06-0.27, depending on the collapse time scale and
+adsorption energy; this range is in reasonable agreement with the observed
+value in L1544.
+ 
+

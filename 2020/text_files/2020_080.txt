@@ -1,0 +1,49 @@
+==============================================================================
+
+Subject: TRAO Call for Proposals 2020-2021
+From:    Minho Choi <minho@kasi.re.kr>
+Date:    2020-05-25 12:32
+
+Dear Yi-Jehng,
+How are you?
+
+Can you circulate the "Call for Proposal" appended below
+to the members of ASROC?
+I tried "secretariat@asroc.org.tw", but it seems to bounce back.
+
+Thank you very much.
+Minho
+
+----------
+
+Call for Proposal (2020-2021 term)
+ 
+Taeduk Radio Astronomy Observatory (TRAO) would like to call for new proposals using 14m radio telescope for 2020-2021 term (from October 2020 to May 2021).
+https://radio.kasi.re.kr/trao/proposal/proposal_2020.php
+
+Submission deadline is August 20th 2020 (to traoprop@kasi.re.kr). Cover page of proposal is provided in TRAO home page (see below). Please write in Words or PDF form up to 4 pages (LP and GP) with font size 10, including science justification, technical justification, figures and tables, etc. There are generally plenty of telescope time slots available between LST 10 and 15 hours, thus, proposals requesting LST 10-15 slots are encouraged. TRAO has a shared-risk remote observing mode available. However, inexperienced users are advised to do the observations on the site. Outside (non-KASI) PIs who intend to use the remote observing mode should specify local collaborators in the proposal. The local collaborators are responsible for handling on-site tasks during the remote observations, such as resetting the system in case of system failure, which happens occasionally. Evaluation results of submitted proposals will be notified around the middle of September.
+ 
+There are three categories of proposals for 2020-2021 term as followings;
+ 
+1. Key Science Programs (KSPs): KSP is a multi-year observing program, which could finalize a series of wonderful scientific results, and demonstrating characteristics and advantage of TRAO system. Telescope allocation time would be 400 hours per year for next three years.
+ 
+2. General Programs (GPs): GP is a short program, which needs a small amount of telescope time up to 100 hours within a single observing season (October 2020 ~ May 2021), with which fast scientific results could be expected in relatively short period of time.
+ 
+3. Large Programs (LPs): LP is a program, which needs a substantial amount of telescope time up to 300 hours within a single observing season (October 2020 ~ May 2021), with which invaluable scientific results could be expected within a year or two.
+ 
+TRAOâ€™s multi-beam receiver system(SEQUOIA-TRAO), is a cryogenic focal plane array equipped with 16 high performing InP MMIC amplifiers. This receiver system has been operating quite smoothly for last several years. The receiver temperature is ranging from 60 ~ 80 K for 86 to 110 GHz, and 80 ~ 110 K for 115 GHz, and system temperature is ranging from about 200 K for 86 to 110 GHz, and 400 K for 115 GHz.
+ 
+Two molecular lines could be simultaneously observed as it has two 2nd LO within 15 GHz band range. Backend system is a high performing correlator, providing a bandwidth of 60 MHz with a 15 kHz resolution (0.045 km/s at 100GHz). In addition, a single pixel wide-band observation is ready for use with 2 GHz bandwidth (61kHz resolution per channel) from 2020 autumn season.
+ 
+OTF (On-The-Fly) mapping mode is the main observing mode, and simple position switching mode is also available. Test observation shows that it takes 27 min for mapping 6â€™x6â€™ region, and 37 min for 10â€™x10â€™. You may decide a regrid size and convolution parameter after completion of your observation. Pointing accuracy of the telescope is about 5 arcsec.
+ 
+The backend system (FFT spectrometer) provides the 4096x2 channels with a fine velocity resolution of better than 0.05 km/s (15 kHz) per channel. Its effective spectra bandwidth is 60 MHz.
+ 
+Two bedrooms and fully equipped kitchen are available for outside observers. Please refer to the TRAO homepage for more system information.
+https://radio.kasi.re.kr/trao/main_trao.php
+
+
+TRAO  Director  
+Dr.  Minho Choi
+
+==============================================================================

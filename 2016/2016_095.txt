@@ -1,0 +1,36 @@
+> From: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> Date: Thu, 9 Jun 2016 17:38:36 +0800
+> Subject: NTHU colloquium 2016/06/17
+> To: astro@asiaa.sinica.edu.tw
+> Cc: Tomo <itlhnis@gmail.com>
+
+Speaker: Dipak Debnath
+Date: 2016/06/17 (Fri.)
+Time: 14:00~15:00
+Venue: General 2nd building R521
+
+Title:Two-Component Advective Flow Solution :
+A Generalized Model to Understand Accretion
+Flow Dynamics Around Black Holes
+
+Abstract:
+It has been more than two decades of the classic work by Chakrabarti and
+his collaborators on
+the two component advective flow (TCAF) model. Recently, we
+successfully been able to include it in HEASARC's spectral analysis
+software package XSPEC as an additive local model to fit energy
+spectra from different black hole candidates (BHCs) and obtain
+physical accretion flow parameters, such as, two component
+(Keplerian disk and sub-Keplerian halo) accretion rates, shock
+(location, i.e., the size of the Compton cloud, and the compression
+ratio) parameters. Evolutions of spectral and timing properties are
+transparent from the TCAF model fitted/derived physical
+parameters. Reason of different spectral states and their transitions
+during an outburst of a transient BHC are also clear. One can also
+predict frequency of the dominating quasi-periodic oscillation (QPO)
+from TCAF model fitted shock parameters and even predict most
+preferable mass range of an unknown BHC from TCAF fits. To our
+knowledge this gives us the most physical tool to investigate the
+accretion flow dynamics around black hole candidates.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

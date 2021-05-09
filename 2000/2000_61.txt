@@ -1,0 +1,107 @@
+From kuan@sgrb2.geos.ntnu.edu.tw Wed Feb 23 11:25 CST 2000
+Received: from sgrb2.geos.ntnu.edu.tw (sgrb2 [140.122.144.4])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA28379
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 23 Feb 2000 11:24:50 +0800 (CST)
+Received: by sgrb2.geos.ntnu.edu.tw (8.9.2/8.9.2) id LAA28313
+	for astro@iaa17; Wed, 23 Feb 2000 11:17:51 +0800 (CST)
+Date: Wed, 23 Feb 2000 11:17:51 +0800 (CST)
+From: Yi-Jehng Kuan <kuan@sgrb2.geos.ntnu.edu.tw>
+Message-Id: <200002230317.LAA28313@sgrb2.geos.ntnu.edu.tw>
+Subject: An announcement from P. Vanden Bout.
+To: astro@iaa17.asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: SaARPz0JRmvqCXCJRGa2Rg==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 4577
+Status: RO
+
+------------- Begin Forwarded Message -------------
+
+>From brodrigu@nrao.edu  Tue Feb 22 12:49:50 2000
+Received: from polaris.cv.nrao.edu by dusty.arc.nasa.gov (980427.SGI.8.8.8/1.35)
+	id MAA06748; Tue, 22 Feb 2000 12:49:46 -0800 (PST)
+Received: from nrao.edu (chocolate.cv.nrao.edu [192.33.115.60])
+	by polaris.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) with ESMTP id PAA03503;
+	Tue, 22 Feb 2000 15:14:47 -0500 (EST)
+Message-ID: <38B2EE37.37989D35@nrao.edu>
+Date: Tue, 22 Feb 2000 15:14:47 -0500
+From: Billie Rodriguez <brodrigu@nrao.edu>
+X-Mailer: Mozilla 4.51 [en] (WinNT; U)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: allemploy@nrao.edu, bania <bania@ninkasi.bu.edu>, crc <crc@space.mit.edu>,
+        haynes <haynes@astrosun.tn.cornell.edu>, flow <flow@as.arizona.edu>,
+        miller <miller@ucolick.org>, kmenten <kmenten@mpifr-bonn.mpg.de>,
+        bpartrid <bpartrid@haverford.edu>, vogel <vogel@astro.umd.edu>,
+        turner <turner@astro.ucla.edu>, wms <wms@stsci.edu>,
+        pvandenb <pvandenb@nrao.edu>, whitley <whitley@aui.edu>,
+        greenhill <greenhill@cfa.harvard.edu>, jtaylor <jtaylor@princeton.edu>,
+        afs <afs@caltech.edu>, kirshner <kirshner@cfa.harvard.edu>,
+        schreier <schreier@stsci.edu>, rzs <rzs@ew1.umd.edu>,
+        jc <jc@hyde.uchicago.edu>, giacconi <giacconi@aui.edu>,
+        gab <gab@caltech.edu>, charnley <charnley@dusty.arc.nasa.gov>,
+        clancy <clancy@isidis.colorado.edu>, imke <imke@floris.berkeley.edu>,
+        jg <jg@astro.caltech.edu>, greenhill <greenhill@cfa.harvard.edu>,
+        cheiles <cheiles@astron.Berkeley.EDU>, pho <pho@cfa.harvard.edu>,
+        kenney <kenney@astro.yale.edu>, lada <lada@astro.ufl.edu>,
+        david <david@puppsr13.Princeton.EDU>, odea <odea@stsci.edu>,
+        ppalmer <ppalmer@oskar.uchicago.edu>,
+        cdepree <cdepree@ire.agnesscott.edu>,
+        skillman <skillman@ast1.spa.umn.edu>, troland <troland@pa.uky.edu>,
+        white <white@astro.umd.edu>,
+        wilson <wilson@physun.physics.mcmaster.ca>,
+        dboboltz <dboboltz@usno.navy.mil>,
+        clonsdal <clonsdal@haystack.mit.edu>, fzadeh <fzadeh@nwu.edu>,
+        lazio <lazio@rsd.nrl.navy.mil>, ewilcots <ewilcots@astro.wisc.edu>,
+        rla <rla@ipac.caltech.edu>, turner <turner@astro.ucla.edu>,
+        dbacker <dbacker@astron.Berkeley.EDU>,
+        churchwell <churchwell@astro.wisc.edu>,
+        cordes <cordes@spacenet.tn.cornell.edu>, nje <nje@astro.as.utexas.edu>,
+        lgm <lgm@astro.umd.edu>, phillips <phillips@tacos.submm.caltech.edu>,
+        schloerb <schloerb@fcrao1.astro.umass.edu>,
+        reid <mreid@mpifr-bonn.mpg.de>
+Subject: An announcement from P. Vanden Bout.
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Status: R
+
+ANNOUNCEMENT
+
+It has been understood since the proposal to build the Millimeter Array
+(now the Atacama Large Millimeter Array) that the 12 Meter Telescope
+would someday be closed.  We had hoped to operate the 12 Meter until
+interim ALMA operations were achieved.  More recently, indications of
+budget troubles suggested that it would be prudent to plan for a closure
+earlier than that, and a process had begun to study the impact of a loss
+of 12 Meter operations that would lead to an orderly closure.  With the
+announcement by the NSF of their 2001 budget request, we are forced to
+cut that process short.
+
+I regret to announce that the 12 Meter Telescope will be closed at the
+end of the current observing season, July 2000.
+
+Following a long series of stagnant budgets for the Observatory, another
+shortfall in the funds required to operate the NRAO in 2001 cannot be
+absorbed and at the same time properly maintain operations of the Very
+Large Array, Very Long Baseline Array, and new Green Bank Telescope.  We
+are forced to reduce the scope of our activities by taking this step. 
+								
+The NRAO Tucson staff have been notified.  We will be working with them
+over the next few months to arrange transfers to ALMA and other
+Observatory positions where possible, and to assist them in securing
+other employment where necessary.
+
+The Observatory will immediately begin consultations with the
+astronomical community to assess the scientific impact of the 12 Meter
+closure and seek advice on mitigating steps that might be taken.  We
+will be consulting with other millimeter observatories regarding
+observing time that could be made available to 12 Meter users.  Plans
+for the disposition of the 12 Meter and its instrumentation will follow.
+						
+Paul Vanden Bout
+22 February 2000
+
+------------- End Forwarded Message -------------
+
+

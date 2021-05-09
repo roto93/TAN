@@ -1,0 +1,185 @@
+From kyl@asiaa.sinica.edu.tw Sat Jan 29 06:19 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id GAA10077
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sat, 29 Jan 2000 06:19:01 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id GAA09254
+	for <astro@asiaa.sinica.edu.tw>; Sat, 29 Jan 2000 06:07:39 +0800
+Date: Sat, 29 Jan 2000 06:07:39 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Interferometry Summer School: First Announcement (fwd)
+Message-ID: <Pine.LNX.4.10.10001290607360.9232-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5643
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Fri, 28 Jan 2000 19:57:46 +0100
+From: Interferometry Summerschool <interf00@strw.leidenuniv.nl>
+To: kyl@astro.uiuc.edu
+Subject: Interferometry Summer School: First Announcement
+
+
+FIRST ANNOUNCEMENT : 
+*******************************************************************************
+*                                                                             *
+*                  NOVA/LEIDEN/NEVEC/ESO/ESA workshop:                        *
+*                                                                             *
+*     Summer school on Space and Ground Based Optical/Infrared interferometry *
+*                                                                             *
+*******************************************************************************
+
+
+DATES : 
+18th-22nd September 2000
+ 
+
+PLACE : 
+LORENTZ CENTER (LEIDEN OBSERVATORY, THE NETHERLANDS)
+
+
+AIM : 
+Optical/infrared interferometry is the technique of coherently
+combining light from several ground or space-based telescopes to
+obtain imaging information at a resolution orders of magnitude larger
+than obtainable with a single telescope.  Such a high resolution
+explores a unique observational regime and therefore should provide
+new insights into a wide range of astrophysical questions.  At the
+moment two major European projects are being conceived.  Firstly, the
+European Southern Observatory is currently building the VLT
+Interferometer (VLTI), which consists of four 8-meter diameter
+telescopes and three 1.8-meter diameter telescopes.  Secondly, the
+European Space Agency is currently carrying out a system level study
+on IRSI/Darwin, a mission to carry out infrared interferometry in
+space. The aim is to build an interferometer that consists
+of 6 free flying 1.8-m telescopes and is capable of detecting
+earth-like planets orbiting nearby stars. 
+
+The aim of the present workshop is to give the attendees a solid
+overview of 
+
+(i) the theoretical principles of optical/IR interferometry
+(ii) the atmosphere 
+(ii) the existing instruments
+(iii) science issues relevant to interferometry 
+(iv) the VLTI and DARWIN project 
+
+
+AUDIENCE : 
+People accepted will be from universities, technical laboratories and
+industry with a strong interest in this field. The lectures will be a
+level suitable for early PhD.
+The number of attendees will be limited to 35. 
+
+
+PROGRAM : 
+*Day 1
+Principles            
+    General Fourier Transform, filling UV plane
+    Atmosphere 
+    Beam combination 
+    Fringe detection 
+    Imaging, deconvolution 
+    S/N consideration, principle limits 
+                  ------->  P. Lena (Observatoire de Paris-Meudon)
+
+*Day 2
+Overview existing instruments     
+                  -------> A. Quirrenbach (University of California, San Diego)
+A working instrument              
+                  -------> C. Haniff (MRAO) (To be confirmed)
+Overview science                  
+                  -------> R. Waters (ASTRO)
+                           F. Paresce (ESO) 
+                                             
+
+*Day 3
+Space/Darwin                      
+                  -------> A. Leger (IAS) 
+                           G. Lund (Alcatel) 
+                                            
+
+*Day 4
+VLTI overview                     
+                  -------> A. Glindemann (ESO)
+
+*Day 5
+Presentations by attendees        
+Discussion 
+
+
+SCIENTIFIC ORGANIZING COMMITTEE :
+Paresce/Glindemann/Fridlund/Roussel/Haniff/Lena/Quirrenbach/Leger 
+Volonte/Rottgering/Miley/Le Poole/Percheron/Snijders/Teule  
+
+
+LOCAL ORGANIZING COMMITTEE :
+Rottgering/Le Poole/Percheron/Vermond/Heijligers/Soulsby/Meisner
+
+
+SUMMER SCHOOL VENUE :
+   Lorentz Center :
+The summer school will be hosted by the Lorentz Center located within the 
+cluster of science buildings of Leiden University. 
+   
+   Travel to Leiden :
+Leiden is located in the west of The Netherlands, and can be reached 
+conveniently by rail from Amsterdam Schiphol Airport and all major cities. 
+Trains from the airport run every 15 minutes and take about 20 minutes (cost
+one way around NLG 9.50) 
+
+   City of Leiden : 
+Leiden is one of the historical cities of The Netherlands hosting the 
+oldest Dutch University. In its center numerous museums are found, 
+notably the Naturalis Museum, the National Museum for the History of 
+Science Boerhaave , the National Museum of Antiquities and the City 
+Museum of Art De Lakenhal . 
+As a student town it has also a great variety  of restaurants. 
+More information about Leiden can be found on the Leiden Observatory pages. 
+(www.strw.leidenuniv.nl) 
+  
+
+REGISTRATION FEE : 
+Participants will be required to pay a registration fee of NLG 300 (US$ 150)
+which will include tea, coffee and lunch during the meeting, stationery ...
+
+
+ACCOMMODATION : 
+Arrangements are being made to book single and double rooms in hotels in Leiden
+
+
+GRANTS :
+A limited number of grants to partly support the travel and/or registration 
+will be available.
+
+
+CONTACT : 
+A conference E-mail address will be available in the following announcement, 
+until then you can send E-mail at interf00@strw.leidenuniv.nl  
+
+
+MORE INFORMATIONS :
+www.strw.leidenuniv.nl/~nevec/summerschool_2000/  
+
+
+If you are interested in participating in this summer school, please send 
+us an E-mail before 15 February. A second annoucement will be sent out end 
+February 2000.
+
+
+

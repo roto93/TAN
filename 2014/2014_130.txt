@@ -1,0 +1,42 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun, 24 Aug 2014 08:00:01 +0800 (CST)
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Ronin Wu (University of Tokyo)
+Topic:        Spatially resolved physical conditions of molecular gas and potential star-forming tracers in M83, revealed by the Herschel SPIRE FTS
+Time:        8/26 (Tuesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Since the launch of the Herschel Space Observatory, our understanding
+about the photo-dissociation regions (PDR) has taken a step forward.
+In the bandwidth of the Fourier Transform Spectrometer (FTS) of the
+Spectral and Photometric Imaging REceiver (SPIRE) on board Herschel,
+ten CO rotational transitions, including J=4-3 to J=13-12, and three
+fine structure lines, including [CI] 609, [CI] 370, and [NII] 250
+micron, are covered. In this talk, I present our findings from the FTS
+observations at the nuclear region of M83, based on the spatially
+resolved physical parameters derived from the CO spectral line energy
+distribution (SLED) map and the comparisons with the dust properties
+and star-formation tracers. I will discuss (1) the potential of using
+[NII] 250 and [CI] 370 micron as star-formation tracers; (2) the
+reliability of tracing molecular gas with CO; (3) the excitation
+mechanisms of warm CO; (4) the possibility of studying stellar
+feedback by tracing the thermal pressure of molecular gas in the
+nuclear region of M83.
+
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Prof. Hwei-Jang Yo (NCKU)
+Topic:        Modifications for improved accuracy on angular momentum in black hole evolution calculations
+Time:        8/27 (Wednesday) 13:30 - 14:30
+Place:        R1108
+Abstract:
+
+==============================================================================

@@ -1,0 +1,31 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun, 13 Jul 2014 08:00:04 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Geoffrey Bower (ASIAA)
+Topic:        Two Serendipitous Probes of Sagittarius A*: The Galactic Center Pulsar and The G2 Gas Cloud
+Time:        7/16 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+High resolution very long baseline interferometry (VLBI) images of nearby massive black holes have the power to address fundamental questions about the physics of black holes. This includes the most accurate constraints on the mass density of the black hole, detection of the black hole spin, and exploration of extensions to general relativity (GR). In particular, Event Horizon Telescope (EHT) observations will probe Sgr A* and M87, the two sources with the largest angular diameter black holes on the sky, over the coming years with increasing sensitivity and accuracy in imaging. Unfortunately, we do not fully understand the physical processes that are driving accretion and outflow in these sources. To address the fundamental black hole physics questions, we need to develop a deeper knowledge of the astrophysics of these sources. The periastron passage of the G2 gas cloud with Sgr A* at ~1000 Schwarzschild in Spring of 2014 gives us an unprecedented opportunity to study a wide 
+range of astrophysical models for accretion and outflow. I describe here observations from millimeter to X-ray wavelengths that enable us to create the necessary context for understanding physics at a few Schwarzschild radii. These include centimeter wavelength VLBI, millimeter polarimetry, and light curve analysis. The serendipitous discovery of the Galactic Center magnetar, SGR 1745-29, has provided a powerful new probe of the Galactic Center environment, including the gas density, magnetic field strength, and nature of the interstellar scattering screen. The discovery also raises important questions about the detectability of pulsars in close orbit to Sgr A* and the pulsar population in the Galactic Center overall.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    David C.-C. Yen (FJU)
+Topic:        Hydrodynamical Escape Approximation for Pluto
+Time:        7/15 (Tuesday) 13:30 - 14:30
+Place:        R1108
+Abstract:
+Hydrodynamic escape problem is to understand the atmosphere of  steady state. The escape flux of gas is concerned and the gas may be collisionless beyond the thermal exobase of the atmosphere. Although the hydrodynamical assumption may fail in theory, this study is to explore the approximation solution for Pluto simulated by the relaxation method is still accurate and reliable through the comparison with some other simulations. The hydrodynamic solution still could approximate the situation of the rare gas for Pluto.
+
+Please note that this research is with Mao-Chang Liang and  Ronald E. Taam.
+
+==============================================================================

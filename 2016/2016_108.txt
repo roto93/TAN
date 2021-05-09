@@ -1,0 +1,34 @@
+> Date: Thu, 7 Jul 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Howard Chen (Northwestern University)
+Topic:          From Earths to Super-Earths: Modeling Optically Thick and Thin Planetary Atmospheres
+Time:           7/11 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+To date, over 5,000 exoplanets and planet candidates have been discovered. From the exotic exo-Neptunes to potentially habitable Earth-like planets, I will describe two methods to model the atmospheres of these planets. First, I will present a prescription of using the state-of-the-art stellar evolution code Modules for Experimental Astrophysics (MESA) to model the thermal evolution of sub-Neptune sized planets having hydrogen-helium envelopes. I will also describe an updated version of the Kasting climate model and using it to calculate the upper atmospheric conditions for planets warmer than the present Earth. I will also go over the results of using these models to generate a sample planet population as well as predicting the temperatures and water concentrations in the stratospheres of terrestrial planets. Finally, I will briefly illustrate how numerical models such as these could assist in the characterization efforts of exoplanets in future missions and observational s!
+ urveys.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Chi-Ting Chiang (Stony Brook University)
+Topic:          Simulating the large-scale structure in different environments
+Time:           7/13 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Understanding the structure formation is one of the most important issues in modern cosmology. In particular, in the era of big astronomical data, connecting observation and theory is crucial to improve precision cosmology, and possibly probe new physics. The observables of the large-scale structure such as galaxy number density generally depends on the density environment. The dependence can traditionally be studied by performing gigantic cosmological N-body simulations and measuring the observables in different density environments. Alternatively, we can perform the so-called ``separate universe simulations,'' in which the effect of the environment is absorbed into the change of the cosmological parameters. In other words, an overdense universe is equivalent to a positively curved universe, and so the structure formation would change accordingly. In this talk, I will introduce the separate universe mapping, and present how the power spectrum and halo mass function changes !
+ in different density environments, which are related to the squeezed-limit bispectrum and the halo bias, respectively. I will also discuss our recent progress on extending this approach to multiple fluids such as dynamic dark energy and massive neutrinos.
+
+==============================================================================

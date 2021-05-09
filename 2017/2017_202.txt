@@ -1,0 +1,185 @@
+==============================================================================
+
+In this issue (Dec 11 - 17, 2017)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Dec 18): Kouichi Hirotani (ASIAA)
+                                      (Dec 18): Derek Fox (Penn State)
+                                      (Dec 18): Masanori Nakamura (ASIAA)
+                                      (Dec 20): Corrado Boeche (Heidelberg)
+2. Formation of substellar objects: theory and observations (May 21-23, 2018)
+
+==============================================================================
+
+> Date: Thu, 14 Dec 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Kouichi Hirotani (ASIAA)
+Topic:         Lightning black holes as unidentified TeV sources
+Time:         12/18 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+Imaging Atmospheric Cherenkov Telescopes have revealed more than 100 TeV gamma-ray sources along the Galactic Plane, around 45% of them remain unidentified. Nevertheless, radio observations recently revealed that dense molecular clumps are associated with 67% of 18 unidentified TeV sources. We demonstrate that copious TeV gamma-rays can be emitted from rapidly rotating, stellar-mass black holes when they encounter gaseous clouds. Since the general-relativistic effect plays an essential role in this magnetospheric lepton accelerator scenario, the emissions take place in the direct vicinity of the event horizon, resulting in a point-like gamma-ray image. We demonstrate that their gamma-ray spectra have two peaks in MeV-10GeV and 10GeV-TeV, via curvature and inverse-Compton processes respectively, and that the accelerators become most luminous when the mass accretion rate becomes about 0.01% of the Eddington rate.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Derek Fox (Penn State)
+Topic:         Seeking the Sources of IceCube's Cosmic Neutrinos
+Time:         12/18 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The IceCube Collaboration has reported their discovery of high-energy
+(e_nu > 1 TeV) neutrinos of cosmic origin. Since the original
+announcement in 2013, the confidence level of their discovery has
+increased to >5-sigma, and the signature of this relatively
+hard-spectrum, isotropic or near-isotropic population of neutrinos has
+been recovered via multiple event selections. Despite increasingly
+energetic efforts, however, no high-confidence source has been
+identified for any of the high-energy neutrinos. At Penn State, the
+Astrophysical Multimessenger Observatory Network (AMON) has been
+pursuing and enabling time-sensitive searches for neutrino
+counterparts which might reveal these sources. I will discuss our
+efforts, which have included archival analyses, rapid-response X-ray
+and UV/optical observations with NASA's Swift satellite, and recently,
+multiwavelength studies of a particularly interesting BL Lac-type
+blazar, TXS 0506+056. Whatever the nature of the sources emitting
+IceCube's cosmic neutrinos, they are some of the universe's
+highest-energy particle accelerators, and may also be the long-sought
+sources of the highest-energy cosmic rays.
+
+
+
+*** TIARA Seminar ***
+____________________________________________________ 
+Speaker:    Masanori Nakamura (ASIAA)
+Topic:         The Parabolic Jet from the Spinning Black Hole in M87
+Time:         12/18 (Monday) 13:30 - 14:15
+Place:         R1107
+Abstract:
+Recent comprehensive VLBI studies toward M87 give a unique opportunity
+for understanding an AGN jet inside the sphere of influence. The structure and
+dynamics of the M87 jet are examined by utilizing GRMHD simulations
+as well as the steady axisymmetric force-free electrodynamic (FFE) solution.
+Quasi-steady, Poynting flux-dominated funnel jets are obtained in our simulations
+up to ~ 100 r_g for various black hole spins. The funnel edge is approximately
+determined by the following equipartition; i) the magnetic and rest-mass energy
+densities and ii) the gas and magnetic pressures along the outermost parabolic
+streamline of the FFE solution (Blandford-Payne-type jet geometry), which is
+anchored to the event horizon. The Bernoulli parameter (Be) approximately
+becomes zero along the funnel edge, providing a physical boundary between
+the funnel (Be > 0) and the matter dominated corona/wind (Be < 0). We confirmed
+a quantitative overlap between the outermost parabolic streamline in the FFE jet
+solution and the edge of jet sheath in VLBI observations at ~ 10^(1-5) r_g,
+suggesting that the M87 jet sheath is presumably powered by the spinning black hole.
+Our simulations also indicate a lateral stratification of the bulk acceleration
+(i.e. the spine-sheath structure) as well as an emergence of superluminal features.
+The black hole spin characterizes the jet stagnation (inflow/outflow separation;
+Be ~ 0) surface inside the funnel. The limb-brightened feature in M87 could be
+associated with the nature of the black hole-driven jet, if the Doppler beaming is a
+dominant factor. Our findings can be examined with on-going mm/sub-mm
+VLBI (EHT/GLT) projects, giving a clue for the origin of the relativistic jet
+at the horizon-scale for the first time.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Corrado Boeche (Heidelberg)
+Topic:         SP_Ace v1.3: a friendly software to measure stellar parameters and chemical abundances
+Time:         12/20 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The big number of spectra collected nowadays by large spectroscopic
+surveys (such as LAMOST, APOGEE, RAVE, and others) requires software
+for automated analysis.  I present the software SP_Ace, designed to
+derive stellar parameters and chemical abundances.  I describe how it
+works and show its performance with application on real spectra such
+as the ELODIE spectral library and the LAMOST database, with which we
+recently performed the analysis of the LAMOST spectra of the first
+data release (DR1, paper submitted).  I also discuss some key points
+that affect the accuracy of any method of spectroscopic analysis.
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Oscar Morata <omorata@asiaa.sinica.edu.tw>
+> Subject: Formation of substellar objects: theory and observations
+> Date: Fri, 15 Dec 2017 13:15:51 +0800
+
+********************************************************
+
+Formation of substellar objects: theory and observations
+
+ESAC May 21-23, 2018
+
+Madrid, Spain
+
+********************************************************
+
+
+On behalf of Local and Scientific Organizing Committees, we are pleased 
+to announce a three days workshop devoted to brown dwarfs and their 
+formation mechanism/s. More than 20 years have passed since the 
+discovery of the first confirmed substellar objects. However, there are 
+still many problems concerning brown dwarf formation and evolution.
+
+During the last years, a large number of works have been focused on 
+explaining the origin of brown dwarfs. Thanks to Spitzer, Herschel and 
+lately ALMA, there are now evidences of a star-like scenario to explain 
+the formation of these substellar objects. However, there are still open 
+questions, like the role of turbulence, and the efficiency of other 
+mechanisms (e.g. photo-evaporation, disk fragmentation) to produce BDs. 
+On the other hand, the study of young clusters is producing more and 
+more spectroscopically confirmed substellar IMFs, which are fundamental 
+to understand BD formation and evolution.
+
+The scope of this workshop is to gather experts on BD formation, both 
+theoreticians and observational astronomers, to discuss about the 
+results of the last decade. We plan to compare the theoretical 
+expectations with the results from observations to understand which 
+questions have been answered, and which ones are still open. Moreover, 
+experts from other fields, such as exoplanets and chemical modeling, are 
+welcome since one of the goals is to study the phenomena from a 
+comprehensive perspective and to produce new synergies and projects.  In 
+addition, we will discuss about the advances that can be done in this 
+field with the advent of new facilities like e.g. JWST or Euclid.
+
+
+All relevant information can be found at:
+
+http://www.laeff.cab.inta-csic.es/projects/ws18/main/index.php
+
+
+Regards,
+
+
+David Barrado, Maria Morales, Nuria Huelamo and Carlos Eiroa, on behalf 
+of the SOC and LOC
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

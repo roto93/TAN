@@ -1,0 +1,216 @@
+==============================================================================
+
+In this issue (Jul 03 - 05, 2018)
+
+1. Second announcement: CASA tutorial at 2018 EVN Symposium
+2. Announcement: LOT call-for-proposal for 2018C Semester
+3. An internship of ISAS
+4. ASIAA Colloquium/Seminar/Lunchtalk (Jul 09): Tsan-Ming Wang (NCU)
+                              (Jul 11): Wen-Pin Hsieh (ASIES)
+                              (Jul 12): Takuji Yamashita (Ehime University)
+
+==============================================================================
+
+> From: Ilse van Bemmel <bemmel@jive.eu>
+> Subject: Second announcement: CASA tutorial at 2018 EVN Symposium
+> Date: Tue, 3 Jul 2018 09:17:17 +0200
+> To: astro@asiaa.sinica.edu.tw
+
+[This message is sent through several e-mail exploders, apologies if you =
+receive multiple copies]=20
+
+With the release of CASA 5.3 =
+<https://casa.nrao.edu/casa_obtaining.shtml> the first experimental VLBI =
+tools will be included in the package (see the latest CASA Newsletter =
+<https://science.nrao.edu/enews/casa_006/> for more details). With =
+support from  IAA-CSIC <https://www.iaa.csic.es/>, JIVE =
+<http://www.jive.eu/> is organising an afternoon tutorial to introduce =
+these new tools to the EVN community, which will take place at the end =
+of the EVN symposium <http://evnsymp2018.iaa.es/> in Granada, Spain.
+
+Date & time: October 11, 15:30 =E2=80=93 18:30=E2=80=A8
+Location: IAA-CSIC, Glorieta de la Astronm=C3=ADa s/n, C.P. 18008, =
+Granada, Spain =20
+
+The first part of the tutorial consists of a lecture to demonstrate how =
+to calibrate an EVN Network Monitoring Experiment in CASA, starting from =
+the data stored in the EVN archive. The second part allows participants =
+to try this for themselves, or attempt to calibrate a small dataset of =
+their own. A few scans on a bright source are sufficient, given the =
+available time.=20
+
+All participants should bring their own laptop with a working CASA 5.3 =
+installation. Prior experience with CASA is not necessary, though for =
+new CASA users it is recommended to work through one of the JVLA =
+CASA=C2=A0tutorials =
+<https://casaguides.nrao.edu/index.php/Karl_G._Jansky_VLA_Tutorials> =
+prior to attending the workshop.
+
+Interested participants are requested to sign up beforehand =
+<https://goo.gl/forms/kLj4qFxeMWeatMyl1>. Registration before 15 =
+September is recommended to ensure a seat. After that date, details on =
+the tutorial will be provided only to registered participants.=20
+
+Please contact me if you require more information.
+
+Kind regards,
+Ilse van Bemmel
+
+
+--
+Project scientist
+Joint Institute for VLBI ERIC
+PO Box 2
+7990 AA Dwingeloo
+The Netherlands
++31-521-595784
+
+==============================================================================
+
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> Date: Wed, 4 Jul 2018 09:00:40 +0800
+> Subject: Announcement: LOT call-for-proposal for 2018C Semester
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof. Kuan, can you announce the following to TAN?
+
+Thanks for the help.
+
+----------------------------------------------
+
+Dear all, the LOT call-for-proposal for 2018C is announced on Lulin Website:
+
+http://www.lulin.ncu.edu.tw/
+
+Please check and download the templates from the announcement on 2018-07-03,
+under "News" or "Lulin News".
+
+See also:
+http://www.lulin.ncu.edu.tw/lulinnews/files/180703_Announcement_LOT2018C.txt
+
+----------------------------------------------
+
+-- 
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> From: Ming-Jye Wang <mingjye@asiaa.sinica.edu.tw>
+> Date: Thu, 5 Jul 2018 09:38:59 +0800
+> Subject: Fwd: an internship of ISAS
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Cc: Yutaro Sekimoto <Sekimoto@astro.isas.jaxa.jp>
+
+Dear All
+
+  I am forwarding you the message about an internship of ISAS/JAXA. Please
+check the link if you are interested.
+
+Best regards,
+
+Ming-Jye Wang
+
+Research Fellow,
+Superconducting Device Laboratory,
+Institute of Astronomy and Astrophysics, Academia Sinica
+mingjye@asiaa.sinica.edu.tw
++886-2-23665337
+
+---------- Forwarded message ----------
+> From: Y. Sekimoto <sekimoto@astro.isas.jaxa.jp>
+> Date: 2018-07-05 8:43 GMT+08:00
+> Subject: an internship of ISAS
+> To: Ming-Jye Wang <mingjye@asiaa.sinica.edu.tw>
+> Cc: =E9=96=A2=E6=9C=AC=E8=A3=95=E5=A4=AA=E9=83=8E <sekimoto@astro.isas.jaxa=
+.jp>
+
+
+Dear Ming-Jye,
+
+There is an internship of ISAS/JAXA.
+
+http://www.isas.jaxa.jp/sokendai/e/admissions/guidance/intern.html
+
+I would appreciate if you circulate this to potential candidates.
+
+Best regards,
+
+Yutaro
+
+------------------------------------------------------------
+--------------------------------
+Yutaro Sekimoto
+Department of Space Astronomy and Astrophysics,
+Institute of Space and Astronautical Science (ISAS),
+Japan Aerospace Exploration Agency (JAXA)
+tel: +81-50-3362-5188
+3-1-1 Yoshinodai, Chuo-ku, Sagamihara City, Kanagawa, 252-5210
+------------------------------------------------------------
+--------------------------------
+
+==============================================================================
+
+> Date: Thu, 5 Jul 2018 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Tsan-Ming Wang (NCU)
+Topic:         INFLUENCE OF VELOCITY DISPERSIONS ON STAR FORMATION ACTIVITIES IN GALAXIES
+Time:         7/9 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+We investigate the influence of the random velocity of molecular gas on the star forming activities in molecular clouds. It is known that physical states of a molecular cloud, such as temperature and density, will influence the star forming activities in the cloud. Besides, it is believed that local and turbulent motions of the molecules in the cloud might provide a significant amount of pressure against gravitational collapse and might thus prevent or reduce star formation in the cloud. However, the influence of the gas motions on the star formation activities is still poorly understood. We used the Atacama Large Millimeter/submillimeter Array (ALMA) data to obtain 12CO(J=1-0) flux and velocity dispersion, combining with the 3.6 and 8 micron mid-infrared data of the Spitzer Space Telescope to probe the effects of gas motion on star formation activities for several nearby galaxies. From our results we were able to derive a modified Kennicutt-Schmidt law with velocity dispers!
+ion as an additional parameter. We found that the higher the velocity dispersion in molecular clouds, the lower the star formation activities.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Wen-Pin Hsieh (ASIES)
+Topic:         A journey to the Earth and icy bodies’ interiors
+Time:         7/11 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Physical properties of constituent materials in the Earth and planetary interiors are key to determine their formation history and thermo-chemical structures, etc. In particular, knowledge of the thermal conductivity of these constituent materials under relevant pressure-temperature conditions plays critical roles in understanding many geophysical phenomena within the Earth and planetary bodies, such as the temperature profile and dynamics of the mantle and core, as well as the heat flux across the core-mantle boundary. Recently we have successfully combined ultrafast optics with high pressure diamond cells to precisely measure lattice thermal conductivity of Earth’s mantle and core materials and water-volatile mixtures under extreme conditions. Modeling of our new data show significant influences of hydration, iron, aluminum, and volatiles on the thermal states and dynamics of the Earth and icy bodies. I will also discuss some future directions that are important to furth!
+er understand the thermal history of the Earth and icy bodies.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Takuji Yamashita (Ehime University)
+Topic:         Optically-faint radio galaxies found by Subaru Hyper-Suprime Cam and VLA FIRST
+Time:         7/12 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+I will present optical and radio properties of optically-faint radio galaxies (RGs) found by an on-going project, a Wide and Deep Exploration of Radio Galaxies with Subaru HSC (WERGS). RGs possess powerful radio-jets, which could give a so-called feedback effect on host galaxies. As the host galaxies are thought to be typically massive, RGs are important for understanding the evolution of massive galaxies. We carried out a cross-match between the VLA FIRST radio catalog and the deep (i_AB < 27) and wide imaging catalog by Hyper-Suprime Cam Subaru Strategic Program. We successfully identified ~3600 radio-AGNs in the 156 deg^2 field (Yamashita et al. 2018). The number of the matches is equivalent to ~50% of FIRST sources, which is higher than that of SDSS counterparts (~30%). Optically-faint RGs (i_AB > 21) in the sample are mostly located at photometric redshifts z > 1 and show higher radio-loudness (log R > 4) than the SDSS RGs. The results might infer that these optically-f!
+aint RGs have low accretion rate or obscured nuclei. Some of the optically-faint RGs have blue optical colors which are not consistent with that of passive galaxies but can be explained by predominant young stellar populations. Our optically-faint RG sample might include “evolving” RGs that are star-forming. I will also discuss the redshift evolution of such blue RGs.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

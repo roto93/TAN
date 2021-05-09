@@ -1,0 +1,100 @@
+============================================================================== 
+In this issue (Sep 12 - 20, 2014)
+
+1. ASIAA Colloquia/Seminars (Sep 22): Shou-Hsien Weng (ASIAA)
+                            (Sep 24): Eva Grebel (Heidelberg Univ)
+2. Postdoc opening at IANCU
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Shou-Hsien Weng (ASIAA)
+Topic:         LNA and mixer design for ALMA band-1 warm cartridge
+Time:         9/22 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+ALMA band-1 is the lowest frequency band among ALMA receivers. The microwave monolithic integrated circuit (MMIC) is an attractive technique for circuit design due to its compact size, high performance, and easy to mass production. In this talk, a low noise amplifier (LNA) and a mixer are designed using MMIC technique for ALMA band-1 warm cartridge.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Eva Grebel (Heidelberg University)
+Topic:         Dwarf Galaxies and Their Role as Building Blocks
+Time:         9/24 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Dwarf galaxies are the most common type of galaxy in the Universe and include the most dark-matter-dominated objects known.  They offer intriguing insights into evolutionary processes at low halo masses
+and low metallicities.  Moreover, as survivors of a once much more numerous population of building blocks of larger galaxies, they are key to understanding very early star formation processes.  The Local Group and particularly the Milky Way's dwarf galaxy entourage offer us the unique possibility to compare in detail dwarf and Galactic populations. This is an important step towards quantifying the magnitude and time scales of dwarf contributions to the build-up of the Milky Way and allows us to test predictions of cosmological theories and hierarchical structure formation.
+
+==============================================================================
+
+> Date: Thu, 18 Sep 2014 13:51:37 +0800
+> Subject: Postdoc opening at IANCU
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Prof Kuan, please announce the following message to TAN.
+
+Thanks.
+
+----------------------------------------------------------
+
+We are seeking qualified and highly motivated postdoc applicant(s) to join
+our team at the Graduate Institution of Astronomy, National Central
+University (IANCU). The main task for the perspective applicant is to
+develop algorithms and software for analysis of the Galactic Plane Survey
+data taken from the Palomar Transient Factory (PTF) and intermediate PTF
+(iPTF) Project (see http://www.ptf.caltech.edu/), under the collaboration
+and cooperation with scientist(s) at the California Institution of
+Technology (Caltech). The PTF/iPTF is a dedicated transients survey that
+utilize the wide-field 48-inch Schmidt Telescope located at the Palomar
+Observatory for time-domain astronomy. Also, the qualified applicant is
+expected to work on scientific topics that using the data taken from the
+PTF/iPTF Galactic Plane Survey, especially in the area of variable stars
+(pulsating stars, eclipsing binaries, cataclysmic variables and etc). The
+applicant(s) should be familiar with photometry and image subtraction
+techniques. Programming language in c and/or python is recommended, but not
+required. Duration of this postdoctoral position is expected to be 2 years,
+with possibility of extension based on performance. Interested applicants
+should prepare a CV, a short research statement, a list of publication and
+arrange three reference letters to be sent to: Tracy Chiu <
+tracy@gm.astro.ncu.edu.tw> (with "TANGO postdoc application" in email's
+title). The deadline of application is *31-Oct-2014*.
+
+----------------------------------------------------------
+
+
+-- 
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

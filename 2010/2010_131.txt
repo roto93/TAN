@@ -1,0 +1,275 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Sep  3 22:54:37 2010
+Date: Fri, 3 Sep 2010 22:53:22 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Sep 01 - 03, 2010)
+
+============================================================================== 
+
+In this issue (Sep 01 - 03, 2010)
+
+1. Arizona Radio Observatory: Call for Proposals - Fall 2010 (Sep 26)
+2. ASIAA postdoc position openings
+3. CFHT Call for Proposal 2011A
+
+============================================================================== 
+
+Arizona Radio Observatory: Call for Proposals (Spring 2010)
+------------------------------------------------------------
+
+Dear all,
+
+UCAT-ASIAA's ARO proposals deadline for the 2010 fall semester
+(October 15, 2010 - February 1, 2011) is set on September 26, 2010 (Sunday).
+
+The Arizona Radio Observatory operates the Sub-Millimeter Telescope (SMT)
+and the Kitt Peak 12 Meter (12m). The SMT currently supports a
+dual-polarization, ALMA Band-6 1 mm receiver, a dual-polarization 0.8 mm
+receiver, and an ALMA Band-9 (602-720 GHz) dual-polarization receiver.
+The SMT control system has been updated to allow for dual polarization,
+dual sideband observations (so-called "4 IF mode").  The 12m supports 2 mm
+and 3 mm (65-176 GHz) dual-polarization receivers.  A new ALMA Band-3 receiver
+is now available at the 12 m for the 85-116 GHz band (3 mm HI), also
+dual-polarization. Remote observing is available at both ARO telescopes.
+
+Please refer to http://aro.as.arizona.edu/ for more details.
+
+Information about Remote Observing can be viewed at:
+http://aro.as.arizona.edu/remote/remote.htm.
+
+For further information about remote observing and other operational
+questions, please contact Tom Folkers, Operations Manager:
+tfolkers@as.arizona.edu.
+
+People are required to use the 12m and SMT proposal cover/summary
+sheets for their proposals:
+(obtainable under "Proposal Submission Information" at
+  http://aro.as.arizona.edu/proposal_submission_information.htm
+for the SMT -
+  http://aro.as.arizona.edu/proposals/smt_prop_sub.htm
+and for the 12m -
+  http://aro.as.arizona.edu/proposals/12m_prop_sub.htm )
+
+Proposals should consist of a proposal Cover Sheet, obtainable at
+  http://aro.as.arizona.edu/proposals/ ,
+and a brief scientific and technical justification. The justification
+may be up to two pages of text, and should NOT exceed three pages in
+total including tables, figures, references and a source list with observing
+time requirements. For electronic submission, UCAT-ASIAA only accepts
+proposals in either PS/EPS or PDF formats.
+
+Please submit your proposals by midnight (23:59 pm CST) September 26, 2010
+to kuan @ asiaa.sinica.edu.tw .
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of the UCAT-ASIAA ARO TAC
+
+============================================================================== 
+
+> Date: Fri, 3 Sep 2010 13:14:38 +0800   
+> From: "winny" <winny@asiaa.sinica.edu.tw>         
+> Subject: postdoc recruitment 
+
+
+Dear Dr. Kuan,
+ 
+Could you help to post the ad in TAN?
+ 
+http://www.asiaa.sinica.edu.tw/jobopening/ad.php?i=d8055ebdd1c629da1f19443cd7e1b3ad
+ 
+thanks,
+winny
+
+============================================================================== 
+
+> From: "Hiro Takami" <hiro@asiaa.sinica.edu.tw>
+> To: <astro@asiaa.sinica.edu.tw>
+> Subject: CFHT Call for Proposal 2011A
+> Date: Fri, 3 Sep 2010 13:22:07 +0800
+
+
+############################################
+
+ Proposals for CFHT Open for Semester 2011A
+
+############################################
+
+
+The 3.6 meter optical/infrared Canadian-France-Hawaii Telescope (CFHT) is
+now open
+for proposals from all Taiwan-based researchers for semester 2011A. The
+deadline
+for proposal submission is: 
+
+24 September 2010 - 8:00 am Taiwan time 
+
+We anticipate that a minimum of 5 nights, and possibly up to 10 nights, will
+be
+available in semester 2011A, depending on demand and quality of proposals.
+Please
+note that the instruments available for 2011A are MegaCam, WIRCam, ESPaDOnS,
+and PUEO with KIR/GriF.
+Detailed information on the telescope, available instrumentation, proposal
+format, and how to submit proposals is available from the CFHT web page: 
+
+http://www.cfht.hawaii.edu/en/science/Proposals/
+
+
+### Important Changes ###
+
+PIs should take note that they will use a new Phase 1 tool and that
+Poopsy is no longer available but to retrieve old proposals. 
+See the above page for details.
+Thus, we encourage the PIs to work on her/his proposals earlier.
+Starting at the last minute will not be a good idea.
+
+
+### Exploratory Programs ###
+
+To encourage innovative science, this semester we will continue considering
+"exploratory" programs using MegaCam, WIRCam, or ESPaDOnS that require
+no more than 1 hour of observing time. Such proposals will not be refereed,
+but will
+be scrutinized by the TAC and allocated time based on scientific merit and
+feasibility.
+When submitting such proposals, please state at the beginning of the
+scientific 
+justification that "This is an EXPLORATORY proposal".
+
+
+### Queued Service Observations Snapshot Programs ###
+
+In addition, we would like to bring to your attention the Queued Service
+Observation
+(QSO) snapshot program. These are programs that can be executed with either
+MegaCam or WIRCam in relatively poor seeing conditions when the seeing is
+>1.2".
+Projects executed under the QSO snapshot program are not charged to the
+available
+observing time for Taiwan. Proposals to the QSO snapshot program will not be
+refereed, 
+but will be scrutinized by the TAC for scientific value and feasibility. 
+
+
+### Resubmission due to Lost Time ###
+
+If your scheduled project from previous semesters was not completed for any
+reason
+(including bad weather), you will need to resubmit your proposal explaining
+why you
+need more time. Your proposal will be stronger if the available data has
+been analyzed,
+and you use this data to demonstrate that the stated science goals can be
+achieved
+with allocation of the full requested time. 
+
+
+### Time Allocation Process ###
+
+All new proposals, and where deemed necessary resubmitted proposals, are
+refereed by
+researchers selected by the Taiwan-CFHT TAC based on their demonstrated
+expertise
+in the relevant research fields. 
+
+Apart from the referees comments, who are asked to evaluate primarily the
+scientific
+strength of the proposal, the Taiwan-CFHT TAC also takes into account
+technical
+feasibility. For those who have previously been scheduled observing time on
+the CFHT,
+
+the Taiwan-CFHT TAC will also take into account the  status of previously
+executed
+projects and publications. 
+ 
+
+### Status of Previous Proposals ###
+
+Please fill in or update the status of all your previous projects on the web
+page 
+https://oir.asiaa.sinica.edu.tw/cfht/ [Authentication required] 
+You can and should provide more details on the progress of previous
+(especially related)
+projects in the relevant section of your proposal. If no information is
+forthcoming,
+the TAC will assume that no progress has been made and will take this into 
+consideration in allocation of observing time. 
+
+
+### Contact Persons ###
+
+If you have any questions or problems regarding the preparation of the
+proposals,
+please contact 
+Instrumentation queries:
+
+MegaCam - Lin Li-Hwai (lihwailin-at-asiaa.sinica.edu.tw)
+          Hsieh Bau-Ching (bchsieh-at-asiaa.sinica.edu.tw)
+
+WIRCam - Yan Chi-Hung (chyan-at-asiaa.sinica.edu.tw)
+         Hsieh Bau-Ching(bchsieh-at-asiaa.sinica.edu.tw)
+
+ESPaDonS - Phan-Bao Ngoc (pbngocasiaa.sinica.edu.tw)
+ 
+
+Scientific queries:
+
+Star Formation - Jennifer Karr (jkarr-at-asiaa.sinica.edu.tw)
+                 Lee Chin-Fei (cflee-at-asiaa.sinica.edu.tw) 
+
+Extragalactic - Wang Wei-Hao (whwang-at-asiaa.sinica.edu.tw)
+                Lin Li-Hwai(lihwailin-at-asiaa.sinica.edu.tw)
+                Hsieh Bau-Ching (bchsieh-at-asiaa.sinica.edu.tw) 
+
+### Acknowledgement of Publications with CFHT Data ###
+
+1. Publications based on data taken with and through Taiwan's access to the
+CFHT in
+the period 1 Jan 2000 to 31 March 2008 should contain the following
+acknowledgement: 
+
+Access to the CFHT was made possible by the Ministry of Education and the
+National
+Science Council of Taiwan as part of the Cosmology and Particle Astrophysics
+(CosPA)
+initiative. 
+
+
+2. Publications with no ASIAA coauthors based on data taken with and through
+Taiwan's
+access to the CFHT in the period 1 April 2008 to 30 September 2009
+should contain the following acknowledgement:
+
+Access to the CFHT was made possible by the Institute of Astronomy and
+Astrophysics,
+Academia Sinica, Taiwan. 
+ 
+
+3. Publications based on data taken with and through Taiwan's
+access to the CFHT in the period since 1 October 2009 onwards
+should contain the following acknowledgement:
+
+Access to the CFHT was made possible by the Institute of Astronomy and
+Astrophysics,
+Academia Sinica, National Tsing Hua University, and National Science
+Council, Taiwan.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

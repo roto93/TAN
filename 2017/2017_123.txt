@@ -1,0 +1,56 @@
+> Date: Thu, 27 Jul 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Yoshiki Toba (ASIAA)
+Topic:         Search for extremely-luminous infrared galaxies  ~follow up observations with SCUBA-2/JCMT and SMA~
+Time:         7/31 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Wing Ip (NCU)
+Topic:         News from Rosetta
+Time:         8/2 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+After a long journey, almost as long as the planning period, the Rosetta spacecraft finally reached the target comet, 67P/Churyumov-Gerasimenko, in August 2014. For nearly two years, Rosetta provided close-up looks of a cometary nucleus that came from the time of the solar system formation and a far-away place. In this talk, we will give a summary of some of the major results obtained by different instruments onboard the spacecraft and the Philae Lander. The research results produced by the NCU group will be described in passing.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Shuay-Pwu Patty Ho (Princeton)
+Topic:         Review of Techniques for Large Detector Array Packages on ACT for Cosmic Microwave Background
+Time:         8/2 (Wednesday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+The cosmic microwave background (CMB) continues to reveal new aspects of the large scale universe. Technologies for ground-based and balloon-borne instruments measuring the polarization of the CMB have been well established and advanced in the last decade. Experience from the current generation of CMB projects indicates that the integration of the cryogenic detector array package, including its multiplexing and readout elements, is critical to the performance of the CMB instrument. The next generation of instruments needed to fully explore the potential of the CMB will require many more detectors than have currently been deployed. 
+As the number of detectors per focal plane scales up, improvements and new technologies for large array packaging will be required. In this talk, I will present the concept from ACTPol and Advanced ACTPol for the assembly of large bolometer arrays. I will summarize the possible improvements and limitations anticipated in driving towards large numbers of even higher density detector arrays when comparing to the successes from other CMB projects, keeping in mind the need for faster production rates while maintaining good performance and high yield.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Shuay-Pwu Ho (Princeton)
+Topic:         Large Millimeter Bolometric Arrays for Cosmic Microwave Background Observations
+Time:         8/4 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The cosmic microwave background (CMB) continues to reveal new aspects of the large scale universe. For example, current projects are searching for evidence of primordial gravitational waves, for signatures sensitive to the sum of the neutrino masses, and for further understanding of the formation and growth of large structures under the influence of gravity in the accelerating universe. Technologies for ground-based and balloon-borne instruments measuring the polarization of the CMB have been well established and advanced in the last decade. 
+
+Two upgraded bolometric polarimeters on the Atacama Cosmology Telescope (ACT), the ACT Polarimeter (ACTPol) and the Advanced ACTPol, have made and will make sensitive measurements of the temperature and polarization in the Cosmic Microwave Background (CMB) with arcminute resolution.  In this talk, I will focus on the instrumentation of these state-of-the-art arrays, especially the Advanced ACTPol ones. I will conclude with the results coming from the two-season cosmological results presented in Louis et al. (2016) and describe the current progress on the all three ACTPol seasons.
+
+==============================================================================

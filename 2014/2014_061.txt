@@ -1,0 +1,100 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 30 Mar 2014 08:00:02 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Denise Gabuzda (University College Cork)
+Topic:        Using Faraday Rotation to Probe the Magnetic Field Structure of AGN Jets
+Time:        4/2 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Measurements of the distribution of Faraday rotation of the plane of polarization
+occurring in the vicinities of the jets of Active GalacticNuclei (AGN) using multi-wavelength
+polarization VLBI can be used to probe the magnetic (B) field structure of the jet, as well
+as the B field and  and  distribution of thermal electrons in the immediate vicinity of the
+radio-emitting region. Because the Faraday rotation measure (RM) depends on the
+line-of-sight component of the B field in the region of Faraday rotation, it can provide a
+diagnostic for the presence of toroidal or helical fields, offering an important observational
+tie to theoretical models of jet launching. The crucial importance of  determining whether
+reports of transverse RM gradients interpreted as evidence for helical jet B fields were reliable
+led to a number of studies aimed at improving our understanding of pixel-based uncertainties in
+images, sometimes leading to surprising results. My talk will discuss recent analyses of RM
+measurements of AGN on parsec scales aimed at searching for evidence of helical jet B fields,
+as well as Monte Carlo simulations investigating restrictions on the reliability of observed
+transverse RM gradients.  These simulations have revised our ideas about the estimation of
+pixel-based uncertainties in images, and also clearly show the ability to detect transverse RM
+gradients when the intrinsic jet structures are much narrower than the beam size. This has 
+cleared the way to both re-evaluating the significance of previously reported results, and searching 
+for new reliable RM gradients across AGN jets.  The majority of previously reported transverse RM 
+gradients have proved to be reliable (statistically significant), and a number of new gradients have 
+been discovered in the past year. The collected results suggest that helical B fields are common 
+in AGN jets, and provide evidence for the action of a cosmic battery, as initially proposed by 
+Contopoulos et al. (2009).
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________ 
+Speaker:    Chao-Lin Kuo (Stanford)
+Topic:        TBA
+Time:        4/1 (Tuesday) 14:20 - 15:20
+Place:        Physics 204
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Shane O'Sullivan (THE UNIVERSITY OF SYDNEY)
+Topic:        New insights into AGN jet and lobe physics from radio spectropolarimetry
+Time:        3/31 (Monday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+New and upgraded radio telescopes, with broadband radio receivers, are enabling high-precision multi-frequency polarization and Faraday rotation measurements across a wide range of jet scales. Spectropolarimetric techniques such as Faraday rotation measure synthesis and QU-fitting have been developed to take advantage of these new capabilities, providing key insights into the magnetic field structure, particle composition and environmental impact of AGN jets and lobes. I will describe some recent results from radio spectropolarimetric studies of AGN jets and lobes, before presenting future radio telescope projects that will revolutionise our view of the polarized sky and with it our understanding of AGN jets and lobes.
+
+
+____________________________________________________ 
+Speaker:    Aglaé Kellerer (Durham University)
+Topic:        Angular resolution in astronomy: present, future and beyond
+Time:        4/1 (Tuesday) 10:30 - 11:30
+Place:        R1203
+Abstract:
+This talk will be divided into two grand themes: the development of
+novel adaptive optical (AO) correction systems for the next generation
+of telescopes, and the application of quantum optical mechanisms to
+astronomy.
+
+Advanced adaptive optics systems have kept ground based telescopes at
+the forefront of astronomical research. However, as the telescopes
+further increase in size current AO systems begin to be inadequate.
+The future extremely large telescopes require new approaches, and I
+will discuss some of these during my talk. I will notably argue in
+favor of wavefront sensors that determine the phase directly.
+
+The aim of adaptive optical systems is to reach the diffraction limit.
+This limit is considered as the absolute boundary for the angular
+resolution of a telescope; it can, however, be overcome through
+non-linear processes, such as stimulated emission and quantum
+entanglement.  I will examine the possibility of overcoming the
+diffraction limit of a telescope through heralded photon cloning
+processes (http://dx.doi.org/10.1051/0004-6361/201322665). The main
+message will be the possibility in principle to improve the angular
+resolution of a telescope beyond the diffraction limit, and thus to
+achieve high-angular resolutions even with moderately sized
+telescopes.
+
+
+____________________________________________________ 
+Speaker:    Khee-Gan Lee (MPIA)
+Topic:        3D Mapping of the IGM on 〜Mpc scales with Ly-a forest Tomography
+Time:        4/3 (Thursday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The Lyman-alpha forest absorption at z>2 can, with a sufficient density of background sightlines, be used to create 3D tomographic maps of large-scale structure. The Cosmic Lyman-Alpha Program for the Tomographic Reconstruction of Absorption Probes (CLAPTRAP) will be the first survey to attempt this technique. We aim to obtain spectra for a background grid of faint quasars and bright LBGs at 2<z<3 at a limiting apparent magnitude of g<24. These sources are separated by transverse comoving distances of ~4 cMpc enabling a 3D absorption map with ~4-5 cMpc spatial resolution to be reconstructed. In a recent paper, we have found that spectra with S/N ~4 per angstrom are sufficient to make excellent-quality maps that clearly trace the underlying dark-matter distribution at overdensities of order unity. We aim to observe ~2500-3000 background sources over 1 sq deg of the COSMOS field with Ly-a forest coverage over 2.0<z<2.4, mapping out a total comoving volume of ~3x10^6 cMpc^3. The
+  resulting tomographic maps will be the first 3D maps of large-scale structure at z>2, on ~Mpc scales. In conjunction with the rich multi-wavelength data from the COSMOS survey, these maps will facilitate the study of galaxies in the context of their large-scale environment, reveal the topology of the universe at high-redshifts, and allow the direct detection of galaxy protoclusters at the intersections of the cosmic web. In the near-future, Subaru PFS will be able to map out large areas of the high-redshift universe using this technique.
+
+==============================================================================

@@ -1,0 +1,189 @@
+
+In this issue (Jan 27 - Feb 11, 2019)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Feb 11): Yen-Chen Pan (NAOJ)
+                              (Feb 13): Fang-Chun Liu (NTNU)
+                              (Feb 14): Yuan-Sen Ting (Carnegie/Princeton/IAS)
+2. Submillimeter Array (SMA) Call for Standard Proposals
+
+==============================================================================
+
+> Date: Thu, 7 Feb 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Yen-Chen Pan (EACOA Fellow, NAOJ)
+Topic:          Host galaxies of Ia SNe
+Time:           2/11 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Fang-Chun Liu (NTNU)
+Topic:          The physical and chemical structure of continuum sources in Orion KL
+Time:           2/13 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Orion Kleinmannâ€“Low (Orion KL) hot molecular core, the nearest massive star-forming region to Earth, is one of the richest molecular reservoirs in Milky Way. With the Atacama Large Millimeter/submillimeter Array (ALMA) high-angular resolution observations, we investigate the millimeter/submillimeter continuum emission of Orion KL. In this study, twenty-four separate continuum sources are identified. Moreover, the physical and chemical properties of each individual continuum, such as the velocity, temperature and mass, and chemical abundances of nitrogen-/oxygen-bearing molecules, are also inferred based on the continuum and spectral emission observed. Marked correlations between certain physical and chemical parameters thus derived are evident and may be attributed to different evolutionary stages in these continuum sources.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Yuan-Sen Ting (Carnegie / Princeton / IAS)
+Topic:          Milky Way, machine learning, big data
+Time:           2/14 (Thursday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+Understanding physical processes responsible for the formation and
+evolution of galaxies like the Milky Way is a fundamental but unsolved
+problem in astrophysics. Fortunately, most stars are long-lived. As such,
+using the stars as "fossil records" (what is known as Galactic archaeology)
+can offer unparalleled insight into the assembly of galaxies.  In recent
+years, the landscape of Galactic archaeology is rapidly changing thanks to
+on-going large-scale surveys (astrometry, photometry, spectroscopy,
+asteroseismology) which provide a few orders of magnitude more stars than
+before. In this talk, I will discuss new "phenomenological" opportunities
+enabled by large surveys.  I will also discuss how machine-learning tools
+could leverage the big data about the Milky Way by maximally harnessing
+information from low-resolution stellar spectra as well as the time-series
+photometric fluxes of stars. I will also present the new opportunities in
+Galactic archaeology in the era of deep photometry and spectroscopy, such
+as LSST, HSC, and PFS.
+
+==============================================================================
+
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: Fwd: Submillimeter Array (SMA) Call for Standard Proposals
+> To: astro@asiaa.sinica.edu.tw
+> Date: Fri, 8 Feb 2019 20:50:43 +0900
+
+
+Dear Yi-Jehng,
+
+The SMA call for standard proposals (2019A semester) is announced.
+The submission deadline is Mar. 8 (Fri.) 5 a.m. in Taiwan time.
+I would appreciate it if you could circulate it to TAN.
+
+Regards,
+Naomi
+
+> =E8=BB=A2=E9=80=81=E3=81=95=E3=82=8C=E3=81=9F=E3=83=A1=E3=83=83=E3=82=BB=
+=E3=83=BC=E3=82=B8:
+>=20
+> =E5=B7=AE=E5=87=BA=E4=BA=BA: Mark Gurwell <mgurwell@cfa.harvard.edu =
+<mailto:mgurwell@cfa.harvard.edu>>
+> =E4=BB=B6=E5=90=8D: Submillimeter Array (SMA) Call for Standard =
+Proposals
+> =E6=97=A5=E4=BB=98: 2019=E5=B9=B42=E6=9C=888=E6=97=A5 3:52:33 JST
+> =E5=AE=9B=E5=85=88: sma-newsletter <sma-newsletter@cfa.harvard.edu =
+<mailto:sma-newsletter@cfa.harvard.edu>>, cfa-wide =
+<cfa-wide@cfa.harvard.edu <mailto:cfa-wide@cfa.harvard.edu>>
+> CC: Patrick Koch <pmkoch@asiaa.sinica.edu.tw =
+<mailto:pmkoch@asiaa.sinica.edu.tw>>, Hirano Naomi =
+<hirano@asiaa.sinica.edu.tw <mailto:hirano@asiaa.sinica.edu.tw>>, Glen =
+Petitpas <gpetitpas@cfa.harvard.edu <mailto:gpetitpas@cfa.harvard.edu>>
+>=20
+> Dear Colleagues,
+>=20
+> The SMA is a reconfigurable interferometric array of eight 6-meter =
+antennas on Maunakea jointly built and operated by the Smithsonian =
+Astrophysical Observatory and the Academia Sinica Institute of Astronomy =
+and Astrophysics. The array operates in the 230, 345, and 400 GHz bands.
+>=20
+> We are happy to announce that we are now accepting Standard Proposals =
+for use of the Submillimeter Array (SMA).  The deadline for Standard =
+Proposals is 07 March 2019 at 21:00 GMT.
+>=20
+> The SMA has recently completed significant upgrades in observational =
+capability, with more under way. Currently, the SMA observes =
+simultaneously with two orthogonally polarized receivers, one in the 230 =
+GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with =
+full polarimetric observations available using the 230+240 GHz or =
+345+400 GHz combinations).
+>=20
+> The SWARM correlator processes 8 GHz bandwidth for each receiver in =
+each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. =
+This 32 GHz frequency coverage can be continuous where the tuning ranges =
+overlap for the two orthogonally polarized receivers. In short, the SMA =
+now provides flexible, wide band frequency coverage that delivers high =
+continuum sensitivity and excellent spectral line capabilities (at 140 =
+kHz spectral resolution).
+>=20
+> A full track offers continuum sensitivity of 200 or 600 micro-Jy (1 =
+sigma) at 230 or 345 GHz in good weather conditions (precipitable water =
+vapor 2.5 mm and 1.0 mm, respectively). The corresponding line =
+sensitivities at 1 km/s resolution are 35 and 80 mJy. The small antennas =
+allow access to low spatial frequencies in the subcompact configuration, =
+and at the other extreme, the finest angular resolution with the very =
+extended configuration at 345 GHz is ~0.25". The compact and extended =
+configurations complete the range.
+>=20
+> Thus, in some ways, the characteristics and performance of the SMA are =
+both similar and complementary to those of the standalone Atacama =
+Compact Array component of the Atacama Large Millimeter/submillimeter =
+Array. For more information about SMA capabilities, visit the SMA =
+Observer Center website <http://sma1.sma.hawaii.edu/status.html> and =
+explore the set of SMA proposing tools =
+<http://sma1.sma.hawaii.edu/tools.html>. Current and archived SMA =
+Newsletters <https://www.cfa.harvard.edu/sma/Newsletters/> available =
+online provide a sampling of the wide variety of science possible with =
+the SMA.
+>=20
+> For more details visit our General Proposal Information =
+<http://sma1.sma.hawaii.edu/proposing.html> webpage.  Please note that =
+the Large Scale program, with a proposal deadline of 13 Feb 2019, =
+required an NOI to be submitted in January. =20
+> Questions or comments regarding the call for standard proposals can be =
+addressed to sma-proposal@cfa.harvard.edu =
+<mailto:sma-proposal@cfa.harvard.edu>.
+>=20
+> Sincerely,
+>=20
+> Mark Gurwell
+> Incoming SMA TAC chair
+>=20
+>=20
+>=20
+> --=20
+> Mark Gurwell
+> Astrophysicist
+> Submillimeter Array
+> Center for Astrophysics | Harvard & Smithsonian
+>=20
+> Office: (617) 495 7292=20
+> 60 Garden Street | MS 42 | Cambridge, MA 02138
+>=20
+>=20
+>=20
+> cfa.harvard.edu <http://cfa.harvard.edu/> | Facebook =
+<http://cfa.harvard.edu/facebook> | Twitter =
+<http://cfa.harvard.edu/twitter> | YouTube =
+<http://cfa.harvard.edu/youtube> | Newsletter =
+<http://cfa.harvard.edu/newsletter>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

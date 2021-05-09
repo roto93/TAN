@@ -1,0 +1,387 @@
+From astro@iaa17.asiaa.sinica.edu.tw Sun Jun  5 17:56:25 2011
+Date: Sun, 5 Jun 2011 17:50:28 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue May 30 - Jun 05, 2011)
+
+============================================================================== 
+
+In this issue (May 30 - Jun 05, 2011)
+
+1. New 3-yr appointment of ASIAA director effective Sep 01, 2011
+2. Call for Observing Proposals for the LOT (corrected hyperlink; Jun 30)
+3. Summer School on Dark Energy (fwd)
+4. ALMA Proposal Submission Open & Science Verification Data Available 
+5. Taiwan Mock ALMA Proposal Review (Jun 10)
+6. ASIAA/NTU CCMS/NTU Physics Joint Colloquium (Jun 7):
+                              Hitoshi Murayama (IPMU & UC-Berkeley)
+7. ASIAA Colloquia and special seminars (Jun 10): Jack Sayers (Caltech)
+                              (Jun 08): Zuo-Min Tsai (NTU)
+                              (Jun 09): Paula Stella Teixeira (ESO)
+
+==============================================================================
+
+> Date: Thu, 2 Jun 2011 15:17:55 +0800   
+> From: "winny" <winny@asiaa.sinica.edu.tw>         
+> Subject: personnel announcement
+
+Dear All, 
+
+Official announcement from AS: 
+
+Dr. Paul T.P. Ho, Distinguished Research Fellow of the Institute of Astronomy and Astrophysics, has been appointed Director of the Institute for a three-year term, effective September 1, 2011. 
+
+http://newsletter.sinica.edu.tw/en/news/read_news.php?nid=2342 
+
+..
+
+cheers, 
+
+winny 
+
+_______________________________________________ 
+Iaa mailing list 
+Iaa@asiaa.sinica.edu.tw 
+
+==============================================================================
+
+> Date: Tue, 31 May 2011 11:34:16 +0800
+> Subject: Fwd: Call for Observing Proposals for the LOT
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Yi-Jehng
+
+Sorry the previous message contained a wrong link.  Please use this one
+istead.  Thanks.
+
+Wen Ping
+.........................................................................
+
+
+Lulin One-meter Telescope (LOT) =97 Call for Observing Proposals for 2011B
+
+Proposal Deadline =97 23:59 June 30, Thursday, 2011
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the
+semester of 2011B.  The new semester begins on August 1st, 2011 and ends
+on January 31st ,2012.
+
+Those interested in applying for observing time can download the
+proposal LaTex package from the web page:
+
+  http://www.astro.ncu.edu.tw/~wchen/lulinprop/lotprop.zip
+
+The completed proposal should contain the filled, compiled version of the
+LaTex file, plus up to two more pages of figures, tables, and references,
+as a single PDF file, and be submitted to the following email address:
+
+  tac_lulin@astro.ncu.edu.tw
+
+with a copy to me to avoid occasional erroneous delivery:
+
+  wchen@astro.ncu.edu.tw
+
+In addition to research proposals, we will also consider educational
+projects for
+advanced astronomical observation courses.  Time allocation will be
+announced by
+mid-July, 2011.
+
+There are two instruments available, the Lulin CCD Imager (LCI) and the
+Lulin
+Compact Spectrograph (LCS).   In 2011B an optical tri-color simultaneous
+imaging polarimeter
+may become online on a share-risk basis.  Those who would like to know more
+about
+the polarimeter should contact me.   You can follow this url to get
+information regarding
+the telescope and instruments,
+
+  http://www.lulin.ncu.edu.tw/lot/
+
+Feel free to direct inquiries about telescope/instrument/site to
+Mr Hung-Chin Lin, Manager of the Lulin Observatory, or about time requests
+to me (wchen@astro.ncu.edu.tw)
+
+Regards,
+Wen Ping Chen
+on behalf of the LOT Time Allocation Committee
+
+.............................................................................
+
+==============================================================================
+
+> Date: Wed, 1 Jun 2011 11:49:17 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: twhepnet@hepmail.phys.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>
+> cc: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> Subject: Summer School on Dark Energy (fwd)
+
+---------- Forwarded message ----------
+> Date: Wed, 01 Jun 2011 10:40:07 +0900
+> From: Jun'ichi Yokoyama <yokoyama@resceu.s.u-tokyo.ac.jp>
+> Subject: Summer School on Dark Energy
+
+Dear APCosPA colleagues:
+
+     As I announced before, we are planning to organize a summer school
+on dark energy in Kyushu island.  I would like to record it as one of the
+activities of APCosPA Organization.  Please forward the school website
+http://www.resceu.s.u-tokyo.ac.jp/workshops/resceu11s/index_e.php
+to your students or postdocs who may be interested in it.
+     We have some fund to support local expenses.  Registration will be 
+closed as soon as the number of participants has reached the capacity of 
+the venue. So please tell possible participants from your group to contact 
+me as soon as possible.
+
+     Best wishes,
+
+     Jun'ichi Yokoyama
+
+==============================================================================
+
+> Date: Thu, 2 Jun 2011 10:23:40 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+>         Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: [NRAO-Announcements] ALMA Proposal Submission Open & Science Verification Data Available 
+
+Here are the Announcements from NRAO about the ALMA Proposal Submission 
+and etc!
+
+Chin-Fei
+On belaf of TW ARC Node
+
+---------- Forwarded message ----------
+> Date: Wed, 1 Jun 2011 17:43:03 -0400
+> From: Mark Adams <mtadams@nrao.edu>
+> To: "Nrao-announcements@nrao.edu" <Nrao-announcements@nrao.edu>
+> Subject: [NRAO-Announcements] ALMA Proposal Submission Open & Science Verification Data Available
+
+Dear Colleagues,
+
+The Joint ALMA Observatory (JAO) has announced that the ALMA Science 
+Archive is now open for the submission of Cycle 0 Early Science observing 
+proposals until the submission deadline at 15h UT/11h EDT/08h PDT on 
+Thursday, June 30, 2011.
+
+Proposers are reminded that all proposals must be submitted to the Science 
+Archive using the ALMA Observing Tool, and that all PIs and co-Is must be 
+registered at the ALMA Science Portal.
+
+Additional information regarding ALMA Early Science proposals, the 
+Observing Tool, and the proposal submission process is available via the 
+ALMA Science Portal at http://www.almascience.org
+
+The JAO has also announced the availability of the first 2 ALMA Science 
+Verification datasets:
+
+(1) The protoplanetary disk source TW Hya at Band 7 (0.87 mm), with high 
+spectral resolution; and
+
+(2) The galaxy merger NGC 3256 at Band 3 (3 mm), with low spectral 
+resolution.
+
+These datasets demonstrate the very early capabilities of ALMA. They were 
+observed before 10 ALMA antennas were available and while many of the 
+subsystems were still being tested, so they should not be construed to 
+represent the data quality for Early Science. These datasets are provided 
+now to enable the user community to become acquainted with the ALMA data 
+structure, observing strategies, and data reduction techniques.
+
+Additional information regarding the Science Verification Data is 
+available via the "ALMA Data" tab at the ALMA Science Portal.
+
+------------------------------------------------------------------------------
+_______________________________________________
+Nrao-announcements mailing list
+http://listmgr.cv.nrao.edu/mailman/listinfo/nrao-announcements
+
+==============================================================================
+
+> Date: Thu, 2 Jun 2011 13:30:33 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Taiwan Mock ALMA Proposal Review - Deadline: June 10th
+
+Dear Colleagues,
+
+With the ALMA proposal deadline on 06/30 fast approaching, prospective users
+should get their proposals prepared now. As noted at the recent ALMA user
+workshop on 05/21, the ARC Taiwan node will hold a mock ALMA proposal
+review.
+
+Recent SMA proposal statistics have shown alarming messages about the
+quality of proposals from on-island investigators, and as noted in
+the user workshop, the competition of ALMA early science cycle 0 will
+be extremely high (with a oversubscription rate possibly exceeding
+10!). Thus, only very well-prepared proposals will succeed.
+
+Proposals fail sometimes due to 1) unclear science questions or goals and/or
+poorly designed experimenting methods/approaches, but also often due to 2)
+poor writing or last minute compilation. The purpose of this review is to
+improve the quality of ALMA-T proposals for better success rate by enforcing
+potential users to prepare the proposals early, thus, to at least eliminate
+the last minute writing and to further sharpen the science ideas.
+
+This mock review is open to all Taiwanese users including the ones outside
+of ASIAA. The proposal submission deadline is 2011.06.10. Full proposal,
+including scientific and technical justification, figures and tables, is
+required to submit to arc@asiaa.sinica.edu.tw in pdf format. Technical
+assessment will be carried out by the Taiwan ARC staff. Scientific review
+will be conducted through paper by a review panel, including Naomi Hirano,
+Shih-Ping Lai, Wei-Hao Wang, Kazushi Sakamoto, and Ciska Kemper.
+
+Technical and scientific review comments will feedback to the PIs through
+email a week afterwards on 2011.06.17. Face-to-face discussion with the ARC
+staff or review panel members may be considered and arranged. PIs can
+incorporate these comments into proposal revision before "true" submission.
+
+Here is the link to the webpage of that annoucement:
+http://alma.asiaa.sinica.edu.tw/tw_mock.php
+
+and any update will be posted there.
+
+Best Regards,
+Chin-Fei
+On behalf of TW ARC Node.
+
+==============================================================================
+
+> Date: Fri, 3 Jun 2011 04:13:56 +0000
+> Subject: ASIAA/NTU CCMS/NTU Physics Joint Colloquium, June 7
+> From: Chien-Fu Liu <chienfuliu@gmail.com>
+> To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+>         ithuang@phys.sinica.edu.tw, mathas@math.sinica.edu.tw,
+>         whchen@gate.sinica.edu.tw, tofaculty@phys.ntu.edu.tw,
+>         demihuang@ms.ntu-ccms.ntu.edu.tw, iaa@asiaa.sinica.edu.tw,
+>         astro@asiaa.sinica.edu.tw, Jiunn-Wei Chen <jwc@phys.ntu.edu.tw>,
+>         Chih-Wei Chang <cwchang137@ntu.edu.tw>,
+>         Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+
+
+Dear Colleagues,
+
+The NTU Physics Department, NTU Center for Condensed Matter Science, and th=
+e
+Academia Sinica Institute of Astronomy and Astrophysics invite everyone to
+our joint colloquium series. The speakers are all famous international
+scholars and the colloquia are aiming at a broad audience, including
+undergraduate students. Below is the information of the talk on June 7
+(Tuesday). Please help to forward this to the colleagues in your
+departments.
+
+Best Regards,
+Jiunn-Wei Chen (NTU Physics)
+Chih-Wei Chang (NTU CCMS)
+Wei-Hao Wang (ASIAA)
+
+_______________________________________________________
+Speaker:  Hitoshi Murayama, IPMU and UC Berkeley
+Topic: Quantum Universe
+Time: 6/7 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCM-New Physics Building
+
+Abstract: What is the Universe made of? How did it come to be? Why do we
+exist? This kind of fundamental questions about the Universe used to be jus=
+t
+philosophy, but are now coming into the realm of quantitative science. The
+key is in quantum physics of elementary particles that determined the
+evolution of the Universe when it was very young. I will discuss this
+amazing connection between the large (the Universe) and the tiny (elementar=
+y
+particles), in the context of current and forthcoming experiments.
+ Brief Bio: =B4=E5=C9=BD=94=C5=BD=CC=CA=DA (Professor Hitoshi Murayama) =AC=
+F=C8=CEUC
+Berkeley=CE=EF=C0=ED=CF=B5=B5=C4=BD=CC=CA=DA=A3=AC=CD=AC=95r=D2=B2=CA=C7=96=
+|=BE=A9=B4=F3=8CW=B5=C4=94=B5=CE=EF=DFB=94y=D3=EE=D6=E6=D1=D0=BE=BF=99C=98=
+=8B
+(Institute for the Physics and Mathematics of the Universe) =B5=C4=D6=F7=C8=
+=CE=A1=A3=D4=F8=AB@Nishinomiya
+Yukawa Commemoration Prize in Theoretical Physics, =C3=C0=87=F8=CE=EF=C0=ED=
+=85f=95=FE (APS)
+fellow=A1=A2=C6=D5=C1=D6=CB=B9=EED=B8=DF=B5=C8=D1=D0=BE=BF=D4=BA
+(Institute for Advanced Study, Princeton)
+=D7=D4=C8=BB=BF=C6=8CW=D4=BA=B5=C4=95=FE=86T=B5=C8=8CW=D0g=98s=D7u=A1=A3=B4=
+=E5=C9=BD=BD=CC=CA=DA=CA=C7=BB=F9=B1=BE=C1=A3=D7=D3=CE=EF=C0=ED=A1=A2=D3=EE=
+=D6=E6=8CW=B5=C8=EEI=D3=F2=B5=C4=8C=A3=BC=D2=A3=AC=DF@=B4=CE=B5=C4=D1=DD=D6=
+v=D5=FD=CA=C7=EAP=EC=B6=83=C9=D5=DF=A3=A8=B4=F3=D3=EE=D6=E6=BA=CD=D0=A1=C1=
+=A3=D7=D3=A3=A9=D6=AE=E9g=B5=C4=EAP=82S=A3=AC=C4=FA=C7=A7=C8f=B2=BB=BF=C9=
+=E5e=DF^=A1=A3
+
+For more information please see:
+http://web.phys.ntu.edu.tw/jwc/2011_Spring_colloquia/Joint%20colloquia.html
+
+==============================================================================
+
+> Date: Sun, 5 Jun 2011 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Dr. Jack Sayers (Caltech)
+Topic:		Extra-galactic science from the Caltech Submm Observatory: massive galaxy clusters and high-redshift galaxies
+Time:		6/10 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+Abstract:
+As the largest gravitationally bound objects in the universe, clusters are
+ideally suited for astrophysical and cosmological studies. I will present
+results from our ongoing program which has imaged the Sunyaev-Zel'dovich
+(SZ) effect in ~40 massive galaxy clusters with Bolocam. The SZ effect is
+sensitive to the integrated pressure in the intra-cluster medium (ICM),
+which contains ~90% of the baryonic mass of the cluster. Our data are able
+to constrain the morphology of the ICM, and to measure the pressure beyond
+the cluster virial radius. These clusters all have deep ancillary data
+(X-ray, lensing, etc.), and will allow us to probe for non-gravitational
+physics and to calibrate mass-observable scaling relations for use in
+cosmological studies. Bolocam's successor, MUSIC, will be deployed in late
+2011 and will allow us to image clusters 10 times faster compared to
+Bolocam. MUSIC will also survey 10s of square degrees for dusty
+star-forming galaxies at high redshift, and will discover 100s of galaxies
+at z>3.
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________ 
+Speaker:	Prof. Hitoshi Murayama (UC Berkeley/IPMU)
+Topic:		Quantum Universe
+Time:		6/7 (Tuesday) 14:20 - 15:20
+Place:		ASMAB R104 Physics/Condensed Matter Building
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:	Dr. Zuo-Min Tsai (NTU)
+Topic:		Applications of pHEMT Cascode Devices on ALMA Receiver
+Time:		6/8 (Wednesday) 14:00 - 15:00
+Place:		ASMAB R1203
+
+____________________________________________________ 
+Speaker:	Dr. Paula Stella Teixeira (ESO)
+Topic:		NGC2264: a veritable treasure trove for pre-main sequence circumstellar disk studies
+Time:		6/9 (Thursday) 14:00 - 15:00
+Place:		ASMAB R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

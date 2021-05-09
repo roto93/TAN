@@ -1,0 +1,170 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Tue Jan  3 21:14:13 2006
+Date: Wed, 28 Dec 2005 17:20:50 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue December 22 - 28, 2005)
+
+==============================================================================
+
+In this issue (December 22 - 28, 2005)
+
+1. A notice from TAN
+2. Sokendai Asia Winter School 2005 on numerical MHD simulations 
+
+==============================================================================
+
+Dear TAN subscribers,
+
+This issue of TAN is a re-sent of the earlier issue (Dec 22-26)
+because of a mail server problem occurred at ASIAA. I apologize
+if you have already received this TAN message yesterday. Also,
+if you had sent in emails to TAN for announcement on Dec 25-27
+(Sunday-Tuesday), please resend it to TAN as they probably got
+lost.  Sorry for the trouble.
+
+Yi-Jehng Kuan
+TAN administrator
+
+==============================================================================
+
+> Date: Fri, 23 Dec 2005 09:46:41 +0800
+> From: Yuan Chi <yuan@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: [Fwd: Winter school]
+
+Please announce it.
+
+-------- Original Message --------
+> Subject: 	Winter school
+> Date: 	Thu, 22 Dec 2005 17:19:11 +0900
+> From: 	Machida Masahiro <machidam@scphys.kyoto-u.ac.jp>
+> To: 	yuan@asiaa.sinica.edu.tw
+
+
+Dear Prof. Chi Yuan
+
+Thanking you for your kind assistance during staying Taiwan.
+
+I was requested by Prof. Hanawa (Chiba Univ.) about 
+informing you of ``Winter School.'' This is the school 
+intended for the student and Postdoc. In this school, 
+it is focused especially on numerical MHD simulations 
+methods. Could you inform your students of this school?
+When your students attend this school, the travel and 
+living expenses are supported.
+
+Sincerely,
+
+Masahiro Machida
+-----------------------------------------
+Theoretical Astrophysics Group
+Department of Physics, Kyoto University
+Kyoto 606-8502, Japan
+PHONE: +81-75-753-3885
+FAX: +81-75-753-3886
+Email：machidam@scphys.kyoto-u.ac.jp
+-----------------------------------------
+
+-------------------------------------------------------------------------
+
+Sokendai Asia Winter School 2005
+
+Dear Colleagues,
+
+This is a notice of a winter school on numerical astrophysics, which is held 
+in March, 2006.  It is focused especially on numerical MHD simulations and 
+covers subjects from physical characteristics of MHD equations to numerical 
+calculations and their visualizations.  This is a joint program of School 
+of Physical Sciences, Graduate University of Advanced Studies (SOKENDAI), 
+National Astronomical Observatory of Japan, and School of Science and Technology,
+Chiba University.  
+
+DATE: March 13 (Monday) - 17 (Friday), 2006
+PLACE: Chiba University (Lecture begins 11AM of March 13.)
+ 
+Lectures will be given on (a) hydrodynamics, (b) finite-difference 
+scheme, and (c) upwind schemes all of which cover magnetohydrodynamics.  
+These are coupled with laboratory works in which students will be asked 
+to write a code and analyze or visualize numerical data.  Lecturers/instructors
+will be Tomoyuki Hanawa (Chiba U.), Ryoji Matsumoto (Chiba U.), 
+Kazunari Shibata (Kyoto U.), Takaaki Yokoyama (U. Tokyo), D.-S. Ryu 
+(Chungnam Nat. U.), and Kohji Tomisaka (NAOJ).  Beside the above fundamental 
+lectures, there are topical lectures on the present status of the numerical 
+astrophysics and numerical computational methods.  
+
+Prerequisite for students is a basic knowledge of fluid dynamics.  
+Knowledges of basic unix commands is preferable and students should be familiar
+with at least one of the computer languages, fortran or c.  
+
+If you are interested in attending the winter school, send 
+(1) an application form attached to this notice 
+and (if you are a graduate student or postdoc) 
+(2) a recommendation letter from your adviser. 
+These must be reached no later than January 10, 2006 by
+astro_school@th.nao.ac.jp. 
+
+We encourage attendance from outside of Japan.  A number of such students 
+can be supported for travel and living expenses in Japan.  However,
+due to the condition of our budget, I would like to remind you this must be 
+limited.
+
+We are going to book hotel rooms for attendants from abroad. 
+The rate will be 6000 yen / night for a single room.
+ 
+Please check whether you need a visa to enter Japan or not.
+Ask your nearest Japanese diplomatic mission.  Homepage of Ministry of Foreign
+Affairs of Japan is found from http://www.mofa.go.jp/j_info/visit/visa/index.html.
+
+Homepage of the winter school will be found from 
+http://yso.mtk.nao.ac.jp/winter_school/astro.html
+ 
+----- Application Form to Winter School on Numerical Astrophysics -----
+                                   *)Deadline of this application is 
+                                     January 10, 2006.
+(1)  Last Name:
+(2)  First Name:
+(3)  University:
+(4)  Department/Faculty:
+(5)  Postal Address:
+(6)  Country: 
+(7)  E-mail:
+(8)  Fax:
+(9)  Select one (Graduate Student, Postdoc, other)
+(10) Do you need to apply a visa to enter Japan? (Yes   No)
+     if yes, to make a formal invitation letter, give us (a) your nationality, 
+     (b) occupation, (c) date of birth, and (d) age.  if Chinese, show us 
+     (e) your name in chinese characters beside alphabet.  And (f) your plan of
+     flights (date/flight number/route).     
+(11) Do you need travel support from the organizer?  
+(12) If you are a graduate student or postdoc, describe how you will make
+     good use of this school in your research plan.
+(13) Request for lodging,
+      Date of Arrival:
+      Date of Departure:
+(14) Would you attend a bear party (fee=3000yen) in the evening of March 13 ? 
+     (Yes   No)
+
+========
+Kohji Tomisaka
+Theoretical Astrophysics Division  Fax:+81-422-34-3746
+National Astronomical Observatory  Tel:+81-422-34-3732
+Mitaka, Tokyo 181-8588, JAPAN      e-mail:tomisaka@th.nao.ac.jp
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

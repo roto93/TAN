@@ -1,0 +1,48 @@
+==============================================================================
+
+Date: Fri, 11 Dec 2020 20:52:41 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: [CAG seminar] 18/Dec/2020 12:20 B101
+
+Dear all,
+
+Next Friday (Dec 18) our CAG seminar will be given by Joshua Yao-Yu Lin.
+He will share with us how to apply machine learning technique to black
+hole imaging. If you wish to order lunchbox, please reserve [1] before
+Thursday noon.
+
+Best,
+
+Yueh-Ning
+
+-----------------------------------------------------------------------------
+Speaker: Joshua Yao-Yu Lin (UIUC)
+Time: 12:20 pm, 2020 Dec. 18
+Venue: B101
+
+Title: Feature Extraction on Synthetic Black Hole Images with Neural
+Networks
+
+Abstract: The Event Horizon Telescope (EHT) recently released the first
+horizon-scale images of the black hole in M87. Combined with other
+astronomical data, these images constrain the mass and spin of the black
+hole as well as the accretion rate and magnetic flux trapped on the
+black hole. An important question for EHT is how well key parameters
+such as spin and trapped magnetic flux can be extracted from present and
+future EHT data alone. Here we explore parameter extraction using a
+neural network trained on high resolution synthetic images drawn from
+state-of-the-art simulations. We find that the neural network is able to
+recover spin and flux with high accuracy. We are particularly interested
+in interpreting the neural network output and understanding which
+features are used to identify, e.g., black hole spin. Using feature
+maps, we find that the network keys on low surface brightness features
+in particular.
+
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+Links:
+------
+[1] https://forms.gle/XHFgXVPaYKSfLbqT6
+
+==============================================================================

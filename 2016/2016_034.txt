@@ -1,0 +1,45 @@
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Announcement: ALMA Users Workshop 2016 for Cycle 4 Proposal Call
+> Date: Fri, 19 Feb 2016 11:53:58 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>     alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+Dear potential ALMA users,
+
+ALMA will issue its Cycle 4 Proposal Call on March 22. In response to that, Taiwan ARC node will hold two days ALMA User Workshop jointly with tuCASA on March 19 and 26 (Saturday).  Below is the announcement:
+
+        ALMA Users Workshop 2016
+        Time: March 19 and 26, 2016
+        Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+        URL: http://events.asiaa.sinica.edu.tw/workshop/20160319/
+        Registration Deadline: March 11, 2016.
+
+
+        The ALMA Regional Center (Taiwan-ARC) of ASIAA and the UCAT Center for ALMA Science Advancement (tuCASA) of the University Consortium of ALMA-Taiwan (UCAT) are pleased to host jointly a two-day ALMA User Workshop for potential ALMA users in Taiwan on March 19 and 26, 2016. New users are strongly encouraged to attend the lectures on the first day.
+
+The call for proposal for ALMA Cycle 4 will be issued on March 22, 2016. The ALMA User Workshop 2016 is designed for introducing ALMA science and preparing ALMA Cycle 4 proposals. It is intended for graduate students, postdocs, faculty members and people who are interested in observing with ALMA. The deadline for registration is March 11, 2016 (Friday).
+
+The program of the ALMA User Workshop 2016 includes:
+
+        - March 19, 2016
+                ALMA science
+                Basics of (sub)mm interferometry
+                 CASA image simulation
+
+        - March 26, 2016
+                ALMA Cycle 4 capability
+                ALMA ACA stand alone/polarization/VLBI-ALMA observation
+                Suggestions of ALMA proposal preparation
+                Observing Tool
+
+As previous cycles, proposal mock review will be offered and will be announced separately.
+
+Please install the latest version of CASA and OT BEFORE the workshop. Feel free to ask ARC members for help if there is any difficulty during the installation.
+
+
+Best,
+Yu-Nung
+On behalf of Taiwan ARC node
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

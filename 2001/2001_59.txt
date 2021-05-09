@@ -1,0 +1,2288 @@
+
+
+
+From sophie@asiaa.sinica.edu.tw Thu Mar 15 09:22 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA28097
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 15 Mar 2001 09:22:31 +0800 (CST)
+Received: from sophie ([140.109.176.52])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id JAA09847
+	for <astro@asiaa.sinica.edu.tw>; Thu, 15 Mar 2001 09:55:47 +0800
+Message-ID: <004001c0acf1$e6050b80$34b06d8c@asiaa.sinica.edu.tw>
+From: "Sophie, ASIAA" <sophie@asiaa.sinica.edu.tw>
+To: "TANet" <astro@asiaa.sinica.edu.tw>
+Subject: Fw: Star Cluster Newsletter - SCYON
+Date: Thu, 15 Mar 2001 09:47:30 +0800
+MIME-Version: 1.0
+	charset="big5"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Content-Type: text/plain;
+	charset="big5"
+Content-Length: 85089
+
+
+----- Original Message -----
+From: Newsletter Scyon @null Christian Boily <scyon@ari.uni-heidelberg.de>
+To: <kyl@asiaa.sinica.edu.tw>
+Sent: Thursday, March 15, 2001 7:47 AM
+Subject: Star Cluster Newsletter - SCYON
+
+
+>
+> %========================================================================
+> %      S C Y O N -  A Newsletter devoted to Star Clusters, Young & Old
+> %
+> %   edited by  Christian Boily,  Pavel Kroupa and Jean-Claude Mermilliod
+> %
+> %          URL   http://www.rzuser.uni-heidelberg.de/~s17/scyon
+> %          email      SCYON@ari.uni-heidelberg.de
+> %========================================================================
+> %
+> % The most recent issue of SCYON is appended to this mail in LaTeX format
+>
+> % (if you received this message twice - apologies. send us a note and we
+> % will change our database. likewise if you wish to be removed from the
+list)
+> %
+===========================================================================
+>
+> \documentstyle[11pt]{article}
+>
+> \pagestyle{myheadings}
+>
+> \textheight=23cm
+> % \headheight=0pt
+> % \headsep=0pt
+> \topmargin=0in
+> \footheight=0.5in
+> \textwidth=17cm
+> \oddsidemargin=-0.5cm
+> \pagenumbering{arabic}
+>
+>
+> %========================================================================
+> % If you use any special macros, please include them here:
+> % AAS MACRO DEFINITIONS
+>
+> \def\sun{\hbox{$\odot$}}
+> \def\earth{\hbox{$\oplus$}}
+>
+\def\lesssim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$<$}}}
+}
+>
+\def\gtrsim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$>$}}}}
+> \def\sq{\hbox{\rlap{$\sqcap$}$\sqcup$}}
+> \def\arcdeg{\hbox{$^\circ$}}
+> \def\arcmin{\hbox{$^\prime$}}
+> \def\arcsec{\hbox{$^{\prime\prime}$}}
+> \def\fd{\hbox{$.\!\!^{\rm d}$}}
+> \def\fh{\hbox{$.\!\!^{\rm h}$}}
+> \def\fm{\hbox{$.\!\!^{\rm m}$}}
+> \def\fs{\hbox{$.\!\!^{\rm s}$}}
+> \def\fdg{\hbox{$.\!\!^\circ$}}
+> \def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+> \def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+> \def\fp{\hbox{$.\!\!^{\scriptscriptstyle\rm p}$}}
+> \def\micron{\hbox{$\mu$m}}
+> \let\la=\lesssim
+> \let\ga=\gtrsim
+> \def\case#1#2{\hbox{$\frac{#1}{#2}$}}
+> \def\slantfrac#1#2{\hbox{$\,^#1\!/_#2$}}
+> \def\onehalf{\slantfrac{1}{2}}
+> \def\onethird{\slantfrac{1}{3}}
+> \def\twothirds{\slantfrac{2}{3}}
+> \def\onequarter{\slantfrac{1}{4}}
+> \def\threequarters{\slantfrac{3}{4}}
+> \def\ubvr{\hbox{$U\!BV\!R$}}
+> \def\ub{\hbox{$U\!-\!B$}}
+> \def\bv{\hbox{$B\!-\!V$}}
+> \def\vr{\hbox{$V\!-\!R$}}
+> \def\ur{\hbox{$U\!-\!R$}}
+> \def\ion#1#2{#1$\;${\small\rm\@Roman{#2}}\relax}
+> \def\nodata{ ~$\cdots$~ }
+>
+> % ADDITIONAL MACRO DEFINITIONS
+>
+> \def\msol{\ifmmode M_\odot\else$M_\odot$\fi}
+> \newcommand{\kms}{km\thinspace s$^{-1}$}
+>
+> %========================================================================
+>
+> \begin{document}
+>
+> %========================================================================
+>
+> \thispagestyle{empty}
+>
+> \noindent$\mbox{}$  \vspace{-2cm} \\
+> \rule{\textwidth}{1mm}\par
+> \begin{center}
+> {\Huge\bf $\mathcal{S\,C\,Y\,O\,N}$ \hspace{0.3in}}
+> \\
+> \bigskip
+> {\huge \it The Star Clusters Young \& Old   Newsletter}
+> \\
+> \bigskip
+> {\Large edited by  Christian Boily,  Pavel Kroupa and Jean-Claude
+Mermilliod }
+> \\
+> \ \\
+> {\sc SCYON } can be found at URL:
+> \\
+>
+> {\tt http://www.rzuser.uni-heidelberg.de/$\sim$s17/scyon }
+>
+> \bigskip
+> \typeout{}
+> % \typeout{Which issue number is this ? (change tex file if needed)}
+> {\Large \it Issue No. 2 \hfill % \typein\ \hfill
+> % \typeout{What is the date? e.g. 10 January 2001}
+> % \typein \ }
+> 14 March 2001 \ }
+> \\
+> \hrulefill
+> \\
+> \vspace*{-3mm}
+> \hrulefill
+> \end{center}
+>
+> %========================================================================
+>
+> \bigskip
+> \bigskip\noindent
+> {\LARGE \bf EDITORIAL}
+>
+> \bigskip
+> \noindent
+>
+>
+>   This is the second issue of the newsletter. We have received some 23
+>   contributions for this issue, including the first job announcement.
+>   SCYON is distributed world-wide to the star-cluster community, with a
+>   mailing list now exceeding 610 addresses, so
+>   maximum visibility of the abstracts is ensured.
+>
+>   After a somewhat chaotic start, we are slowly moving toward a
+>   mechanical processing of the input data. Due to a misunderstanding on
+>  our part, we are reposting two contributions from R. Capuzzo-Dolcetta
+>  from issue number 1 (10 January 2001), here and on the web site.
+> The latex template (version
+>   1.1) has been simplified to avoid errors at compilation. A few changes
+>   have also been made after suggestions made to us for which we are very
+>   thankful.  We found out that most contributions are still submitted by
+>   email, although a fair fraction are now processed by direct
+>   web download. We again encourage use of the web download, because this
+>   ensures that the  abstracts appear both in the electronic version sent
+>    out by email, as well as  automatically at the web site as
+>   they come in. Abstracts received by email must be converted to html
+>   before they can be posted at the web site.
+>
+>   We thank all those of you who have reported problems to us with the
+>   templates and web site. This is taxing on ones patience, no doubt,
+>   however we aim at improving the service, and your input plays an
+>   important r\^ole in the process.
+>
+> \bigskip
+> \begin{flushright}
+> Christian Boily, Pavel Kroupa and Jean-Claude Mermilliod
+\end{flushright}\par
+>
+> \smallskip \noindent \dotfill \smallskip
+> %========================================================================
+>
+> \section*{{\LARGE \bf CONTENTS}}
+>
+> \noindent
+> Editorial \dotfill 1 \\
+> SCYON policy \dotfill \pageref{page:policy} \\
+> Mirror sites \dotfill \pageref{page:mirrors} \\
+> Abstract from/submitted to  REFEREED JOURNALS
+\dotfill\pageref{page:refereed.journals}\\
+> Abstracts  of CONFERENCE PROCEEDINGS \dotfill\pageref{page:conferences}\\
+> Ph.D. (dissertation) summaries \dotfill\pageref{page:phd.summaries} \\
+> Jobs\dotfill\pageref{page:jobs}\\
+> Conference /
+announcements\dotfill\pageref{page:conference.announcements}\\
+>
+> \par \noindent \hrulefill \par \vspace*{-3mm} \noindent \hrulefill
+\newline
+>
+> %========================================================================
+>
+> \section*{{\LARGE \bf SCYON POLICY}}
+> \label{page:policy}
+> %========================================================================
+>
+>
+>        The {\sc SCYON} Newsletter publishes abstracts from any area in
+astronomy which are relevant to research on star clusters. We welcome all
+>        contributions. Topics to be covered include
+>
+> \begin{enumerate}
+>            \item Abstracts from refereed articles
+>            \item Abstracts from conference proceedings
+>            \item PhD summaries
+>            \item General announcements : Conferences, new databases, and
+the likes.
+> \end{enumerate}
+>
+>        Concerning possible infringements to copyright laws, we understand
+that the authors themselves are taking responsibility for the
+>        material they send us. We make no claim whatsoever to owning the
+material that is posted at our url or circulated by email. The
+>        newsletter SCYON is a free, no-strings-attached service. It does
+not substitute for our personal opinions, nor does it reflect in any way
+>        the views of our respective institutes of affiliations. \newline
+>
+>
+> {\sc SCYON} will be published initially
+> once every two months. If the number of contributions justifies
+> monthly instalments, we will move toward more frequent issues in order to
+> keep the newsletter relatively short, manageable for us, and up-to-date.
+>
+>
+>        Conference and journal abstracts can be submitted
+> at any time either by web
+>        download, or failing this, we also accept abstracts
+> typeset using the latest latex abstract template (available from the {\sc
+SCYON} webpage).
+> We much prefer contributors to use the direct download form, since it is
+mostly automated. Abstracts will normally appear on the website as soon as
+they are submitted  to us. Other contributions, such as PhD summaries,
+> should be sent to us using the LaTeX template.
+>
+>   All abstracts/contributions will be processed, but we
+> reserve the right to not post abstracts submitted in the wrong
+>        format or which don't compile. Authors are warned! If you
+experience any sort of problems accessing the web site, or with the LaTeX
+template,
+> please  write to us.
+>
+>        A ``Call for abstracts'' is sent out approximately one week before
+the next issue of the newsletter is finalised. This ``call'' contains the
+>        deadline for abstract submissions for that coming issue and the
+LaTeX abstract template.
+> \newline
+>
+>        Depending on circumstances, the editors might actively solicit
+contributions, usually those spotted on a preprint server, but they do not
+>        publish abstracts without the author's consent.
+>
+>        We implicitly encourage further dissemination of the letter to
+institutes and astronomers who may benefit from it.
+>
+> \bigskip
+> \begin{flushright} The editors \end{flushright}
+>
+> \noindent
+> \hrulefill
+>
+> %========================================================================
+> \section*{{\LARGE \bf SCYON'S Mirrors ... } }
+> \label{page:mirrors}
+> %========================================================================
+>
+> \medskip There are at present NO mirror site. Offers welcome!
+>
+> \par \noindent \hrulefill \par \vspace*{-3mm} \noindent \hrulefill
+\newline
+>
+> %========================================================================
+> \newpage
+> \markboth{\hfill\Large \bf \fbox{ABSTRACTS FROM REFEREED
+JOURNALS}\hfill}{\Large \bf\hfill \fbox{ABSTRACTS FROM REFEREED
+JOURNALS}\hfill}
+> \label{page:refereed.journals}
+>
+>
+> %========================================================================
+>
+>
+> \begin{center} {\Large\bf
+>    The Metal-rich Globular Cluster NGC 6553: Observations with WFPC2,
+STIS, and NICMOS
+> }\end{center}
+> \begin{center} {\bf
+> Sylvie F. Beaulieu$^1$, Gerard Gilmore$^1$, Rebecca A.W. Elson$^1$, Rachel
+A. Johnson$^1$, Basilio Santiago$^2$, Steinn Sigurdsson$^3$, Nial Tanvir$^4$
+> }
+> \\ {\footnotesize
+> %
+> $^1$ IoA, Cambridge,
+> $^2$ IdF, Brasil,
+> $^3$ PSU, $^4$ Herts
+> %
+> }\end{center}
+> \par
+> \medskip
+> We present a HST study of the metal-rich globular cluster NGC 6553
+> using WFPC2, NICMOS and STIS. Our primary motivation is to calibrate
+> the STIS broad-band LP magnitude against V$_{555}$ and I$_{814}$
+> magnitudes for stars of known metallicity and absolute (visual)
+> magnitude, for application to our study of LMC globular clusters.
+> NGC 6553 has been shown in earlier studies to have a very unusual
+> colour-magnitude diagram, so we also use our data to investigate
+> the reddening, distance, luminosity function and structure of this
+> cluster. We deduce a higher metallicity and smaller distance
+> modulus than did some previous studies, but emphasise that very
+> large patchy extinction on small angular scales prohibits accurate
+> determination of the parameters of this cluster. The horizontal
+> branch of NGC 6553 in ($V,V-I$) is tilted at an angle close to that
+> of the reddening vector. We show that extinction does not, however,
+> explain the tilt, which is presumably a metallicity effect. The
+> colour-magnitude diagram shows an apparent second turnoff some
+> 1.5 magnitudes fainter than that of the cluster. We show that
+> this is most likely the background Galactic bulge: however, in that
+> case, the colour-magnitude diagram of NGC 6553 is not a good match to
+> that of the field bulge population. The cluster is probably more
+> metal-rich than is the mean field bulge star.
+>
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> {\bf   % (Delete as appropriate)
+>        Accepted by Astronomical Journal}
+> % Then write on this line ...
+> \\
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> %{\bf To appear in the proceedings of the conference/workshop }
+> %     .... ,
+> %     held in ... dd/mm -- dd/mm/year,
+> %     Publisher's name   % eg PASP, Springer Verlag, etc ..
+> %     ed. ... , ... \& ...
+> %  \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> %{\bf Other useful information not covered in the fields above ... } \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }  {\tt beaulieu@uvastro.phys.uvic.ca  }\\
+> % {\it Also available from the URL\, }  {\tt   http://}\\
+> % {\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+> \begin{center} {\Large\bf
+> Deep VLT search for globular clusters in NGC 5128:
+> color-magnitude diagrams and globular cluster luminosity function
+>
+> }\end{center}
+> \begin{center} {\bf
+>      Marina Rejkuba$^{1,2}$
+> }
+> \\ {\footnotesize
+> %
+> $^1$ ESO, Garching bei M\"unchen, Germany \\
+> $^2$ PUC, Casilla 306, 22 Santiago, Chile\\
+> %
+> }\end{center}
+> \par
+> \medskip
+> At the distance of NGC 5128 (3.6 $\pm$ 0.2 Mpc) it is possible to resolve
+globular clusters
+> with high resolution imaging from the ground, thus allowing the globular
+cluster candidate selection primarily
+> through their morphological properties. I report the discovery of 71
+globular clusters in
+> NGC 5128 on VLT UT1+FORS1 images, including the faintest members
+(M$_{\mbox{V}}$ $\sim$ -5) known to date in
+> this galaxy as well as 5 previously known clusters.
+>
+> U- and V-band photometry has been measured for all the candidates and the
+luminosity function, spanning
+> -10.1 $<$ M$_{\mbox{V}}$ $<$ -4.9 and -9.3 $<$ M$_{\mbox{U}}$ $<$ -3.3,
+constructed.
+> These are the deepest globular cluster luminosity functions in an
+elliptical galaxy determined so far.
+> The Kolmogorov-Smirnov statistics show that the difference between the
+globular cluster luminosity functions
+> of NGC 5128 and the MW is not larger than the difference between the ones
+of M31 and the MW.
+> The (U-V)$_O$ color histogram shows a bimodal distribution.
+>
+> For 23 globular clusters I obtained K-band images with SOFI at the NTT in
+La Silla. Their positions
+> in the (U-V) vs. (V-K) color-color diagram indicate that they are indeed
+old globular clusters.
+> Assuming that the globular clusters in NGC 5128 span a similar age range
+as the ones in the Milky Way
+> and adopting a linear fit between the metallicity and (U-V)$_O$ color, the
+metal-rich clusters
+> peak at [Fe/H] = -0.6 dex and the metal-poor ones peak at [Fe/H] = -1.7
+dex.
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> {\bf   % (Delete as appropriate)
+>        Accepted by Astronomy \& Astrophysics}
+> % Then write on this line ...
+> \\
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> %{\bf To appear in the proceedings of the conference/workshop }
+> %     .... ,
+> %     held in ... dd/mm -- dd/mm/year,
+> %     Publisher's name   % eg PASP, Springer Verlag, etc ..
+> %     ed. ... , ... \& ...
+> %  \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> %{\bf Other useful information not covered in the fields above ... } \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }  {\tt mrejkuba@eso.org  }\\
+> % {\it Also available from the URL\, }  {\tt   http://}\\
+> %{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+> \begin{center} {\Large\bf
+>    Near-Infrared Photometric Variability of Stars Toward the
+>    Orion A Molecular Cloud
+> }\end{center}
+> \begin{center} {\bf
+>      John M. Carpenter$^1$, Lynne A. Hillenbrand$^1$ \ and M. F.
+Skrutskie$^2$
+> }
+> \\ {\footnotesize
+> %
+> $^1$ {Department of Astronomy, Caltech, MS 105-24, Pasadena, CA 91125} \\
+> $^2$ {Department of Astronomy, University of Massachusetts, Amherst, MA
+01003}\\
+> %
+> }\end{center}
+> \par
+> \medskip
+>
+> We present an analysis of $J$, $H$, and $K_s$ time series photometry
+obtained
+> with the southern 2MASS telescope over a $0.84^\circ\times6^\circ$ region
+> centered near the Trapezium region of the Orion Nebula Cluster. These data
+are
+> used to establish the near-infrared variability properties of
+> pre-main-sequence stars in Orion on time scales of $\sim$ 1-36 days,
+$\sim$ 2
+> months, and $\sim$ 2 years. A total of 1235 near-infrared variable stars
+are
+> identified, $\sim$ 93\% of which are likely associated with the Orion~A
+> molecular cloud. The variable stars exhibit a diversity of photometric
+> behavior with time, including cyclic fluctuations with periods up to 15
+days,
+> aperiodic day-to-day fluctuations, eclipses, slow drifts in brightness
+over
+> one month or longer, colorless variability (within the noise limits of the
+> data), stars that become redder as they fade, and stars that become bluer
+as
+> they fade. The mean peak-to-peak amplitudes of the photometric
+fluctuations are
+> $\sim$ 0.2$^{\rm m}$ in each band and 77\% of the variable stars have
+color
+> variations less than 0.05$^{\rm m}$. The more extreme stars in our sample
+have
+> amplitudes as large as $\sim$ 2$^{\rm m}$ and change in color by as much
+as
+> $\sim$ 1$^{\rm m}$. The typical time scale of the photometric fluctuations
+is
+> less than a few days, indicating that near-infrared variability results
+> primarily from short term processes. We examine rotational modulation of
+cool
+> and hot star spots, variable obscuration from an inner circumstellar disk,
+and
+> changes in the mass accretion rate and other physical properties in a
+> circumstellar disk as possible physical origins of the near-infrared
+> variability. Cool spots alone can explain the observed variability
+> characteristics in $\sim$ 56-77\% of the stars, while the properties of
+the
+> photometric fluctuations are more consistent with hot spots or extinction
+> changes in at least 23\% of the stars, and with variations in the disk
+mass
+> accretion rate or inner disk radius in $\sim$ 1\% of our sample. However,
+> differences between the details of the observations and the details of
+> variability predicted by hot spot, extinction, and accretion disk models
+> suggest either that another variability mechanism not considered here may
+be
+> operative, or that the observed variability represents the net results of
+> several of these phenomena.  Analysis of the star count data indicates
+that
+> the Orion Nebula Cluster is part of a larger area of enhanced stellar
+surface
+> density which extends over a $0.4^\circ\times2.4^\circ$
+> ($3.4\:\rm{pc}\times20\:\rm{pc}$) region containing $\sim$ 2700 stars
+brighter
+> than $K_s=14^{\rm m}$.
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> {\bf   % (Delete as appropriate)
+>        Accepted by AJ}
+> % Then write on this line ...
+> \\
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> %{\bf To appear in the proceedings of the conference/workshop }
+> %     .... ,
+> %     held in ... dd/mm -- dd/mm/year,
+> %     Publisher's name   % eg PASP, Springer Verlag, etc ..
+> %     ed. ... , ... \& ...
+> %  \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> %{\bf Other useful information not covered in the fields above ... } \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }  {\tt jmc@astro.caltech.edu  }\\
+> {\it Also available from the URL\, }  {\tt
+http://www.astro.caltech.edu/$\sim$jmc/variables/orion}\\
+> %{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+> \begin{center}
+> {\Large \bf  Destruction of Protoplanetary Disks in the Orion Nebula
+Cluster }
+> \end{center}
+>
+> \begin{center}
+> {\bf Aylwyn Scally \& Cathie Clarke }
+>
+>
+> {\footnotesize
+> Institute of Astronomy,
+> Madingley Road,
+> Cambridge
+> UK }
+> \end{center}
+>
+> \par
+> \medskip
+> We use numerical $N$-body simulations of the Orion Nebula Cluster (ONC)
+> to investigate the destruction of protoplanetary disks by close stellar
+> encounters and UV radiation from massive stars.  The simulations model
+> a cluster of 4000 stars, and we consider separately cases in which the
+> disks have fixed radii of 100 AU and 10 AU. In the former case,
+> depending on a star's position and orbit in the cluster over $10^7$
+> years, UV photoevaporation removes at least 0.01 $\mathrm{M}_{\odot}$ from
+its disk,
+> and can remove up to 1~$\mathrm{M}_{\odot}$. We find no dynamical models
+of the ONC
+> consistent with the suggestion of St\"{o}rzer and Hollenbach
+>  that the observed distribution and abundance of
+> proplyds could be explained by a population of stars on radial orbits
+> which spend relatively little time near $\theta^{1}$C Ori (the most
+massive star
+> in the ONC).  Instead the observations require either massive disks
+> (e.g. a typical initial disk mass of 0.4 $\mathrm{M}_{\odot}$) or a very
+recent birth
+> for $\theta^{1}$C Ori. When we consider the photoevaporation of the inner
+10 AU of
+> disks in the ONC, we find that planet formation would be hardly
+> affected. Outside that region, planets would be prevented from forming
+> in about half the systems, unless either the initial disk masses were
+> very high (e.g.\ 0.4 $\mathrm{M}_{\odot}$) or they formed quickly (in less
+than $\sim
+> 2$ Myr) and $\theta^{1}$C Ori has only very recently appeared.
+>
+> We also present statistics on the distribution of minimum stellar
+> encounter separations. This peaks at $1000\,\mbox{AU}$, with only about
+> 4 per cent of stars having had an encounter closer than 100 AU at the
+> cluster's present age, and less than 10 per cent after $10^7$ years.
+> We conclude that stellar encounters are unlikely to play a significant
+> role in destroying protoplanetary disks. In the absence of any
+> disruption mechanism other than those considered here, we would thus
+> predict planetary systems like our own to be common amongst stars
+> forming in ONC-like environments.
+>
+> Also, although almost all stars will have experienced an encounter at
+> the radius of the Oort cloud in our own system, this only places a firm
+> constraint on the possible birthplace of the Sun if the Oort cloud
+> formed in situ, rather than through the secular ejection of matter from
+> the planetary zone.
+> \hfill
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   Accepted by : Monthly Notices of the Royal Astronomical Society
+> }\\
+> {\it For preprints, contact\, }       {\tt   aylwyn@ast.cam.ac.uk  }\\
+> {\it Also available from the URL\, }  {\tt
+http://ast.cam.ac.uk/~aylwyn/work/  }\\
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+> \begin{center}
+> {\Large \bf  Nuclear star formation in the
+> hot-spot galaxy NGC2903 }
+> \end{center}
+>
+> \begin{center}
+> {\bf Almudena Alonso-Herrero ($^1$),
+> Stuart D. Ryder ($^2$), and
+> J. H. Knapen ($^{1,3}$) }
+>
+>
+> {\footnotesize
+> ($^1$) University of Hertfordshire,
+> ($^2$) Anglo-Australian Observatory,
+> ($^3$) Isaac Newton Group of Telescopes }
+> \end{center}
+>
+> \par
+> \medskip
+> We present high-resolution near-infrared imaging
+> obtained using adaptive optics and HST/NICMOS, and
+> ground-based spectroscopy of the hot-spot galaxy
+> NGC 2903. Our near-infrared imaging enables
+> us to resolve the infrared hot spots into individual
+> young stellar clusters or groups of these. The spatial
+> distribution of the stellar clusters is not coincident
+> with that of the bright HII regions, as revealed by
+> the HST/NICMOS Pa$_\alpha$ image. Overall, the
+> circumnuclear star formation in NGC 2903 shows a
+> ring-like morphology with an approximate diameter of
+> 625pc. The SF properties of the stellar clusters and
+> HII regions have been studied using the photometric
+> and spectroscopic information in conjunction with
+> evolutionary synthesis models. The population of
+> bright stellar clusters shows a very narrow range
+> of ages, $4-7 x 10^6$ yr after the peak of star
+> formation, or absolute ages $6.5-9.5 x 10^6$ yr (for
+> the assumed short-duration Gaussian bursts), and
+> luminosities similar to the clusters found in the
+> Antennae interacting galaxy. This population of young
+> stellar clusters accounts for some 7-12% of the total
+> stellar mass in the central 625pc of NGC 2903. The HII
+> regions in the ring of star formation have luminosities
+> close to that of the super-giant HII region 30 Doradus;
+> they are younger than the stellar clusters, and will
+> probably evolve into bright infrared stellar clusters
+> similar to those observed today. We find that the star
+> formation efficiency in the central regions of NGC2903
+> is higher than in normal galaxies, approaching the
+> lower end of infrared luminous galaxies.
+> \hfill
+>
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   Accepted by : Monthly Notices of the Royal Astronomical Society
+> }\\
+> {\it For preprints, contact\, }       {\tt   aalonso@star.herts.ac.uk  }\\
+> {\it Also available from the URL\, }  {\tt
+http://arXiv.org/abs/astro-ph/0010522  }\\
+> %{\it or by anonymous ftp at\, }       {\tt   ftp:// }\\
+>
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+> \begin{center}
+> {\Large \bf  Scaling of N-body calculations }
+> \end{center}
+>
+> \begin{center}
+> {\bf H. Baumgardt }
+> %
+>
+> {\footnotesize      Dept. of Mathematics and Statistics,
+>     University of Edinburgh, Edinburgh EH9 3JZ, UK  }
+> \end{center}
+>
+> \par
+> \medskip
+> We report results of collisional $N$-body simulations aimed to study the
+> $N$-dependance of the dynamical evolution
+> of star clusters. Our clusters consist of equal-mass stars and are
+> in virial equilibrium. Clusters moving in external tidal fields and
+clusters
+> limited by a cut-off radius are simulated. Our main focus is to study the
+> dependence of the lifetimes of the clusters on the number of cluster stars
+and
+> the chosen escape condition.
+>
+> We find that star clusters in external tidal fields exhibit a scaling
+problem
+> in the sense that their lifetimes do not scale with the relaxation time.
+> Isolated clusters show a similar problem if stars are removed only after
+> their distance to the cluster centre exceeds a certain cut-off radius. If
+> stars are removed immediately after their energy exceeds the energy
+> necessary for escape, the scaling problem disappears.
+>
+> We show that some stars which gain the energy necessary for escape are
+> scattered to lower energies before they can leave the cluster.
+> Since the efficiency of this process decreases with increasing
+> particle number, it causes the lifetimes not to scale with the
+> relaxation time. Analytic formulae are derived for
+> the scaling of the lifetimes in the different cases.
+>
+> \hfill
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   Accepted by : Monthly Notices of the Royal Astronomical Society
+> }\\
+> {\it For preprints, contact\, }       {\tt   holger@maths.ed.ac.uk  }\\
+> {\it Also available from the URL\, }  {\tt
+http://xxx.soton.ac.uk/abs/astro-ph/0012330  }\\
+> %{\it or by anonymous ftp at\, }       {\tt   ftp:// }\\
+>
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+>
+>
+> \begin{center} {\Large\bf
+> Proper motions of Southern open clusters within 1kpc \\ based on the UCAC1
+> Catalog
+> }\end{center}
+> \begin{center} {\bf
+> W. S. Dias, J. R. D. L\'epine and B. S. Alessi\\
+> }
+>
+> {\footnotesize
+> Instituto Astron\^omico e Geof\'{\i}sico, Universidade de
+> S\~ao Paulo, Caixa Postal 3386, 01060-970 S\~ao Paulo SP, Brazil
+> }\end{center}
+> \par
+> \medskip
+> We present mean absolute proper motions of 48 southern open clusters,
+> determined using
+> the data from the First U. S. Naval Observatory CCD Astrograph Catalog
+> (UCAC1).
+> For 9 clusters, this is the first determination of proper motion. The
+> measurements
+> made use of large number of stars (usually several tens) for each cluster.
+> The total number of stars studied in the fields of the 48 open clusters is
+> 16875, of which
+> 2930 were considered members. The mean
+> proper motions of the clusters and membership probability of individual
+> stars were obtained
+> from the proper motion data by applying the statistical method proposed by
+> Sanders (1971).
+> \par
+> \medskip
+> \noindent
+> {\bf % (Delete as appropriate)
+> %Accepted by: % or
+> Submitted to: AJ
+> }\\
+> {\it For preprints, contact\, } {\tt wiltonsdias@yahoo.com.br (or
+> wilton@iagusp.usp.br) }\\
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+>
+> \begin{center}
+> {\Large \bf  Merging Timescales and Merger Rates of Star Clusters in Dense
+Star Cluster Complexes }
+> \end{center}
+>
+> \begin{center}
+> {\bf M. Fellhauer ($^1$), H. Baumgardt ($^2$), P. Kroupa ($^3$), R.
+Spurzem ($^1$) }
+>
+>
+> {\footnotesize
+> ($^1$) Heidelberg
+> ($^2$) Edinburgh
+> ($^3$) Kiel }
+> \end{center}
+>
+> \par
+> \medskip
+> Interacting galaxies like the famous Antennae (NGC 4038/4039) or Stephan's
+Quintet (HCG 92) show considerable star
+> forming activity in their tidal arms. High resolution images (e.g. from
+HST-observations) indicate that these regions consist of
+> up to hundreds of massive stellar clusters or tidal dwarf galaxies (TDG).
+In this paper we investigate the future fate of these
+> clusters of massive star clusters (in this work called super-clusters). We
+simulate compact super-clusters in the tidal field of
+> a host-galaxy and investigate the influence of orbital and internal
+parameters on the rate and timescale of the merging
+> process. We show that it is possible that such configurations merge and
+build a dwarf galaxy, which could be the primary
+> mechanism of how long-lived dwarf satellite galaxies form. A detailed
+study of the merger object will appear in a follow-up
+> paper.
+> \hfill
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   Accepted by : Celest. Mech.
+> }\\
+> {\it For preprints, contact\, }       {\tt
+ mike@ari.uni-heidelberg.de  }\\
+> {\it Also available from the URL\, }  {\tt
+http://xxx.uni-augsburg.de/abs/astro-ph/0103052  }\\
+> %{\it or by anonymous ftp at\, }       {\tt   ftp:// }\\
+>
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+>
+> \begin{center} {\Large\bf
+>                  The Formation of Stellar Clusters: Time Varying
+> Protostellar Mass Accretion Rates
+> }\end{center}
+> \begin{center} {\bf
+>   Ralf Klessen$^{1,2,3}$
+> }
+> \\ {\footnotesize
+> %
+>     $^{1}$UCO/Lick Observatory, Santa Cruz, USA\\
+> $^{2}$MPI for Astronomy, Heidelberg, Germany\\
+> $^{3}$Sterrewacht Leiden, The Netherlands
+> %
+> }\end{center}
+> \par
+> \medskip
+>   Identifying the processes that determine strength, duration and
+>   variability of protostellar mass growth is a fundamental ingredient
+>   of any theory of star formation. I discuss protostellar mass
+>   accretion rates dM/dt from numerical models which follow
+>   molecular cloud evolution from turbulent fragmentation towards the
+>   formation of stellar clusters. In a dense cluster environment,
+>   dM/dt is strongly time varying and influenced by the mutual
+>   interaction of protostellar cores and their competition for
+>   accretion from the common cluster gas reservoir. Even for protostars
+>   with similar final mass, the accretion histories may differ
+>   dramatically. High-mass stars build up in the central parts of
+>   dense, cluster-forming cloud regions. They begin to form in the
+>   early phases of cluster evolution, and continue to grow at a high
+>   rate until the available gas is exhausted or expelled by feedback.
+>   Lower-mass stars tend to form at later phases, and dM/dt
+>   declines rapidly after a short initial phase of strong growth.  I
+>   present a simple fit formula for the time evolution of the average
+>   dM/dt for protostars of different masses in a dense cluster
+>   environment.
+>
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> {\bf   % (Delete as appropriate)
+>        Accepted by:   ApJ Letters % or
+> }\\
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+>
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+>
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> \noindent {\it For preprints, contact\,Ralf Klessen }       {\tt
+> ralf@ucolick.org  }\\
+> {\it Also available from the URL\, }  {\tt
+> http://arxiv.org/abs/astro-ph/0101277 }\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+> \begin{center}
+> {\Large \bf  The Initial Mass Function and its Variation }
+> \end{center}
+>
+> \begin{center}
+> {\bf Pavel Kroupa }
+>
+>
+> {\footnotesize
+> Kiel }
+> \end{center}
+>
+> \par
+> \medskip
+> The observed distribution of IMF shapes can be understood as statistical
+sampling from a universal IMF and variations that
+> result from stellar-dynamical processes. However, young star clusters
+appear to have an IMF biased towards low-mass
+> stars when compared to the Galactic disk IMF, which comprises an average
+populated by star-formation episodes occurring
+> Gyrs ago. In addition to this tentative but exciting deduction, this text
+outlines some of the stumbling blocks hindering the
+> production of rigorous IMF determinations, and discusses the most robust
+evidence for structure in it. Also, it is stressed that
+> an invariant IMF should not be expected.
+> \hfill
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   Accepted by : Astronomy \& Astrophysics
+> }\\
+> {\it For preprints, contact\, }       {\tt
+ pavel@astrophysik.uni-kiel.de  }\\
+> {\it Also available from the URL\, }  {\tt
+http://xxx.uni-augsburg.de/abs/astro-ph/0102155  }\\
+> %{\it or by anonymous ftp at\, }       {\tt   ftp:// }\\
+>
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+> \begin{center} {\Large\bf
+>                 Hipparcos parallaxes and the distance scale of open
+> clusters.
+> }\end{center}
+> \begin{center} {\bf
+>                 A.V.Loktin, G.V.Beshenov}
+>
+> {\footnotesize
+> Astronomical observatory of Ural State University, 51, Lenin av., Ural
+> State University,
+> Ekaterinburg, 620083, Russia
+> %
+> }\end{center}
+> \par
+> \medskip
+>   Attempt of the determination of the distances for highest possible
+> number of open
+> clusters was made by the use of the values of triginimetric parallaxes
+> from the Hipparcos catalogue. There were determined the estimates of
+> distance moduli of 45 clusters with maximum distance from the Sun near 1
+> kpc. This value may be regarded as the maximum distance for the usage of
+> Hipparcos parallaxes for the distance determinations for small groups of
+> stars. The estimate of distance scale systematic deviation $-0^m.157$ was
+> determined for the "Homogeneous catalogue of open cluster parameters"
+> distance moduli, which appear not to depend from the cluster ages. It is
+> interesting to note that frequensy distribution of trgonometric
+> parallaxes
+> of Pleiades stars show two maxima, and one maximum gives the estimation
+> of Pleiades cluster
+> distance modulus close to the value from photometry of cluster stars.
+> \par
+> \medskip
+> \noindent
+> {\bf   % (Delete as appropriate)
+>        Accepted by:  Astronomy Reports (Russia), 2001.
+>   % or        Submitted to:
+> }\\
+> {\it For preprints, contact\, }       {\tt   Alexhander.Loktin@usu.ru}\\
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> \newpage
+> \begin{center} {\Large\bf
+>   The catalogue of our Galaxy open cluster parameters - second version.
+> }\end{center}
+> \begin{center} {\bf
+>                 Loktin A.V.,  Gerasimenko T.P., Malisheva L.K.}
+>
+> {\footnotesize
+> %
+> Astronomical observatory of Ural State University, 51, Lenin av.,
+> Ekaterinburg, 620083, Russia
+> %
+> }\end{center}
+> \par
+> \medskip
+>  The catalogue of colour excesses, ages and distance moduli of open
+> clusters of our
+> Galaxy is composed by reprocessing of published photometrical data in
+> UBV, BV,
+> RGU, DDO and uvby$\beta$ system using homogeneous set of standard
+> relations. The
+> methods of cluster parameters estimation and computer routines used are
+> discussed.
+> The catalogue of mean estimates of parameters of 423 clusters is given.
+> This is the second version of homogeneous catalogue of cluster
+> parameters, first one (published in
+> Astron.Astrophys.Trans.,1994,Vol.4,p.153) contained the values of
+> parameters for 330 clusters.
+> \par
+> \medskip
+> \noindent
+> {\bf   % (Delete as appropriate)
+>        Accepted by:  Astron.Astrophys.Trans., 2001.
+>   % or        Submitted to:
+> }\\
+> {\it For preprints, contact\, }       {\tt   Alexhander.Loktin@usu.ru}\\
+>
+>
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> \begin{center} {\Large\bf
+>                The AGB phase-transition outside the Local Group:
+>     K-band observations of young star clusters in NGC 7252}
+> \end{center}
+> \begin{center} {\bf
+> C. Maraston$^1$, M. Kissler-Patig$^2$, J.P. Brodie$^3$,
+>  P. Barmby$^4$ and J.P. Huchra$^4$
+> }
+> \\ {\footnotesize
+> %
+>     $^1$Universit\"ats-Sternwarte der Ludwig-Maximilians-Universit\"at,
+>                Scheinerstr.~1, 81679 M\"unchen, Germany\\
+>                email: maraston@usm.uni-muenchen.de
+>
+>     $^2$European Southern Observatory,
+>                 Karl-Schwarzschild-Str.~2, 85748 Garching, Germany\\
+>               email: mkissler@eso.org
+>
+>     $^3$University of California Observatories / Lick Observatory,
+>           University of California, Santa Cruz, CA 95064, USA\\
+>             email: brodie@ucolick.org
+>
+>     $^4$Havard-Smithsonian Center for Astrophysics,
+>                 60 Garden St., Cambridge, MA 02138, USA\\
+>
+> %
+> }\end{center}
+> \par
+> \medskip
+>
+> % Your contribution  ... \hfill ... makes up a line.
+>
+> We have extended the study of the young star clusters observed in the
+> merger remnant galaxy NGC 7252 by obtaining $K$ band photometry for
+> these clusters.  Our $K$ band data significantly complement the optical
+> photometry and spectroscopy in the literature: $K$ band data are
+> fundamental to study the Asymptotic Giant Branch (AGB) population of
+> these clusters, since the AGB {\it phase transition} (occuring between
+> the age of $\sim 200$ Myr and $\sim$ 1 Gyr) causes abrupt changes in
+> the near-infrared luminosity of the clusters while producing only
+> small changes in the optical. Therefore, the e.g.~V$-$K colour is
+> ideal to study this evolutionary phase of stellar populations.
+>
+> For the present analysis we present models for Simple Stellar
+> Populations which include the contribution of the AGB stellar phase,
+> calibrated with the young and intermediate age star clusters of the
+> Magellanic Clouds. The comparison with the colour distribution of the
+> NGC 7252 star clusters shows that they are indeed intermediate age
+> clusters undergoing the AGB phase transition. The AGB phase transition
+> is observed for the first time outside the Local Group.
+>
+> Most of the studied clusters span the very narrow age range
+> $300\,$--$\,500$~Myr, and likely have metallicities
+> $0.5\,$--$\,1~Z_{\odot}$.  A very important exception is the cluster
+> W32, which has already completed its AGB epoch, its colours being
+> consistent with an age of $\sim 1\,$--$\,2$~Gyr. This impacts on the
+> duration of the merger-induced starburst.
+>
+> The strengths of the magnesium and iron lines in the spectrum of the
+> best observed cluster W3, and in the spectrum of the diffuse central
+> light of NGC 7252, do not show an overabundance in $\alpha$-elements,
+> in contrast to the bulk stellar population of elliptical galaxies.
+>
+> % Note : the *type* of contribution (abstract, announcement, ..) is
+defined
+> % in the fields below. The very last field, concerning contact address and
+> % url information, is optional if one from the list numbered (1) to (3) is
+> % filled out. The sender's email address will be added as `contact
+address'
+> % if no (zero) details are given.
+>
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> {\bf   % (Delete as appropriate)
+>        Accepted by: Astronomy and Astrophysics}
+> % Then write on this line ...
+> \\
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> %{\bf To appear in the proceedings of the conference/workshop }
+> %     .... ,
+> %     held in ... dd/mm -- dd/mm/year,
+> %     Publisher's name   % eg PASP, Springer Verlag, etc ..
+> %     ed. ... , ... \& ...
+> %  \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> %{\bf Other useful information not covered in the fields above ... } \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }       {\tt
+araston@usm.uni-muenchen.de  }\\
+> {\it Also available from the URL\, }  {\tt
+http://arXiv.org/abs/astro-ph/0101556}
+> % {\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+> %
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+>
+> \begin{center}
+> {\Large \bf  Luminosity and mass function of galactic open clusters: I.
+NGC~4815  }
+> \end{center}
+>
+> \begin{center}
+> {\bf L.Prisinzano $^1$
+> G.Carraro $^2$
+> G. Piotto $^2$
+> A. Seleznev $^3$
+> P.B. Stetson $^4$
+> I. Saviane $^5$ }
+>
+> {\footnotesize  $^1$ Palermo $^2$ Padova $^3$ Ekaterinburg $^4$ Victoria
+$^5$ UCLA }
+> \end{center}
+>
+> \par
+> \medskip
+>  We present deep $V$ and $I$ photometry for the open
+> cluster NGC~4815 and four surrounding Galactic fields down to a
+> limiting magnitude $V\sim25$. These data are used to study cluster
+> spatial extension by means of star counts, and to derive the luminosity
+> (LF) and mass function (MF). The radius
+> turns out to be $3.6\pm0.3\, arcmin$ at V=19.0 level, whereas the mass
+> amounts at  $880\pm230\, m_{\odot}$ down to V=20.8.\\
+> >From the color-magnitude
+> diagram, we obtain the LFs in the $V$ and $I$ bands, using
+> both the standard histogram and an adaptive kernel. After correction
+> for incompleteness and field star contamination, the LFs have been
+> transformed into the present day mass functions (PDMF). The PDMFs from
+> the $V$ and $I$ photometry can be
+> represented as a power-law with a slope $\alpha = 3.1\pm0.3$ and
+> $\alpha = 2.9\pm0.3$ (the Salpeter MF in this
+> notation has a slope $\alpha = 2.35$) respectively, in the mass range $2.5
+\leq
+> \frac{m}{m_{\odot}} \leq 0.8$.\\ Below this mass, the MF cannot be
+> considered as representative of the cluster IMF,
+> as it is the result of the combined effect of
+>  strong irregularities in the stellar background,
+> probable internal dynamical evolution of the cluster and/or
+> interaction of the cluster with the dense Galactic field.
+> Unresolved binaries and mass segregation can only flatten the apparent
+> derived IMF, so we expect that the real IMF must be steeper
+> than the quoted slope by an unknown amount.
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   Accepted by : Astronomy \& Astrophysics
+> }\\
+> {\it For preprints, contact\, }       {\tt   carraro@pd.astro.it  }\\
+>
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+>
+> \begin{center}
+> {\Large \bf  Near-infrared spectroscopy of the circumnuclear
+> star formation regions in M100: Evidence for
+> sequential triggering }
+> \end{center}
+>
+> \begin{center}
+> {\bf Stuart D. Ryder ($^1$), J. H. Knapen ($^{2,3}$),
+> and M. Takamiya ($^4$)
+>  }
+>
+>
+> {\footnotesize
+> ($^1$) Anglo-Australian Observatory,
+> ($^2$) Isaac Newton Group of Telescopes,
+> ($^3$) University of Hertfordshire,
+> ($^4$) Gemini Observatory }
+> \end{center}
+>
+> \par
+> \medskip
+> We present low resolution (R~450) K-band spectroscopy
+> for 16 of the 43 circumnuclear star-forming knots in
+> M100 identified by Ryder \& Knapen (1999). We compare
+> our measurements of equivalent widths for the Br-gamma
+> emission line and CO 2.29 micron absorption band in
+> each knot with the predictions of starburst models
+> from the literature, and derive ages and burst
+> parameters for the knots. The majority of these knots
+> are best explained by the result of short, localised
+> bursts of star formation between 8 and 10 Myr ago. By
+> examining both radial and azimuthal trends in the age
+> distribution, we present a case for sequential
+> triggering of star formation, most likely due to the
+> action of a large-scale shock. In an appendix, we draw
+> attention to the fact that the growth in the CO
+> spectroscopic index with decreasing temperature in
+> supergiant stars is not as regular as is commonly
+> assumed.
+>
+> \hfill
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   Accepted by : Monthly Notices of the Royal Astronomical Society
+> }\\
+> {\it For preprints, contact\, }       {\tt   sdr@aaoepp.aao.gov.au  }\\
+> {\it Also available from the URL\, }  {\tt
+http://arXiv.org/abs/astro-ph/0012063  }\\
+> % {\it or by anonymous ftp at\, }       {\tt   ftp:// }\\
+>
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+> \def\Msun{\hbox{$M_\odot$}}
+>
+> \begin{center} {\Large\bf
+>    Multicolour CCD Photometric and Mass function study of the Distant
+>    Southern Open Star Clusters NGC 3105, NGC 3603, Melotte 105, Hogg 15,
+>    NGC 4815, Pismis 20 and NGC 6253
+> }\end{center}
+> \begin{center} {\bf
+>   Ram Sagar$^{1,3}$, U. Munari $^2$ and K. S. de Boer $^3$
+> }
+> \\ {\footnotesize
+> %
+>   $^1$ State Observatory, Manora Peak, Naini Tal, 263129, India,
+>     E-mail:sagar@upso.ernet.in \\
+>              Indian Institute of Astrophysics, Bangalore, 560034, India,
+>     E-mail:sagar@iiap.ernet.in \\
+>
+>   $^2$ Osservatorio Astronomico di Padova,
+>     Sede di Asiago, I-36012 Asiago (VI), Italy \\
+>    E-mail: munari@pd.astro.it
+>
+>  $^3$ Sternwarte der Universit\"at Bonn, Auf dem H\"ugel 71, D-53121,
+>   Bonn, Germany \\
+> %
+> }\end{center}
+> \par
+> \medskip
+> We derive cluster parameters and mass functions from new $UBVRI$ CCD
+photometric
+> observations of $\sim$ 3\,500 stars reaching down to $V \sim 20$ mag for
+the
+> distant southern open star clusters NGC 3105, NGC 3603, Melotte 105, Hogg
+15,
+>  NGC 4815, Pismis 20 and NGC 6253. For NGC 3105 and Hogg 15, CCD data has
+> been presented for the first time. The reddening is non-uniform across the
+face
+> of young (age $<$ 300 Myr) clusters NGC 3105, NGC 3603, Melotte 105, Hogg
+15 and
+> Pismis 20 with average values of $E(B-V) = 1.06, 1.44, 0.52, 1.15$ and
+1.20 mag
+> respectively, while it is uniform with average values of $E(B-V) = 0.72$
+and
+> 0.20 mag for the older clusters NGC 4815 and NGC 6253 respectively. The
+values
+> of colour excess ratios indicate presence of normal interstellar reddening
+> across the cluster regions studied here. Well defined main sequences can
+be seen
+> in all the clusters. However, main sequence turn-off points and subgiant
+> branches are well defined only in the older clusters NGC 4815 and NGC
+6253. The
+> distances to the clusters NGC 3105, NGC 3603, Melotte 105, Hogg 15, NGC
+4815,
+> Pismis 20 and NGC 6253 are $9.5\pm1.5, 7.2\pm1.2, 2.3\pm0.2, 3.0\pm0.3,
+> 2.75\pm0.2, 3.55\pm0.35$ and $1.8\pm0.12$ kpc respectively, while the
+> corresponding ages derived using theoretical convective core overshooting
+> stellar evolutionary isochrones are $25\pm10, 3\pm2,250\pm30, 6\pm2,
+400\pm50,
+> 6\pm2$ and $2500\pm600$ Myr respectively.
+>
+> In the mass range $\sim 1 - 75 $ \Msun, the mass functions of all clusters
+> except for NGC 6253 have been studied. The slopes of their mass spectrum
+> agree within errors with the Salpeter value (1.35). The slope of the MF
+for
+> stars more massive than 10 \Msun ~is almost the same as for the lower mass
+stars.
+> The MF slopes of clusters younger than 500 Myr seems to have no dependence
+on
+> Galactic longitude, Galacto-centric distance and cluster age. As the
+inherent
+> uncertainties in the mass function determinations of young galactic star
+> clusters can produce internal scatter which is larger than the external
+ones,
+> we conclude that above 1 \Msun, initial mass function is universal with
+> a slope of Salpeter value.
+>  \hfill
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> {\bf   % (Delete as appropriate)
+>        Accepted by: Monthly Notices Royal Astronomical Society
+> }\\
+> %
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }       {\tt   sagar@upso.ernet.in}\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+> \newpage
+> %========================================================================
+> \begin{center} {\Large\bf Photometric and kinematic studies of open star
+clusters.\\ III. NGC\,4103, NGC\,5281, and NGC\,4755}
+> \end{center}
+> \begin{center} {\bf J\"org Sanner$^1$, Jens Brunzendorf$^2$, Jean-Marie
+Will$^1$, and Michael Geffert$^1$}
+> \\ {\footnotesize $^1$Sternwarte der Universit\"at Bonn, Auf dem H\"ugel
+71, 53121 Bonn, Germany,\\ $^2$Th\"uringer Landessternwarte Tautenburg,
+Sternwarte 5, 07778 Tautenburg, Germany}\end{center}
+> \par
+> \medskip
+> We present CCD photometry and proper motion studies of the three open star
+> clusters NGC\,4103, NGC\,5281, and NGC\,4755 ($\kappa$ Cru). By fitting
+> isochrones to the colour magnitude diagrams, we found that all three
+objects
+> are young open star clusters with ages of at most $t=45 \mbox{~Myr}$. They
+are
+> located at distances from approx. $1600 \mbox{~pc}$ to $2200 \mbox{~pc}$,
+> derived from distance moduli $(m-M)_0$ ranging from $11 \mbox{~mag}$ to
+$12
+> \mbox{~mag}$. We combined membership determinations based on proper
+motions
+> and statistical field star subtraction to derive the initial mass function
+> (IMF) of the clusters. The shape of the IMFs could be represented by power
+> laws with exponents of $\Gamma=-1.46 \pm 0.22$ for NGC\,4103,
+$\Gamma=-1.60
+> \pm 0.50$ for NGC\,5281, and $\Gamma=-1.68 \pm 0.14$ for NGC\,4755,
+when -- as
+> a reference -- Salpeter's (1955) value would be $\Gamma=-1.35$. These
+results
+> agree well with other IMF studies of open star clusters.
+> \par
+> \medskip
+> \noindent
+> {\bf Accepted by: Astronomy \& Astrophysics}
+> \\
+> {\it For preprints, contact\,} {\tt jsanner@astro.uni-bonn.de}\\
+> {\it Also available from the URL\,} {\tt
+http://www.astro.uni-bonn.de/$\widetilde{\hspace{0.2cm}}$jsanner/publ.html}\
+\
+> \medskip
+> \noindent
+> \dotfill
+>
+> \begin{center} {\Large\bf The IMF of open star clusters with Tycho--2}
+\end{center}
+> \begin{center} {\bf J\"org Sanner and Michael Geffert}
+> \\ {\footnotesize Sternwarte der Universit\"at Bonn, Auf dem H\"ugel 71,
+53121 Bonn, Germany}
+> \end{center}
+> \par
+> \medskip
+> We studied the fields of nine nearby open star clusters based on the
+Tycho--2
+> catalogue. The clusters are: Blanco 1, Stock 2, the alpha Per cluster, the
+> Pleiades, NGC 2451, IC 2391, Praesepe, IC 2602, and NGC 7092. We
+determined
+> membership probabilities for the stars in the cluster fields from the
+> stellar proper motions and used the Tycho--2 photometry to compute the
+> initial mass function (IMF) of the clusters from the main sequence
+turn-off
+> point down to approx. $1 M_\odot$. We found IMF slopes ranging from
+> $\Gamma=-0.69$ down to $\Gamma=-2.27$ (when the Salpeter (1955) value
+would
+> be $\Gamma=-1.35$). We also studied the membership of individual stars of
+> special astrophysical interest. In some cases previous results had to be
+> revised. As a by-product, we investigated some general properties of the
+> Tycho--2 catalogue; we confirmed that the Tycho--2 proper motions show
+only
+> marginal deviations from the Hipparcos catalogue. On the other hand, in
+some
+> regions the completeness of the catalogue seems to decrease at magnitudes
+> brighter than claimed by H{\o}g et~al.\ (2000).
+> \par
+> \medskip
+> \noindent
+> {\bf Accepted by: Astronomy \& Astrophysics}
+> \\
+> {\it For preprints, contact\,} {\tt jsanner@astro.uni-bonn.de}\\
+> {\it Also available from the URL\,} {\tt
+http://www.astro.uni-bonn.de/$\widetilde{\hspace{0.2cm}}$jsanner/publ.html}\
+\
+> \medskip
+> \noindent
+> \dotfill
+>
+>
+> % Last contibution ...
+> \noindent \hrulefill \par \vspace*{-3mm} \noindent \hrulefill
+> %========================================================================
+>
+> \newpage
+>
+> %========================================================================
+> %========================================================================
+>
+> \markboth{\hfill\Large \bf \fbox{ABSTRACTS FROM CONFERENCES}\hfill}{\Large
+\bf\hfill \fbox{ABSTRACTS FROM CONFERENCES}\hfill}
+> \label{page:conferences}
+>
+>
+> \begin{center} {\Large\bf
+>                 Halo enrichment by disrupted globular clusters
+> }\end{center}
+> \begin{center} {\bf
+>         H. Baumgardt }
+> \\ {\footnotesize
+> %
+>     Dept. of Mathematics and Statistics,
+>     University of Edinburgh, Edinburgh EH9 3JZ, UK
+> %
+> }\end{center}
+> \par
+> \medskip
+>
+>       We study the evolution of the galactic globular cluster system to
+determine its initial mass-function and the fraction of
+>       halo stars that could have come from disrupted globular clusters. We
+study the cluster evolution under the influence of
+>       two destruction mechanisms: Two-body relaxation and dynamical
+friction. New results of N-body simulations are
+>       used for the lifetimes of clusters dissolving under the influence of
+two-body relaxation.
+>       Two different mass-functions are studied: A gaussian initial
+distribution in log($M_C$) with mean mass and scatter
+>       similar to what one observes for the galactic globular cluster
+system, and a power-law distribution resembling what is
+>       seen for clusters in merging and interacting galaxies. We find that
+in the inner parts of the galaxy, both distributions
+>       evolve in such a way that they are consistent with the observations.
+In the outer parts, a gaussian initial distribution
+>       gives the better fit. This might change however if elliptic orbits
+are considered, or there are undiscovered low-mass
+>       clusters in the galactic halo. In any case, only a small fraction of
+the stellar halo of the Milky Way originated in globular
+>       clusters.
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> %{\bf   % (Delete as appropriate)
+> %       Accepted by: or   Submitted to: }
+> % Then write on this line ...
+> \\
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> {\bf To appear in the proceedings of the conference }
+>      Modes of Star Formation ,
+>      held in Heidelberg 09/10 -- 13/10/2000,
+>      ASP Conference Seies,
+>      ed. Eva Grebel \& Wolfgang Brandner
+>   \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> %{\bf Other useful information not covered in the fields above ... } \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }       {\tt  holger@maths.ed.ac.uk }\\
+> {\it Also available from the URL\, }  {\tt
+http://xxx.soton.ac.uk/abs/astro-ph/0012468  }\\
+> %{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+>
+> \begin{center}
+> {\Large \bf  Impact of Gas Removal on the Evolution of Embedded Clusters }
+> \end{center}
+>
+> \begin{center}
+> {\bf Christian Boily$^1$,
+> Pavel Kroupa$^2$ }
+>
+> {\footnotesize
+> $^1$University of Heidelberg, $^2$University of Kiel }
+> \end{center}
+>
+> \par
+> \medskip
+> % \begin{flushright}
+> % \begin{minipage}{0.9 \textwidth}{
+> We study both analytically and numerically the disruptive effect of
+> instantaneous gas removal from an embedded cluster. We setup a
+> calculation based on the stellar velocity distribution function, to
+> compute the fraction of stars that remain bound once the cluster has
+> ejected the gas and is out of equilibrium. We find tracks of bound
+> mass-fraction vs star formation efficiency similar to those obtained
+> with N-body calculations. We use these to argue that embedded clusters
+> must develop high-binding energy cores if they are to survive as bound
+> clusters despite a star formation rate as low as 20\% or lower
+> suggested by observations.
+>
+> \hfill
+> % }
+> % \end{minipage}
+> % \end{flushright}
+> \par
+> \medskip
+> \noindent
+> {\bf   % Delete one of the fields below
+>   To appear in : A.S.P. Conf. Series, Modes of Star Formation, ed. E.
+Grebel \& W. Brandner (San Francisco: ASP)
+> }\\
+> {\it For preprints, contact\, }       {\tt   cmb@ari.uni-heidelberg.de,
+pavel@astrophysik.uni-kiel.de  }\\
+> {\it Also available from the URL\, }  {\tt
+http://xxx.uni-augsburg.de/abs/astro-ph/0102024  }\\
+> % {\it or by anonymous ftp at\, }       {\tt   ftp:// }\\
+>
+> %% When submitting a Thesis abstract, please also state
+> %% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+> \newpage
+> \begin{center} {\Large\bf
+> Application of an objective method for the identification of Young Star
+Groupings in spiral galaxies}\end{center}
+> \begin{center} {\bf  R. Capuzzo--Dolcetta$^1$, A. Vicari$^1$, P.
+Battinelli$^2$, G. Arrabito$^3$
+> },
+> \\ {\footnotesize   $^1$Dip. di Fisica, Univ. La Sapienza, P.le A.Moro 2,
+> 00185 Roma (I), $^2$Oss. Astron. Roma, V.le del Parco
+> Mellini 84, 00136 Roma (I), $^3$Dip. di Matem., Univ. La
+> Sapienza, P.le A.Moro 2, 00185 Roma (I)
+> %
+>
+> }\end{center}
+> \par
+> \medskip
+> We present some results of the application of our automatic
+> technique for the identification of Young Star Groupings (YSGs) in spiral
+> galaxies. In this report we discuss our new results for NGC 3377a and NGC
+3507
+> together with previously published data of NGC 7217, NGC 1058 and UGC
+12732.
+> The aim of this ongoing research is to obtain a wide sample of
+> homogeneous data for the study of the YSGs and their relationships with
+> the properties of their parent galaxies, using only objective
+identifications.
+>
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+>
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> {\bf To appear in the proceedings of the workshop Modes of Star Formation
+and the Origin of Field Populations,
+>      held in the MPIA of Heidelberg 8/10 -- 13/10/2000,
+>      ASP Conference Series, E.K. Grebel \& W. Brandner, eds.
+>  } \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }       {\tt
+Roberto.Capuzzodolcetta@uniroma1.it}\\
+> {\it Also available from the URL\, }  {\tt
+astro1.phys.uniroma1.it/dolcetta/papers/dolcetta1.html}\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+> \begin{center} {\Large\bf
+> Galactic nuclear activity induced by globular cluster merging
+> }\end{center}
+> \begin{center} {\bf  R. Capuzzo--Dolcetta$^1$
+> }
+> \\ {\footnotesize
+> %
+>     $^1$Dep. of Physics, Univ. "La Sapienza", P.le A.Moro 5, I-00185,
+Roma, Italy
+>
+> }\end{center}
+> \par
+> \medskip
+> The interpretation of the difference observed between the radial
+distribution of globular clusters and that of halo--bulge stars in
+elliptical galaxies is discussed in terms of evolution of their globular
+cluster systems. I present a short summary of the evidence that dynamical
+evolution of globular cluster systems is  not only able to explain  the
+flattening of their distribution toward the galactic center, but also it may
+have played an important role on the primordial activity of the parent
+galaxy
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+>
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> {\bf To appear in the proceedings of the workshop Modes of Star Formation
+and the Origin of Field Populations,
+>      held in the MPIA of Heidelberg 8/10 -- 13/10/2000,
+>      ASP Conference Series, E.K. Grebel \& W. Brandner, eds.
+>  } \\
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }       {\tt
+Roberto.Capuzzodolcetta@uniroma1.it}\\
+> {\it Also available from the URL\, }  {\tt
+astro1.phys.uniroma1.it/dolcetta/papers/dolcetta2.html}\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+> %========================================================================
+> % Last contribution ...
+> \noindent \hrulefill \par \vspace*{-3mm} \noindent \hrulefill
+> %========================================================================
+>
+> \newpage
+> %========================================================================
+> %========================================================================
+> %
+> \markboth{\hfill\Large \bf \fbox{Ph.D. SUMMARIES}\hfill}{\Large \bf\hfill
+\fbox{Ph.D. SUMMARIES}\hfill}
+> \label{page:phd.summaries}
+>
+>
+> %========================================================================
+> %
+>
+> \begin{center} {\Large\bf
+>                Photometric Studies of Intermediate and Old Age Galactic
+> Star Clusters
+> }\end{center}
+> \begin{center} {\bf
+> Alok K. Durgapal
+> }
+> \\ {\footnotesize
+> %
+> \smallskip
+>
+>     State Observatory, Manora Peak, Nainital, 263129, INDIA
+> %
+> \\
+> Thesis work conducted at : State Observatory, Naini Tal, INDIA
+> \\
+> Thesis directed by : Anil K. Pandey
+> \\
+> Thesis submitted on : 17-feb-2001
+> \\
+> Thesis submitted to : Kumaun University,  Naini Tal, INDIA
+>
+> }\end{center}
+> \par
+> \medskip
+>
+>        The aim of the present work is to compare a set of
+> homogeneous data with the theoretical evolutionary models and
+> to study mass function and structure of the clusters.
+> The main conclusions and the prospects of future work are presented here.
+>
+>         The photometric $UBV$ (Johnson), $RI$ (Cousins) observations
+> of five intermediate and and old open clusters are used in this
+> study. The clusters selected under present sample are either
+> unstudied or poorly studied. The present photometric data are used to
+> determine the reddening, distance and age of the clusters. The
+> present photometry reaches a limiting V magnitude of $\sim$ 19.
+> A well defined but broad MS is found in all the clusters. The broadness of
+> the MS may be due to various causes, among which are the photometric
+> error, the presence of unresolved binary stars and a spread in
+metallicity.
+> In two clusters (King 7 and King 5) red
+> giant clump is present. CMDs of the cluster Be 20 (which is oldest among
+> the sample) show a horizontal branch which resembles the
+> horizontal branch of the globular clusters. Similar feature has
+> also been found in other old open clusters (e,g., M67, NGC 6971, BE 18 and
+> AM-2).
+>        Morphological features of the CMDs can be used to get the
+> approximate age of the clusters. Various morphological features
+> (e.g., turnoff point, red ginat clump etc) have been used by several
+> authors (Phelps et al. 1994; Carraro \& Chiosi, 1994; Anthony-Twarog
+> \& Twarog, 1985). We have proposed a colour index parameter (CIP) which
+> is the difference in colour index $(B-V)$ of the BTO of the
+> MS and BRGB. This parameter is useful for the clusters which have no
+> noticeable red giant clump. In the above mentioned methods magnitude at
+> turnoff point is used which is rather difficult to estimate, whereas
+> the colour at the turnoff (CIP) is not much sensitive to the visual
+> estimation, consequently CIP should give a better approximation of
+> morphological age, where it can be applied.
+>
+>         The observed CMDs are compared with the theoretical
+> evolutionary model given by VandenBerg (1985) and convective
+> core overshooting model by  Bertelli et al. (1994).
+> The quality of fit to the observed CMDs provides clues to decide whether
+> the convective core overshooting approach should be preferred or not.
+> In case of the clusters Be 64, Be 69, King~7 and King 5, there seems an
+> apparent discrepancy between the shape of the turnoff and
+> the standard models of VandenBerg (1985). This discrepancy
+> can be explained as a failure of the
+> standard isochrones to include convective core overshoot.
+>
+>
+>         Presence of binary stars may be one of the reasons of
+> the broadening of the MS. A large number of stars located
+> above the main sequence of the cluster may be spectroscopic binaries
+> (Bolte, 1991). The features of the CMDs of the clusters under discussion
+> suggest that a significant number of binaries may be present in the
+clusters.
+> We tried to quantify the binary content in these clusters and found that
+> it varies from $\sim$ 9$\%$ to 21$\%$.
+>
+>         The $UBVRI$ data of the clusters under discussion have been used
+> to study the MF, structure and dynamical state of these clusters. A
+> comparison of the density profiles of these clusters indicate that the
+> evolution of the core is almost same, whereas the corona
+> of the clusters is probably affected by the external environment and
+> dynamical evolution.
+>
+>
+>         For the entire cluster region, the slope of the MF of three
+clusters
+> (Be 64, Be 69 and King 5) has a value that agree within error with the
+Salpeter
+> value, whereas King 7 and Be 20 show a steeper ($\Gamma$ = -2.02$\pm$
+0.24) and
+> almost a flat MF respectively. We find that the slope of the MF of two
+> clusters (King 5 and King 7) changes significantly from the inner region
+to the
+> outer region, becoming steeper at larger radii. Dynamical relaxation time
+> of the clusters under discussion is less than the age of the clusters
+> which indicates that all of these clusters are dynamically relaxed. Thus
+> observed mass segregation in three clusters can be attributed to the
+> dynamical evolution of the clusters. The ratio of the clusters' present
+> radius to the limiting radius, estimated from the relation given
+> by King (1962), can be representated by a law of exponent. The data used
+in
+> the present study indicate that clusters under discussion need a minimum
+> time of about 18$\pm$5 Gyr to attain their limiting radius.
+> It is planned to use a large cluster sample to study the variation of
+> the ratio of the clusters' present radius to the limiting radius.
+>
+>         A program to search variable stars in the clusters used in
+> the present study was also carried out. A few variable stars and
+> probable $\delta$ scuti variable stars in the aforementioned
+> clusters are being reported for the first time.
+> We plan to continue the monitoring of these suspected variables
+> in future to learn more about the nature of these suspected variables.
+>
+> \par
+> \medskip
+> \noindent
+> %
+> % ---------------------------------------------------------------
+> % There are three types of submission : Journal abstracts, proceedings
+> % and announcements (Conferences, PhD Summaries .. ). Complete the
+> % field below which applies to your contribution - and delete the
+> % others. Each begins/ends with dashed horizontal lines
+> %
+> % ---------------------------------------------------------------
+> % 1) For REFEREED JOURNALS, please provide the following information
+> %
+> % Then write on this line ...
+> %
+> % ---------------------------------------------------------------
+> % 2) For CONFERENCE PROCEEDINGS, please indicate the conference name,
+> %   dates (if known), and the names of the publisher and editor(s), ie
+> %
+> %
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> %{\bf Other useful information not covered in the fields above ... } \\
+> %
+> % ---------------------------------------------------------------
+> %
+> % Finally, indicate how/where one may obtain further information
+concerning
+> % this paper/abstract/announcement, if possible :
+> %
+> {\it For preprints, contact\, }       {\tt alok@upso.ernet.in    }\\
+> %
+> \medskip
+> \noindent
+> \dotfill
+>
+> %========================================================================
+>
+>
+> % Last contribution ...
+> \noindent \hrulefill \par \vspace*{-3mm} \noindent \hrulefill
+> %========================================================================
+>
+>
+> \newpage
+> %========================================================================
+> %========================================================================
+> %
+> \markboth{\hfill\Large \bf \fbox{JOBS}\hfill}{\Large \bf\hfill
+\fbox{JOBS}\hfill}
+> \label{page:jobs}
+>
+> %========================================================================
+> %
+>
+> \begin{center}
+> {\Large{\bf Star Formation Group of the Osservatorio Astrofisico di
+Arcetri}}
+>
+> \vspace{5mm}
+> {\Large   Postdoctoral position available} \\
+>
+> \end{center}
+>
+> \par
+> \medskip
+> %\begin{flushright}
+> %\begin{minipage}{0.9\textwidth}{
+>
+> In the framework of the European Commission Research Training Network
+> entitled ``The Formation and Evolution of Young Stellar Clusters'' (see
+> {\tt http://www.aip.de/$\sim$mjm/ecrtn\_clusters/}), a postdoctoral
+> position is available for two years in the Star Formation Group of the
+> Osservatorio Astrofisico di Arcetri, Firenze, Italy.
+>
+> Arcetri is a major research institute involving about 50 staff
+> members, post-docs and students with a strong focus on interstellar medium
+> and star formation, both theoretical and observational.
+>
+> \vspace{1mm}
+> \noindent
+> The Star Formation Group includes 14 permanent staff members, 2 post-docs
+> and 1 student. A description of the activities of the institute and of the
+> Star Formation Group can be found at: {\tt
+http://www.arcetri.astro.it/$\sim$starform/}.
+> Our main interests are:
+>
+> \begin{itemize}
+>
+> \item the initial conditions for cluster formation;
+>
+> \item the formation of massive stars in clusters;
+>
+> \item pre-main sequence evolution of low- and intermediate-mass stars;
+>
+> \item the structure and evolution of circumstellar disks and outflows.
+>
+> \end{itemize}
+>
+> The observational activities involve extensive use of the ESO, IRAM and
+> NRAO facilities, and of the national observatories (Telescopio
+> Nazionale Galileo, Medicina radiotelescope, Tirgo telescope).  As part
+> of the EC Research Training Network, the star formation group also has
+> collaborative access to British, French, German, and Portuguese
+> facilities.
+>
+> \vspace{1mm}
+> \noindent
+> We welcome people interested in the study of cluster formation and
+> evolution, circumstellar disks around young stars, jets and outflows.
+> The successful applicant is expected to take an active role in an
+> ongoing effort to improve our understanding of the formation and early
+> evolution of young stars and their environment.  Applicants should have
+> a Ph.D. and observational or theoretical experience in young stellar
+> objects, or related fields.  They should be 35 or under at the time of
+> appointment, be a national of a European Community member or associated
+> state other than Italy or have lived in the EC for at least five years
+> before appointment; and not have lived in Italy for more than 12 of the
+> 24 months prior to appointment.  The position is available immediately
+> but the starting date is flexible.
+>
+> The net salary, after deduction of charges, medical coverage, etc. will
+> be around 3.2--3.6 MLit/month (1700--1900 euros/month).
+>
+> Interested scientists should submit a curriculum vitae,
+> a list of publications and a statement of research interests, and should
+> indicate the names of three experts in the field for reference.
+Applications should be
+> sent to: \\ \\ \noindent
+> Daniele Galli \\ Osservatorio Astrofisico di Arcetri \\ Largo E.
+> Fermi 5 \\ I-50125 Firenze, Italy  \\ (Phone:~$+$~39~055~27~52~249;
+> FAX:~$+$~39~055~22~00~39; E-mail:  galli@arcetri.astro.it)\\ \\ Review
+> of applications will begin on 15 February 2001 and continue until the
+> position is filled.
+>
+>
+> \noindent
+> \medskip
+> {\bf URL:}\, {\tt http://www.aip.de/$\sim$mjm/ecrtn\_clusters/}
+>
+> \medskip
+> \noindent
+> \dotfill
+>
+> % Last contribution ...
+> \noindent \hrulefill \par \vspace*{-3mm} \noindent \hrulefill
+> %========================================================================
+>
+>
+> %========================================================================
+>
+> % \newpage
+> %========================================================================
+> %========================================================================
+> %
+> \markboth{\hfill\Large \bf \fbox{CONFERENCES and
+ANNOUNCEMENTS}\hfill}{\Large \bf\hfill \fbox{CONFERENCES and
+ANNOUNCEMENTS}\hfill}
+> \label{page:conference.announcements}
+>
+> % ===================================================================
+>
+> \begin{center} {\Large\bf
+> CHEMICAL COMPOSITION OF STARS
+> }\end{center}
+> \par
+> \medskip
+> In commemoration of the 50th anniversary of the paper by Chamberlain and
+> Aller that showed that the subdwarfs are metal-poor, and the discovery
+> of technetium in stars. \\
+>
+> The Astronomy department of the University of Washington is pleased to
+> announce a conference on the CHEMICAL COMPOSITION OF STARS to be held in
+> SEATTLE on SEPTEMBER 19-- 22, 2001. Specific subtopics that we would
+> like covered include: \\
+>
+> \begin{flushleft}
+> Li, Be, B, in stars \\
+> C, N, O, Na, Al, alphas \\
+> Hot Stars (types O, B, A) \\
+> Supernova Nucleosynthesis \\
+> Extremely metal-poor stars \\
+> AGB and post-AGB stars \\
+> Stars with planets \\
+> L and T stars \\
+> Atmospheric modeling and NLTE \\
+> \end{flushleft}
+>
+> Specific social events will include a salmon bake and a Seattle
+> Mariners baseball game. \\
+>
+> To receive further information and to help us estimate the number of
+> attendees please send an email to WALL@ASTRO.WASHINGTON.EDU if it is
+> likely that you will attend. \\
+>
+> A web site will be created within a month or so. \\
+>
+> The Scientific Organizing Committee consists of \\
+>
+> \begin{flushleft}
+> Lawrence Aller and Jesse Greenstein (Honorary Chairmen) \\
+> W.D. Arnett \\
+> A.M. Boesgaard \\
+> C. Charbonnel    \\
+> M. Carlsson \\
+> G. Gonzalez \\
+> W. Haxton \\
+> J. Lutz \\
+> C.A. Pilachowski \\
+> V.V. Smith \\
+> C. Sneden \\
+> K. Venn \\
+> G. Wallerstein, Chair
+> \end{flushleft}
+> \par
+> \medskip
+> \noindent
+> % ---------------------------------------------------------------
+> % 3) For general announcements, there is no extra information to give.
+> %    However when submitting a Thesis abstract, please state WHEN, WHERE
+> %    and  under WHOSE DIRECTION your degree was completed. (Follow the
+> %    style of thesis summaries appearing in PASP, for example.)
+> %
+> {\it For furhter infomration, contact\ }       {\tt
+WALL@ASTRO.WASHINGTON.EDU   }\\
+> \medskip
+> \noindent
+> \dotfill
+>
+> % Last contribution ...
+> \noindent \hrulefill \par \vspace*{-3mm} \noindent \hrulefill
+> %========================================================================
+>
+> \end{document}
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>

@@ -1,0 +1,173 @@
+From kyl@asiaa.sinica.edu.tw Tue Jul 13 14:56 CST 1999
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA26151
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 13 Jul 1999 14:56:05 +0800 (CST)
+Received: from asiaa (asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA15114
+	for <astro@asiaa.sinica.edu.tw>; Tue, 13 Jul 1999 14:47:38 +0800
+Date: Tue, 13 Jul 1999 14:47:37 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ISO_Workshop_on_Ext_IR_Emm_3rd_try (fwd)
+Message-ID: <Pine.LNX.4.04.9907131447350.15081-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4921
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 12 Jul 1999 21:52:03 +0200 (MET DST)
+From: ISO Helpdesk <helpdesk@iso.vilspa.esa.es>
+To: kyl@astro.uiuc.edu
+Subject: ISO_Workshop_on_Ext_IR_Emm_3rd_try
+
+Dear all,
+
+Because of problems with our mail server some of you have already received
+this message. Sorry for any inconvenience.
+
+                                                              ISO Helpdesk
+_______________________________________________________________________________
+
+Third announcement of Workshop
+
+     ISO beyond point sources: studies of extended infrared emission
+     ===============================================================
+
+                         ------------------
+                        |Preliminary Agenda|
+                         ------------------
+
+                        14-17 September 1999
+                          ISO Data Centre
+                      Villafranca del Castillo
+                           Madrid, Spain
+
+
+This is the third announcement for a workshop which will be held at the Data
+Centre of the Infrared Space Observatory (ISO) in Villafranca del Castillo
+near Madrid (Spain) from September 14 to 17, 1999. Please find
+attached the preliminary agenda for the workshop.
+
+The workshop organisation is ongoing: so far we have received registrations
+from more than 40 astronomers. More information on the workshop including
+registration and hotel booking forms can be found under:
+
+http://www.iso.vilspa.esa.es/meetings/isobeyond/.
+
+Looking forward to seeing you at the meeting,
+Rene Laureijs
+on behalf of the SOC and LOC
+
+
+PRELIMINARY AGENDA
+
+Except for the talk by J.-L Puget (30+10 min), all talks will
+last 20 minutes plus 10 minutes of discussion.
+
+
+Day 1 (14/09/99)
+----------------
+
+Registration - until 14:00 am
+
+V. Claros		Welcome from VILSPA Station Director
+M.F. Kessler    	Workshop Opening from ISO Project Scientist
+
+Session 1: Analysis of extended infrared emission
+
+J.-L. Puget		Review: Extended source emission - what has been
+			achieved among infrared instruments
+A. Salama		ISO beam profiles: Towards extended source calibration
+K. Okamura		The ISO p.s.f. and ISOCAM beam profiles
+T. Mueller		Aperture photometry with ISOPHOT
+C. Lloyd		LWS fringing and beam profile
+C. Gabriel		Map coadding and simulation techniques with ISOPHOT
+
+Day 2 (15/09/99)
+----------------
+
+M.-A. Miville-Deschenes	ISOCAM mapping of Galactic cirrus: new ISOCAM data
+			reduction techniques for raster imaging of extended
+			emission.
+J.-L. Starck		Object detection and deconvolution: a combined approach
+
+Session 2: Extended objects in the Solar system
+
+L. Colangeli		ISOCAM and ISOPHOT Observations of comets
+P. Lamy			Observations of Hale Bopp
+
+Session 3: Diffuse ISM
+
+F. Boulanger		Spectroscopic observations extended emission with
+			ISOCAM
+M. Tanaka		IRTS/NIRS results of the diffuse 3.3 micron UIR band
+S. Price		Mapping of the Galactic Plane with MSX
+R.J. Laureijs		ISOPHOT observations of cirrus structures
+T. Lim			LWS parallel mode: usage and first results
+
+Session 4: Resolved structures in the Galaxy
+
+J. Cernicharo		Infrared emission in high mass star forming regions.
+A. Abergel		ISOCAM Survey of star forming regions:
+			Extended emission
+
+Day 3 (16/09/99)
+----------------
+
+E. Caux			Observations of NGC1333
+G.J. White		LWS observations of the galactic centre
+H.J. Wendker		ISO and Radio Comparison of G79.49+0.46
+J.-M. Afonso            ISO observations of faint radio sources
+
+Session 5: Circumstellar Environment
+
+S. Fajardo Acosta	ISOPHOT mapping of Vega type circumstellar dust
+T. Le Bertre		Extended IR emission of red giants
+M. Meixner		Circumstellar dust around Post-AGB stars
+
+Session 6: Resolving Galaxies
+
+S. Bianchi		ISO observations of spirals: Modeling the FIR emission
+K. Mochizuki		CII/FIR Continuum toward the central kpc of M31
+G. Knapp		Extended emission from cold dust in E galaxies
+J. Rodriguez Espinosa	Extended FIR emission in Elliptical galaxies
+C. Carilli		High-Res infrared and mm imaging of Cyg A and Cen A:
+			constraining physical processes in radio loud
+			active galaxies
+
+Day 4 (17/09/99)
+----------------
+
+Session 8: Cosmology, Extragalactic background
+
+E. Pointecouteau	The Abell 2163 spectrum from infrared to millimeter
+			wavelengths.
+H. Dole			ISO FIRBACK survey at 170 microns
+P. DeBernardis		BOOMERANG observations of the CBR
+
+Session 9: Future Prospects
+
+J. Tauber               Extended foreground emission with Planck
+G. Pilbratt              Prospects of observing extended emission with FIRST
+
+Session 10: Round the table discussion
+
+Lessons learned for future work: new perspectives from this workshop
+
+13:00   Closing
+
+

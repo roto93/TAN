@@ -1,0 +1,51 @@
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: ALMA Cycle 6 Pre-announcement
+> Date: Tue, 19 Dec 2017 11:13:35 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>        riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear all,
+
+    The ALMA Cycle 6 Pre-announcement has been released. 
+
+    The Joint ALMA Observatory (JAO) will start the next cycle of observing (Cycle 6) in October 2018. 
+    A Call for Proposals with detailed information on Cycle 6 will be issued in March 2018, with a deadline for proposal submission in April 2018. 
+    This pre-announcement highlights aspects of the Cycle 6 proposal call that are needed to plan proposals.
+
+    The key dates for Cycle 6 are given below.
+
+        18 December 2017    Cycle 6 pre-announcement
+
+        1 February 2018    Additional information on configuration schedule
+
+        20 March 2018        Release of the ALMA Cycle 6 Call for Proposals and Observing Tool, and opening of archive for proposal submission
+
+        19 April 2018        Proposal deadline
+
+        18-23 June 2018    Proposal Review meeting
+
+        End of July 2018    Result of the proposal review sent to Proposers
+
+        6 September 2018    Deadline for Phase 2 submission by Proposers
+
+        October 2018        Start of ALMA Cycle 6 observations
+
+        September 2019    End of Cycle 6 observations
+
+    New in Cycle 6 — In Cycle 6, the following opportunities will be available to Proposers for the first time.
+
+        a. Circular polarization: proposals will be accepted for Bands 3, 4, 5, 6, and 7 in all (including circular) polarization modes for continuum and spectral-line observations. The minimum detectable degree of circular polarization, defined as three times the systematic calibration uncertainty, is currently 1.8% of the peak flux for both TDM and FDM observations. Additional information on the circular polarization capabilities will be presented in the 1 February 2018 announcement on the ALMA Science Portal.
+
+        b. Band 6 IF extension: The Band 6 IF bandwidth has been increased by 0.5 GHz to extend from 4.5 to 10 GHz. This will enable 12CO, 13CO, and C18O J=2-1 to be observed simultaneously with broader spectral windows for galactic sources and nearby galaxies.
+
+        c. Band 8 ACA Standalone: Band 8 can be requested on the ACA in standalone mode.
+
+        d. Band 8 standard mode: Band 8 will become a standard mode starting in Cycle 6.
+    
+    See https://almascience.nao.ac.jp/news/alma-cycle-6-pre-announcement for more information.
+
+best,
+Yu-Nung
+
+==============================================================================

@@ -1,0 +1,273 @@
+=============================================================================
+
+In this issue (Oct 07 - 10, 2020)
+
+1. Release of Full Polarization ALMA Test Data
+2. ASIAA Colloquium/Seminar/Lunchtalk (Oct 12): Natsuko Izumi (ASIAA)
+                                      (Oct 14): Pei, Ting-Hang (ASIAA)
+3. Registration Open for Astronomy Winter School: High-Energy Astrophysics
+4. ASIAA Colloquium/Seminar/Lunchtalk (Oct 14): Aniket Agrawal
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Subject: Release of Full Polarization ALMA Test Data
+Date: Thu, 8 Oct 2020 11:21:56 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+FYI
+
+------------------------------------------------------------------------------
+
+Release of Full Polarization ALMA Test Data
+Oct 01, 2020
+https://almascience.nao.ac.jp/news/release-of-full-polarization-alma-test-data
+
+On 1 October ALMA has released data acquired as part of the Extension and Optimization of Capabilities effort (EOC). The data were used to test, implement, and determine the accuracy of the linear-polarization mosaicking observing mode of ALMA. The data consist of:
+
+(1) Offset-pointing full-polarization observations performed in an 11x11 pointing grid in the (Azimuth, Elevation) frame, covering a region spanning approximately the full-width at half-maximum (FWHM) of the primary beam at bands 3, 5, 6, and 7. The observations were of the bright, highly linearly polarized quasar 3C 279.
+
+(2) A 15 and 45-pointing mosaic in band 3 and band 6, respectively, toward the Orion-KL nebula. The observations were configured as rectangular mosaics with a factor of 2 over-sampling (with respect to Nyquist) along both axes, or a factor of 4 in total beam overlap. Both mosaics are centered at RA = 05:35:14.5, DEC = -05:22:31.6 (J2000), using the standard spectral specification for continuum polarization observations with ALMA. The mosaics were oriented at approximately 30 degrees E of N, with an approximate extension of 90 arcsec in width and 130 arcsec in length for band 3, and 54 arcsec in width and 82 arcsec in length for band 6. The approximate angular resolution of the data is 0.9 arcsec in band 3 and 0.6 arcsec in band 6. The approximate achieved sensitivity is 0.9, 0.1, and 0.1 mJy/beam for Stokes I, Q, and U, respectively, in band 3 and 2.1, 0.5, and 0.49 mJy/beam for Stokes I, Q, and U, respectively, in band 6.
+
+Note that the theoretical sensitivity was not reached for the Stokes I Orion-KL data as the image was dynamic range limited. The raw data, along with the calibrated measurement sets, reference images, and reduction scripts are included in the release.
+
+The data are available here (please refer to the readme file at each of these locations for information on the content of the files):
+- 3C279 data (https://alma-dl.mtk.nao.ac.jp/ftp/alma/sciver/3C279-11x11/)
+- OrionKL data (https://alma-dl.mtk.nao.ac.jp/ftp/alma/sciver/OrionKL-Pol/)
+
+More detailed information on the data release can be found here:
+
+https://almascience.org/alma-data/science-verification
+
+==============================================================================
+
+Date: Thu, 8 Oct 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Natsuko Izumi (ASIAA)
+Topic:         Core mass function in low-metallicity environment
+Time:         10/12 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+Understanding the origin of stellar initial mass function (IMF) is a central issue in the study of star formation. The past studies of dense cores reported that the slope of the stellar IMF and core mass function (CMF) are consistent, suggesting that the fundamental mass distribution of stars is determined during the early stage of the core formation. However, dense cores have been observed and studied only in the inner part of the Galactic plane (including the solar neighborhood), which has similar metallicity to that of the solar neighborhood. Thus, an important question to address is whether the same relation between the CMF and stellar IMF holds true even in low-metallicity environments. To solve this question, we performed CO and dust continuum ALMA high-resolution (~0.1 pc scale) mapping observation toward a massive star-forming molecular cloud in the outer Galaxy, which has much lower gas density and lower metallicity (~20 % of the solar neighborhood value) than those!
+   in the solar neighborhood . As the results, we successfully detected ~0.1 pc-wide filament structures and ~0.1 pc-scale dense core structures in the outer Galaxy for the first time. We also found that the slope of the CMF in the outer Galaxy is similar to that of the universal IMF. These results suggest that the star-formation processes in the low-metallicity environment follow a universal law.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* next Tue.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Pei, Ting-Hang (ASIAA)
+Topic:         Microlamp Thermal Analysis by ANSYS.
+Time:         10/14 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+==============================================================================
+
+From: Albert Kong <akong@gapp.nthu.edu.tw>
+Date: Thu, 8 Oct 2020 11:57:49 +0800
+Subject: Registration Open for Astronomy Winter School: High-Energy Astrophysics
+To: astro@asiaa.sinica.edu.tw
+
+
+Please help forward the following message about a high-energy astrophysics
+winter school at NTHU during the winter break.
+
+Albert
+
+*****************************
+
+*NTHU/NCTS Astronomy Winter School: High-Energy Astrophysics*
+Jan 18th =E2=80=93 22nd
+*Online, and NCTS, Hsinchu*
+
+We are pleased to announce the NTHU/NCTS Winter School on High-Energy
+Astrophysics, to be held both online and at the National Center for
+Theoretical Science, Hsinchu, Taiwan, January 18th =E2=80=93 22nd, 2021.
+------------------------------------------------------------------------
+Registration is now open. Please complete registration here:
+http://phys.cts.nthu.edu.tw/actnews/intro.php?Sn=3D505&OSn=3D1349
+You can indicate whether you will attend on-site or remotely.
+*Registration deadline: 20th December 2020.*
+------------------------------------------------------------------------
+We cordially invite your participation.
+The purpose of this winter school is to present an overview of the progress
+in major areas of cosmic ray astrophysics and gamma-ray astronomy in recent
+years, and to provide an introduction to the essential physics and
+concepts. It will also be an opportunity to bring together both new and
+established researchers in the field for discussion and exchange of ideas\.
+The programme will cover a broad range of topics within cosmic ray
+astrophysics and gamma-ray astronomy, ranging from theory/modelling &
+simulation to instrumentation & observation.
+
+The school is intended for graduate research (PhD and Masters) students and
+post-docs with an interest in becoming involved in high energy astrophysics
+(in particular, topics relating to cosmic rays and gamma-rays), as well as
+early-career scientists already active in the field looking to broaden
+their understanding. It will comprise of a keynote lecture and six primary
+lecture series from international experts, plus five highlight science
+talks to complement the programme. The keynote lecture will be given by
+Prof Werner Hofmann (Max-Planck-Institut f=C3=BCr Kernphysik, Heidelberg,
+Germany).
+
+Please see our website for detailed information about the lecturers,
+courses and highlight talks:
+http://phys.cts.nthu.edu.tw/actnews/content.php?Sn=3D505
+Remote attendance is encouraged, particularly for those wishing to attend
+from outside of Taiwan.
+
+Due to limited availability of seats, those wishing to attend in person
+should register as early as possible to ensure on-site participation. After
+on-site spaces are filled, online registration will remain open until 20th
+December 2020.
+
+*Topics*
+Cosmic rays, gamma-ray astronomy, particle acceleration and interactions,
+instrumentation
+
+*Keynote talk*
+Werner Hofmann (MPIK)
+
+*Invited lecturers*
+Jim Hinton (MPIK)
+Yoshiyuki Inoue (Osaka)
+Albert Kong (NTHU)
+Frank Rieger (ZAH, Heidelberg/MPIK)
+Kinwah Wu (UCL/MSSL)
+Hsiang-Yi Karen Yang (NTHU)
+
+*Highlight speakers*
+Hsiang-Kuang Chang (NTHU)
+Kwan Lok Li (NCKU)
+Alison Mitchell (Adelaide/Zurich)
+Ellis Owen (NTHU)
+Pooja Surajbali (MPIK)
+
+There is no registration fee. Registration is open now. The registration
+deadline will be 20th December 2020. Note that on-site participation will
+be limited to 50 people. Due to the limited availability of seats,
+interested parties wishing to attend on-site please visit our website and
+sign up to register as early as possible to ensure your participation.
+There will be no limitation on the number of people wishing to join
+remotely.
+
+Financial support for transportation and accommodation expenses is
+available for the on-site attendees who have no other means of funding
+support. Please visit our website for more relevant details.
+
+We look forward to seeing you at the winter school.
+
+*Organising committee*
+Dr Ellis Owen
+Prof Albert Kong
+Institute of Astronomy, National Tsing Hua University
+
+==============================================================================
+
+Subject: Re: Colloquium/Seminar/Lunchtalk next week
+Date: Thu, 8 Oct 2020 14:46:13 +0800
+Cc: OKUMURA Teppei <tokumura@asiaa.sinica.edu.tw>
+To: circular_colloquium@asiaa.sinica.edu.tw
+
+
+There is one more talk at colloquium next week. Sorry for the late notice.=
+=20
+
+NEXT Colloquium: 2020-10-14 Wed 14:20~15:20 [R1203]
+Speaker:    Aniket Agrawal
+Topic:    Probing the early Universe with gravitational waves
+Abstract:    Observations of the cosmic microwave background over the last two=
+ decades hint that all structure in our Universe, including us, arose from =
+quantum fluctuations at its birth. One key piece in confirming this picture=
+, however, remains missing. In this talk, I will describe how observations =
+of gravitational waves from the very beginning of our Universe can provide =
+this missing piece. I will also talk about how we can use these primordial =
+gravitational waves to probe the constituents of our Universe at its moment=
+ of birth, and how they might provide possibly the only evidence for quantu=
+m gravity.
+
+
+On Oct 8, 2020, at 11:30, ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.=
+tw> wrote:
+=20
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+=20
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.=20
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the=
+ lunch box fee will be charged to YOU.
+____________________________________________________=20
+Speaker:    Natsuko Izumi (ASIAA)
+Topic:         Core mass function in low-metallicity environment
+Time:         10/12 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+Understanding the origin of stellar initial mass function (IMF) is a cent=
+ral issue in the study of star formation. The past studies of dense cores r=
+eported that the slope of the stellar IMF and core mass function (CMF) are =
+consistent, suggesting that the fundamental mass distribution of stars is d=
+etermined during the early stage of the core formation. However, dense core=
+s have been observed and studied only in the inner part of the Galactic pla=
+ne (including the solar neighborhood), which has similar metallicity to tha=
+t of the solar neighborhood. Thus, an important question to address is whet=
+her the same relation between the CMF and stellar IMF holds true even in lo=
+w-metallicity environments. To solve this question, we performed CO and dus=
+t continuum ALMA high-resolution (~0.1 pc scale) mapping observation toward=
+ a massive star-forming molecular cloud in the outer Galaxy, which has much=
+ lower gas density and lower metallicity (~20 % of the solar neighborhood v=
+alue) than those!
+  in the solar neighborhood . As the results, we successfully detected ~0=
+.1 pc-wide filament structures and ~0.1 pc-scale dense core structures in t=
+he outer Galaxy for the first time. We also found that the slope of the CMF=
+ in the outer Galaxy is similar to that of the universal IMF. These results=
+ suggest that the star-formation processes in the low-metallicity environme=
+nt follow a universal law.
+=20
+=20
+=20
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* next Tue.=20
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the=
+ lunch box fee will be charged to YOU.
+____________________________________________________=20
+Speaker:    Pei, Ting-Hang (ASIAA)
+Topic:         Microlamp Thermal Analysis by ANSYS.
+Time:         10/14 (Wednesday) 12:00 - 13:00
+Place:          R1203
+=20
+=20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

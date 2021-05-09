@@ -1,0 +1,480 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Nov  7 19:55:37 2008
+Date: Fri, 7 Nov 2008 19:49:35 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Oct 23 - Nov 07, 2008)
+
+==============================================================================
+
+In this issue (Oct 23 - Nov 07, 2008)
+
+[[ Because of some technical issues, some of the announcements with timeliness
+   were not distributed in time. We feel terribly sorry for the delay and
+   apologize to all TAN subscribers, in particular, to the many contributors.
+   -- YJK ]]
+
+1. NCU Astronomy Colloquium (Oct 31): Ingrid Mann (Kindai Univ, Japan)
+2. Workshop: Imaging and Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI
+   (Dec 1-3)
+3. TKU Astronomy Colloquium (Oct 28): Ingrid Mann (Kindai Univ, Japan)
+4. The 6th Conference of the Overseas Chinese Physics Association
+   (OCPA6: Aug 3-7, 2009)
+5. NCU Astronomy Colloquium (Nov 07): Jeremy Lim (ASIAA)
+6. NTHU Astronomy Colloquia (Nov 07): I-Chun Shih (NTHU)
+                            (Nov 11): Jason Pun (Univ of Hong Kong)
+
+==============================================================================
+
+> Date: Wed, 22 Oct 2008 22:12:34 +0800 (CST)
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: NCU Colloquium October 31 --- I. Mann
+
+Hi Yi-Jehng
+
+Our Colloquium announcement ... please circulate.
+
+-----------------------------------------------------------------------
+
+NCU Colloquium
+
+  Prof. Ingrid Mann
+  School of Science and Engineering, Kindai University, Osaka, Japan
+
+  October 31, Friday, 14:00
+  Room 1013, S-4, NCU Campus
+
+Title:
+  Dust in Planetary Systems: the Sun and  Pictoris
+
+Abstract:
+
+Vega-like systems or dust debris disks are characterized by a small amount 
+of circumstellar gas, the presence of planetary objects and dust. The 
+small solar system objects (trans-Neptunian objects, asteroids, comets, 
+and meteoroids) and the interplanetary dust cloud also form a planetary 
+debris disk, although the solar system dust density is much lower than for 
+the debris disks that are observed around other stars. A large amount of 
+observational data, though of different kind, exist for the solar system 
+and the Pictoris system. After discussing our basic knowledge of planetary 
+disk evolution, this presentation will address the existence of a 
+second-generation gas component and the existence of amorphous and 
+crystalline silicates in the solar system and around Pictoris.
+
+==============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: [Almasci] [Workshop: Imaging and Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI]
+> Date: Fri, 24 Oct 2008 11:29:00 +0800
+
+Dear Yi-Jehng,
+
+	Would you please kindly pass the following information around?
+Thanks!
+
+best,
+sheng-yuan
+
+
+=B6}=A9l=C2=E0=B1H=B6l=A5=F3=A1G
+
+> =B1H=A5=F3=A4H: Al Wootten <awootten@nrao.edu>
+> =A4=E9=B4=C1: October 23, 2008 10:22:54 PM GMT+08:00
+> =A6=AC=A5=F3=A4H: almasci@nrao.edu
+> =BC=D0=C3D: [Almasci] [Fwd: Workshop: =20
+> Imaging and Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI]
+>
+>
+> =B1H=A5=F3=A4H: "Anita M. S. Richards" =
+<a.m.s.richards@manchester.ac.uk>
+> =A4=E9=B4=C1: October 23, 2008 10:13:01 PM GMT+08:00
+> =A6=AC=A5=F3=A4H: merlin-announce@jb.man.ac.uk
+> =BC=D0=C3D: Workshop: Imaging and =20
+> Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI
+>
+>
+>
+>
+> Imaging and Calibration Algorithms for EVLA, e-MERLIN, ALMA, VLBI
+> *****************************************************************
+>
+> December 1 - 3 2008
+> E-Science Research Centre, University of Oxford
+>
+> =
+http://astrowiki.physics.ox.ac.uk/cgi-bin/twiki/view/Algorithms2008/WebHom=
+e
+>
+> Apologies for duplication if you have already seen this.
+> Please let algorithms2008@astro.ox.ac.uk know as soon as possible =20
+> (ideally well before 31 October) if you are interested, and if you =20
+> want RadioNet financial support.
+>
+> Over the next few years, there will be enormous improvements in the =20=
+
+> sensitivity, resolution and frequency coverage of aperture-synthesis =20=
+
+> arrays working at cm, mm and sub-mm wavelengths. In order to make =20
+> best use of the new and upgraded arrays
+>
+> - ALMA, EVLA, e-MERLIN and e-VLBI - advanced imaging and calibration =20=
+
+> algorithms
+> are required.  This workshop will bring together those working on =20
+> algorithm
+> requirements, design and implementation, with the following aims:
+>
+> - to describe what is available and compare different approaches;
+> - to identify what is missing;
+> - to promote collaboration between different groups and
+> - to work out how new algorithms can be implemented in a framework
+>   which allows astronomers (including newcomers to interferometry) =20
+> to make
+>   most effective use of the new instruments.
+>
+> Key topics include (but are not restricted to):
+>
+> - accurate imaging over wide fields with large fractional bandwidths;
+> - correction of pointing errors, atmospheric attenuation,
+>   variations of the primary beam with time, closure errors, etc.;
+> - correction of tropospheric and ionospheric phase errors, including
+>   anisoplanatic effects;
+> - imaging with heterogeneous arrays and combination of
+>   single-dish and interferometric data;
+> - deconvolution methods for single fields and mosaics;
+> - polarization imaging over wide fields.
+>
+> We will include a session for work in small groups, to allow =20
+> developers to exchange or explain code and techniques in detail.
+>
+> Although the workshop will be focused on the immediate needs of =20
+> current cm
+> and mm-wave arrays, we encourage input from those working on low-=20
+> frequency
+> projects and SKA development.
+>
+> The workshop will take place at the Oxford University E-Science =20
+> Research Centre between Dec 1 and 3 2008.  We plan to reserve =20
+> accommodation for workshop participants at one of the Oxford =20
+> Colleges. The meeting is supported by Radionet and Oxford =20
+> Astrophysics. There will be no registration fee and lunches and =20
+> refreshments during the meeting will be provided.  Limited support =20
+> for travel and accommodation will be available from Radionet, =20
+> primarily (but not exclusively) for those working at institutes =20
+> within the EU.
+>
+> For those not able to attend the meeting in person, we plan to provide
+> video-conferencing facilities.
+>
+> =
+http://astrowiki.physics.ox.ac.uk/cgi-bin/twiki/view/Algorithms2008/WebHom=
+e
+> also contains practical information such as accomodation.
+>
+> If you are interesting in attending the meeting, please send an e-=20
+> mail to algorithms2008@astro.ox.ac.uk, including a brief summary of =20=
+
+> your current interests in algorithm requirements, design or =20
+> implementation. If you would like to give a presentation, please =20
+> send us a title.  Attendance will be limited to around 30, so a =20
+> quick reply would help us to plan the meeting effectively. Feel free =20=
+
+> to circulate this message to others you think might be interested, =20
+> particularly students and other young researchers.
+>
+> Radionet support is limited, so we hope that most participants will =20=
+
+> be funded by their home institutes. If you think you will need =20
+> additional support in order to come, please send us an estimate.
+>
+> Scientific Organizing Committee
+>
+> Robert Laing (ESO)
+> Anita Richards (Jodrell Bank Centre for Astrophysics)
+> Frazer Owen (NRAO)
+> Ian Heywood (University of Oxford)
+>
+> Local Organizing Committee
+>
+> Ian Heywood (Astrophysics, University of Oxford)
+> Anita Richards (Jodrell Bank Centre for Astrophysics)
+> Vanessa Ferraro-Wood (Astrophysics, University of Oxford)
+> Kay Sutton (Oxford E-Science Research Centre)
+>
+> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - =20=
+
+> - - -
+>
+> Dr. A.M.S. Richards, UK ARC Node/AstroGrid,
+> Jodrell Bank Centre for Astrophysics, Alan Turing Building, =20
+> University of Manchester, M13 9PL
+> +44 (0)161 275 4124
+> and
+> MERLIN/VLBI National Facility, Jodrell Bank Observatory, Cheshire =20
+> SK11 9DL, U.K. +44 (0)1477 571321 (tel) 571618 (fax)
+>
+> "Socialism or barbarism?" Rosa Luxemburg (1915)
+>
+>
+> _______________________________________________
+> Almasci mailing list
+> Almasci@listmgr.cv.nrao.edu
+> http://listmgr.cv.nrao.edu/mailman/listinfo/almasci
+
+==============================================================================
+
+> Date: Sat, 25 Oct 2008 11:14:02 +0800 (CST)
+> From: Yi-nan Chin <einmann@astro.phys.tku.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: TKU colloquium Oct. 28, 2 pm
+
+Hi Yi-Jehng,
+
+Please circulate the following colloquium for Oct 28 at Tamkang University.
+
+	Thanks.
+
+		Yi-nan
+
+----------------------- TKU Physics Colloquium ------------------------
+ Speaker  : Prof. Ingrid Mann
+            School of Science and Engineering, Kindai University, Osaka, Japan
+ Title    : Dust in Planetary Systems: the Sun and beta Pictoris
+ Time     : 10/28 (Tuesday) 2:10 pm
+ Location : TKU Tamsui Campus, Science Building, Room S215
+ Abstract :
+   Vega-like systems or dust debris disks are characterized by a small
+   amount of circumstellar gas, the presence of planetary objects and dust.
+   The small solar system objects (trans-Neptunian objects, asteroids,
+   comets, and meteoroids) and the interplanetary dust cloud also form a
+   planetary debris disk, although the solar system dust density is much
+   lower than for the debris disks that are observed around other stars. A
+   large amount of observational data, though of different kind, exist for
+   the solar system and the Ã Pictoris system. After discussing our basic
+   knowledge of planetary disk evolution, this presentation will address
+   the existence of a second-generation gas component and the existence of
+   amorphous and crystalline silicates in the solar system and around beta
+   Pictoris.
+-----------------------------------------------------------------------
+
+==============================================================================
+
+> Date: Mon, 27 Oct 2008 11:11:16 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: twhepnet@hepmail.phys.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>
+> Subject: OCPA6! (fwd)
+
+---------- Forwarded message ----------
+Date: Fri, 24 Oct 2008 20:37:40 -0400 (EDT)
+From: H. Gao <gao@tunl.duke.edu>
+To: Pauchy W-Y.Hwang <wyhwang@phys.ntu.edu.tw>
+Cc: Haiyan Gao <gao@tunl.duke.edu>
+Subject: OCPA6!
+
+Dear Pauchy,
+
+Will you be kind enough to forward the 1st announcement of OCPA6 
+(attached) to physics colleagues in Taiwan, perhaps through the society 
+email mailing list if possible?
+
+Thank you very much!
+
+Haiyan
+
+---------------------------------------------------------------------------
+   Prof. Haiyan Gao			URL: http://www.tunl.duke.edu/~mep
+   Associate Chair for Teaching
+   Department of Physics, Duke University
+   Triangle Universities Nuclear Laboratory
+   Office:  2313 FFSC
+   Office Phone: (919)-660-2622
+          Fax:   (919)-660-2634
+   Email: gao@tunl.duke.edu
+   Mailing address: Triangle Universities Nuclear Laboratory (TUNL)
+ 		   Science Drive
+ 		   Box 90308
+   		   Duke University
+   		   Durham, NC 27708
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+First announcement
+
+The 6th joint meeting of Chinese physicists worldwide (OCPA6) -
+International Conference on Physics Education and Frontier
+Physics Research
+
+
+The 6th joint meeting of Chinese physicists worldwide (OCPA6)-
+International Conference on Physics Education and Frontier Physics
+Research will be organized by the Institute of Modern Physics of the
+Chinese Academy of Science, Lanzhou University, and the Overseas
+Chinese Physics Association (OCPA) on August 3-7, 2009 in Lanzhou,
+China.
+
+The conference continues a series held previously in Shantou (1994),
+Taipei (1997), Hong Kong (2000), Shanghai (2004) and Taipei (2006).
+
+The scientific program will feature invited talks in plenary sessions,
+invited and contributed talks in parallel sessions. Scientific topics will
+cover the latest experimental and theoretical developments in all subareas
+of physics. The educational program will cover new progress in
+physics education, public outreach, mentoring of undergraduate
+students, graduate students and postdoctoral researchers.
+
+The conference will be held on the site of Lanzhou University, located
+in the heart of the city of Lanzhou in Gansu province. It is within
+walking distance to the famed Yellow River bank.
+
+A website has been set up for the conference and will be updated with
+detailed information as it becomes available. The URL is
+http://snst.lzu.edu.cn/web1/index.html
+
+Suggestions and inquiries about the conference can be sent to
+
+Prof. Bitao Hu
+School of Nuclear Science and Technology
+Lanzhou University
+Lanzhou, Gansu 730000, China
+hubt@lzu.edu.cn, phone: 86-0931-8913543
+
+Prof. Hushan Xu
+Inst. of Modern Physics
+The Chinese Academy of Science
+Lanzhou, Gansu 730000, China
+hushan@impcas.ac.cn, phone: 86-0931-4969325
+
+Prof. Haiyan Gao
+Department of Physics
+Duke University
+Durham, NC 27708, U.S.A.
+gao@phy.duke.edu, phone: (919)660-2622
+Prof. Zheng-Tian Lu
+Argonne National Laboratory
+Argonne, IL 60439, U.S.A.
+lu@anl.gov, phone:(630)252-0583
+
+==============================================================================
+
+> Date: Fri, 31 Oct 2008 13:22:21 +0800 (CST)
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: NCU Colloquium Nov 7, 2008 (Friday)
+
+Hi Yi-Jehng,
+
+Our colloquium announcement ... please circulate; thanks.
+
+Wen Ping
+
+-----------------------------------------------------------------------------
+
+Date/Time: Nov 7 (Friday) 14:00
+
+Place: S4-1013 (NCU)
+
+Speaker: Jeremy Lim (ASIAA)
+
+Title: X-ray Cooling Flows
+
+Abstract:
+
+Rich clusters of galaxies are immersed in X-ray emitting gas (which 
+originated from the Cosmic Web and/or are stripped from infalling gas-rich 
+galaxies).  In the absence of strong reheating, the X-ray gas around the 
+cluster core should cool on timescales much shorter than the Hubble time, 
+and flow towards the center in a phenomenon known as an X-ray cooling 
+flow. Although predicted about 40 years ago, subsequent searches for the 
+resultant cool gas or its products (stars) have failed to find material at 
+quantities anywhere near the predicted levels.  Observations this decade 
+show that the X-ray gas around the cluster center is strongly reheated by 
+the AGN in the central cD galaxy, and that any X-ray cooling flow is 
+weaker than can be currently detected in X-rays.
+
+Nevertheless, an increasing number of central cD galaxies in putative 
+X-ray cooling-flow clusters have been found to contain large amounts of 
+relatively cool gas, the dominant component of which constitutes cool 
+molecular gas traced in CO.  Here, I report our observations of CO in 
+Perseus A, the central cD galaxy in the Perseus Cluster, which is one of 
+the closest rich galaxy clusters and the X-ray-brightest cluster in the 
+sky.  I show that the properties of the cool molecular gas traced in CO is 
+consistent with predictions for a X-ray cooling flow, thus providing the 
+most direct evidence yet for the existence of a X-ray cooling flow in any 
+cluster.  I also describe the relationship between the cool molecular gas 
+and other gas components at higher temperatures, and examine the possible 
+fate of this gas.
+
+==============================================================================
+
+> Date: Sun, 2 Nov 2008 01:59:25 +0800
+> From: "Albert Kong" <akong@phys.nthu.edu.tw>
+> Sender: akhkong@gmail.com
+> To: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium: Nov 7 and Nov 11
+
+Hi,
+
+Would you please circulate the following information through the TAN? Thanks.
+
+Cheers,
+Albert
+
+-----------------------------------------------------------------------------
+Astronomy Colloquium
+Institute of Astronomy, National Tsing Hua University
+
+Date: Nov 7 (Friday)
+Time: 1:30pm
+Venue: NTHU Physics Building R620
+
+Speaker: Dr. I-Chun Shih (NTHU)
+Title: X-ray binaries in globular clusters
+Abstract:
+In this talk, I will briefly introduce X-ray binaries in globular
+clusters. Globular cluster is a sphere, dense region containing large
+number of old population stars, and it has long been considered as an
+ideal environment of X-ray binary formation. In the era of Chandra and
+XMM-Newton X-ray telescopes, astronomers not only can study galactic
+globular clusters X-ray binaries with greater details, but also can
+resolve luminous X-ray emitters, most of them are believed to be X-ray
+binaries, from nearby galaxies. They probably provide important
+knowledge about the evolution of binaries stars, globular clusters, or
+even galaxies.
+
+-----------------------------------------------------------------------------
+Astronomy Colloquium
+Institute of Astronomy, National Tsing Hua University
+
+Date: Nov 11 (Tuesday)
+Time: 12:10pm
+Venue: NTHU Physics Building R701
+
+Speaker: Dr. Jason Pun (University of Hong Kong)
+Title: Cosmic Explosions: Understanding and Utilizing Supernovae
+Abstract:
+Supernovae are stellar explosions that occurred during the final
+stages of stellar evolution. Supernovae are important objects in the
+astronomical world: they create almost all the elements in the
+universe, energize the interstellar medium, and serve as yardsticks
+for measuring cosmological distances. Our understanding of supernovae
+has greatly benefited from both large scale surveys and intensive
+studies of a few nearby samples. In this talk, I will introduce the
+observational diversity of supernovae and provide some updated results
+on Supernova 1987A, the closest supernova observed in 400 years.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

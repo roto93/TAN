@@ -1,0 +1,63 @@
+ Date: Sun, 29 Jan 2012 08:00:02 +0800
+ To: iaa@asiaa.sinica.edu.tw
+ Subject: Colloquium/special seminar this week
+ From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+ cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+    web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Prof. Yasushi Suto (The University of Tokyo)
+Topic:        Colors of a second Earth
+Time:        2/3 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+We develop a simple method to estimate the fractional areas of
+different surface types on earth-like exoplanets from multi-band
+photometry. Our attempt is to reproduce the scattered light curves as
+a sum of the 5 surface types, i.e., ocean, soil, vegetation, snow and
+cloud. We would like to answer an ambitious, but well-defined,
+scientific question: "If we discover an exoplanet identical to the
+Earth in the near future, can we infer the presence of vegetation
+observationally ?''. This is why we intentionally and specifically
+adopt the major surface types of the Earth, including vegetation, into
+the analysis even though our method is thus inevitably
+model-dependent. We apply our method to mock scattered light curves of
+the Earth and to the real data from the Earth observing satellite. In
+an idealized situation where the photometric errors are only photon
+shot noise, we are able to reproduce the fractional areas of those
+components fairly well. We may be even able to detect a signature of
+vegetation from the distinct feature of photosynthesis on the Earth,
+known as the red edge. In our reconstruction method, Rayleigh
+scattering due to the atmosphere has an important effect, and for
+terrestrial exoplanets with atmosphere similar to our Earth, it is
+possible to estimate the presence of oceans and an atmosphere
+simultaneously.
+
+
+References:
+1. Yuka Fujii, Hajime Kawahara, Yasushi Suto, Atsushi Taruya, Satoru
+Fukuda, Teruyuki Nakajima, and Edwin L. Turner:
+“Colors of a second Earth I: estimating the fractional areas of ocean,
+land and vegetation of Earth-like exoplanets”
+The Astrophysical Journal 715, 866—880, 2010.
+
+2. Yuka Fujii, Hajime Kawahara, Yasushi Suto, Satoru Fukuda, Teruyuki
+Nakajima, Timothy A. Livengood, and Edwin L. Turner: “Colors of a
+second Earth II: Effects of clouds on photometric characterization of
+Earth-like exoplanets”
+The Astrophysical Journal 738, 184(1-15), 2011.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Prof. Yasushi Suto (The University of Tokyo)
+Topic:        Cosmological implications of inhomogeneities in intra-cluster gas
+Time:        2/2 (Thursday) 15:30 - 16:30
+Place:        R1203
+Abstract:
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

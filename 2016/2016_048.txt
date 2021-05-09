@@ -1,0 +1,70 @@
+> Date: Thu, 17 Mar 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Ken Chen (EACOA/NAOJ)
+Topic:          Cosmic Dawn : Physics of the First Stars, Supernovae, and Galaxies
+Time:           3/22 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+One of the paramount problems in modern cosmology is to elucidate how the first generation
+of luminous objects, stars, supernovae, accreting black holes, and galaxies, shaped the early
+universe at the end of the cosmic dark ages. According to the modern theory of cosmological
+structure formation, the hierarchical assembly of dark matter halos provided
+the gravitational potential wells that allowed gas to form stars and galaxies inside them.
+Modern large telescopes have pushed the detection of galaxies up to a redshift of z ~ 10.
+However, models of the first luminous objects still require considerable effort to reach the
+level of sophistication necessary for meaningful predictions, Due to the complexity of involved
+physical phenomena, this physical understanding may only come by the proper use of
+numerical simulations. Therefore, I have used state-of-the-art simulations on some of largest
+supercomputers to study these objects. In my talk, I will discuss the possible physics behind
+the formation of these first luminous objects by presenting the results from our simulations.
+I will also give possible observational signatures of the cosmic dawn that will be the prime
+targets for the future telescopes such as the James Webb Space Telescope (JWST).
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Thiem Hoang (Canadian Institute for Theoretical Astrophysics)
+Topic:          Quantitative Polarimetry: from Star Formation to Cosmological Studies
+Time:           3/22 (Tuesday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+We are entering a golden age of dust polarimetry with numerous CMB experiments (e.g., SPIDER, BICEP/Keck, LiteBIRD) hunting for primordial gravitational waves through B-mode polarization, and a dozen of big instruments designed to elucidate the roles of magnetic fields in star formation through IR-mm dust polarimetry (e.g., SOFIA, SMA, ALMA, EVLA). The correct determination of B-mode signal, as well as solid understanding of magnetic fields in star formation, are only achieved when we have a quantitative treatment of dust polarization. In this talk, I will present first my results on quantifying the polarization spectrum of a newly discovered emission component, namely anomalous microwave emission. Second, I will review the quantitative, predictive theory of grain alignment based on radiative torques, and discuss ab-initio modeling of dust polarization that incorporates well-tested physics and comparisons with observational data. Third, I will present my plan to develop an a!
+ ccurate, physical model of CMB foreground polarization required for precision Cosmology with CMB-Stage IV experiments. Finally, I will discuss the unique potential of quantitative polarimetry in the next decade to elucidate the roles of magnetic fields in star and planet formation, and to reveal fundamental properties of magnetic turbulence and cosmic dust, through bridging solid theory, numerical simulations with observations.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Susanne Aalto (Chalmers Univ. of Technology / Onsala Space Observatory)
+Topic:          The Cold Winds of Change - Hot Cores and Cool Outflows in Dusty Galaxies
+Time:           3/23 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Molecular gas plays a fundamental role in feeding and regulating star formation and growth of supermassive black holes (SMBH) in galaxy nuclei and is therefore a primary evolutionary parameter in starburst and AGN activity.  The Atacama Large Millimeter/submillimeter Array (ALMA) is a powerful instrument for studying galaxy evolution using molecules as observational tools - exploiting their ability to trace dynamical, chemical and physical conditions. These tools are particularly important in studying the "cold Universe" and to probe extremely dust-enshrouded galaxy nuclei which are not accessible by optical or even IR tracers.
+
+I will present recent high resolution ALMA results on vibrationally excited molecules and how they can be used to peek inside the optically thick veil of extremely obscured galaxy nuclei. These lines are efficient probes even when N(H2) exceeds 1e24 cm-2 (A_V > 1000) and trace nuclear disks and bars,
+enclosed mass inside the dusty core - and are direct measures of the hidden mid-infrared luminosity densities. These nuclei may also drive massive, cold molecular winds that may empty the nuclear regions of gas and dust in a few tens of Myr.  With ALMA and the IRAM PdBI telescope we have studied several spectacular outflows - including the peculiar molecular jet of the nearby lenticular NGC1377, the tantalizing twin-outflow of the merger NGC3256 and the powerful molecular wind of the quasar Mrk231. I will briefly discuss the link between the evolutionary phase of the nuclear activity and the onset of cold winds.
+
+Finally, with ALMA the field of extragalactic astrochemistry is undergoing a revolution. If there is time towards the end of the presentation I will show you a few recent beautiful examples of this including the luminous infrarred galaxy NGC4418,  the nearby Seyfert galaxy NGC1068 and the iconic ultraluminous
+infrared galaxy Arp220.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Yao-Yuan Mao (Stanford)
+Topic:          Constraining the Flexibility in the Galaxy-Halo Connection
+Time:           3/24 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The detailed relation between dark matter halos and galaxies is one of the most critical questions about galaxy formation. Among different models of the galaxy-halo connection, the abundance matching technique provides a simple, heuristic description to populate galaxies in dark matter halos, and has been shown to yield good fits to the clustering of galaxies and other observable spatial statistics. The choice of the halo property that is matched to galaxy luminosity (or stellar mass) further provides insights into the galaxy formation physics. In this talk I will discuss how the choice of the halo property used in the abundance matching technique acts as hidden parameters that control specific behaviors, such as assembly bias, in the resulting mock catalog. Our studies show the degeneracy among these parameters, and demonstrate that these parameters can be constrained by the observable clustering signals.
+
+==============================================================================

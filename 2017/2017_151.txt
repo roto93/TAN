@@ -1,0 +1,53 @@
+> Date: Thu, 14 Sep 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Kai-yang Lin (ASIAA)
+Topic:         Report on the intensity mapping workshop
+Time:         9/18 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Li-Ting Hsu (ASIAA)
+Topic:         WIRCam/CFHT Near-Infrared Survey and Photometric Redshifts in the Extended GOODS-North field
+Time:         9/20 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+To understand the evolution of galaxies, near-infrared (NIR) imaging is essential because: (1) NIR can used to identify Balmer break of galaxies at 1<z<4, (2) NIR luminosity reflects the stellar mass of galaxies, and (3) NIR is less affected by the dust extinction comparing to optical observation. In this work, we will present deep NIR images (J, H, and Ks) of the extended Great Observatories Origins Deep Survey-North (GOODS-N) field observed from the WIRCam/CFHT. The data reaches 5-sigma limiting AB magnitudes (in 2” aperture) of J=24.6 mag, H=23.8 mag, and Ks=24.1 mag over ~0.25 deg2.  In the GOODS-N field, several deep multi-wavelength surveys have been carried out for various science goals, including radio survey from the VLA, FIR survey from the Herschel, MIR survey from the Spitzer, optical survey from the Subaru telescope, and X-ray survey from the Chandra space telescope. Our NIR survey can be an essential complementation in this field. In addition to the NIR image!
+s, we will also present photometric redshift (photo-z) results for non-X-ray and X-ray sources. For non-X-ray sources, we obtain the photo-z accuracy of sigma_NMAD=0.035 with the outlier fraction=7.2%. For X-ray sources, the photo-z accuracy of sigma_NMAD is 0.039 and the outlier fraction is 10.7%. Our photo-z quality is comparable to previous works in this field and show even smaller bias with respect to the spectroscopic redshift in general.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yuan-Sen Ting (Princeton/IAS)
+Topic:         The new era of Galactic Archaeology
+Time:         9/21 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Understanding physical processes responsible for the formation and evolution of galaxies like the Milky Way is a fundamental problem in astrophysics. However, a key challenge is that the properties and orbits of the stars can only be observed at present: to understand what happened in the Milky Way at earlier epochs, one must explore “archaeological” techniques. One idea, "chemical tagging,” aims to probe the history of the Milky Way via the unique imprint in chemical abundance space of long-disrupted star forming associations. I will discuss the opportunities and challenges associated with chemical tagging, including a first constraint on the disrupted cluster mass function in the Milky Way, and how Gaia, as well as extragalactic IFU studies, could be informative in the studies of chemical tagging. I will also describe a new set of tools for efficient measuring multi-elemental abundances from large quantities of low-resolution LAMOST spectra, for constraining the bina!
+ry fraction in the Milky Way, and for inferring asteroseismic parameters from spectra.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yuan-Sen Ting (Princeton/IAS)
+Topic:         Neural networks and their applications in physical sciences
+Time:         9/22 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Neural networks have gained much attentions in recent years due to their applications in various daily aspects including facial/voice recognition and data mining. Despite their remarkable ability, neural networks are severely underutilized and have not realized its full potential in physical sciences. In this talk, I will briefly explain the basic concepts as well as some exciting frontier ideas in neural networks. I will discuss the opportunities of applying this simple yet interesting idea to physical sciences using my studies of the Milky Way as an example. In particular, I will describe how a combination of data-driven models and neural networks can be an effective tool to harness information from low-resolution spectra and to relate various fields in physical sciences -- such as the studies of spectroscopy and asteroseismology in astronomy.
+
+==============================================================================

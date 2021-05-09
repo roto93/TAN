@@ -1,0 +1,91 @@
+From kyl@asiaa.sinica.edu.tw Thu Dec  9 08:47 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA04922
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 9 Dec 1999 08:47:35 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA05387
+	for <astro@asiaa.sinica.edu.tw>; Thu, 9 Dec 1999 08:44:31 +0800
+Date: Thu, 9 Dec 1999 08:43:23 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: SCIENCE OBSERVATIONS DURING ORBITAL VERIFICATION (fwd)
+Message-ID: <Pine.SOL.4.10.9912090843200.27521-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3442
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 8 Dec 1999 16:47:06 -0500 (EST)
+From: AutoBot_Message <STScI-Generic@stsci.edu>
+Reply-To: duccio@stsci.edu
+To: kyl@astro.uiuc.edu
+Subject: SCIENCE OBSERVATIONS DURING ORBITAL VERIFICATION
+
+Dear colleagues:
+        During the forthcoming HST servicing mission , SM3A ,which is
+currently scheduled for December 11 , we will carry out  a
+recommissioning program of the HST observatory   called Servicing
+Mission Orbital Verification (SMOV) . During the early phases of this
+program  the HST  will be restricted  to point away from the Earth  at a
+region of space called the Bright Earth Avoidance region (BEA)  for
+approximately 12  days . This procedure ensures we do not reduce
+permanently the reflectivity  of the WFPC2 pickoff mirror, as UV light
+reflected by the Earth's surface might polymerize contaminants
+accumulated during the servicing mission and prevent their evaporation.
+During that time the  WFPC2 will not be useable for scientific
+observations and operations with the STIS  MAMAs will not be allowed for
+safety reasons.  Normal science operations will  therefore not be
+possible during that  period of time.
+        However it is possible to  use the STIS CCD and the FGS to carry
+out some observations during the BEA period and we have decided to craft
+a science observing program to take advantage of this  restricted
+observing  opportunity , on a non interference basis with the SMOV
+activities.  The program, which is currently being finalized, will
+consist of simple observations with the STIS CCD  which can be carried
+out during  an orbit. As the location of the BEA on the sky changes
+daily the  program has  to be flexible enough to allow for new targets
+to be chosen  every time that there is a change of launch date or a
+delay in the related SMOV activities .
+        Furthermore we have approved a Director Discretionary Time
+program, PI Nelan, to use the FGS  on a non interference basis  with the
+SMOV activities, and with no proprietary time .
+        The data from both of these programs will  become immediately
+available . The details for both these sets of observations can be found
+in http://www.stsci.edu/instruments/fgs/fgs_advisory.html and
+http://www.stsci.edu/cgi-bin/stis?stisid=543 .
+        We must emphasize that  while we will do our best to execute
+part of the program, the targets  observed  and the actual amount of
+data obtained will depend on the date of launch and  on the successful
+execution of the scheduled SMOV activities  which will have priority at
+all times.
+        Immediately  after the end of these  observations we will  carry
+out a few  Early Release Observations   to demonstrate the success of
+the Servicing Mission   and we will  also resume the regular GO program.
+We are  therefore requesting that potential users of the STIS  CCD  or
+FGS  data do  not  use the data for Public Relations  purposes  until
+the ERO data has been released  and  the related PR activities have
+been  completed .
+        Best regards
+                        Duccio Macchetto
+                        Associate Director
+                        Science Programs
+
+
+
+
+

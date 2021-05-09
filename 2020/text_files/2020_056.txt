@@ -1,0 +1,31 @@
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 1 Apr 2020 08:16:41 +0800
+Subject: Release of Band-to-Band High-Frequency Long-Baseline ALMA Test Data
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+        riaa <riaa@asiaa.sinica.edu.tw>
+
+FYI.
+
+Yu-Nung
+
+----------------------------------------------------------------------
+
+Release of Band-to-Band High-Frequency Long-Baseline ALMA Test Data
+Mar 31, 2020
+
+ALMA is releasing data acquired as part of the Extension and Optimisation of Capabilities effort (EOC). These data were taken as part of the High-Frequency Long-Baseline Campaign (HF-LBC-2017) during Cycle 5, which was organised to test the calibration and imaging capability of ALMA at high-frequencies (>284GHz, Band 7) and using long baselines (>8.5km).
+
+One main priority was to test and implement the band-to-band (B2B) observation mode. This technique allows the calibration of high-frequency observations by using a phase calibrator observed at a lower frequency, e.g. pairing Band 7 target observations with a Band 3 phase calibrator. The campaign conducted tests comparing standard In-Band phase referencing with the B2B mode using quasars, along with exploring the effects of phase calibrator to target separation angles, and phase referencing cycle times. A summary of the campaign is detailed by Asaki Y. et al. 2020 ApJS 247 23A. The successful campaign helped lead to the opening of Band 7 long-baselines during Cycle 7 and has also paved the way for Band 9 and 10 B2B mode observations that will be tested in the coming cycle.
+
+As part of the HF-LBC-2017 effort observations were also conducted of previously targeted spatially extended sources, HL Tau and VY CMa in Band 9 which are available for download.
+
+The released data consists of:
+
+1) Continuum only (TDM) observations in Band 9 of the protostellar disk source HL Tau. Two single pointing executions blocks were taken. The tests included Walsh Switching enabling an aggregate bandwidth of ~15GHz and used phase referencing with <60s cycle times and a calibrator observed at Band 4.  B2B phase transfer was used to test the accuracy in imaging the disk around HL Tau in comparison to the 2014 SV data. A resolution <20mas was achieved and the inner ring structure could be discerned. However in using only the long-baseline array configuration at Band 9 the images resolve out most of the disk structure larger than 0.5â€￾ in size.. These data are available at https://almascience.nao.ac.jp/alma-data/science-verification/hl-tau-b9-b2b
+
+2) Continuum and spectral line observations of the oxygen-rich red supergiant VY CMa. Walsh switching was enabled resulting in an aggregate bandwidth of 15GHz, with 6 of the 8 spectral windows (SPWs) using high-spectral resolution FDM mode and cover the 658GHz water maser and SiO line. The single execution block observation used a phase calibrator observed at Band 4 and a cycle time of ~76s. These observations use B2B calibration and subsequent self-calibration using a single channel covering the bright water maser. A comparisons was made to the 2014 SV data indicating that most of the North plume and Clump C is resolved out, while the central source of VY CMa remains unresolved in the continuum. The continuum (line-free) image achieved a resolution of 12x11mas. These data are available from https://almascience.nao.ac.jp/alma-data/science-verification/vy-cma-b9-b2b
+
+==============================================================================

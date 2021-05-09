@@ -1,0 +1,519 @@
+Date: Fri, 01 Jun 2012 20:28:52 +0800
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue May 23 - Jun 01, 2012) 
+
+ 
+============================================================================== 
+
+In this issue (May 23 - Jun 01, 2012)
+
+1. ALMA User Workshop 2012 (Jun 09): Registration deadline Jun 07)
+2. Colloquium at IANCU (Jun 1; late sorry): Hsiang-Hsu Wang (ASIAA)
+3. New Science Verification data of ALMA
+4. Colloquium at IANCU (Jun 8): Kai-Yang Lin (ASIAA)
+5. NEW ALMA BAND 9 SCIENCE VERIFICATION DATA 
+6. Taiwan Mock Review of ALMA Proposals (Jun 22)
+7. ALMA Call for Proposals for Cycle 1: the SMA approach
+8. Special Colloquium at IANCU (Jun 12): Hsiang-Fu Huang (Univ College London)
+9. Lulin One-meter Telescope (LOT) -- Call for Observing Proposals for 2012B
+  (Deadline: Jul 02)
+
+==============================================================================
+
+-------------------------------------------------------------------
+    tuCASA - ASIAA
+    ALMA User Workshop 2012
+    2012 June 09 (Saturday)
+    URL: http://www.es.ntnu.edu.tw/tuCASA/ALMAwksp2012/ 
+-------------------------------------------------------------------
+
+Announcement
+------------
+
+The UCAT Center for ALMA Science Advancement (tuCASA) of the University
+Consortium of ALMA-Taiwan (UCAT) and the ALMA Regional Center (Taiwan-ARC)
+of ASIAA are pleased to host jointly the ALMA User Workshop 2012 for potential
+ALMA users in Taiwan.
+
+The ALMA User Workshop 2012 is designed for the preparation of ALMA Cycle 1
+proposals, and is aimed for graduate students, postdocs, faculty members and
+people who have attended our previous ALMA Novice-User Workshop 2010 and have
+some basic knowledge of radio astronomy and interferometer background. This
+workshop will be an informative, slightly more advanced ALMA workshop covering,
+in addition to the basics, new capabilities of ALMA and new features in
+Observing Tool (OT). 
+
+The program of the ALMA User Workshop 2012 includes:
+    * Theory of Interferometry & Calibration of Visibilities
+    * Tools for ALMA : CASA 
+    * ALMA progress report and Cycle 1 capabilities
+    * Atacama Compact Array (ACA)
+    * Suggestions from ALMA science assessor
+    * User portal and Help Desk
+    * Correlator & Splatalogue
+    * ALMA Observing Tool
+    * SIMDATA Simulation
+    * Hand-on Exercise on OT/correlator/SIMDATA
+
+
+Date and Venue
+-----------------
+
+2012 June 09 (Saturday):
+Rm S101, Teaching & Research Bldg (教學研究大樓), NTNU Science Campus (師大分部)
+
+Registration
+----------------
+
+On-line registration is available at the tuCASA home:
+http://www.es.ntnu.edu.tw/tuCASA/ALMAwksp2012/ , or go directly to
+http://140.122.162.144/ALMAwksp2012/registration.php
+
+Registration is free of charge. The registration deadline is at 12 noon on
+June 07 (Thu), 2012.
+
+Inquiry
+----------
+
+For questions and/or more information, please contact
+Ms. Pei-Ju Liu (劉姵汝小姐) at peijuliu@ntnu.edu.tw .
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Sat, 26 May 2012 22:04:52 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) is:
+
+
+Title: Evidence for Radial Inflow in the Extended HI Disk of M83
+Speaker:  Dr. Hsiang-Hsu Wang (ASIAA)
+Date: 2012-06-01
+Time: 14:00-15:00
+Location: NCU,  S4-1013
+Abstract:
+
+Numerical simulations as well as indirect observational evidence suggest that typical
+spiral galaxies are still accreting gas from the cosmic web even at present days.
+However, the corresponding mass flow onto the outer disk and the subsequent inward
+transport of material has not been observed directly. We combine interferometric data
+from the VLA (obtained as part of the THINGS survey) as well as single dish data from
+the 100m Effelsberg telescope to trace the distribution of atomic hydrogen (HI) far into
+the outskirts of the nearby spiral galaxy M83. We use these data to search for evidence
+of gas accretion of extragalactic origin onto the HI disk of M83. Using a novel Fourier
+analysis approach we extract detailed information about the gas kinematics throughout
+the HI disk of M83. We find a radial mass flow all the way from the extreme outer disk
+to the inner parts of the galaxy where the gas is consumed by star formation. The amount
+of material that is transported inwards is sufficient to form new stars at the observed
+current rate of ~ 2.5 Msun/yr, allowing the galaxy to evolve in a quasi steady state.
+For the first time, we can show that gas accretion and large-scale radial motions can
+solve the problem of short gas depletion times in spiral galaxies.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201206011400.html
+
+------------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> Date: Thu, 31 May 2012 09:38:17 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: New Science Verification data of ALMA
+> To: alma-t@asiaa.sinica.edu.tw,
+>    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> cc: arc@asiaa.sinica.edu.tw
+
+Dear Potential ALMA users,
+
+New ALMA Science Verification data are released.
+
+http://almascience.nao.ac.jp/news/alma-data/science-verification
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Thu, 31 May 2012 18:12:38 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) is:
+
+Title: Studying Galaxy Clusters with AMiBA
+Speaker: Dr. Kai-Yang Lin (ASIAA)
+Date: 2012-06-08
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+I will briefly introduce the recent development of SZ observations and the power of 
+combining SZ with X-ray and lensing data in studying galaxy clusters and cosmology. I will 
+also introduce the main science goals of the upgraded 13-element array of AMiBA. And 
+finally I will show some updates and current results from the ongoing observations by 
+AMiBA-13.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201206081400.html
+
+------------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> Date: Thu, 31 May 2012 23:32:04 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+>        alma-t@asiaa.sinica.edu.tw,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: ALMA Call for Proposals for Cycle 1
+
+
+Dear Potential ALMA users,
+
+Below is the annoucement of the ALMA Call for Proposals for Cycle 1.
+See also:
+
+http://almascience.nao.ac.jp/call-for-proposals
+or
+https://almascience.nrao.edu/call-for-proposals
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+--------------------------------------------------------------------------
+
+  ALMA Call for Proposals for Cycle 1
+
+  The ALMA Director, on behalf of the Joint ALMA Observatory (JAO) and the
+  three partner organizations in East Asia, Europe and North America, is
+  pleased to announce the release of the Early Science Cycle 1 Call for
+  Proposals (CfP). Members of the astronomical community are invited to
+  propose for scientific observations to be scheduled during the period from
+  January to October 2013.
+
+  While the highest priority of the ALMA project continues to be the
+  completion of the full 66-antenna array, Cycle 1 observations provide a
+  significant opportunity for science from this unique world-class facility.
+
+
+  <Capabilities>
+  The ALMA Early Science Cycle 1 capabilities will include:
+  - Thirty-two 12-m antennas in the 12-m Array
+  - 12-m Array configurations with maximum baselines ranging from ~160 m to ~1 km
+  - Nine 7-m antennas, and two 12-m antennas for total power (single dish) observations, in the Atacama Compact Array (ACA), for use in combination with 12-m Array observations for imaging of extended structures
+  - Receiver bands 3, 6, 7 & 9 (wavelengths of about 3, 1.3, 0.8 and 0.45 mm)
+  - Single field imaging and mosaics of up to 150 pointings
+  - Continuum and spectral line observations
+
+  It is anticipated that 800 hours of 12-m Array time and up to 800 hours of
+  ACA time will be available for Cycle 1 projects.  Complete details are
+  available in the Cycle 1 Proposer┬ Guide.
+
+  <Best efforts>
+  Cycle 1 observations will be conducted on a best effort basis, analogous to
+  Cycle 0, in parallel with the ongoing construction, commissioning and
+  verification of the whole ALMA system. The completion of the array of 66
+  antennas with the full set of scientific capabilities, expected in the
+  second half of 2013, is the highest priority of the Observatory.
+
+  Therefore, the following constraints will apply during Cycle 1:
+
+  -Projects will not be carried over from Cycle 1 to later cycles (even if they have not been completed in Cycle 1) and will not establish proprietary rights beyond the standard 12-month period.
+  -ALMA staff will conduct quality assurance on ALMA data and provide processed data products through the respective ALMA Regional Centers (ARCs). However, it cannot be guaranteed that the characterization and quality of the data and data reduction will meet the standards expected when ALMA is in full scientific operations. Proposers should expect that significant experience in radio (in particular, millimeter) interferometry, though not required, will be an advantage in working with the data products during ALMA Early Science, particularly for projects that include Band 9 or ACA components.
+
+  <Proposal submission>
+  The Science Portal at www.almascience.org is the principal resource for
+  information for scientific users regarding observing with ALMA. All
+  proposals must be prepared and submitted electronically using the ALMA
+  Observing Tool (OT) software. The OT and a LaTeX template, recommended for
+  preparation of the scientific and technical justification, are available
+  for download at the ALMA Science Portal. Registration in the Science Portal
+  is required for submission of ALMA proposals and is available at all times.
+
+  Deadline for proposal submission is 15:00 UT on July 12, 2012
+
+  <Relevant documents>
+  All documents relevant to this CfP are available in the ALMA Science
+  Portal. In particular, proposers are advised to consult the Proposer┬
+  Guide, the Technical Handbook, and the Early Science Primer.
+
+  <How to get help>
+  For specific information not provided in the Science Portal, proposers may
+  submit a ticket to the Helpdesk, or consult the Knowledgebase/FAQ, both
+  linked from the Science Portal. Registration in the ALMA Science Portal is
+  needed for submission of Helpdesk tickets.
+
+  <Access to ALMA data>
+  Data from completed Science Verification projects, designed to test ALMA
+  systems and confirm their performance, is available in the Science Portal,
+  together with detailed information on observations planned within the
+  Science Verification program.
+
+  Data from ALMA observations will be accessible to the community through the
+  Science Portal upon expiration of the standard 12-month proprietary period.
+
+  <Proposal review process>
+  All proposals submitted in response to this CfP will be subject to peer
+  review by a single international committee. Proposals will be assessed on
+  the basis of their overall scientific merit and the potential contribution
+  to the advancement of scientific knowledge, as well as on the extent to
+  which the planned observations demonstrate and exploit the ALMA Cycle 1
+  capabilities. Projects having the potential of delivering scientifically
+  worthwhile results from relatively short observations will be favorably
+  considered.  Science Assessors will be advised to consider Cycle 1
+  proposals for their own merit, independent of Cycle 0 results.
+
+  <Important dates>
+  The key dates for Cycle 1 are given below. ALMA reserves the right to alter
+  the given dates, should it become necessary to do so.
+
+  Date                    Milestone
+  31 May 2012            Release of Cycle 1 Call for
+                          Proposals and related tools and documents
+  31 May 2012 (15:00 UT)  Opening of the Archive for proposal submission
+  12 July 2012 (15:00 UT) Proposal submission deadline
+  November 2012          Announcement of the outcome of the Proposal Review Process
+  January 1, 2013        Start of ALMA Cycle 1 Science Observations
+  October 31, 2013        End of ALMA Cycle 1
+
+==============================================================================
+
+> Date: Thu, 31 May 2012 23:37:38 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: alma-t@asiaa.sinica.edu.tw,
+>        Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> cc: arc@asiaa.sinica.edu.tw
+> Subject: [ALMA-T News] NEW ALMA BAND 9 SCIENCE VERIFICATION DATA 
+
+* NEW ALMA BAND 9 SCIENCE VERIFICATION DATA *
+
+A new installment of ALMA Science Verification data is available. This 
+release contains Band 9 data on IRAS16293. The source, the data, and the 
+data reduction procedure are described in the accompanying CASA Guide. 
+This is the first ALMA Band 9 Science Verification data release and 
+represents a milestone for ALMA construction. Further details are at 
+https://almascience.nrao.edu/alma-data/science-verification.
+
+In addition, a new program of Science Verification aimed at testing new 
+capabilities of ALMA for Cycle 1 and beyond will begin in June 2012, and 
+the list of suggested targets will be available shortly at the link above.
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+==============================================================================
+
+> Date: Thu, 31 May 2012 23:38:43 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+>        alma-t@asiaa.sinica.edu.tw,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Taiwan Mock Review of ALMA Proposals
+
+Taiwan Mock Review of ALMA Proposals
+
+The Taiwan ARC node will hold a mock review of ALMA proposals for Cycle 1,
+as for Cycle 0.  In Cycle 0, the over-subscription rate was more than 8!  In
+Cycle 1, the over-subscription rate may be even higher.  Thus, only very
+well-prepared proposals will succeed.  Prospective users should have their
+proposals prepared now.
+
+Proposals fail sometimes due to 1) unclear science questions or goals and/or
+poorly designed experimenting methods/approaches, but also often due to 2)
+poor writing or last minute compilation.  The purpose of this review is to
+improve the quality of ALMA-T proposals for better success rate by enforcing
+potential users to prepare the proposals early, thus, to at least eliminate
+the last minute writing and to further sharpen the science ideas.
+
+This mock review is mainly targeted at new users, postdocs, and students in
+Taiwan.  Nonetheless, all Taiwanese users are welcome to submit their
+proposals.
+
+The proposal submission deadline is 2012.06.22.  Full proposal, including
+scientific and technical justification, figures and tables, is required to
+submit to arc@asiaa.sinica.edu.tw in pdf format.  Half-cooked proposals will
+benefit little from mock reviewing.  Technical assessment will be carried
+out by the Taiwan ARC staff.  Scientific review will be conducted through
+paper by a review panel, including Vivien Chen, Naomi Hirano, Sheng-Yuan
+Liu, Kazushi Sakamoto, and Wei-Hao Wang.
+
+Technical and scientific review comments will feedback to the PIs through
+email about 10 days later on 2011.07.02.  Face-to-face discussion with the
+ARC staff or review panel members may be considered and arranged.  PIs can
+incorporate these comments into proposal revision before "true" submission.
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+============================================================================== 
+
+> Subject: Re: ALMA Call for Proposals for Cycle 1
+> From: Sakamoto Kazushi <ksakamoto@asiaa.sinica.edu.tw>
+> Date: Fri, 1 Jun 2012 10:12:19 +0800
+> Cc: riaa@asiaa.sinica.edu.tw,
+>    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+
+Dear Potential ALMA users,
+
+SMA TAC members from Taiwan recently posted their advices on SMA proposal writing
+at http://www.asiaa.sinica.edu.tw/%7Esma/ .
+These may be useful for ALMA proposers too.
+
+Best,
+Kazushi Sakamoto
+(SMA-T TAC chair)
+
+============================================================================== 
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Special Colloquium at IANCU
+> Date: Fri, 1 Jun 2012 13:06:57 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Special Colloquium at IANCU (S4-Room 1013) is:
+
+Title:  Star Shows: Planetariums, Science Showmen, and Astronomy Popularisation in 
+Nineteenth Century London
+Speaker: Dr. Hsiang-Fu Huang (University College London)
+Date: 2012-06-12
+Time: 11:00-12:00
+Location: NCU, S4-1013
+Abstract:
+
+A long time ago in a city far, far away, a vibrant public science marketplace had 
+already formed. Nineteenth century Britain was a nation of show-keepers, and London was 
+the centre of this popular show culture. Various entertainments, exhibitions, and 
+theatres, competed against each other with the icing of knowledgeable instruction 
+related to different subjects. Astronomy was unexceptional. Many popular astronomical 
+lectures were delivered during this period; these astronomical lectures had different 
+styles, forms, and levels. Some of them were accompanied by magnificent visual aids, 
+such as the transparent orrery; some of them were more like a specialised discourse in a 
+learned institution. In this presentation, I will discuss a broad spectrum of popular 
+astronomy lecturing in nineteenth century London, especially emphasizing several 
+'unsung' lecturers -- they were once popular but are near-unknown today. This survey on 
+popular astronomical lecturers in nineteenth century Britain is my on-going 
+investigation. I expect this study will shed light on astronomy popularisation in the 
+past, and to inspire today's scientists and science educators.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201206121100.html
+
+------------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+============================================================================== 
+
+> From: "hclin" <hclin@astro.ncu.edu.tw>
+> Sent: Thu, 31 May 2012 16:21:01 +0800
+> Subject: Lulin One-meter Telescope (LOT) -- Call for Observing Proposals
+  for 2012B
+
+Dear Prof. Kuan,
+
+Would you please circulate it. Thank you very much for your help.
+
+Best,
+Hung-Chin Lin
+
+------------------------
+Lulin One-meter Telescope (LOT) -- Call for Observing Proposals for 2012B
+
+Proposal Deadline — 23:59 July 2 (Monday) 2012
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the 
+semester of 2012B.  The new semester begins on 1 August 2012 and ends 
+on 31 January 2013.
+
+Those interested in applying for observing time can download the 
+proposal LaTex package from the web page:
+
+  http://www.astro.ncu.edu.tw/~wchen/lulinprop/lotprop.zip
+
+The completed proposal should contain the filled and compiled version of the 
+LaTex file (in PDF format), plus up to two PDF pages of scientific 
+justification including figures, tables, and references.  The proposal 
+(cover form and 2-page of scientific case) should be submitted to the 
+following 
+email address with subject title "LOT-2012B" :
+
+  tac_lulin@astro.ncu.edu.tw
+
+with a copy to me to avoid occasional erroneous delivery:
+
+  wchen@astro.ncu.edu.tw
+
+Please note that in addition to research proposals, we also accept 
+educational 
+programs for astronomical observation courses.  Time allocation will be 
+announced 
+by mid-July, 2012.
+
+The Observatory management pays particular attention to the scientific 
+products by 
+our facilities.  So if you have used the LOT before, please fill in the 
+status of 
+the data, and any publications as results of any LOT data.
+
+As usual, there will be three instruments available, the Lulin CCD Imager 
+(LCI),  
+the Lulin Compact Spectrograph (LCS), and TRIPOL, a simultaneous tricolor 
+(g', r', i') imaging polarimeter.  At the time of this announcement, TRIPOL 
+is being shaked down and characterized.  Those who are interested in the 
+specs 
+of any of these instrument should contact Lulin staff or me.  You can 
+follow 
+this url to get information regarding the telescope and instruments,
+
+  http://www.lulin.ncu.edu.tw/lot/
+
+Feel free to direct inquiries about telescope/instrument/site to 
+Mr Hung-Chin Lin (hclin@astro.ncu.edu.tw), Manager of the Lulin 
+Observatory, or about time requests to me (wchen@astro.ncu.edu.tw)
+
+Regards,
+
+Wen Ping Chen
+on behalf of the LOT Time Allocation Committee
+
+---------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
+

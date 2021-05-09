@@ -1,0 +1,28 @@
+From tcchang@asiaa.sinica.edu.tw Sun Aug 21 08:00:10 2011
+Date: Sun, 21 Aug 2011 08:00:02 +0800
+From: Tzu-Ching Chang <tcchang@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu, web@asiaa.sinica.edu.tw
+Subject: Colloquium talk this week
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Prof. Shinji Koide (Kumamoto University)
+Topic:		A basis of resistive GRMHD simulation
+Time:		8/26 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+Ideal general relativistic MHD (GRMHD) simulations had revealed that
+magnetic reconnection is caused around rapidly rotating black hole
+spontaneously. To perform numerical simulations of such magnetic
+reconnection self-consistently, we use resistive GRMHD equations
+as the simplest approximation. I will talk about the basis for
+the simulation and some examples.
+
+
+
+
+
+

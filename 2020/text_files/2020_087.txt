@@ -1,0 +1,283 @@
+=============================================================================
+
+In this issue (Jun 5 - 14, 2020)
+
+1. NTNU [Astro Center] Seminar (Jun 18): Chieh-An Lin (University of Edinburgh)
+2. Calibrated MS delivery for ALMA archive users
+3. [KVN2020B] Call for Proposals for KVN for the 2020B semester
+4. ASIAA Colloquium/Seminar/Lunchtalk (Jun 17): Hsiang-Yi Karen Yang (NTHU/UMD)
+
+==============================================================================
+
+Subject: [Astro Center] Seminar 18/Jun/2020
+From:     <ynlee@gapps.ntnu.edu.tw>
+Date:    2020-06-05 21:10
+
+Dear all,
+
+On June 18th we will have Chieh-An Lin as our seminar speaker. Cheih-An is a cosmologist using statistical tools to work on weak gravitational lensing. He will be visiting us for the whole day, please let me know if you would like to come chat with him or join us for dinner.
+
+Best regards,
+Yueh-Ning
+
+--------------------------------------------------------------------------------
+Speaker: Chieh-An Lin (University of Edinburgh)
+Time: 16:30, 18/Jun/2020
+Venue: S102
+Title: Cosmology with weak gravitational lensing
+Abstract:
+Weak gravitational lensing (WL) is the phenomenon of image distortion by gravitational light deflection. Images of background sources are distorted by foreground matter structures. By measuring the distortion to percentage levels, the state-of-the-art studies have found WL as a powerful tool to constrain cosmology. The upcoming Stage-IV surveys such as LSST and Euclid are expected to provide high-quality constraints comparable to Planck.
+In this talk, I will provide an overview on up-to-date WL studies and surveys. This will include scientific motivations, an introduction to theoretical basis, observational challenges, state-of-the-art results, and future perspectives. The talk will be accessible for non-cosmologists.
+--------------------------------------------------------------------------------
+
+--
+Yueh-Ning Lee
+Assistant professor, Department of Earth Sciences, National Taiwan Normal University
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Subject: Calibrated MS delivery for ALMA archive users
+Date: Mon, 8 Jun 2020 08:06:52 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: riaa <riaa@asiaa.sinica.edu.tw>,
+    alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+  EA ARC at NAOJ provides the service to deliver calibrated MS on demand =
+for PIs and archive users.=20
+  The delivery service is offered for interferometric data which require =
+CASA version 4.6.* or earlier only, basically corresponding to the data =
+in Cycle 1-3 (calibrated MS are provided in the archive for Cycle 0).=20
+   =20
+  Below please find the detailed information from Fukagawa-san. Please =
+request through the Helpdesk with necessary information as explained =
+below.
+
+best,
+Yu-Nung
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+When you want to do imaging using ALMA interferometric data, you need =
+to download raw data with the package including necessary scripts from =
+the ALMA Science Archive, then run the calibration script using the =
+right version of CASA shown in README (for Cycle 1-4) or =
+qa2_report.html/pdf (for Cycle 5 and later) to produce the calibrated =
+measurement sets (MS). However, it happens that you cannot calibrate the =
+data since the recent Operating Systems are not officially supported for =
+old versions of CASA.
+=20
+EA ARC provides the service to deliver calibrated MS on demand for PIs =
+and archive users. Please request through the Helpdesk with necessary =
+information as explained below. Please also note that we cannot deliver =
+the data in a timely manner if many requests are received at the same =
+time or requests include data with huge sizes. Thank you for your =
+understanding for a possible delay of the delivery.
+=20
+-----------------------------------------------
+- The delivery service is offered for interferometric data which =
+require CASA version 4.6.* or earlier, basically corresponding to the =
+data in Cycle 1-3 (calibrated MS are provided in the archive for Cycle =
+0). The service is not offered for single-dish data.
+- Please check the CASA version in README before you request the =
+calibrated MS. Depending on the dataset, you do not have to download a =
+package and can check README listed as the individual file in the data =
+request page. If README with CASA version is not listed, you need to =
+download the package ('product' package for Cycle 3 and earlier). The =
+following list shows CASA versions that were used for data calibration. =
+This does not always apply depending on the timing of QA2, but we hope =
+that this helps before you look for the CASA versions to request the =
+calibrated MS.
+=20
+    #cycle     CASA_version
+    1 (2012.*)       4.2.0 - 4.2.1
+    2 (2013.*)       4.2.2 - 4.4.0
+    3 (2015.*)       4.3.1 - 4.6.0
+    4 (2016.*)       4.7.0 - 4.7.2
+=20
+- Calibrated MS for up to 5 Scheduling Blocks can be requested at one =
+time.
+- The product that we will deliver is the outcome of running =
+"scriptForPI.py".
+- Notification will be sent as soon as the calibrated MS is ready. =
+Then you will need to download the calibrated MS in 15 days.
+=20
+=E3=80=90How to request=E3=80=91
+1. Log in to Helpdesk https://help.almascience.org/
+2. Create a new ticket by clicking "Submit a Ticket"
+3. Choose "Archive and Data Retrieval (EA)" as Department, click =
+"Next"
+4. Choose "Data request (calibrated MS, stale data, calibrator data, =
+or suggestions)" as a Sub-category, provide the following information, =
+then "Submit" the ticket
+=20
+***************
+Subject:  Request of calibrated MS
+***************
+Main text:
+=20
+a. Name
+=20
+b. Affiliation
+=20
+c. Project Code and SB name of the data
+[example: please split Project Code and SB name with a space.
+2013.1.00010.S NGC253_a_04_TM1
+2013.1.00010.S NGC253_a_07_TM1
+2014.1.00020.S NGC1068_a_06_TM1
+]
+=20
+d. required CASA version for the calibration according to the README =
+of each SB data.
+=20
+***************
+=20
+=20
+=20
+=E3=80=90How to check CASA version=E3=80=91
+1) Go to the download request page in the ALMA Science Archive=20
+=20
+2) Check if there is an auxiliary package
+2a. No auxiliary, no individual README listed
+=20
+=20
+=20
+=E2=86=92 Please download the product package (...001_of_0001.tar) and =
+untar it, then=20
+=E3=80=80=E3=80=80you can find README with the CASA version =
+information.
+=20
+2b. With auxiliary
+=20
+=20
+=20
+Note: there is no CASA version information in the above README.
+=E2=86=92 Download the auxiliary package (...auxiliary.tar) and untar =
+it. You will find the CASA=20
+=E3=80=80=E3=80=80version in member....qa2_report.pdf(or .html)=20
+=20
+=E2=86=92 Click the triangle symbol at the head of "auxiliary", then =
+individual files=20
+=E3=80=80=E3=80=80in the package appear. You can download only =
+member....qa2report.pdf(or .html).
+=20
+Note: The contents are the same in qa2report.pdf and qa2_report.html
+=20
+-----------------------------------------------
+=20
+=20
+=20
+Best wishes,
+Misato
+=20
+=20
+=20
+
+==============================================================================
+
+From: Kiyoaki Wajima <wajima@kasi.re.kr>
+To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+    <vlbi@nrao.edu>,
+    <merlin-announce@jb.man.ac.uk>,
+    <astro@asiaa.sinica.edu.tw>
+Subject: [REMINDER] [KVN2020B] Call for Proposals for KVN for the 2020B semester
+
+Dear colleagues,
+
+This is a reminder that the proposal submission deadline for the Korean
+VLBI Network (KVN) is approaching to June 15, 8:00 UT. Please refer also
+to the following EAVN website for more details about the array.
+
+https://kvn.kasi.re.kr/
+
+
+Best regards,
+
+Kiyoaki Wajima
+(KASI; in place of KVN director)
+
+-----------------------------------------------
+
+-----------------------------------------------
+Call for Proposals 2020B (KVN VLBI)
+Proposal submission deadline: 15th June, 2020, 08:00 UT
+KVN website: https://kvn.kasi.re.kr/
+-----------------------------------------------
+
+
+The Korean VLBI Network (KVN) invites scientific proposals for VLBI observations during
+the 2020B season from astronomers around the world. Observations of successful proposals
+will be scheduled between 1st September 2020 and 15th January 2021. Proposals should be
+submitted via the KVN website (https://kvn.kasi.re.kr/) before the deadline of UT 08:00
+(KST 17:00) on 15th June 2020.
+
+
+** Korean VLBI Network (KVN) **
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by the Korea
+Astronomy and Space Science Institute (KASI, https://www.kasi.re.kr/). Its three 21m
+radio telescopes are located around South Korea in Seoul, Ulsan, and Jeju Island.
+The baseline length ranges from 305km to 476 km.
+
+The simultaneous multi-frequency (22/43/86/129 GHz) observing mode in a dual-polarization
+is available. Available data rates are 1, 2, 4, and 8 Gbps. Total time of 300 hours are
+planned for this call. If requested in the proposals, the observation time can be allocated
+over a year, until June 15, 2021, but the observation time will not be increased. Proposers
+should use the KVN VLBI observing application form and carefully follow the instructions
+on the KVN website. The scientific and technical justification must be provided within
+3 pages. Details of the information and current status of the KVN can be found in the KVN
+status report on the KVN website (https://kvn.kasi.re.kr/). Proposals should be submitted
+via the KVN website.
+
+
+** Note on the EATING VLBI observations**
+According to the MoA between INAF and KASI up to 30 hours of observing time in VLBI mode
+are allocated to approved EATING VLBI projects. These projects have to be submitted both
+to the Italian and Korean TACs with the standard form selecting "EATING VLBI" mode in the
+project type. Approved projects will be observed up to 30 hours/semester. Projects exceeding
+30 hours will be scheduled together with all other projects according to their relative
+grades. PIs of these proposals must be associated with INAF or KASI.
+
+
+Kee-Tae Kim
+Director of Radio Astronomy Division, KASI
+
+==============================================================================
+
+Date: Thu, 11 Jun 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Hsiang-Yi Karen Yang (NTHU/UMD)
+Topic:         Cosmic-ray Feedback in the Universe
+Time:         6/17 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Energetic feedback from stars and supermassive black holes (SMBHs) is key ingredient in the formation and evolution of galaxies and clusters, as shown by state-of-the-art cosmological simulations. However, predictive powers of these simulations are limited by the important but often neglected microphysics -- physical processes that are unresolvable and not captured by purely hydrodynamic simulations. One of such examples is cosmic rays (CRs). In this talk, I will discuss how CRs could influence feedback processes across different mass scales, including AGN feedback in galaxy clusters, Fermi bubbles within our Milky Way Galaxy, and galactic winds in dwarf galaxies. In particular, I will discuss how the detailed microscopic processes of CR transport could have dramatic impacts on the macroscopic properties of galaxies and clusters.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

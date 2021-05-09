@@ -1,0 +1,88 @@
+From sophie@asiaa.sinica.edu.tw Fri Nov  9 14:45 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA08650
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 9 Nov 2001 14:45:24 +0800 (CST)
+Received: from sophie (dip61.asiaa.sinica.edu.tw [140.109.177.61])
+	by asiaa.sinica.edu.tw (8.9.3+Sun/8.9.3) with SMTP id OAA19004
+	for <astro@asiaa.sinica.edu.tw>; Fri, 9 Nov 2001 14:44:08 +0800 (CST)
+Message-ID: <003601c168ec$aa0b6a90$3db16d8c@biaa>
+From: "Sophie, ASIAA" <sophie@asiaa.sinica.edu.tw>
+To: "TANet" <astro@asiaa.sinica.edu.tw>
+Subject: Fw: Abstracts of the special seminars
+Date: Fri, 9 Nov 2001 15:03:41 +0800
+MIME-Version: 1.0
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2479.0001
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2479.0001
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Length: 3034
+Status: R
+
+
+----- Original Message -----
+From: "Assistant Account" <assistant@phys.cts.nthu.edu.tw>
+To: <kyl@asiaa.sinica.edu.tw>
+Sent: Friday, November 09, 2001 2:37 PM
+Subject: Abstracts of the special seminars
+
+
+> Abstracts of the special seminars by
+>
+> Dr. Roderich Moessner
+> (Princeton, USA; LPT-ENS, Paris, France)
+>
+> I. Nov. 13 (Tue.), 3:10PM; Rm 620, 6F Physics Building, NTHU.
+>
+> Title: "The Heisenberg pyrochlore antiferromagnet: a classical spin
+>         liquid"
+>
+> Abstact:
+> The results of the current systematic experimental investigation of highly
+> frustrated magnets, in particular of a series of rare-earth magnets on the
+> pyrochlore lattice, has underlined the need for a detailed theory of
+> geometric frustration. To provide both an understanding of the common
+> features of these magnets and a basis for the inclusion of perturbations,
+> we study a classical antiferromagnet on the pyrochlore lattice, which has
+> a large ground-state degeneracy and behaves quite unlike conventional
+> unfrustrated or disordered magnets. We discuss the magnet's ground-state
+> properties as well as the effect of two experimentally important
+> perturbations, namely low-temperature thermal fluctuations and dilution
+> with nonmagnetic ions.
+>
+> We show that the magnet is a classical spin liquid: its correlations are
+> short-ranged in both space and time at all temperatures; there is no
+> ordering or freezing. In particular, we calculate its spin autocorrelation
+> function and develop a method for determining whether thermal fluctuations
+> lift the ground-state degeneracy. We find an explicit expression for the
+> magnetic susceptibility at all temperatures, for pure and weakly diluted
+> systems.  This provides a microscopic basis for a phenomenological model
+> recently proposed for the dilution-dependence of the susceptibility. Our
+> result is close to a Curie-Weiss law down to a temperature well below the
+> mean-field ordering temperature; this feature is known experimentally as
+> the fingerprint of strong geometric frustration.
+> R. Moessner and J. T. Chalker, PRL 80, 2929 (1998); PRB 58, 12049 (1998)
+> R. Moessner and A. J. Berlinsky, PRL 83, 3293 (1999)
+>
+>
+> II. Nov. 14 (Wed.) 10:00AM; Rm 620, 6F Physics Building, NTHU.
+>
+> Title: "Quantum Hall Physics in High Landau Levels - Stripes and Bubbles"
+>
+> Abstract:
+> Two-dimensional electron systems in a strong magnetic field display very
+> rich behaviour: as disorder or interactions lift the degeneracy of the
+> lowest Landau level, one finds the quantum Hall effects, skyrmions,
+> composite fermions and much more.
+>
+> This talk addresses the question which correlated electron states exist in
+> high Landau levels. It turns out to be possible to derive a number of
+> exact results in this regime. One finds that the electrons form
+> charge-density waves in the form of 'stripes' or 'bubbles', whereas the
+> fractional quantum Hall effect is absent. A number of recent experiments,
+> as well as numerical work, confirming these results are also discussed.
+
+

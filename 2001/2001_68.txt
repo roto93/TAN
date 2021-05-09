@@ -1,0 +1,275 @@
+From wchen@astro.ncu.edu.tw Fri Mar 16 16:50 CST 2001
+Received: from fermi.phy.ncu.edu.tw (IDENT:root@fermi.phy.ncu.edu.tw [140.115.30.10])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA22361
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 16 Mar 2001 16:50:25 +0800 (CST)
+Received: from localhost (wchen@localhost)
+	by fermi.phy.ncu.edu.tw (8.9.3/8.9.3) with ESMTP id RAA18884
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 16 Mar 2001 17:06:40 +0800
+X-Authentication-Warning: fermi.phy.ncu.edu.tw: wchen owned process doing -bs
+Date: Fri, 16 Mar 2001 17:06:40 +0800 (CST)
+From: =?X-UNKNOWN?B?pNGk5anSs6+k5avM?= <wchen@astro.ncu.edu.tw>
+X-Sender: wchen@fermi.phy.ncu.edu.tw
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: Gaia Meeting - 1st announcement (fwd)
+Message-ID: <Pine.LNX.4.21.0103161706230.18428-100000@fermi.phy.ncu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7906
+Status: RO
+
+
+---------- Forwarded message ----------
+Date: Thu, 15 Mar 2001 17:55:09 +0200
+From: GAIA <gaia@ff.vu.lt>
+To: Alistair Walker <awalker@noao.edu>, Vytautas Straizys <straizys@itpa.lt>,
+     Arlo Landolt <phland@sn01.sncc.lsu.edu>,
+     Chris Sterken <csterken@vub.ac.be>, Herman Hensberge <herman@astro.oma.be>,
+     Ian Glass <isg@saao.ac.za>, John Graham <graham@dtm.ciw.edu>,
+     Kazuhiro Sekiguchi <kaz@subaru.naoj.org>,
+     Mike Bessell <bessell@mso.anu.edu.au>, "milone@acs."@voruta.vu.lt,
+     Peter Martinez <peter@da.saao.ac.za>,
+     Peter Stetson <peter.stetson@hia.nrc.ca>,
+     Pierre Bastien <bastien@ASTRO.UMontreal.CA>,
+     Ron Gilliland <gillil@stsci.edu>, S. Fabrika <fabrika@sao.ru>,
+     Saul Adelman <adelmans@citadel.edu>,
+     Wen-Ping Chen <wchen@joule.phy.ncu.edu.tw>,
+     Wayne Warren <Wayne.H.Warren.1@gsfc.nasa.gov>
+Subject: Gaia Meeting - 1st announcement
+
+
+****************************************************
+            EUROPEAN MEETING
+          CENSUS OF THE GALAXY:
+CHALLENGES FOR PHOTOMETRY AND SPECTROMETRY
+               WITH GAIA
+           2 - 6 JULY, 2001
+          VILNIUS, LITHUANIA
+****************************************************
+
+       PRELIMINARY ANNOUNCEMENT
+
+The GAIA mission has recently been approved as one of the
+next "cornerstones" of ESA's science programme, with a
+launch date in 2010-2012. GAIA will provide high accuracy
+astrometric, photometric and spectrometric measurements
+for one billion stars. Photometric and spectrometric
+measurements properly combined with parallaxes will provide
+information on temperatures, luminosities, metallicities,
+peculiarity types, interstellar reddening and radial
+velocities of measured stars.
+
+The aim of the conference is to estimate classification
+possibilities of the photometric systems proposed for
+GAIA, to evaluate classification accuracy at different
+magnitude levels and to establish interaction of
+astrometric, photometric and spectrometric data.
+
+The main topics suggested for discussion at the
+conference:
+ 1. Selection of the photometric systems
+    * Comparison and analysis of the photometric systems 1F, 2A, and 3G
+    * How to quantify the performance of these (and future) systems
+    * Requirements and schedule for ground-based tests
+    * Methods to account for interstellar extinction
+    * Problems of photometric metallicity determination
+    * Spectrometric/astrometric observations as complementary information
+
+ 2. Special objects:
+    * Unresolved binaries and impact on stellar parameter determination
+    * Identification and classification of peculiar stars
+    * Multi-colour photometry of solar system objects
+    * Diagnostic information on extra-solar planets
+    * Multi-colour photometry of the diffuse sky background
+    * Recognition and photometry-spectrometry of galaxies
+    * Recognition and photometry-spectrometry of quasars
+    * Detection of Pop III objects
+
+ 3. Ground-processing:
+    * Photometric data reduction and calibration
+    * Classification methods for the photometric-spectrometric data
+    * Detection of:
+      - eclipsing variables
+      - supernovae and GRB
+      - lensing events
+      - solar system objects (phase effects)
+    * Implications for quick-look analysis
+
+ 
+Any omitted here important aspect of GAIA photometry or
+spectrometry is welcome for discussion at the conference.
+
+
+The European Meeting "Census of the Galaxy:
+Challenges for Photometry and Spectrometry with GAIA"
+will be held on 2-6 July, 2001 in Vilnius, Lithuania.
+
+It is organized by Vilnius University,
+Institute of Theoretical Physics and Astronomy and
+Institute of Physics (Lithuania) with support of
+European Space Agency.
+
+
+1. SCIENTIFIC ORGANIZING COMMITTEE:
+C.A.L. Bailer-Jones (Heidelberg)
+U. Bastian (Heidelberg)
+C. Flynn (Turku)
+M. Grenon (Geneva)
+E. Hoeg (Copenhagen, Co-chair)
+C. Jordi (Barcelona)
+L. Lindegren (Lund)
+M.A.C. Perryman (ESA)
+V. Straizys (Vilnius, Co-chair)
+V. Vansevicius (Vilnius)
+
+2. LOCAL ORGANIZING COMMITTEE:
+S. Bartasiute (Ms)
+A. Bridzius
+R. Drazdys
+R. Lazauskaite (Ms)
+R. Kalytis
+A. Kazlauskas
+A. Kucinskas
+J. Sudzius (Chair)
+V. Vansevicius
+
+3. VENUE
+The meeting will be held in the conference hall of the
+hotel KAROLINA in Vilnius
+
+4. SCHEDULE
+2 July, Monday       : Arrival, registration, reception
+3 July, Tuesday      : Scientific Sessions
+4 July, Wednesday    : Scientific Sessions
+5 July, Thursday     : Scientific Sessions, closing dinner
+6 July, Friday       : Departure
+
+5. ARRIVAL AND DEPARTURE
+Vilnius has direct flights to many European capitals and
+international airports.
+
+6. ACCOMMODATION
+Accommodation of various classes will be available. Hotel
+KAROLINA where the meeting is to be held offers various
+rooms to participants at reduced rates. However,
+participants are free to choose other hotels on their own.
+
+7. REGISTRATION FEE
+Registration fee is expected to be of the order of 150 USD
+for a participant. It will cover expenses for Workshop
+Proceedings, refreshing drinks during the sessions,
+reception, excursions, information booklets etc.
+A special program for accompanying persons will be
+organized if sufficient interest is shown.
+
+8. REGISTRATION
+PRE-REGISTRATION: closing date 31 March.
+Please, fill in and send us by e-mail:   gaia@ff.vu.lt
+the pre-registration form given below. Your information
+will help us to estimate the number of participants,
+their accommodation needs and expected number of
+presentations in advance.
+FINAL REGISTRATION: tentative closing date 1 May.
+The call for the final registration will be issued
+in April with the second announcement.
+
+9. CONTACT ADDRESSES:
+Erik Hoeg (SOC, Co-chair)
+Copenhagen University Observatory
+Juliane Mariesvej 28-32, DK-2100 Copenhagen, Denmark
+Phone:    +45-3532-5975
+Fax:      +45-3532-5989
+E-mail:   erik@astro.ku.dk
+
+Vytautas Straizys (SOC, Co-chair)
+Institute of Theoretical Physics and Astronomy
+Gostauto 12, Vilnius LT-2600, Lithuania
+Phone:    3702-613440  or  3703-045425
+Fax:      3702-225361  or  3703-045425
+E-mail:   straizys@itpa.lt
+
+Jokubas Sudzius (LOC, chair)
+Vilnius University Observatory
+Ciurlionio 29, Vilnius LT-2009, Lithuania
+Phone:    3702-333343
+Fax:      3702-335648
+E-mail:   jokubas.sudzius@ff.vu.lt
+
+Secretariat of the Conference:
+Phone:    3702-333343
+Fax:      3702-335648
+E-mail:   gaia@ff.vu.lt
+
+More information about the Conference and
+useful local WEB links may be found on the
+homepage of the GAIA Vilnius group:
+          http://www.astro.lt/gaia/
+****************************************************
+
+****************************************************
+
+****************************************************
+Pre-registration form to be sent by e-mail to
+gaia@ff.vu.lt not later than 31 March, 2001.
+****************************************************
+            EUROPEAN MEETING
+          CENSUS OF THE GALAXY:
+CHALLENGES FOR PHOTOMETRY AND SPECTROMETRY
+               WITH GAIA
+           2 - 6 JULY, 2001
+          VILNIUS, LITHUANIA
+****************************************************
+
+Family name (Surname):
+
+First name:
+
+Institution (to be written on the badge):
+
+Postal Address:
+
+City:
+
+Country:
+
+Email:
+
+Phone Number:
+
+Fax Number:
+
+Accompanying person(s):
+
+Children (age):
+
+WILL YOU TAKE PART IN THE CLOSING DINNER?:  YES  NO
+(5 July, Thursday; estimated cost 30-50 USD)
+
+Do you need assistance in hotel booking: YES  NO
+
+If "YES" then which hotel and what kind of room
+do you choose:
+
+Hotel:  KAROLINA          OTHER (you may specify)
+
+Room:   SINGLE   DOUBLE   SUITE
+
+Note: Hotel KAROLINA offers special reduced rates
+for conference participants:
+single - 50 USD, double - 60 USD, suite - 80 USD
+(price per day, breakfast included).
+
+More details about hotels in Vilnius you may find:
+       http://www.lithuanianhotels.lt/
+
+Date of arrival:
+
+Date of departure:
+
+TENTATIVE TITLE OF PRESENTATION:
+
+Type of presentation:    ORAL    POSTER
+
+****************************************************
+
+
+

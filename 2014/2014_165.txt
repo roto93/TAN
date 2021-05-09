@@ -1,0 +1,249 @@
+============================================================================== 
+In this issue (Oct 21 - 26, 2014)
+
+1. tuCASA-ASIAA: ALMA Community Day and CASA Workshop 2014 (Nov 15 & 22)
+  [Online Registration Deadline: Nov 11]
+2. NTHU Astronomy Colloquium (Oct 24): Chao-Chin Yang (Lund Univ, Finland)
+                            (Oct 31): Uri (Evgeny) Griv (Ben-Gurion U, Israel)
+3. ASIAA Colloquia/Seminars (Oct 30): Kiyo Masui (Univ of British Columbia)
+                            (Oct 29): Xiangzhong Zheng (Purple Mountain Obs)
+                            (Oct 29): Liebig, Bernd (ASIAA)
+
+==============================================================================
+
+                            tuCASA - ASIAA
+              ALMA Community Day and CASA Workshop 2014
+
+
+The UCAT Center for ALMA Science Advancement (tuCASA) and the Academia Sinica
+Institute of Astronomy and Astrophysics (ASIAA) are pleased to announce that
+an ALMA Community Day together with a two-day CASA workshop will be held at the
+Science Campus of National Taiwan Normal University on November 15 and 22, 2014.
+
+
+CASA Workshop
+_____________
+
+The main purpose of the CASA Workshop, which is organized by tuCASA and
+cosponsored by ALMA Regional Center of Taiwan (ARC-Taiwan) of ASIAA, is to help
+potential ALMA users to familiarize themselves with CASA (Common Astronomy
+Software Applications) package for the post-processing of the ALMA data.
+Faculty, research staff and graduate students of UCAT (University Consortium of
+ALMA-Taiwan) who are interested in using ALMA data for their research but have
+little knowledge of CASA package are particularly welcome.
+
+    The workshop format will be short lectures interlaced with hands-on
+exercises basically. The detailed program can be found at
+    http://140.122.162.144/tuCASA/CASA2014_wksp/program/ 
+
+    Participants are required to bring along with you a notebook computer
+running on either Mac OS or Linux, and please have the CASA program "CASA 4.2.2"
+and "CASA User Reference & Cookbook 4.2.2" downloaded in advance at
+    http://casa.nrao.edu/casa_obtaining.shtml 
+
+    Please also have the dataset "CASA2014_data.zip" readily downloaded prior to
+the workshop from
+    http://140.122.162.144/tuCASA/CASA2014_wksp/ALMA_data/CASA2014_data.zip 
+
+
+ALMA Community Day
+__________________
+
+The major goal of the ALMA Community Day, organized by ARC-T of ASIAA and
+cosponsored by tuCASA, is to make better ALMA science and better ALMA proposals.
+The ALMA Community Day will focus on:  1) to update Taiwan community the status
+of ALMA and other radio facilities, including JCMT, CSO and SMA, that
+astronomers in Taiwan have access to;  2) to improve ALMA proposals from Taiwan;
+3) to attract more non-radio astronomers to use the ALMA.
+
+    In addition, we will learn how to search for and identify ALMA archival
+data, including ALMA Science Verification (SV) data and Cycle-0 & Cycle-1 data,
+that we may be interested in working on. We will also discuss all practical
+concerns for ALMA archival data retrieval. Participants who know their target
+sources beforehand or have clear science goals in mind are encouraged to
+contact Dr. Kuo-Song Wang directly before November 7 so Dr. Wang
+(kswang@asiaa.sinica.edu.tw) may help you to locate appropriate datasets more
+effectively. If you do want to download ALMA archival datasets to work on for
+actual research, a 1-on-1 tutorial on data retrieval is available on November
+15, please register first.
+
+    Proposal MOCK Review is also available on November 22 for a 1-on-1
+discussion on your unsuccessful proposals in previous cycles. Please register
+first and send your proposals to almamock@asiaa.sinica.edu.tw by November 15.
+
+
+Dates and Venue
+_______________
+
+November 15 and November 22 (Saturdays) at Rm S101 of the Research Building
+(教學研究大樓) on the Science Campus of National Taiwan Normal University (師大分部).
+
+
+Organizing Committee
+____________________
+
+Vivien Chen        (NTHU)
+Chorng-Yuan Hwang    (NCU)
+Yi-Jehng Kuan        (NTNU)
+Shih-Ping Lai        (NTHU)
+Chin-Fei Lee        (ASIAA)
+Sheng-Yuan Liu        (ASIAA)
+Yawen Tang        (ASIAA)
+Wei-Ling Tseng        (NTNU)
+
+
+Registration
+____________
+
+Online registration is available at:
+    http://140.122.162.144/tuCASA/CASA2014_wksp/regist/
+Registration is free of charge; online registration deadline is at 23:59 on
+November 11, 2014.
+
+
+Inquiry
+_______
+
+For more information or questions, please contact Ms. Chih-Li Wang (王治力小姐) at chihliwang@ntnu.edu.tw 
+
+==============================================================================
+
+> Date: Tue, 21 Oct 2014 14:01:13 +0800
+> Subject: NTHU astronomy colloquium
+> From: Dani Chao <edcamel@gmail.com>
+> To: astro@asiaa.sinica.edu.tw
+
+
+NTHU astronomy colloquium - Friday, October 24 2014, 14:00-15:00, R620
+
+Dr. Chao-Chin Yang (Lund Univ, Finland)
+Title: Stumbling Blocks of Planet Formation
+
+Abstract: In contrast to almost two thousand extrasolar planet
+candidates detected over the past couple of decades, the theoretical
+consideration presents itself many difficulties in the course of
+planet formation.  I will review several of these difficulties and
+discuss some of their possible solutions.  Specifically, I will
+present: (1) the problematic fast inward migration of earth-sized
+planets in a gaseous protoplanetary disk; (2) the probability of
+collisional destruction between kilometer-sized planetesimals within a
+turbulent environment; and (3) how the frictional drag between gas and
+solid materials could concentrate the latter fast enough to overcome
+the constant angular momentum loss experienced by meter-sized objects.
+
+-------------------------------------------------------------------------------
+NTHU astronomy colloquium - Friday, October 31 2014, 14:00-15:00, R620
+
+Prof. Uri (Evgeny) Griv (Ben-Gurion University, Beer-Sheva, Israel)
+
+We examine one of the implications of the Lin-Shu spiral density-wave
+theory, specifically, the noncircular systematic motion of the Galactic
+objects. The ordinary equations of the Oort-Lindblad theory of galactic
+differential rotation are used.
+The minor effects caused by the two-dimensional tightly-wound density waves
+are also taken into account. The published data of currently known
+Cepheids, open clusters and HII regions are collected from Ngeow (2012),
+Dias et al. (2012) and Hou et al. (2014).
+The most noteworthy result is the fact that the parameters of density waves
+estimated from two independent line-of-sight and  transversal velocities
+are nearly equal. We argue that the resemblance of these Galactic wave
+structures is so remarkable that no doubt is felt as to the theory's truth
+with respect to these data. The results obtained allow us to conclude that
+several trailing  Lin-Shu type density-wave patterns with different number
+of spiral arms, pitch angles and amplitudes of the perturbing gravitational
+potential may coexist in the Galaxy. The latter suggests the asymmetric
+multiarm, not well-organized spiral structure of the system under the
+question.
+
+Dani Chun-Yi Chao
+Institute of Astronomy, National Tsing Hug University
+
+==============================================================================
+
+> Date: Fri, 24 Oct 2014 16:23:07 +0800
+> Subject: Re: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+
+Apologies for the multiple emails this week.  FYI, there will also be the
+following special seminar next week on Thursday:
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:      Kiyo Masui (University of British Columbia)
+Topic:          Large-scale structure with the Canadian Hydrogen Intensity
+Mapping Experiment (CHIME)
+Time:          10/30 (Thursday) 14:20 - 15:20
+Place:          R1203
+
+The Canadian Hydrogen Intensity Mapping Experiment (CHIME) proposes to map
+the large-scale structure of the Universe in three dimensions by detecting
+the redshifted 21 cm emission from neutral hydrogen. I will introduce the
+CHIME instrument, its science goals, and some of the challenges it faces
+going forward with a focus on data analysis.
+
+
+On Thu, Oct 23, 2014 at 11:27 AM, Sherry Suyu <suyu@asiaa.sinica.edu.tw>
+wrote:
+
+> The colloquium info for next week is added below.
+>
+> *** Colloquium ***
+> ____________________________________________________
+> Speaker:      Xiangzhong Zheng  (Purple Mountain Observatory)
+> Topic:          Evolution of star-forming galaxies across cosmic time
+> Time:          10/29 (Wednesday) 14:20 - 15:20
+> Place:          R1203
+>
+> I will discuss recent observational progress in understanding of the
+> assembly history of galaxies, with particular focus on these actively
+> forming stars. Star-forming galaxies (SFGs) are the dominant population at
+> the cosmic noon z~2-3, and show a rapid decline in SFR and a mild evolution
+> in mass density to the present day. In contrast quiescent galaxies
+> increases in mass density by more than one order of magnitude over the same
+> cosmic epoch, fed by SFGs that quickly turn off their star formation. The
+> feeding and quenching of star formation tend to be dependent on galaxy mass
+> and structure.  The corresponding physical mechanisms  remain to be
+> understood.
+>
+>
+> On Oct 23, 2014, at 8:00 AM, Henry Hsieh wrote:
+> > Check on the website for the upcoming schedule
+> > http://www.asiaa.sinica.edu.tw/
+> >
+> > *** Tech Lunch Talk [Chinese] ***
+> > Please order the lunch box by *3:30PM* this Friday.
+> > https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+> > If you ordered lunch box but you did not show up at the lunch talk, the
+> lunch box fee will be charged to YOU.
+> > ____________________________________________________
+> > Speaker:      Liebig, Bernd (ASIAA)
+> > Topic:                An Introduction to the NanoSIMS (In English)
+> > Time:                10/29 (Wednesday) 12:00 - 13:00
+> > Place:                R1203
+> > Abstract:
+> > The NanoSIMS is a powerful and very versatile instrument for surface
+> analysis. In this talk, I will give a summary of the underlying principles
+> of Secondary Ion Mass Spectrometry (SIMS) and discuss the setup of the
+> NanoSIMS, in articular. Based on these principles, I will demonstrate the
+> key advantages of the NanoSIMS and its application, as well as key
+> requirements for planning projects and preparing samples.
+> >
+> >
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

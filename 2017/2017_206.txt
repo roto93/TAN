@@ -1,0 +1,57 @@
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: SMA Call for Large Scale and Standard Proposals
+> Date: Wed, 20 Dec 2017 16:26:31 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+
+Dear Yi-Jehng,
+
+The SMA call forLarge-scale and Standard proposals (2018A semester) has been announced.
+I would appreciate it if you could circulate it to TAN.
+
+Regards,
+Naomi
+
+--------------------------------------------
+
+
+Dear Colleague,
+
+We wish to draw your attention to the Large Scale Projects program for observations with the Sub-millimeter Array (SMA), which is now accepting proposals. Under this program, proposals dedicated to answering major astrophysical questions having significant scientific impact requiring observing times of order 100-1000 hours are solicited.  In this communication, we are also pre-announcing the dates for standard observing proposals. These calls are for the 2018A semester with observing period May 16, 2018 - Nov 15, 2018.
+
+The SMA is a reconfigurable interferometric array of eight 6-m antennas on Mauna Kea jointly built and operated by the Smithsonian Astrophysical Observatory and the Academia Sinica Institute of Astronomy and Astrophysics. The array operates in the 230, 345 and 400 GHz bands. 
+
+The SMA has recently completed significant upgrades in observational capability, with more under way. Currently, the SMA observes simultaneously with two orthogonally polarized receivers, one in the 230 GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with full polarimetric observations available using the 230+240 or 345+400 band combinations). The SWARM correlator processes 8 GHz bandwidth for each receiver in each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. This 32 GHz frequency coverage can be continuous where the tuning ranges overlap for the two orthogonally polarized receivers. In short, the SMA now provides flexible, wide band frequency coverage that delivers high continuum sensitivity and excellent spectral line capabilities. A full track offers continuum sensitivity of 200 or 500 micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions (precipitable water vapor 2.5mm and 1.0mm, respectively). The corresponding line sensi!
+tivities at 1 km/s resolution are 30 and 70 mJy. The small antennas allow access to low spatial frequencies in the sub-compact configuration, and at the other extreme, the finest angular resolution with the very extended configuration at 345 GHz is ~ 0.25". The compact and extended configurations bridge the range. Thus, in some ways, the characteristics and performance of the SMA are both similar and complementary to those of the stand-alone Atacama Compact Array (ACA) component of ALMA. 
+
+The Large Scale Projects program follows a phased development, submission and review path, with the final selection of successful proposals synchronized with the TAC process for regular proposals. Accordingly, a Notice of Intent is required ahead of full submission. The deadlines are:
+
+Large Scale Projects proposals
+
+Notice of Intent: 15 January, 2018 
+Full submission: 20 February, 2018 
+
+Standard Observing Proposals
+
+Submissions open  : 15 January 2018 (expected date)
+Submissions Close : 08 March 2018
+
+A second announcement will be circulated when the standard proposal system opens for submissions.
+
+More details can be found at: 
+
+http://sma1.sma.hawaii.edu/call_largescale.html
+
+Notice of Intent:
+http://sma1.sma.hawaii.edu/legacysubmit.html
+
+http://sma1.sma.hawaii.edu/proposing.html
+
+Questions or comments regarding the Call for Large Scale Proposals can be addressed to sma-largescale@cfa.harvard.edu.
+
+Best wishes,
+
+T. K. Sridharan
+SMA TAC Chair
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

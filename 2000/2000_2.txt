@@ -1,0 +1,2501 @@
+From kyl@asiaa.sinica.edu.tw Tue Jan  4 16:20 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA13381
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 4 Jan 2000 16:18:26 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA29017
+	for <astro@asiaa.sinica.edu.tw>; Tue, 4 Jan 2000 16:11:03 +0800
+Date: Tue, 4 Jan 2000 16:14:04 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Dwarf Tales, issue 11 (fwd)
+Message-ID: <Pine.SOL.4.10.10001041614010.20017-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 102250
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 3 Jan 2000 21:58:00 -0600 (CST)
+From: Dwarf Tales <dwarfs@astro.ugto.mx>
+To: ebrinks@coyotl.astro.ugto.mx
+Subject: Dwarf Tales, issue 11
+
+
+Dear Colleagues,
+
+Please find below Issue No. 11 of Dwarf Tales!
+
+With best wishes,
+
+Eva Grebel and Elias Brinks
+
+---------------------------------------------------------
+\documentstyle[11pt,aas2pp4]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+
+%========================================================================
+% If you use any special macros, please include them here: 
+% MACRO DEFINITIONS
+
+\def\kms{\ifmmode {\rm \, km \, s^{-1}} \else $\rm \,km \, s^{-1}$\fi}
+\def\msol{\ifmmode M_\odot\else$M_\odot$\fi}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\sim$}}
+    \raise 2.0pt\hbox{$>$}}}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\bco  {\ifmmode{^{12}{\rm CO}(J\!=\!2\! \to \!1)}\else{$^{12}{\rm CO}(J\!=\!2\! \to \!1)$}\fi}
+\def\m    {\ifmmode{\mu {\rm m}}\else{$\mu$m}\fi}
+\def\cco  {\ifmmode{^{13}{\rm CO}(J\!=\!1\! \to \!0)}\else{$^{13}{\rm CO}(J\!=\!1\! \to \!0)$}\fi}
+\def\dco  {\ifmmode{^{13}{\rm CO}(J\!=\!2\! \to \!1)}\else{$^{13}{\rm CO}(J\!=\!2\! \to \!1)$}\fi}
+\def\eco  {\ifmmode{{\rm C}^{18}{\rm O}\-(J\!=\!1\! \to \!0)}\else{${\rm C}^{18}{\rm O}\-(J\!=\!1\! \to \!0)$}\fi}
+\newcommand{\hi}{H\,{\small{\sc I}}}
+\newcommand{\Msun}{\mbox{$M_\odot$}}
+\newcommand{\x}{{X$_{\rm CO}$}} 
+
+%========================================================================
+
+\newcommand{\leoi}{Leo\,{\sc I}}
+\def\hii{\protect{\sc H\thinspace ii}}
+\def\hei{He\thinspace I}
+\def\heii{He\thinspace II}
+\def\neiii{[Ne\thinspace III]}
+\def\etap{$\eta^\prime$}
+%\def\Ha{H$\alpha$}
+\def\Hb{H$\beta$}
+\def\tstar{$T_\star$}
+\def\lam{$\lambda$}
+
+%\def\spose#1{\hbox to 0pt{#1\hss}}
+%\def\lta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+%     \raise 2.0pt\hbox{$\mathchar"13C$}}}
+%\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+%     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+
+
+\begin{document}
+
+%========================================================================
+\noindent
+\rule{\textwidth}{1mm}\par
+\begin{center}
+{\Huge\bf $\mathcal{D\,WA\,R\,F}$ \hspace{0.3in} $\mathcal{TA\:L\,E\,S}$
+}
+\\
+\bigskip
+{\huge \it A Newsletter devoted to all aspects of dwarf galaxy
+          research}
+\\
+\bigskip
+{\Large edited by Elias Brinks and Eva\,K.\ Grebel}
+\\
+\ \\ 
+{\sc Dwarf Tales} has its home at the Departamento de Astronom\'{\i}a
+of the Universidad de Guanajuato. Its home page (with a USA and a
+European mirror site) can be found at URL:
+\\
+\ \\
+{\tt http://www.astro.ugto.mx/$\sim$dwarfs}
+\\
+{\Large \it Issue No. 11 \hfill 31 December 1999}
+\\
+\hrulefill
+\\
+\vspace*{-3mm}
+\hrulefill
+\end{center}
+%========================================================================
+\bigskip
+\bigskip
+{\LARGE \bf EDITORIAL}
+
+\bigskip
+\noindent
+First of all, apologies for the substantial delay in getting this
+issue to you. As you might have realized, the Guanajuato site was
+without e-mail for exactly a month, due to a variety of unrelated
+circumstances (a hacker attack, followed by a faulty piece of
+equipment, followed by a problem at the router of the University).
+
+Thanks to all of you for insisting when the connections went down, or
+for sending your contributions to alternative sites. We hope we didn't
+lose any in the process. If we did, please send them once more for
+inclusion in the next issue of {\sc Dwarf Tales} by directing them to
+the usual address:
+
+\smallskip
+\hspace{1in}	{\tt dwarfs@astro.ugto.mx}
+
+And remember, a subscription to {\sc Dwarf Tales} is {\it free!\/} A
+simple message expressing your interest to the same address will be
+sufficient to add you to the mailing list. In case you wish to cancel
+your subscription, send a message to the above address and your entry
+in the master mailing list will be removed.\par
+
+Finally, we wish all our readers a most MAGNIFICENT
+
+\begin{verbatim}
+        yyy   yyy    2222     kk
+         yyy yyy    22  22    kk kk
+          yyyyy        22     kkkk
+           yyy        22      kk
+           yyy       22       kkkk
+           yyy      222222    kk kk
+\end{verbatim}
+
+
+\smallskip
+\noindent
+
+\bigskip
+\noindent
+Elias Brinks and Eva Grebel\par
+
+\medskip
+\noindent
+\dotfill
+\newpage
+
+%========================================================================
+
+%\bigskip
+\noindent
+{\LARGE \bf WWW PAGES}
+
+In case there are recurring problems with access to the URL\, {\tt
+www.astro.ugto.mx} don't forget that {\sc Dwarf Tales} has two mirror
+sites; a US mirror can be found at: 
+\smallskip
+
+	{\tt http://www.astro.washington.edu/grebel/dwarfs.html}
+
+\noindent
+and a European mirror at
+
+	{\tt http://www.astro.uni-bonn.de/$\sim$dwarfs/index.html}
+
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\bigskip
+\noindent
+{\LARGE \bf CONTENTS}
+
+\bigskip
+\noindent
+JOB ANNOUNCEMENTS\dotfill 2\\
+ABSTRACTS OF JOURNAL PAPERS \dotfill 4\\
+ABSTRACTS OF CONFERENCE CONTRIBUTIONS \dotfill 21\par
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+%\newpage
+
+\bigskip
+\bigskip
+\bigskip
+%========================================================================
+
+\noindent
+{\LARGE \bf JOB ANNOUNCEMENTS}
+
+\bigskip
+
+%========================================================================
+
+
+\begin{center}
+{\Large {\bf 
+Doctoral Research Stipendia Magellanic Clouds and Dwarf Galaxies\\
+\medskip
+at the Universities of Bochum and Bonn}}
+\end{center}
+
+In the Graduiertenkolleg {\it The Magellanic System, Galaxy
+Interaction and the Evolution of Dwarf Galaxies}, jointly run at the
+Universities of Bonn and Bochum and funded by the Deutsche
+Forschungsgemeinschaft, stipendia for doctoral studies are available
+as of {\bf Fall 1999}.  Research topics are stellar populations,
+interstellar clouds, dust, and star formation in the Magellanic Clouds
+and dwarf galaxies, as well as the kinematical behaviour of such
+galaxies (see http://www.astro.uni-bonn.de/$\sim$webgk).\par
+
+Information on the Graduate School can be obtained from the Spokesman,
+
+Prof.\ K.S.\ de Boer\par
+tel.: *[49]--228--733656,\par
+deboer@astro.uni--bonn.de\par 
+
+\noindent
+Applications are to be sent as soon as possible to:\par
+
+Prof.\ K.S.\ de Boer\par
+Spokesman of the GK\par
+Sternwarte\par
+Auf dem H\"ugel 71\par 
+D--53121 Bonn, Germany\par
+
+\noindent
+Applications should include: CV, copies of relevant exam certificates, 
+an indication of the preferred research area, and names of 2 references. 
+
+
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large{\bf Postdoctoral Fellowships at the University of Bochum and of Bonn}}
+\end{center}
+
+The Graduiertenkolleg {\it The Magellanic System, Galaxy Interaction
+and the Evolution of Dwarf Galaxies}, jointly run at the Universities
+of Bonn and Bochum, funded by the Deutsche Forschungsgemeinschaft,
+invites applications for a postdoctoral fellowship.  The successful
+applicant will find her/himself in a pleasant scientific environment,
+closely collaborating with graduate students on related topics. She/he
+should be interested in galaxy research, in particular in the
+investigation of dwarf galaxies.  Members of the Graduiertenkolleg
+(GK) currently pursue both theoretical and observational studies in
+the field of galaxy research. They have regular access to major radio
+and optical telescopes around the world and also utilize satellite
+observatories. The major goal of this graduate or research school is
+to furnish comprehensive scientific experience and education of
+graduate students in astrophysics, while working in a team.  The
+scientific focus of the GK is on the star formation history and
+evolution, on the interstellar medium, and on the structure and
+kinematics of the Magellanic Clouds as well as of more distant dwarf
+galaxies (see http://www.astro.uni-bonn.de/\ $\sim$webgk).\par
+
+\bigskip
+{\bf Bochum}: Preference for the position at Bochum will be given to
+candidates with a strong background in {\bf mm/submm-astronomy and/or
+radio-interferometry}.  Information about the fellowship can be
+obtained from Profs. Ralf-J\"urgen Dettmar and Rolf Chini at the \\
+Astronomical Institute, Ruhr University in Bochum, Postbox 102148,
+D-44780 Bochum: \\ 
+dettmar, chini@astro.ruhr-uni-bochum.de, Tel.: *[49]-234-322-3459 or
+322-5802\par
+
+\bigskip
+{\bf Bonn}: Preference for the position at Bonn will be given to
+candidates with a strong background in {\bf stellar astronomy}.
+Information about the fellowship can be obtained from \\
+Prof. K. S. de Boer, Sternwarte, Univ. Bonn, Tel. *[49]-228-733656
+(address see below).\par
+
+\bigskip
+The DFG is currently funding the GK for the period 1999-2001.  The
+appointment is for one year with a most likely extension for another
+year.  An appointment for a shorter, work-visit like period is also
+possible. The monthly payment, set by the rules of the DFG, is DM
+2490.- to 2690.- (depending on age), plus DM 200.- for expenditures,
+plus a DM 400.- allowance for married persons.\par
+
+Information about the Fellowships can be obtained from the Spokesman 
+(see below).\par
+
+Applications consisting of CV, list of publications, research plans
+(max. 1 page) and name of 2 references should arrive as soon as
+possible (e-mail is fine; send in all cases the announcement of an
+application by e-mail), and are to be sent to the Spokesman of the
+Graduiertenkolleg: \par
+
+Prof. Dr. Klaas S. de Boer\par
+Sternwarte der Universit\"at Bonn\par
+Auf dem H\"ugel 71\par  
+D--53121 Bonn, Germany\par
+e--mail: deboer@astro.uni-bonn.de\par 
+
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+\newpage
+
+%========================================================================
+
+\noindent
+{\LARGE \bf ABSTRACTS OF JOURNAL PAPERS}
+
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Searches for HI in the Outer Parts of \\ \medskip
+	Four Dwarf Spheroidal Galaxies  
+}
+\end{center}
+\begin{center}
+{\bf         L. M. Young$^1$ 
+}
+\end{center}
+{\footnotesize    $^1$ New Mexico State University, Las Cruces, NM, USA
+}\par
+\medskip
+
+Previous searches for atomic gas in our Galaxy's dwarf spheroidal
+companions have not been complete enough to settle the question of
+whether or not these galaxies have HI, especially in their outer
+parts.  We present new observations of the dwarf spheroidals Sextans,
+Leo~I, Ursa Minor, and Draco, using the NRAO 140-foot telescope to
+search much farther in radius than has been done before.  The new data
+go out to at least 2.5 times the core radius in all cases, and well
+beyond even the tidal radius in two cases.  These observations give HI
+column density limits of 2--6$\times 10^{17}$ cm$^{-2}$.  Unless HI is
+quite far from the galaxies' centers, we conclude that these galaxies
+don't contain significant amounts of atomic gas at the present time.
+We discuss whether the observations could have missed some atomic gas.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ
+}\\
+{\it For preprints, contact\, }       {\tt   lyoung@nmsu.edu  }\\
+{\it Also available from the URL\, }  {\tt    astro-ph/9910398   }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  HST Studies of the WLM Galaxy.\\ \medskip II. The Star Formation
+History from Field Stars 
+}
+\end{center}
+\begin{center}
+{\bf         Andrew E. Dolphin$^1$
+}
+\end{center}
+{\footnotesize   $^1$ National Optical Astronomy Observatories,
+P.O. Box 26732, Tucson, AZ 85726, USA
+}\par
+\medskip
+
+HST F555W and F814W photometry of a portion of the WLM galaxy are
+presented.  The distance modulus is determined via fitting of the
+entire color-magnitude diagram to be $(m-M)_0 = 24.88 \pm 0.09$, which
+is consistent with the RGB tip distance.  The galaxy's measurable star
+formation history appears to have begun no more than 12 Gyr ago, with
+about half of WLM's total star formation (by mass) formed before 9 Gyr
+ago.  The star formation rate gradually decreased, until a recent
+increase in activity starting between 1 and 2.5 Gyr ago.  This is
+still continuing to the present time, and is concentrated in the bar
+of the galaxy, as shown by the difference in recent star formation
+rates in the three WF chips.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   dolphin@noao.edu  }\\
+%{\it Also available from the URL\, }  {\tt                        }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Stellar Populations of the Sagittarius Dwarf Irregular Galaxy}
+\end{center}
+\begin{center}
+{\bf Myung Gyoon Lee$^1$ and Sang Chul Kim$^1$
+}
+\end{center}
+{\footnotesize $^1$ Department of Astronomy, Seoul National University,
+   Seoul 151-742, Korea
+}\par
+\medskip
+
+We present deep $BVRI$ CCD photometry of the stars in the dwarf
+irregular galaxy SagDIG.  The color-magnitude diagrams of the measured
+stars in SagDIG show a blue plume which consists mostly of young
+stellar populations, and a well-defined red giant branch (RGB).  The
+foreground reddening of SagDIG is estimated to be $E(B-V)=0.06$.  The
+tip of the RGB is found to be at $I_{\rm TRGB} = 21.55 \pm 0.10$ mag.
+{From} this the distance to this galaxy is estimated to be $d =
+1.18\pm 0.10 $ Mpc. This result, combined with its velocity
+information, shows that it is a member of the Local Group.  The mean
+metallicity of the red giant branch is estimated to be [Fe/H] $< -2.2$
+dex. This shows that SagDIG is one of the most metal-poor galaxies.
+Total magnitudes of SagDIG ($<r_H (= 107$ arcsec)) are derived to be
+$B^T=13.99$ mag, $V^T=13.58$ mag, $R^T=13.19$ mag, and $I^T=1 2.88$
+mag, and the corresponding absolute magnitudes are $M_B=-11.62$ mag,
+$M_V=-11.97$ mag, $M_R=-12.33$ mag, and $M_I=-12.60$ mag.  Surface
+brightness profiles of the central part of SagDIG are approximately
+fit by a King model with a core concentration parameter $c = \log (r_t
+/ r_c ) \approx 0.6$, and those of the outer part follow an
+exponential law with a scale length of 37 arcsec.  The central surface
+brightness is measured to be $\mu_B (0) = 24.21 $ mag arcsec$^{-2}$
+and $\mu_V (0) =23.91 $ mag arcsec$^{-2}$.  The magnitudes and colors
+of the brightest blue and red stars in SagDIG (BSG and RSG) are
+measured to be, respectively, $<V(3)>_{BSG} = 19.89\pm 0.13$ mag,
+$<(B-V)(3)>_{BSG} = 0.08\pm 0.07$ mag, $<V(3 )>_{RSG} = 20.39\pm 0.10$
+mag, and $<(B-V)(3)>_{RSG} = 1.29\pm 0.12$ mag.  The corresponding
+absolute magnitudes are derived to be $<M_V(3)>_{BSG} = -5.66$ mag and
+$<M_V(3)>_{RSG} = -5.16$ mag, which are about one magnitude fainter
+than those expected from conventional correlations with galaxy
+luminosity.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ
+}\\
+{\it For preprints, contact\, }       {\tt mglee@astrog.snu.ac.kr,sckim@astro.snu.ac.kr}\\
+{\it Also available from the URL\, }  {\tt astro-ph/9910481 }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Exploring Halo Substructure with Giant Stars:\\ \smallskip
+ II. Mapping the Extended Structure\\ \medskip of the Carina Dwarf Spheroidal Galaxy
+}
+\end{center}
+\begin{center}
+{\bf Steven R. Majewski$^1$, 
+James C. Ostheimer$^1$, 
+Richard J. Patterson$^1$,\\
+William E. Kunkel$^2$,
+Kathryn V. Johnston$^3$, and
+Doug Geisler$^4$
+}
+\end{center}
+{\footnotesize   $^1$  Dept. of Astronomy, University of Virginia,
+		Charlottesville, VA 22903--0818, USA \\
+                 $^2$  Las Campanas Observatory, Carnegie Institution of
+		Washington, Casilla 601, La Serena, Chile\\
+                 $^3$ Dept. of Astronomy Wesleyan University,
+		Middletown, CT 06459--0123, USA\\
+                 $^4$ Department of Physics, Universidad de
+		Concepci\'on, Concepci\'on, Chile 
+}\par
+\medskip
+
+As part of our survey for substructure in the Milky Way halo as traced
+by giant stars, and to look for tidal stellar debris in the halo
+viable for measurement of the Galactic mass potential with the Space
+Interferometry Mission (SIM), we explore the distribution of stars
+beyond the nominal tidal radius of, but still associated with, the
+Carina dwarf spheroidal galaxy. We make use of the photometric
+technique described in Majewski et al.\ (1999b, AJ, submitted) to
+identify giant star candidates at the distance and metallicity of the
+Carina dwarf spheroidal across the entire extent of a photometric
+survey covering some 2.2 deg$^2$ on and around Carina.  These
+Carina-associated giant candidates are identified by a combination of
+(1) their $M-DDO51$ colors, which are a measure of both surface
+gravity and metallicity at given $M-T_2$ colors, and (2) by locations
+in the color-magnitude diagram commensurate with the Carina red giant
+branch in the core of the galaxy.  The density distribution of the
+extratidal giant candidates bears resemblance to the outer isopleths
+of Carina presented by Irwin \& Hatzidimitriou (1995, MNRAS, 277,
+1354).  However, in contrast to previous, {\it statistical}
+star-counting approaches, we can pinpoint {\it actual},
+remotely-situated Carina stars individually.  Because we can exclude
+the foreground veil of dwarf stars, our approach allows greater
+sensitivity and the ability to map the detailed two-dimensional
+distribution of extended Carina populations to much larger radii,
+while utilizing smaller aperture telescopes, than other techniques.
+Moreover, we identify candidate lists of widely displaced
+Carina-associated stars bright enough for spectroscopic studies of
+large-scale dynamical and metallicity properties of the system, and
+for astrometric study by SIM. We obtained spectroscopy for three such
+``extratidal'' stars and from their radial velocities conclude that
+all three are associated with Carina.
+
+While a single King profile matches our derived Carina core density
+profile, we confirm previous claims for a break in the density
+fall-off at about 20 arcmin.  Beyond this radius, a more gradual
+fall-off as $r^{-\gamma}$, with $1 < \gamma < 2$, to $r \ge 80$
+arcmin, is found. If the existence of density profile breaks is a
+signature of the predominance of unbound stars, and if we adopt the
+nominal tidal radius of 28 arcmin previously found for Carina, then it
+would appear that we have identified a substantial extratidal
+population from Carina.  If these $r
+\mathrel{\hbox{\rlap{\hbox{\lower5pt\hbox{$\sim$}}}\hbox{$>$}}} 20$
+arcmin stars are truly now unbound from the galaxy, we estimate from
+the relative stellar density distribution a fractional destruction
+rate for Carina from tidal stripping of order $\begin{pmatrix} {df
+\over dt}\end{pmatrix} = 0.27$ Gyr$^{-1}$.  This is among the highest
+rates expected for the Milky Way dwarf spheroidals apart from
+Sagittarius.  The existence of such extended populations of
+Carina-associated stars may have important implications for the
+existence of large dark matter contents in dwarf spheroidals, as well
+as for the evolution of the Milky Way halo.
+  
+Finally, we find that the ``background density'' of what are likely to
+be predominantly random, metal-poor halo field giants maintains a
+rather flat count-magnitude relation out to the distance of Carina, in
+keeping with $R^{-3}$ density laws for the Galactic halo.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+%{\it For preprints, contact\, }       {\tt   your e-mail address  }\\
+{\it Also available from the URL\, }  {\tt
+http://xxx.lanl.gov/abs/astro-ph/9911191    }\\ 
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The Dwarf Spheroidal Companions to M31:\\ \medskip
+WFPC2 Observations of Andromeda II}
+\end{center}
+\begin{center}
+{\bf G.\ S.\ Da Costa$^1$, T.\ E.\ Armandroff$^2$, Nelson Caldwell$^3$,
+and Patrick Seitzer$^4$}
+\end{center}
+{\footnotesize   $^1$ Research School of Astronomy \& Astrophysics,
+	Institute of Advanced Studies, The Australian National
+	University, Private Bag, Weston Creek Post Office, ACT 2611,
+	Australia 
+	\\ $^2$  Kitt Peak National Observatory, NOAO, P.O.\ Box
+	26732, Tucson, Arizona 85726, USA
+	\\ $^3$  F.\ L.\ Whipple Observatory, Smithsonian Institution,
+	P.O.\ Box 97, Amado, Arizona 85645, USA
+	\\ $^4$ Department of Astronomy, University of Michigan, Ann
+	Arbor, Michigan 48109, USA
+}\par
+\medskip
+The {\it Hubble Space Telescope} WFPC2 camera has been used to image
+Andromeda~II, a dwarf spheroidal (dSph) companion to M31.  The
+resulting color-magnitude (c-m) diagrams reveal the morphology of the
+horizontal branch (HB) in this dwarf galaxy.  We find that like
+Andromeda~I, and like most of the Galactic dSph companions, the HB
+morphology of And~II is predominantly red.  Unlike And~I, however,
+there is no evidence for a radial gradient in HB morphology in the
+And~II data.  Based on a comparison with a combination of standard
+Galactic globular cluster c-m diagrams scaled to reproduce the And~II
+mean abundance and abundance dispersion, we interpret the observed HB
+morphology of And~II as indicating that at least 50\% of the total
+stellar population is younger than the age of the globular clusters.
+This inference is strengthened by the small number of confirmed
+upper-AGB carbon stars in And~II\@.  The relatively faint luminosities
+(M$_{bol}$ $\approx$ --4.1) of these stars, however, suggest an age or
+ages nearer 6--9 Gyr, rather than 1--3 Gyr, for this population.  On
+the other hand, the existence of blue HB and RR~Lyrae variable stars
+in And~II argues for the existence of an additional old (age $>$ 10
+Gyr) population in this dSph.  Thus And~II has had an extended epoch
+of star formation like many of the Galactic dSphs.  The mean magnitude
+of the blue HB in And~II suggests (m--M)$_{0}$ = 24.17 $\pm$ 0.06 and
+that And~II is 125 $\pm$ 60 kpc closer than M31 along the
+line-of-sight.  This confirms the association of And~II with M31,
+rather than with M33 to which And~II lies closer on the sky.  The true
+distance of And~II from the center of M31 is between $\sim$160 and
+$\sim$230 kpc, comparable to the Galactocentric distances of Fornax
+and of the Leo dSphs.  With the current samples of dSph companions,
+the size of the Galaxy's and M31's dSph satellite systems are
+comparable, with outer radii of order 250 kpc.  The And~II red giant
+branch colors yield a mean abundance of $<$[Fe/H]$>$ = --1.49 $\pm$
+0.11 and a surprisingly large internal abundance spread, which can be
+characterized by $\sigma_{int}$([Fe/H]) $\approx$ 0.36 dex.  Both
+these values are in good agreement with the recent ground-based
+spectroscopic study of C\^{o}t\'{e} et al.\ [1999, AJ, 118, 1645].
+The And~II abundance dispersion found here is considerably larger than
+that derived for And~I from an identical analysis of similar data
+($\sigma_{int}$([Fe/H]) = 0.21 dex).  Thus despite having very similar
+luminosities and mean metal abundances, these two M31 dSph companions
+have clearly had different chemical evolution histories.  We find that
+we cannot model the abundance distribution in And~II with single
+component simple chemical enrichment models.  However, we can
+reproduce the form of the distribution if we assume two components,
+each with a simple model abundance distribution.  The ``metal-poor''
+component has mean abundance log($<\!z\!>$/$z_{sun}$) = --1.6, while
+the ``metal-rich'' one has mean abundance log($<\!z\!>$/$z_{sun}$) =
+--0.95 and is outnumbered by the metal-poor population by a ratio of
+$\sim$2.3 to 1.  We end by concluding that the diversity of
+evolutionary histories evident among the Galactic dSph companions is
+now also firmly established among the dSph satellites of M31.  An
+Appendix discusses minor revisions to our earlier And~I results that
+arise from the calibration and analysis techniques adopted in this
+paper.  In particular, our comparisons with ground-based photometry
+indicate that the zeropoints for the WFPC2 $F450W$ to $B$
+transformation should be modified, by 0.055 mag, to produce fainter
+$B$ magnitudes and thus redder $B-V$ colors.  \par
+\medskip
+\noindent
+{\bf   Accepted by: AJ}\\
+{\it For preprints, contact\, }       {\tt armand@noao.edu OR
+gdc@mso.anu.edu.au}\\
+{\it Also available from the URL\, }  {\tt
+http://xxx.lanl.gov/abs/astro-ph/9911020}\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+\newpage
+
+\begin{center}
+{\Large\bf
+The red giant branches of Galactic globular clusters in the \\ \medskip
+\protect\( [(V-I)_{0},M_{V}]\protect \)
+plane: metallicity indices and morphology }
+\end{center}
+\begin{center}
+{\bf I. Saviane$^1$, A. Rosenberg$^{2,3}$, G.  Piotto$^1$, and
+A. Aparicio$^4$ } 
+\end{center}
+{\footnotesize    $^1$ Dipartimento di Astronomia, Universit\`a di
+		Padova,  Osservatorio 5, I-35122 Padova, Italy
+         \\       $^2$ Telescopio Nazionale Galileo,  Osservatorio 5, 
+		I-35122 Padova, Italy
+         \\       $^3$ Osservatorio Astronomico di Padova, Osservatorio
+		5, I-35122 Padova, Italy
+         \\       $^4$ Instituto de Astrof\'\i sica de Canarias, E-38200
+		La Laguna, Canary Islands, Spain
+}\par
+\medskip
+
+The purpose of this study is to carry out a thorough investigation of
+the changes in morphology of the red giant branch (RGB) of Galactic
+globular clusters (GGC) as a function of metallicity, in the \( V,I \)
+bands. To this aim, two key points are developed in the course of the
+analysis.
+
+\textbf{(a)} Using our photometric \( V,I \) database for Galactic
+globular clusters (the largest homogeneous data sample to date;
+Rosenberg et al., 1999, AJ, in press -- astro-ph/9907394) \emph{we
+measure a complete set of metallicity indices}, based on the
+morphology and position of the red-giant branch. In particular, we
+provide here the first calibration of the \( S \), \( \Delta V_{1.1}
+\) and \( \Delta V_{1.4} \) indices in the \( (V-I,V) \) plane. We
+show that our indices are internally consistent, and we calibrate each
+index in terms of metallicity, both on the Zinn \& West (1984) and the
+Carretta \& Gratton (1997) scales. Our new calibrations of the \(
+(V-I)_{0,\rm g} \), \( \Delta V_{1.2} \) , \( (V-I)_{-3.0} \) and \(
+(V-I)_{-3.5} \) indices are consistent with existing relations.
+
+\textbf{(b)} Using a grid of selected RGB fiducial points, \emph{we
+define a function in the \( (V-I)_{0},M_{I},\rm [Fe/H] \) space which
+is able to reproduce the whole set of GGC giant branches in terms of a
+single parameter} (the metallicity).  As a first test, we show that
+the function is able to predict the correct trend of our observed
+indices with metallicity.
+
+The usage of this function will improve the current determinations of
+metallicity and distances within the Local Group, since it allows to
+easily map \( (V-I)_{0},M_{I} \) coordinates into \( [{\rm
+Fe/H}],M_{I} \) ones. To this aim the ``synthetic'' RGB distribution
+is generated both for the currently used Lee, Demarque and Zinn (1990)
+distance scale, and for the most recent results on the RR~Lyr distance
+scale.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: A\&A
+}\\
+%{\it For preprints, contact\, }       {\tt   saviane@pd.astro.it  }\\
+%{\it Also available from the URL\, }  {\tt       }\\
+%{\it or by anonymous ftp at\, }       {\tt       }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Possibly interacting Vorontsov-Veliaminov galaxies.\\ \medskip
+I. Observations of  VV~432, VV~543 and VV~747
+}
+\end{center}
+\begin{center}
+{\bf Zasov A.V.$^1$, Kniazev A.Yu.$^2$, Pustilnik S.A.$^2$,
+Pramsky A.G.$^2$, Burenkov A.N.$^2$, Ugryumov A.V.$^2$, and Martin J.-M.$^3$
+}
+\end{center}
+{\footnotesize   $^1$ State Astronomical Institute of the Moscow State
+	  University, Universitetsky Pr., 13, Moscow, 119899, Russia
+	 \\       $^2$ Special Astrophysical Observatory, Nizhnij Arkhyz,
+		 Karachai--Circessia, 357147 Russia
+	 \\ $^3$ D\'epartement de Radioastronomie ARPEGES,
+	  Observatoire de Paris, F--92195  Meudon Cedex, France
+}\par
+\medskip
+
+Among the galaxies, which were included in the Atlas and Catalogue of
+Interacting galaxies by Vorontsov-Veliaminov (hereafter VV) as
+multiple systems (``nests'', ``chains'' and similarly looking
+systems), there are many objects, where the interaction is not
+evident. Some of them are single objects, including low-mass galaxies
+with active star formation. In this work we present the description of
+observations, data processing and results of the long-slit
+spectrophotometry with the Russian 6\,m telescope of three VV-galaxies
+looking like double or multiple systems, and H{\sc i} observation of
+one of them in order to elucidate their nature, determine their
+metallicity, kinematic properties and the evolution status. Galaxies
+VV~432 and VV~747 are found to be dwarf systems with very low oxygen
+abundance (O/H $\approx$~1/22 and 1/12 of the solar value,
+respectively).  Their velocity curves indicate {quite} small rotation
+with { respective} maximum velocities of about 60 and 80~km~s$^{-1}$,
+what agrees with their low luminosities. The distance to VV~432 is
+rather uncertain. If it is a member of Virgo Cluster, this is the most
+metal-deficient known galaxy of this aggregate.  For galaxy VV~543 the
+measured emission-line redshift 0.047 appeared ten times larger than
+it was given in the original paper and is cited in databases. This
+``system'' evidently represents an optical pair of two galaxies with
+large velocity difference. The fainter western component is an H{\sc
+ii}-galaxy, while the brighter one is an absorption-line early-type
+galaxy with the radial velocity being 1600~km~s$^{-1}$ lower.
+
+\par
+\medskip
+\noindent
+{\bf  % Accepted by:
+%          or
+      Submitted to: A\&A
+}\\
+{\it For preprints, contact\, }       {\tt sap@sao.ru  }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  HI Observations of Blue Compact Galaxies\\ \medskip from the First
+and Second Byurakan Surveys}
+\end{center}
+\begin{center}
+{\bf Trinh X.\ Thuan$^{1,3}$, V.A.\ Lipovetsky$^2$, J.-M.\ Martin$^4$,
+  and S.A.\ Pustilnik$^2$ 
+}
+\end{center}
+{\footnotesize  $^1$ Astronomy Department, University of Virginia,
+	      Charlottesville, VA 22903, USA
+      \\  $^2$ Special Astrophysical Observatory, Nizhnij Arkhyz,
+		 Karachai--Circessia, 357147 Russia
+     \\ $^3$ D\'epartement  d'Astronomie Extragalactique et de Cosmologie,
+	     F--92195  Meudon Cedex, France
+      \\ $^4$ D\'epartement de Radioastronomie ARPEGES, Observatoire
+	      de Paris, F--92195  Meudon Cedex, France
+}\par
+\medskip
+
+We present the results of a neutral hydrogen survey of 80 galaxies
+from a statistical sample of 88 Blue Compact Galaxies (BCGs) selected
+from the First and Second Byurakan objective prism surveys to have a
+HII region-like spectrum, an equivalent width of the OIII $\lambda$
+5007 line larger than $\sim$ 50 \AA, and a velocity $\leq$ 6000 km
+s$^{-1}$. The overall detection rate is 68 \%.  HI masses range
+between 2 $ \times 10^7 M_{\odot} $ and 5 $ \times 10^9 M_{\odot} $
+with the HI mass distribution peaking at 2 $ \times 10^8
+M_{\odot}$. The full width at half-maximum of the HI profile varies
+between $\sim$ 50 km s$^{-1}$ and 160 km s$^{-1}$, with a mean of
+$\sim$ 88 km s$^{-1}$. These small widths are characteristic of dwarf
+galaxies. For comparison, we have also observed an additional 92 BCGs
+with weaker star formation and/or larger distances, and/or interesting
+astrophysical properties. These in general have larger widths and HI
+masses.
+
+\par
+\medskip
+\noindent
+{\bf  Published in:
+%          or
+  A\&AS, 1999, 139, 1--24
+}\\
+{\it For reprints, contact\, }       {\tt jmmartin@obspm.fr  }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  High--resolution imaging of compact high--velocity clouds 
+}
+\end{center}
+\begin{center}
+{\bf         R. Braun$^1$, and W.B. Burton$^2$
+}
+\end{center}
+{\footnotesize   $^1$  Netherlands Foundation for Research in
+		Astronomy,  P.O. Box 2, 7990 AA Dwingeloo, The
+		Netherlands 
+     \\       $^2$  Sterrewacht Leiden, P.O. Box 9513, 2300 RA Leiden,
+		The Netherlands
+}\par
+\medskip
+  
+Six examples of the compact, isolated \hi\ high--velocity clouds
+(CHVCs) identified by Braun and Burton (1999, A\&A 341, 437), but only
+marginally resolved in single--dish data, have been imaged with the
+Westerbork Synthesis Radio Telescope. The 65 confirmed objects in this
+class define a dynamically cold system, with a global minimum for the
+velocity dispersion of only 70 km~s$^{-1}$, found in the Local Group
+Standard of Rest. The population is in--falling at 100 km~s$^{-1}$
+toward the Local Group barycenter. These objects have a characteristic
+morphology, in which one or more compact cores is embedded in a
+diffuse halo. The compact cores typically account for 40\% of the \hi\
+line flux while covering some 15\% of the source area. The narrow line
+width of all core components allows unambiguous identification of
+these with the cool condensed phase of \hi, the CNM, with
+kinetic temperature near 100~K, while the halos appear to represent a
+shielding column of warm diffuse \hi, the WNM, with temperature
+near 8000~K. We detect a core with one of the narrowest \hi\ emission
+lines ever observed, with intrinsic FWHM of no more than 2~km~s$^{-1}$
+and 75~K brightness. {From} a comparison of column and volume densities
+for this feature we derive a distance in the range 0.5 to 1 Mpc. We
+determine a metallicity for this same object of 0.04 to 0.07
+solar. Comparably high distances are implied by demanding the
+stability of objects with multiple cores, which show relative
+velocities as large as 70~km~s$^{-1}$ on 30~arcmin scales. Many of the
+compact cores show systematic velocity gradients along the major axis
+of their elliptical extent which are well--fit by circular rotation in
+a flattened disk system. Two out of three of the derived rotation
+curves are well--fit by Navarro, Frenk, \& White (1997, ApJ 490, 493)
+cold dark matter profiles. These kinematic signatures imply a high
+dark--to--visible mass ratio of 10--50, for $D~=~0.7$~Mpc, which
+scales as $1/D$. The implied dark matter halos provide a significant
+contribution to the mass volume density within the central 2~kpc
+(10~arcmin) of each source, providing a sufficient hydrostatic pressure
+to allow CNM condensation. The CHVC properties are similar in many
+respects to those of the Local Group dwarf irregular galaxies,
+excepting the presence of a high surface brightness stellar
+population.
+
+
+\par
+\medskip
+\noindent
+{\bf  % Accepted by:
+%          or
+      Submitted to: A\&A
+}\\
+{\it For preprints, contact\, }       {\tt   rbraun@nfra.nl }~
+{\it or }~  {\tt   burton@strw.leidenuniv.nl   }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf
+The elusive old population of the dwarf spheroidal galaxy Leo~I
+ }
+\end{center}
+\begin{center}
+{\bf E.V. Held$^1$, I. Saviane$^{2}$, Y. Momany$^2$, and G. Carraro$^2$ }
+\end{center}
+{\footnotesize    $^1$ Osservatorio Astronomico di Padova, Osservatorio
+		5, I-35122 Padova, Italy
+         \\       $^2$ Dipartimento di Astronomia, Universit\`a di
+		Padova,  Osservatorio 5, I-35122 Padova, Italy
+}\par
+\medskip
+
+We report the discovery of a significant old population in the dwarf
+spheroidal \leoi\ as a result of a wide-area search with the ESO New
+Technology Telescope.  Studies of the stellar content of Local Group
+dwarf galaxies have shown the presence of an old stellar population in
+almost all of the dwarf spheroidals. The only exception was \leoi,
+which alone appeared to have delayed its initial star formation
+episode until just a few Gyr ago.
+%
+The color-magnitude diagram of \leoi\ now reveals an extended
+horizontal branch, unambiguously indicating the presence of an old,
+metal-poor population in the outer regions of this galaxy. Yet we find
+little evidence for a stellar population gradient, at least outside
+$R>2^\prime$ ($0.16$\ kpc), since the old horizontal branch stars of
+\leoi\ are radially distributed as their more numerous
+intermediate-age helium-burning counterparts.  The discovery of a
+definitely old population in the predominantly young dwarf spheroidal
+galaxy \leoi\ points to a sharply defined first epoch of star
+formation common to all of the Local Group dSph's as well as to the
+halo of the Milky Way.
+ 
+\par
+\medskip
+\noindent
+{\bf 
+%  Accepted by: Astronomy \& Astrophysics
+      Submitted to:   ApJL
+}\\
+{\it For preprints, contact\, }       {\tt   held@pd.astro.it  }\\
+%{\it Also available from the URL\, }  {\tt       }\\
+%{\it or by anonymous ftp at\, }       {\tt       }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf The Most Metal-Poor Galaxies 
+}
+\end{center}
+\begin{center}
+{\bf         D. Kunth$^1$, and G. \"Ostlin$^{1,2}$
+}
+\end{center}
+{\footnotesize   $^1$  Institut d'Astrophysique de Paris (IAP), 98bis 
+		Boulevard Arago, 75014 Paris, France \\
+		$^2$ Present address: Stockholm Observatory, SE-133~36
+		Saltsj\"obaden, Sweden 
+
+}\par
+\medskip
+
+Metallicity is a key parameter that controls many aspects in the
+formation and evolution of stars and galaxies.  In this review we
+focus on the metal deficient galaxies, in particular the most
+metal-poor ones, because they play a crucial r\^ole in the cosmic
+scenery.  We first set the stage by discussing the difficult problem
+of defining a global metallicity and how this quantity can be measured
+for a given galaxy. The mechanisms that control the metallicity in a
+galaxy are reviewed in detail and involve many aspects of modern
+astrophysics: galaxy formation and evolution, massive star formation,
+stellar winds, chemical yields, outflows and inflows etc. Because
+metallicity roughly scales as the galactic mass, it is among the
+dwarfs that the most metal-poor galaxies are found. The core of our
+paper reviews the considerable progress made in our understanding of
+the properties and the physical processes that are at work in these
+objects. The question on how they are related and may evolve from one
+class of objects to another is discussed.  While discussing metal-poor
+galaxies in general, we present a more detailed discussion of a few
+very metal-poor blue compact dwarf galaxies like IZw18.  Although most
+of what is known relates to our local universe, we show that it
+pertains to our quest for primeval galaxies and is connected to the
+question of the origin of structure in the universe.  What do QSO
+absorption lines and known distant galaxies tell us already? We
+illustrate the importance of star-forming metal-poor galaxies for the
+determination of the primordial helium abundance, their use as
+distance indicator and discuss the possibility to detect nearly
+metal-free galaxies at high redshift from Ly$\alpha$ emission.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: A\&AR} \\
+{\it For preprints, contact: G.\ \"Ostlin}\,  {\tt ostlin@astro.su.se}\,
+or \,{\it D.\ Kunth}  \,{\tt kunth@iap.fr} \\
+{\it Also available from the URL\, } {\tt 
+http://xxx.lanl.gov/abs/astro-ph/9911094}\\
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf
+The 6 meter Telescope Spectroscopy\\ \smallskip of Candidate Low-Metallicity
+Galaxies
+}
+\end{center}
+\begin{center}
+{\bf A.Yu.~Kniazev$^1$ and S.A.~Pustilnik$^1$
+and A.V.~Ugryumov$^1$, and T.F.~Kniazeva$^1$
+}
+\end{center}
+{\footnotesize   $^1$  Special Astrophysical Observatory of Russian
+		Academy of Sciences, Nizhnij Arkhyz, 357147, Russia
+}\par
+\medskip
+
+The first results of the program carried out at the SAO RAS 6-m
+telescope pursued for the search for the most low-metallicity blue
+compact galaxies (BCGs) are presented. The results of
+spectrophotometry for 10 galaxies from the Case and Hamburg/SAO
+surveys are presented and discussed.  The methodics of candidate
+selection is described in detail, as well as observations and data
+reduction. For all observed galaxies the intensity of [OIII] line
+$\lambda$4363 \AA, is measured, what allows to determine correctly the
+temperature in super-giant HII regions, and to derive the abundances
+of chemical elements.  The intensities of all detected emission lines
+are measured in HII regions of studied galaxies. The abundances of
+Oxygen and Neon are derived for all of them. Abundances of N, S, He,
+Ar and Fe are derived as well for part of the galaxies. The Oxygen
+abundance in 6 galaxies is determined with the accuracy of $\le$0.1
+dex, and with larger uncertainties for the remaining objects. Six of
+the 10 program BCGs have appeared to be low-metallicity objects, with
+O/H $\le$1/10 of the solar value, that is 12+log(O/H)$\le$7.92. One of
+the most metal-poor BCGs found in this study is HS~0837+4717 with
+Oxygen abundance 12+log(O/H)$\le$7.7.  This BCG shows in its spectrum
+some broad low-contrast components of nebular lines [OIII]
+$\lambda$4959, 5007 \AA, evidencing to high-velocity gas motions in
+the galaxy.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AL (in press), 2000, vol.26, issue 2
+}\\
+{\it For preprints, contact\, }       {\tt   akn@sao.ru  }\\
+{\it Also available from the URL\, }  {\tt   http://precise.sao.ru/Laboratory/Publications/1999\_pub.html  }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+
+%========================================================================
+
+\begin{center}
+{\Large \bf   
+The Dwarf Irregular Galaxy UGC 7636 Exposed: \\ \vspace*{1mm}
+Stripping At Work In The Virgo Cluster
+}
+\end{center}
+\begin{center}
+{\bf         H. Lee$^1$, M. G. Richer$^2$, and M. L. McCall$^1$
+}
+\end{center}
+{\footnotesize   
+	$^1$ Dept. of Physics \& Astronomy, York University, 
+	4700 Keele St., Toronto, Ontario, M3J 1P3  Canada \\ 
+	$^2$ Instituto de Astronom\'{\i}a, UNAM, Apartado Postal 70--264,
+	M\'exico City, DF~04510, M\'exico
+}\par
+\medskip
+
+We present the results of optical spectroscopy of a newly discovered
+H~II region residing in the H~I gas cloud located between the dwarf
+irregular galaxy UGC~7636 and the giant elliptical galaxy NGC~4472 in
+the Virgo Cluster.  By comparing UGC~7636 with dwarf irregular
+galaxies in the field, we show that the H~I cloud must have originated
+from UGC~7636 because (1) the oxygen abundance of the cloud agrees
+with that expected for a galaxy with the blue luminosity of UGC~7636,
+and (2) $M_{H I}/L_B$ for UGC~7636 becomes consistent with the
+measured oxygen abundance of the cloud if the H~I mass of the cloud is
+added back into UGC~7636.  It is likely that tides from NGC~4472 first
+loosened the H~I gas, after which ram--pressure stripping removed the
+gas from UGC~7636.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt lee@aries.phys.yorku.ca }\\
+{\it Also available from the URL\, }  
+	{\tt http://aries.phys.yorku.ca/$\sim$lee/u7636.html}\\
+{\it or \, }  {\tt http://xxx.lanl.gov/abs/astro-ph/9912292 }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf Multiple Stellar Populations in the Globular Cluster
+ $\omega$ Centauri\\ \smallskip as Tracers of a Merger Event
+}
+\end{center}
+\begin{center}
+{\bf
+Y.-W. Lee$^1$, J.-M. Joo$^1$, Y.-J. Sohn$^1$, S.-C. Rey$^1$,
+H.-C. Lee$^1$, and A.R.\ Walker$^2$}
+\end{center}
+{\footnotesize $^1$ Center for Space Astrophysics, Yonsei University,
+	 Seoul 120-749, Korea 
+	\\ $^2$ NOAO/CTIO, Casilla 603, La Serena, Chile
+}\par
+\medskip
+
+The discovery of the Sagittarius dwarf galaxy, which is being tidally
+disrupted by and merging with the Milky Way, supports the view that
+the halo of the Galaxy has been built up at least partially by the
+accretion of similar dwarf systems.  The Sagittarius dwarf contains
+several distinct populations of stars, and includes M54 as its
+nucleus, which is the second-most-massive globular cluster associated
+with the Milky Way. The most massive globular cluster is $\omega$
+Centauri, and here we report that $\omega$ Centauri also has several
+distinct stellar populations, as traced by red-giant-branch stars. The
+most metal-rich red-giant-branch stars are about 2 Gyr younger than
+the dominant metal-poor component, indicating that $\omega$ Centauri
+was enriched over this timescale. The presence of more than one epoch
+of star formation in a globular cluster is quite surprising, and
+suggests that $\omega$ Centauri was once part of a more massive system
+that merged with the Milky Way, as the Sagittarius dwarf galaxy is in
+the process of doing now. Mergers probably were much more frequent in
+the early history of the Galaxy and $\omega$ Centauri appears to be a
+relic of this area.
+
+\par
+\medskip
+\noindent
+{\bf Accepted by: Nature
+% or
+}\\
+{\it Also available from the URL\, } {\tt astro-ph/9911137 }\\
+%{\it Also available from the URL\, } {\tt your http address }\\
+%{\it or by anonymous ftp at\, } {\tt your ftp address }\\
+%% When submitting a Thesis abstract, please also state
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Surface $BR$ Photometry of Newly Discovered Dwarf Elliptical\\
+\smallskip
+Galaxies in the Nearby Sculptor and Centaurus\,A Groups
+}
+\end{center}
+\begin{center}
+{\bf         H.~Jerjen$^1$, B.~Binggeli$^2$, and K.C.~Freeman$^1$
+}
+\end{center}
+{\footnotesize   $^1$  Research School of Astronomy and Astrophysics,
+		Mt.~Stromlo and Siding Spring Observatories,
+		Australian National University, Private Bag, Weston
+		Creek PO, ACT 2611, Canberra, Australia
+         \\       $^2$  Astronomical Institute of the University of
+		Basel, Venusstrasse 7, CH-4102 Binningen, Switzerland 
+}\par
+\medskip
+
+Prompted by the recent finding of a large number of gas-rich dwarf
+irregular galaxies in the nearby southern galaxy groups Sculptor (Scl)
+and Centaurus\,A (Cen\,A) we carried out a complementary survey to
+search for members of the gas-poor dwarf elliptical (dE) galaxy
+family.  In total 18 dE candidates were identified on SRC Sky Survey
+films covering the group regions. For five dE's in the Scl group and
+and five in the Cen\,A group, membership information is available from
+surface brightness fluctuations distance measurements, two dE's in
+each group also have independent redshift measurements. The remaining
+eight galaxies have been associated to the groups based on their
+morphology. We acquired deep $B$ and $R$-band CCD images for all
+galaxies and determined their photometric and structural
+parameters. According to the magnitude range covered, $-14 < M_{\rm B}
+< -9$ (not counting the bright dS0 NGC\,59), these objects are local
+dwarf spheroidal (dSph) analogues. The surface brightness profiles of
+most dwarfs are strongly non-exponential but are perfectly explained
+by the 3-parametric S\'ersic law. The best-fitting S\'ersic parameters
+are compared with corresponding data for Virgo dE's and dSph's. The
+present dE's follow the relations between the S\'ersic parameters and
+absolute $B$-band magnitude for Virgo dE's and local dwarfs, thus
+confirming the membership to the Scl and Cen\,A groups, respectively.
+Most of our dwarfs exhibit colour gradients in ($B - R)_0$, in the
+sense of a reddening outwards. We also show and discuss the sky
+distributions and $B$-band luminosity functions of the Scl and Cen\,A
+groups. The completeness magnitude for both populations (from the
+present survey) is estimated to be $M_{\rm B}^{\rm lim} \approx -13$.
+We find that the composite luminosity function of four nearby galaxy
+groups is well fitted by a Schechter function down to $M_{\rm B}^{\rm
+lim} = -14$ with a faint end slope $\alpha = -1.29(\pm0.10)$.  In the
+appendices we present best-fitting S\'ersic profile parameters for the
+dSph members of the Local Group and introduce two new dwarf irregulars
+found in the Cen\,A group.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ (February 2000)
+}\\
+{\it For preprints, contact\, }       {\tt   jerjen@mso.anu.edu.au  }\\
+%% When submitting a Thesis abstract, please also state
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+ 
+\begin{center}
+{\Large\bf  Testing the Surface Brightness Fluctuations Method \\
+\medskip for Dwarf
+Elliptical Galaxies in the Centaurus A Group
+}
+\end{center}
+\begin{center}
+{\bf         H.~Jerjen$^1$, K.C.~Freeman$^1$, and B.~Binggeli$^2$
+}
+\end{center}
+{\footnotesize   $^1$  Research School of Astronomy and Astrophysics, 
+		Mt.~Stromlo and Siding Spring Observatories,
+		Australian National University, Private Bag, Weston
+		Creek PO, ACT 2611, Canberra, Australia
+         \\       $^2$  Astronomical Institute of the University of
+		Basel, Venusstrasse 7, CH-4102 Binningen, Switzerland 
+}\par
+\medskip
+
+We have obtained deep $B$ and $R$-band CCD photometry for five dwarf
+elliptical galaxies that were previously identified on Schmidt films
+covering the region of the Centaurus A (Cen\,A) group. {From} a Fourier
+analysis of the $R$-band CCD images we determined the surface
+brightness fluctuation (SBF) magnitude $\bar{m}_R$ for each stellar
+system.  All magnitudes are similar and, given the small colour
+spread, suggest that these low surface brightness galaxies lie
+approximately at the same distance, regardless of the assumed SBF zero
+point. Long-slit spectra have been acquired to derive redshifts for
+two of the dwarfs, ESO269-066 and ESO384-016. The velocities,
+$v_\odot=784$\,\kms and $v_\odot=561$\,km\thinspace s$^{-1}$,
+respectively, identify them unambiguously as Cen\,A group members. An
+age (H$\delta_{\mbox{A}}$) -- metallicity (C$_2 \lambda$4668) analysis
+of the spectra reveals an underlying old and metal-poor stellar
+population in both cases. Combining photometric and spectroscopic
+results we find strong evidence that indeed all dwarf galaxies are
+Cen\,A group members.
+
+Based on Cepheid, TRGB, and PNLF distances published for the two main
+Cen\,A group galaxies NGC5128 and NGC5253, we adopted a mean group
+distance of 3.96\,Mpc to calibrate the apparent fluctuation
+magnitudes. The resulting {\em absolute}\/ SBF magnitudes $\bar{M}_R$
+of the dEs correlate with the dereddened colours $(B-R)_0$ as
+predicted by Worthey's stellar synthesis models using the theoretical
+isochrones of Bertelli and collaborators. This good agreement allows a
+calibration of the SBF method for dwarf ellipticals in the colour
+range $0.8<(B-R)_0<1.5$. However, two branches of stellar populations
+appear in the $\bar{M}_R$-colour plane, and care has to be taken to
+decide which branch applies to a given observed dwarf. For dwarfs with
+$(B-R)_0<1$ there is very little colour dependence ($\bar{M}_R \approx
+-1.2$), in accord with our previous SBF analysis of faint, blue
+Sculptor group dEs. For red dwarfs, $(B-R)_0>1.2$, the
+$\bar{M}_R$-colour relation is steep, and accurate colours are needed
+to achieve SBF distances with an uncertainty of only 10\%. One of the
+dwarfs, ESO219-010, is located slightly behind the core of the Cen\,A
+group at $\sim$4.8\,Mpc, while the remaining four recover the mean
+group distance of 3.96 Mpc that was put into the calibration.  The
+depth of the group is only 0.5\,Mpc which identifies the Cen\,A group
+as a spatially well isolated galaxy aggregate, in contrast to the
+nearby Sculptor group.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ (January 2000)
+}\\
+{\it For preprints, contact\, }       {\tt   jerjen@mso.anu.edu.au  }\\
+%% When submitting a Thesis abstract, please also state
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+%========================================================================
+
+\begin{center}
+{\Large\bf $UV$ (2000 \AA) Luminosity Function of Coma Cluster Galaxies}
+\end{center}
+\begin{center}
+{\bf S. Andreon$^1$}
+\end{center}
+{\footnotesize $^1$ Osservatorio Astronomico di Capodimonte, via
+	Moiariello 16, 80131 Napoli, Italy}
+\par
+\medskip
+  
+The $UV$ (2000 \AA) luminosity function (hereafter $UV$ LF) of Coma
+cluster galaxies, based on more than 120 members, is computed as the
+statistical difference between counts in the Coma direction and in the
+field. Our $UV$ LF is an up-date of a preliminary constrain on the
+$UV$ LF previously computed without the essential background
+counts. The $UV$ LF is well described by a power law with slope
+$\alpha\sim0.46$, or equivalently, by a Schechter function with $M^*$
+much brighter than the brightest cluster galaxy and with a slope
+$\alpha_S\sim-2.0$ or larger.  In spite of what happens in the optical
+band, low luminosity galaxies give a large contribution to the
+integral luminosity, and by inference, to the total metal production
+rate. Galaxies blue in $UV-b$ and/or $b-r$ dominate the Coma cluster
+$UV$ LF, both in number and luminosity. The major source of error in
+the estimate of the $UV$ LF comes from the background determination in
+the Coma direction, which is still uncertain, even though constrained
+at high and low amplitudes by redshift surveys covering the studied
+field.
+ 
+\par
+\medskip
+\noindent
+{\bf   Accepted by: A\&A, 351, 65 (1999)
+}\\
+{\it For preprints, contact\, }       {\tt   andreon@na.astro.it  }\\
+{\it Also available from the URL\, }  {\tt   
+http://babbage.sissa.it/ps/astro-ph/9909223  }\\
+{\it or at\, }       {\tt 
+http://oacosf.na.astro.it/$^\sim$andreon/listapub.html }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+ 
+%========================================================================
+
+\begin{center}
+{\Large\bf  On the star formation history of IZw 18 
+}
+\end{center}
+\begin{center}
+{\bf         F. Legrand$^1$
+}
+\end{center}
+{\footnotesize   $^1$  INAOE, Puebla, M\'exico
+}\par
+\medskip
+It has been suggested that a continuous low star formation rate has
+been the dominant regime in IZw 18 and in dwarf galaxies for the
+lifetime of these objects (Legrand et al. 1999). Here, we discuss and
+model various star-forming histories for IZw 18. Particularly, we show
+that if the metallicity observed in IZw 18 results from starburst
+events only, the observed colors constrain the fraction of the metals
+ejected from the galaxy to be less than 50-70 \%. We demonstrate that
+the continuous star formation scenario reproduces the observed
+parameters of IZw 18. A continuous star formation rate (SFR) of about
+$10^{-4}$ Msol/yr during 14 Gyr reproduces precisely the observed
+abundances. This SFR is comparable with the lowest SFR observed in low
+surface brightness galaxies (van Zee et al. 1997). Generalized to all
+galaxies, the low continuous SFR scenario accounts for various facts:
+the presence of star formation in quiescent dwarfs and LSBG, the
+metallicity increase with time in the most underabundant DLA systems,
+and the metal content extrapolations to the outskirts of spiral
+galaxies. Also the apparent absence of galaxies with a metallicity
+lower than IZw 18, the apparent absence of HI clouds without optical
+counterparts, and the homogeneity of abundances in dwarfs galaxies are
+natural outcomes of the scenario. This implies that, even if
+starbursts are strong and important events in the life of galaxies,
+their more subdued but continuous star formation regime cannot be
+ignored when accounting for their chemical evolution.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: A\&A
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   legrand@inaoep.mx  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9912115    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Evidence for the Hierarchical Formation of the Galactic Spheroid
+}
+\end{center}
+\begin{center}
+{\bf    P. C\^ot\'e$^{1,2}$, R.O. Marzke$^{3,4}$, M.J. West$^{5,6}$,
+	and D. Minniti$^{7,8}$   
+}
+\end{center}
+{\footnotesize   $^1$  CalTech, Mail Stop 105-24, Pasadena, CA 91125, USA
+         \\      $^2$  Sherman M. Fairchild Fellow
+         \\      $^3$  Observatories of the Carnegie Institute of
+         Washington, 813 Santa Barbara Street, Pasadena, CA 91101, USA 
+         \\      $^4$  Hubble Fellow
+         \\      $^5$  Department of Astronomy \& Physics, Saint
+         Mary's University, Halifax, NS, B3H 3C3, Canada 
+         \\      $^6$  Department of Physics \& Astronomy, University
+         of Hawaii, Hilo, HI 96720, USA
+         \\      $^7$  Lawrence Livermore National Laboratory,
+         Livermore, CA 94550, USA
+         \\      $^8$  Departament of Astronomy and Astrophysics,
+         Pontificia Universidad Cat\'olica de Chile, Casilla 306,
+         Santiago 22, Chile 
+}\par
+\medskip
+The possibility that the Galactic spheroid was assembled from
+numerous, chemically-distinct proto-Galactic fragments is investigated
+using a Monte-Carlo technique designed to simulate the chemical
+evolution of the Galaxy in hierarchical formation scenarios which
+involve no gas dissipation.  By comparing the observed and simulated
+metallicity distributions of Galactic globular clusters and halo field
+stars, we estimate the level of fragmentation in the collapsing
+proto-Galaxy.  Although the formation process is highly stochastic,
+the simulations frequently show good agreement with the observed
+metallicity distributions, provided the luminosity function of
+proto-Galactic fragments had the form $dN \propto L^{{\alpha}}dL$
+where $\alpha \sim -2$. While this steep slope is strongly at odds
+with the presently observed luminosity function of the Local Group, it
+is in close agreement with the predictions of semi-analytic and
+numerical models of hierarchical galaxy formation.  We discuss a
+number of possible explanations for this discrepancy.  These
+simulations suggest that the Galactic halo and its globular cluster
+system were assembled via the accretion and disruption of $\sim$
+$10^3$ metal-poor, proto-Galactic fragments by the dominant building
+block: a proto-bulge whose own metal-rich globular clusters system has
+been preferentially eroded by dynamical processes. This formation
+scenario may provide a simple explanation for the different shapes of
+the Galactic globular cluster and halo star metallicity distributions.
+Based on the similar properties of globular clusters belonging to
+spiral and giant elliptical galaxies, we argue that the same process
+($e.g.$, hierarchical growth involving little gas dissipation) is
+responsible for the formation of both giant elliptical galaxies and
+the bulge-halo components of spiral galaxies.  \par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ (April 10, 2000 issue)
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   pc@astro.caltech.edu  }\\
+{\it Also available from the URL\, }  {\tt
+http://astro.caltech.edu/$\sim$pc/  }\\ 
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Intermittent Star-Formation Activities of Dwarf Irregular
+Galaxies
+}
+\end{center}
+\begin{center}
+{\bf         H. Hirashita$^{1,2}$
+}
+\end{center}
+{\footnotesize   $^1$  Department of Astronomy, Faculty of Science,
+Kyoto University, Sakyo-ku, Kyoto 606-8502
+         \\       $^2$  Research Fellow of the Japan Society for the
+Promotion of Science 
+}\par
+\medskip
+
+On the basis of the propagating star-formation model, we investigated
+the star-formation activities of dwarf irregular galaxies (dIrrs) by
+considering two processes: the heating from stellar feedback and the
+cooling of the heated gas. After examining the timescales of the two
+processes, we propose that continuous global star-formation activity
+is difficult in dIrrs, since their small sizes make the feedback
+efficient and their small metallicities prevent the cooling from
+becoming effective. Thus, the intermittent nature of the
+star-formation activities of dIrrs, which is due to the small
+metallicity as well as the small size, is predicted.  We emphasize
+that the size of a galaxy is an important factor concerning
+star-formation activity.  The intermittence of the star-formation
+activity is also supported by the observed scatter of the {\it UBV}
+colors and H$\alpha$ equivalent widths of the dIrr sample. However, we
+note that efficient interstellar mixing may make the cooling time much
+shorter.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: PASJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   hirasita@kusastro.kyoto-u.ac.jp }\\
+{\it Also available from the URL\, }  {\tt   http://xxx.lanl.gov/abs/astro-ph/9912397 }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Structure and stellar content of dwarf galaxies\\ \medskip
+            IV. B and R photometry of dwarf galaxies in the CVnI cloud.
+}
+\end{center}
+\begin{center}
+{\bf         T. Bremnes$^1$, B. Binggeli$^1$, and P. Prugniel$^2$
+}
+\end{center}
+{\footnotesize   $^1$  Astronomical Institute, University of Basel,
+                       Venusstrasse 7, CH-4102 Binningen, Switzerland
+         \\       $^2$ Observatoire de Lyon,  F-64561 St.\ Genis-Laval
+                       Cedex, France  
+}\par
+\medskip
+
+We have carried out CCD photometry in the Cousins $B$ and $R$ bands of
+15 galaxies in the Canes Venatici I cloud. Total magnitudes, effective
+radii, effective surface brightnesses, as well as galaxy radii at
+various isophotal levels in both colors were determined.  Best-fitting
+exponential parameters and color gradients are also given for these
+galaxies. The photometric parameters presented here will be analyzed
+in a forthcoming paper, together with previously published data for
+nearby dwarf galaxies.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: A\&AS
+%          or
+%      Submitted to:     
+}\\
+{\it For reprints, contact\, }       {\tt   bremnes@astro.unibas.ch  }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Star Formation Triggering Mechanisms in Dwarf Galaxies:\\
+\medskip
+    The Far-Ultraviolet, H$\alpha$, and HI Morphology of Holmberg II}
+\end{center}
+\begin{center}
+{\bf         S. G. Stewart$^1$, M. N. Fanelli$^2$, G. G. Byrd$^3$,
+	J. K. Hill$^4$, D. J. Westpfahl$^5$, K.-P. Cheng$^6$,
+	R. W. O'Connell$^7$, M. S. Roberts$^8$, S. G. Neff$^9$,
+	A. M. Smith$^9$, and T. P. Stecher$^9$ 
+}
+\end{center}
+{\footnotesize   $^1$  U. S. Naval Observatory, 3450 Massachusetts Ave
+		NW, Washington, DC 20392--5420, USA  \\
+		$^2$ Dept. of Physics, University of North Texas,
+		Denton, TX 76203, USA \\ 
+		$^3$ Dept. of Physics and Astronomy, University of
+		Alabama, Tuscaloosa, AL 35487, USA \\ 
+		$^4$ Hughes STX, 4400 Forbes Blvd., Lanham, MD 20706,
+		USA \\ 
+		$^5$ Dept. of Physics, New Mexico Institute of Mining
+		\& Technology, Socorro, NM 87801, USA \\ 
+		$^6$ Dept. of Physics, California State University,
+		Fullerton, CA 92634, USA \\ 
+		$^7$ University of Virginia, P.O. Box 3818,
+		Charlottesville, VA 22903, USA \\ 
+		$^8$ National Radio Astronomy Observatory, Edgemont
+		Rd., Charlottesville, VA 22903, USA \\ 
+		$^9$ Laboratory for Astronomy and Solar Physics,
+		NASA/GSFC, Greenbelt, MD 20771, USA 
+}\par
+\medskip
+
+Far-ultraviolet (FUV), H$\alpha$, and HI observations of dwarf galaxy
+Holmberg~II are used to investigate the means by which star formation
+propagates in galaxies lacking global internal triggering mechanisms
+such as spiral density waves.  The observations trace the interaction
+between sites of massive star formation and the neutral and ionized
+components of the surrounding ISM in this intrinsically simple system.
+Both local and large-scale triggering mechanisms related to massive
+star formation are seen, suggesting that feedback from massive stars
+is a microscopic process operating in all galaxies to a certain
+degree.
+
+The data emphasize the importance of local conditions in regulating
+star formation from evidence such as massive stars inside ionized
+shells, compact HII regions surrounding aging clusters, and stars
+formed in chains of progressing age. Surface brightness profiles show
+current activity correlates with the time averaged level of past star
+formation at a given radius demonstrating a reliance on local
+conditions.  Large-scale triggering by HI shells is supported by
+observations of progenitor populations as well as secondary sites of
+star formation associated with their dense rims. Analysis of the
+energy available from massive stars inside HI shells indicates energy
+deposited into the ISM from supernovae and stellar winds is sufficient
+to account for the HI morphology. Ages of individual star forming
+regions are derived using B, H$\alpha$, and FUV photometry and show
+both older, diffuse FUV regions and younger, compact HII regions.  The
+distribution of ages is reconciled with the HI morphology, showing a
+clear preference of young regions for areas of dense HI and old
+regions for HI voids.  Global kinematical properties may also play a
+role in the star formation process since differences in the rotation
+characteristics of the neutral gas disk correlate with differences in
+triggering mechanisms. Large-scale feedback from massive stars is
+shown to operate in regions that lack differential shear in the gas
+disk.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ (January 20, 2000 issue)
+%          or
+}\\
+{\it For preprints, contact\, }       {\tt   sgs@aa.usno.navy.mil}\\
+{\it Also available from the URL\, }  {\tt
+http://xxx.lanl.gov/abs/astro-ph/9910098}\\ 
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Submillimeter Observations of IC 10: The Dust Properties\\ \medskip
+  and Neutral Carbon Content of a Low Metallicity Starburst 
+}
+\end{center}
+\begin{center}
+{\bf         Alberto D.\ Bolatto$^1$, James M.\ Jackson$^1$, Christine
+	D.\ Wilson$^2$, and Gerald Moriarty--Schieven$^3$ 
+}
+\end{center}
+{\footnotesize  $^1$  Institute for Astrophysical Research, Department
+		of Astronomy, Boston University, Boston MA 02215, USA
+         \\     $^2$  Department of Astronomy, McMaster University, 
+		Ontario, Canada
+         \\     $^3$  Joint Astronomy Centre, Hilo, Hawaii, USA
+}\par
+\medskip
+
+We present submillimeter observations of the Local Group, metal-poor,
+irregular dwarf galaxy IC~10, directly relevant to the interaction
+between interstellar medium and star formation activity in primeval
+galaxies. Using the JCMT, we have observed the fine structure neutral
+carbon transition $^3$P$_1\rightarrow^3$P$_0$ at 492 GHz and the
+rotational $J=3\rightarrow2$ transition of $^{12}$CO and $^{13}$CO in
+the most massive giant molecular cloud complex in this galaxy,
+IC~10-SE.  We find that, although the $\rm I_{[CII]}/I_{CO}$ ratio for
+this object is a factor of 4 larger than the typical Milky Way value,
+its [C~I] to CO intensity ratio $\rm I_{[CI]}/I_{CO}\simeq18\pm2$ (in
+units of erg s$^{-1}$ cm$^{-2}$ sr$^{-1}$) is similar (only about 50\%
+larger) to that of the Milky Way.  Modelling of the behaviour of the
+[C~II]/CO and [C~I]/CO intensity ratios with metallicity indicates
+that, if C$^+$ and C$^0$ are chiefly produced by UV photodissociation
+in the PDR, both ratios should increase sharply with decreasing
+metallicity (and consequently diminished UV shielding; Bolatto,
+Jackson, \& Ingalls 1999\markcite{BJI99}). These data then suggest a
+different origin for an important fraction of C$^0$ in these clouds,
+unrelated to photodissociation.
+
+We have also mapped the 850 $\mu$m continuum in this region using
+SCUBA. Employing these data in conjunction with KAO and IRAM
+measurements we find that the 100 $\mu$m to 1300 $\mu$m continuum
+emission corresponds to a graybody with an extremely low emissivity
+exponent, $\beta\sim0.5$.  We conclude that this low exponent is most
+likely due to the destruction of small dust grains, brought about by
+the increased penetration of UV radiation in the low metallicity
+ISM. If a low emissivity exponent in the submillimeter is a general
+property of metal-poor systems then the interpretation of millimeter
+and submillimeter surveys of high-z galaxies should be revised.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   bolatto@piranha.bu.edu  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9910564  }\\
+{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf Debris Streams in the Solar Neighbourhood\\ \medskip
+	 as Relicts from the Formation of the Milky Way
+}
+\end{center}
+\begin{center}
+{\bf         	Amina Helmi$^1$, Simon D.M.\ White$^2$, 
+		and P.\ Tim de Zeeuw$^1$
+}
+\end{center}
+{\footnotesize   $^1$ Leiden Observatory, P.O. Box 9513,
+		2300~RA~~Leiden, The Netherlands 
+         \\       $^2$ Max-Planck-Institut f\"ur Astrophysik,
+		Karl-Schwarzschild-Str. 1, 85740 Garching bei
+		M\"unchen, Germany 
+}\par
+\medskip
+It is now generally believed that galaxies were built up through
+gravitational amplification of primordial fluctuations and the subsequent
+merging of smaller precursor structures. The stars of the structures that
+assembled to form the Milky Way should now make up much or all of its bulge and
+halo, in which case one hopes to find "fossil" evidence for those precursor
+structures in the present distribution of halo stars. Confirmation that this
+process is continuing came with the discovery of the Sagittarius dwarf galaxy,
+which is being disrupted by the Milky Way, but direct evidence that this
+process provided the bulk of the Milky Way's population of old stars has so far
+been lacking. Here we show that about ten per cent of the metal--poor stars in
+the halo of the Milky Way, outside the radius of the Sun's orbit, come from a
+single coherent structure that was disrupted during or soon after the Galaxy's
+formation. This object had a highly inclined orbit about the Milky Way at a
+maximum distance of $\sim$ 16 kpc, and it probably resembled the Fornax and
+Sagittarius dwarf spheroidal galaxies.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: Nature
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt  ahelmi@strw.leidenuniv.nl }\\
+{\it Also available from the URL\, }  {\tt  astro-ph/9911041 }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Young Globular Clusters and Dwarf Spheroidals
+}
+\end{center}
+\begin{center}
+{\bf         Sidney van den Bergh$^1$
+}
+\end{center}
+{\footnotesize $^1$ DAO, Herzberg Institute of Astrophysics, National
+	Research Council, Victoria, B.C., V8X 4M6, Canada
+}\par
+\medskip
+
+Most of the globular clusters in the main body of the Galactic halo
+were formed almost simultaneously. However, globular cluster formation
+in dwarf spheroidal galaxies appears to have extended over a
+significant fraction of a Hubble time. This suggests that the factors
+which suppressed late-time formation of globulars in the main body of
+the Galactic halo were not operative in dwarf spheroidal
+galaxies. Possibly the presence of significant numbers of ``young''
+globulars at $\rm R_{\rm GC} > 15$ kpc can be accounted for by the
+assumption that many of these objects were formed in Sagittarius-like
+(but not Fornax-like) dwarf spheroidal galaxies, that were
+subsequently destroyed by Galactic tidal forces. It would be of
+interest to search for low-luminosity remnants of parental dwarf
+spheroidals around the ``young'' globulars Eridanus, Palomar 1, 3, 14,
+and Terzan 7. Furthermore multi-color photometry could be used to
+search for the remnants of the super-associations, within which outer
+halo globular clusters originally formed. Such envelopes are expected
+to have been tidally stripped from globulars in the inner halo.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ (February 2000 issue)
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   Sidney.vandenBergh@hia.nrc.ca }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9910243   }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The dwarf spheroidal galaxy DDO 44:\\ \medskip
+  stellar populations and  distance
+}
+\end{center}
+\begin{center}
+{\bf   Igor D.\ Karachentsev$^1$, Margarita E.\ Sharina$^1$, Eva K.\ 
+	Grebel$^{2}$, Andrew E.\ Dolphin$^{2,3}$, Doug Geisler$^4$,
+	Puragra Guhathakurta$^5$, Paul W.\ Hodge$^2$, Valentina E.\
+	Karachentseva$^6$, Ata Sarajedini$^7$, and Patrick Seitzer$^8$
+}
+\end{center}
+{\footnotesize  $^1$Special Astrophysical Observatory, Russian Academy
+          of Sciences, N.\ Arkhyz, KChR, 357147, Russia
+\\       $^2$  University of Washington, Department of Astronomy,
+                       Box 351580, Seattle, WA 98195-1580, USA
+\\       $^3$  Kitt Peak National Observatory, National Optical Astronomy 
+                       Observatories, P.O. Box 26732, Tucson, AZ 85726, USA
+\\       $^4$  Departamento de F\'{\i}sica, Grupo de Astronom\'{\i}a, 
+                       Universidad de Concepci\'on, Casilla 160-C, 
+                       Concepci\'on, Chile
+\\       $^5$  UCO/Lick Observatory, University of California at Santa Cruz,
+                       Santa Cruz, CA 95064, USA
+\\       $^6$  Astronomical Observatory of Kiev University, Observatorna 3, 
+                       254053, Kiev, Ukraine
+\\       $^7$  Astronomy Department, Wesleyan University, Middletown, CT 
+                       06459, USA
+\\       $^8$  Department of Astronomy, University of Michigan, 830 Dennison 
+                       Building, Ann Arbor, MI 48109, USA
+}\par
+\medskip
+
+We have ground-based and HST WFPC2 imaging of the nearby low surface
+brightness dwarf spheroidal galaxy DDO~44.  For the first time DDO~44
+was resolved into stars. The resulting color-magnitude diagram for
+about 1290 stars show the red giant branch with a tip at $I =
+23.55\pm0.15$, which yields the distance $D_{MW}= 3.2\pm0.2$ Mpc
+consistent with membership of DDO~44 in the NGC~2403 group. The linear
+separation of DDO~44 from NGC~2403 is 75 kpc on the sky and
+$30\pm450$~kpc along the line of sight. The relationship between the
+dwarf galaxy's absolute magnitude, $M_R^o = -13.1$, the central
+surface brightness, $\mu_R(0) = 24.1$ mag arcsec$^{-2}$, and the mean
+metallicity, [Fe/H] = $-$1.7 dex follow the trend for other nearby
+dwarf spheroidal galaxies.  One globular cluster candidate has also
+been identified in DDO~44.  \par
+\medskip
+\noindent
+{\bf   1999, A\&A, 352, 399
+}\\
+{\it For preprints, contact\, }       {\tt ikar@luna.sao.ru}\\
+{\it Also available from the URL\, } \\ 
+{\tt
+http://link.springer.de/link/service/journals/00230/papers/9352002/2300399/small.htm}
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\par
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+\newpage
+
+%========================================================================
+
+\noindent
+{\LARGE \bf ABSTRACTS OF CONFERENCE CONTRIBUTIONS}
+
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Blue Compact Dwarf Galaxies -- \\ \medskip
+Home to the Latest of the First Stars?
+}
+\end{center}
+\begin{center}
+{\bf         R. E. Schulte-Ladbeck$^1$, 
+U. Hopp$^2$, 
+M. M. Crone$^3$,
+and L. Greggio$^{2,4}$
+}
+\end{center}
+{\footnotesize   $^1$ University of Pittsburgh, Pittsburgh, PA 15260, USA 
+         \\       $^2$ Universit\"{a}tssternwarte M\"{u}nchen, M\"{u}nchen, FRG
+         \\       $^3$ Skidmore College, Saratoga Springs, NY 12866, USA  
+         \\       $^4$ Osservatorio Astronomico di Bologna, Bologna, Italy  
+}\par
+\medskip
+
+We review single-star photometry with the Hubble Space Telescope (HST)
+of five well resolved Blue Compact Dwarf (BCD) galaxies. Three BCDs
+exhibit well populated red giant branches. These galaxies are
+therefore at least 1-2~Gyr old, and possibly older than 10~Gyr. For
+two BCDs, the available HST data do not go deep enough to reveal the
+red giant branch. We argue that over a wide range of possible galaxy
+distances, the color-magnitude diagrams of these BCDs are nevertheless
+consistent with showing the evolved descendants of intermediate-mass
+stars on the asymptotic giant branch. Such stars are nucleosynthetic
+sites of nitrogen and carbon production. Their identification in BCDs
+contradicts recent conclusions that BCDs must be young galaxies in
+which primary production of these elements takes place exclusively in
+massive stars, and implies that BCDs are unlikely to be home to newly
+formed metal-free stars. Color-magnitude diagrams of BCDs thus point
+to difficulties in decoding star-formation histories of starburst
+galaxies from the metallicities of the ionized gas.
+
+\par
+\medskip
+\noindent
+{\bf To appear in: ``The First Stars" , Editors A. Weiss, T. Abel and
+V. Hill Proceedings of the 2$^{nd}$ ESO/MPA conference, August 4-7,
+1999, Garching, Springer (Heidelberg) }\\
+\noindent
+{\it Available from the URL\, }  {\tt
+http://www.phyast.pitt.edu/$\sim$rsl/reginas$_-$research.html}\\ 
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  $\omega$ Centauri: Nucleus of a Milky Way Dwarf Spheroidal?
+}
+\end{center}
+\begin{center}
+{\bf         S.R. Majewski$^1$, R. J. Patterson$^1$,
+D. I. Dinescu$^1$, W. Y. Johnson$^1$, J. C. Ostheimer$^1$,
+W. E. Kunkel$^2$, and C. Palma$^1$
+}
+\end{center}
+{\footnotesize   $^1$  Astronomy Department, University of Virginia,
+         Charlottesville, VA, USA  
+         \\       $^2$  Las Campanas Observatory, Carnegie Institution
+         of Washington, La Serena, Chile 
+}\par
+\medskip
+
+We focus on two aspects of $\omega$ Cen that are rather
+uncharacteristic of globular clusters: its metallicity distribution
+and its orbit.  We use (1) a Washington $(M-T_2,M)_o$ color-magnitude
+diagram containing 130,000 stars, (2) DDO51 photometry to separate out
+giants from field dwarfs, and (3) a mapping of $(M-T_2,M-DDO51)_o$
+colors to [Fe/H] to derive a metallicity distribution function (MDF)
+for $\omega$ Cen.  The MDF is corrected for field giant contamination
+by a radial velocity membership study of a subsample of stars spanning
+all abundances.  As with previous studies, the MDF is very wide with a
+peak near [Fe/H]=-1.7 and extending to both higher and lower
+abundance, but with few stars having [Fe/H]$>~-1.2$.  The orbit of
+$\omega$ Cen is strongly retrograde, has small apogalacticon and is
+almost coplanar with the Milky Way disk -- i.e., an orbit unlike any
+known for almost all Galactic globular clusters, and unique among
+clusters with its horizontal branch type and [Fe/H].  This derived
+orbit is perpendicular to the $\omega$ Cen's major axis, but the
+latter is a result of rotation and not tidal stretching or stripping.
+Nevertheless, we propose that the MDF and orbit of $\omega$ Cen, when
+considered in light of other unusual $\omega$ Cen properties -- such
+as its mass, purported age spread (we note a wider than expected main
+sequence turn-off), and differences in kinematics and spatial
+distributions -- are consistent with a picture wherein this object is
+the remains (nucleus) of a once larger satellite dwarf galaxy that has
+been substantially reduced by tidal stripping.  N-body models by
+Walker et al.\ (1996), show that (1) inclined orbits of satellites
+first sink towards the Galactic plane before substantial radial decay
+of the orbit, and significant disruption, ensue, (2) retrograde
+satellites face considerable shredding as they pass through the disk,
+and (3) the remains of stripped satellites form compact, globular
+cluster bodies.  A model wherein $\omega$ Cen faced considerable
+stripping by the Galactic disk can account for the cluster's current
+state; for example, the {\it present} mass of $\omega$ Cen is unlikely
+to have generated strong enough dynamical friction to modify its orbit
+to its presently small apocentric radius.  A present-day counterpart
+of this process may be the Sagittarius dSph system, for which the
+globular cluster M54, which has a mass similar to $\omega$ Cen, has
+been purported to be the nucleus.  A larger proto-$\omega$ Cen on a
+retrograde orbit plowing through the Milky Way disk may have aided
+thick disk formation both through the contribution of tidally stripped
+stars and through substantial thin disk heating.
+
+\par
+\medskip
+\noindent
+{\bf   To appear in the Proceedings of the 35th Liege International
+Astrophysics Colloquium-- ``The Galactic Halo: from Globular Clusters
+to Field Stars'', July 5-8, 1999 
+}\\
+%{\it For preprints, contact\, }       {\tt   your e-mail address  }\\
+{\it Also available from the URL\, }  {\tt
+http://xxx.lanl.gov/abs/astro-ph/9910278   }\\ 
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Dwarf Elliptical Galaxies in the Perseus Cluster
+}
+\end{center}
+\begin{center}
+{\bf         J.S. Gallagher$^1$, C.J. Conselice$^1$, R.F.G. Wyse$^2$
+}
+\end{center}
+{\footnotesize   $^1$ Department of Astronomy, University of
+	Wisconsin, Madison, WI 53706, USA
+         \\       $^2$  Johns Hopkins University, Department of
+         Physics \& Astronomy, Baltimore, MD 21218, USA 
+
+}\par
+\medskip
+Dwarf ellipticals have the lowest stellar densities of any galaxies, but
+paradoxically are most common in the densest regions of the universe, and are
+especially frequent in rich clusters of galaxies. Simple estimates suggest that
+low luminosity dwarf ellipticals should be subject to substantial tidal heating
+in rich clusters if most of their mass is in the form of normal stars. We have
+therefore undertaken a program to image dwarfs in clusters with the 3.5-m high
+performance WIYN, ARC and smaller, wide field telescopes. Our objectives
+include testing for evidence of tidal disruption in the form of asymmetries and
+searching for evidence of recent star formation which might be associated with
+the production of elliptical dwarfs from in-falling field galaxies.
+\par
+\medskip
+\noindent
+{\bf   To appear in:
+%          or
+%      Submitted to:     JOURNAL
+Proceedings of "Galaxy Dynamics: from the Early Universe to the
+Present", eds. F. Combes, G.A. Mamon, and V.  Charmandaris
+}\\
+{\it For preprints, contact\, }       {\tt   chris@uwast.astro.wisc.edu  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9910380    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The First Stars: Where Did They Form?
+}
+\end{center}
+\begin{center}
+{\bf         Jordi Miralda--Escude$^{1,2}$
+}
+\end{center}
+{\footnotesize  $^1$  University of Pennsylvania, Philadelphia
+		19104--6396, USA\\
+		$^2$  Alfred P.\ Sloan Fellow
+}\par
+\medskip
+
+Several emerging links between high-redshift observational cosmology and the
+Galactic fossil evidence found in the kinematics, metallicities and ages of
+Milky Way stars are discussed. In a flat Cold Dark Matter model with
+$\Omega\simeq 0.3$ that agrees with present large-scale structure observations,
+the oldest stars in the Milky Way should have formed in the first halos where
+gas was able to cool, at $z\simeq 20$. These earliest, weakly bound dwarf
+galaxies probably turned only a small fraction of their gas to stars, which
+should be metal-poor. However, the merging rate in the early universe was much
+faster than the present one, so massive halos with more efficient star
+formation and metallicities up to the highest values present today in the bulge
+could have formed less than $10^9$ years after the oldest stars. The mean
+metallicity produced in the universe by a given redshift is related to the mean
+surface brightness of star-forming galaxies above this redshift, and also to
+the re-ionization epoch if galaxies were the dominant sources of ionizing
+radiation. The biased distribution of the early dwarf galaxies where the first
+stars formed should result in an age gradient with radius of the
+low-metallicity stars in the Milky Way, with the oldest ones concentrated in
+the bulge and the youngest in the outer halo and the Local Group dwarf
+galaxies.
+
+\par
+\medskip
+\noindent
+{\bf   To appear in: Proceedings of ``The First Stars'', held in
+  Garching, Germany, August 1999
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   jordi@llull.physics.upenn.edu  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9911214    }\\
+{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Starburst Dwarfs -- Fueling and Morphological Evolution 
+}
+\end{center}
+\begin{center}
+{\bf         Nils Bergvall$^1$, Goran \"Ostlin$^2$, Josefa Masegosa$^3$,
+		and Erik Zackrisson$^1$
+}
+\end{center}
+{\footnotesize  $^1$ Astronomical Observatory, Box 515, S-75120
+		 Uppsala, Sweden\\
+		$^2$ Institut d'Astrophysique de Paris, 98bis
+		 Boulevard Arago, F-75014 Paris, France\\
+		$^3$ Instituto de Astrofisica de Andalucia, CSIC,
+		 Apdo. 3004, 18080, Granada, Spain
+}\par
+\medskip
+
+The effects of mergers in low mass galaxies are poorly understood. In
+this paper we analyze different observational evidences which support
+the view that mergers can trigger starbursts in dwarf galaxies. We
+discuss the relationships between blue compact galaxies (BCGs), dIs,
+dEs and low surface brightness galaxies (LSBGs) and present some
+evidences which favour that strong starbursts are caused by mergers
+between dEs and LSBGs.
+
+\par
+\medskip
+\noindent
+{\bf   To appear in: The Proceedings of "A New Millennium for Galaxy
+Morphology", Johannesburg, 1999 
+%Accepted by:
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   nisse@astro.uu.se  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9910533 }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Star Clusters in Local Group Galaxies -- \\
+\medskip Impact of Environment on their Evolution and Survival
+}
+\end{center}
+\begin{center}
+{\bf         Eva K.\ Grebel$^{1,2}$ 
+}
+\end{center}
+{\footnotesize   $^1$  University of Washington, Department of Astronomy,
+                       Box 351580, Seattle, WA 98195-1580, USA
+         \\       $^2$  Hubble Fellow
+}\par
+\medskip
+
+In about 40\% of the Local Group galaxies star clusters have been
+detected so far, but the census is still incomplete. The properties of
+these clusters are briefly reviewed, and the impact of galaxy
+environment on the evolution and survival of star clusters is
+discussed. Several (but not all) Local Group galaxies seem to share a
+common epoch of the earliest globular cluster formation. The most
+massive galaxies show a tendency for rapid enrichment in their oldest
+cluster population near their centers as compared to clusters at
+larger galactocentric radii. The galactocentric dependence of cluster
+sizes and horizontal branch morphology may be intrinsic to the
+globular cluster formation process rather than to the accretion of
+dwarf galaxies. The observed properties of globular clusters in the
+least massive dwarfs suggest that their parent galaxies may originally
+have been substantially more massive. Cluster destruction mechanisms
+and time scales are a function of galaxy environment and galaxy
+mass. The most recent enhancement of star cluster formation in the
+Magellanic Clouds may have been triggered by their close encounter
+with each other and the Milky Way.  \par
+\medskip
+\noindent
+{\bf   To appear in: Strasbourg Observatory Workshop on "Massive Stellar
+Clusters", ASP Conf. Ser., eds. A. Lan\c{c}on \& C. Boily
+}\\
+{\it For preprints, contact\, }       {\tt grebel@astro.washington.edu}\\
+{\it Also available from the URL\, }  {\tt
+http://arXiv.org/abs/astro-ph/9912529 }\\ 
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf Morphological Characteristics of Compact High--Velocity Clouds  
+\\ \medskip Revealed by High--Resolution WSRT Imaging
+}
+\end{center}
+\begin{center}
+{\bf         W.B.\ Burton$^1$, and R.\ Braun$^2$
+}
+\end{center}
+{\footnotesize   $^1$ Sterrewacht Leiden, P.O. Box 9513, 2300 RA Leiden, 
+The Netherlands         \\      
+$^2$ Netherlands Foundation for Research in Astronomy, P.O. Box 2, 7990  
+AA Dwingeloo, The Netherlands 
+}\par
+\medskip
+
+A class of compact, isolated high--velocity clouds which plausibly
+represents a homogeneous subsample of the HVC phenomenon in a single
+physical state was objectively identified by Braun \& Burton (1999).
+Six examples of the CHVCs, unresolved in single--dish data, have been
+imaged with the Westerbork Synthesis Radio Telescope. The
+high--resolution imaging reveals the morphology of these objects,
+including a core/halo distribution of fluxes, signatures of rotation
+indicating dark matter, and narrow linewidths constraining the kinetic
+temperature of several opaque cores.  In these regards, as well as in
+their kinematic and spatial deployment on the sky, the CHVC objects
+are evidently a dynamically cold ensemble of dark--matter--dominated
+HI clouds accreting onto the Local Group in a continuing process of
+galactic evolution.  \par
+\medskip
+\noindent
+{\bf  To appear in ``Small Galaxy Groups: Proc. IAU Colloq. No. 174", 
+eds. M. Valtonen and C. Flynn, PASP Conf. Series 
+}\\
+{\it For preprints, contact\, }       {\tt   burton@strw.leidenuniv.nl 
+{\rm or} rbraun@nfra.nl 
+ }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Compact High--Velocity Clouds Seen at High Resolution 
+}
+\end{center}
+\begin{center}
+{\bf         W.B. Burton$^1$, and R. Braun$^2$
+}
+\end{center}
+{\footnotesize   $^1$ Sterrewacht Leiden, P.O. Box 9513, 2300 RA Leiden, 
+The Netherlands         \\      
+$^2$ Netherlands Foundation for Research in Astronomy, P.O. Box 2, 7990  
+AA Dwingeloo, The Netherlands 
+}\par  
+\medskip
+
+Six examples of the compact, isolated high--velocity clouds catalogued
+by Braun \& Burton (1999) and identified with a dynamically cold
+ensemble of primitive objects falling towards the barycenter of the
+Local Group have been imaged with the Westerbork Synthesis Radio
+Telescope; an additional ten have been imaged with the Arecibo
+telescope.  The imaging reveals a characteristic core/halo morphology:
+one or several cores of cool, relatively high--column--density
+material, are embedded in an extended halo of warmer, lower--density
+material. Several of the cores show kinematic gradients consistent
+with rotation; these CHVCs are evidently rotationally supported and
+dark--matter dominated.  The imaging data allows several independent
+estimates of the distances to these objects, which lie in the range
+0.3 to 1.0 Mpc.  The CHVC properties resemble what might be expected
+from very dark dwarf irregular galaxies.
+
+
+\par
+\medskip
+\noindent
+{\bf To appear in ``The Chemical Evolution of the Milky Way: Stars 
+versus Clusters", eds. F. Matteuchi and F. Giovannelli, 
+Kluwer Academic Publishers 
+}\\
+{\it For preprints, contact\, }       {\tt   burton@strw.leidenuniv.nl 
+{\rm or} rbraun@nfra.nl 
+ }\\  
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Automated Search for LSB Galaxies
+}
+\end{center}
+\begin{center}
+{\bf    S. Sabatini$^1$, R. Scaramella$^1$, V. Testa$^1$, 
+	S. Andreon$^2$, G. Longo$^2$, G. Djorgovski$^3$, and R.R. De
+	Carvalho$^4$ 
+}
+\end{center}
+{\footnotesize  $^1$ Osservatorio Astronomico di Roma, Roma, Italia\\
+		$^2$ Osservatorio Astronomico di Capodimonte, Napoli,
+		Italia\\ 
+		$^3$ Caltech, Pasadena, USA\\
+		$^4$ Observatorio Nacional Rio de Janeiro, Rio de
+		Janeiro, Brasil 
+}\par
+\medskip
+
+Low Surface Brightness Galaxies (LSBGs) today constitute the less
+known fraction of galaxies: their number density and their physical
+properties (e.g.  luminosity, colour, dynamics) are still largely
+uncertain. This is mainly due to the difficulty in finding them
+(since their presence goes often unnoticed when astronomical images
+are analyzed with standard methods) and in measuring their
+properties. We present here the first results of a novel application
+to DPOSS plates, a project within the CRoNaRio collaboration. The aim
+is to build a large catalog of LSBGs, with much better understanding
+of completeness and biases. First results are quite encouraging: in the
+same regions covered by existing catalogues, done on the same plates,
+we find several new LSBGs in addition to the known ones.
+
+\par
+\medskip
+\noindent
+{\bf   To appear in: The Proceeding of the XLIII SAIt National
+  Conference,  Mem. Soc. Astr. It. (in press)
+% Accepted by:
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   sabina@coma.mporzio.astro.it  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9909463    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The Low-Mass Stellar IMF at High Redshift:\\ \medskip Faint Stars in
+	the Ursa Minor Dwarf Spheroidal Galaxy
+}
+\end{center}
+\begin{center}
+{\bf    Rosemary F.G.~Wyse$^1$, Gerard Gilmore$^2$, Sofia
+	Feltzing$^3$, and Mark Houdashelt$^1$
+}
+\end{center}
+{\footnotesize	$^1$ Physics \& Astronomy Department, Johns Hopkins
+	University, Baltimore, MD 21218 
+         \\       $^2$  Institute of  Astronomy, Madingley Road,
+	Cambridge CB3 0HA, UK
+         \\       $^3$ Lund Observatory, Box 43, 221 00 Lund, Sweden
+}\par
+\medskip
+
+Low-mass stars, those with main-sequence lifetimes that are of order
+the age of the Universe, provide unique constraints on the Initial
+Mass Function (IMF) when they formed. Star counts in systems with
+simple star-formation histories are particularly straightforward to
+interpret, and those in old systems allow one to determine the
+low-mass stellar IMF at large look-back times and thus at high
+redshift. We present the faint stellar luminosity function (based on
+optical HST data) in an external galaxy, the Ursa Minor dwarf
+Spheroidal (dSph). This relatively-nearby (distance 70\,kpc) companion
+galaxy to the Milky Way has a stellar population with narrow
+distributions of age and of metallicity, remarkably similar to that of
+a classical halo globular cluster such as M92 or M15, i.e. old and
+metal-poor. Contrasting with globular clusters, the internal velocity
+dispersion of the Ursa Minor dSph indicates the presence of
+significant amounts of dark matter. We find that the main sequence
+stellar luminosity function of the Ursa Minor dSph, and implied IMF,
+down to 0.4 of a solar mass is indistinguishable from that of the halo
+globular clusters M92 and M15. Thus the low mass stellar IMF for stars
+that formed at high redshift is invariant in going from a
+low-surface-brightness, dark-matter-dominated external galaxy, to a
+globular cluster within the Milky Way.
+
+\par
+\medskip
+\noindent
+{\bf   To appear in `The Hy-Redshift Universe: Galaxy Formation \&
+  Evolution at High Redshift', ASP Conference proceedings, editors
+  Andrew J. Bunker \& Wil J.M.\ van Breughel
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   wyse@tarkus.pha.jhu.edu  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/9911357    }\\
+{\it or by anonymous ftp at\, }       {\tt   your ftp address     }
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\par
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+%========================================================================
+
+\end{document}
+
+
+

@@ -1,0 +1,9 @@
+mv 2016-a.html 2017-a.html
+mv 2016-c.html 2017-c.html
+mv 2016-f.html 2017-f.html
+mv 2016.html 2017.html
+mv 2016-j.html 2017-j.html
+mv 2016-m.html 2017-m.html
+mv 2016-o.html 2017-o.html
+mv 2016-s.html 2017-s.html
+mv 2016-x.html 2017-x.html

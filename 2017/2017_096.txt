@@ -1,0 +1,131 @@
+==============================================================================
+
+In this issue (May 22 - 29, 2017)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Jun 02): Ming Sun (U Alabama Huntsville)
+2. NTHU Astronomy Colloquium/Seminar Series (Jun 02): Chia-Hsuan Cheng (NTHU)
+                                                      Ren-Yi Deng (NTHU)
+3. Sub-millimeter Array (SMA) Call for Large Scale Proposals
+
+==============================================================================
+
+> Date: Thu, 25 May 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Ming Sun (University of Alabama Huntsville)
+Topic:          Study Baryon Physics with Galaxy Groups and Clusters
+Time:           6/2 (Friday) 15:20 - 16:20
+Place:           R1203
+Abstract:
+Galaxy groups and clusters are the least massive systems where the bulk of baryons are accounted for and also the most massive systems that are gravitationally bound. Baryons locked into stars and baryons remaining diffuse provide orthogonal constraints on cosmic structure formation, which makes groups and clusters ideal systems to study baryon physics. In this talk, I will summarize our results on X-ray scaling relations of local galaxy groups and clusters. By stacking the Chandra data of 320 galaxy clusters, we are able to track the X-ray emission beyond the virial radius and unambiguously detect the steepening of the density profile with radius (beta ~ 1 at r_200 and beyond). The universal baryon fraction is also recovered at r_200. The stacked emission is also significantly different along the major and minor axes of the hot gas distribution, implying the detection of cosmic filaments. We further applied the weak self-similarity of the emission measure profiles at large !
+ radii to obtain good constrains of cosmological parameters, which provides an independent, direct method solely based on observed quantities. The stacking work has also been extended to lower-mass halos like galaxy groups and I will highlight our recent results on a local galaxy group with over 400 ks Chandra data. In the end, I will discuss our results on a sample of the most massive MaxBCG clusters, which sheds light on the puzzling offset between the Planck stacked SZ signals and the predicted values from the X-ray pressure template.
+
+==============================================================================
+
+> Date: Fri, 26 May 2017 21:55:46 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 2nd June 2017 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker A: Chia-Hsuan Cheng (NTHU)
+
+Title: Variations of the x-ray flux from
+        the globular cluster black hole
+
+
+------------------------------------------------
+Speaker B: Ren-Yi Deng (NTHU)
+
+Title: Predicting the spectrum of ejection
+        velocities of hypervelocity stars
+
+
+                All Welcome !!
+
+==============================================================================
+
+> Subject: Sub-millimeter Array (SMA) Call for Large Scale Proposals
+> From: "Tirupati Kumara, Sridharan" <tksridharan@cfa.harvard.edu>
+> Date: Fri, 26 May 2017 11:02:57 -0400
+> To: cfa-wide <cfa-wide@cfa.harvard.edu>,
+>     sma-newsletter <sma-newsletter@cfa.harvard.edu>
+
+
+Dear Yi-Jheng,
+
+The =E2=80=9CCall for Large Scale Proposals for the SMA=E2=80=9D is now =
+open.
+Please announce this to TAN.
+
+Thank you,
+Naomi
+
+-----------------------
+
+Dear Colleague,
+
+We wish to draw your attention to the Call for Large Scale Proposals for =
+observations with the Sub-millimeter Array (SMA), which is now open. =
+Under this program, proposals dedicated to answering major astrophysical =
+questions having significant scientific impact requiring observing times =
+of order 100-1000 hours are solicited.
+
+The SMA is a reconfigurable interferometric array of eight 6-m antennas =
+on Mauna Kea jointly built and operated by the Smithsonian Astrophysical =
+Observatory and the Academia Sinica Institute of Astronomy and =
+Astrophysics. The array operates in the 230, 345 and 400 GHz bands. The =
+existing large scale (legacy) program  has been restructured and =
+refocused with new guidelines to enhance its efficiency and value to the =
+community, leading to the current call.
+
+There is no deadline for proposal submission. Following a phased =
+development, submission and review path, the final selection of =
+successful proposals is intended to be synchronized with the TAC process =
+for regular proposals. Accordingly,  a Notice of Intent is required =
+ahead of full submission and well in advance of the call for regular =
+proposals.
+
+More details can be found at:=20
+http://sma1.sma.hawaii.edu/call_largescale.html =
+<http://sma1.sma.hawaii.edu/call_largescale.html>
+
+Questions or comments regarding the Call for Large Scale Proposals can =
+be addressed to sma-largescale@cfa.harvard.edu =
+<mailto:sma-largescale@cfa.harvard.edu>.
+
+Best wishes,
+
+T. K. Sridharan
+SMA TAC Chair
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,1160 @@
+From kyl@asiaa.sinica.edu.tw Sun May 21 09:40 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA01038
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 21 May 2000 09:40:44 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA29659
+	for <astro@asiaa.sinica.edu.tw>; Sun, 21 May 2000 09:43:27 +0800
+Date: Sun, 21 May 2000 09:43:27 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MCNews #44 (LaTeX file) (fwd)
+Message-ID: <Pine.LNX.4.10.10005210943250.29620-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 41178
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Sat, 20 May 2000 13:03:33 -0500 (CDT)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: MCNews #44 (LaTeX file)
+Resent-Date: Sat, 20 May 2000 13:03:47 -0500 (CDT)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+
+\documentstyle[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\fboxsep=4.5pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+\def\vinfty{$v_{\infty}$}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\mdot{\.M}
+\def\msunyr{($M_{\odot}\,{\rm yr}^{-1}$)}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+% "less than or approximately"
+\def \la{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+<\cr\sim\cr}}}}}
+
+% "greater than or approximately" 
+\def \ga{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\sim\cr}}}}}
+
+% Alternative def for \ga:
+% \def\simgt{\hbox{ \rlap{\raise 0.425ex\hbox{$>$}}\lower 0.65ex\hbox{$\sim$} }}% Alternative def for \la:
+% \def\simlt{\hbox{ \rlap{\raise 0.425ex\hbox{$<$}}\lower 0.65ex\hbox{$\sim$} }}
+
+\def\arcdeg{\hbox{$^\circ$}}
+
+
+\begin{document}
+
+{\fbox{{\fbox{\parbox[]{17cm}{
+\bigskip
+\smallskip
+\centerline{\Huge{\sc The Magellanic Clouds Newsletter}}
+\bigskip
+\centerline{\Large \bf An electronic exchange on Magellanic Clouds research}
+\bigskip
+\smallskip
+\centerline{\bf Edited by\, Eva K.\ Grebel and You-Hua Chu}
+\smallskip
+\centerline{{\tt mcnews@astro.uiuc.edu}}
+\medskip    
+\centerline{{\tt http://www.astro.uiuc.edu/projects/mcnews/MCNews.html}}
+\centerline{{\tt http://www.astro.uni-bonn.de/\~{}mcnews/}}
+% THAT IS http://www.astro.uni-bonn.de/~mcnews/
+\bigskip
+\smallskip
+\hspace{0.5cm} {\Large\it{No.\ 44}} \hspace{10cm} {\Large\it{May 20, 2000}}
+}}}}
+
+
+\bigskip\noindent
+
+
+\begin{center}
+
+\bigskip
+{\LARGE\sc{Contents}} 
+\bigskip
+
+\begin{tabular}{lr}
+Abstracts of 13 refereed papers     & 1 \\
+Abstracts of 3 conference contributions   & 10\\
+\end{tabular}
+\end{center}
+
+%\hrulefill
+\bigskip
+
+%\bigskip
+%\centerline{
+%{\fbox{\parbox[]{1.7cm}{
+%{\LARGE\bf{News}}
+%}}}}
+
+\bigskip
+\bigskip
+
+
+
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{8.9cm}{
+{\LARGE\bf{Abstracts of Refereed Papers}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+
+
+\begin{center}
+{\Large\bf    Formation of Cavities, Filaments, and Clumps by
+the\\ \smallskip Non-linear Development of Thermal and Gravitational 
+Instabilities \\ \medskip
+in the Interstellar Medium under Stellar Feedback
+}\\ \bigskip
+{\bf       K. Wada$^1$, M. Spaans$^2$, and S. Kim$^2$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  National Astronomical Observatory,
+Mitaka,181-8588, Japan\\     $^2$  Harvard-Smithsonian Center for
+Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA\\
+$^3$ Astronomy Department, University of Illinois at
+Urbana-Champaign, Urbana, IL 61801, USA
+}\\
+
+Based on our high resolution, two-dimensional hydrodynamical
+simulations, we propose that large cavities may be formed by 
+the nonlinear development of the combined thermal and gravitational 
+instabilities, without need for stellar energy injection in a galaxy 
+modeling the Large Magellanic Clouds (LMC).
+Our numerical model of the star formation allows us to 
+follow the evolution of the blastwaves due to supernovae in 
+the inhomogeneous, multi-phase, and turbulent-like media self-consistently.
+Formation of kpc-scale inhomogeneity, such as cavities, observed H\,{\sc i} 
+map of the LMC, is suppressed by frequent supernovae (average supernova 
+rate for the whole disk is $\sim 0.001$ yr$^{-1}$). However the supernova 
+explosions are necessary for the hot component ($T_g > 10^{6-7}$ K).
+Position-velocity maps show that kpc-scale shells/arcs formed 
+through the nonlinear evolution in a model without stellar 
+energy feedback has similar kinematics to explosional phenomena, such as
+supernovae.
+We also find that dense clumps and filamentary structure are 
+formed due to a natural consequence of the non-linear evolution of the
+multi-phase ISM. Although the ISM in a small scale looks turbulent-like and
+transient, the global structure of the ISM is quasi-stable. In the quasi-stable
+phase, the volume filling factor of the hot, warm, cold components are
+$\sim 0.2, \sim 0.6$, and  $\sim 0.2$, respectively.
+We compare the observations of H\,{\sc i} and molecular gas of the 
+LMC with the numerically obtained H\,{\sc i} and CO brightness temperature 
+distribution.  The morphology and statistical properties 
+of the numerical H\,{\sc i} and CO maps are discussed.
+We find that the cloud mass spectrum of our models
+represent a power-law shape, but their slopes change between models with 
+and without the stellar energy injection, and also the slope depends on the
+threshold brightness temperature of CO.
+\\
+
+{\bf   
+       Accepted by:\,   The Astrophysical Journal (to appear in Vol. 540)
+}\\
+{\it For preprints, contact\, }       
+   {\tt   wada.keiichi@nao.ac.jp  }\\
+{\it Also available from the URL\, }  
+   {\tt   http://xxx.lanl.gov/abs/astro-ph/0005330   }\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+\begin{center}
+{\Large\bf  Interpretation of the Spatial Power Spectra of Neutral Hydrogen
+\\ \medskip  in the Galaxy and in the Small Magellanic Cloud
+}\\ \bigskip
+{\bf       Itzhak Goldman
+} \end{center} \vskip -0.4cm
+{\footnotesize
+  School of Physics and Astronomy, Sackler Faculty of Exact
+  Sciences, Tel Aviv University, Tel Aviv 69978, Israel
+}\\
+
+Recent 21 cm radio observations of H\,{\sc i} regions in the Small  
+Magellanic Cloud have revealed   spatial power spectra of the intensity, 
+which are quite similar in shape to those previously deduced for
+the Galaxy.
+The similarity, in spite the differences in the physical parameters
+between the Galaxy and the SMC, suggests that 
+the shape of the power spectra reflects some underlying mechanism
+which is not too sensitive to the   environmental specifics.
+In this paper we present  an interpretation for the observational power 
+spectra  in terms of a large scale turbulence in the interstellar medium, 
+in which the emitting H\,{\sc i} regions are embedded. The turbulence
+gives rise to density fluctuations which lead to the observed  
+intensity fluctuations, in the H\,{\sc i} regions.
+The observational power spectra are  used to deduce  the turbulence
+spectral function. 
+
+ In the SMC, the turbulence largest eddies are comparable in scale to
+the SMC itself. This implies that turbulent mixing should have
+smoothed out 
+any large scale abundance gradients. Indeed, this seems to be the case,
+observationally. 
+
+The turbulence is also expected to amplify and shape up the large scale 
+magnetic field.
+Indeed, the observational data indicate the existence of a large 
+scale disordered field of the strength expected from energy
+equilibrium with the turbulent  velocity field.
+The large scale turbulence is most probably generated by instabilities in 
+ the large scale  flows induced by the
+tidal close encounter with the LMC $ \sim 2\times 10^8{\rm yr}$ ago.
+The life-time of the largest eddies is
+$\sim 4\times 10^8{\rm yr}$ so the turbulence had not yet enough time
+to decay and persists even though the energy source is no longer there.
+\\
+
+{\bf   
+       Accepted by:\,   The Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       
+   {\tt  goldman@wise1.tau.ac.il  }\\
+{\it Also available from the URL\, }  
+   {\tt  http://arXiv.org/abs/astro-ph/0005023     }\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf H$_2$ measurements in the Magellanic Clouds
+}\\ \bigskip
+{\bf       Philipp Richter$^{1,2}$ 
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Sternwarte, Universit\"at Bonn, Auf dem H\"ugel 71, 
+D-53121 Bonn, Germany
+         \\     $^2$  Department of Astronomy, University of 
+Wisconsin-Madison, Madison, WI 53706, USA
+}\\
+
+More than 20 years after the {\it Copernicus} satellite,
+{\it ORFEUS} allows the investigation of molecular
+hydrogen (H$_2$) in the diffuse interstellar medium by way of FUV
+absorption spectroscopy once again.  This time,
+targets in the Magellanic Clouds were also observed,
+allowing the first investigation of cold H$_2$ in a metal-poor
+environment outside the Milky Way disk.
+This paper presents new H$_2$ measurements in LMC gas
+along the lines of sight toward HD\,269698 (Sk\,$-$67\,166),
+HD\,269546 (Sk\,$-$68\,82) and HD\,36402 (Sk\,$-$67\,104)
+and summarizes the {\it ORFEUS} H$_2$ measurements in the
+the Magellanic Clouds.
+For seven lines of sight we investigate correlations between
+$N($H\,{\sc i}$)$, $N($H$_{2})$, $E(B-V)$ and compare the
+results with H$_2$ observations in the Milky Way disk.
+We find that the abundance of H$_2$ is low in comparison to the 
+total gas quantity and speculate that the
+fraction of hydrogen in molecular form is
+limited by the lower dust content of the
+Magellanic Clouds.
+\\
+
+{\bf   
+       Accepted by:\,   Astronomy \& Astrophysics, Main Journal
+}\\
+{\it For preprints, contact\, }       
+   {\tt   richter@astro.wisc.edu }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf  Multiwavelength observations of N\,66 in the SMC:\\
+\medskip unveiling photodissociation interfaces and star formation
+}\\ \bigskip
+{\bf     M. Rubio$^1$ A. Contursi $^{2,3,4}$ J. Lequeux $^4$ R. Probst $^5$
+R. Barb\'a $^6$ F. Boulanger$^6$ D. Cesarsky $^{7,9}$ and R. Maoli$^8$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$ Departamento de Astronom\'{\i}a, Universidad de 
+Chile, Casilla 36-D, Santiago, Chile 
+\\     $^2$ IPAC, Caltech, MS 100--22, Pasadena, CA 91125, USA 
+\\     $^3$ SAp/DAPNIA/DSM, CEA-Saclay, F-91191 Gif sur Yvette CEDEX, France 
+\\     $^4$  DEMIRM, Observatoire de Paris, 61 Avenue de l'Observatoire, F-75014 Paris, France 
+\\     $^5$  Cerro Tololo Inter-American Observatory, NOAO, Casilla 603, La Serena, Chile 
+\\     $^6$ Facultad de Ciencias Astron\'omicas y Geofis\'{\i}cas, 
+Universidad Nacional de La Plata, Paseo del Bosque s/n, 1900 La Plata, 
+Argentina 
+\\     $^7$ Institut d'Astrophysique Spatiale, Bat. 121, Universit\'e Paris 
+XI, 91450 Orsay CEDEX, France 
+\\     $^8$  Institut d'Astrophysique, 98 bis Boulevard Arago, 75014 Paris, 
+France  
+\\     $^9$  Max-Planck-Institut f\"ur Extraterrestrische Physik, P.O.\ Box 
+1603, D-85740 Garching, Germany 
+}\\
+
+We present new observations of the major star--forming
+region N\,66 in the Small Magellanic Cloud and of its surroundings, which
+add to those presented in Contursi et al.\ 2000
+(Contursi A., Lequeux J., Cesarsky D. et al. 2000, A\&A, submitted, Paper I).
+High--sensitivity CO observations allowed the detection of molecular gas
+associated with the H\,{\sc ii} region, for which a high--resolution image in
+[O\,{\sc iii}] $\lambda$ 5007 is presented. We also present images in the 
+v(1-0) S(1) line of H$_2$ at 2.12 $\mu$m and in the adjacent continuum. This
+material reveals an interesting photodissociation region. We show that the
+molecular gas that has not yet been photodissociated by the UV radiation
+of the stars is in hot, dense clumps with a very small surface filling
+factor. We discovered several embedded stars or stellar associations,
+and suggest that
+three successive stellar generations have already taken place in less than
+3 million years.
+\\
+
+{\bf   
+       Accepted by:\,   Astronomy \& Astrophysics Main Journal 
+}\\
+{\it For preprints, contact\, }       
+   {\tt   mrubio@das.uchile.cl  }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+\begin{center}
+{\Large\bf On the Emergence and Discovery of Hot Spots\\ \medskip  in Supernova
+ Remnant 1987A
+}\\ \bigskip
+{\bf       Stephen S. Lawrence$^1$, Ben E. Sugerman$^1$, Patrice Bouchet$^2$,
+  Arlin P. S. Crotts$^1$, Robert Uglesich$^1$, and Steve Heathcote$^2$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Dept. of Astronomy, Columbia University, New York, NY 1002
+7, USA
+         \\     $^2$  Cerro Tololo Inter-American Observatory, La Serena, Chile
+}\\
+
+We present the discovery of several new regions of interaction between
+the ejecta and equatorial circumstellar ring of SN1987A, an interaction
+leading to a much expanded development of the supernova remnant.
+We also trace the development of the first such ``hot spot,''
+discovered in 1997, back to 1995. Later hot spots seem to have emerged
+by early 1999.  We discuss mechanisms for the long delay between
+the first and later spots.
+\\
+
+{\bf
+       Submitted to:\,   Astrophysical Journal Letters
+}\\
+{\it For preprints, contact\, }
+   {\tt   lawrence@astro.columbia.edu  }\\
+{\it Also available from the URL\, }
+   {\tt   http://arXiv.org/abs/astro-ph/0004191    }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf     
+{\it Far Ultraviolet Spectroscopic Explorer} Observations\\ \medskip of 
+the Supernova Remnant N49 in the Large Magellanic Cloud
+}\\ \bigskip
+{\bf      William P.\ Blair$^1$, Ravi Sankrit$^1$,
+R.L.\  Shelton$^1$, Kenneth R.\ Sembach$^1$,
+H.\ Warren Moos$^1$, John C.\ Raymond$^2$,
+Donald G.\ York$^3$, Paul D.\ Feldman$^1$, Pierre
+Chayer$^1$, Edward M.\ Murphy$^1$, David J.\ Sahnow$^1$,
+and Erik Wilkinson$^4$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Department of Physics \& Astronomy, The Johns Hopkins
+University, 3400 N.\ Charles St.,  Baltimore, MD 21218, USA
+         \\     $^2$  {Harvard-Smithsonian Center for Astrophysics, 60 
+Garden St., Cambridge, MA 02138, USA
+         \\     $^3$  University of Chicago, 5640 S. Ellis Ave., Chicago, IL 
+60637, USA
+         \\     $^4$  University of Colorado, Campus Box 593, 1255 38th St.,
+Boulder, CO 80302, USA
+}\\  \normalsize
+
+We report a {\it Far Ultraviolet Spectroscopic Explorer} satellite
+observation of the supernova remnant N49 in the
+Large Magellanic Cloud, covering the 905 -- 1187 \AA\ spectral region. A
+$30''$ square aperture was used, resulting in a velocity resolution
+of $\sim$100 $\rm km ~ s^{-1}$.  The purpose of the observation was
+to examine several bright emission lines expected
+from earlier work and to demonstrate
+diffuse source sensitivity by searching for faint lines never seen
+previously in extragalactic supernova remnant UV spectra.  Both
+goals were accomplished.
+Strong emission lines of O\,{\sc vi} $\lambda\lambda$1031.9, 1037.6 and
+C\,{\sc iii} $\lambda$977.0 were seen, Doppler broadened to $\rm \pm 225 ~
+km ~ s^{-1}$ and with centroids red-shifted to 350 $\rm km ~ s^{-1}$,
+consistent with the LMC.  Superimposed on the emission lines are
+absorptions by C\,{\sc iii} and O\,{\sc vi}
+$\lambda$1031.9 at +260 $\rm km ~ s^{-1}$, which are attributed to warm
+and hot gas (respectively) in the LMC.  The O\,{\sc vi} $\lambda$1037.6 line
+is more severely affected by overlying interstellar and $\rm H_2$
+absorption from both the LMC and our galaxy.  N\,{\sc iii} $\lambda$989.8 is not
+seen, but models indicate overlying absorption severely attenuates this line.
+A number of faint lines from hot gas have also been detected,
+many of which have never been seen in an extragalactic supernova
+remnant spectrum.
+\\
+
+{\bf   
+       Accepted by:\,   The Astrophysical Journal (Letters);\\
+will appear in
+     a special issue devoted to the first scientific results from
+     the FUSE mission
+}\\
+{\it For preprints, contact\, }       
+   {\tt   wpb@pha.jhu.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt  http://xxx.lanl.gov/abs/astro-ph/0005092    }\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf         Measuring the ionization of O star winds
+}\\ \bigskip
+{\bf      Luciana Bianchi$^{1,2,3}$, J. B. Hutchings$^{1,4}$,
+Alex W. Fullerton$^{5,2}$, Donald C. Morton$^{1,4}$,
+Raymond G. Ohl$^{2}$, George Sonneborn$^{6}$, Derck Massa$^{7}$,
+K.R. Brownsberger$^{8}$, Allan J. Willis$^{9}$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Observer with the NASA-CNES-CSA
+\it Far Ultraviolet Spectroscopic Explorer (FUSE) \rm
+which is operated by Johns Hopkins University, under NASA contract NAS5-32985
+         \\     $^2$ Center for Astrophysical Sciences,
+The Johns Hopkins University, Dept. of Physics and Astronomy,
+239 Bloomberg Center, 3400 N. Charles St., Baltimore,
+MD 21218, USA\\
+$^3$ Osservatorio Astronomico di Torino,
+I-10025 Pino Torinese (TO), Italy\\
+$^4$ Herzberg Inst.\ of Astrophysics, National Research
+Council of Canada,  5071 W.\ Saanich Rd.,
+Victoria, B.C., Canada, V8X 4M6\\
+$^5$ Dept. of Physics \& Astronomy,     University of Victoria,
+     P.O. Box 3055,      Victoria, BC, V8W 3P6,      Canada\\
+$^6$ Lab. for Astro. and Solar Physics, Code 681.0, NASA GSFC,
+         Greenbelt, MD 20771, USA\\
+$^7$ Raytheon ITSS, Code 681.0, NASA GSFC, Greenbelt, MD 20771, USA\\
+$^8$ Center for Astrophysics and Space Astronomy,
+  University of Colorado, Boulder, CO 80309, USA\\
+$^9$ Dept. of Physics and Astronomy, University College London,
+Gower St. London, UK
+}\\  \normalsize
+
+
+                      We present an analysis of wind line profiles
+from  {\it FUSE} spectra of two O7 supergiants in the Large and Small
+Magellanic
+Clouds (Sk~$-67^{\circ}$111 and AV 232 respectively). Model fits yield
+the column densities of S\,{\sc iv}, S\,{\sc vi},
+P\,{\sc iv}, P\,{\sc v}, N\,{\sc iii}, and N\,{\sc iv}, providing the
+first direct measurement of the ionization balance in stellar winds.
+The ratios  of S\,{\sc iv}/S\,{\sc vi} and P\,{\sc iv}/P\,{\sc v} are
+consistently lower  in the LMC star.
+{\it IUE} and {\it HST} archival spectra are also used to measure 
+N\,{\sc iv} and N\,{\sc v},
+but the much higher optical depth makes the N\,{\sc v} measurements
+inconclusive. The velocity and optical depth distributions in the wind
+are qualitatively similar between the two stars, when scaled to their
+terminal velocities. The terminal velocities are different, with AV 232
+being lower (as found previously in
+SMC stars and linked to lower metallicity). These are the first results from a
+program to investigate wind ionisation and velocity structure among hot
+stars in local galaxies, and demonstrate the higher accuracy
+in measuring column densities of less abundant ions such
+as phosphorus and sulfur, observable in the {\it FUSE} range.\\
+
+{\bf   
+       Accepted by:\, The Astrophysical  Journal Letters;\\
+will appear in
+     a special issue devoted to the first scientific results from
+     the FUSE mission
+}\\
+{\it For preprints, contact\, }       
+   {\tt   bianchi@stsci.edu  }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+\newpage
+
+
+\begin{center}
+{\Large\bf
+FUSE Observations of the Stellar Winds of Two O7 Supergiants\\ \medskip in
+the Magellanic Clouds
+}\\ \bigskip
+\bf{ A.W.\ Fullerton$^{1,2}$,
+     P.A.\ Crowther$^{3}$,
+     O.\ De Marco$^{3}$,
+     J.B.\ Hutchings$^{4}$,
+     L.\ Bianchi$^{2,5}$,
+     K.R.\ Brownsberger$^{6}$,
+     D.L.\ Massa$^{7}$,
+     D.C.\ Morton$^{4}$,
+     B.L.\ Rachford$^{6}$,
+     T.P.\ Snow$^{6}$,
+     G.\ Sonneborn$^{8}$,
+     J.\ Tumlinson$^{6}$,
+and  A.J.\ Willis$^{3}$        
+} \end{center} \vskip -0.4cm
+{\footnotesize
+    $^1$ Dept. of Physics \& Astronomy, University of Victoria,
+         P.O. Box 3055, Victoria, BC, V8W 3P6, Canada 
+\\  $^2$ Dept. of Physics \& Astronomy, The Johns Hopkins University,
+         3400 N. Charles Street, Baltimore, MD 21286, USA
+\\  $^3$ Dept. of Physics \& Astronomy, University College London,
+         Gower Street, London WC1E 6BT, England
+\\  $^4$ Herzberg Institute of Astrophysics, NRC of Canada,
+         5071 West Saanich Road, Victoria, BC V8X 4M6, Canada
+\\  $^5$ Osservatorio Astronomico di Torino, I-10025 Pino Torinese (TO),
+         Italy
+\\  $^6$ CASA, University of Colorado at Boulder, Campus Box 389,
+         Boulder, CO 80309, USA
+\\  $^7$ Raytheon ITSS, NASA's Goddard Space Flight Center,
+         Code 681, Greenbelt, MD 20771, USA
+\\  $^8$ LASP, NASA's Goddard Space Flight Center,
+         Code 681, Greenbelt, MD 20771, USA
+}\\
+
+We compare the stellar wind features in far-UV spectra of 
+Sk~$-67\mbox{$^\circ$}111$, an
+{O7 Ib(f)} star in the LMC, with Sk\,80, an {O7 Iaf$+$} star in the SMC.
+The most striking differences are that Sk\,80 has a substantially
+lower terminal velocity, much weaker {O~{\sc vi}} absorption, and stronger
+{S~{\sc iv}} emission.
+We have used line-blanketed, hydrodynamic, non-LTE atmospheric models
+to explore the origin of these differences.
+The far-UV spectra require systematically lower stellar
+temperatures than previous determinations for O7 supergiants derived
+from plane-parallel, hydrostatic models of photospheric line profiles.
+At these temperatures, the {O~{\sc vi}} in Sk~$-67\mbox{$^\circ$}111$ must 
+be due primarily to shocks in the wind. \\
+   
+{\bf Accepted by:\, Astrophysical Journal Letters;\\ will appear in
+     a special issue devoted to the first scientific results from 
+     the FUSE mission.
+}\\
+{\it For preprints, contact\, }       
+   {\tt  awf@pha.jhu.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt  http://xxx.lanl.gov/abs/astro-ph/0005039}\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf Far-UV FUSE spectroscopy of the O\,{\sc vi} resonance doublet\\
+\medskip in Sand 2 (WO)
+}\\ \bigskip
+{\bf  Paul A. Crowther$^{1}$, A.W.\ Fullerton$^{2,3}$, D.J.\ Hillier$^{4}$, 
+K.\ Brownsberger$^{5}$, L.\ Dessart$^{1,6}$,\newline
+A.J.\ Willis$^{1}$, O.\ De Marco$^{1}$, M.J.\ Barlow$^{1}$, J.B.\ 
+Hutchings$^{7}$, D.L.\ Massa$^{8}$,\newline
+D.C.\ Morton$^{7}$ \& G.\ Sonneborn$^{9}$
+} \end{center} \vskip -0.4cm
+{\footnotesize (1) Dept.\ of Physics \& Astronomy, UCL, Gower St, London 
+WC1E 6BT, U.K.\\
+(2) Dept. of Physics \& Astronomy, University of Victoria,
+                 P.O. Box 3055, Victoria, BC, V8W 3P6, Canada.\\
+(3) Dept. of Physics \& Astronomy, Johns Hopkins University, 
+3400 North Charles St., Baltimore, MD 21218, USA\\
+(4) Dept. of Physics \& Astronomy, University of Pittsburgh, 3941 O'Hara
+Street, PA 15260, USA\\
+(5) Center for Astrophysics \& Space Astronomy, Campus Box 389, Boulder, 
+CO 80309, USA\\
+(6) Present Address: D\'{e}partement de Physique, Universit\'{e} Laval, Qu\'{e}bec, QC, Canada, G1K 7P4\\
+(7) D.A.O., Herzberg Institute of Astrophysics, 5071 W.~Saanich Road, Victoria BC, Canada, V8X 4M6\\
+(8) Raytheon ITSS, NASA's Goddard Space Flight Center, Code 631, Greenbelt, 
+MD 20771, USA\\
+(9) Laboratory for Astronomy and Solar Physics, NASA/GSFC, Code 681, 
+Greenbelt, MD 20771, USA}\\ 
+
+We present {\it Far-Ultraviolet Spectroscopic Explorer (FUSE)} spectroscopy
+of Sand~2, a LMC WO-type Wolf-Rayet star, revealing the
+O\,{\sc vi} resonance P~Cygni doublet at 1032--38\AA.
+These data are combined with {\it HST}/FOS ultraviolet and Mt Stromlo 2.3m
+optical spectroscopy, and analysed using a spherical,
+non-LTE, line-blanketed code. Our study reveals exceptional stellar 
+parameters: $T_{\ast}\sim$150,000K, $v_{\infty}$=4100 km\,s$^{-1}$,
+log\,($L/L_{\odot})$=5.3, and
+$\dot{M}=1\times 10^{-5} M_{\odot}$yr$^{-1}$,
+if we adopt a volume filling factor of 10\%. Elemental abundances of
+C/He$\sim0.7\pm0.2$ and O/He$\sim0.15_{-0.05}^{+0.10}$ by number 
+qualitatively support previous recombination line studies. We confirm 
+that Sand~2 is more chemically enriched in carbon than LMC WC stars,
+and is expected to undergo a supernova explosion within the 
+next 5$\times 10^{4}$yr.
+\\ 
+
+{\bf   
+{\bf To appear in:\, Astrophysical Journal Letters;\\ will appear in
+     a special issue devoted to the first scientific results from
+     the FUSE mission.
+}\\
+{\it For preprints, contact\, }       
+   {\tt   pac@star.ucl.ac.uk }\\
+{\it Also available from the URL\, }  
+   {\tt   http://www.star.ucl.ac.uk/$\sim$pac/publications.html}\\
+
+
+
+
+\bigskip
+
+
+
+
+
+\begin{center}
+{\Large\bf The He II Emitting Nebula N44C in the LMC:\\ \medskip 
+Optical/UV Spectroscopy of the Nebula and its Ionizing Star 
+}\\ \bigskip
+{\bf D.R. Garnett$^1$, V.C. Galarza,$^2$, and Y.-H. Chu$^3$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  
+Steward Observatory, University of Arizona, 933 N. Cherry Ave., 
+Tucson, AZ  85721, USA 
+         \\     $^2$  
+Astronomy Department, New Mexico State University, Las Cruces,
+NM 88003-8001, USA 
+         \\     $^3$  
+Astronomy Department, University of Illinois, 1002 W. Green Street,
+Urbana, IL 61801, USA
+}\\  \rm  \normalsize
+
+We present {\it HST} spectroscopy and imaging, along with new ground-based 
+spectroscopy and {\it ROSAT} HRI imaging, of the He\,{\sc ii} emitting 
+nebula N44C 
+and its ionizing star. A GHRS spectrum of the ionizing star yields a spectral
+type of about O7 for the star. The lack of P Cygni profiles for Si\,{\sc iv}
+and C\,{\sc iv} 
+indicates that the star is not a supergiant. The nebular abundances in the 
+ionized gas are consistent with average abundances for LMC H\,{\sc ii} 
+regions, with 
+the possible exception that nitrogen may be enhanced. Enrichment by a former
+evolved companion star is not evident. A long-slit echelle spectrogram in 
+H$\alpha$ + [N\,{\sc ii}] shows no evidence for high-velocity gas in N44C. This 
+rules out high-velocity shocks as the source of the nebular He\,{\sc ii} 
+emission.
+A 108 ks ROSAT HRI image of N44C shows no X-ray point source to a 3$\sigma$
+upper limit $L_X$ $<$ 10$^{34}$ erg s$^{-1}$ in the 0.1-2.0 keV band. Based
+on new measurements of the electron density in the He\,{\sc ii} emitting 
+region, we 
+derive recombination timescales of $\approx$ 20 yrs for He$^{+2}$ and $\approx$ 
+4 yrs for Ne$^{+4}$. If N44C is a fossil X-ray ionized nebula, this places 
+severe constraints on when the putative X-ray source could have turned off. 
+The presence of strong [Ne\,{\sc iv}] emission in the nebula is puzzling if 
+the ionizing source has turned off. It is possible the system is related to
+the Be X-ray binaries, although the O star in N44C does not show Be 
+characteristics at the present time. Monitoring of X-rays and He\,{\sc ii} 
+emission
+from the nebula, as well as a radial velocity study of the ionizing star, 
+are needed to fully understand the emission line spectrum of N44C. 
+\\
+
+{\bf   
+      Submitted to:\,   The Astrophysical Journal 
+}\\
+{\it For preprints, contact\, }       
+   {\tt   dgarnett@as.arizona.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt http://ocotillo.as.arizona.edu/\~{}dgarnett/Papers/N44pp.ps }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+\newpage
+
+
+
+\begin{center}
+{\Large\bf    Doubling the number of Be/X-ray binaries in the SMC
+}\\ \bigskip
+{\bf       F. Haberl and M. Sasaki
+} \end{center} \vskip -0.4cm
+{\footnotesize  Max-Planck-Institut f\"ur extraterrestrische Physik, 
+Garching, Germany 
+}\\
+
+A correlation of X-ray source and Halpha emission-line object
+catalogues in the Small Magellanic Cloud (SMC) shows that more
+than two thirds of the optically identified Be stars in Be/X-ray
+binaries are found as emission-line objects in the catalogues. On
+the basis of this result we propose up to 25 X-ray
+sources mainly from recent ROSAT catalogues as new Be/X-ray binaries
+and give their likely optical counterparts. Also for the five yet
+unidentified X-ray pulsars in the SMC we propose emission-line stars
+as counterparts. This more than doubles the number of known
+high mass X-ray binary systems in this nearby galaxy. The spatial
+distribution of the new candidates is similar to that of the already
+identified Be/X-ray binaries with a strong concentration along the SMC
+main body and some systems in the eastern wing. The new candidates
+contribute mainly to the low-luminosity end of the X-ray luminosity
+distribution of Be/X-ray binaries. A comparison with the luminosity
+distribution in the Milky Way reveals no significant differences
+at the high-luminosity end and the large number of low-luminosity systems
+in the SMC suggests that many such systems may still be undetected
+in the Galaxy.
+The overall ratio of known Be to OB supergiant X-ray binaries in the SMC is
+an order of magnitude larger than in the Galaxy, however, might show
+spatial variations. While in the eastern wing the ratio is comparable
+to that in the Galaxy no supergiant X-ray binary is currently known in
+the main body of the SMC. Possible explanations include a different
+star formation history over the last ~15 My.
+\\
+
+{\bf   
+       Accepted by:\,   Astronomy \& Astrophysics
+}\\
+{\it For preprints, contact\, }       
+   {\tt   fwh@mpe.mpg.de  }\\
+{\it Also available from the URL\, }  
+   {\tt   ftp://ftp.xray.mpe.mpg.de/people/fwh/SMC\_BeX/   }\\
+% THAT IS ftp://ftp.xray.mpe.mpg.de/people/fwh/SMC_BeX/
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf Multiwavelength analyses of the extraordinary nova LMC 1991
+}\\ \bigskip
+{\bf Greg J. Schwarz$^{1,6}$,
+     S. N. Shore$^2$,
+     S. Starrfield$^1$,
+     Peter H. Hauschildt$^3$,
+     M. Della Valle$^4$,
+     and E. Baron$^5$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Dept. of Physics and Astronomy,
+		      Arizona State University, Tempe, AZ 85287-1504, USA \\
+                $^2$  Dept. of Physics and Astronomy,
+		      Indiana University South Bend,
+		      Indiana University South Bend, IN 46634-7111 USA \\
+                $^3$  Dept. of Physics and Astronomy,
+		      University of Georgia, Athens, GA 30602-2451, USA \\
+                $^4$  Osservatorio Astrofisico di Arcetri,
+		      Largo E. Fermi 5, 50125, Firenze, Italy \\
+                $^5$  Dept. of Physics and Astronomy,
+		      University of Oklahoma,
+		      440 W. Brooks, Rm 131, Norman, OK 73019-0225, USA \\
+                $^6$  Present address: Steward Observatory,
+		      University of Arizona, Tucson, AZ 85721, USA
+}\\
+
+LMC 1991 was a very fast, classical nova and the brightest nova ever
+observed in the Large Magellanic Cloud. It was extensively observed during
+both its early optically thick and its nebular evolution in the optical and
+UV wavelength regions. We have successfully fit all the optically thick
+spectra using a grid of spherically symmetric, non-LTE, line-blanketed,
+expanding synthetic spectra created with the model atmosphere code {\tt
+PHOENIX}. The emission lines of the nebular spectra have been fit using an
+optimization technique for the emission line luminosities predicted by the
+photoionization code {\tt CLOUDY}. Our analyses show the following: the
+bolometric luminosity was super-Eddington before visual maximum and reached
+L$^{max}_{Bol} \sim$ 6$\times$10$^{5}$ L$_{\odot}$, the ejected mass was
+$\sim$ 3$\times$10$^{-4}$M$_{\odot}$, and nuclear burning on the white
+dwarf ceased after $\sim$ 100 days. The elemental abundances (by number)
+with respect to solar of the ejecta were: He/H = 0.8$\pm$0.2, C/H =
+5$^{+2.5}_{-2}$, N/H = 85$^{+22}_{-17}$, O/H = 6.5$^{+2.5}_{-1.5}$, and all
+other elements $\sim$ 0.1. These abundances were determined from both the
+optically thick and nebular analyses. The extreme luminosity, high ejected
+mass, rapid turn off time, and low metallicity (except for enhanced CNO)
+represent the extreme values of observational nova parameters and thus
+present interesting challenges for understanding the nature of the outburst
+of LMC 1991.
+\\
+
+{\bf   
+      Submitted to:\, Monthly Notices of the Royal Astronomical Society 
+}\\
+{\it For preprints, contact\, Greg Schwarz, Steward Observatory, University of Arizona, Tucson, AZ 85721}       
+   {\tt   gschwarz@as.arizona.edu }\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf
+The MACHO Project LMC Variable Star Inventory. IX. \\ \smallskip 
+Frequency Analysis of the First Overtone RR Lyrae Stars\\ \medskip and the 
+Indication for Nonradial Pulsations
+}\\ \bigskip
+{\bf
+Alcock, C.$^1$, Allsman, R.$^2$, Alves, D. R.$^3$, 
+Axelrod, T.$^2$, Becker, A.$^4$, Bennett, D.$^{12}$, Clement, C.$^{15}$, 
+Cook, K.H.$^1$, Drake, A.,$^2$, Freeman, K.$^2$, Geha, M.$^1$, 
+Griest, K.$^5$, Kov\'acs, G.$^{13}$, Kurtz, D.W.$^{14}$, Lehner, M.$^{11}$, 
+Marshall, S.$^{1}$, Minniti, D.$^6$, Nelson, C.$^{1,7}$, Peterson, B.$^2$, 
+Popowski, P.$^1$, Pratt, M.$^4$, Quinn, P.$^8$, Rodgers, A.$^{16}$, 
+Rowe, J.$^{15}$, Stubbs, C.$^4$, Sutherland, W.$^9$, Tomaney, A.$^4$, 
+Vandehei, T.$^5$ and Welch, D.L.$^{10}$
+} \end{center} \vskip -0.2cm
+{\footnotesize  
+$^1$Institute for Geophysics and Planetary Physics, 
+Lawrence Livermore National Laboratory, Livermore, CA 94550, USA \\
+$^2$Mount Stromlo and Siding Spring Observatory, 
+Australian National University, Weston Creek, ACT 0200, Australia \\
+$^3$Space Telescope Science Institute, 
+Baltimore, MD 21218, USA \\
+$^4$Department of Astronomy, University of Washington, 
+Seattle, WA 98195, USA \\
+$^5$Department of Physics, University of California, 
+San Diego, CA 92093, USA \\
+$^6$Department Astronomia, Universidad Catolica, Chile \\
+$^7$Department of Physics, University of California, 
+Berkeley, CA 94720, USA \\
+$^8$European Southern Observatory, Garching, D-85748, Germany \\
+$^9$Department of Physics, Oxford University, OX1 3RH, England \\
+$^{10}$Department of Physics and Astronomy, McMaster University, 
+Hamilton, L82 4M1, Canada \\
+$^{11}$Department of Physics, University of Sheffield, 
+S3 7RH, England \\
+$^{12}$Department of Physics, University of Notre Dame, 
+South Bend, IN 46556, USA \\
+$^{13}$Konkoly Observatory, P.O. Box 67, H-1525 Budapest, 
+Hungary \\
+$^{14}$Department of Astronomy, University of Cape Town, 
+Rondebosch 7701, South Africa \\
+$^{15}$Department of Astronomy, University of Toronto, 
+Toronto, M5S 3H8, Canada \\
+$^{16}$deceased
+} \\
+
+More than 1300 variables classified provisionally as first overtone 
+RR Lyrae pulsators in the {\sc macho} variable star database of the Large 
+Magellanic Cloud (LMC) have been subjected to standard frequency analysis. 
+Based on the remnant power in the prewhitened spectra, we found 70\% 
+of the total population to be monoperiodic. The remaining 30\% (411 stars) 
+are classified as one of 9 types according to their frequency spectra. 
+Several types of RR Lyrae pulsational behavior are clearly identified 
+here for the first time. Together with the earlier discovered 
+double-mode (fundamental \& first overtone) variables this study 
+increased the number of the known double-mode stars in the LMC to 181. 
+During the total 6.5 yr time span of the data, 10\% of the stars showed  
+strong period changes. We also discovered two additional types of 
+multifrequency pulsators with low occurrence rates of 2\% for each. 
+In the first type there remains one closely spaced component after 
+prewhitening by the main pulsation frequency. In the second type the 
+number of remnant components is two, they are also closely spaced, and, 
+in addition, they are symmetric in their frequency spacing relative to 
+the central component. This latter type of variables is associated with 
+their relatives among the fundamental pulsators, known as Blazhko 
+variables. Their high frequency ($\approx 20\%$) among the fundamental 
+mode variables versus the low occurrence rate of their first overtone 
+counterparts makes it more difficult to explain Blazhko phenomenon by 
+any theory depending mainly on the role of aspect angle or magnetic 
+field. Current theoretical models invoke nonradial pulsation components 
+in these stars.     
+\\
+
+{\bf   
+       Accepted by:\,   The Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       
+   {\tt   kovacs@konkoly.hu  }\\
+{\it Also available from\, }  
+   {\tt   astro-ph/0005361  }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+\bigskip
+\bigskip
+
+
+\bigskip
+\centerline{  
+{\fbox{\parbox[]{10.3cm}{
+{\LARGE\bf{Abstracts of Non-Refereed Papers}}
+}}}}
+\bigskip
+
+\bigskip
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf            A New Component of the Galaxy as the Origin of the 
+LMC Microlensing Events
+}\\ \bigskip
+{\bf       E. Gates$^{1,2}$ and G. Gyuk$^3$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Adler Planetarium \& Astronomy Museum, Chicago, IL 
+                      60605, USA 
+         \\     $^2$ Department of Astronomy \& Astrophysics, University 
+                     of Chicago, Chicago, IL 60637, USA
+\\ 		$^3$ Physics Department, University of California, San 
+                     Diego, CA 92093, USA
+}\\
+
+ We suggest a new component of the Milky Way that can account for both
+the optical depth and the event durations implied by microlensing searches
+targeting the Large Magellanic Cloud.  This component, which 
+represents less than
+$4\%$ of the total dark matter halo mass, consists of mainly
+old white dwarf stars in a distribution that extends
+beyond the thin and thick disks, but lies well within the dark matter halo. 
+It is consistent with 
+recent evidence for a significant population of faint white dwarfs detected
+in a proper motion study of the Hubble Deep Field
+that cannot be accounted for by stars in the disk or spheroid.
+Further, it evades all of the current observational constraints that 
+restrict a halo population of white dwarfs.
+\\
+
+{\bf  To appear in:\,   Microlensing 2000: A New Era of Microlensing 
+Astrophysics; ASP Conference Series, J.W. Menzies and P.D. Sackett, eds.
+}\\
+
+
+\bigskip
+
+%========================================================================
+
+
+\newpage
+
+
+
+
+\begin{center}
+{\Large\bf        Microlensing searches of dark matter
+}\\ \bigskip
+{\bf      Esteban Roulet
+} \end{center} \vskip -0.4cm
+{\footnotesize  Depto. de F\'\i sica, Universidad Nacional de La
+Plata, CC67, 1900, Argentina
+}\\
+
+The evolution of the observational results of microlensing towards the
+LMC and some of the suggested interpretations to account for them are
+discussed. It is emphasized that the results at present are indicative of
+a lensing population of white dwarfs, possibly in the spheroid (not
+dark halo) of the Galaxy, together with the more standard backgrounds
+of stellar populations in the Magellanic Clouds and in the
+Galaxy. This is also hinted by dynamical estimates of the spheroid
+mass and by recent direct searches of old white dwarfs.
+\\
+
+{\bf
+      To appear in:\,   Proceedings of the Silafae III Conference
+}\\
+{\it Available from the URL\, }
+   {\tt  http://xxx.lanl.gov/ps/astro-ph/0004342   }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf            The Star Formation History of the Local Group
+}\\ \bigskip
+{\bf       Eva K. Grebel$^{1,2,3}$ 
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  University of Washington, Dept.\ of Astronomy,
+         Box 351580, Seattle, WA 98195, USA
+         \\     $^2$  Hubble Fellow
+         \\     $^3$  Max-Planck-Institut f\"ur Astronomie, K\"onigstuhl 17,
+         D-69117 Heidelberg, Germany
+}\\
+
+The star formation histories of Local Group galaxies are summarized. The 
+three large spirals are discussed individually, whereas the discussion of 
+the Local Group dwarfs concentrates on differences and commonalities. 
+While Local Group galaxies exhibit an amazing diversity in their star 
+formation and enrichment histories even within the same morphological 
+type, they share a number of common global properties. Major determining 
+factors for their evolution are galaxy mass and environmental effects such as
+ram pressure and tidal stripping. It seems likely that low-mass dwarf 
+irregular galaxies evolve into dwarf spheroidals. 
+\\
+
+{\bf   
+      To appear in:\,  Proceedings of the 33rd ESLAB Symp. on ``Star 
+Formation from the Small to the Large Scale'', eds. F.\ Favata, A.A.\ 
+Kaas, \& A.\ Wilson, ESA SP-445, 2000 
+}\\
+{\it For preprints, contact\, }       
+   {\tt   grebel@mpia-hd.mpg.de}\\
+{\it Also available from the URL\, }  
+   {\tt   http://xxx.lanl.gov/abs/astro-ph/0005296}\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+%========================================================================
+
+
+%\bigskip
+%\bigskip
+
+%
+%\bigskip\noindent
+%\centerline{
+%{\fbox{\parbox[]{5.4cm}{
+%{\LARGE\bf{Job Opportunities}}
+%}}}}
+%\smallskip
+
+\bigskip
+\bigskip
+
+
+
+
+
+\end{document}
+
+

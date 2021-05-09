@@ -1,0 +1,38 @@
+
+Date: Thu, 21 Mar 2019 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Miikka VÃ¤isÃ¤lÃ¤ (ASIAA)
+Topic:          Basics of GPU programming with CUDA
+Time:           3/25 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+GPUs have been rising in popularity in scientific computing, but what programming them actually involves? I will introduce you to the basic practical methods of GPU programming using Nvidia CUDA API - with some reflections on the lessons learned during the continuing development of the Astaroth code for computing MHD problems with high-order finite differences.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Miho Ishigaki (Tohoku)
+Topic:          Element production by supernovae across the cosmic time probed by metal-poor stars
+Time:           3/27 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Supernova explosions have been a dominant contributor of metals in the Universe. Thanks to recent large spectroscopic surveys of metal-poor stars 
+in our Milky Way Galaxy, unprecedentedly large data sets of
+elemental abundances in the atmosphere of metal-poor, and thus likely very old, stars  are now available. Statistical properties of the measured elemental abundances have put useful constraints on nucleosynthetic yields of supernovae of different generations of stars. I would like to review what we can learn from comparison between observed elemental abundances in metal-poor stars and   
+theoretical supernova yield models, including core-collapse supernovae
+of the very first generation of stars and Type Ia supernovae of various progenitor metalicities. Prospects for future large spectroscopic surveys in the
+outskirt of the Milky Way will also be discussed.
+
+==============================================================================

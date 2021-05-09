@@ -1,0 +1,650 @@
+From kyl@asiaa.sinica.edu.tw Wed Feb 21 23:02 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id XAA12108
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 21 Feb 2001 23:01:51 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id XAA03249
+	for <astro@asiaa.sinica.edu.tw>; Wed, 21 Feb 2001 23:09:14 +0800
+Date: Wed, 21 Feb 2001 22:55:25 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: RFI Mitigation Workshop (fwd)
+Message-ID: <Pine.SOL.4.10.10102212255220.7024-300000@iaa3>
+MIME-Version: 1.0
+Content-ID: <Pine.SOL.4.10.10102212255230.7024@iaa3>
+Content-Type: MULTIPART/Mixed; BOUNDARY="=====================_982680304==_"
+Content-Length: 31723
+Status: R
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+  Send mail to mime@docserver.cac.washington.edu for more info.
+
+--=====================_982680304==_
+Content-Type: TEXT/ENRICHED; CHARSET=US-ASCII
+Content-ID: <Pine.SOL.4.10.10102212255231.7024@iaa3>
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Research Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+Address:				Phone: 886-2-2652-2020 ext 200
+ASIAA, P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Tue, 20 Feb 2001 16:45:04 +0100
+From: Klaus Ruf <kruf@mpifr-bonn.mpg.de>
+To: jables@rp.csiro.au, abrami@ts.astro.it, para@star.qmw.ac.uk,
+     p.alexander@mrao.cam.ac.uk, rjallen@stsci.edu, hugh@astro.lsa.umich.edu,
+     margo@astro.lsa.umich.edu, waltenhoff@mpifr-bonn.mpg.de,
+     valery.i.altunin@jpl.nasa.gov, ambrosini@ira.bo.cnr.it,
+     anantha@aoc.nrao.edu, heinz@astro.ugto.mx, ba@jb.man.ac.uk,
+     oficina@das.uchile.cl, arnal@irma.edu.ar, markus@astro.umd.edu,
+     Monique.Aubier@obspm.fr, haurass@aip.de, l.avery@jach.hawaii.edu,
+     dja@jb.man.ac.uk, willem@naic.edu, jbaars@phast.umass.edu,
+     pheb@giraffe.ru.ac.za, Lars.Baath@cbd.hh.se, bachiller@oan.es,
+     dbacker@astron.berkeley.edu, dbagri@nrao.edu, bajaja@irma.edu.ar,
+     j.c.baker@mrao.cam.ac.uk, j.e.baldwin@mrao.cam.ac.uk,
+     L.Ball@physics.usyd.edu.au, john.bally@casa.colorado.edu,
+     tbalonek@center.colgate.edu, dilip@imtech.ernet.in,
+     barrow@linmpi.dnet.gwdg.de, bartel@polaris.phys.yorku.ca, pdb@astro.rug.nl,
+     reb@newton.haystack.edu, fnb@astro.as.utexas.edu,
+     basu@garm.physics.carleton.ca, mikeb@mpce.mq.edu.au,
+     baudry@observ.u-bordeaux.fr, sbaum@stsci.edu, rbeck@mpifr-bonn.mpg.de,
+     benaglia@iagusp.usp.br, crb@ing.iac.es, bennett@stars.gsfc.nasa.gov,
+     pbenson@lucy.wellesley.edu, benz@astro.phys.ethz.ch, glb@gps.caltech.edu,
+     gabi@mpifr-bonn.mpg.de, bhandari@rri.ernet.in, jbieging@as.arizona.edu,
+     plbiermann@mpifr-bonn.mpg.de, rbiggsjd@cc.curtin.edu.au, cbignell@nrao.edu,
+     Francois.Biraud@obspm.fr, biretta@stsci.edu, Mark.Birkinshaw@bristol.ac.uk,
+     dgb@earwax.pd.uwa.edu.au, rdb@tapir.caltech.edu, eeb@astro.caltech.edu,
+     dboboltz@usno.navy.mil, Dominique.Bockelee@obspm.fr, roy@oso.chalmers.se,
+     bos@nfra.nl, Lucie.Bottinelli@obspm.fr, bracewell@nova.stanford.edu,
+     rai@ira.kharkov.ua, bregman@nfra.nl, abridle@nrao.edu,
+     ebrinks@astro.ugto.mx, sbritzen@nfra.nl, jjb@phys.vt.edu,
+     leo@das.uchile.cl, broten@gold.sao.nrc.ca, wbrouw@atnf.csiro.au,
+     iwab@jb.man.ac.uk, bujarrabal@oan.es, btravell@ucsd.edu, bfburke@mit.edu,
+     campbell@jive.nl, dcw@physics.usyd.edu.au, ccarilli@nrao.edu,
+     carr@astro.ufl.edu, Fabienne.Casoli@obspm.fr, castets@gag.observ-gr.fr,
+     jcaswell@atnf.csiro.au, cerni@astro.iem.csic.es, kchan@solar.stanford.edu,
+     c.j.chandler@mrao.cam.ac.uk, cyj@center.shao.ac.cn,
+     chengalur@ncra.tifr.res.in, chikada@optik.mtk.nao.ac.jp,
+     cho@hanul.issa.re.kr, wayne@envy.astro.unc.edu, chris@oa.uj.edu.pl,
+     bclark@aoc.nrao.edu, fclark@plh.af.mil, clemens@protostar.bu.edu,
+     mhc@astro.caltech.edu, rjc@jb.man.ac.uk, trevor@ee.su.oz.au,
+     colomer@oan.es, bottaro@obspm.fr, combi@irma.edu.ar, jcondon@nrao.edu,
+     jconway@oso.chalmers.se, cordes@astrosun.tn.cornell.edu,
+     roberto@iagusp.usp.br, bcotton@nrao.edu, crane@susim.nrl.navy.mil,
+     D.L.Croom@rl.ac.uk, Jacques.Crovisier@obspm.fr, crutcher@astro.uiuc.edu,
+     dcudaback@astro.berkerley.edu, rdd@jb.man.ac.uk, mdavis@naic.edu,
+     rjd@jb.man.ac.uk, rdavis@cfa.harvard.edu, Catherine.deBergh@obspm.fr,
+     c.dejager@sron.ruu.nl, delanoe@observ.u-bordeaux.fr,
+     deruiter@astbo3.bo.astro.it, vicente@oan.es, deyoung@noao.edu,
+     dent@donald.astro.umass.edu, desh@rri.ernet.in,
+     despois@observ.u-bordeaux.fr, ped@drao.nrc.ca, vdhawan@nrao.edu,
+     lanie@astro.uiuc.edu, johnd@astro.uiuc.edu, john@ast1.astro.umn.edu,
+     rdickman@nsf.gov, rdixon@magnus.acs.ohio-state.edu,
+     dobashi@u-gakugei.ac.jp, borisd@mail.cplire.ru, sean.dougherty@hia.nrc.ca,
+     jnd@astro.as.utexas.edu, downes@iram.fr, downs@ll.mit.edu,
+     fdrake@ucolick.org, drake@lheavx.gsfc.nasa.gov, daf@fsao.spb.su,
+     dreher@phoenix.seti-inst.edu, p.j.duffett-smith@mrao.cam.ac.uk,
+     George.Dulk@obspm.fr, dwaraka@rri.ernet.in, rae@star.le.ac.uk,
+     rekers@atnf.csiro.au, elgaroy@astro.uio.no, simon.ellingsen@utas.edu.au,
+     demerson@nrao.edu, senome@nro.nao.ac.jp, eugene@almaak.usc.edu,
+     erickson@phys.utas.edu.au, martin.ewing@yale.edu, sfacondi@ira.bo.cnr.it,
+     hfalcke@mpifr-bonn.mpg.de, rfanti@astbo1.bo.cnr.it, edf@astro.psu.edu,
+     paul.feldman@hia.nrc.ca, mfelli@arcetri.astro.it,
+     felten@stars.gsfc.nasa.gov, lferetti@ira.bo.cnr.it, afey@alf.usno.navy.mil,
+     gfield@cfa.harvard.edu, drf@maia.usno.navy.mil, folred@nfra.nl,
+     efomalon@nrao.edu, fort@jpl.nasa.gov, forveill@gag.observ-gr.fr,
+     dfrail@nrao.edu, frater@bigpond.net.au, Per.Friberg@jach.hawaii.edu,
+     efuerst@mpifr-bonn.mpg.de, fukui@a.phys.nagoya-u.ac.jp, gabuzda@jive.nl,
+     gallego@cay.oan.es, jag@drao.nrc.ca, guido@das.uchile.cl, mag@jive.nfra.nl,
+     stg@jb.man.ac.uk, mike@bootes.hartrao.ac.za, gbg@saoran.spb.su,
+     genzel@mpens.mpe-garching.mpg.de, Eric.Gerard@obspm.fr, tgergely@nsf.gov,
+     fghigo@nrao.edu, gioia@galileo.ifa.hawaii.edu, ggiovannini@ira.bo.cnr.it,
+     sjg@astsun.astro.virginia.edu, gomez@oan.es, roger@astro.oma.be,
+     gk@gmrt.ernet.in, gopals@astro.umd.edu, mgordon@nrao.edu,
+     sgo@astro.uni.torun.pl, algor@sai.msu.su, gos@fsao.spb.su, mgoss@nrao.edu,
+     gott@astro.ufl.edu, dgraham@mpifr-bonn.mpg.de, fgs@jb.man.ac.uk,
+     gratch@isida.ipa.rssi.ru, a.green@physics.usyd.edu.au, dag9@cam.ac.uk,
+     gregorini@ira.bo.cnr.it, jane@orion.iagusp.usp.br, p_greg@physics.ubc.ca,
+     grewing@iram.fr, ua3thw@appl.sci-nnov.ru, guelin@iram.fr,
+     rguesten@mpifr-bonn.mpg.de, Samuel.Gulkis@jpl.nasa.gov,
+     s.f.gull@mrao.cam.ac.uk, ygupta@gmrt.ernet.in, lgurvits@jive.nfra.nl,
+     cgwinn@condor.physics.ucsb.edu, phall@atnf.csiro.au,
+     pip.hamilton@deakin.edu.au, hjl@ns.bao.ac.cn,
+     handa@ghz.mtk.ioa.s.u-tokyo.ac.jp, hanisch@stsci.edu, thankins@nrao.edu,
+     hardee@athena.astr.ua.edu, j.harnett@maths.uts.edu.au,
+     dharris@cfa.harvard.edu, ron.c.harten@lmoc.com, adh@card.haystack.edu,
+     tetsuo@ghz.mtk.ioa.s.u-tokyo.ac.jp, ghaslam@mpifr-bonn.mpg.de,
+     masa@optik.mtk.nao.ac.jp, haynes@astrosun.tn.cornell.edu,
+     rhaynes@atnf.csiro.au, hazard@mail.ast.cam.ac.uk, dheesche@nrao.edu,
+     Jean.Heidmann@obspm.fr, cheiles@astron.berkeley.edu,
+     helou@ipac.caltech.edu, chenkel@mpifr-bonn.mpg.de,
+     aheske@iso.vilspa.esa.es, a.hewish@mrao.cam.ac.uk, jhibbard@nrao.edu,
+     lah@drao.nrc.ca, r.e.hills@mrao.cam.ac.uk, hirax@vsop.isas.ac.jp,
+     hjalmar@oso.chalmers.se, rhjellmi@nrao.edu, pho@cfa.harvard.edu,
+     jahn@astro.su.se, hofner@astro3.cnnet.du.edu, dhogg@nrao.edu,
+     jan.m.hollis@gsfc.nasa.gov, whoward@usra.edu, huchtmeier@mpifr-bonn.mpg.de,
+     hughes@astro.lsa.umich.edu, hughes@physics.queensu.ca,
+     r.hunstead@physics.usyd.edu.au, inatani@nro.nao.ac.jp,
+     inoue@hotaka.mtk.nao.ac.jp, ipatov@ipa.rssi.ru,
+     irvine@fcrao1.astro.umass.edu, ishiguro@nro.nao.ac.jp, iwat@crl.go.jp,
+     cjackson@mso.anu.edu.au, njj@jb.man.ac.uk, jacq@observ.u-bordeaux.fr,
+     jaffe@strw.leidenuniv.nl, Michael.A.Janssen@jpl.nasa.gov,
+     djauncey@atnf.csiro.au, crj@ast.cam.ac.uk, pjewell@jach.hawaii.edu,
+     jsz@sun10.bao.ac.cn, leb@oso.chalmers.se, kjj@astro.usno.navy.mil,
+     phjj@hippo.ru.ac.za, dj@bllac.jpl.nasa.gov, p.jones@st.nepean.uws.edu.au,
+     jhjung@trao.re.kr, maykk@nicom.com, Kahlmann@nfra.nl, kmn@ipa.rssi.ru,
+     kalberla@astro.uni-bonn.de, kameya@miz.nao.ac.jp, vijay@ncra.tifr.res.in,
+     nkardash@dpc.asc.rssi.ru, vicky@space.mit.edu, kaufmann@usp.br,
+     kawabe@nro.nao.ac.jp, nrokent@nro.nao.ac.jp, kawamura@ioa.s.u-tokyo.ac.jp,
+     Ilya.Kazes@obspm.fr, kkellerm@nrao.edu, s.kenderdine@mrao.cam.ac.uk,
+     fkerr@astro.umd.edu, mkesteve@atnf.csiro.au, vkh@sao.ru,
+     jkijak@ca.wsp.zgora.pl, nkilleen@atnf.csiro.au, hgkim@trao.re.kr,
+     zin@appl.sci-nnov.ru, Ludwig.Klein@obspm.fr, uklein@astro.uni-bonn.de,
+     hkobaya@vsop.isas.ac.jp, kochar@appl.sci-nnov.ru, kotaro@nro.nao.ac.jp,
+     kojima@stelab.nagoya-u.ac.jp, akonov@ira.kharkov.ua, kor@saoran.spb.su,
+     mkramer@jb.man.ac.uk, kraus.2@osu.edu, ekreysa@mpifr-bonn.mpg.de,
+     tkrichbaum@mpifr-bonn.mpg.de, tkrishna@giasmd01.vsnl.net.in,
+     kronberg@astro.utoronto.ca, akrueger@aip.de, bk@astro.uni.torun.pl,
+     J.Kuijpers@fys.ruu.nl, kuiper@dsnra.jpl.nasa.gov, srk@astro.caltech.edu,
+     vasant@gmrt.ernet.in, nkumar@rri.ernet.in, kumkova@ipa.rssi.ru,
+     wkundt@astro.uni-bonn.de, kundu@astro.umd.edu, kuril@sai.msu.su,
+     ajk@astro.uni.torun.pl, mkutner@astro.as.utexas.edu, akuzmin@prao.psn.ru,
+     kwok@iras.ucalgary.ca, clada@cfa.harvard.edu, rl@mail.ast.cam.ac.uk,
+     tll@drao.nrc.ca, klang@pearl.tufts.edu, langer@nimba.jpl.nasa.gov,
+     glangsto@nrao.edu, Pierre.Lantos@obspm.fr, m.large@physics.usyd.edu.au,
+     ted@avatar.kennesaw.edu, a.n.lasenby@mrao.cam.ac.uk,
+     crl@jplsp3.jpl.nasa.gov, Anne-Marie.Lesqueren@obspm.fr, jpl@jb.man.ac.uk,
+     Yolande.Leblanc@obspm.fr, yulee@trao.re.kr, legg@hiaras.nrc.ca,
+     jacques@orion.iagusp.usp.br, A.and.A@obspm.fr, lesch@usm.uni-muenchen.de,
+     Jean-Francois.Lestrade@obspm.fr, leungc@rpi.edu, likkel@uwec.edu,
+     dcl@tacos.submm.caltech.edu, rene@astro.su.se, L.T.Little@ukc.ac.uk,
+     lnl@ira.kharkov.ua, liux@ms.xjb.ac.cn, kyl@www.asiaa.sinica.edu.tw,
+     jlockman@nrao.edu, nll@vilspa.esa.es, msl@mrao.cam.ac.uk,
+     lozinsk@sai.msu.su, thomas.luks@astro.ruhr-uni-bochum.de, agl@jb.man.ac.uk,
+     macchetto@stsci.edu, ghm@star.ukc.ac.uk, jimmacd@strauss.udel.edu,
+     maslowsk@oa.uj.edu.pl, john.macleod@hia.nrc.ca,
+     macrae@vela.astro.utoronto.ca, maehara@oao.nao.ac.jp,
+     rmanches@atnf.csiro.au, reno@tesre.bo.cnr.it, fmantovani@ira.bo.cnr.it,
+     rqmao@jets.pmo.ac.cn, hrsmaran@stars.gsfc.nasa.gov, jmm@vlbi.daa.uv.es,
+     marscher@bu.edu, rmartin@cfa.harvard.edu, martin@oan.es, marvel@aas.org,
+     mike.masheder@bristol.ac.uk, machalsk@oa.uj.edu.pl, colin@rentec.com,
+     D.N.Matheson@rl.ac.uk, dnm@orion.usno.navy.mil, matsuo@nro.nao.ac.jp,
+     Henry.Matthews@jach.hawaii.edu, kalevi.mattila@helsinki.fi,
+     lmatveen@vm1.iki.rssi.ru, mauers@as.arizona.edu, amaxwell@cfa.harvard.edu,
+     jmay@das.uchile.cl, b.mcadam@physics.usyd.edu.au, dmcconne@atnf.csiro.au,
+     pmcc@physvax.phys.utas.edu.au, dmclean@tip.csiro.au,
+     mebold@astro.uni-bonn.de, dlm@cena.jpl.nasa.gov, menon@astro.ubc.ca,
+     kmenten@mpifr-bonn.mpg.de, michalec@oa.uj.edu.pl, miley@strw.leidenuniv.nl,
+     dmilne@atnf.csiro.au, epmfm21@yubgss21.bg.ac.yu,
+     mirabel@ariane.saclay.cea.fr, mitchell@stars.gsfc.nasa.gov,
+     miyawaki@fukuoka-edu.ac.jp, miyoshi@miz.nao.ac.jp,
+     mizuno@a.phys.nagoya-u.ac.jp, montmerle@sapvxg.saclay.cea.fr,
+     moran@cfa.harvard.edu, morganti@ira.bo.cnr.it,
+     morimoto@cla.kagoshima-u.ac.jp, im@jb.man.ac.uk, morita@nro.nao.ac.jp,
+     rimorras@isis.unlp.edu.ar, morris@iram.fr, morris@astro.ucla.edu,
+     mosca@ca.astro.it, lgm@astro.umd.edu, robert-mutel@uiowa.edu,
+     twbm@jb.man.ac.uk, pmyers@cfa.harvard.edu, nadeau@astro.umontreal.ca,
+     vayak@astro.lgu.spb.su, nakajmki@cc.nao.ac.jp, nakano@nro.nao.ac.jp,
+     nrd@bao01.bao.ac.cn, mjn@astro.rug.nl, nicastro@ifcai.pa.cnr.it,
+     j.nicholls@physics.usyd.edu.au, george@bootes.hartrao.ac.za,
+     nishio@nro.nao.ac.jp, rnorris@atnf.csiro.au, odea@stsci.edu,
+     ogawa@a.phys.nagoya-u.ac.jp, ohishi@nro.nao.ac.jp, sokumura@nro.nao.ac.jp,
+     olberg@oso.chalmers.se, ohnishi@a.phys.nagoya-u.ac.jp,
+     lonuora@astr.cpes.susx.ac.uk, don@ucolick.org, josulliv@newscorp.com.au,
+     otmian@oa.uj.edu.pl, fowen@aoc.nrao.edu, apacholczyk@as.arizona.edu,
+     r.padman@mrao.cam.ac.uk, padrielli@ira.bo.cnr.it,
+     ppalmer@oskar.uchicago.edu, vpankoni@nsf.gov, par@sao.ru,
+     E.A.Parker@ukc.ac.uk, parma@ira.bo.cnr.it, jpasachoff@williams.edu,
+     ipauliny@mpifr-bonn.mpg.de, pauls@atlas.nrl.navy.mil,
+     tjp@astro.caltech.edu, ap@jb.man.ac.uk, pb@bao01.bao.ac.cn, ipf@iac.es,
+     rperley@nrao.edu, wpeters@as.arizona.edu, ghp@space.mit.edu,
+     phillips@tacos.submm.caltech.edu, Monique.Pick@obspm.fr, planesas@oan.es,
+     pogrebenko@jive.nl, apolatid@oso.chalmers.se, jebp@jb.man.ac.uk,
+     g.g.pooley@mrao.cam.ac.uk, rporcas@mpifr-bonn.mpg.de,
+     rap@sgra.jpl.nasa.gov, epreuss@mpifr-bonn.mpg.de, rmprice@atnf.csiro.au,
+     jjpuschell@west.raytheon.com, rqsj@bao01.bao.ac.cn, qiu@bao01.bao.ac.cn,
+     sradford@nrao.edu, rad@rri.ernet.in, exr@nfra.nl,
+     reuven@lheavx.gsfc.nasa.gov, pramesh@ncra.tifr.res.in,
+     Antoinette.Raoult@obspm.fr, tr@cp.dias.ie, razin@nirfi.sci-nnov.ru,
+     acr@astro.caltech.edu, wreich@mpifr-bonn.mpg.de, mreid@cfa.harvard.edu,
+     kreif@astro.uni-bonn.de, reyes@astro.ufl.edu, jreynold@atnf.csiro.au,
+     rhee@csa.yonsei.ac.kr, j.s.richer@mrao.cam.ac.uk, rickard@rsd.nrl.navy.mil,
+     bjricket@ucsd.edu, Nguyen-Quang.Rieu@obspm.fr, j.m.riley@mrao.cam.ac.uk,
+     rioja@oan.es, rizzo@irma.edu.ar, roberts@binah.cc.brandeis.edu,
+     mroberts@nrao.edu, g.robertson@physics.usyd.edu.au,
+     brobinso@ozemail.com.au, hrsrobinson@hrs.gsfc.nasa.gov,
+     luisfr@alfa.astroscu.unam.mx, pjotr@sron.rug.nl, bor@oso.chalmers.se,
+     hans-peter.roeser@dlr.de, rsr@drao.nrc.ca, arogers@card.haystack.edu,
+     jromney@nrao.edu, barrie_Rowson@compuserve.com, rubin@cygnus.arc.nasa.gov,
+     mrubio@das.uchile.cl, larry@ast1.astro.umn.edu, gmr@sai.msu.su,
+     p275ruf@mpifr-bonn.mpg.de, jrussell@milkyway.gsfc.nasa.gov,
+     gustaf@oso.chalmers.se, strys@oa.uj.edu.pl, djs@ncra.tifr.res.in,
+     seiichi@nro.nao.ac.jp, csalter@naic.edu, sandell@jach.hawaii.edu,
+     sanders@ifa.hawaii.edu, afs@astro.caltech.edu, sarma@rri.ernet.in,
+     csastry@iiap.ernet.in, sato@yamabuki.u-gakugei.ac.jp,
+     r.d.e.saunders@mrao.cam.ac.uk, as@aaocbn3.aao.gov.au, sawant@das.inpe.br,
+     scalise@das.inpe.br, p.a.g.scheuer@mrao.cam.ac.uk, rts@nfra.nl,
+     mxs@deimos.caltech.edu, pschwart@ccsalpha3.nrl.navy.mil,
+     p.f.scott@mrao.cam.ac.uk, seaquist@astro.utoronto.ca, jhs@astro.auth.gr,
+     sekimoto@nro.nao.ac.jp, setti@ira.bo.cnr.it, dbs@bootes.gsfc.nasa.gov,
+     j.r.shakeshaft@mrao.cam.ac.uk, sh130@appl.sci-nnov.ru, pshaver@eso.org,
+     shibata@hotaka.mtk.nao.ac.jp, shmeld@acad.latnet.lv,
+     gsholomi@vm1.iki.rssi.ru, dls@jb.man.ac.uk, sieber@kr.fh-niederrhein.de,
+     asingal@prl.ernet.in, skillman@ast1.astro.umn.edu,
+     marty@radarsun.jpl.nasa.gov, bslee@atnf.csiro.au, vslysh@dpc.asc.rssi.ru,
+     asmith@astro.ufl.edu, smolen@isida.ipa.rssi.ru, sns@homesao.spb.su,
+     sod@ira.kharkov.ua, sofue@mtk.ioa.s.u-tokyo.ac.jp, ksokolov@hotmail.com,
+     soroch@sci.lebedev.ru, spencer@rsd.nrl.navy.mil, res@jb.man.ac.uk,
+     spoelstra@nfra.nl, dsramek@nrao.edu, carlo@ira.noto.cnr.it,
+     ds@jb.man.ac.uk, Jean-Louis.Steinberg@obspm.fr,
+     m.storey@physics.usyd.edu.au, stotskii@isida.ipa.rssi.ru, strom@nfra.nl,
+     istrukov@vm1.iki.rssi.ru, D43000g@nucc.cc.nagoya-u.ac.jp,
+     sukumar@drao.nrc.ca, woody@astro.washington.edu, sunada@nro.nao.ac.jp,
+     gswarup@ncra.tifr.res.in, gswenson@uiuc.edu, tabara@utsunomiya-u.ac.jp,
+     takaba@crl.go.jp, takano@nro.nao.ac.jp, tarter@phoenix.seti-inst.edu,
+     tatematsu@nro.nao.ac.jp, russ@ras.ucalgary.ca, plintel@atnf.csiro.au,
+     tello@das.inpe.br, hte@kurp.hut.fi, terzian@astrosun.tn.cornell.edu,
+     pt@jb.man.ac.uk, athompso@nrao.edu, tlamicha@asu.cas.cz,
+     gtofani@arcetri.astro.it, crt@virginia.edu, tomasi@ira.bo.cnr.it,
+     merja.tornikoski@hut.fi, torrelles@iaa.es, trigilio@ira.noto.cnr.it,
+     kpt@ast.cam.ac.uk, troland@pa.uky.edu, Truong-Bach@obspm.fr, satr@sao.ru,
+     tsutsumi@nro.nao.ac.jp, bturner@nrao.edu, turner@astro.ucla.edu,
+     ken@ORE.UPR.CLU.EDU, t.turtle@physics.usyd.edu.au, atzioumi@atnf.csiro.au,
+     uday@rri.ernet.in, ukita@nro.nao.ac.jp, mulrich@eso.org,
+     julvesta@aoc.nrao.edu, umana@ira.noto.cnr.it, unwin@huey.jpl.nasa.gov,
+     seppo.urpo@hut.fi, juson@nrao.edu, jacques.vallee@hia.nrc.ca,
+     valtaoja@sara.cc.utu.fi, mavalto@sara.cc.utu.fi, ivaltts@dpc.asc.rssi.ru,
+     j.m.van.der.hulst@astro.rug.nl, vdkruit@astro.rug.nl, vdlaan@fys.ruu.nl,
+     Wim.vanDriel@obspm.fr, jvangork@astro.columbia.edu, langevelde@jive.nl,
+     secr@astro.rug.nl, pvandenb@nrao.edu, ips@prl.ernet.in,
+     alanv@macastro.mpce.mq.edu.au, tventuri@ira.bo.cnr.it, vo@sao.ru,
+     rcv@nfra.nl, veron@obs-hp.fr, verschuur@aol.com,
+     verter@stars.gsfc.nasa.gov, vilas@snmail.jsc.nasa.gov,
+     vivek@ncra.tifr.res.in, vogel@astro.umd.edu, cwalker@nrao.edu,
+     jvw@mail.ast.cam.ac.uk, dw@jb.man.ac.uk, wangsg@bao01.bao.ac.cn,
+     wannier@jplsp.jpl.nasa.gov, wardle1@binah.cc.brandeis.edu,
+     rwarmels@eso.org, p.j.warner@mrao.cam.ac.uk, aew@ipac.caltech.edu,
+     wmz@ucolick.org, weigelt@mpifr-bonn.mpg.de, ed.weiler@hq.nasa.gov,
+     weiler@rsd.nrl.navy.mil, kwelling@atnf.csiro.au,
+     hjwendker@hs.uni-hamburg.de, westerhout@compuserve.com,
+     jwhiteoa@atnf.csiro.au, rwielebinski@mpifr-bonn.mpg.de,
+     tommy@oso.chalmers.se
+Subject: RFI Mitigation Workshop
+
+Dear IAU Commission 40 Members,
+
+
+as many of you may be aware already, IUCAF and the IAU Working Group on RFI Mitigation are organizing a workshop on RFI mitigation. Attached I send you the announcement, with the understanding that the agenda is still provisional and further contributions are welcome, as well as participants, who want to bring themselves up-to-date in this new and fast developing field of research. 
+
+I apologize for the inconvenience, if this hits you repeatedly.
+
+If you are interested, you may also check the IUCAF home page occasionally for updates of the announcement.
+
+
+Kind regards,
+
+
+Klaus Ruf
+
+
+--=====================_982680304==_
+Content-Type: TEXT/PLAIN; CHARSET=iso-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-ID: <Pine.SOL.4.10.10102212255232.7024@iaa3>
+Content-Description: 
+Content-Disposition: ATTACHMENT; FILENAME="RFI.htm"
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv=3D"Content-Type" content=3D"text/html;=
+ charset=3Diso-8859-1">
+   <meta name=3D"Generator" content=3D"Microsoft Word 97">
+   <meta name=3D"GENERATOR" content=3D"Mozilla/4.6 [en-gb] (Win95; I)=
+ [Netscape]">
+   <title>First Announcement</title>
+</head>
+<body link=3D"#0000FF">
+&nbsp;
+<center>
+<br><u>SECOND ANNOUNCEMENT</u>
+<p><b><u><font size=3D+3>RFI-MitigationWorkshop</font></u></b>
+<p>COSPONSORED BY
+<p><b><u><font size=3D+2>IUCAF</font>,</u></b>
+<p><b><font size=3D+2><u>IAU </u>(Division X, RFI Mitigation Working=
+ Group),</font></b>
+<p><b><font size=3D+2>and</font></b>
+<p><b><font size=3D+2>EC-ICN, Infrastructure Cooperation Network in Radio
+Astronomy</font></b></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p><b>Date:</b> 28. =96 30. March, 2001
+<p><b>Venue: </b>Max-Planck-Institut f&uuml;r Radioastronomie, Bonn, Germany
+<br>&nbsp;
+<br>&nbsp;
+<p><b><u>Organization of the workshop:</u> </b>The workshop will take place
+at the Max-Planck-Institut fuer Radioastronomie in Bonn, Germany. The topic
+of the workshop is described in the first announcement (see IUCAF Homepage
+at http://www.mpifr-bonn.mpg.de/iucaf/).
+<p>If you are interested in the workshop, send an email to IUCAF at:
+<center>
+<p>Klaus Ruf &lt;kruf@mpifr-bonn.mpg.de></center>
+
+<p>Hotel rooms have been reserved at the MPI Guesthouse (30 DM/night),
+hotels Altes Treppchen (5 minutes walking distance, 135 DM/night), Mozart,
+and Schwan (neighboring hotels at 130 DM/night, each, both at 20 minutes
+walking distance to MPI, direct bus connection, close to the railway station
+and the city center).
+<p>If you want us to book a room for you, please send an email to:
+<center>
+<p>Margot Schmitz &lt;mschmitz@mpifr-bonn.mpg.de></center>
+
+<p>We will try to respect your preference, but only a limited number of
+rooms is available in each one of the places. Prices and quality are very
+similar, however. We may preferentially book participants, arriving by
+car, into Altes Treppchen, which provides car parking.
+<br>&nbsp;
+<br>&nbsp;
+<p><b><u>Contributions:</u></b> If you haven=92t done so, already, please
+inform me, if you plan to give a presentation of your work. The plan still
+is, to put all contributions together as workshop proceedings.
+<p><b><u>Support:</u></b> If you wish to attend but have difficulties to
+find the necessary travel money in your institute or observatory, you may
+apply for support from IUCAF.
+<br>&nbsp;
+<br>&nbsp;
+<p><b><u>Workshop program: </u></b>The workshop aims at a fully sampled
+picture of RFI avoidance and mitigation techniques used in radio astronomy,
+a careful evaluation of these methods, and at laying the basis for solid
+input into the world of radio spectrum management and regulation. So, the
+workshop will bring together different communities and provide an excellent
+opportunity to learn from each other. The provisional schedule is as follows
+(the schedule will be updated regularly following your responses, so please
+consult the IUCAF homepage occasionally):
+<br>&nbsp;
+<br>&nbsp;
+<br>
+<center>
+<p><b><u>Wednesday, March 28<sup>th</sup></u></b></center>
+
+<p><b>Morning session:</b>
+<dir>
+<dir>Welcome, opening, introduction, etc
+<p><u>The Regulatory Environment</u>
+<p>chair: Tom Gergely
+<p>review: Willem Baan
+<p>speakers: Klaus Ruf, Jerzy Usowicz, Tom Gergely and others
+<br>&nbsp;
+<p><u>Impacts on System Design</u>
+<p>chair: NN
+<p>speakers: Arnold van Ardenne</dir>
+</dir>
+
+<p><br><u>Afternoon session:</u>
+<dir>
+<dir><u>Analog Filtering</u>
+<p>chair: Ken Tapping
+<p>review: Reinhard Keller
+<p>speakers: Chaloupka, Wolfgang Reich, Jan-Geralt bij deVaate and others
+<br>&nbsp;
+<br>&nbsp;</dir>
+</dir>
+
+<center><b><u>Thursday, March 29<sup>th</sup></u></b></center>
+
+<p><u>Morning Session:</u>
+<dir>
+<dir><u>Digital Signal Processing and Algorithms</u>
+<p>chair: Tasso Tzioumis
+<p>review: Peter Fridman
+<p>speakers: Michael Kesteven, Rick Fisher, Briggs, Steve Ellingson, Michael
+Kramer, and others
+<p><u>Practical Problems at Observatories</u>
+<p>chair: NN
+<p>speakers: Ernst Fuerst, and others</dir>
+</dir>
+<u>Afternoon Session:</u>
+<dir>
+<dir><u>Array Processing</u>
+<p>chair: Michael Kesteven
+<p>review: Alle-Jan van der Veen
+<p>speakers: Amir Leshem, Geoff Bower, Dave Graham, and others
+<br>&nbsp;
+<br>&nbsp;</dir>
+</dir>
+
+<center><b><u>Friday, March 30th</u></b></center>
+
+<p><u>Morning session:</u>
+<br>&nbsp;
+<blockquote>
+<blockquote><u>Monitoring standards and equipment</u>
+<p>Chair: NN
+<p>review: Albert-Jan Boonstra
+<p>speakers:
+<p><u>Robust Receivers</u>
+<p>chair: Ernst Fuerst
+<p>review: Bert Woestenburg
+<p>speakers: Carlo Rossolen, Stelio Montebugnoli, Bob Sault, Vincent Clerc,
+Gino Tuccari, Russel Gough, and others</blockquote>
+</blockquote>
+<u>Afternoon Session:</u>
+<dir>
+<dir><u>Conclusions</u>
+<p>chair: Klaus Ruf
+<p>speakers: all
+<p>organization of continuation of work, foundation of IUCAF interference
+mitigation work, discussion of final report, identification of input to
+ITU-R WP7D
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;
+<br>&nbsp;</dir>
+</dir>
+<b><u>NOTE:</u></b> Some of the speakers listed above have indicated, that
+they may not be available at the time of the workshop. Their presentation
+may actually be given by a colleague.
+<br>&nbsp;
+<br>&nbsp;
+<p>An excursion is planned to the Effelsberg 100 m telescope, which is
+40 km south of Bonn, for Friday afternoon after the session. This may take
+a while and we may not be back before later in the evening. Please consider
+when planning your trip.
+<p>This program is still provisional. Please help to improve and complete
+it. Please send the titles of your contributions, if you want to contribute.
+But you are also welcome, if you just want to learn and discuss.
+<p>If you have practical questions, please don=92t hesitate to contact=
+ Margot
+Schmitz or myself.
+<br>&nbsp;
+<center>
+<p><u>FIRST ANNOUNCEMENT</u>
+<p><b><u><font size=3D+2>IUCAF RFI-Mitigation=
+ Workshop</font></u></b></center>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<p><b>Date:</b> 28. =96 30. March, 2001
+<p><b>Venue: </b>Max-Planck-Institut f&uuml;r Radioastronomie, Bonn, Germany
+<br>&nbsp;
+<br>&nbsp;
+<p><b><u>Organization of the workshop:</u> </b>The work shop will be=
+ organized
+at the Max-Planck-Institut fuer Radioastronomie in Bonn, Germany, by the
+chairman of IUCAF with, hopefully, some local help. The topic of the work
+shop is described below.
+<p>This announcement will go out to some e-mail exploders like IUCAF, WP7D,
+and to some groups or individuals, who I happen to know are working in
+one of the RFI mitigation fields. If you are interested in the workshop,
+send an email to IUCAF at:
+<center>
+<p>Klaus Ruf &lt;kruf@mpifr-bonn.mpg.de></center>
+
+<p>and I will put you on the list. Please inform others, who you assume
+are interested and may not yet be included.
+<p><b><u>Contributions:</u></b> Please inform me, if you are prepared to
+give a presentation of your related work. The plan is, to put all=
+ contributions
+together as workshop proceedings.
+<p>After some initial responses I will start to outline a work shop program
+and send it out together with a registration form.
+<p><b><u>Support:</u></b> If you wish to attend but have difficulties to
+find all of the necessary travel money in your institute or observatory,
+you may apply for support from IUCAF. The available funds are limited,
+so please negotiate hard at home first.
+<br>&nbsp;
+<br>&nbsp;
+<br>
+<center>
+<p><b><u><font size=3D+2>RFI Mitigation</font></u></b></center>
+
+<p><b>1.<u> Introduction:</u> </b>Radio astronomy critically depends on
+the ability to observe at the limits of sensitivity, and that these limits
+are not set by man-made interference.
+<p>Tackling RFI is a two fold process:
+<ol>
+<li>
+it involves regulatory work e.g. in the ITU-R,</li>
+
+<li>
+it is a technological challenge to make ourselves as immune as=
+ possible.</li>
+</ol>
+These two processes are now beginning to merge, and it is high time they
+do.
+<p>Regulatory work has started early, in 1956 or so, when radio astronomy
+was introduced into the radio regulations of the ITU, which led to a number
+of frequency allocations as well as to a number of recommendations, dealing
+with the living together with transmitting services in shared and=
+ neighboring
+frequency bands.
+<p>Techniques to observe through interference have been known also for
+a long time and are used in other radio services, but only more recently
+have become a separate field of research within the radio astronomy=
+ community.
+The explosive growth of the use of radio will make protection measures
+more and more necessary and possibly even an obligation.
+<p><b>2. <u>The Regulatory Environment:</u> </b>Radio astronomy is a=
+ recognized
+radio service with a number of entries in the international table of=
+ frequency
+allocations. Some of these frequency bands are shared with transmitting
+services, others are "exclusively passive". The co-existence with=
+ transmitting
+services, which normally employ signal strengths orders of magnitude higher
+than faint cosmic signals, is regulated by the Radio Regulations of the
+International Telecommunication Union, ITU, and a number of recommendations.
+One of these recommendations, Rec. ITU-R RA 769, developed within the Radio
+Communication Sector of ITU, contains threshold values, above which=
+ transmitted
+power or field strength from transmitters of active services within the
+radio astronomy bands is considered interference. These threshold values
+are calculated based on the sensitivity of radio telescopes and are=
+ accordingly
+low.
+Radiocommunication services, especially new ones, which have to look for
+new allocations in the already crowded spectrum, consider these threshold
+limits they have to meet in our frequency bands as a heavy burden, and
+we are hearing more and more often that this burden is also undue.
+<p>The sensitivity of our equipment is beyond debate, and so is the weakness
+of the sources we observe, but we are explained that techniques exist and
+are employed by radiocommunication services, so-called "mitigation=
+ techniques",
+which are designed to ease co-existence, and we are told by telecom=
+ regulators
+and by other "active" spectrum users that such factors could apply to radio
+astronomy as well.
+<p><b>3.<u>RFI Suppression:</u></b> Several techniques have been developed
+and employed by radio astronomers over the years to suppress RFI in=
+ observational
+data. They range from filters and radar blankers to null steering in=
+ telescope
+arrays, adaptive filtering, and, more recently, sophisticated mathematical
+modeling using high speed digital signal processing. The results of some
+of these developments are very encouraging, but the applicability is=
+ generally
+limited to certain types of instruments or observing programs. It may be
+difficult, but necessary to explain that techniques, which are helpful
+to recover spectral line observations from heavy interference, e.g. OH-lines
+buried under GLONASS emissions, may not be useful to clean maps of polarized
+continuum emission, or that radar blankers may screw up VLBI observations,
+and little has been published so far on the successful suppression of=
+ unrecognized,
+low-level interference. Hence, the extent to which these techniques can
+be used advantageously needs to be clarified, for our own as well as our
+fellow radio services=92 understanding.
+<p><b>4. <u>Purpose and perspective of the workshop:</u></b> The main=
+ purpose
+of the workshop is to bring together radio astronomy experts from all fields
+of RFI suppression and make an inventory of what is going on where. The
+evaluation of the different techniques shall be started and preliminary
+conclusions put together.
+<p>Mitigation techniques and mitigation factors have started to play a
+role in the regulatory environment, because our competitors for spectrum
+already argue that they can be added, in dB, to our interference threshold
+limits. Working Party 7D (Radio Astronomy) of the ITU-R has therefore=
+ proposed
+a Study Question on the applicability of interference mitigation techniques
+to the radio astronomy service. In order to answer this question, WP7D
+needs input documents, which can be discussed and which may provide the
+technical basis for an eventual later recommendation. IUCAF as a recognized
+organization within ITU-R, dealing with radio astronomy and other scientific
+radio services, is best suited to initiate the discussions and sum up the
+conclusions for input to the ITU-R Working Party 7D.
+<p>For follow-up discussions and evaluations, and for the production of
+input to WP7D, an IUCAF Interference Mitigation Working Group shall be
+set up during the workshop, which will continue to work mostly by e-mail
+correspondence.
+<center>
+<p>______________</center>
+
+<br>&nbsp;
+<br>&nbsp;
+<br>
+</body>
+</html>
+
+--=====================_982680304==_
+Content-Type: TEXT/ENRICHED; CHARSET=us-ascii
+Content-ID: <Pine.SOL.4.10.10102212255233.7024@iaa3>
+Content-Description: 
+
+
+
+
+
+
+_________________________________________
+
+() Klaus Ruf					()
+
+() Max-Planck-Institut fuer Radioastronomie		()
+
+() Auf dem Huegel 69				()
+
+() D-53121 Bonn, Germany			()
+
+() Tel.: +49 228 525255				()
+
+<underline>() Fax.: +49 228 525229</underline>______________________	()
+--=====================_982680304==_--
+

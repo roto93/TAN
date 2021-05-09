@@ -1,0 +1,40 @@
+> Date: Sun, 2 Jun 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Fred Adams (University of Michigan)
+Topic:        Effects of Clusters on Star/Planet Formation and Possible Constraints on the Birth Environment of the Solar System
+Time:        6/7 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Most stars -- and hence most solar systems -- form within groups and
+clusters.  The first objective of this talk is to explore how these
+star forming environments affect solar systems forming within them.
+The discussion starts with the dynamical evolution of young clusters
+with N = 100 - 3000 members. We use N-body simulations to study how
+evolution depends on system size and initial conditions.  Multiple
+realizations of equivalent cases are used to build up a robust
+statistical description of these systems, e.g., distributions of
+closest approaches and radial locations.  These results provide a
+framework from which to assess the effects of clusters on solar system
+formation. Distributions of radial positions are used in conjunction
+with UV luminosity distributions to estimate the radiation exposure of
+circumstellar disks. Photoevaporation models determine the efficacy of
+radiation in removing disk gas and compromising planet formation. The
+distributions of closest approaches are used in conjunction with
+scattering cross sections to determine probabilities for solar system
+disruption. The result of this work is a quantitative determination of
+the effects of clusters on forming solar systems. The second objective
+of this talk is to use these results to place constraints on the
+possible birth environments for our own solar system. These latter 
+results are more uncertain than the first ones, but provide interesting 
+perspectives on our place in the universe.
+
+==============================================================================

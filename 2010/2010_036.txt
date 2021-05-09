@@ -1,0 +1,205 @@
+From wyhwang@phys.ntu.edu.tw Thu Mar 11 17:32:54 2010
+Date: Thu, 11 Mar 2010 17:32:50 +0800 (CST)
+From: Pauchy W-Y.Hwang <wyhwang@phys.ntu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: SKA Newsletter Vol 17 (fwd)
+
+It's nice to share the newletter. Pauchy
+
+---------- Forwarded message ----------
+Date: Fri, 5 Mar 2010 19:52:49 -0000
+From: Colin Greenwood <greenwood@skatelescope.org>
+To: SKA General Distribution <ska@skatelescope.org>
+Cc: Newsletter Subscribers <news-subscribe@skatelescope.org>
+Subject: SKA Newsletter Vol 17
+
+Dear All, 
+
+SKA Newsletter vol. 17 is now available from
+www.skatelescope.org/PDF/news/SKA_NEWSLETTER_VOLUME_17.pdf.
+
+Apologies for the delay in publishing the latest SKA Newsletter - it's been
+a tremendously busy time on the project as staff at the SPDO have focused on
+the recent System Conceptual Design Review meeting and preparations for the
+SKA 2010 science and engineering meeting in Manchester, GB, on 22-25 March
+2010.
+
+The format of the SKA Newsletter will change to a quarterly e-newsletter
+from the next issue. The new format will be easier to digest and will ensure
+that everyone is kept regularly updated with progress. Expect the new-look
+SKA newsletter to arrive in your inbox in July.
+
+Updates to the International SKA website include: 
+
+1. UPCOMING MEETINGS 
+
+> Canadian Astronomy Long Range Plan Town Hall meeting: 9-10 March 2010,
+Calgary, AB, CA
+> CAP2010: Communicating Astronomy with the Public 2010: 15-19 March 2010,
+Cape Town, ZA
+> SKA2010: 22-25 March 2010, Manchester, GB
+> SKA Science and Engineering Committee meeting (by invitation only): 26-28
+March 2010, Manchester, GB
+> RFI 2010 - RFI Mitigation Workshop: 29-31 March 2010, Groningen, NL
+> European Cooperation in Science and Technology (COST) Workshop: 30-31
+March 2010, Rome, IT
+> RAS NAM2010: 12-16 April 2010, Glasgow, GB
+> International Workshop on Phased Array Antenna Systems for Radio
+Astronomy: 3-5 May 2010, Provo, UT, US
+> Radionet Board meeting: 4-5 May 2010, Sardinia, IT
+> Astronomy with Megastructures: Joint Science with the E-ELT and SKA: 10-14
+May 2010, Crete, GR
+> CASCA 2010: Canadian Astronomical Society meeting: 25-28 May 2010,
+Halifax, NS, CA
+> US SKA Consortium meeting (by invitation only): 3-4 June 2010, Washington
+DC, US
+> A New Golden Age for Radio Astronomy: First Results from the New
+Generation of Radio Telescopes: 10-14 June 2010, Assen, NL
+> LOFAR Inauguration (by invitation only):12 June 2010, Exloo, NL
+> Agencies SKA Group meeting (by invitation only): 14 June 2010, Assen, NL
+> CISS: Connect Industry, Science and Society workshop (by invitation only):
+14 June 2010, Assen, NL
+> International SKA Forum 2010 (by invitation only): 15 June 2010, Assen, NL
+> PrepSKA Board and Working Group meetings (by invitation only): 16 June
+2010, Drenthe, NL
+> SPIE 2010: Astronomical Telescopes and Instrumentation: 27 June - 2 July
+2010, San Diego, CA, US
+> 38th Scientific Assembly of the Committee on Space Research (COSPAR 2010):
+18-15 July 2010, Bremen, DE
+> CASPER 2010: Center for Astronomy Signal Processing and Electronics
+Research Workshop 2010: 16-20 August 2010, Cambridge, MA, US
+> CALIM: SKA Calibration and Imaging Workshop 2010: 22-27 August 2010,
+Dwingeloo, NL
+> JENAM 2010: 6-10 September 2010, Lisbon, PT
+> German Astronomical Society: "Zooming in: The Cosmos at High Resolution":
+13-17 September 2010, Bonn, DE
+> 10th European VLBI Network Symposium: VLBI and the New Generation of Radio
+Arrays: 20-24 September 2010, Manchester, GB
+> Annual PrepSKA WP2 meeting: 18-21 October 2010, Manchester, GB
+> SKA Science and Engineering Committee meeting (by invitation only): 24-26
+October 2010, Rome, IT
+
+
+2. DOCUMENTS & PRESENTATIONS 
+
+2.1 SKA MEMOS
+
+121 - Cost-effective infrastructure in a multi-antenna telescope layout, G.
+Gregorescu et al
+120 - The SKA Costing and Design Tool, D. Ford et al
+119 - Data Transmission Cost Scaling for Long Baselines in the SKA, R.
+McCool
+118 - Focal Plane Array Simulations with MeqTrees III: Observations with an
+AzEl Mount Telescope, A.G. Willis
+117 - Focal Plane Array Simulations with MeqTrees II: Noise Analysis, A.
+Gray and A.G. Willis
+116 - Feasibility and Cost Study of Manufacturing Composite Parabolic
+Reflectors for the SKA, G.M. Woods and The CART Group
+115 - Focal Plane Array Simulations with MeqTrees 1: Beamforming, A.G.
+Willis et al
+107 - Array Configuration Studies for the SKA - Implementation of Figures of
+Merit Based on Spatial Dynamic Range, D.V. Lal et al
+
+2.2 PRESENTATIONS 
+Power Investigation Task Force meeting (23 Oct 2009) Presentations
+http://www.skatelescope.org/pages/PITF_23Oct2009/pitf_091023.htm
+
+Annual PrepSKA WP2 meeting Presentations
+http://www.skatelescope.org/pages/WP2_29Oct2009/wp2_291009.htm
+
+2.3 PAPERS
+
+> D.V. Lal et al, Array configuration studies for the Square Kilometre Array
+- Implementation of figures of merit based on spatial dynamic range,
+arXiv:1001.1477v1 [astro-ph.IM].
+> E.J. Murphy, The Far-Infrared-Radio Correlation at High Redshifts:
+Physical Considerations and Prospects for the Square Kilometre Array,
+Astro-ph.CO, arXiv:0910.0011v1.
+> B. Peng et al, Preparatory Study for Constructing FAST, the World's
+Largest Single Dish, Proceedings of the IEEE, Vol. 97, Issue 8, p1391-1402.
+> S.W. Ellingson et al, The Long Wavelength Array, Proceedings of the IEEE,
+Vol. 97, Issue 8, p1421-1430.
+> M. de Vos et al, The LOFAR Telescope: System Architecture and Signal
+Processing, Proceedings of the IEEE, Vol. 97, Issue 8, p1431-1437.
+> J. Welch et al, The Allen Telescope Array: The First Widefield,
+Panchromatic, Snapshot Radio Camera for Radio Astronomy and SETI,
+Proceedings of the IEEE, Vol. 97, Issue 8, p1438-1447.
+> R. Perley et al, The Expanded Very Large Array, Proceedings of the IEEE,
+Vol. 97, Issue 8, p1448-1462.
+> A. Wootten & A.R Thompson, The Atacama Large Millimeter/Submillimeter
+Array, Proceedings of the IEEE, Vol. 97, Issue 8, p1463-1471.
+> U. Rau et al, Advances in Calibration and Imaging Techniques in Radio
+Interferometry, Proceedings of the IEEE, Vol. 97, Issue 8, p1472-1481.
+> C.J. Lonsdale et al, The Murchison Widefield Array: Design Overview,
+Proceedings of the IEEE, Vol. 97, Issue 8, p1497-1506.
+> D.R. DeBoer et al, Australian SKA Pathfinder: A High-Dynamic Range
+Wide-Field of View Survey Telescope, Proceedings of the IEEE, Vol. 97, Issue
+8, p1507-1521.
+> J.L. Jonas, MeerKAT-The South African Array With Composite Dishes and
+Wide-Band Single Pixel Feeds, Proceedings of the IEEE, Vol. 97, Issue 8,
+p1522-1530.
+> A. van Ardenne et al, Extending the Field of View With Phased Array
+Techniques: Results of European SKA Research, Proceedings of the IEEE, Vol.
+97, Issue 8, p1531-1542
+> H. Rottgering, SPICA and the Upcoming Revolution in Radio Astronomy, SPICA
+Workshop, 04010 (2009).
+
+If you would like your SKA-related paper to be added to the International
+SKA website then please send it to <enquiries@skatelescpe.org>.
+
+
+3. PICTURES & MOVIES
+
+The new SKA animation can be viewed at
+http://www.skatelescope.org/pages/factsandfigures.htm.
+
+The SKA logo and new pictures from this animation can be viewed at
+http://www.skatelescope.org/pages/journ_hrimages.htm
+
+
+4. OUTREACH 
+
+SKA Science and Engineering Fact Sheet
+http://www.skatelescope.org/PDF/100304_SKA_Factsheet-Scientists-Engineers.pd
+f
+
+SKA Industry Fact Sheet
+http://www.skatelescope.org/PDF/100304_Industry_Factsheet.pdf
+
+
+5. NEWSLETTER ARCHIVE 
+
+Back issues of the SKA newsletter can be viewed at:
+www.skatelescope.org/pages/page_newsletters.htm 
+
+
+6. SKA SCIENCE AND ENGINEERING COMMITTEE (SSEC) MEMBERS: 
+
+Jim Ulvestad has stepped down from the SSEC and has been replaced by Athol
+Kemball <akemball@illinois.edu>.  We would like to thank Jim for his support
+and hard work in driving the SKA programme whilst serving on the SSEC.  We
+look forward to welcoming Athol at the SSEC 4 meeting in Manchester, GB, on
+26-28 March 2010.
+
+
+
+Kind regards
+Colin Greenwood
+
+
+---
+Executive Officer 
+SKA Program Development Office 
+Jodrell Bank Centre for Astrophysics 
+Rm 3.116, Alan Turing Building 
+The University of Manchester 
+Oxford Road 
+Manchester 
+M13 9PL, UK 
+
+Tel: +44 (0)161 275 4063 
+Fax: +44 (0)161 275 4049 
+Email: greenwood@skatelescope.org 
+Web: www.skatelescope.org 
+
+

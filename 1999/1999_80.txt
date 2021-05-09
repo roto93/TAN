@@ -1,0 +1,62 @@
+From kyl@asiaa.sinica.edu.tw Tue Apr 13 09:31:08 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA18233; Tue, 13 Apr 1999 09:14:14 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA12905; Tue, 13 Apr 1999 09:11:03 +0800
+Date: Tue, 13 Apr 1999 09:11:01 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Announcing ISOLWS Workshop (fwd)
+Message-Id: <Pine.GSO.3.96.990413091058.24359B-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1467
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 12 Apr 1999 16:56:45 -0700
+From: nancys@ipac.caltech.edu
+To: kyl@astro.uiuc.edu
+Subject: Announcing ISOLWS Workshop
+
+Announcement of IPAC's Second LWS Data Reduction Workshop
+
+
+IPAC announces its Second LWS Data Reduction Workshop to be held from June
+21-25, 1999.  The workshop will be an intensive 5-day course where the 
+participants will reduce their own data, on individual workstations, with 
+the assistance and hands-on instruction from LWS experts. Participants will 
+gain a thorough understanding of the LWS instrument, data formats, and 
+software tools (LIA, ISAP) that remove instrument artifacts. Additional 
+science analysis tools will be covered as well. Advanced Fabry-Perot 
+reduction techniques will also be part of the agenda, if requested. One 
+afternoon during the week will feature LWS science presentations and 
+discussion by the participants.
+
+All interested should sign-up by 1 May 1999 by filling out the information
+below and emailing it to Nancy Silbermann at: nancys@ipac.caltech.edu
+
+-Your ISO Observer Support Team at IPAC
+
+Your Name:
+Address:
+work phone:
+Observer ID of datasets you will be working on:
+
+

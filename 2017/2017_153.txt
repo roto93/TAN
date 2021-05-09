@@ -1,0 +1,176 @@
+==============================================================================
+
+In this issue (Sep 08 - 15, 2017)
+
+1. Request for CASA User Inputs: submission deadline (Sep 30)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Sep 18): Kai-yang Lin (ASIAA)
+                                      (Sep 20): Li-Ting Hsu (ASIAA)
+                                      (Sep 21): Yuan-Sen Ting (Princeton/IAS)
+                                      (Sep 22): Yuan-Sen Ting (Princeton/IAS)
+3. Workshop: Future Exploration of Star and Planet Formation with Subaru
+
+==============================================================================
+
+Dear CASA users,
+
+We'd like to get your feedback on your CASA experiences so we can better
+improve CASA in an effective way. For instance, just to name a few, do you
+have any suggestions or comments on 
+1) using CASA for single dish calibrations (e.g. TP array);
+2) support of external toolkit (e.g. STATCONT);
+3) pipeline weblog browser compatibility;
+4) continuum subtraction in pipeline imaging;
+5) pipeline polarisation handling;
+6) ... ...
+
+Also, have you heard about CASA crash reporter? or CASA cloud computing for
+large-scale imaging? How about CARTA? Do you know CASA Viewer maybe soon be
+replaced by CARTA?
+
+There are many issues we need to know your opinions and feedback.
+
+Please drop me or Shige a line before September 30 -- to make CASA more user
+friendly and more powerful. Appreciate.
+
+
+Regards,
+Yi-Jehng
+
+
+---------- Original Message ----------- 
+
+> Date: Tue, 5 Sep 2017 02:18:50 +0800
+> From: "Yi-Jehng Kuan"
+> To: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Re: Request for CASA User Inputs
+
+Dear Yu-Nung,
+
+thank you for sending out the inquiry letter for CASA feedback to everyone.
+However, the deadline seems a bit tight.  May we change the deadline to
+September 30 (Saturday)?  The CUC meeting will be held in early November
+this year.
+
+Cheers,
+Yi-Jehng 
+
+>> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw> 
+>> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>, riaa <riaa@asiaa.sinica.edu.tw> 
+>> Sent: Mon, 4 Sep 2017 09:58:14 +0800 
+>> Subject: Request for CASA User Inputs 
+
+>> Dear all, 
+>> 
+>> If you have any views, wishes, and suggestions about CASA, please let Yi-Jehng and Shigehisa know by Sep 8th. 
+>> Yi-Jehng and Shigehisa will pass our suggestions to CASA managers and developers in this year's CASA User Committee f2f meeting. 
+>> 
+>> Thank you. 
+>> 
+>> best, 
+>> Yu-Nung 
+>> 
+>> -- 
+>> You received this message because you are subscribed to the Google Groups "alma-taiwan" group. 
+>> To unsubscribe from this group and stop receiving emails from it, send an email to alma-taiwan+unsubscribe@asiaa.sinica.edu.tw. 
+
+------- End of Original Message ------- 
+
+==============================================================================
+
+> Date: Thu, 14 Sep 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Kai-yang Lin (ASIAA)
+Topic:         Report on the intensity mapping workshop
+Time:         9/18 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Li-Ting Hsu (ASIAA)
+Topic:         WIRCam/CFHT Near-Infrared Survey and Photometric Redshifts in the Extended GOODS-North field
+Time:         9/20 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+To understand the evolution of galaxies, near-infrared (NIR) imaging is essential because: (1) NIR can used to identify Balmer break of galaxies at 1<z<4, (2) NIR luminosity reflects the stellar mass of galaxies, and (3) NIR is less affected by the dust extinction comparing to optical observation. In this work, we will present deep NIR images (J, H, and Ks) of the extended Great Observatories Origins Deep Survey-North (GOODS-N) field observed from the WIRCam/CFHT. The data reaches 5-sigma limiting AB magnitudes (in 2” aperture) of J=24.6 mag, H=23.8 mag, and Ks=24.1 mag over ~0.25 deg2.  In the GOODS-N field, several deep multi-wavelength surveys have been carried out for various science goals, including radio survey from the VLA, FIR survey from the Herschel, MIR survey from the Spitzer, optical survey from the Subaru telescope, and X-ray survey from the Chandra space telescope. Our NIR survey can be an essential complementation in this field. In addition to the NIR image!
+s, we will also present photometric redshift (photo-z) results for non-X-ray and X-ray sources. For non-X-ray sources, we obtain the photo-z accuracy of sigma_NMAD=0.035 with the outlier fraction=7.2%. For X-ray sources, the photo-z accuracy of sigma_NMAD is 0.039 and the outlier fraction is 10.7%. Our photo-z quality is comparable to previous works in this field and show even smaller bias with respect to the spectroscopic redshift in general.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yuan-Sen Ting (Princeton/IAS)
+Topic:         The new era of Galactic Archaeology
+Time:         9/21 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Understanding physical processes responsible for the formation and evolution of galaxies like the Milky Way is a fundamental problem in astrophysics. However, a key challenge is that the properties and orbits of the stars can only be observed at present: to understand what happened in the Milky Way at earlier epochs, one must explore “archaeological” techniques. One idea, "chemical tagging,” aims to probe the history of the Milky Way via the unique imprint in chemical abundance space of long-disrupted star forming associations. I will discuss the opportunities and challenges associated with chemical tagging, including a first constraint on the disrupted cluster mass function in the Milky Way, and how Gaia, as well as extragalactic IFU studies, could be informative in the studies of chemical tagging. I will also describe a new set of tools for efficient measuring multi-elemental abundances from large quantities of low-resolution LAMOST spectra, for constraining the bina!
+ry fraction in the Milky Way, and for inferring asteroseismic parameters from spectra.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yuan-Sen Ting (Princeton/IAS)
+Topic:         Neural networks and their applications in physical sciences
+Time:         9/22 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Neural networks have gained much attentions in recent years due to their applications in various daily aspects including facial/voice recognition and data mining. Despite their remarkable ability, neural networks are severely underutilized and have not realized its full potential in physical sciences. In this talk, I will briefly explain the basic concepts as well as some exciting frontier ideas in neural networks. I will discuss the opportunities of applying this simple yet interesting idea to physical sciences using my studies of the Milky Way as an example. In particular, I will describe how a combination of data-driven models and neural networks can be an effective tool to harness information from low-resolution spectra and to relate various fields in physical sciences -- such as the studies of spectroscopy and asteroseismology in astronomy.
+
+==============================================================================
+
+> Date: Fri, 15 Sep 2017 14:05:25 +0800
+> From: Michihiro Takami <hiro@asiaa.sinica.edu.tw>
+> Subject: Workshop Announcement
+
+Dear Yi-Jehng,
+
+Would you mind circulate the workshop info below through TAN?
+
+Xie xie nin, Hiro Takami
+
+---
+Invitation to the Workshop "Future Exploration of Star and Planet Formation with Subaru"
+
+Subaru is seeking opportunities for international co-operation. The candidate organizations and regions include EAO (China, Korea, Taiwan, Japan), Canada and Australia. This workshop at ASIAA is an initial meeting for researchers in star and planet formation in Japan and potential partner organizations/regions to discuss the future directions of our research field, how Subaru could impact our research field in the future, and to seek collaborations if appropriate. You can find the details at:
+
+http://events.asiaa.sinica.edu.tw/workshop/20171207/index.php
+
+------------------------------------------------------
+Michihiro Takami
+Institute of Astronomy and Astrophysics, Academia Sinica
+11F of Astronomy-Mathematics Building, National Taiwan University
+No.1, Sec. 4, Roosevelt Rd, Taipei 10617, Taiwan, R.O.C.
+Tel: +886-2-2366-5402
+Fax: +886-2-2367-7849
+e-mail: hiro@asiaa.sinica.edu.tw
+------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

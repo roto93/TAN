@@ -1,0 +1,83 @@
+From kyl@asiaa.sinica.edu.tw Fri Sep 18 10:10:15 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA24481; Fri, 18 Sep 1998 10:05:37 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA17018; Fri, 18 Sep 1998 10:03:34 +0800
+Date: Fri, 18 Sep 1998 10:03:33 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Job Posting (fwd)
+Message-Id: <Pine.GSO.3.96.980918100331.3766E-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2532
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 15 Sep 1998 11:50:57 -0400
+From: Tessy Schlemmer <tschlemm@cv3.cv.nrao.edu>
+To: aips2@polaris.cv.nrao.edu, aips2-workers@polaris.cv.nrao.edu,
+    vlbi@polaris.cv.nrao.edu, bananas@polaris.cv.nrao.edu,
+    aaswomen@vaxsar.vassar.edu
+Subject: Job Posting
+
+The NRAO has the following job vacancy:
+
+Assistant Scientist
+NATIONAL RADIO ASTRONOMY OBSERVATORY
+P.O. Box 0
+Socorro,  NM  87801-0387
+Attn:  Personnel Department
+
+The NRAO is seeking an Assistant Scientist to develop radio-astronomical
+imaging software adapted to run on parallel computers.  Participates in
+the design and coding of parallelized data reduction software, and
+advises astronomers on the use of this software.  Pursuit of
+astronomical research is expected (25% research time).  Initial
+appointment will be for a period of two years;  continuation for up to
+four years may be considered.
+
+The AIPS++ Project is an international collaboration by a consortium of
+radio observatories, managed by the National Radio Astronomy Observatory
+(NRAO) with the goal of developing a software package for the processing
+of radio astronomical data.  Investigation and development of algorithms
+to run on parallel computers is being pursued within the AIPS++ Project
+by the NRAO and the National Center for Supercomputing Applications
+(NCSA), with funding from the NCSA. 
+
+Applicants must have a Ph.D. in Astronomy, Physics or related fields,
+with an interest and experience in software development.  Experience in
+the use of radio interferometers is required.  Some familiarity with
+object-oriented methods and C++ is desirable.  Experience in a large
+software project would be advantageous.
+
+Information about the NRAO is available at http://www.nrao.edu.
+
+Applicants should send a cirreculum vitae, a letter with a description
+of research interests, and arrange for three letters of reference to be
+sent to the above address.  Applications received before 1 November 1998
+will receive full consideration.
+
+The National Radio Astronomy Observatory is operated by Associated
+Universities, Inc., under cooperative agreement with the National
+Science Foundation.  EOE/M/F/D/V
+
+

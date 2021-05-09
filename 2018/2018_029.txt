@@ -1,0 +1,69 @@
+> Date: Thu, 1 Mar 2018 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Hsi-An Pan (ASIAA)
+Topic:         Dependence of Global and Spatially-resolved SFR-M* Relations on Galaxy Properties
+Time:         3/5 (Monday) 12:15 - 13:15
+Place:         R1203
+Abstract:
+The galaxy integrated star formation rate(SFR)-stellar mass(M∗) relation holds important information for understanding the star formation history and evolution of galaxies. Although the SFR-M∗ relation has been reported with a variety of different data sets, their appearance can vary significantly from one to another. In this work, we determine what controls the integrated and the spatially-resolved SFR-M* relation in both star-forming and quiescent galaxies by linking the spatially resolved SFR-M* relation with various galaxy properties such as stellar mass and bulge-to-total light ratio using MaNGA data (Mapping Nearby Galaxies at APO).
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Takashi Okamoto (Hokkaido University)
+Topic:         Simulations of galaxy formation --The roles of feedback
+Time:         3/5 (Monday) 11:00 - 12:00
+Place:         R1203
+Abstract:
+Cosmological hydrodynamic simulations are a powerful tool for studying non-linear formation processes of galaxies. Studies using cosmological galaxy formation simulations have revealed that "feedback", which is the process that gives energy and/or momentum to gas from stars and active galactic nuclei, plays crucial roles in galaxy formation. I explain how different feedback processes operate on different mass scales of galaxies. The simulations are also useful for observers as a tool to  plan future observations. I briefly introduce how we collaborated with observers for ALMA observations of high-redshift emission line galaxies. Finally, I show some problems that current simulations have.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Chiaki Hikage (Kavli IPMU)
+Topic:         Cosmology with Hyper-Suprime Cam cosmic shear analysis
+Time:         3/7 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The coherent pattern of distant galaxy images distorted by gravitational lensing of large-scale structure, i.e., cosmic shear, is a powerful probe of matter distributions in the Universe. Cosmic shear is a unique cosmological probe and is especially sensitive to the combination of the matter density parameter Ωm and the amplitude parameter of matter fluctuations σ8, i.e., S8(α) ≡ σ8(Ωm/0.3)^α with α ∼ 0.5. Recent cosmic shear measurements such as DES and KiDS prefers 2-3σ lower value of S8 than Planck CMB data in ΛCDM model. The tension may indicate some physics beyond ΛCDM model such as dynamical dark energy or modified gravity. Hyper-Suprime Cam (HSC) Subaru Strategic Program is a wide-field imaging surveys using a gigantic imaging camera on the 8.2-meter Subaru telescope. The unique property of the HSC is the combination of its depth (i~26 at 5σ) and excellent image quality (i-band seeing∼0.58”), which enables us to measure cosmic shear signals up to hi!
+gher redshifts with lower shape noises than KiDS and DES. We measure cosmic shear power spectra with HSC survey first-year shear catalog covering 137 sq. deg. of the sky. The high effective number density of 16.5 per sq. arcmin after the photometric redshift cut of 0.3 ≤ z ≤ 1.5 allows a high significance measurement of cosmic shear signals with the total signal-to-noise ratio of 16 in the multipole range 300 ≤ l ≤ 1900. I present the current status of the HSC cosmic shear analysis.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Kenneth Wong (NAOJ)
+Topic:         Studying the Dark Universe with Gravitational Lenses
+Time:         3/7 (Wednesday) 11:00 - 12:00
+Place:         R1203
+Abstract:
+Strong gravitational lensing is a powerful probe of the mass distribution in the Universe.  Lensing is sensitive to the total mass distribution along the line of sight, making it a unique probe of dark matter in lensing galaxies, and useful for studying resolved properties of the magnified background sources.  I briefly discuss applications of lensing magnification to recent ALMA observations of the lens SDP.9.  Strong lensing is also valuable for cosmology through lensed quasars, which can be monitored to measure the "time delay" between the multiple images.  This can be used to measure the "time-delay distance", which is primarily sensitive to the Hubble constant (H0).  This method of measuring H0 is independent of type Ia supernovae and CMB observations, and may shed light on the growing H0 discrepancy between local universe and CMB measurements.  I discuss the H0 Lenses In COSMOGRAIL’s Wellspring (H0LiCOW) project, which has measured H0 to ~3.8% precision for a flat La!
+mbda CDM cosmology from three time-delay lenses.  Our results are in moderate tension with the latest Planck results for a similar cosmology, hinting at possible new physics beyond the standard LCDM model and highlighting the importance of this independent probe.  To improve this measurement, as well as leverage the power of strong lensing to study galaxy structure and magnified background sources, we require deep wide-area imaging surveys to build up a statistical sample of lenses, which are quite rare.  The Hyper-Suprime Cam survey is an ongoing multiband imaging survey using the Subaru Telescope that will cover 1400 deg^2 of the sky to a depth of r~26.  I present the current work of the HSC SSP strong lensing working group, which is focused on searching for new lenses and using these systems for studies of galaxy structure and cosmology.  The search methods and science cases being developed now for surveys such as the HSC SSP are necessary to prepare for the upcoming rev!
+olution in strong lensing from LSST and Euclid, which will dis!
+cover orders of magnitude more lenses than are currently known.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Huang, Yen-Ru (ASIAA) Topic:         The Progress of 1.5 THz HEB Mixer Based Receiver Cartridge
+Time:         3/7 (Wednesday) 12:10 - 13:00
+Place:         R1203
+
+==============================================================================

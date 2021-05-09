@@ -1,0 +1,20 @@
+> Date: Sun, 14 Oct 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>    web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Stefanie Phleps (MPE)
+Topic:        How do galaxies become red? - An HOD model of the dependence of SDSS DR7 galaxies on their multiscale environment
+Time:        10/19 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Following the new approach of Wilman et al 2010 (MNRAS, 406, 1701) we model the dependence of red and blue central and satellite galaxies on their multiscale environment. We fit an HOD model to the multiscale measurements of a sample of ~113000 galaxies from the SDSS DR7, in order to understand the influence of the environment on the transition of blue galaxies to the red sequence. We find that a model in which the red satellite fraction grows slowly with halo mass fits the data best, pointing towards a scenario in which galaxies can already become red in small mass haloes just before they are accreted onto larger mass haloes. We plan to extend the analysis to higher redshifts using VIPERS data, in order to investigate the evolution of the red satellite and central fraction since z=1.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

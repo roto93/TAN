@@ -1,0 +1,44 @@
+==============================================================================
+
+Date: Thu, 18 Mar 2021 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *6PM* this Thursday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    [Pizza lunch] Marius Lehmann (ASIAA)
+Topic:         Density Waves in Saturn's Rings
+Time:         3/22 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+I will briefly discuss the occurrence and detection of spiral density waves and the viscous overstability in Saturn's rings.
+The former typically being excited by moons orbiting outside the rings, with typical wavelengths of some tens of kilometers,
+the latter being a spontaneous instability of the ring flow, instigating axisymmetric density wave trains on a 100m scale.
+
+The study of these wave structures can provide insights in principles of disk-satellite interaction and disk dynamics, and is therefore
+of fundamental interest for astrophysical disks. For instance, the actions of moons that orbit interior and exterior to Saturnâ€™s rings bear many similar-
+ities to those of planets forming in proto-planetary disks.
+
+Furthermore, by utilizing a fluid description of the rings, the analysis of these wave structures in Saturnâ€™s rings can provide important physical pa-
+rameters which are otherwise hard to constrain, such as the local mass surface density and the viscosity of the rings.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Yun-Ting Cheng (Caltech)
+Topic:         Cosmology and Astrophysics with Intensity Mapping
+Time:         3/24 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Intensity mapping (IM) has emerged as a promising tool to study the high redshift universe and the faint, diffuse extragalactic populations. Without resolving individual galaxies, IM measures the integrated light from all sources and uses that to statistically probe the emission properties of the sources as well as the underlying large-scale structure they trace. In this talk, I will cover several topics on intensity mapping technique. First, I will introduce line intensity mapping (LIM), which probes the 3D large-scale structure of the universe, and a [C II] LIM experiment, TIME, that I am currently working on. Next I will talk about two recent projects on studying extragalactic background light (EBL), the aggregate emission from all extragalactic sources throughout cosmic time. I will present our latest stacking analysis results on probing the extended stellar halo with CIBER, a sounding rocket experiment that measures the near-IR EBL. Finally, I will conclude with future !
+ outlook for IM using SPHEREx, an upcoming all-sky near-infrared spectro-imaging survey.
+
+==============================================================================

@@ -1,0 +1,88 @@
+
+> From: "Hsiang-Kuang Chang" <hkchang@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw, takata@tiara.sinica.edu.tw,
+>       akong@phys.nthu.edu.tw
+> Subject: Fw: Suzaku AO-3 background files
+> Date: Wed, 28 Nov 2007 11:24:13 +0800
+
+---------- Forwarded Message -----------
+> From: Kazuhisa MITSUDA <mitsuda@isas.jaxa.jp>
+> To: hkchang@phys.nthu.edu.tw
+> Cc: Kazuhisa MITSUDA <mitsuda@isas.jaxa.jp>
+> Sent: Wed, 28 Nov 2007 11:41:00 +0900
+> Subject: Suzaku AO-3 background files
+
+Dear Prof. Hsiang-Kuang Chang,
+
+Could you please kindly distribute the message to
+Suzaku AO-3 proposers to colleagues in your country?
+
+It is not critical for most proposals, but since the
+due date is coming soon, it is rather urgent.
+
+Best wishes,
+
+Kazuhisa Mitsuda
+--------------------------------------------------
+Department of High Energy Astrophysics
+Institute of Space and Astronautical Science (ISAS)
+Japan Aerospace Exploration Agency (JAXA)
+
+3-1-1 Yoshinodai, Sagamihara, 229-8510, Japan
+
+phone:    +81-427-59-8132
+telefax:  +81-427-59-8455
+
+=================================
+Dear Suzaku Cycle-3 proposers,
+
+As you may have noticed the background files in the following
+Suzaku AO-3 cycle proposal pages contained data of about 90 ks
+exposures.
+
+XIS: http://www.astro.isas.jaxa.jp/suzaku/proposal/ao3/xis_cxb/
+HXD: http://www.astro.isas.ac.jp/suzaku/proposal/ao3/hxd_mat/
+
+We have uploaded background files of longer exposures (about
+800ks) for the HXD and we made a link to the night earth
+database for the XIS in the above web pages.
+
+For the HXD, the Poisson errors of the background files are
+smaller than the systematic errors of the background.  So it
+is not necessary to redo your simulations using the new
+background in most cases, though the significance of signals
+may increase a little bit.
+However, we recommend to redo simulations, ONLY if you are
+following the simulation recipe in section 5.5.2 of the technical
+description AND if you use the absolute values of the chi^2 as
+criteria of your observation.
+
+For the XIS,  we recommend to redo simulations if the
+exposure time is longer than about 100 ks and your statistics
+are determined by background, i.e. the source is faint.
+Since as in AO-2, we can provide only the long-exposure
+night-earth data, please include the CXB and the galactic
+emissions in your simulations as models.
+
+Best regards,
+
+Kazuhisa Mitsuda
+
+Suzaku Project Manager
+--------------------------------------------------
+Department of High Energy Astrophysics
+Institute of Space and Astronautical Science (ISAS)
+Japan Aerospace Exploration Agency (JAXA)
+------- End of Forwarded Message -------
+
+-----------------------------------------------
+Hsiang-Kuang Chang                         
+Professor
+Department of Physics & Institute of Astronomy   
+National Tsing Hua University                   
+Hsinchu 30013, Taiwan, Republic of China 
+
+Tel: 886-3-5742952
+Fax: 886-3-5723052
+URL=http://www.phys.nthu.edu.tw/~hkchang
+-----------------------------------------------

@@ -1,0 +1,60 @@
+From kyl@asiaa.sinica.edu.tw Sun Jun 28 22:05:05 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02322; Sun, 28 Jun 1998 21:57:20 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id VAA20141; Sun, 28 Jun 1998 21:55:45 +0800
+Date: Sun, 28 Jun 1998 21:55:45 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: SIMBAD mirror site at SAO (fwd)
+Message-Id: <Pine.GSO.3.96.980628215542.19945C-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1371
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Thu, 25 Jun 1998 02:40:42 -0400
+From: liz@cfa.harvard.edu
+To: kyl@astro.uiuc.edu
+Subject: SIMBAD mirror site at SAO
+
+	We are pleased to announce that a mirror of the SIMBAD data-
+base is now available at the Smithsonian Astrophysical Observatory.  
+Information on how to access the mirror is available at:
+
+                http://simbad.harvard.edu/
+
+	The SIMBAD database is maintained by the Centre de Donnees 
+astronomiques de Strasbourg. The data at SAO are updated every night 
+from the main site at the CDS to maintain the mirror site with the 
+latest data.  Your old SIMBAD ID/password combination will work on the 
+mirror site at SAO as well as on the original site at the CDS.
+
+	Please contact us at simbad@cfa.harvard.edu if you experience 
+any problems with the SIMBAD mirror site.  Questions or comments about 
+the database contents or functionnalities should be sent to:
+
+                question@simbad.u-strasbg.fr 
+
+                    The SIMBAD USA Team
+
+

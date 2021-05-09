@@ -1,0 +1,221 @@
+==============================================================================
+
+In this issue (Mar 10 - 16, 2018)
+
+1. Formation of substellar objects: theory and observations. Third Announcement
+2. ALMA Cycle 6 Users Workshop 2018
+3. ASIAA Colloquium/Seminar/Lunchtalk (Mar 19): Jia-Wei Wang (NTHU)
+                                      (Mar 21): Yukari Ohtani (NAOJ)
+                                      (Mar 21): Chang, Yen-Pin (ASIAA)
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+> From: Oscar Morata <omorata@asiaa.sinica.edu.tw>
+> Subject: Formation of substellar objects: theory and observations. Third Announcement
+> Date: Mon, 12 Mar 2018 15:36:51 +0800
+
+Dear All
+
+third announcement of the workshop on formation of substellar objects in 
+Madrid in May. The deadline for abstracts is next Thursday.
+
+If you are interested in the field, this is a good chance to discuss 
+what has been done until now and where we will go next.
+
+    Oscar
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**********************************************************************************
+
+Formation of substellar objects: theory and observations
+
+ESAC May 21-23, 2018
+
+Madrid, Spain
+
+Deadline for abstract submission and early registration fee is ONLY 15 
+DAYS AWAY
+
+**********************************************************************************
+
+
+
+On behalf of Local and Scientific Organizing Committees, we are pleased 
+to announce a three days workshop devoted to brown dwarfs and their 
+formation mechanism/s. More than 20 years have passed since the 
+discovery of the first confirmed substellar objects. However, there are 
+still many problems concerning brown dwarf formation and evolution.
+
+During the last years, a large number of works have been focused on 
+explaining the origin of brown dwarfs. Thanks to Spitzer, Herschel and 
+lately ALMA, there are now evidences of a star-like scenario to explain 
+the formation of these substellar objects. However, there are still open 
+questions, like the role of turbulence, and the efficiency of other 
+mechanisms (e.g. photo-evaporation, disk fragmentation) to produce BDs. 
+On the other hand, the study of young clusters is producing more and 
+more spectroscopically confirmed substellar IMFs, which are fundamental 
+to understand BD formation and evolution.
+
+The scope of this workshop is to gather experts on BD formation, both 
+theoreticians and observational astronomers, to discuss about the 
+results of the last decade. We plan to compare the theoretical 
+expectations with the results from observations to understand which 
+questions have been answered, and which ones are still open. Moreover, 
+experts from other fields, such as exoplanets and chemical modeling, are 
+welcome since one of the goals is to study the phenomena from a 
+comprehensive perspective and to produce new synergies and projects.  In 
+addition, we will discuss about the advances that can be done in this 
+field with the advent of new facilities like e.g. JWST or Euclid.
+
+CONFIRMED INVITED SPEAKERS:
+
+Matthew R. Bate (University of Exeter, UK)
+Gilles Chabrier (École Normale Supérieure de Lyon, France)
+Masahiro N. Machida (Kyushu University, Japan)
+Estelle Moraux (Univ. Grenoble Alpes, CNRS, France)
+Aina Palau (Instituto de Radioastronomía y Astrofísica, UNAM, Mexico)
+Ken Rice (University of Edimburgh, UK)
+Luca Ricci (California State University, Northridge & JPL, USA)
+
+SCIENTIFIC ORGANIZING COMMITTE:
+
+David Barrado (CAB, co-chair)
+Carlos Eiroa (UAM, co-chair)
+Amelia Bayo (U. De Valparaíso, Chile)
+Philippe André (CEA Saclay, France)
+Itziar de Gregorio-Monsalvo (ESO/ALMA, Chile)
+Michael Dunham (State University NY at Fredonia, US)
+Basmah Riaz (MPE Garching, Germany)
+Dimitris Stamatellos (University of Central Lancashire, UK)
+Aina Palau (UNAM, México)
+Oscar Morata (ASIAA, Taiwan)
+Chang Won Lee (KASI, Republic of Korea)
+Erick Young (NASA Ames, USA)
+
+IMPORTANT DATES:
+
+- Registration is OPEN
+- Deadline for abstract submission and early registration fee is ONLY 15 
+DAYS AWAY: March 15th, 2018
+
+All relevant information can be found at:
+
+http://www.laeff.cab.inta-csic.es/projects/ws18/main/index.php
+
+==============================================================================
+
+> From: Tien-Hao Hsieh <thhsieh@asiaa.sinica.edu.tw>
+> Date: Tue, 13 Mar 2018 16:55:58 -0700
+> Subject: Re: ALMA Cycle 6 Users Workshop 2018
+> To: alma-taiwan@asiaa.sinica.edu.tw, riaa <riaa@asiaa.sinica.edu.tw>,
+>        astro@asiaa.sinica.edu.tw
+
+Dear All,
+
+This is a friendly reminder that the ALMA Cycle 6 Users Workshop will be
+held on March 26, 2018.
+https://events.asiaa.sinica.edu.tw/workshop/20180326/
+The registration deadline is this Friday (March 16). Please register if you
+are interested in using ALMA. Thank you very much.
+
+Best,
+Tien-Hao Hsieh
+
+On Sun, Feb 25, 2018 at 11:14 PM, Tien-Hao Hsieh <
+thhsieh@asiaa.sinica.edu.tw> wrote:
+
+> Dear potential ALMA users,
+>
+> ALMA will issue its Cycle 6 Proposal Call on March 20, 2018. In response
+> to that, the ALMA Regional Center (Taiwan-ARC) of ASIAA and the
+> University Consortium of ALMA-Taiwan (UCAT) will hold one day ALMA Users Workshop
+> on March 26 (Monday), 2018. Below is the announcement:
+>
+> ALMA Users Workshop 2018
+> Time: March 26, 2018
+> Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+> URL: http://events.asiaa.sinica.edu.tw/workshop/20180326/index.php
+> Registration Deadline: March 16, 2018.
+>
+> The ALMA Cycle 6 Users Workshop is designed for preparing ALMA Cycle 6
+> proposals. It is intended for graduate students, postdocs, faculty members
+> and people who are interested in using ALMA.
+>
+> The program of the ALMA Users Workshop includes:
+>
+> 1. ALMA Cycle 6 capability
+> 2. Suggestions of ALMA proposal preparation
+> 3. ALMA science portal
+> 4. Observing Tool (OT)
+> 5. CASA image simulation
+>
+> Please install the latest version of CASA and OT BEFORE the workshop. Feel
+> free to ask ARC members for help if there is any difficulty during the
+> installation.
+>
+> Best,
+> Tien-Hao Hsieh
+> On behalf of Taiwan ARC node
+>
+>
+
+==============================================================================
+
+> Date: Thu, 15 Mar 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Jia-Wei Wang (NTHU)
+Topic:         Multi-wavelength polarization observation toward the filamentary cloud IC5146
+Time:         3/19 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+Whether magnetic fields are important in the star formation is a fundamental question in astrophysics. The studies in past decades show that the role of magnetic fields in star formation is complicated and diverse, and that neither of the two extreme case theories (dominating or negligible magnetic fields) can fully explain the star formation activity. Hence, the detailed investigations of the role of magnetic fields in particular physical scale, density, and environments are necessary to reveal the full picture, which thus requires multi-wavelength observations to trace. In this talk, I would present our polarization observations in optical, infrared, and submillimeter wavelengths toward the filamentary clouds IC5146. I would first discuss how deep we can trace using each data set, and further show how the role of magnetic fields possibly change in different scale.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Yukari Ohtani (NAOJ)
+Topic:         
+Time:         3/21 (Wednesday) 14:20 - 15:20
+Place:         R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chang, Yen-Pin (ASIAA)
+Topic:         TBD
+Time:         3/21 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

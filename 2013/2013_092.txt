@@ -1,0 +1,53 @@
+> Date: Sun, 12 May 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Sebastian Foucaud (NTNU)
+Topic:        Pushing the exploration of Dark matter and stellar mass assembly to z=7
+Time:        5/17 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The past and coming few years see the advent of new generations of deep and wide surveys in optical and near-infrared, which enable us to explore the evolution of galaxies on range of redshifts and masses never explored so far. Owing to my involvement to some of the most important of these surveys, I have explored the mass assembly history of galaxies since z=2 and intend to push to z=7 with the coming Hyper-Suprime Cam Survey.
+
+As the large-scale behaviour of galaxies is ruled by their dark matter content, an estimate of the mass of their dark matter halos is crucial to gain a good understanding of the history of their mass assembly. Clustering analyses allows us to link galaxy populations to the mass of their host haloes, and I am using this technique to probe the halo masses of galaxies up to z=2. In particular I am interested in the luminous-to-dark mass ratio and its evolution with redshift. These results implied that a halo downsizing is in place since z=2, where galaxy mass assembly happen faster in higher mass haloes at high redshifts while at lower redshifts it migrates to lower mass halos.
+I also demonstrate that the (stellar) baryonic mass of galaxies are not as well correlated to the mass of their dark matter haloes as expected, and even by involving gaseous mass, the budget of mass is not compatible with the baryonic fraction implied by cosmological studies (CMB).
+To understand better the origin of these missing baryons, I am exploring directly the mass assembly of galaxies by major mergers. I demonstrate that since z=2 while major merger plays a minor role in mass assembly of the most galaxies, it plays an increasingly important role in the lower mass galaxies, in particular at low redshift, in contradiction with the theoretical predictions.
+
+Exploiting the new Hyper-Suprime Cam on the 8.2m Subaru telescope, the HSC survey will open a new era on the exploration of the very high-redshift (z>5), which was limited to the very small fuel;d-of-view of the Hubble-Space Telescope so far. I will introduce the HSC survey and describe how I am intending to extend my exploration of the mass-assembly to z=7.
+
+Finally I will conclude on the challenges raised by the exploitation of the current and next generation of large surveys, and how they required development of topics such as Astroinformatics and Virtual Observatory.
+
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Zan Peeters (DTM-CIW)
+Topic:        The discovery of new multimicron-sized structures in meteoritic organic carbon
+Time:        5/15 (Wednesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The age-old question "Where do we come from?" has been central to many scientific endeavours. The field of Astrobiology has reformulated this question to "How did life originate?". Carbon is the element on which all life on Earth is based. If we want to understand the origin of life, we must look for the origin of its building blocks. A great source of organic material is provided by a class of meteorites called the carbonaceous chondrites. Several of life's building blocks are directly present in carbonaceous chondrites as small soluble molecules (e.g. amino acids, nucleobases, carboxylic acids), but the majority of the organic carbon is locked up in an insoluble macromolecular network.
+
+In this talk, I will discuss several phases of carbon in space, from interstellar molecules and laboratory experiments, to the macromolecular networks of organic carbon that are found in meteorites, and end with the latest discoveries of large (up to 10 micrometers) organic carbon inclusions in meteorites. This pathway incidentally also follows my carrier in Astrochemistry and Astrobiology, and I hope to provide more insight into the origin of the building blocks of life on Earth.
+
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Lin-Ni Hau (National Central Univ.)
+Topic:        What are the evidences for magnetic reconnection occurring in space plasma environment ?
+Time:        5/14 (Tuesday) 14:00 - 15:00
+Place:        R1108
+Abstract:
+The concept of plasma universe was first proposed by the Nobel laureate Hannes AlfvÃ©n who asserted that electromagnetic forces are far more important than gravity in many astrophysical environments.  The solar system or heliosphere is the only natural laboratory accessible to manmade spacecraft which are able to conduct the in-situ measurement of space plasma and electric/magnetic field.  One of the most important discoveries in this endeavor is the magnetic reconnection which may occur in the solar wind, at planetary magnetopause and magnetotail as well as heliopause etc.  For the past half century substantial efforts have been made on the theory, simulation and observation of magnetic reconnection which remains to be one of the most outstanding research topics in plasma and theoretical physics.  The Earthâ€™s magnetosphere is an ideal site for the occurrence and study of reconnection physics due to its accessibility to spacecraft measurement.  In this talk an overview is !
+presented of the physics of magnetic reconnection in the context of theory and observation.
+
+
+==============================================================================

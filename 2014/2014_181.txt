@@ -1,0 +1,222 @@
+============================================================================== 
+In this issue (Nov 06 - 07, 2014)
+
+1. LOT User Meeting (Nov 19)
+2. ASIAA Colloquia/Seminars (Nov 17): Nicole Czakon (ASIAA)
+                            (Nov 18): Aravind Natarajan (Univ of Pittsburgh)
+                            (Nov 19): Toshifumi Futamase (Tohoku Univ)
+                            (Nov 20): I-Ting Ho (Univ of Hawaii)
+3. UST-GUAS Radio Astronomy Winter School 2015 (Feb 10-13, 2015)
+
+==============================================================================
+
+> Date: Tue, 11 Nov 2014 12:08:05 +0800
+> Subject: LOT User Meeting
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw, Yi-Jehng Kuan <kuan@ntnu.edu.tw>
+
+Dear Prof Kuan, please announce the following message to TAN.
+
+Thanks.
+
+---------------------------------------------------------------------------
+
+=3D=3D=3D 2014 LOT Users Meeting =3D=3D=3D
+
+Date: 19 Nov 2014
+Time: 13:30
+Place: Room 1013, Chien-Shiung Building (Science Building 4)=EF=BC=8C Natio=
+nal
+Central University
+
+Topics to be discussed:
+
+* Observing at LOT: users (esp students) are encouraged to go to Lulin
+Observatory and run their own observations (and not asking for queue
+observing unless it is really necessary). Users that willing to do so will
+have higher priority to be allocated in next Semester.
+
+* Suggestions for improving the time-allocation process in this Semester,
+ToO handling, LOT observing calendar etc.
+
+* Data download from FTP: comments? suggestions? disk array in future?
+
+* Status of current or past 3-years LOT data: the users are encouraged to
+give 1-2 slides presentation about the status of their LOT data. E.g, are
+the data being used in recent publication? Are the data currently under
+process/analyze?
+
+* Mode of operation for next Semester, 2015A: continue current mode for
+internal use only? back to before and issue call-of-proposal? or mixture of
+both?
+
+* Calling for "survey" or "key-project" type projects: one possibility is
+allocate a fraction of time (50%?) to "survey" or "key-project" type
+projects that need substantial amount of observing time (required to submit
+status reports) and expected to have a number of publications. The use
+Hiyoyu and TRIPOL2 in these projects will be encouraged.
+
+* LOT user fee: since the electric bill and LOT operation fee is increasing
+every year, LOT users are encourage to "donate" the LOT user fee (currently
+it is voluntary), and request such fee in their MOST proposal (due 12/31
+this year).
+
+* Engineering time: starting Jan 2015, default engineering time will be the
+full moon night in every month. Additional 1-2 nights may be needed
+depending on the maintenance jobs.
+
+* Problems encountered when observing with LOT?
+
+* General suggestions for LOT (operations, time-allocation, instrumentation
+etc) and feedback.
+
+Potential LOT users who attend this meeting, willing to observe at LOT
+and/or presenting a status report of their LOT data will have higher
+priority to be allocated in next Semester (2015A).
+
+
+--=20
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Nicole Czakon (ASIAA)
+Topic:         Introduction to MKIDs
+Time:         11/17 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+There has been a lot of buzz recently about Microwave Kinetic Inductance Detectors (MKIDs). These superconducting detectors have a wide variety of applications in astronomy, spanning a large range of frequencies from mm-wave to X-ray. The detectors are fast, inherently multiplexed and there is no readout noise. Nevertheless, since the original Day et al. Nature paper, published in 2003, MKIDs have yet to demonstrate their promised potential to the astronomical community. Having spent several years in graduate school working with MKIDs for the mm-wave MUSIC camera, I have a unique point of view in regards to the application of this new technology. In my talk, I will briefly review the basic principles of operation, the range of astronomical applications, give a sample of the current instrumentation efforts employing MKIDs, and review the challenges associated with the fabrication and employment of these detectors.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Aravind Natarajan (University of Pittsburgh)
+Topic:         The End of the Dark Ages
+Time:         11/18 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The study of reionization is crucial to our understanding of the nature of the earliest luminous objects, and the formation of the first galaxies. In the coming years, experiments measuring the 21 cm radiation background and the cosmic microwave background will provide data that can probe reionization, and shed light on theories of structure formation. We describe a new radio experiment that attempts to measure the redshifted 21cm brightness temperature in the frequency range 50-120 MHz, i.e. at redshifts 10<z<25. We discuss preliminary results from our test run, and plans for future deployments. We then discuss how CMB experiments can constrain reionization models. We describe a new technique that can detect patchy reionization using correlations between large and small scales in the CMB temperature maps. We test our patchy reionization estimator using realistic ionization and CMB maps obtained using numerical simulations. We discuss how future data can determine the mean re
+dshift of reionization, as well as its duration.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Toshifumi Futamase (Tohoku University)
+Topic:         Lens Statistics with Gravitationally Lensed Yet Morphologically Regular Images
+Time:         11/19 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+GRAMORs are strongly magnified lensed images with small distortion.  One example is discovered in a cluster MACS J1149.5+2223 in 2009.  We investigate the lens statistics of GRAMORs in detail.  Assuming NFW profile for our sample of clusters, we calculate the expected number and redshift distribution of GRAMORs using parameters given by COSMOS  data for the number density of the background galaxy.  Our model of the cluster placed at z=0.544  and the background galaxies with WMAP 5 cosmology predicts the redshift of GRAMOR at z~1.49 which is close to the observed z=1.4906.  It is found  that the probability distribution function of GRAMORs depends strongly on the existence of the dark energy and maybe useful for constraining the nature of dark energy.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    I-Ting Ho (University of Hawaii)
+Topic:         Dissecting galaxies with integral field spectroscopy: current large surveys, near future and beyond
+Time:         11/20 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Large integral field spectroscopy (IFS) surveys in the past 5 years have drastically improved our understanding of how galaxies evolve over cosmic time. Building on top of the large fibre spectroscopy surveys such as SDSS, DEEP2, and 2dF surveys, new IFS surveys have started to change the way we observe galaxies, from 1D to 3D. In this talk, I will first give an overview of the current, major integral field spectroscopy surveys in the local Universe (z<0.05). I will then focus on the SAMI Galaxy Survey, an on-going IFS survey on the 4-m Anglo-Australian Telescope. The SAMI Galaxy survey will deliver a final sample of 3,000 galaxies, and we have observed ~1,000 galaxies so far. I will present an array of exciting science results published by the SAMI Galaxy Survey team in the past 1-2 years. I will end the talk by presenting results from my on-going thesis dissertation on chemical evolution, inflows, and outflows using IFS data.
+
+==============================================================================
+
+> Received: by 10.152.114.200 with HTTP; Wed, 12 Nov 2014 21:29:20 -0800 (PST)
+> Date: Thu, 13 Nov 2014 13:29:20 +0800
+> Subject: UST-GUAS Radio Astronomy Winter School 2015
+> From: Hiroaki Nishioka <nishioka@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>, students <students@asiaa.sinica.edu.tw>,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear all,
+
+I am forwarding an announcement for
+the "UST-GUAS Radio Astronomy Winter School 2015",
+which will be held on 10-13 Feb. 2015 in Jeju Island, Korea.
+
+Cheers,
+Hiroaki
+
+
+========= UST-GUAS Radio Astronomy Winter School 2015 =========
+
+  Date: 10-13, February, 2015
+  Venue: Daemyung resort, Jeju Island, Korea
+  URL: http://kava.kasi.re.kr/contents/activities.php
+  Application deadline: 20, December, 2014
+
+===============================================================
+
+Radio astronomy has been playing an essential role in deepening the human
+understanding of the universe for recent 90 years, and in East Asian regions
+there have been a plenty of on-going radio astronomy activities both in
+observational astronomical research and technical development for future
+radio astronomy projects.
+
+UST-GUAS Radio Astronomy Winter School 2015, held on 10-13 February
+2015 in Jeju Island in Korea, is planned to provide introductory courses of
+radio astronomy to undergraduate and master-course students, especially
+those who are interested in conducting future radio astronomy research in
+Asian countries.
+
+The main topics covered in the winter school are:
+
+    a) Introduction to the radio astronomy world and
+      the basics of radio observations
+
+    b) Currently on-going and future radio astronomy projects,
+      especially those related with Korea, Japan and
+      East Asian Countries
+
+    c) Science highlights in the modern radio astronomy
+
+
+The winter school also includes tutorial/demo sessions for radio astronomy
+data analysis as well as the visit to the KVN Tamna 21m radio telescope.
+
+In order to support participations of young students, local expense in Jeju
+(including costs for hotel room, meal, and tour to the KVN
+telescope) will be provided by the sponsor institution (UST, Korea, and
+GUAS/SOKENDAI, Japan). Support to the flight may be provided (only
+partially), but the amount is dependent of the budgetary condition and it is
+subject to change.
+
+Due to the capacity limitation of the winter school venue, we expect that
+the maximum number of acceptable students is around 50.
+
+------------------------------------------------------
+Organizing committee: UST-GUAS-winterschool2015@nao.ac.jp
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

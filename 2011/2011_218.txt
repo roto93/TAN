@@ -1,0 +1,162 @@
+Date: Tue, 27 Dec 2011 02:50:50 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+Message-Id: <201112261850.pBQIooqV003736@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Dec 20 - 26, 2011)
+============================================================================== 
+
+In this issue (Dec 20 - 26, 2011)
+
+1. First LeCosPA Symposium - second announcement (Feb 6-9, 2012)
+2. ASIAA/CCMS/IAMS/NTU-Phys Jnt Colloquium (Dec 27): Naoki Kawashima (U Tokyo)
+
+==============================================================================
+
+> Date: Wed, 21 Dec 2011 23:01:29 +0800
+> From: Je-An Gu <jagu@ntu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: First LeCosPA Symposium - second announcement
+
+Dear Colleagues,
+
+    We will have the 1st LeCosPA Symposium on February 6-9, 2012, at the 
+National Taiwan University. Attached below please find the essential 
+information, a list of invited speakers, and the second announcement.
+
+------ Information ------
+First LeCosPA Symposium (LeCosPA2012)
+Date: February 6-9, 2012
+Venue: National Taiwan University
+Web: http://lecospa.ntu.edu.tw/LeCosPA2012/
+Deadline of registration: December 31, 2011
+
+------ Invited Speakers ------
+V. Berezinsky: Ultra High Energy Cosmic Rays: Is GZK cutoff found?
+L. Z. Fang: Turbulence of IGM and its cosmological effects
+P. Gorham: The Search for Ultra-high Energy Cosmic Neutrinos: Results 
+and Future Prospects
+P. Ho: The ALMA project
+T. Kamae: Physics from Fermi-Large Area Telescope
+A. Karle: Neutrino astronomy at the South Pole with IceCube and beyond
+S. P. Kim: Quantum Structure of de Sitter Space
+H. Kleinert: (TBA)
+S. C. Lee: The Status of the AMS Experiment
+M. Li: Is it possible to avoid energy loss for superluminal neutrinos?
+B. Q. Ma: New Perspective on Space-Time from Lorentz Violation
+H. Murayama: Cosmology and Particle Astrophysics at the IPMU
+K. Ni PandaX: a dark matter direct detection experiment at CJPL
+W.T. Ni: Foundations of Classical Electrodynamics, Equivalence Principle 
+and Cosmic Interactions Foundations of Classical Electrodynamics
+Panasyuk: Russian space experiments directed on the cosmic ray physics 
+study.
+IL. Park: Ultra-Fast Flash Observatory (UFFO) for early photon 
+measurements from Gamma Ray Bursts
+J. Rafelski: Critical Acceleration and Vacuum Structure
+H. Rosu: FRW Riccati Equation and related Barotropic-like Cosmologies
+Leszek Roszkowski: (TBA)
+R. Ruffini: Black Holes and Proto Black Holes
+W. Unruh: Measurement of Hawking radiation in Analog horizon
+G. Veneziano: Big Bang or Big Bounce?
+Raymond Volkas: Connecting the visible and dark matter densities: 
+pangenesis and other ideas.
+Shing-Tung Yau: Mass and waves in gravity
+J. Yokoyama: Generalized G-inflation
+
+
+------ 2nd Announcement ------
+
+Second Announcement of the 1st LeCosPA Symposium (December 20, 2011)
+
+    As the time for the 1st LeCosPA Symposium is gradually approaching, 
+we are pleased to update with you its development. So far most of the 
+invited Plenary Speaker have made their commitments to attend this 
+meeting. In addition we are very pleased to have rapidly filled up the 
+slots for invited and contributed speakers in the Parallel Sessions. As 
+for the social events, everything has been organized swiftly. We expect 
+this meeting to be very exciting indeed.
+
+    In order to further the bases of the participation, we have decided 
+to extend the deadline of registration until December 31, 2011. There 
+are still rooms for contributed talks in the Parallel Sessions and we 
+strongly encourage you to volunteer yourself to share with us your 
+latest findings in cosmology and particle astrophysics. In addition, we 
+have decided to create a Poster Session to encourage presentations from 
+post-docs and students. We have set aside a limited amount of our 
+resource to provide financial support for students. Please send us 
+message to inquire.
+
+    Please do feel free to ask for our assistance with regard to your 
+booking for the hotel accommodation and other logistic issues.
+
+    Sincerely,
+
+LeCosPA2012 Organizing Committee and Staff
+
+==============================================================================
+
+> Received: by 10.231.65.18 with HTTP; Thu, 22 Dec 2011 00:06:47 -0800 (PST)
+> Date: Thu, 22 Dec 2011 16:06:47 +0800
+> Subject: ASIAA/CCMS/IAMS/NTU-Physics Joint Colloquium, December 27
+> From: Chien-Fu Liu <chienfuliu@gmail.com>
+> To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+>        astro@asiaa.sinica.edu.tw
+
+Dear Colleagues,
+
+The NTU Physics Department, Center for Condensed Matter Science, Institute
+of Atomic and Molecular Sciences, and the Academia Sinica Institute of
+Astronomy and Astrophysics invite everyone to our joint colloquium series.
+The speakers are all famous international scholars and the colloquia are
+aiming at a broad audience, including undergraduate students. Below is the
+information of the talk on December 27(Tuesday). Please help to forward
+this to the colleagues in your departments.
+
+Best Regards,
+Chih-Wei Chang (CCMS)
+Jiunn-Wei Chen (NTU Physics)
+Jer-Lai Kuo (IAMS)
+Wei-Hao Wang (ASIAA)
+
+_______________________________________________________
+Speaker: Naoki Kawashima, University of Tokyo
+ Topic: Quantum Monte Carlo and Non-Ginzburg-Landau Type Phase Transition
+Time: 12/27 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCM-New Physics Building
+
+Abstract: Quantum Monte Carlo is one of powerful tools for clarifying
+quantum state of matter. Its applications ranges from quantum magnets to
+optical lattices. Here I summarize recent developments in the method and
+how it can be implemented in the world fastest computer. I then focus on
+how a class of peculiar quantum phase transitions have been discovered by
+this method. The transition is realized in the familiar antiferromagnetic
+Heisenberg model extended to the SU(N) symmetry.
+
+Brief Bio: Prof. Dr. Kawashima is a professor at Institute for Solid State
+Physics, University of Tokyo. He obtained his PhD in physics at Tokyo
+University in 1992. After working as a postdoc at Los Alamos National
+Laboratory, USA, for 1993-1995, he moved to Toho University (1995-1998) and
+Tokyo Metropolitan University (1998-2004). Then he came back to Tokyo
+University and has been working there since 2004. He received Ryogo Kubo
+Medal in 2002 for his work in quantum Monte Carlo method.
+
+For more information please see:
+http://web.phys.ntu.edu.tw/jwc/2011_Fall_colloq
+uia/Joint%20colloquia%20fall.html
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

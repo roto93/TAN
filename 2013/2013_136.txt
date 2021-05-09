@@ -1,0 +1,43 @@
+> Date: Sun, 21 Jul 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Preeti Kharb (Indian Institute of Astrophysics)
+Topic:        A Multi-wavelength Study of MOJAVE* Blazar Jets: Clues about their Emission Mechanisms
+Time:        7/26 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I present the results of our recent and ongoing work on the deep radio (VLA), optical (HST) 
+and X-ray (Chandra) imaging of blazar jets belonging to the MOJAVE sample. VLA imaging has 
+revealed that blazar jets often have complex structures. Many of them are bent, show multiple 
+hot spots and cannot be easily placed into the two primary Fanaroff-Riley categories. 
+Multi-epoch monitoring with the VLBA has produced a comprehensive database of individual 
+jet component speeds on parsec-scales. We have found a direct link between the jet speeds 
+on parsec-scales and the radio lobe emission on kiloparsec-scales. Deep Chandra and HST 
+observations of jets in selected MOJAVE blazars have indicated that the X-rays are produced 
+via the inverse-Compton over CMB photon (IC/CMB) mechanism. However, the latest data on a 
+hybrid morphology MOJAVE blazar suggest that the emission mechanisms may change along the
+length of the jet. I will briefly discuss the implications of our findings.  
+
+*MOJAVE = Monitoring of Jets in AGN with VLBA Experiments
+
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Amy Lien (GSFC)
+Topic:        Probing the Cosmic Gamma-Ray Burst Rate with Trigger Simulations of the Swift Burst Alert Telescope
+Time:        7/22 (Monday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Understanding the intrinsic cosmic long gamma-ray burst (GRB) rate is essential in many aspects of astrophysics and cosmology, such as revealing the connection between GRBs, supernovae and stellar evolution. Additionally, GRB rate at high redshift provides a strong probe of star formation history in the early universe, which is hard to measure directly through other methods. Swift, a multi-wavelength space telescope, is quickly expanding the GRB category by observing hundreds of GRBs and their redshifts. However, it remains difficult to determine the true intrinsic GRB rate due to the complex trigger algorithm adopted by Swift. Current studies of the GRB rate usually approximate the Swift trigger algorithm by a single detection threshold. However, unlike the previously flown GRB instruments, Swift has over 500 trigger criteria based on photon count rate and additional image threshold for localization. To investigate possible systematic biases and explore the intrinsic GRB pr!
+operties, we developed a program that is capable of simulating all the rate trigger criteria and mimicking the image trigger threshold. We use this program to search for the intrinsic GRB rate. Our simulations show that adopting the Swift’s complex trigger algorithm increases the detection rate of dim bursts. As a result, we find that either the GRB rate is much higher than previously expected at large redshift, or the luminosity evolution is non-negligible. We will discuss the best results of the GRB rate in our search, and their impact on the star-formation history.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,295 @@
+Date: Mon, 16 Sep 2013 16:37:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Aug 26 - Sep 15, 2013)
+
+============================================================================== 
+
+Due to some unexpected technical difficulties, TAN was taken offline until now.
+My apology.  YJK, TAN administrator
+
+============================================================================== 
+
+In this issue (Aug 26 - Sep 15, 2013)
+
+1. Reminder: ARO proposal submission deadline for Fall 2013 is Sep 17, 2013
+2. Reminder: CFHT 2014A proposal submission deadline is Sep 19, 2013 
+3. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Collqm (Sep 17): Koji Hashimoto (Osaka U)
+4. LeCosPA Cosmology Seminar (Sep 16): HanChih Chang (Uni of Washington)
+5. LeCosPA weekly Thursday Coffee Hour resumed starting from Sept 12 (4:30 pm)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Fall 2013)
+------------------------------------------------------------
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Sub-Millimeter Telescope (SMT), located on
+Mount Graham, of the Arizona Radio Observatory (ARO) are being solicited for the
+period October 15, 2013 - January 31, 2014. The proposal deadline of UCAT/ASIAA
+for this 2013 fall semester is set on September 17, 2013 (Tuesday).
+
+The SMT currently supports a dual-polarization, 1 mm receiver (215-280 GHz) with
+ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8 mm
+(320-370 GHz) receiver, and a 0.4 mm (602-720 GHz) dual-polarization receiver
+with ALMA Band 9 mixers. A new 0.7 mm (420-500 GHz) dual-polarization receiver
+incorporating sideband-separating mixers will be available as well. The SMT
+control system supports both dual polarization ("2 IF mode"), and dual
+polarization, dual sideband observations ("4 IF mode"), as well as OTF mapping.
+Remote observing is available http://aro.as.arizona.edu/remote/remote.htm .
+Graduate student participation is especially encouraged.
+
+Proposals should consist of:
+1. A proposal Cover Sheet, obtainable at http://aro.as.arizona.edu/proposals .
+2. A brief scientific and technical justification (no more than 2 pages).
+3. A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+4. Observers that plan to observe remotely must supply fixed IP address(es) of
+    the computer(s) that will be used during observing on the cover sheet of
+    the proposal.
+
+Proposers are required to list on the cover sheet their requested observing
+blocks (LST ranges), dates which they are not available to observe, and dates in
+which sources in those observing blocks are within the Sun Avoidance Zone (the
+SMT will not be pointed to sources within 44 degrees from the Sun).
+
+Proposers should consult the ARO website http://aro.as.arizona.edu/ for
+technical specifications. For further information about remote observing and
+other operational questions, contact Tom Folkers, Operations Manager
+tfolkers@email.arizona.edu .
+
+Electronic submissions will be accepted in PDF format only. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to
+kuan@asiaa.sinica.edu.tw by  midnight (23:59 pm CST) September 17, 2013.
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================
+
+> Date: Mon, 9 Sep 2013 16:26:16 +0800  
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>        
+> Subject: Fwd: CFHT 2014A call for proposal, and "long-term" proposals
+
+Dear Prof Kuan,
+
+
+Could you help to forward the following message to TAN?
+
+
+Cheers,
+Wei-Hao
+
+Begin forwarded message:
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Date: September 9, 2013 4:25:30 PM GMT+08:00
+> To: riaa@asiaa.sinica.edu.tw
+> Subject: CFHT 2014A call for proposal, and "long-term" proposals
+
+Dear All,
+
+I would like to bring to your attention that the deadline for CFHT 2014A proposals 
+is approaching, and it is Sep 19th 07:59.
+
+One thing I need to point out is that there will be a new "long-term" proposal category 
+for CFHT-Taiwan.  People who would like to request multi-semester observations or 
+large amount of observing time, will need to follow the long-term proposal guideline.
+The guideline, along with the call for proposals, can be found:
+http://oir.asiaa.sinica.edu.tw/cfht/observations.php
+
+Please feel free to contact me if you have any questions on this.
+
+Cheers,
+Wei-Hao Wang
+on behalf of the CFHT-Taiwan TAC
+
+==============================================================================
+
+> Date: Wed, 11 Sep 2013 09:53:05 +0800
+Message-ID: <CA+zn6nSW7vc1fELtpBA7wiXJm3myrJFOidUrg13ko_6x_U6WWw@mail.gmail.com>
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, September 17
+> From: "J.-P. Wu" <jpw750811@gmail.com>
+> To: wflam@ms.ntuccms.ntu.edu.tw, astro@asiaa.sinica.edu.tw,
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held
+on September 17.
+
+The Joint Colloquium Series is organized by the NTU Physics Department,
+Center for Condensed Matter Science (CCMS), Leung Center for Cosmology and
+Particle Astrophysics (LeCosPA), Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA), and the Institute of Atomic and Molecular Sciences
+(IAMS).
+
+The idea is to have excellent speakers to give inspiring, informative, but
+non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on September 17.
+
+Best regards,
+
+Juinn-Wei Chen (NTU-Phys)
+Jiwoo Nam (LeCosPA)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Yen-Ting Lin (ASIAA)
+
+--------------------------------------------------------------------------=
+
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+
+Speaker: Professor Koji Hashimoto (=BE=F4=A5=BB=A9=AF=A4h =B1=D0=B1=C2)
+
+        (Department of Physics, Osaka University)
+
+Topic : Condensed Matter Physics from String Theory
+
+Time  : 09/17 (Tue.) 14:20 - 15:10
+
+Place : Room 104, CCMS-New Physics Building
+
+Abstract:
+    Superstring theory has been served as a candidate for a theory unifying
+all matter and forces in the universe. Along its theoretical development, a
+new "principle" was found: "holographic principle", in other words,
+"AdS/CFT correspondence". This new principle creates bridges between
+various subjects in physics: gravity, particle physics, condensed matter
+and unclear physics. In this talk, I explain the new principle in plain
+words, and tell you how it works, how it can be applied, and how it can put
+an access to grand challenges in physics.
+
+Brief bio:
+
+2000 March, PhD in physics at Kyoto university (physics)
+2000 JSPS PD fellow, at KITP Santa Barbara
+2001 Assistant professor at university of Tokyo, institute of physics
+2010 Associate chief scientist at RIKEN, hosting Mathematical physics
+laboratory
+2012 Professor at Osaka university
+
+Currently working on string theory and its applications, in particular to
+hadron physics, nuclear physics and condensed matter physics. Hosting Nambu
+colloquium at Osaka unversity. Also having positions at RIKEN. Team leader
+at RIKEN iTHES project which unifies theoretical sciences. Editor of
+international academic journal "Progress of Theoretical and Experimental
+Physics". Being interested also in connecting science and art. Editorial
+committee member of a Japanese monthly magazine "Parity".
+
+For more joint colloquium information, please go to the website:
+http://web.phys.ntu.edu.tw/jwc/2013_Fall_colloquia/Joint%20colloquia%20fall=
+%202013.html
+
+-------------------------------------------------------------------------=
+
+==============================================================================
+
+> From: Yen-Ling Anne Lee <ntulecospa@ntu.edu.tw>
+> To: Yang Cheng-Tao <yanmeme915@hotmail.com>,
+        "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>,
+        "faculty@asiaa.sinica.edu.tw" <faculty@asiaa.sinica.edu.tw>
+Subject: LeCosPA Cosmology Seminar_Sept 16
+Date: Fri, 13 Sep 2013 08:36:18 +0000
+
+Dear All,
+
+Dr. HanChih Chang from University of Washington will give us a talk next Monday. Welcome to join us and more info are as below,
+
+Time: 14:20-15:30pm, September 16
+Venue: R818, Astro-Math Bldg.
+Speaker: Dr. HanChih Chang
+
+Title: Entanglement Entropy for Probe Branes, the leading Backreaction.
+
+Abstract:
+Motivated by the vast utility of probe brane systems, we will review
+the notion of holographic quantum entanglement entropy, together with
+the extension thereof by probe brane systems through systematically
+taking the leading order backreaction of the probe branes into
+account.
+
+
+Lance Labun
+TsungChe Liu
+
+==============================================================================
+
+> From: Yen-Ling Anne Lee <ntulecospa@ntu.edu.tw>
+> To: "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>,
+>      "faculty@asiaa.sinica.edu.tw" <faculty@asiaa.sinica.edu.tw>,
+>      "tofaculty@phys.ntu.edu.tw" <tofaculty@phys.ntu.edu.tw>,
+>      "faculty@ms.ntu-ccms.ntu.edu.tw" <faculty@ms.ntu-ccms.ntu.edu.tw>,
+>      "Physics Faculty" <phys_faculty@phys.ntu.edu.tw>,
+> Subject: Thursday Coffee Hour resumed TOMORROW, Sept 12, 4: 30pm
+> Date: Wed, 11 Sep 2013 09:03:55 +0000
+
+Dear Colleagues,
+
+We hope that you had a relaxed summer break and have recuperated for the new
+academic year.
+
+We are happy to resume the Thursday Coffee Hour in the lobby on the 8th floor
+of the Astro-Math Building (AMB). LeCosPA remains honored to be the host of
+this weekly happy hour. All colleagues from NTU Physics Department, Center
+for Condensed Matters Research, Leung Center for Cosmology and Particle
+Astrophysics (LeCosPA) and Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA) are cordially invited.
+
+Dr. Je-An Gu of LeCosPA will serve you his gourmet coffees collected from
+different corners of the world this semester every other Thursday. Starbucks
+coffee, tea and dessert will still be served on the alternating Thursdays.
+Please come and enjoy a relaxed time together. Great ideas may even be
+stimulated out from this occasion.
+
+*Location: 8th Floor Lobby, Astro-Math Building
+*Time: 16:30-17:30
+
+*Here is the schedule of this semester's Thursday Coffee Hours:
+
+9/12 Je-An
+9/19 (Holiday)
+9/26 Starbucks
+10/03 Je-An
+10/10 (Holiday)
+10/17 Starbucks
+10/24 Je-An
+10/31 Starbucks
+11/07 Je-An
+11/14 Starbucks
+11/21 Je-An
+11/28 Starbucks
+12/5 Je-An
+12/12 Starbucks
+12/19 Je-An
+12/26 Starbucks
+1/2 Je-An
+1/9 (Final exam week)
+
+
+Eagerly looking forward to seeing you there,
+
+
+Yuan-Huei Chang, Chairman, Department of Physics
+Pisin Chen, Director, LeCosPA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

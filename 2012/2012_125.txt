@@ -1,0 +1,79 @@
+Date: Fri, 29 Jun 2012 00:41:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 21 - 28, 2012)
+
+============================================================================== 
+
+In this issue (Jun 21 - 28, 2012)
+
+1. ASIAA Coloquia (Jun 29): Xuening Bai (Princeton Univ)
+                  (Jun 25): Djazia Ladjal (Denver Univ)
+
+==============================================================================
+
+> Date: Sun, 24 Jun 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>    web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Dr. Xuening Bai (Princeton University)
+Topic:        Accretion in Protoplanetary Disks: Magneto-rotational Instability or Magneto-centrifugal Wind?
+Time:        6/29 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Magnetic field is widely believed to play a crucial role in
+driving accretion in astrophysical disks, mainly via the
+magneto-rotational instability (MRI) or the magneto-centrifugal wind. In
+protoplanetary disks (PPDs), these mechanisms are strongly affected by
+non-ideal MHD effects (Ohmic resistivity, Hall effect and ambipolar
+diffusion) due to the weak ionization level in PPDs. In this talk, I first
+examine the effectiveness of the MRI by applying simulation results in
+different non-ideal MHD regimes to PPD models. It is found that in the
+inner region of PPDs (~1AU), the MRI itself is insufficient to account for
+the observed PPD accretion rates. The MRI works more efficiently in the
+outer disk, especially in the presence of PAHs which reduces the strength
+of ambipolar diffusion. In the second part of the talk, I describe our
+vertically stratified shearing-box simulations of PPDs that for the first
+time, simultaneously include the effects of both Ohmic resistivity and
+ambipolar diffusion in a self-consistent manner. In the presence of a weak
+net vertical magnetic field (beta~1e5 at midplane), the MRI is completely
+suppressed in the inner region of PPDs, where the gas flow is purely
+laminar. A a strong magneto-centrifugal wind is launched that efficiently
+carries away the disk angular momentum, and the resulting wind-driven
+accretion rate is consistent with observations. I conclude by proposing a
+new scenario on the accretion processes in PPDs.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Djazia Ladjal (Denver University)
+Topic:        The Herschel Planetary Nebula Survey (HerPlaNS)
+Time:        6/25 (Monday) 15:30 - 16:30
+Place:        R1203
+Abstract:
+HerPlaNS is a Herschel Open Time program that exploits the unprecedented spatial resolving power in the far infrared of the Herschel Space Observatory to investigate a sample of 11 planetary nebulae (PNe). The aim of the program is to study the chemistry, the energetics and the physical evolution of the nebula by tracing the cold dust component by means of imaging data with PACS and SPIRE and tracing the gas component by means of spectroscopy observations with PACS and SPIRE at different locations in the nebula. Combining both imaging and spectroscopy data will teach us about the interplay between the gas and dust as well as the interaction between the stellar material and the interstellar medium. HerPlaNS offers a novel view of Planetary Nebulae by it spatial spectral and imaging data. In this talk, l will introduce the HerPlaNS program and discuss some of our preliminary results.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

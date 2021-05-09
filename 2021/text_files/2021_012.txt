@@ -1,0 +1,161 @@
+=============================================================================
+
+In this issue (Jan 19 - 22, 2021)
+
+1. Arizona Radio Observatory - Call for Proposals: 2021A (Feb 22)
+2. Extension to all the cycles for calibrated MS delivery
+3. ASIAA Colloquium/Seminar/Lunchtalk (Jan 25): Cheng-Han Hsieh (Yale Univ)
+                                      (Jan 26): Alex Tetarenko (EAO)
+                                      (Jan 27): Tony Mroczkowski (ESO)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2021A)
+------------------------------------------------------------------------------
+
+To Astronomers and Astrophysicists of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the 10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for the period March 15, 2021 â€“ June 15, 2021. No new proposals for the ALMA Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona will be accepted for this current call as proposals from the 2020A call for proposals are being observed during the 2021A proposal period. Proposal candidates from members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should submit up to THREE pages of scientific and technical justification (including figures, tables, and references) in addition to their Proposal Summary Sheet (form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the Proposal Summary Sheet their requested observing blocks (the exact LST ranges to be scheduled and number of times to be repeated), dates on which they are NOT available to observe, and dates in which sources in those observing blocks are within the Sun-avoidance zone (45 degrees at the SMT).
+
+The 10m SMT currently supports dual-polarization sideband-separating (SBS) observations at 1mm (211â€“280 GHz) and dual-polarization double-sideband observations at 0.8mm (325â€“370 GHz). The SMT control system supports both dual-polarization ("2 IF mode") and dual-polarization + dual-sideband observations ("4 IF mode") with tunable IF from 4.5â€“7.5 GHz, for position-switched, beam-switched, and OTF observations.  Proposal candidates should consult the ARO Equipment Summary and Status sheet for additional technical specifications:
+https://www.as.arizona.edu/arizona-radio-observatory .
+
+The SMT is currently restricted to remote observing. Observers must supply fixed IP address(es) of the computer(s) that will be used during observing on their Proposal Summary Sheet. For further information about remote observing and other operational questions, please contact the ARO Software Engineer Natalie Gandilo ngandilo@email.arizona.edu
+
+Scheduling of successful proposals will be done according to availability of the receivers requested. Proposals which request observing time greater than 24 hours will be considered based on scientific merit. Participation of graduate students is especially encouraged. Proposals should be emailed as a single file in PDF format to: kuan[at]asiaa.sinica.edu.tw by 23:59 CST on February 22, 2021 (Monday).
+
+==============================================================================
+
+Subject: Extension to all the cycles for calibrated MS delivery
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Tue, 19 Jan 2021 17:34:38 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+        riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear ALMA users,
+
+We would like to let you know that you can now request calibrated =
+measurements sets for all the Cycles. Please request via the Helpdesk =
+following the instruction below.
+Please also note that this service is offered on a best effort basis. If =
+multiple requests overlap, or if there is a request for large data, it =
+may not be possible to delivery the calibrated MS immediately and you =
+may have to wait.=20
+We would appreciate your understanding in advance.
+
+Hope that this service will be useful for your archival research. Please =
+also forward this information to your colleagues who have difficulties =
+to calibrated the raw data.
+
+-----------------------------------------------
+- The delivery service is offered for interferometric data (the service =
+is not offered for single-dish data).
+- Calibrated MS for up to 5 Scheduling Blocks can be requested at one =
+time.
+- The product that we will deliver is the outcome of running =
+"scriptForPI.py".
+- Notification will be sent as soon as the calibrated MS is ready. Then =
+you will need to download the calibrated MS in 15 days.
+
+=E3=80=90How to request=E3=80=91
+1. Log in to Helpdesk https://help.almascience.org/ =
+<https://help.almascience.org/>
+2. Create a new ticket by clicking "Submit Helpdesk Ticket"
+3. Choose "Archive and Data Retrieval (EA)" as Department
+4. Put "Request of calibrated MS" as Subject
+4. Choose "Data request (calibrated MS, stale data, calibrator data, or =
+suggestions)" as Sub-category, provide the following information in the =
+box of "Message", then "Submit" the ticket
+
+***************
+Message
+***************
+a. Your affiliation
+[example: University of Tokyo]
+
+
+b. Project Code and SB name of the data
+[example: please split Project Code and SB name with a space.
+2013.1.00010.S NGC253_a_04_TM1
+2013.1.00010.S NGC253_a_07_TM1
+2014.1.00020.S NGC1068_a_06_TM1
+]
+
+
+***************
+
+If you have any questions, please ask via Helpdesk =
+(https://help.almascience.org/ <https://help.almascience.org/>).
+
+best,
+Yu-Nung=
+
+==============================================================================
+
+Date: Thu, 21 Jan 2021 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *6PM* this Thursday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Cheng-Han Hsieh (Yale University)
+Topic:         Evidence that 'Oumuamua is the ~45Myr-old product of a Molecular Cloud
+Time:         1/25 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+The arrival of ISOs -- and specifically the appearance of 1I/'Oumuamua -- points to a significant number density of free-floating bodies in the Solar neighborhood. We study the details of 'Oumuamua's pre-encounter galactic orbit and find that it encountered our Sun at very nearly its maximum vertical and radial excursion relative to the galactic plane. 'Oumuamua's kinematics, moreover, strongly resemble those of nearby Young Associations. To obtain an order-of-magnitude a-priori age estimate, we compared 'Oumuamua's orbit to the orbits of 13,066 F-type stars drawn from the Gaia DR2, and with a simple diffusion model, we find tau_`O ~35 Myr. We then compare 'Oumuamua's orbit with the trajectories of nearby moving groups, confirming that its motion is consistent with its membership in the Carina and Columba associations, whose ages are 45 Myr. We conducted Monte Carlo simulations that trace the orbits of test particles ejected from the stars in the Carina and Columba associati!
+ ons. We find that to achieve the inferred Pan-STARRS number density of 0.2 ISOs per au^3, the required ejection mass is ~ 100 M_{Jup} per known star within the associations. The Pan-STARRS observation is thus in significant tension with scenarios that posit 'Oumuamua's formation and ejection from a protostellar disk.
+
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Alex Tetarenko (EAO)
+Topic:         Unraveling the complex nature of black holes and how they power explosive outflows with time-domain observations
+Time:         1/26 (Tuesday) 10:30 - 11:30
+Place:          R1203
+Abstract:
+Time-domain observations now offer a promising new way to study accretion and jet physics in X-ray binaries. Through detecting and characterizing rapid flux variability in these systems across a wide range of wavelength/energy bands (probing emission from different regions of the accretion flow and jet), we can measure properties that are difficult, if not impossible, to measure by traditional spectral and imaging methods (e.g., size scales, geometry, jet speeds, the sequence of events leading to jet launching). While variability studies in the X-ray bands are a staple in the X-ray binary community, there are many challenges that accompany such studies at longer wavelengths. However, with recent advances to observing techniques/instrumentation, the availability of new computational tools, and today's improved coordination capabilities, we are no longer limited by these challenges. In this talk, I will discuss new results from multi-wavelength fast timing observations of Cygn!
+ us X-1 and MAXI J1820+070, highlighting how we can directly connect variability properties to internal jet physics. Additionally, I will discuss future prospects for obtaining more of these invaluable data sets, and the key role that next-generation instruments will play in driving new discoveries through this science.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Tony Mroczkowski (ESO)
+Topic:         The Atacama Large Aperture Submillimeter Telescope Project
+Time:         1/27 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Astrophysical observations at (sub-)mm wavelengths (Î» from ~300 Î¼m to ~3mm) allow us to study the cold and dense material in the Universe, hence probing the formation of stars and planets, and the interstellar and circumgalactic medium within galaxies across cosmic time. The current generation of 10-meter-class single dish telescopes has delivered some of the first surveys at (sub-)mm wavelengths, allowing us to go far beyond the previously optical-biased view of the Universe. Follow-up observations with interferometers then revealed in exquisite detail the morphology and kinematics of such (sub-)mm sources, enabling tests and revisions of theoretical models for the formation and evolution of planets, stars, and galaxies.  However, it is now clear that without a transformative change in the capabilities of single-dish facilities in the 2030s, interferometers (like the ALMA observatory) will soon become source-starved. The current generation of 10-m class single dish telesc!
+ opes, with their limited fields of view, spatial resolutions, and sensitivities, can only reveal the â€˜tip of the icebergâ€™ of the (sub-)mm source population, both for Galactic and extragalactic studies. These limitations cannot be fully mitigated by interferometers, which are all intrinsically affected by a low mapping speed and by the loss of diffuse extended signals.
+
+The Atacama Large Aperture Submillimeter telescope (AtLAST; http://atlast-telescope.org/;https://ui.adsabs.harvard.edu/abs/2020arXiv201107974K/abstract) project is a concept for a 50-meter diameter single dish observatory to be built near the ALMA site. With its extremely large field of view (the goal is ~ 2 degrees), spatial resolution (up to ~1.5â€ at 350 Î¼m), and sensitivity to both point sources and large-scale structures, AtLAST will be transformational for all fields of Astronomy in the 2030s. Here we will describe the recently approved EU Horizon2020 project to deliver a comprehensive design study for such a next-generation single-single dish facility.  Beyond the EU, AtLAST would welcome an international consortium, and is beginning to garner broad support, with support from the Japanese 50-meter Large Submm Telescope community as well as many US Astro2020 decadal and Canadian Long Range Plan 2020 science case submissions.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

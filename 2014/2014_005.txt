@@ -1,0 +1,55 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun,  5 Jan 2014 08:00:04 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Daniel Pfenniger (University of Geneva)
+Topic:        The dynamics of barred spiral galaxies
+Time:        1/8 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Most spiral galaxies are strongly or weakly barred.  The dynamics
+of barred galaxies is radically different from the dynamics of
+axisymmetric disks, as angular momentum and energy are no longer
+conserved quantities.  Furthermore bar dynamics is fully
+3-dimensional, as vertical resonances and chaotic motion
+play an important role in these systems.
+Understanding the dynamics of barred galaxies has turned out
+to be essential for today's Galactic astronomy, for
+which large-scale surveys, such as GAIA, are ongoing.
+Indeed the Milky Way has been found to be a spiral galaxy with a
+peanut-shaped bar, a signature of a strong and old bar.
+I will review the main characteristics of barred galaxies
+for an astronomer audience not necessarily familiar with
+galactic dynamics.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Kazunori Akiyama (NAOJ/Univ. of Tokyo)
+Topic:        millimeter VLBI observations of Sgr A* and M87 with VERA and EHT
+Time:        1/9 (Thursday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Despite the universality of accretion and outflow processes in a wide variety of astrophysical systems, much remains unknown about the detailed structure of the innermost regions of the accretion flow and relativistic jet in the vicinity of a supermassive black hole (SMBH). The SMBHs in the center of our Galaxy (Sgr A*) and the nearby active galaxy M87 are excellent laboratories to study these processes because the angular resolution attainable with short-mm VLBI corresponds to a few Schwarzschild radii for these sources (r_Sch = 10 microarcseconds and 7 microarcseconds for Sgr A* and M87, respectively).
+
+For Sgr A*, we present the results of 7-mm VLBI observations with VERA, a VLBI instrument in Japan.  We report the results of multi-epoch observations of Sgr A* in 2005-2008 as well as preliminary results from monitoring that resumed in January 2013 in order to trace the effects of the G2-cloud infall event.
+
+For M87 we show preliminary results of 1.3-mm VLBI observations with the Event Horizon Telescope in March 2012, during the middle of a period of enhancement in Very High Energy (VHE; > 200 GeV) emission. We briefly discuss implications for the structure of the M87 millimeter and VHE emission regions based on these results.
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Daniel Pfenniger (University of Geneva)
+Topic:        Complex Instability in Astrodynamics
+Time:        1/9 (Thursday) 16:00 - 17:00
+Place:        R1107
+Abstract:
+Complex instability is a generic instability of Hamiltonian systems which occurs only for stationary states in systems with dimension  at least 2, and for periodic orbits in systems with dimension at least 3. Its properties have been studied since the 80's, but rigorous mathematical works are still published nowadays. I will explain complex instability for a physics oriented audience, and discuss some interesting situations concerning astrophysics.
+
+==============================================================================

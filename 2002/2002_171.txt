@@ -1,0 +1,269 @@
+From astro Wed Oct  9 02:09 CST 2002
+Received: (from astro@localhost)
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) id CAA17644
+	for astro; Wed, 9 Oct 2002 02:09:07 +0800 (CST)
+Date: Wed, 9 Oct 2002 02:09:07 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+Message-Id: <200210081809.CAA17644@iaa17.asiaa.sinica.edu.tw>
+To: astro
+Subject: TAN (Issue Oct 03-09, 2002)
+Content-Type: text
+Content-Length: 11948
+Status: RO
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (Oct 03 - 09, 2002):
+
+(Very Sorry, some are late!  But to just give you a sense about what 
+ have been happening elsewhere in Taiwan, they are still included.
+ Just a friendly reminder, please send in your messages early to make
+ sure it will be forwarded in time.  My apology.)
+
+1. CosPA  Joint Groups Meeting on October 7: Tzi Hong Chiueh (NTU)
+2. NTHU Colloquium (Oct 04): Chung-Ming Ko (NCU)
+3. NTHU Colloquium (Oct 11): Ching-Yuan Huang (Inst. Sci Nuclearires)
+4. NCU Astronimy Colloquium (Oct 11): Alfred Bing-Chih Chen (NCKU)
+5. The 2002 Nobel Prize in Physics -- Now X-ray!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Message-ID: <001101c26ab7$c43bad80$7365708c@phys.ntu.edu.tw>
+From: "Vicky Chen" <wcchen@phys.ntu.edu.tw>
+To: =?big5?B?uOK2x6l2?= <ctchan@phys.ntu.edu.tw>, <amiba@asiaa.sinica.edu.tw>,
+        <astro@asiaa.sinica.edu.tw>, <b5202023@ms.cc.ntu.edu.tw>,
+Cc: "Vicky Chen" <wcchen@phys.ntu.edu.tw>,
+        "Chih-Hsin" <chhuang@phys.ntu.edu.tw>
+Subject: CosPA  Joint Groups Meeting on October 7
+Date: Thu, 3 Oct 2002 16:35:00 +0800
+
+======================================================
+        *     CosPA Theory  Seminar    *
+    *       J O I N T  G R O U P S  M E E T I N G     *
+======================================================
+
+Title:  Galaxy Clusters, Cosmic Equation of State and Galactic Black Holes
+
+Speaker:  Prof. Tzi Hong Chiueh
+              (Dept. of Physics, NTU)
+
+October 7, 2002  (Monday, 4:10 - 6:10 p.m.)
+
+Room 815, New Physics Building, NTU
+
+  * Coffee hour starts at 3:50 p.m.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Thu, 3 Oct 2002 16:30:06 +0800 (CST)
+From: Dean-Yi Chou <chou@phys.nthu.edu.tw>
+Message-Id: <200210030830.g938U6K40536@phux1.phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title:   An Overview on Recent Cosmic Ray Research
+
+Speaker:  Chung-Ming Ko 
+         Institute of Astronomy, National Central University, Taiwan
+
+Date:    4 October, 2002
+Time:    12:10
+Place:   Room 620,  Physics Building, NTHU
+        
+***************************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Thu, 3 Oct 2002 16:41:53 +0800 (CST)
+From: Dean-Yi Chou <chou@phys.nthu.edu.tw>
+Message-Id: <200210030841.g938fr740582@phux1.phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title:    Atmospheric Antiprotons in Earth Neighbourhood
+
+Speaker:  Ching-Yuan Huang
+          Institut des Sciences Nucleaires, France
+
+Date:    11 October, 2002
+Time:    12:10
+Place:   Room 620,  Physics Building, NTHU
+
+Abstract:
+
+Abstract
+Secondary atmospheric antiprotons are studied. A parametrisation of the
+inclusive cross section for the \pbar production in $p+p$ and $p+A$ collisions
+is developed, based on the Quark Counting Rule, the Regge Phenomenology and data
+fitting. This parametrisation is shown to have a good agreement with
+experimental data for incident nucleon energy at least up to 24 GeV/n in the
+laboratory frame. By the analysis of the \pbar mean multiplicity distribution,
+this parametrisation can extend at least up to the centre of mass energy
+$\sqrt{s} \simeq 25$ GeV. Based on this well developed parametrisation, the
+Wounded Nucleon Model is applied to obtained the \pbar production cross section
+in $A+A$ collisions. By including cosmic protons and heliums, the atmospheric
+\pbar flux at high balloon and satellite altitudes are calculated. The
+$He$-induced collisions are shown to contribute about 30\% in the total
+secondary atmospheric \pbar flux. It is observed that, for the interest of the
+\pbar exotic origins such as the annihilation of supersymmetric dark matter
+(neutralino) and the evaporation of primordial black holes, the energy range up
+to $E=200$ GeV/n for cosmic particles generating the secondary atmospheric \pbar
+production is the most important. It is shown that the secondary atmospheric
+\pbar flux used to correct the \pbar flux at TOA was underestimated in the
+previous works. In this work, the \pbar flux at TOA is then modified 10-15\%
+lower than the originally deduced, for the energy range $E_k>1$ GeV. A \pbar
+measurement experiment at the ground level is used to test the accuracy of
+secondary atmospheric \pbar production calculated by different works. The
+results of the BESS 1999 experiment at 2.77 km have confirmed the correctness of
+the present approach. At the AMS altitude, it is shown that the \pbar flux
+measured by AMS is almost the exact \pbar flux at TOA, with only 2-3\% of the
+atmospheric \pbar component. It is found that, even at very high altitudes,
+thousands of kilometres above the Earth, there are still some residual
+atmospheric antiprotons and their trajectories are very complex and cannot be
+well explained by the usual variables. Finally, the secondary atmospheric $p$
+flux at low altitudes are calculated. The deviation between the calculation and
+the measurements and the possible origins of this deviation are discussed.
+Comments, remarks and conclusions are given.\\ \vspace*{1cm}\\ {\bf Keywords:}
+secondary antiprotons flux, Top of Atmosphere (TOA), inclusive cross section,
+Quark Counting Rule, Regge Phenomenology, mean multiplicity, Wounded Nucleon
+Model, supersymmetric dark matter, neutralino, primordial black holes
+***************************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Message-ID: <3DA0EB54.1040905@astro.ncu.edu.tw>
+Date: Mon, 07 Oct 2002 10:03:00 +0800
+From: Yi Chou <yichou@astro.ncu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: NCU Astronimy Colloquium
+
+           National Central University
+               Astronomy Colloquium
+
+         2:00 pm, 11 October 2002 (Friday)
+       Science Building IV, Conf. Room, Rm 1013
+
+       Speaker:  Dr. Alfred Bing-Chih Chen
+                     Department of Physics
+                     National Cheng Kung University
+
+      Title :  X-ray Binary 4U1543-47 and an Outburst in 2002
+
+--
+Yi Chou
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Tue, 8 Oct 2002 19:50:13 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@x.geos.ntnu.edu.tw>
+To: heat@crab6.phys.nthu.edu.tw, odo@sgrb2.geos.ntnu.edu.tw
+Subject: The 2002 Nobel Prize in Physics
+
+FYI  :)
+
+(from http://www.nobel.se/physics/laureates/2002/press.html)
+-----------------------------------------------
+Press Release: The 2002 Nobel Prize in Physics
+8 October 2002
+
+The Royal Swedish Academy of Sciences has decided to award the Nobel Prize
+in Physics for 2002 with one half jointly to
+
+Raymond Davis Jr
+Department of Physics and Astronomy, University of Pennsylvania,
+Philadelphia, USA, and
+
+Masatoshi Koshiba
+International Center for Elementary Particle Physics, University of Tokyo,
+Japan
+
+for pioneering contributions to astrophysics, in particular for the
+detection of cosmic neutrinos
+
+and the other half to 
+
+Riccardo Giacconi
+Associated Universities Inc., Washington DC, USA
+
+for pioneering contributions to astrophysics, which have led to the
+discovery of cosmic X-ray sources.
+
+
+Two New Windows on the Universe
+The Earth lies in the path of a continuous flux of cosmic particles and
+other types of radiation. This year's Nobel Laureates in Physics have
+used these very smallest components of the universe to increase our
+understanding of the very largest: the Sun, stars, galaxies and
+supernovae. The new knowledge has changed the way we look upon the
+universe. 
+
+The mysterious particle called a neutrino was predicted as early as 1930
+by Wolfgang Pauli (Nobel Prize in 1945), but it would take 25 years to
+prove its existence (by Frederick Reines, Nobel Prize in 1995). This is
+because neutrinos, which are formed in the fusion processes in the Sun and
+other stars when hydrogen is converted into helium, hardly interact at all
+with matter and are therefore very difficult to detect. For example,
+thousands of billions of neutrinos pass through us every second without
+our noticing them. Raymond Davis Jr constructed a completely new detector,
+a gigantic tank filled with 600 tonnes of fluid, which was placed in a
+mine. Over a period of 30 years he succeeded in capturing a total of 2,000
+neutrinos from the Sun and was thus able to prove that fusion provided the
+energy from the Sun. With another gigantic detector, called Kamiokande, a
+group of researchers led by Masatoshi Koshiba was able to confirm Davis's
+results. They were also able, on 23 February 1987, to detect neutrinos
+from a distant supernova explosion. They captured twelve of the total of
+1016 neutrinos (10,000,000,000,000,000) that passed through the
+detector. The work of Davis and Koshiba has led to unexpected discoveries
+and a new, intensive field of research, neutrino-astronomy.
+
+The Sun and all other stars emit electromagnetic radiation at different
+wavelengths, both visible and invisible light, e.g. X-rays. In order to
+investigate cosmic X-ray radiation, which is absorbed in Earth's
+atmosphere, it is necessary to place instruments in space. Riccardo
+Giacconi has constructed such instruments. He detected for the first time
+a source of X-rays outside our solar system and he was the first to prove
+that the universe contains background radiation of X-ray light. He also
+detected sources of X-rays that most astronomers now consider to contain
+black holes. Giacconi constructed the first X-ray telescopes, which have
+provided us with completely new and sharp images of the
+universe. His contributions laid the foundations of X-ray astronomy.
+
+--------------------------------------------------------------------------------
+
+Raymond Davis Jr, born 1914 (87 years), in Washington, DC, USA (US
+citizen). PhD in Chemistry 1942 at Yale University, Connecticut,
+USA. Professor Emeritus at the Department of Physics and Astronomy,
+University of Pennsylvania, Philadelphia, USA.
+
+Masatoshi Koshiba, born 1926 (76 years), in Toyohashi , Aichi, Japan
+(Japanese citizen). PhD 1955 at the University of Rochester, New York,
+USA. Professor Emeritus at the International Center for Elementary
+Particle Physics, University of Tokyo, Japan. 
+
+Riccardo Giacconi, born 1931 (71 years), in Genoa, Italy (US citizen). PhD
+1954 at the University of Milan. President of Associated Universities,
+Inc., Washington, DC, USA.
+
+Prize amount: SEK 10 million. Davis and Koshiba share one half and
+Giacconi receives the other half.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

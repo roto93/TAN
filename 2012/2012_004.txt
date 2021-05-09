@@ -1,0 +1,152 @@
+Date: Thu, 5 Jan 2012 03:36:13 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Dec 28, 2011 - Jan 04, 2012)
+
+============================================================================== 
+
+In this issue (Dec 28, 2011 - Jan 04, 2012)
+
+1. Colloquium at IANCU (Jan 03): Chakali Eswaraiah (ARIES, Nainial, INDIA)
+2. ASIAA Colloquium (Jan 06): Tony Wong (University of Illinois)
+3. Colloquium at IANCU (Jan 06): Regina Huang (NTHU Astronomy)
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Special Colloquium at IANCU
+> Date: Wed, 28 Dec 2011 12:10:57 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, below is the information for upcoming special colloquium at IANCU;
+
+Title: Optical and NIR polarimetric studies towards star-forming regions
+Speaker: Dr. Chakali Eswaraiah (ARIES, Nainial, INDIA.)
+Date: 2012-01-03
+Time: 15:00-16:00
+Location: NCU, S4-1013
+Abstract:
+
+Linear polariemetric observations in optical and near-infrared wavelengths are useful
+tools to study the dust grain properties as well as to map the magnetic field
+orientation towards various Galactic environments especially towards the star-forming
+and molecular cloud regions. We have demonstrated that the Stokes plane in combination
+with optical color-color diagram can efficiently be used to identify the probable
+members of star clusters. Since young-stellar-objects (YSOs) with circumstellar material
+exhibit either intrinsic polarization or rotation in their polarization angles,
+consequently show scattered distribution in the stokes plane. The stokes plane can also
+be used to identify the YSOs. In this talk, I will present our recent results based on
+optical polarimetric observations of three star-forming regions NGC1893, Berkeley 59,
+NGC1931 and one isolated molecular cloud core B227. I will also present preliminary
+results for Carina Nebula and RCW57 based on NIR polarimetric observations.
+
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201201031500.html
+
+-----------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> Date: Sun, 1 Jan 2012 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>     web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Tony Wong (University of Illinois)
+Topic:		Molecular Clouds in the Large Magellanic Cloud
+Time:		1/6 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+With the Magellanic Mopra Assessment (MAGMA), we have recently 
+completed a CO imaging survey of the most luminous giant molecular 
+clouds (GMCs) in the Large Magellanic Cloud (LMC) with the Mopra 
+mm-wave telescope.  In this talk I will describe recent progress in 
+deepening our understanding of GMC evolution using CO surveys of the 
+LMC.  Molecular gas is found in regions with high gas columns, but 
+high gas columns do not guarantee CO detection.  The inferred 
+properties of the GMCs depend a great deal on the analysis technique, 
+and the expected size-linewidth correlation only becomes apparent on 
+large scales. The velocity gradients across GMCs are similar to those 
+found in the surrounding atomic gas and do not appear indicative of 
+rotation.  Examining the CO detection statistics towards candidate 
+young stellar objects (YSOs), we find that more luminous YSOs are more 
+likely to show detectable CO emission.  Conversely, more luminous GMCs 
+are more likely to contain YSOs.  On the other hand, the virial 
+parameter of a GMC has little influence on whether it is likely to 
+exhibit massive star formation.  Our results support a tight linkage 
+between molecular gas and star formation but call into question the 
+assumption that GMCs are gravitationally bound (and thus long-lived) 
+entities. 
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Tue, 3 Jan 2012 10:39:34 +0800
+
+----------------------------------------------------------------------------
+
+Dear all, below is the information for upcoming colloquium at IANCU:
+
+Title: Identification campaign of supernova remnant candidates in the Milky Way: Chandra
+observation of G308.3-1.4
+Speaker: Dr. Regina Huang (NTHU Astronomy)
+Date: 2012-01-06
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+
+ROSAT all-sky survey data have provided another window to search for supernova remnants
+(SNRs). In reexamining this data archive, a list of unidentified extended X-ray objects
+have been suggested as promising SNR candidate. However, most of these targets have not
+yet been fully explored by the state-of-art X-ray observatories. For selecting a pilot
+target for a long-term identification campaign, we have observed the brightest
+candidate, G308.3-1.4, with Chandra X-ray observatory. An incomplete shell-like X-ray
+structure which well-correlated with the radio shell emission at 843 MHz has been
+revealed. The X-ray spectrum suggests the presence of a shock-heated plasma. The
+brightest X-ray point source detected in this field-of-view is also the one locates
+closest to the geometrical center of G308.3-1.4, which has a soft spectrum. The
+intriguing temporal variability and the identification of optical/infrared counterpart
+rule out the possibility of an isolated neutron star. Together with a putative
+periodicity of ~1.4 hrs, the interesting excesses in the V-, B- bands, and H-alpha
+suggest this source as a promising candidate of a compact binary survived in a supernova
+explosion.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201201061400.html
+
+----------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

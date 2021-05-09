@@ -1,0 +1,103 @@
+From kyl@asiaa.sinica.edu.tw Thu Nov 30 15:55 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA21641
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 30 Nov 2000 15:54:14 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA02966
+	for <astro@asiaa.sinica.edu.tw>; Thu, 30 Nov 2000 16:01:05 +0800
+Date: Thu, 30 Nov 2000 15:48:00 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Lecture Series in Bioinformatics (fwd)
+Message-ID: <Pine.SOL.4.10.10011301547560.14329-100000@iaa3>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id PAA21641
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 2446
+Status: R
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Thu, 30 Nov 2000 12:10:41 +0800 (CST)
+From: Assistant Account <assistant@phys.cts.nthu.edu.tw>
+To: kyl@asiaa.sinica.edu.tw
+Subject: Lecture Series in Bioinformatics
+
+      
+
+ **************** National Center for Theoretical Sciences****************
+
+                           Mathematics and Physics
+
+                      Lecture Series in Bioinformatics
+
+
+ Speaker : 李  文  雄  院士
+           Wen-Hsiung Li (University of Chicago)
+   
+ Title : Statistical Methods for DNA and Protein Sequence Analysis
+  
+ Place : Lecture Room of National Center for Theoretical Sciences
+       4th Floor, The 3rd General Building, National Tsing Hua University
+   
+ Time  :        December 9-10                  December 16-17
+             10 : 30 - 12 : 00 AM          10 : 30 - 12 : 00 AM
+             02 : 00 - 03: 30 PM           02 : 00 - 03 : 30 PM
+ 
+
+ Outlines
+----------
+  
+
+ 1.Elements of molecular biology 
+   Some basic knowledge of molecular biology and genetics will be
+   introduced.
+ 
+ 2.Sequence similarity and divergence 
+   Models of DNA sequence evolution will be explained and methods for
+   estimating evolutionary distances between sequences will be presented.
+   
+ 3.Sequence alignment 
+   Basic principles of sequence alignment will be introduced.
+   Various methods of sequence alignment will be presented. 
+   Examples of application will be included.
+
+ 4.Introduction to phylogenetic reconstruction 
+   Basic concepts and terminologies of phylogenetic reconstruction will
+   be introduced.    
+   Methods of tree reconstructions will be presented.
+   Some examples will be included.
+   
+ 5.Statistical tests of molecular phylogenies 
+   Some statistical aspects of phylogenetic tests will be introduced. 
+   Some methods for testing molecular phylogenies will be explained.
+
+
+**********************************************************************
+
+                      Welcome to attend NCTS activities.
+                        http://phys.cts.nthu.edu.tw
+
+
+
+
+
+
+
+
+

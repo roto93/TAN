@@ -1,0 +1,233 @@
+From kyl@biaa.sinica.edu.tw Thu Apr 16 10:17 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa3.biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA05303; Thu, 16 Apr 1998 10:16:41 +0800
+Received: from localhost (kyl@localhost)
+	by biaa3.biaa.sinica.edu.tw (8.8.7/8.8.7) with SMTP id KAA19129
+	for <astro@biaa17.biaa.sinica.edu.tw>; Thu, 16 Apr 1998 10:16:59 +0800 (CST)
+X-Authentication-Warning: biaa3.biaa.sinica.edu.tw: kyl owned process doing -bs
+Date: Thu, 16 Apr 1998 10:16:58 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa3
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: Palomar trip (fwd)
+Message-Id: <Pine.GSO.3.96.980416101632.12737H-100000@biaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 11153
+Status: R
+
+
+
+Diary by Prof Yuk L. Yung of Planetary Science at Caltech and John is John
+Trauger, PI of WFPC2 on the HST.
+
+KYL
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Wed, 15 Apr 1998 9:46:06 -0700
+From: "Caltech, 150-21, Smartville, USA" <YLY@mercu1.gps.caltech.edu>
+To: jaw@gps.caltech.edu, maa@mercu1.gps.caltech.edu,
+    gab@csardas.gps.caltech.edu, jxc@mercu1.gps.caltech.edu,
+    mfg@mercu1.gps.caltech.edu, pmg@nicholas.gps.caltech.edu,
+    api@helene.gps.caltech.edu
+Subject: Palomar trip
+
+
+                    Trip to Palomar Observatory
+
+
+04-13-98  Monday
+
+0900  I waited at the "loop" outside of SM for the shuttle to take me to
+Palomar. Nothing came. Lee Silver rolled in with his four wheel drive. Talked
+with him for half hour about the Center. He had good suggestions.
+
+0930  Called Palomar office and discovered there was no shuttle. Decided to
+drive there myself.
+
+1000  Finalize CO paper with Bob. Tomorrow is the deadline for submitting the
+paper to the special issue of Chemosphere on CO. We have two papers based on
+presentations at the EPA conference in Oregon last Nov. CO is an important but
+neglected molecule. The conference and the special issue will wake us up to its
+importance.
+
+1100  Started trip to Palomar.
+
+1230  Smooth drive to Lake Elsinore, a small town on FW 15. Lunch break. Toured
+the little town that seems to specialized in "antiques". Got an unfinished
+rabbit artwork for my daughter --- I will need to paint it and put skin
+on it.
+
+0130  Continued to Temecula, Pala (an orange growing town) and from there drove
+up to Mt. Palomar. It was cloudy but the sky was high and I could see the top of
+the mountains, but not Palomar Observatory which is on a ridge on the other
+side of the mountains. Beautiful wild flowers. Strong current in nearby stream.
+
+0400  Arrived at Palomar Observatory after a leisurely drive. There are four
+observatories. There is the famous 200 in, followed by 60, 48 and 18 in. They
+are located roughly in an ellipse half mile long and quarter mile across. The
+lodging for the observers is known as the Monastery, a little two story house.
+The name is no longer rigorously true, because there was a female astronomy
+grad student there. I checked into my little comfortable room, very much like
+a single room in the Athenaeum, but half its size. On the wall there were a
+list of Five Commandments, e.g. do not take shower before 1 pm, do not speak
+loudly etc ---- all to ensure the owls who work at night have a rest during the
+day. The room is cozy, equipped with an electric alarm clock and nearly perfect
+blinds that will not let in any light --- no doubt designed by astronomers who
+are magicians of light technology.
+
+0430  The clouds started to roll in. Visibility dropped to 50 ft. I took a walk
+to the 200 in to look for John Trauger, who came up the previous day to set up
+the instrument. I could feel the snow flakes falling on my face. Failed to find
+any trace of John --- it turned out he was inside the computer room upstairs
+(the Observatory has four floors).
+
+0600  The Mexican housekeeper of the Monastery cooked us a nice meal of lasagna
+and eggplant (like the spicy eggplant at Oaktree Inn minus the meat and the
+spice). The surprise was the dessert, ice cream cake. The food is definitely
+superior to the JPL cafeteria (John agreed) and is comparable to Chandra. There
+are all kinds of cookies, snacks, fruits ..., many temptations for someone like
+me who is on diet.
+
+0730  Went to 200 in. Check instrument, check weather --- the map from NOAA
+GOES satellite was on the web. John explained to me why we need the Coude for
+high resolution spectroscopy. Most astronomers use Cassegrain.
+
+I have to explain why we wanted to look for O2 on Venus. Well, here is a short
+version of a long story. In 1973 I published my first paper on O2 on Venus with
+my classmate Dak Sze and my advisor Mike McElroy. It should be there as part of
+the CO2 photochemistry. In 1982 Bill DeMore and I worked out the "complete"
+photochemical model of Venus, with substantial amounts of O2. A few yrs later
+John Trauger and Jon Lunine made a careful search for O2 and came up with a
+limit much lower than the model's. Recently Frank Mill and Dave Crisp made
+another search and failed to find it. It is very unsatisfactory to see no
+O2 when all models (not just ours) say its should be there. O2 has been
+discovered on Mars, and more recently on Ganymede.
+
+Now a decade after John's original measurements, several things have changed.
+He has a CCD detector, better filters, better electronics --- giving us a gain
+of about 10. Palomar collects 4 times more light than Wilson (where John did
+his original work). There is a total gain of 40, the sqrt of which is
+about 6. It is worth a shot.
+
+We looked at the satellite map and pray for a clear sky in the morning.
+
+0830  It was too early for bed. With the cold and wind and snow, the Monastery
+reminded me of the Wuthering Heights, a God chidden place in the romantic
+novel of Emily Bronte. Even the housekeeper appeared like Nellie in the book.
+Of course there was no evil servant Joseph, or devilish landlord Heathcliff.
+Getting myself into this story mood, I surveyed the collection of books in the
+living room. More than half of the books were Victorian classics, published by
+Everyman Library, a British publisher. Apparently only people of that
+generation read novels. There were at least two copies of Oliver Twist by
+Charles Dickens... Anyway all of the books looked extremely familiar to me but
+must appeared to be from another world to the students today.
+
+I randomly picked two books, one on the WWII in the Pacific and the other on
+the "Jupiter Effect".
+
+0100  Finished the two fascinating books and went to sleep. The latter book read
+like science fiction, but then what is science but science fiction a hundred
+yrs later. The book said the astrologers were right --- on the influence of
+planets on the Earth and human destiny. I agree.
+
+
+ 04-14-98  Tuesday
+
+0700  Up. John was supposed to wake me up at 4 if the sky were clear. There was
+heavy snow last night. The place is like a white Christmas. Visibility OK,
+sky is clearing.
+
+0800  Took long tour of 200 in. John explained to me in detail how the
+telescope worked. How the gears were synchronized mechanically without the
+benefit of modern electronics. They would not open the dome even though the sky
+was partially clear. There was snow on the dome and opening it might damage the
+telescope. John explained to me how the mirror must be resurfaced every few yrs
+with Al vapor etc.
+
+Had a philosophical discussion with John on the spiritual beauty of astronomy.
+In solitude, in darkness, in communion with the divine lights, the mind is able to
+leave all the dust of the real world behind and concentrate on the beauty and
+order in the universe. That is how the ultimate scientific truths were revealed
+to the masters. That was how Newton was able to connect the laws of heaven and
+the Earth. Today we take all that for granted. But where are the mysterious
+seductive frontiers of human knowledge today? Is it not in the "dark matter", 90% of the
+universe that we knew nothing about except that it possibly exits? Is it not in
+the possibility of life elsewhere, where they are looking for us? In short, in
+the heavens. I recall an inspiring passage I was reading the previous night:
+
+"In anxious and uncertain times like ours, when it is difficult to find pleasure
+in humanity and the course of human affairs, it is particularly consoling to
+think of such a supreme and quiet man as Kepler. Kepler lived in an age in which
+the reign of law in nature was as yet by no means certain. How great must his
+faith in the existence of natural law have been to give him the strength to
+devote decades of hard and patient work to the empirical investigation of
+planetary motion and the mathematical laws of that motion, entirely on his
+own, supported by no one and understood by few!"  Einstein on the 300th
+anniversary of Kepler's death, Nov 9, 1930.
+
+Today we are supported by someone (Palomar costs a few millions dollars a yr),
+but we are understood by few. Hence, the true reward must be in the work
+itself, in the contemplation of the wonders of heaven.
+
+0900  John had a long talk with the Director of Palomar. There was a more
+serious problem than the weather. The tertiary mirror on the Coude could not be
+held securely in a clutch. This device must be repaired. They had worked
+frantically for a few days to get it ready for us, but without success. To take
+the whole thing down and fix it properly required six months! We will be out of
+action for six months!
+
+Had a long discussion with John on the long term project of observing Venus and
+Mars. I told him my new idea of getting the interannual variability of the
+atmospheres of planets, the equivalent of El Nino and Quasi Biennial
+Oscillations (QBO). These are non-linear coupled modes between radiation,
+dynamics and possibly chemistry. A well known example is the dust storm on
+Mars, another one is the Quasi Quadriannual Oscillations (QQO) of Jupiter, discovered
+by Glenn Orton and Jim Friedsen. In short, I wanted to be the pioneer (Kepler)
+of Global Change in the planets. I believe there is no better way to understand
+the natural variability of our atmosphere (as opposed to human induced changes)
+than studying the planets. Newton brought the laws of heavens to the Earth.
+We must expand our view of the Earth to the planets like ours.
+
+John appreciated the significance of my proposal (fantasy) immediately. I assume
+by talking to him at 5500 ft from the sea level, in the kingdom where he is
+king, my words must sound more persuasive than they would be in Pasadena.
+We hatched out a plan to pursue this grand vision --- the details will not be
+revealed here without John's permission.
+
+I thanked him for his enthusiastic acceptance of my ideas, and of course for
+his unflagging faith in the O2 on Venus. I reminded him the satellite mission
+ISO, just before its demise last week, discovered H2O on Titan --- that was
+predicted in the paper by Yung, Allen and Pinto in 1984. The press release
+mentioned connection of water and life. That was an exciting result. We did
+not proposed H2O as a random isolated molecule --- it is the key part of a web
+of oxygenated compounds: CO, CO2, H2CO (formaldehyde), CH2CO (ketene) ...
+Friends who believe in our theories get rewarded.
+
+1000  John will leave soon. I decide to catch up with reading my students' thesis
+complete other chores.
+
+1230  lunch
+
+0200  Lv Palomar Observatory. The road has been cleared by snow plows. Pleasant
+drive back with one stop by the stream in Pala.
+
+0500  Travel was smooth. Home in three hrs since leaving Mt. Palomar.
+
+Now I have to face the dust and chores again, hopefully with renewed energy.
+
+
+

@@ -1,0 +1,56 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Nicole Czakon (ASIAA)
+Topic:         Introduction to MKIDs
+Time:         11/17 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+There has been a lot of buzz recently about Microwave Kinetic Inductance Detectors (MKIDs). These superconducting detectors have a wide variety of applications in astronomy, spanning a large range of frequencies from mm-wave to X-ray. The detectors are fast, inherently multiplexed and there is no readout noise. Nevertheless, since the original Day et al. Nature paper, published in 2003, MKIDs have yet to demonstrate their promised potential to the astronomical community. Having spent several years in graduate school working with MKIDs for the mm-wave MUSIC camera, I have a unique point of view in regards to the application of this new technology. In my talk, I will briefly review the basic principles of operation, the range of astronomical applications, give a sample of the current instrumentation efforts employing MKIDs, and review the challenges associated with the fabrication and employment of these detectors.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Aravind Natarajan (University of Pittsburgh)
+Topic:         The End of the Dark Ages
+Time:         11/18 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The study of reionization is crucial to our understanding of the nature of the earliest luminous objects, and the formation of the first galaxies. In the coming years, experiments measuring the 21 cm radiation background and the cosmic microwave background will provide data that can probe reionization, and shed light on theories of structure formation. We describe a new radio experiment that attempts to measure the redshifted 21cm brightness temperature in the frequency range 50-120 MHz, i.e. at redshifts 10<z<25. We discuss preliminary results from our test run, and plans for future deployments. We then discuss how CMB experiments can constrain reionization models. We describe a new technique that can detect patchy reionization using correlations between large and small scales in the CMB temperature maps. We test our patchy reionization estimator using realistic ionization and CMB maps obtained using numerical simulations. We discuss how future data can determine the mean re
+dshift of reionization, as well as its duration.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Toshifumi Futamase (Tohoku University)
+Topic:         Lens Statistics with Gravitationally Lensed Yet Morphologically Regular Images
+Time:         11/19 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+GRAMORs are strongly magnified lensed images with small distortion.  One example is discovered in a cluster MACS J1149.5+2223 in 2009.  We investigate the lens statistics of GRAMORs in detail.  Assuming NFW profile for our sample of clusters, we calculate the expected number and redshift distribution of GRAMORs using parameters given by COSMOS  data for the number density of the background galaxy.  Our model of the cluster placed at z=0.544  and the background galaxies with WMAP 5 cosmology predicts the redshift of GRAMOR at z~1.49 which is close to the observed z=1.4906.  It is found  that the probability distribution function of GRAMORs depends strongly on the existence of the dark energy and maybe useful for constraining the nature of dark energy.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    I-Ting Ho (University of Hawaii)
+Topic:         Dissecting galaxies with integral field spectroscopy: current large surveys, near future and beyond
+Time:         11/20 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Large integral field spectroscopy (IFS) surveys in the past 5 years have drastically improved our understanding of how galaxies evolve over cosmic time. Building on top of the large fibre spectroscopy surveys such as SDSS, DEEP2, and 2dF surveys, new IFS surveys have started to change the way we observe galaxies, from 1D to 3D. In this talk, I will first give an overview of the current, major integral field spectroscopy surveys in the local Universe (z<0.05). I will then focus on the SAMI Galaxy Survey, an on-going IFS survey on the 4-m Anglo-Australian Telescope. The SAMI Galaxy survey will deliver a final sample of 3,000 galaxies, and we have observed ~1,000 galaxies so far. I will present an array of exciting science results published by the SAMI Galaxy Survey team in the past 1-2 years. I will end the talk by presenting results from my on-going thesis dissertation on chemical evolution, inflows, and outflows using IFS data.
+
+==============================================================================
+

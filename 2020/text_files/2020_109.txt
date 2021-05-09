@@ -1,0 +1,48 @@
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2020B)
+------------------------------------------------------------------------------
+To Astronomers and Astrophysicists of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the
+10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for
+the period October 15, 2020 - February 15, 2021. No new proposals for the ALMA
+Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona will be
+accepted for this current call as proposals from the 2020A call for proposals
+will be carried over to the 2020B proposal period. Proposal candidates from
+members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should
+submit up to THREE pages of scientific and technical justification (including
+figures, tables, and references) in addition to their Proposal Summary Sheet
+(download form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the Proposal Summary Sheet
+their requested observing blocks (the exact LST ranges to be scheduled and
+number of times to be repeated), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+The 10m SMT currently supports dual-polarization sideband-separating (SBS)
+observations at 1mm (211-280 GHz) and dual-polarization double-sideband
+observations at 0.8mm (325-370 GHz). The SMT control system supports both
+dual-polarization ("2 IF mode") and dual-polarization + dual-sideband
+observations ("4 IF mode") with tunable IF from 4.5-7.5 GHz, for position-
+switched, beam-switched, and OTF observations.  Proposal candidates should
+consult the ARO Equipment Summary and Status sheet for additional technical
+specifications:
+https://www.as.arizona.edu/arizona-radio-observatory
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. For further information about
+remote observing and other operational questions, please contact the ARO
+Software Engineer Natalie Gandilo ngandilo@email.arizona.edu
+
+Scheduling of successful proposals will be done according to availability of
+the receivers requested. Based on scientific merit, projects which request
+observing time longer than 24 hours will be considered. Graduate student
+participation is especially encouraged. Proposals should be emailed as a
+single file in PDF format to kuan[at]asiaa.sinica.edu.tw by 23:59 CST on
+August 27, 2020 (Thursday).
+
+==============================================================================

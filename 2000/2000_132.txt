@@ -1,0 +1,2332 @@
+From kyl@asiaa.sinica.edu.tw Sun May 21 09:29 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA00837
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 21 May 2000 09:29:04 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA29555
+	for <astro@asiaa.sinica.edu.tw>; Sun, 21 May 2000 09:31:47 +0800
+Date: Sun, 21 May 2000 09:31:47 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Dwarf Tales #12 (fwd)
+Message-ID: <Pine.LNX.4.10.10005210931430.29552-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 87641
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 17 May 2000 00:00:51 -0500 (CDT)
+From: Dwarf Tales <dwarfs@astro.ugto.mx>
+To: ebrinks@coyotl.astro.ugto.mx
+Subject: Dwarf Tales #12
+
+----------
+X-Sun-Data-Type: text
+X-Sun-Data-Description: text
+X-Sun-Data-Name: text
+X-Sun-Charset: us-ascii
+X-Sun-Content-Lines: 1783
+
+
+Dear Colleagues,
+
+Please find below Issue No. 13 of Dwarf Tales!
+
+With best wishes,
+
+Eva Grebel and Elias Brinks
+
+---------------------------------------------------------
+
+\documentstyle[11pt,aas2pp4]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+
+%========================================================================
+% If you use any special macros, please include them here: 
+% MACRO DEFINITIONS
+
+\def\msol{\ifmmode M_\odot\else$M_\odot$\fi}
+\def\Zsol{Z_\odot}
+\def\Hb{H$\beta$}
+\def\lam{$\lambda$}
+\def\te{$T_{\rm e}$}
+\def\op{O$^+$}
+\def\opp{O$^{++}$}
+\def\tlo{$T$(\op)}
+\def\thi{$T$(\opp)}
+\def\siii{[{\sc S iii}]}
+\def\sii{[{\sc S ii}]}
+\def\siv{[{\sc S iv}]}
+\def\oiii{[{\sc O iii}]}
+\def\oii{[{\sc O ii}]}
+
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\lta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13C$}}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+\def\lesssim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$<$}}}}
+\def\gtrsim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$>$}}}}
+
+\newcommand{\hi}{\ion{H}{1}}
+\newcommand{\hii}{\ion{H}{2}}
+\newcommand{\etal}{{\it et\thinspace al.}\ }
+\newcommand{\kms}{km\thinspace s$^{-1}$}
+\newcommand{\simlt}{\ {\raise-.5ex\hbox{$\buildrel<\over\sim$}}\ }
+
+%========================================================================
+
+\begin{document}
+
+%========================================================================
+\noindent
+\rule{\textwidth}{1mm}\par
+\begin{center}
+{\Huge\bf $\mathcal{D\,WA\,R\,F}$ \hspace{0.3in} $\mathcal{TA\:L\,E\,S}$
+}
+\\
+\bigskip
+{\huge \it A Newsletter devoted to all aspects of dwarf galaxy
+          research}
+\\
+\bigskip
+{\Large edited by Elias Brinks and Eva\,K.\ Grebel}
+\\
+\ \\ 
+{\sc Dwarf Tales} has its home at the Departamento de Astronom\'{\i}a
+of the Universidad de Guanajuato. Its home page (with a USA and a
+European mirror site) can be found at URL:
+\\
+\ \\
+{\tt http://www.astro.ugto.mx/$\sim$dwarfs}
+\\
+{\Large \it Issue No. 13 \hfill 30 April 2000}
+\\
+\hrulefill
+\\
+\vspace*{-3mm}
+\hrulefill
+\end{center}
+
+%========================================================================
+
+\bigskip
+\bigskip
+{\LARGE \bf EDITORIAL}
+
+\bigskip
+\noindent
+
+Due to unforeseen events having to do with some local administrative
+duties, this issue of {\sc Dwarf Tales} has suffered some delay, for
+which I ask your understanding.
+
+We have again an exciting issue here, plus some important editorial
+announcements concerning our WWW mirror pages, a Letter to the
+Editors by Igor Karachentsev, and two job openings.
+
+We keep welcoming your contributions to {\sc Dwarf Tales} which should
+be sent to the usual address:
+
+\smallskip
+\hspace{1in}	{\tt dwarfs@astro.ugto.mx}
+
+And remember, a subscription to {\sc Dwarf Tales} is {\it free!\/} A
+simple message expressing your interest to the same address will be
+sufficient to add you to the mailing list. In case you wish to cancel
+your subscription, send a message to the above address and your entry
+in the master mailing list will be removed.\par
+
+\smallskip
+\noindent
+
+\bigskip
+\noindent
+Elias Brinks and Eva Grebel\par
+
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\bigskip
+\noindent
+{\LARGE \bf CONTENTS}
+
+\bigskip
+\noindent
+GENERAL ANNOUNCEMENTS\dotfill 2\\
+LETTER TO THE EDITORS\dotfill 3\\
+JOB ANNOUNCEMENTS\dotfill 4\\
+ABSTRACTS OF JOURNAL PAPERS \dotfill 6\\
+ABSTRACTS OF CONFERENCE CONTRIBUTIONS \dotfill 18\par
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+\newpage
+
+%========================================================================
+
+\noindent
+{\LARGE \bf GENERAL ANNOUNCEMENTS}
+
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large\bf Slightly Revised Abstract Template
+}
+\end{center}
+
+There has been a fairly minimal change to the template which is being
+used to format contributions to {\sc Dwarf Tales}. Potential
+contributors are encouraged to download this latest version from our
+WWW pages and are asked not to use the earlier version anymore.  The 
+latest version will also be distributed with every call for abstracts. 
+
+\par
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf Dwarf Tales' US Mirror Will Cease to Exist;\\
+\medskip
+European Mirror Will Move
+}
+\end{center}
+
+Due to Eva Grebel's recent move to the Max Planck Institute for
+Astronomy in Heidelberg, Germany, the US mirror of {\sc Dwarf Tales}'s
+WWW pages at the University of Washington will cease to exist in the 
+beginning of June.  Also, it is likely 
+that the European mirror will move from Bonn to Heidelberg.
+
+In order to continue to serve our readers in the US and Canada with a
+fast, reliable mirror, we should like to invite proposals from
+potential hosts. Please send e-mail to 
+
+\smallskip
+\hspace{1in}	{\tt dwarfs@astro.ugto.mx}
+
+\medskip
+
+For the time being the most reliable URLs are the Guanajuato
+address at:
+
+\smallskip
+\hspace{1in}	{\tt http://www.astro.ugto.mx/$\sim$dwarfs}
+
+and the Bonn address at:
+
+\smallskip
+\hspace{1in}    {\tt http://www.astro.uni-bonn.de/$\sim$dwarfs}
+
+We hope to be able to notify our readership in the next issue about
+the new location of our US and European mirrors.
+
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+\newpage
+
+%========================================================================
+
+\noindent
+{\LARGE \bf LETTER TO THE EDITORS}
+
+\bigskip
+
+%========================================================================
+
+\bigskip
+\noindent
+Dear Editors,
+
+\smallskip
+In Dwarf Tales issue No.\,3 (31 July 1998) I. Karachentsev and
+V. Karachentseva reported a discovery of a new dwarf spheroidal
+companion of M31 in the constellation Cassiopeia and named by them
+Cassiopeia Dwarf. This galaxy has been the subject of some detailed
+study of its resolved stellar population ( Grebel \& Guhathakurta
+1999, Tikhonov \& Karachentsev 1999, Aparicio \& Gallart 1999). All of
+the authors used one and the same original name of the galaxy.  Now I
+recognize that some authors (Caldwell 1999; Blitz \& Robishaw 2000,
+and others) prefer ``And VII'' as a new name of Cassiopeia dSph.
+Particularly, And VII is indicated as the first name in the NED for
+the object. I asked some of them about a reason of their new
+preference and heard the response: ``I am getting the impression that this
+name is becoming more widely used now.'' The most sophisticated
+explanation can be found in the article by Caldwell (1999, AJ, 118,
+1230): ``And VI is also called Pegasus dSph, and And VII is called
+Cassiopeia dSph by Grebel \& Guhathakurta (1999). I choose to follow
+the original naming convention of van den Bergh, who named the
+companions for the galaxy host and not the constellations in which
+they were discovered (e.g., And II is in fact in Pisces), particularly
+as it has been shown that these objects are in fact all at the
+distance of M31.''  Following this elegant prescription everybody may
+call, for example, LGS 3 and Cetus as ``And VIII'' and ``And IX'' because
+these objects are in fact at the distance of M31 (with respect to
+us). But I am not sure that such a play with names would be
+reasonable. I think the discoverer only has the privilege to name the
+objects discovered by her/him.
+
+\medskip
+Sincerely,
+
+\medskip
+Igor Karachentsev
+
+\bigskip
+\bigskip
+
+{\it A comment from the editors:  We note that Peg\,dSph was independently
+discovered by Armandroff, Jacoby, \& Davies (1999, AJ, 118, 1220; see also
+the editorial in Dwarf Tales \# 3), who named this galaxy And\,VI.  We 
+thus believe that for this dwarf both names (Peg\,dSph or And\,VI) are
+legitimate.  
+
+However, Cas\,dSph was discovered by Karachentseva \& Karachentsev (1999,
+A\&A, 341, 355; see also editorial in Dwarf Tales \# 3) alone.  We agree
+with I.D.\ Karachentsev that the discovery group should have the right to
+choose a name within IAU naming conventions and expect that this name is
+used from then on.  We encourage our readers to respect the discoverers'
+prerogative.
+} 
+
+\bigskip
+
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+\bigskip
+\bigskip
+
+\newpage
+%========================================================================
+
+\noindent
+{\LARGE \bf JOB ANNOUNCEMENTS}
+
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large \bf Postdoctoral Research Associate}\\
+\medskip
+{\Large \bf at the University of Cardiff, U.K.}
+\end{center}
+\bigskip
+\medskip
+
+The Department of Physics and Astronomy at the University of Cardiff 
+invites applications for a postdoctoral research associate position
+on a fixed-term contract limited to three years.
+
+You will be working with Dr.\ Jon Davies on galaxy populations in the 
+nearby Universe. {}From previous work by the Cardiff group it seems 
+clear that there are large numbers of very low surface brightness 
+low luminosity galaxies in nearby clusters. This leads to a very 
+steep luminosity function consistent with numerical simulations of 
+structure formation. If these galaxies have large (M/L) they may 
+represent the major mass component of the cluster. Given that 
+clusters only represent about 10\% of the galaxy population we now 
+wish to study these low luminosity galaxies in other environments, 
+i.e., groups and the general field. We have been awarded large 
+amounts of observing time to use large CCD arrays and 21cm multi-beam 
+instruments and we are actively pursuing more observational data. 
+The research group currently consists of 5 researchers (3 postdoctoral 
+and 2 postgraduate). You should hold a PhD in Astronomy or related 
+topics, or have submitted your thesis before starting the appointment.
+
+The Cardiff astronomy group consists of 12 academic members of staff 
+and totals about 45 researchers. Interests range from extra-galactic 
+astronomy, to gravity waves and star formation.
+
+Closing date for applications is May 19, 2000.
+The start date is as soon as possible.
+For informal discussion contact\, Dr. Jon Davies
+at the phone number or e-mail address given below.
+
+\noindent
+Application forms can also be downloaded from:\par
+
+{\tt http://research.amnh.org/grants/index.html}
+
+\begin{quotation}
+Dr. Jon Davies\par
+Department of Physics and Astronomy\par
+University of Wales, Cardiff\par
+5, The Parade\par
+P.O. Box 913\par
+Cardiff, CF24 3YB\par
+Wales, UK\par
+Phone:\, 44 (0) 29 2087 4144 or\par
+E-mail:\, {\tt jid@astro.cf.ac.uk}
+\end{quotation}
+
+For an application form quote reference 0116 and
+call\, {\tt 44 (0) 29 2087 4017}\par or
+e-mail\, {\tt Persad@cf.ac.uk}
+
+\medskip
+\noindent
+\dotfill
+\bigskip
+\bigskip
+
+%========================================================================
+
+\newpage
+
+\begin{center}
+{\Large \bf Postdoctoral Position in Observational Cosmology}\\
+\medskip
+{\Large \bf at the University of Bristol, UK}
+\end{center}
+\bigskip
+\medskip
+
+A post-doctoral fellowship is available for three years starting from
+August 2000 or as soon as possible thereafter to work on analysis and
+follow-up of the INT Wide Area Survey. This is a survey of more than
+100 square degrees of sky in several optical passbands to a depth of
+approximately r=25 being carried out by a consortium of UK
+universities (see http://www.ast.cam.ac.uk/~wfcsur/ for more
+details). The survey provides an ideal basis for many studies in
+observational cosmology and extragalactic astronomy, and it is
+expected that the fellow will help define the exact areas of study
+based upon their own interests and will take a lead in follow-up
+observations.
+
+Applicants should have a PhD in a relevant field of astrophysics,
+preferably with experience in image processing and data analysis.  The
+post, within the recently expanded Bristol Astrophysics Group in the
+Department of Physics, will be for up to 3 years, is on the RA1A scale
+and is funded by a grant from the Leverhulme Trust.  Informal
+enquiries may be directed to Dr. Malcolm Bremer, Department of
+Physics, University of Bristol, Tyndall Avenue, Bristol BS8 1TL, UK
+(Tel: 44 (0)117-928-8764; e-mail: m.bremer@bristol.ac.uk).
+
+Applications (quoting reference 6272) consisting of a CV and
+description of research interests should be sent to Dr Bremer by 31
+May 2000.  Applicants should arrange for two referees to send letters
+of reference by the same date.
+
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+\newpage
+
+%========================================================================
+
+\noindent
+{\LARGE \bf ABSTRACTS OF JOURNAL PAPERS}
+
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The low Surface Brightness extent of the Fornax cluster
+}
+\end{center}
+\begin{center}
+{\bf	A. Kambas$^1$, J. Davies$^1$, R. Smith$^1$,
+	S. Bianchi$^1$, and J. Haynes$^1$  
+}
+\end{center}
+{\footnotesize	$^1$ Dept. Physics and Astronomy, Cardiff University,
+		UK 
+}\par
+\medskip
+We have used a large format CCD camera to survey the nearby Fornax
+cluster and its immediate environment for low luminosity LSB
+galaxies. Recent observations indicate that these are the most dark
+matter dominated galaxies known and so they are likely to be a good
+tracer of the dark matter in clusters. We have identified large
+numbers of these galaxies consistent with a steep faint end slope of
+the luminosity function ($\alpha\approx-2$) down to $M_{B}\approx-12$.
+These galaxies contribute almost the same amount to the total light as
+the brighter galaxies and they have a spatial extent that is some four
+times larger.
+ 
+They satisfy two of the important predictions of N-body hierarchical
+simulations of structure formation using dark halos. The luminosity
+(mass ?) function is steep and the mass distribution is more extended
+than that defined by the brighter galaxies. We also find a large
+concentration of LSB galaxies around the nearby galaxy NGC1291.
+\par
+\medskip
+\noindent
+{\bf  
+%          or
+      Submitted to:   AJ
+}\\
+{\it For preprints, contact\, }       {\tt Jonathan.Davies@astro.cf.ac.uk }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  IC3328: a ``dwarf elliptical galaxy'' with spiral structure 
+}
+\end{center}
+\begin{center}
+{\bf    Helmut Jerjen$^1$, Agris Kalnajs$^1$, and Bruno Binggeli$^2$  
+}
+\end{center}
+{\footnotesize   
+  $^1$  Research School of Astronomy and Astrophysics, Institute of 
+        Advanced Studies, The Australian National University, \\
+        Private Bag, Weston Creek P.O., ACT 2611,
+        Australia
+\\$^2$  Astronomical Institute of the University of Basel, 
+        Venusstrasse 7, CH-4102 Binningen, Switzerland 
+}\par
+\medskip
+
+We present the 2-D photometric decomposition of the Virgo galaxy
+IC3328. The analysis of the global light distribution of this
+morphologically classified nucleated dwarf elliptical galaxy (dE1,N)
+reveals a tightly wound, bi-symmetric spiral structure with a diameter
+of 4.5\,kpc, precisely centered on the nucleus of the dwarf. The
+amplitude of the spiral is only three percent of the dwarf's surface
+brightness making it the faintest and smallest spiral ever found in a
+galaxy. In terms of pitch angle and arm winding the spiral is similar
+to the intermediate-type galaxy M51, but it lacks the dust and
+prominent H~{\sc ii} regions which signal the presence of gas. The
+visual evidence of a spiral pattern in an early-type dwarf galaxy
+reopens the question on whether these dwarfs are genuine rotationally
+supported or anisotropic stellar systems. In the case of IC3328, we
+argue for a nearly face-on disk (dS0) galaxy with an estimated maximum
+rotation velocity of $v_{\mbox{c,max}}\approx 55$\,km\,s$^{-1}$. The
+faintness of the spiral and the small motions within it, suggests that
+we could be seeing swing-amplified noise. The other possibility is a
+tidal origin, caused by the near passage of a small companion.  \par
+\medskip
+\noindent
+{\bf   Accepted by: A\&A}\\
+{\it For preprints, contact\, }       {\tt   jerjen@mso.anu.edu.au  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/0004248    }\\
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  
+Tests of Statistical Methods for Estimating Galaxy Luminosity\\
+\medskip Function and Applications to the Hubble Deep Field
+}
+\end{center}
+\begin{center}
+{\bf T. T. Takeuchi$^1$, K. Yoshikawa$^2$, and T. T. Ishii$^3$
+}
+\end{center}
+{\footnotesize   $^1$  Division of Particle and Astrophysical Sciences, 
+	Nagoya University, Chikusa-ku, Nagoya 464--8602, Japan
+         \\       $^2$  Department of Astronomy, Kyoto Univeristy, 
+	Sakyo-ku, Kyoto 606--8502, Japan
+         \\       $^3$  Kwasan Observatory, Kyoto University, 
+	Yamashina-ku, Kyoto 607--8471, Japan
+}\par
+\medskip
+We studied the statistical methods for the estimation of the
+luminosity function (LF) of galaxies.  We focused on four
+nonparametric estimators: $1/V_{\rm max}$ estimator,
+maximum-likelihood estimator of Efstathiou et al.~(1988),
+Cho{\l}oniewski's estimator, and improved Lynden-Bell's estimator.
+The performance of the $1/V_{\rm max}$ estimator has been recently
+questioned, especially for the faint-end estimation of the LF.  We
+improved these estimators for the studies of the distant Universe, and
+examined their performances for various classes of functional forms by
+Monte Carlo simulations.  We also applied these estimation methods to
+the mock 2dF redshift survey catalog prepared by Cole et al. (1998).
+We found that $1/V_{\rm max}$ estimator yields a completely unbiased
+result if there is no inhomogeneity, but is not robust against
+clusters or voids.  This is consistent with the well-known results,
+and we did not confirm the bias trend of $1/V_{\rm max}$ estimator
+claimed by Willmer (1997) in the case of homogeneous sample.  We also
+found that the other three maximum-likelihood type estimators are
+quite robust and give consistent results with each other.  In practice
+we recommend Cho{\l}oniewski's estimator for two reasons: 1. it
+simultaneously provides the shape and normalization of the LF; 2. it
+is the fastest among these four estimators, because of the algorithmic
+simplicity.  Then, we analyzed the photometric redshift data of the
+Hubble Deep Field prepared by Fern\'{a}ndez-Soto et al.~(1999) using
+the above four methods.  We also derived luminosity density $\rho_{\rm
+L}$ at $B$- and $I$-band.  Our $B$-band estimation is roughly
+consistent with that of Sawicki, Lin, \& Yee (1997), but a few times
+lower at $2.0 < z < 3.0$.  The evolution of $\rho_{\rm L}(I)$ is found
+to be less prominent.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJS
+}\\
+{\it For preprints, contact\, }       {\tt   takeuchi@u.phys.nagoya-u.ac.jp}\\
+{\it Also available from the URL\, }  {\tt   www.kusastro.kyoto-u.ac.jp/$\sim$takeuchi/publication/LF$\_$figs/}\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf Globular Clusters in the dE,N galaxy NGC 3115 DW1:\\ \medskip New
+    Insights from Spectroscopy and HST Photometry }
+\end{center}
+\begin{center}
+  {\bf Thomas H. Puzia$^1$, Markus Kissler-Patig$^2$, Jean P.
+    Brodie$^3$, and Linda L. Schroder$^3$ }
+\end{center}
+{\footnotesize  $^1$  Sternwarte der Universit\"at Bonn, Auf dem
+         H\"ugel 71, 53123 Bonn, Germany 
+         \\     $^2$  European Southern Observatory,
+         Karl-Schwarzschild-Strasse 2, 85748 Garching bei M\"unchen,
+         Germany 
+         \\     $^3$  UCO/Lick Observatory, University of California
+         at Santa Cruz, Santa Cruz, CA 95064, USA 
+}\par
+\medskip
+
+The properties of globular clusters in dwarf galaxies are key to
+understanding the formation of globular cluster systems, and in
+particular in verifying scenarios in which globular cluster systems of
+larger galaxies formed (at least partly) from the accretion of dwarf
+galaxies. Here, we revisit the globular cluster system of the dE,N
+galaxy NGC 3115 DW1 -- a companion of the nearby S0 galaxy NGC 3115 --
+adding Keck/LRIS spectroscopy and HST/WFPC2 imaging to previous
+ground-based photometry. Spectra for seven globular clusters reveal
+normal abundance ratios with respect to the Milky Way and M31
+clusters, as well as a relatively high mean metallicity
+([Fe/H]$\approx -1.0\pm0.1$ dex). Crude kinematics indicate a high
+velocity dispersion within 10 kpc which could either be caused by dark
+matter dominated outer regions, or by the stripping of outer globular
+clusters by the nearby giant galaxy NGC 3115. The total galaxy mass
+out to 3 and 10 kpc lies between $1\cdot10^{10}$ and
+$1\cdot10^{11}$M$_\odot$ and $2\cdot10^{10}$ and $4\cdot10^{11}$
+M$_\odot$, respectively, depending on the mass estimator used and the
+assumptions on cluster orbits and systemic velocity. The HST imaging
+allows measurement of sizes for two clusters, returning core radii
+around 2.0 pc, similar to the sizes observed in other galaxies.
+Spectroscopy allows an estimate of the degree of contamination by
+foreground stars or background galaxies for the previous ground-based
+photometry, but does not require a revision of previous results: NGC
+3115 DW1 hosts around $N_{\rm GC}=60\pm20$ clusters which corresponds
+to a specific frequency of $S_{\rm N}=4.9\pm1.9$, on the high end for
+massive dEs. Given its absolute magnitude ($M_V=-17.7$ mag) and the
+properties of its cluster system, NGC 3115 DW1 appears to be a
+transition between a luminous dE and low-luminosity E galaxy.
+
+\par
+\medskip
+\noindent
+{\bf  % Accepted by:
+%          or
+      Submitted to:  AJ
+}\\
+{\it For preprints, contact\, }       {\tt   puzia@usm.uni-muenchen.de }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf   HST/NICMOS Observations of IZw18 -- revealing a population\\
+\medskip of old AGB stars
+}
+\end{center}
+\begin{center}
+{\bf         G\"oran \"Ostlin $^{1,2}$
+}
+\end{center}
+{\footnotesize   $^1$  Institute d'Astrophysique de Paris, 98bis
+	Boulevard Arago, 75014 Paris, France
+         \\       $^2$  Present Address: Stockholm Observatory, 133~36
+	Saltsj\"obaden,  Sweden 
+}\par
+\medskip
+
+I present the first results from a HST/NICMOS imaging study of the
+most metal-poor blue compact dwarf galaxy IZw18.  The near infrared
+color--magnitude diagram (CMD) is dominated by two populations, one
+10-20 Myr population of red super giants and one 0.5-5 Gyr population
+of asymptotic giant branch stars.  Stars older than 1 Gyr are required
+to explain the observed CMD at the adopted distance of 12.6 Mpc,
+showing that IZw18 is {\emph {not}} a young galaxy. The results hold
+also if the distance to IZw18 is significantly larger. This rules out
+the possibility that IZw18 is a truly young galaxy formed recently in
+the local universe.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJL  }\\
+{\it For preprints, contact\, }       {\tt   ostlin@astro.su.se }\\
+{\it Also available from the URL\, }  {\tt
+http://arXiv.org/abs/astro-ph/0004338    }\\ 
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Calibration of Nebular Emission-Line Diagnostics:  
+	II.  Abundances
+}
+\end{center}
+\begin{center}
+{\bf      M.S. Oey$^1$, and J.C. Shields$^2$}
+\end{center}
+{\footnotesize
+   $^1$ Space Telescope Science Institute, 3700 San Martin Drive,
+	Baltimore, MD   21218, USA
+\\ $^2$ Ohio University, Dept. of Physics and Astronomy, Clippinger
+	Research Labs. 251B, Athens, OH   45701-2979, USA
+}\par
+\medskip
+
+We examine standard methods of measuring nebular chemical abundances,
+including estimates based on direct \te\ measurements, and also
+emission-line diagnostics.  We use observations of the LMC \hii\
+regions DEM L199, DEM L243, DEM L301, and DEM L323, whose ionizing
+stars have classifications ranging from O7 to WN3.  Following common
+practice, we assume a two-zone \te\ structure given by \thi\ and \tlo\
+to compute ionic abundances.  We compare with photoionization models
+tailored to the observed properties of the individual objects, and
+emphasize the importance of correctly relating \te\ in the two zones,
+which can otherwise cause errors of $\sim$0.2 dex in abundance
+estimates.  The data show no spatial variations or local metallicity
+enhancements to within 0.1 -- 0.15 dex in any of the objects, notably
+including DEM L199, which hosts three WR stars.
+
+Our data agree well with both the modeled $R23$ and $S23$ abundance
+diagnostics for O and S.  We present the first theoretical tracks for
+$S23$, which are in excellent agreement with a larger available
+dataset.  However, contrary to earlier suggestions, $S23$ is much {\it
+more} sensitive to the ionization parameter ($U$) than is $R23$.  This
+occurs because $S23$ does not sample {\sc S iv}, which is often a
+significant population.  We therefore introduce
+$S234\equiv$(\sii$+$\siii$+$\siv)/\Hb, and demonstrate that it is
+virtually independent of $U$.  Predicted and observed spatial
+variations in $S234$ are thus dramatically decreased in contrast to
+$S23$.  The intensity of \siv\lam10.5$\mu$ can be easily estimated
+from the simple correspondence between \siv/\siii\ and \oiii/\oii.
+Using this method to estimate $S234$ for data in the literature yields
+excellent agreement with our model tracks, hence we give a theoretical
+calibration for $S234$.  Our models show that the double-valued
+structure of $S23$ and $S234$ remains an important problem as for
+$R23$, and presently {\it we consider calibrations of these S
+diagnostics reliable only at $Z\lta 0.5\Zsol$}.  However, the slightly
+larger dynamic range and excellent compatibility with theoretical
+predictions suggest the S parameters to be more effective abundance
+diagnostics than $R23$.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   oey@stsci.edu  }\\
+{\it Also available from the URL\, }  {\tt   http://www.stsci.edu/$\sim$oey } 
+{\it or at\, }       {\tt   \ astro-ph/0003311  }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The KPNO International Spectroscopic Survey.  \\
+\medskip I. Description of the Survey
+}
+\end{center}
+\begin{center}
+{\bf	J.J. Salzer$^1$, C. Gronwall$^{1,2}$,
+	V.A. Lipovetsky$^{3,4}$, A. Kniazev$^3$, J.W. Moody$^5$,
+	T.A. Boroson$^6$, T.X. Thuan$^7$, Y.I. Izotov$^8$,
+	J.L. Herrero$^9$, and L.M. Frattare$^{10}$  
+}
+\end{center}
+{\footnotesize   $^1$  Astronomy Department, Wesleyan University,
+                 Middletown, CT 06459, USA \\ 
+                 $^2$  Current Address: Dept. of Physics \& Astronomy,
+                 Johns Hopkins University, Baltimore, MD 21209, USA \\ 
+		$^3$ Special Astrophysical Observatory, Russian
+                 Academy of Sciences, Nizhny Arkhyz,
+                 Karachai-Circessia 357147, Russia \\ 
+		$^4$ Deceased 22 September 1996 \\
+		$^5$ Department of Physics \& Astronomy, Brigham Young
+                 University, Provo, UT 84602, USA \\ 
+		$^6$ U.S. Gemini Program, National Optical Astronomy
+                 Obs., P.O. Box 26732, Tucson, AZ 85726, USA \\
+		$^7$ Astronomy Department, University of Virginia,
+                 Charlottesville, VA 22903, USA \\ 
+		$^8$ Main Astronomical Observatory, National Academy
+                 of Sciences of Ukraine, Goloseevo, Kiev 03680,
+                 Ukraine \\ 
+		$^9$ BBN Technologies, Cambridge, MA 02140, USA \\
+		$^{10}$ Space Telescope Science Institute, Baltimore,
+                 MD 21218, USA	 
+}\par
+\medskip
+The KPNO International Spectroscopic Survey (KISS) is a new
+objective-prism survey for extragalactic emission-line objects.  It
+combines many of the features of previous slitless spectroscopic
+surveys that were carried out with Schmidt telescopes using
+photographic plates with the advantages of modern CCD detectors.  It
+is the first purely digital objective-prism survey, and extends
+previous photographic surveys to substantially fainter flux limits.
+In this, the first paper in the series, we give an overview of the
+survey technique, describe our data processing procedures, and present
+examples of the types of objects found by KISS.  Our first
+H$\alpha$-selected survey list detects objects at the rate of 18.1 per
+square degree, which is 181 times higher than the surface density of
+the Markarian survey.  Since the sample is line-selected, there is an
+imposed redshift limit of z$\simlt$0.095 due to the filter employed
+for the objective-prism observations.  We evaluate the quality of the
+observed parameters derived from the survey data, which include
+accurate astrometry, photometry, redshifts, and line fluxes.  Finally,
+we describe some of the many applications the KISS database will have
+for addressing specific questions in extragalactic astronomy.
+Subsequent papers in this series will present our survey lists of
+emission-line galaxy candidates.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ (July 2000 issue)
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt caryl@pha.jhu.edu   }\\
+{\it Also available from the URL\, }  {\tt  http://www.arXiv.org/abs/astro-ph/0004074   }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+ 
+\begin{center}
+{\Large\bf  On the Nature of Andromeda~IV 
+}
+\end{center}
+\begin{center}
+{\bf         A.M.N.~Ferguson$^1$, J.S.~Gallagher$^2$, and R.F.G.~Wyse$^3$
+}
+\end{center}
+{\footnotesize   $^1$  Institute of Astronomy, University of
+         Cambridge,  Madingley Road, Cambridge, CB3 0HA, UK  
+         \\       $^2$  Dept. of Astronomy, University of Wisconsin at
+         Madison,  475 North  Charter Street, Madison, WI 53706, USA
+         \\       $^3$ Dept. of Physics \& Astronomy, Johns Hopkins
+         University, 3400 North Charles Street, Baltimore, MD 21218, USA
+}\par
+\medskip
+Lying at a projected distance of 40\arcmin\ or 9~kpc from the centre
+of M31, Andromeda~IV is an enigmatic object first discovered during
+van den Bergh's search for dwarf spheroidal companions to M31.  Being
+bluer, more compact and higher surface brightness than other known
+dwarf spheroidals, it has been suggested that And~IV is either a
+relatively old $`$star cloud' in the outer disk of M31 or a background
+dwarf galaxy. We present deep HST WFPC2 observations of And~IV and the
+surrounding field which, along with ground-based long-slit
+spectroscopy and H$\alpha$ imagery, are used to decipher the true
+nature of this puzzling object.  We find compelling evidence that
+And~IV is a background galaxy seen through the disk of M31.  The
+moderate surface brightness ($\bar{\mu_V}\sim$24), very blue colour
+(V$-$I$\lesssim$0.6), low current star formation rate
+($\sim$0.001~M$_{\odot}$~yr$^{-1}$) and low metallicity
+($\sim$10\%~Z$_{\odot}$) reported here are consistent with And~IV
+being a small dwarf irregular galaxy, perhaps similar to Local Group
+dwarfs such as IC~1613 and Sextans~A.  Although the distance to And~IV
+is not tightly constrained with the current dataset, various arguments
+suggest it lies in the range 5$\lesssim$D$\lesssim$8~Mpc, placing it
+well outside the confines of the Local Group.  It may be associated
+with a loose group of galaxies, containing major members UGC~64,
+IC~1727 and NGC~784.  We report an updated position and radial
+velocity for And~IV.  \par
+\medskip
+\noindent
+{\bf   Accepted by:  AJ (Aug 2000 issue)
+}\\
+{\it For preprints, contact\, }       {\tt   ferguson@ast.cam.ac.uk  }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The Red Stellar Contents of Three Selected Fields\\ \medskip of
+The Local Group Dwarf Irregular Galaxy IC\,1613
+}
+\end{center}
+\begin{center}
+{\bf  J. Borissova$^1$,   L. Georgiev$^{2}$, R. Kurtev$^{3}$, M.
+	Rosado$^{2}$, V. D. Ivanov$^{4}$, M. Richer$^{2}$, and M.
+	Valdez--Guti\'errez$^{5}$
+}
+\end{center}
+{\footnotesize   $^1$  {Institute of Astronomy, Bulgarian Academy of
+	Sciences, 72 Tsarigradsko chauss\`ee, BG\,--\,1784 Sofia,
+	Bulgaria}
+ \\  $^{2}$  {Instituto de Astronom\'{\i}a, Universidad Nacional
+	Aut\'onoma de M\'exico, M\'exico}
+\\   $^{3}$ {Department of Astronomy, Sofia University, BG\,--\,1164
+	Sofia, Bulgaria}
+\\  $^{4}$ {Steward Observatory, The University of Arizona, 933
+	N.~Cherry Ave, Tucson, AZ 85721, USA}
+ \\ $^{5}$ {Instituto Nacional de Astrof\'\i sica, Optica y
+	Electr\'onica, M\'exico}
+}
+\par
+\medskip
+
+We present a moderately-deep $JK$ photometry for three selected areas
+of the dwarf irregular galaxy IC\,1613.  We acquired our data with the
+\lq\lq CAMILA" infrared camera attached to the 2.1-m telescope of the
+Observatorio Astronom\'{\i}co National at ``San Pedro Martir", M\'exico
+on October 13-15, 1998. Field I is centered on the HII regions in the
+north-east quadrant of the galaxy where the most active ongoing star
+formation is occurring (Sandage 1971).  Fields II and III were chosen
+to be within  the main body of IC\,1613. The color - magnitude
+diagrams contain a mixture of red supergiants (RSGs), AGB stars, and
+the brightest red giant stars (RGB). Each field contains one or two
+stars with $K\approx 13 - 13.5$ and $J-K \approx 1$, which are the
+very luminous RSGs, and delineate the peak of the RSG luminosity
+function.  In Field I we can see some deficit of stars redder than
+$(J-K) \approx 1.0$. A possible explanation for this may be an age
+effect --- the stars in Field I are younger than in Field II and III.
+The stars between $K = 14.5 $ and $K = 15.5 $ and $ 0.5 < (J-K) < 1.5$
+are also RSGs with lower brightness. When $K > 15.5 $ both RSGs and
+AGBs stars are present, although there is some color separation
+between them --- AGB stars are generally redder than $(J-K) \approx
+1.0$.  At the faint limit of the CMDs, but still within the
+completeness limit of the photometry, the brighter red giants can be
+seen mixed among with the faintest AGB stars.  The superimposed
+isochrones from Padua's library (see Bertelli et al. 1994) indicate
+that the brightest red supergiants in the three fields are very young
+--- about 8 Myr.  Fainter RSGs in IC\,1613 have $M_{K} <-10$ and are
+matched very well by a 25 Myr isochrone.  Most of the AGB stars in
+Fields II and III are several Gyr old. In Field I most of them are
+younger than 1 Gyr. The red supergiants have masses 20 - 25 $M_\odot$.
+The derived power-law exponent for the composite (Fields II and III)
+LF for magnitude interval $15.5<K<18$ is 0.51$\pm0.04$ in good
+agreement with Cole et al.  (1999) slope of V-band luminosity function
+down to $V=24.5$.  Using the period-luminosity relation derived by
+Madore \& Freedman (1991) and $JK$ magnitudes of the Cepheid variable
+V20, we calculated $(m-M)_{K} = 24.37\pm0.2$. The recently discovered
+Nova (King et al. 1999) was identified in Field III. Its presence of
+our images and its brightness questioned its classification as a nova.
+
+\par
+\medskip
+\noindent
+{\bf     
+%          or
+      Submitted to:      Rev. Mexicana A\&A}\\
+{\it For preprints, contact\, }       {\tt   jura@haemimont.bg}\, {\it or}\,
+{\tt georgiev@astroscu.unam.mx  }\\
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf {\it Hubble Space Telescope} Observations of the Hubble
+Clusters\\ \medskip
+in NGC 6822: Ages and Structure 
+}
+\end{center}
+\begin{center}
+{\bf         Ted K. Wyder$^1$, Paul W. Hodge$^1$, and Daniel B. Zucker$^1$
+}
+\end{center}
+{\footnotesize   $^1$ Astronomy Department, University of Washington,
+	Box 351580, Seattle, WA, 98195-1580, USA
+}\par
+\medskip
+
+We present {\it Hubble Space Telescope} observations of four cluster
+candidates in NGC 6822 originally identified by Hubble (1925, ApJ, 62,
+409). One of them, Hubble~IV, is an HII region while Hubble VI, VII
+and VIII are confirmed as rich star clusters. Based upon cluster
+color-magnitude diagrams from which the field star contamination has
+been subtracted, we derive ages of $70\pm10$ Myr for Hubble VI and
+$1.5\pm0.2$ Gyr for Hubble VIII. While the age is more uncertain in
+the case of Hubble VII, the available evidence argues that this
+cluster is probably similar to the old, metal-poor globular clusters
+in the Milky Way. Comparisons of the cluster ages and integrated
+magnitudes with models of cluster evolution imply that the two young
+clusters are an order magnitude less massive than the older cluster
+Hubble VII. The radial profiles of all three clusters are reasonably
+well-fit by empirical King models. The core radius and central surface
+brightness of Hubble VII are consistent with observations of Galactic
+globular clusters.  The half-light radii of these clusters are
+comparable to values for the inner Milky Way globulars and are on
+average smaller than clusters in the Magellanic Clouds. These clusters
+apparently are exceptions to the trend noted by van den Bergh (1991,
+ApJ, 369, 1) that larger clusters tend to form in environments with
+lower stellar densities.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: PASP
+}\\
+{\it For preprints, contact\, Ted Wyder at\, }       {\tt
+wyder@astro.washington.edu  }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Lopsidedness in  Dwarf Irregular Galaxies 
+}
+\end{center}
+\begin{center}
+{\bf         Ana B. Heller,  Noah  Brosch, Elchanan Almoznino$^1$,
+	Liese van Zee$^2$, and John J. Salzer$^3$ 
+}
+\end{center}
+{\footnotesize   $^1$  The Wise Observatory and the School of Physics
+	and Astronomy, Tel Aviv University, Tel Aviv 69978, Israel
+         \\       $^2$ Herzberg Institute of Astrophysics, 5071 W.
+	Saanich Rd., Victoria BC V8X 4M6, Canada
+         \\       $^3$ Astronomy Department, Wesleyan University,
+	Middletown, CT 06459-0123, USA
+}\par
+\medskip
+We quantify the amplitude of the lopsidedness, the azimuthal angular
+asymmetry index, and the concentration of star forming regions, as
+represented by the distribution of the H$\alpha$ emission, in a sample
+of 78 late-type irregular galaxies.  We bin the observed galaxies in
+two groups representing blue compact galaxies (BCDs) and low surface
+brightness dwarf galaxies (LSBs).  The light distribution is analysed
+with a novel algorithm, which allows detection of details in the light
+distribution pattern.  We find that while the asymmetry of the
+underlying continuum light, representing the older stellar
+generations, is relatively small, the H$\alpha$ emission is very
+asymmetric and is correlated in position angle with the continuum
+light.  We show that the concentration of continuum light is
+correlated with the H$\alpha$ concentration; this implies that the
+young star formation has the same spatial properties as the older
+stellar populations, but that these properties are more strongly
+expressed by the young stars.  We test a model of random star
+formation over the extent of a galaxy by simulating HII regions in
+artificial dwarf galaxies.  A galaxy is traced by assuming red star
+clusters distributed on an underlying exponential disk of radius twice
+the scale length. The disk is allowed to change in apparent magnitude,
+scale radius, position angle, and ellipticity.  We compare the
+asymmetry-concentration distribution predicted by the simulations with
+the real observed distribution; we find that only LSBs match the
+distribution predicted by the model.  The reason is that,
+independently of the number of HII regions, LSBs show no particular
+location of HII regions, whereas BCDs show current star formation
+activity restricted very much to the central parts of the galaxies.  A
+consideration of the properties of the continuum light leads to the
+conclusion that most of LSBs can be approximated by exponential disks
+of radius twice their scale lengths; BCDs call, however, for much more
+concentrated underlying systems, with smaller scale lengths than
+assumed in the simulations.  The implication is that random star
+formation over the full extent of a galaxy may be generated in LSB
+dwarf-irregular galaxies but not in BCD galaxies.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: MNRAS (13 Mar 2000 issue)
+}\\
+{\it For preprints, contact\, }       {\tt   ana@wise.tau.ac.il  }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+{\it or by anonymous ftp at\, }       {\tt    /home/wise3/ftp/pub/ana    }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center} 
+{\Large\bf  On the formation and evolution of the globular cluster\\ \medskip
+	Omega Centauri 
+}
+\end{center}
+\begin{center}
+{\bf         Giovanni Carraro$^1$, and Cesario Lia$^2$
+}
+\end{center}
+{\footnotesize   $^1$ Department of Astronomy, Vicolo
+        dell'Osservatorio 5, I-35122 Padua, Italy
+         \\       $^2$ SISSA/ISAS, via  Beirut 2, I-34014, Trieste,
+        Italy
+}\par
+\medskip
+
+By means of N-body/hydrodynamical simulations we model the evolution
+of a primordial $10^{8}$ solar masses density peak which ends up in an
+object closely resembling the present day globular cluster Omega
+Centauri. We succeed to reproduce the main features of the cluster,
+namely the structure, kinematics and metallicity distribution. We
+suggest that Omega Centauri might be a cosmological dwarf elliptical,
+formed at high redshift, evolved in isolation and self-enriched, and
+eventually fallen inside the potential well of the Milky Way, in
+agreement with the Searle-Zinn (1978) paradigm for galactic globular
+clusters formation. We finally suggest that Omega Centauri is probably
+surrounded by an extended Dark Matter (DM) halo, for which no
+observational evidence is at present available. We expect that
+signatures, if any, of the DM halo can be found in the kinematics of
+stars outside about 20 arcmin.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: A\&A
+%          or
+%     Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt  carraro@pd.astro.it   }\\
+{\it Also available from the URL\, }  {\tt
+	http://arXiv.org/abs/astro-ph/0003371 }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Deep HST+STIS Color-Magnitude Diagrams of the Dwarf\\
+\medskip Irregular Galaxy WLM: Detection of the Horizontal Branch
+}
+\end{center}
+\begin{center}
+{\bf         M. Rejkuba$^{1,2}$, D. Minniti$^{2,3}$,
+	M.D. Gregg$^{3}$, A.A. Zijlstra$^{4}$, M.V. Alonso$^{5}$,
+	P. Goudfrooij$^{6,7}$ 
+}
+\end{center}
+{\footnotesize   $^1$  European Southern Observatory,
+	Karl-Schwarzschild-Strasse 2, D-85748 Garching, Germany 
+         \\      $^2$  Department of Astronomy, P. Universidad
+	Cat\'olica, Casilla 306, Santiago 22, Chile
+         \\      $^3$  Lawrence Livermore National Laboratory, MS
+	L-413, P.O. Box 808, Livermore, CA 94550, USA
+         \\      $^4$  Department of Physics, UMIST, P.O.Box 88,
+	Manchester M60 1QD, UK 
+         \\      $^5$  Observatorio Astron\'omico de C\'ordoba,
+	Laprida 854, C\'ordoba, Argentina
+         \\      $^6$  Space Telescope Science Institute, 3700 San
+	Martin Drive, Baltimore, MD 21218, USA 
+         \\      $^7$  Affiliated with the Astrophysics Division,
+	Space Science Department, European Space Agency 
+}\par
+\medskip
+
+We have obtained V and I-band photometry for 1886 stars down to $I=27$
+and $V=28$ in the field of the dwarf irregular galaxy WLM, using deep
+STIS $CL$ and $LP$-band images taken in the parallel mode with the
+Hubble Space Telescope. The photometry is used to study the horizontal
+branch identified in WLM. The horizontal branch, extending blueward
+from the red giant clump, is an unambiguous signature of an old
+population.  We demonstrate that it is possible to reach the
+horizontal branch of an old population at a distance of $\simeq 1$ Mpc
+using STIS, with relatively short exposure times.  {}From the VI
+color--magnitude diagram we obtain an accurate distance modulus
+$(m-M)_0 = 24.95 \pm 0.13$ for WLM by using the V-magnitude of the
+horizontal branch, and by adopting $E(V-I) = 0.03$.  The implications
+are: 1) WLM formed stars at high redshift, and 2) the old population
+of WLM can be representative of a protogalactic fragment, related to
+those accreted to form the Milky Way halo.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+{\it For preprints, contact\, }       {\tt   mrejkuba@eso.org  }\\
+{\it Also available from the URL\, }  {\tt
+                        http://arXiv.org/abs/astro-ph/0004231    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf
+HS 0822+3542 --- a new nearby extremely metal-poor galaxy
+}
+\end{center}
+\begin{center}
+{\bf
+	A.Y. Kniazev$^1$, S.A. Pustilnik$^1$, J. Masegosa$^2$,
+	I. M\'arquez$^2$, A.V. Ugryumov$^1$, J.-M. Martin$^3$,
+	Y.I. Izotov$^4$, D. Engels$^5$, N. Brosch$^6$, U. Hopp$^7$,
+	S. Merlino$^2$,  and \mbox{V.A. Lipovetsky$^1$}
+}
+\end{center}
+{\footnotesize
+	$^1$  Special Astrophysical Observatory, Nizhnij Arkhyz,
+	Karachai-Circessia, 369167, Russia \\
+	$^2$ Instituto de Astrofisica de Andalucia, CSIC, Aptdo. 3004,
+	18080 Granada, Spain \\
+	$^3$ Observatoire de Paris-Meudon, 92195 Meudon, France \\ 
+	$^4$ Main Astronomical Observatory, Goloseevo, Kiev-127,
+	03680, Ukraine \\ 
+	$^5$ Hamburger Sternwarte, Gojenbergswerg 112, D-21029
+	Hamburg, Germany \\ 
+	$^6$ Wise Observatory, Tel-Aviv University, Tel-Aviv 69978,
+	Israel      \\ 
+	$^7$ Universit\"atssternwarte M\"unchen, D-81679 M\"unchen,
+	Germany 
+}\par
+\medskip
+
+We present the results of spectrophotometry and $BVR$ CCD photometry,
+as well as integrated H{\sc i} radio measurements of a new blue
+compact galaxy (BCG) HS~0822+3542 with extremely low oxygen abundance:
+12 + log(O/H) = 7.35, or 1/36 of solar value. The galaxy is the third
+most metal-deficient BCG after I~Zw~18 and SBS~0335--052. Its very
+high mass fraction of gas ($\approx$ 95\% of all visible mass) and
+blue colours of underlying nebulosity are also similar to those of
+SBS~0335--052. This suggests that HS~0822+3542 is one of the nearest
+and dimmest galaxies experiencing a recently-started first star
+formation (SF) episode.  Its properties imply that for such galaxies
+there is a linear scaling of the main parameters, at least for the
+baryon mass range (0.3--20)$\times$10$^{8}$ $M_{\odot}$.  The total
+mass estimate indicates that the galaxy is dynamically dominated by a
+dark matter (DM) halo, which itself is one of the least massive for
+galaxies.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: A\&A (March 2000 issue)
+}\\
+{\it For preprints, contact\, }       {\tt   akn@sao.ru  }\\
+{\it Also available from the URL\, }  {\tt   http://precise.sao.ru/Laboratory/Publications/2000\_pub.html  }\\
+{\it and} {\tt \ astro-ph/0003320}\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The Evolutionary Status of Isolated Dwarf Irregular Galaxies \\ 
+\medskip I. UBV and H$\alpha$ Imaging Observations 
+}
+\end{center}
+\begin{center}
+{\bf         Liese van Zee$^{1,2}$
+}
+\end{center}
+{\footnotesize   $^1$  NRAO, PO Box 0, Socorro, NM 87801, USA
+         \\       $^2$  Present address: Herzberg Institute of
+         Astrophysics, 5071 W. Saanich Rd, Victoria, BC V8X 4M6, Canada 
+}\par
+\medskip
+
+The results of UBV and H$\alpha$ imaging of a large sample of
+ gas--rich, isolated, dwarf irregular galaxies are presented.  The
+ majority of the low luminosity systems in this sample have no known
+ neighbors within 200 to 400 kpc, and thus are unlikely to have had
+ significant interactions within the last several Gyr.  The new
+ observations confirm that dwarf Irregular galaxies are blue systems,
+ with median values for the sample of 0.42 $\pm ^{0.04}_{0.05}$ in
+ (B--V) and --0.22 $\pm ^{0.04}_{0.07}$ in (U--B).  Analysis of the
+ derived surface photometry indicates that most of these systems can
+ be well fit by single exponential disks, and have only minor color
+ gradients.  Furthermore, the observed HII regions are distributed
+ sparsely across the optical disk.  HII region luminosity functions
+ were constructed for those systems with a sufficient number of HII
+ regions; the derived power--law indices are generally shallow, with a
+ median value of --1.61 $\pm ^{0.31}_{0.24}$.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: AJ
+}\\
+{\it For preprints, contact\, }       {\tt   Liese.vanZee@hia.nrc.ca  }\\
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf 
+Exploring the Leo II Dwarf Spheroidal:\\ \medskip I. The Variable Star Content}
+\end{center}
+\begin{center}
+{\bf         M. Siegel$^1$, and S. Majewski$^1$
+}
+\end{center}
+{\footnotesize   $^1$  University of Virginia, Department of Astronomy,
+         P.O. Box 3018, Charlottesville, VA  22903-0818, USA
+}\par
+\medskip
+
+We present the first comprehensive catalogue of variable stars in the
+Leo II dwarf spheroidal galaxy.  We have identified 148 RR Lyrae type
+variables, of which 140 were amenable to derivation of variability
+parameters with our data.  We have also confirmed the existence of
+four anomalous Cepheids as identified in previous studies.
+
+The average period of the RR Lyrae ab variables (0.62 days), the
+fraction of c variables (0.24) and the minimum period of the RR Lyrae
+ab variables (0.51 days) all define Leo II as an ``Oosterhoff
+intermediate" galaxy.  We have used the properties of these variables
+to derive a metallicity for Leo II of approximately [Fe/H]=-1.9.  We
+attempt to resolve discrepancies between this value and those
+determined by previous efforts.  The presence of longer period, higher
+amplitude RR Lyrae variable implies a metallicity distribution that
+extends to as poor as [Fe/H]$=-2.3$.
+
+Leo II's location on the period-metallicity relation of clusters, like
+that of other ``Oosterhoff intermediate'' objects, falls between the
+Oosterhoff Class I and Oosterhoff Class II clusters.  The properties
+of the variable populations of these objects are consistent with the
+idea that the Oosterhoff ``dichotomy" is a continuum.  The gap between
+the classes seems to be explained by the horizontal branch of Galactic
+globular clusters shifting a way from the instability strip at at
+intermediate metallicities.  However, Leo II, as well as other
+Oosterhoff intermediate objects, has a second parameter effect strong
+enough to leave horizontal branch stars in the instability strip.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by:  AJ
+}\\
+{\it For preprints, contact\, }       {\tt   mhs4p@virginia.edu  }\\
+{\it Also available from the URL\, }  {\tt
+http://www.astro.virginia.edu/$\sim$mhs4p/paps.html}\\ 
+%{\it or by anonymous ftp at\, }       {\tt        }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  The Influence of Galactic Outflows on
+the Formation\\ \medskip of Nearby Dwarf Galaxies}
+\end{center}
+\begin{center}
+{\bf        
+	A. Evan Scannapieco$^1$, B. Andrea Ferrara$^2$, and C. Tom
+	Broadhurst$^3$ 
+}
+\end{center}
+{\footnotesize    $^1$  Department of Astronomy, University of
+         California, Berkeley, CA 94720, USA
+         \\       $^2$ Osservatorio Astrofisico di Arcetri, 50125
+         Firenze, Italy 
+         \\       $^3$ European Southern Observatory,
+         Karl-Schwarzschild-Strasse 2, Garching bei M\"{u}nchen,
+         Germany
+}\par
+\medskip
+
+We show that the gas in growing density perturbations is vulnerable to
+the influence of winds outflowing from nearby collapsed galaxies that
+have already formed stars.  This suggests that the formation of nearby
+galaxies with masses less than approximately $10^9 M_\odot$ is likely
+to be suppressed, irrespective of the details of galaxy formation.  An
+impinging wind may shock heat the gas of a nearby perturbation to
+above the virial temperature, thereby mechanically evaporating the
+gas, or the baryons may be stripped from the perturbation entirely if
+they are accelerated to above the escape velocity.  We show that
+baryonic stripping is the most effective of these two processes,
+because shock-heated clouds that are too large to be stripped are able
+to radiatively cool within a sound-crossing time, limiting
+evaporation.  The intergalactic medium temperatures and star-formation
+rates required for outflows to have a significant influence on the
+formation of low-mass galaxies are consistent with current
+observations, but may soon be examined directly via associated
+distortions in the cosmic microwave background, and with near-infrared
+observations from the Next Generation Space Telescope, which may
+detect the supernovae from early-forming stars.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJL
+}\\
+{\it For preprints, contact\, }       {\tt   evan@orion.berkeley.edu  }\\
+{\it Also available from the URL\, }  {\tt   
+http://astron.berkeley.edu/$\sim$evan/}\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  
+First results of UVES at VLT: abundances in the Sgr dSph
+}
+\end{center}
+\begin{center}
+{\bf         P. Bonifacio$^1$, V.Hill$^2$, P. Molaro $^1$,
+L. Pasquini$^2$, P. Di Marcantonio$^1$, and P. Santin$^1$ 
+}
+\end{center}
+{\footnotesize   $^1$ Osservatorio Astronomico di Trieste,Via
+	G.B.Tiepolo 11, I-34131 Trieste, Italy 
+          \\       $^2$  European Southern Observatory,
+	Karl-Schwarzschild Strasse 2, D-85748 Garching bei M\"unchen,
+	Germany   
+}\par
+\medskip
+ 
+Two giants of the Sagittarius dwarf spheroidal have been observed with
+the UVES spectrograph on the ESO 8.2m Kueyen telescope, during the
+commissioning of the instrument.  Sgr 139 has [Fe/H]$=-0.28$ and Sgr
+143 [Fe/H]$=-0.21$, these values are considerably higher than
+photometric estimates of the metallicity of the main population of
+Sgr.  We derived abundances for O, Na, Mg, Al, Si, Ca, Sc, Ti, V, Cr,
+Mn, Co, Ni, Cu, Y, Ba, La, Ce, Nd and Eu; the abundance ratios found
+are essentially solar with a few exceptions: Na shows a strong
+overdeficiency, the heavy elements Ba to Eu, are overabundant, while Y
+is underabundant.  The high metallicity derived implies that the Sgr
+galaxy has experienced a high level of chemical processing.  The stars
+had been selected to be representative of the two main stellar
+populations of Sagittarius, however, contrary to what expected from
+the photometry, the two stars show a very similar chemical
+composition.  We argue that the most likely explanation for the
+difference in the photometry of the two stars is a different distance,
+Sgr 143 being about 2\,kpc nearer than Sgr 139.  This result suggests
+that the interpretation of colour -- magnitude diagrams of Sgr is more
+complex than previously thought and the effect of the line of sight
+depth should not be neglected.  It also shows that spectroscopic
+abundances are required for a correct interpretation of Sgr
+populations.  
+
+\par
+\medskip 
+\noindent {\bf Accepted by: A\&A }\\ 
+{\it For preprints, contact\, } {\tt bonifaci@ts.astro.it }\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+ 
+%========================================================================
+
+\begin{center}
+{\Large\bf  Identifying Old Tidal Dwarf Irregulars
+}
+\end{center}
+\begin{center}
+{\bf Deidre A.\ Hunter$^1$, Sally D.\ Hunsberger$^1$, and Erin W.\
+	Roye$^1$ 
+}
+\end{center}
+{\footnotesize   $^1$  Lowell Observatory, 1400 West Mars Hill Road,
+	Flagstaff, AZ 86001, USA
+}\par
+\medskip
+
+We examine the observational consequences of the two possible origins
+for irregular galaxies: formation from collapse of a primordial cloud
+of gas early in the age of the Universe, and formation from tidal
+tails in an interaction that could have occurred any time in the
+history of the Universe.  Because the formation from tidal tails could
+have occurred a long time ago, proximity to larger galaxies is not
+sufficient to distinguish tidal dwarfs from traditional dwarfs. We
+consider the effects of little or no dark matter on rotation speeds
+and the Tully-Fisher relationship, the metallicity-luminosity
+relationship, structure, and stellar populations.  {}From these
+selection criteria, we identify a small list of dwarf irregular
+galaxies that are candidates for having formed as tidal dwarfs.
+
+\par
+\medskip
+\noindent
+{\bf   Accepted by: ApJ
+%          or
+%      Submitted to:     JOURNAL
+}\\
+%{\it For preprints, contact\, }       {\tt   your e-mail address  }\\
+{\it Also available from the URL\, }  {\tt   astro-ph/0005257}
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+
+\par
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+\newpage
+
+%========================================================================
+
+\noindent
+{\LARGE \bf ABSTRACTS OF CONFERENCE CONTRIBUTIONS}
+
+\bigskip
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Keck Studies of M31's Stellar Halo
+}
+\end{center}
+\begin{center}
+{\bf    Puragra Guhathakurta$^1$, David B. Reitzel$^1$, and Eva
+	K. Grebel$^2$   
+}
+\end{center}
+{\footnotesize   $^1$  UCO/Lick Obs., Univ.\ of California at Santa Cruz,
+	1156 High St, Santa Cruz, California 95064, USA
+         \\       $^2$  Univ.\ of Washington, Dept.\ of Astronomy, Box
+	35158, Seattle, Washington~98195-1580, USA
+}\par
+\medskip
+
+We present Keck 10-meter/LRIS spectra of candidate red giants in the
+halo of M31, located at a projected radius of R=19kpc on the minor
+axis. These spectroscopic targets have been selected using a
+combination of UBRI-based and morphological screening to eliminate
+background galaxies. Radial velocity measurements are used to separate
+M31 halo giants from foreground Milky Way dwarf stars, M31 disk stars,
+and residual background galaxies. The metallicity of each M31 halo
+giant is measured using standard photometric and spectroscopic
+techniques, the latter based on the strength of the CaII triplet. The
+various [Fe/H] estimates are in rough agreement with one another. The
+data reveal a large spread ($>2$dex) in [Fe/H] in M31's halo; there is
+no strong radial [Fe/H] gradient. LRIS and HIRES spectra are also
+presented for red giants in five dwarf spheroidal satellites of M31:
+AndI, AndIII, AndV, AndVI, and AndVII.  There appears to be a
+significant metallicity spread in AndVI and possibly in AndI. The new
+radial velocity data on these outer dwarfs are used to constrain the
+total mass of M31: the best estimate is under $10^{12}$\msol, somewhat
+less than the best estimate for the Milky Way.
+
+\par
+\medskip
+\noindent
+{\bf   To be published in the proceedings of SPIE Conference: Discoveries
+  and Research Prospects with 8-10 Meter Class Telescopes (Munich
+  March 2000) 
+}\\
+{\it For preprints, contact\, }       {\tt   raja@ucolick.org }\\
+{\it Also available from the URL\, }  {\tt
+	http://arXiv.org/abs/astro-ph/0004371 }\\
+%%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf Massive star clusters in dwarf starburst galaxies
+}
+\end{center}
+\begin{center}
+{\bf         G. \"Ostlin$^{1,2}$
+}
+\end{center}
+{\footnotesize   $^1$  Institut d'Astrophysique de Paris, 98bis
+         Boulevard Arago, 75014 Paris, France 
+         \\      $^2$  Present address: Stockholm observatory, 133~36
+         Saltsj\"obaden, Sweden  
+}\par
+\medskip
+
+I will discuss the presence of massive star clusters in starburst
+galaxies with an emphasis on low mass galaxies outside the local
+group. I will show that such galaxies, with respect to their mass and
+luminosity, may be very rich in young luminous clusters.
+
+\par
+\medskip
+\noindent
+{\bf  To appear in ``Massive stellar clusters'', eds. A. Lancon and 
+C. Boily, ASP Conf. Ser. (in press)
+}\\
+{\it For preprints, contact\, }       {\tt   ostlin@astro.su.se   }\\
+{\it Also available from the URL\, }  {\tt
+http://xxx.lanl.gov/abs/astro-ph/0003149   }\\ 
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+\newpage
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  Dynamical processes, element mixing and chemodynamical
+cycles\\ \medskip in dwarf galaxies 
+}
+\end{center}
+\begin{center}
+{\bf         Andreas Rieschick$^1$, and Gerhard Hensler$^1$
+}
+\end{center}
+{\footnotesize   $^1$  Institut f\"ur Theoretische Physik und
+	Astrophysik, Universit\"at Kiel, 24098 Kiel, Germany
+}\par
+\medskip
+
+Since the chemical evolution of galaxies seems to differ between
+morphological types and deviates in many details from the standard
+scenario the question has to be addressed when, how and to what amount
+metal-enriched ejecta from Supernovae and Planetary Nebulae pollute
+their environment. Since recent observations of dwarf galaxies show no
+significant metal abundance gradients throughout the galaxies while
+enhancement of metals happens in isolated HII regions, an effective
+mixing process has to be assumed.  Chemodynamical evolution models can
+provide a possible explanation by demonstrating that strong
+evaporation of gas clouds by hot gas and following condensation leads
+to an almost perfect mixing of the gas.  We focus on the different
+phases of chemodynamical evolution that are experienced by a
+representative dwarf irregular galaxy model and present a quantitative
+analysis of the chemodynamical gas flow cycles.
+
+\par
+\medskip
+\noindent
+{\bf
+To appear in Proceedings of ``Cosmic Evolution and Galaxy Formation:
+Structure, Interactions, and Feedback", 3rd Guillermo Haro
+Astrophysics Conference, Puebla, Mexico, held in Nov. 1999
+}\\
+{\it For preprints, contact\, }       {\tt
+rieschick@astrophysik.uni-kiel.de}\\
+{\it Also available from the URL\, }  {\tt
+http://arXiv.org/abs/astro-ph/0005079    }\\
+%% When submitting a Thesis abstract, please also state
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\begin{center}
+{\Large\bf  An Extended View of the Fornax Cluster
+}
+\end{center}
+\begin{center}
+{\bf         M. Waugh$^1$, R.L. Webster$^1$, and M.J. Drinkwater$^1$
+}
+\end{center}
+{\footnotesize   $^1$  Astrophysics Group,  School of Physics,
+         University of Melbourne, Vic 3010, Australia
+}\par
+\medskip
+
+The Multibeam survey at the Parkes Radio Telescope has provided a
+wealth of 21 cm HI data. We have mosaicked ten standard HIPASS cubes
+to produce a datacube approximately 25 deg x 25 deg in size, centred
+on NGC1399, the optical centre of the Fornax Cluster. Some properties
+of the initial approx. 80 galaxies identified in HI are described.  In
+the optical, Ferguson's Fornax Cluster Catalogue (FCC) identified 340
+likely member galaxies in the central 40 sq.deg. In the radio we have
+detected a more uniform sheet of about 80 galaxies at the cluster
+velocity extending up to 15 deg from the cluster centre. At the
+cluster distance of about 15 Mpc, this corresponds to an elongated
+large-scale structure (LSS) more than 7 Mpc in extent.  Galaxies were
+detected to a lower mass limit of $1 \times 10^8$ \msol\ and fewer than 25 of
+these were within the central 40 sq.deg, suggesting considerable HI
+depletion of galaxies in the centre of the cluster. Further, these
+results strongly indicate that HI surveys do not readily identify
+galaxy clusters.
+
+\par
+\medskip
+\noindent
+{\bf   To appear in: "Mapping the Hidden Universe", conference
+	proceedings
+}\\
+{\it For preprints, contact\, }       {\tt   mwaugh@isis.ph.unimelb.edu.au  }\\
+{\it Also available from the URL\, }  {\tt
+	http://arXiv.org/abs/astro-ph/0004272 }\\
+%{\it or by anonymous ftp at\, }       {\tt   your ftp address     }\\
+%% When submitting a Thesis abstract, please also state 
+%% WHEN, WHERE, and under WHOSE DIRECTION your degree was completed.
+\medskip
+\noindent
+\dotfill
+
+%========================================================================
+
+\newpage
+
+\begin{center}
+{\Large\bf  The Star Formation History of the Local Group
+}
+\end{center}
+\begin{center}
+{\bf         Eva K. Grebel$^{1,2}$
+}
+\end{center}
+{\footnotesize   $^1$  University of Washington, Dept.\ of Astronomy,
+         Box 351580, Seattle, WA 98195, USA\\
+ \footnotesize   $^2$  Hubble Fellow
+}\par
+\medskip
+
+The star formation histories of Local Group galaxies are summarized.
+The three large spirals are briefly discussed individually.  The discussion
+of the Local Group dwarfs concentrates on differences and commonalities.
+While Local Group galaxies exhibit an amazing diversity in their star
+formation histories even within the same morphological type, they share a
+number of common global properties.  Major determining factors for their 
+evolution are galaxy mass and environmental effects such as ram pressure
+and tidal stripping.  It seems likely that low-mass dwarf irregular galaxies
+evolve into dwarf spheroidals.
+
+\par
+\medskip
+\noindent
+{\bf   To appear in: Proceedings of the 33rd ESLAB Symposium ``Star Formation
+        from the Small to the Large Scale'', eds. F. Favata, A.A. Kaas, and 
+        A. Wilson (ESA SP-445, 2000, in press)\\
+{\it For preprints, contact\, }       {\tt   grebel@mpia-hd.mpg.de}\\
+{\it Also available from the URL\, }  {\tt
+	http://arXiv.org/abs/astro-ph/0005296 }
+}
+\par
+\noindent
+\hrulefill
+\par
+\vspace*{-3mm}
+\noindent
+\hrulefill
+
+%========================================================================
+
+\end{document}
+
+
+
+
+
+----------
+X-Sun-Data-Type: default
+X-Sun-Data-Name: aas2pp4.sty
+X-Sun-Charset: us-ascii
+X-Sun-Content-Lines: 498
+
+% Converted by doc2sty Mon May 15 13:45:58 PDT 1995.
+% This file is not intended for human consumption.
+% AAS2PP4.STY -- AAS two-column preprint substyle definition for LaTeX.
+
+\def\revtex@ver{4.0}	
+\def\revtex@date{25 Apr 95}	
+\def\revtex@org{AAS}		
+\def\revtex@jnl{AAS}		
+\def\revtex@genre{2-column preprint}	
+\typeout{\revtex@org\space \revtex@genre\space substyle,
+v\revtex@ver\space <\revtex@date>.}
+\def\revtex@pageid{\xdef\@thefnmark{\null}
+\@footnotetext{This \revtex@genre\space was prepared with the
+		   \revtex@org\space \LaTeX\ macros v\revtex@ver.}}
+\def\genre@MS{manuscript}
+\def\genre@PP{preprint}
+\ifx\revtex@genre\genre@MS
+\ifnum\@ptsize<2
+\typeout{Warning: Undersize \revtex@genre\space font (1\@ptsize\space pts).
+	Use 12pt documentstyle option.}
+\fi
+\fi
+\def\ps@plaintop{\let\@mkboth\@gobbletwo
+\def\@oddfoot{}\def\@oddhead{\rm\hfil--\space\thepage\space--\hfil}
+\def\@evenfoot{}\let\@evenhead\@oddhead}
+\ps@plain
+\textwidth=6.9in
+\textheight=8.4in
+\topmargin=0in
+\headheight=.15in
+\headsep=.35in
+\oddsidemargin=0in
+\evensidemargin=0in
+\parindent=1.2em
+\parskip=0.5ex
+\columnsep=0.5in
+\hoffset=-0.2in		
+\tolerance=600		
+\def\@tightleading{1.1}
+\def\@doubleleading{1.6}
+\let\tighten=\relax
+\let\tightenlines=\tighten
+\let\singlespace=\relax
+\let\doublespace=\relax
+\def\sec@upcase#1{\relax{#1}}
+\def\eqsecnum{
+\@newctr{equation}[section]
+\def\theequation{\hbox{\normalsize\arabic{section}-\arabic{equation}}}}
+\def\@journalname{The Astropolitical Journal}
+\def\cpr@holder{American Astronomical Society}
+\def\received#1{\gdef\@recvdate{#1}}    \received{}
+\def\accepted#1{\gdef\@accptdate{#1}}   \accepted{}
+\def\revised#1{\gdef\@revisedate{#1}}   \revised{}
+\def\journalid#1#2{\gdef\@jourvol{#1}\gdef\@jourdate{#2}}
+\def\articleid#1#2{\gdef\@startpage{#1}\gdef\@finishpage{#2}}
+\def\paperid#1{\gdef\@paperid{#1}} \paperid{MS-0001-SAMP}
+\def\ccc#1{\gdef\CCC@code{#1}} \ccc{000-00\$75.95-CDB}
+\def\cpright#1#2{\@nameuse{cpr@#1} \gdef\cpr@year{#2}
+\typeout{`#1' copyright \cpr@year.}}
+\newcount\@cprtype \@cprtype=\@ne	
+\def\cpr@AAS{\@cprtype=1}
+\def\cpr@PD{\@cprtype=2}
+\def\cpr@Crown{\@cprtype=3}
+\def\cpr@none{\@cprtype=4}
+\def\cpr@ASP{\@cprtype=5}
+\def\cpr@year{\number\year}		
+\def\@slug{\par\noindent
+\ifcase\@cprtype
+	\relax
+\or
+	Copyright \cpr@year\space by the \cpr@holder.
+\or
+	This article is in the public domain.
+\or
+	Crown copyright \cpr@year\space by the \cpr@holder.
+\or
+	No copyright is claimed for this article.
+\or
+	Copyright \cpr@year\space by the ASP.
+\fi
+\par\noindent
+Manuscript number \@paperid.\par\noindent
+\CCC@code
+}
+\def\lefthead#1{\gdef\@versohead{#1}} \lefthead{\relax}
+\def\righthead#1{\gdef\@rectohead{#1}} \righthead{\relax}
+\def\@runheads{\@tempcnta\c@page
+\@whilenum \@tempcnta >0\do{
+\vskip 3ex
+\hbox to30pc{\small\expandafter\uppercase\expandafter{\@versohead}:
+	\expandafter\uppercase\expandafter{\@rectohead}\hfil}
+\advance\@tempcnta by\m@ne}
+}
+\def\slugcomment#1{\gdef\slug@comment{#1}} \slugcomment{}
+\newdimen\@slugcmmntwidth \@slugcmmntwidth .67\textwidth
+\long\def\@makeslugcmmnt{\ifx\slug@comment\@empty\relax\else
+\setbox\@tempboxa\hbox{\slug@comment}
+\ifdim \wd\@tempboxa >\@slugcmmntwidth
+\hbox to\textwidth{\hss
+	    \parbox\@slugcmmntwidth\slug@comment}
+\else
+\hbox to\textwidth{\hfil\box\@tempboxa}
+\fi
+\vskip 2ex
+\fi}
+\def\@rcvaccrule{\vrule\@width1.75in\@height0.5pt\@depth\z@}
+\def\@dates{{\center\if@twocolumn\small\else\normalsize\fi%
+{\it Received}\space%
+\ifx\@empty\@recvdate\@rcvaccrule\else\@recvdate\fi;%
+\if@twocolumn\\[.5ex]\else\hspace{1.5em}\fi%
+{\it accepted}\space%
+\ifx\@empty\@accptdate\@rcvaccrule\else\@accptdate\fi%
+\endcenter}
+}
+\def\sluginfo{{\center
+\@dates
+\endcenter}}
+\let\dates=\sluginfo	
+\def\abstract{\if@twocolumn
+\section*{Abstract}
+\else \large \vspace{3em}
+\begin{center}
+{\bf{ABSTRACT}\vspace{-.5em}\vspace{0pt}}
+\end{center}
+\quotation
+\fi}
+\def\title#1{{\center\if@twocolumn\large\else\Large\fi\bf#1\endcenter}}
+\def\author#1{{\topsep 0pt\center
+\if@twocolumn\normalsize\else\vspace{4ex}\large\fi#1\endcenter}}
+\let\authoraddr=\@gobble
+\let\authoremail=\@gobble
+\def\affil#1{\vspace*{-0.8ex}{\topsep 0pt\center
+\if@twocolumn\small\else\normalsize\fi\it#1\endcenter}}
+\def\altaffilmark#1{$^{#1}$}
+\def\altaffiltext#1#2{\footnotetext[#1]{#2}\stepcounter{footnote}}
+\def\and{\vspace*{-0.5ex}{\topsep\z@\center and\endcenter}}
+\def\@keywordtext{Subject headings}
+\def\@keyworddelim{---}
+\def\keywords#1{\vspace*{-.7ex}
+\if@twocolumn\noindent{\small{\it\@keywordtext:\/}\space\@kwds{#1}}
+\else{\quote\if@twocolumn\small\else\large\fi
+{\it\@keywordtext:\/}\space\@kwds{#1}\endquote}
+\fi}
+\let\subjectheadings=\keywords
+\def\@kwds#1{#1\relax}
+\skip\footins 3ex plus 1ex minus .5ex
+\footnotesep 2ex
+\long\def\@makefntext#1{\noindent\hbox to\z@{\hss$^{\@thefnmark}$}#1}
+\def\notetoeditor#1{}%
+\newif\if@firstsection \@firstsectiontrue
+\def\section{\if@firstsection
+\if@twocolumn\relax\else\twocolumn\fi
+\@firstsectionfalse\fi
+\@startsection{section}{1}{\z@}
+{2.3ex plus 1ex minus .2ex}{1.5ex plus .2ex}{\normalsize\bf}}
+\def\subsection{\@startsection{subsection}{2}{\z@}
+{2ex plus 1ex minus .2ex}{1ex plus .2ex}{\normalsize\bf}}
+\def\subsubsection{\@startsection{subsubsection}{3}{\z@}
+{2ex plus 1ex minus .2ex}{1ex plus .2ex}{\normalsize\it}}
+\def\thesection{\@arabic{\c@section}}
+\def\thesubsection{\thesection.\@arabic{\c@subsection}}
+\def\thesubsubsection{\thesubsection.\@arabic{\c@subsubsection}}
+\def\theparagraph{\thesubsubsection.\@arabic{\c@paragraph}}
+\def\acknowledgments{\vskip 3ex plus .8ex minus .4ex}
+\let\acknowledgements=\acknowledgments			
+\def\@sect#1#2#3#4#5#6[#7]#8{\ifnum #2>\c@secnumdepth
+\def\@svsec{}\else
+\refstepcounter{#1}\edef\@svsec{\csname the#1\endcsname.\hskip 1em }\fi
+\@tempskipa #5\relax
+\ifdim \@tempskipa>\z@
+\begingroup #6\relax
+\@hangfrom{\hskip #3\relax\@svsec}{\interlinepenalty \@M
+	  \sec@upcase{#8}\par}%
+\endgroup
+\csname #1mark\endcsname{#7}\addcontentsline
+{toc}{#1}{\ifnum #2>\c@secnumdepth \else
+\protect\numberline{\csname the#1\endcsname}\fi
+#7}\else
+\def\@svsechd{#6\hskip #3\@svsec \sec@upcase{#8}\csname #1mark\endcsname
+{#7}\addcontentsline
+{toc}{#1}{\ifnum #2>\c@secnumdepth \else
+\protect\numberline{\csname the#1\endcsname}\fi
+#7}}\fi
+\@xsect{#5}}
+\def\@ssect#1#2#3#4#5{\@tempskipa #3\relax
+\ifdim \@tempskipa>\z@
+\begingroup #4\@hangfrom{\hskip #1}{\interlinepenalty \@M
+\sec@upcase{#5}\par}\endgroup
+\else \def\@svsechd{#4\hskip #1\relax \sec@upcase{#5}}\fi
+\@xsect{#3}}
+\def\appendix{\par
+\setcounter{section}{0}
+\setcounter{subsection}{0}
+\setcounter{equation}{0}
+\def\thesection{\Alph{section}}
+\@ifundefined{documentclass}
+{\def\theequation{\normalsize\hbox{\Alph{section}\arabic{equation}}}}
+{\def\theequation{\hbox{\Alph{section}\arabic{equation}}}}
+\def\thefigure{\thesection\@arabic\c@figure}
+\def\thetable{\thesection\@arabic\c@table}
+\def\section{\setcounter{equation}{0}
+\@startsection {section}{1}{\z@}
+{5ex plus .5ex}{1ex plus .2ex}{\normalsize\bf}}}
+\newcounter{cureqno}
+\newenvironment{mathletters}{\refstepcounter{equation}%
+\setcounter{cureqno}{\value{equation}}%
+\let\@curtheeqn\theequation%
+\edef\cur@eqn{\theequation}%
+\def\theequation{\cur@eqn\alph{equation}}%
+\setcounter{equation}{0}}%
+{\let\theequation\@curtheeqn%
+\setcounter{equation}{\value{cureqno}}}
+\def\eqnum#1{\def\theequation{#1}\let\@currentlabel\theequation
+\addtocounter{equation}{\m@ne}}
+\def\references{\subsection*{REFERENCES}
+\bgroup\parindent=\z@\parskip=\itemsep
+\def\refpar{\par\hangindent=1.2em\hangafter=1}}
+\def\endreferences{\refpar\egroup\revtex@pageid}
+\def\thebibliography#1{\subsection*{REFERENCES}
+\list{\null}{\leftmargin 1.2em\labelwidth\z@\labelsep\z@\itemindent -1.2em
+\usecounter{enumi}}
+\def\refpar{\relax}
+\def\newblock{\hskip .11em plus .33em minus .07em}
+\sloppy\clubpenalty4000\widowpenalty4000
+\sfcode`\.=1000\relax}
+\def\endthebibliography{\endlist\revtex@pageid}
+\def\@biblabel#1{\relax}
+\def\@cite#1#2{#1\if@tempswa , #2\fi}
+\def\reference{\@ifnextchar\bgroup {\@reference}
+	{\@latexerr{Missing key on reference command}
+	{Each reference command should have a key corresponding to a markcite somewhere in the text}}}
+\def\@reference#1{\relax\refpar}
+\def\markcite{\@ifnextchar\bgroup{\@markcite}
+	{\@latexerr{Missing key on markcite command}
+	{Each markcite command should have a key corresponding to a reference somewhere in the references section}}}
+\def\@markcite#1{\relax}
+\def\@citex[#1]#2{\if@filesw\immediate\write\@auxout{\string\citation{#2}}\fi
+\def\@citea{}\@cite{\@for\@citeb:=#2\do
+{\@citea\def\@citea{,\penalty\@m\ }\@ifundefined
+{b@\@citeb}{\@warning
+{Citation `\@citeb' on page \thepage \space undefined}}%
+{\csname b@\@citeb\endcsname}}}{#1}}
+\setcounter{topnumber}{7}
+\def\tablenotemark#1{\rlap{$^{\rm #1}$}}
+\newtoks\@temptokenb
+\def\tblnote@list{}
+\def\tablenotetext#1#2{
+\@temptokena={\vspace{.5ex}{\noindent\llap{$^{#1}$}#2}\par}
+\@temptokenb=\expandafter{\tblnote@list}
+\xdef\tblnote@list{\the\@temptokenb\the\@temptokena}}
+\def\spew@tblnotes{
+\ifx\tblnote@list\@empty\relax
+\else
+\vspace{3.2ex}
+\footnoterule
+\vspace{.4ex}
+{\footnotesize\tblnote@list}
+\gdef\tblnote@list{}
+\fi}
+\def\endtable{\spew@tblnotes\end@float}
+\@namedef{endtable*}{\spew@tblnotes\end@dblfloat}
+\let\tableline=\hline
+\long\def\@makecaption#1#2{\vskip 2ex\noindent #1 #2\par}
+\def\tablenum#1{\def\thetable{#1}\let\@currentlabel\thetable
+\addtocounter{table}{\m@ne}}
+\def\figurenum#1{\def\thefigure{#1}\let\@currentlabel\thefigure
+\addtocounter{figure}{\m@ne}}
+\let\placetable=\@gobble
+\let\placefigure=\@gobble
+\let\placeplate=\@gobble
+\def\figcaption{\@ifnextchar[{\@xfigcaption}{\@figcaption}}
+\def\@figcaption#1{{\def\@captype{figure}\caption{#1}}}
+\def\@xfigcaption[#1]#2{{\def\@captype{figure}\caption{#2}}}
+\def\dummytable{\refstepcounter{table}}
+\newbox\pt@box
+\newdimen\pt@width
+\newcount\pt@line
+\newcount\pt@column
+\newcount\pt@nlines
+\newcount\pt@ncol
+\newcount\pt@page
+\def\colhead#1{\multicolumn{1}{c}{#1}\pt@addcol}
+\def\tablecolumns#1{\pt@column=#1\pt@ncol=#1\gdef\pt@addcol{\relax}}
+\def\tablecaption#1{\gdef\pt@caption{#1}} \def\pt@caption{\relax}
+\def\tablehead#1{\gdef\pt@head{\hline\hline\relax\\[-1.7ex]
+#1\hskip\tabcolsep\\[.7ex]\hline\relax\\[-1.5ex]}} \def\pt@head{\relax}
+\def\tabletail#1{\gdef\pt@tail{#1}} \def\pt@tail{\relax}
+\def\tablewidth#1{\pt@width=#1} \pt@width\textwidth
+\def\tableheadfrac#1{\gdef\pt@headfrac{#1}} \def\pt@headfrac{.1}
+\def\pt@calcnlines{\@tempdima\pt@headfrac\textheight
+\@tempdimb\textheight\advance\@tempdimb by-\@tempdima
+\@tempdima\arraystretch\baselineskip
+\divide\@tempdimb by\@tempdima
+\global\pt@nlines\@tempdimb}
+\def\pt@tabular{\hbox \bgroup $\let\@acol\@ptabacol
+\let\@classz\@tabclassz
+\let\@classiv\@tabclassiv \let\\\@tabularcr\@tabarray}
+\def\@ptabacol{\edef\@preamble{\@preamble \hskip \tabcolsep\tabskip\fill}}
+\def\fnum@ptable{Table \thetable}
+\def\fnum@ptablecont{Table \thetable---{\it Continued}}
+\newdimen\pt@tmpcapwidth
+\def\set@mkcaption{\long\def\@makecaption##1##2{\ifdim\pt@width>\z@%
+\pt@tmpcapwidth\pt@width\else\pt@tmpcapwidth\textwidth\fi%
+\center\parbox{\pt@tmpcapwidth}{\center\sc##1\\[.5ex]##2\endcenter}%
+\endcenter}}
+\def\set@mkcaptioncont{\long\def\@makecaption##1##2{
+\center\sc##1\endcenter\vskip 1.5ex}}
+\newenvironment{deluxetable}[1]{\def\pt@format{\string#1}%
+\set@tblnotetext\global\pt@ncol=0\global\pt@column=0\global\pt@page=1%
+\def\pt@addcol{\global\advance\pt@ncol by\@ne}}%
+{%
+\pt@width\wd\pt@box\box\pt@box\spew@ptblnotes%
+\typeout{Page \the\pt@page\space of table \thetable\space has been set to
+width \the\pt@width\space with \the\pt@nlines\space lines per page}%
+\endcenter\end@dblfloat}
+\let\planotable=\deluxetable
+\let\endplanotable=\enddeluxetable
+\def\startdata{\pt@line=0\pt@calcnlines%
+\ifdim\pt@width>\z@\def\@halignto{to \pt@width}\else\def\@halignto{}\fi%
+\let\fnum@table=\fnum@ptable\set@mkcaption%
+\@dblfloat{table}\center\caption{\pt@caption}\leavevmode%
+\setbox\pt@box=\pt@tabular{\pt@format}\pt@head}
+\def\enddata{\crcr\noalign{\vskip .7ex}\hline\endtabular}
+\def\pt@nl{\global\advance\pt@line by\@ne%
+\ifnum\pt@line=\pt@nlines%
+\endtabular\pt@width\wd\pt@box\box\pt@box
+\typeout{Page \the\pt@page\space of table \thetable\space has been set to
+width \the\pt@width}%
+\global\advance\pt@page by\@ne%
+\endcenter\end@dblfloat\clearpage%
+\addtocounter{table}{\m@ne}%
+\let\fnum@table=\fnum@ptablecont\set@mkcaptioncont%
+\@dblfloat{table}\center\caption{\pt@caption}\leavevmode%
+\global\pt@ncol=\pt@column
+\global\pt@line=0%
+\setbox\pt@box=\pt@tabular{\pt@format}\pt@head%
+\else\\
+\fi}
+\let\nl=\pt@nl
+\let\nextline=\pt@nl
+\def\tablevspace#1{\noalign{\vskip#1}}
+\def\tablebreak{\pt@line\pt@nlines\advance\pt@line by\m@ne\pt@nl}
+\def\cutinhead#1{\noalign{\vskip 1.5ex}
+\hline\pt@nl\noalign{\vskip -2.0ex}
+\multicolumn{\pt@ncol}{c}{#1}\pt@nl
+\noalign{\vskip .8ex}
+\hline\pt@nl\noalign{\vskip -2ex}}
+\def\sidehead#1{\noalign{\vskip 1.5ex}
+\multicolumn{\pt@ncol}{@{\hskip\z@}l}{#1}\pt@nl
+\noalign{\vskip .5ex}}
+\def\set@tblnotetext{\def\tablenotetext##1##2{{%
+\@temptokena={{\parbox{\pt@width}{\hskip1em$^{\rm ##1}$##2}}\par}%
+\@temptokenb=\expandafter{\tblnote@list}
+\xdef\tblnote@list{\the\@temptokenb\the\@temptokena}}}}
+\def\spew@ptblnotes{
+\ifx\tblnote@list\@empty\relax
+\else
+\par
+\vspace{2ex}
+{\parskip=1.5ex%
+\tblnote@list}
+\gdef\tblnote@list{}
+\fi}
+\def\tablerefs#1{\@temptokena={\vspace*{3ex}{%
+\parbox{\pt@width}{\hskip1em{\sc References.---}#1}\par}}%
+\@temptokenb=\expandafter{\tblnote@list}
+\xdef\tblnote@list{\the\@temptokenb\the\@temptokena}}
+\def\tablecomments#1{\@temptokena={\vspace*{3ex}{%
+\parbox{\pt@width}{\hskip1em{\sc Note.---}#1}\par}}%
+\@temptokenb=\expandafter{\tblnote@list}
+\xdef\tblnote@list{\the\@temptokenb\the\@temptokena}}
+\newcounter{plate}
+\def\theplate{\@arabic\c@plate}
+\def\fps@plate{bp}
+\def\ftype@plate{4}			
+\def\ext@plate{lof}			
+\def\fnum@plate{{\bf Plate \theplate.}}
+\def\plate{\@float{plate}}
+\let\endplate\end@float
+\@namedef{plate*}{\@dblfloat{plate}}
+\@namedef{endplate*}{\end@dblfloat}
+\let\platewidth=\tablewidth
+\def\platenum#1{\def\theplate{#1}\let\@currentlabel\theplate
+\addtocounter{plate}{\m@ne}}
+\def\thefigure{\@arabic\c@figure}
+\def\fnum@figure{{\rm Fig.\space\thefigure.---}}
+\def\thetable{\@arabic\c@table}
+\def\fnum@table{{\rm Table \thetable:}}
+\def\fps@figure{bp}
+\def\fps@table{bp}
+\@ifundefined{epsfbox}{\@input{epsf.sty}}{\relax}
+\def\eps@scaling{.95}
+\def\epsscale#1{\gdef\eps@scaling{#1}}
+\def\plotone#1{\centering \leavevmode
+\epsfxsize=\eps@scaling\columnwidth \epsfbox{#1}}
+\def\plottwo#1#2{\centering \leavevmode
+\epsfxsize=.45\columnwidth \epsfbox{#1} \hfil
+\epsfxsize=.45\columnwidth \epsfbox{#2}}
+\def\plotfiddle#1#2#3#4#5#6#7{\centering \leavevmode
+\vbox to#2{\rule{0pt}{#2}}
+\special{psfile=#1 voffset=#7 hoffset=#6 vscale=#5 hscale=#4 angle=#3}}
+\let\jnl@style=\rm
+\def\ref@jnl#1{{\jnl@style#1}}
+\def\aj{\ref@jnl{AJ}}			
+\def\araa{\ref@jnl{ARA\&A}}		
+\def\apj{\ref@jnl{ApJ}}			
+\def\apjl{\ref@jnl{ApJ}}		
+\def\apjs{\ref@jnl{ApJS}}		
+\def\ao{\ref@jnl{Appl.~Opt.}}		
+\def\apss{\ref@jnl{Ap\&SS}}		
+\def\aap{\ref@jnl{A\&A}}		
+\def\aapr{\ref@jnl{A\&A~Rev.}}		
+\def\aaps{\ref@jnl{A\&AS}}		
+\def\azh{\ref@jnl{AZh}}			
+\def\baas{\ref@jnl{BAAS}}		
+\def\jrasc{\ref@jnl{JRASC}}		
+\def\memras{\ref@jnl{MmRAS}}		
+\def\mnras{\ref@jnl{MNRAS}}		
+\def\pra{\ref@jnl{Phys.~Rev.~A}}	
+\def\prb{\ref@jnl{Phys.~Rev.~B}}	
+\def\prc{\ref@jnl{Phys.~Rev.~C}}	
+\def\prd{\ref@jnl{Phys.~Rev.~D}}	
+\def\pre{\ref@jnl{Phys.~Rev.~E}}	
+\def\prl{\ref@jnl{Phys.~Rev.~Lett.}}	
+\def\pasp{\ref@jnl{PASP}}		
+\def\pasj{\ref@jnl{PASJ}}		
+\def\qjras{\ref@jnl{QJRAS}}		
+\def\skytel{\ref@jnl{S\&T}}		
+\def\solphys{\ref@jnl{Sol.~Phys.}}	
+\def\sovast{\ref@jnl{Soviet~Ast.}}	
+\def\ssr{\ref@jnl{Space~Sci.~Rev.}}	
+\def\zap{\ref@jnl{ZAp}}			
+\def\nat{\ref@jnl{Nature}}		
+\def\iaucirc{\ref@jnl{IAU~Circ.}}
+\def\aplett{\ref@jnl{Astrophys.~Lett.}}
+\def\apspr{\ref@jnl{Astrophys.~Space~Phys.~Res.}}
+\def\bain{\ref@jnl{Bull.~Astron.~Inst.~Netherlands}}
+\def\fcp{\ref@jnl{Fund.~Cosmic~Phys.}}
+\def\gca{\ref@jnl{Geochim.~Cosmochim.~Acta}}
+\def\grl{\ref@jnl{Geophys.~Res.~Lett.}}
+\def\jcp{\ref@jnl{J.~Chem.~Phys.}}	
+\def\jgr{\ref@jnl{J.~Geophys.~Res.}}	
+\def\jqsrt{\ref@jnl{J.~Quant.~Spec.~Radiat.~Transf.}}
+\def\memsai{\ref@jnl{Mem.~Soc.~Astron.~Italiana}}
+\def\nphysa{\ref@jnl{Nucl.~Phys.~A}}
+\def\physrep{\ref@jnl{Phys.~Rep.}}
+\def\physscr{\ref@jnl{Phys.~Scr}}
+\def\planss{\ref@jnl{Planet.~Space~Sci.}}
+\def\procspie{\ref@jnl{Proc.~SPIE}}
+\let\astap=\aap
+\let\apjlett=\apjl
+\let\apjsupp=\apjs
+\let\applopt=\ao
+\def\phn{\phantom{0}}
+\def\phd{\phantom{.}}
+\def\phs{\phantom{$-$}}
+\def\phm#1{\phantom{#1}}
+\def\sun{\hbox{$\odot$}}
+\def\earth{\hbox{$\oplus$}}
+\def\lesssim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$<$}}}}
+\def\gtrsim{\mathrel{\hbox{\rlap{\hbox{\lower4pt\hbox{$\sim$}}}\hbox{$>$}}}}
+\def\sq{\hbox{\rlap{$\sqcap$}$\sqcup$}}
+\def\arcdeg{\hbox{$^\circ$}}
+\def\arcmin{\hbox{$^\prime$}}
+\def\arcsec{\hbox{$^{\prime\prime}$}}
+\def\fd{\hbox{$.\!\!^{\rm d}$}}
+\def\fh{\hbox{$.\!\!^{\rm h}$}}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fs{\hbox{$.\!\!^{\rm s}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\fp{\hbox{$.\!\!^{\scriptscriptstyle\rm p}$}}
+\def\micron{\hbox{$\mu$m}}
+\let\la=\lesssim			
+\let\ga=\gtrsim
+\def\case#1#2{\hbox{$\frac{#1}{#2}$}}
+\def\slantfrac#1#2{\hbox{$\,^#1\!/_#2$}}
+\def\onehalf{\slantfrac{1}{2}}
+\def\onethird{\slantfrac{1}{3}}
+\def\twothirds{\slantfrac{2}{3}}
+\def\onequarter{\slantfrac{1}{4}}
+\def\threequarters{\slantfrac{3}{4}}
+\def\ubvr{\hbox{$U\!BV\!R$}}		
+\def\ub{\hbox{$U\!-\!B$}}		
+\def\bv{\hbox{$B\!-\!V$}}		
+\def\vr{\hbox{$V\!-\!R$}}		
+\def\ur{\hbox{$U\!-\!R$}}		
+\def\ion#1#2{#1$\;${\small\rm\@Roman{#2}}\relax}
+\def\nodata{ ~$\cdots$~ }
+\newcount\lecurrentfam
+\def\LaTeX{\lecurrentfam=\the\fam \leavevmode L\raise.42ex
+\hbox{$\fam\lecurrentfam\scriptstyle\kern-.3em A$}\kern-.15em\TeX}
+\def\sizrpt{
+(\fontname\the\font): em=\the\fontdimen6\font, ex=\the\fontdimen5\font
+\typeout{
+(\fontname\the\font): em=\the\fontdimen6\font, ex=\the\fontdimen5\font
+}}
+
+

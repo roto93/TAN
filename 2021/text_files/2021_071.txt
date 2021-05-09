@@ -1,0 +1,129 @@
+==============================================================================
+
+From: Kiyoaki Wajima <wajima@kasi.re.kr>
+To:   <evntech@jb.man.ac.uk>,  <vlbi@nrao.edu>,
+      <merlin-announce@jb.man.ac.uk>, <astro@asiaa.sinica.edu.tw>,
+      <radioah@kasi.re.kr>, <vera-unyo@nao.ac.jp>
+Subject: [EAVN2021B] Call for Proposals for the East Asian VLBI Network (EAVN) for the 2021B semester
+Date: Thu, 22 Apr 2021 04:39:32 +0000
+
+Dear colleagues,
+
+This e-mail is to announce 'Call for Proposals (CfP) for the East Asian VLBI
+Network (EAVN)' for the 2021B semester. Please refer to the following EAVN
+website for more details about the array's specification, available observation
+modes, and how to submit proposals.
+
+https://eavn.kasi.re.kr/
+
+
+Best regards,
+
+Kiyoaki Wajima
+(KASI; in place of EAVN directors)
+
+
+-------------------------------------------------
+
+***************************************************
+Call for Proposals for the East Asian VLBI Network (EAVN)
+for the 2021B semester
+Proposal submission deadline: 2021 June 1 (Tue.), 8:00 UT
+EAVN website: https://eavn.kasi.re.kr/
+***************************************************
+
+--- Major revisions from the 2021A semester ---
+* Kunming 40-m telescope joins in EAVN open-use program. EAVN will be operated
+  using 15 telescopes (VERA, KVN, Tianma, Sheshan, Nanshan, Kunming, Nobeyama,
+  Takahagi, Hitachi, and Yamaguchi) in the 2021B semester.
+* Total approved time for target of opportunity (ToO) observation is limited to
+  be 100 hours.
+* No upper limit on the total request time for one proposal is set for KaVA 7
+  telescopes, while the total request time is set for non-KaVA telescopes.
+* Detailed condition on the time allocation of Nobeyama 45-m telescope is defined.
+* EAVN abolishes accepting a proposal requesting one-year-long observations from
+  the 2021B semester.
+-----------------------------------------------
+
+
+*** Overview ***
+We invite proposals for open-use observations with the East Asian VLBI Network
+(EAVN), which is the international collaborative VLBI array between China, Korea,
+and Japan. In the 2021B semester, 15 telescopes (VERA 4 x 20 m, KVN 3 x 21 m,
+Tianma 65 m, Sheshan 25 m, Nanshan 26 m, Kunming 40 m, Nobeyama 45 m, Takahagi 32 m,
+Hitachi 32 m, and Yamaguchi 32 m) participate in the EAVN open-use program.
+
+
+*** Observing mode ***
+EAVN provides opportunities of VLBI observations with a data recording rate of
+1 Gbps (total bandwidth of 256 MHz and with single polarization at 6.7, 22, and
+43 GHz. Dual-frequency (22 and 43 GHz) simultaneous observation system can also
+be used for EAVN observations at KaVA and Nobeyama, while the observing term in
+which the system is available will be determined. Details of available observing
+mode can be found in the EAVN Status Report on the EAVN website.
+
+
+*** Telescope time and array configuration ***
+The total available observation time for EAVN is up to 500 hours in the 2021B
+semester, while the available observing time for individual EAVN telescopes are
+different. Especially, detailed conditions on the time allocation of Nobeyama
+45-m telescope are defined in the 2021B semester. Please refer to the EAVN status
+report on the EAVN website for more details. All EAVN observations will be allocated
+between 2021 September 1 and 2022 January 15.
+
+EAVN accepts a request for usage of sub-array configuration (KaVA 7 telescopes
+and additional telescopes from non-KaVA stations). There are several conditions
+of the antenna combination depending on the observing frequency. Further details
+about the sub-array configuration are shown in the EAVN status report.
+
+In the 2021B semester, no limitation of the maximum request time for a single
+proposal is determined in case of usage of only KaVA 7 stations, while one can
+request for the maximum total telescope time of 50 hours for Tianma/Sheshan and
+Nanshan, and 36 hours for Takahagi, Hitachi, Yamaguchi, and Kunming. Total telescope
+time of 24 hours for Nobeyama can be requested for a proposal. EAVN abolishes
+accepting a proposal requesting one-year-long observations from the 2021B semester.
+One should thus submit a proposal by a submission deadline for each semester.
+
+
+*** Target of opportunity ***
+EAVN accepts target of opportunity (ToO) proposals. Note that Nobeyama and Kunming
+cannot be included for ToO proposals. It is strongly recommended that ToO proposals
+(especially expected ToO) are submitted during the regular CfP, while unexpected
+or urgent ToO can be submitted as Director's Discretionary Time (DDT) proposals
+at any time. Note that the total approved time for ToO observation in the 2021B
+semester is limited to be 100 hours for ToO proposals for both expected and
+unexpected events.
+
+ToO proposals must address clear triggering criteria to initiate an observation.
+ToOs are valid for one year after it is approved. ToO proposals for DDT should
+follow the same way of regular call and should be submitted via the EAVN website.
+
+
+*** Proposal submission ***
+Proposals should be submitted via the EAVN website. Proposal submission deadline
+is 2021 June 1 (Tue.), 8:00 UT. Please refer to the EAVN status report for detailed
+information about the proposal format. The designated cover sheet form can be
+downloaded from the EAVN websites.
+
+
+*** Acknowledgment ***
+All EAVN users are asked to specify the acknowledgment to EAVN in their publications.
+A template for the acknowledgment can be found in the EAVN status report.
+
+
+Sincerely,
+
+Mareki Honma
+Director of Mizusawa VLBI Observatory, NAOJ
+
+Kee-Tae Kim
+Director of Radio Astronomy Division, KASI
+
+Zhi-Qiang Shen
+Director of Shanghai Astronomical Observatory, CAS
+
+and
+Na Wang
+Director of Xinjiang Astronomical Observatory, CAS
+
+==============================================================================

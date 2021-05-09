@@ -1,0 +1,41 @@
+From jhpw@astron.Berkeley.EDU Sat Dec  9 04:48 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id EAA22833
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sat, 9 Dec 2000 04:47:48 +0800 (CST)
+Received: from worms.Berkeley.EDU (worms.Berkeley.EDU [128.32.92.9])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id EAA11978
+	for <astro@asiaa.sinica.edu.tw>; Sat, 9 Dec 2000 04:53:29 +0800
+Received: from localhost (localhost [127.0.0.1])
+	by worms.Berkeley.EDU (8.8.8+Sun/8.8.8) with SMTP id MAA12605
+	for <astro@asiaa.sinica.edu.tw>; Fri, 8 Dec 2000 12:41:43 -0800 (PST)
+Date: Fri, 8 Dec 2000 12:41:43 -0800 (PST)
+From: Jiun-Huei Proty Wu <jhpw@astron.Berkeley.EDU>
+X-Sender: jhpw@worms
+Reply-To: Jiun-Huei Proty Wu <jhpw@astron.Berkeley.EDU>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MAXIMA1 data released.
+In-Reply-To: <01a301c06133$e7642420$cc8ec8d2@w1k9g6>
+Message-ID: <Pine.SOL.3.96.1001208123709.12378B-100000@worms>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 320
+Status: R
+
+
+Hi,
+
+We have released the MAXIMA1 data at our public homepage:
+http://cfpa.berkeley.edu/group/cmb/
+
+	Best,
+
+		Proty
+----
+Jiun-Huei Proty Wu
+Astronomy Department,  University of California
+601 Campbell Hall, Berkeley, CA 94720-3411, USA
+Tel: +1 510 643-8142       Fax: +1 510 642-3411
+http://astron.berkeley.edu/~jhpw
+
+
+

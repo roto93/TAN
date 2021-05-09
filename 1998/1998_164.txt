@@ -1,0 +1,99 @@
+From kyl@asiaa.sinica.edu.tw Wed Sep  2 17:26:01 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA15483; Wed, 2 Sep 1998 17:21:34 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id RAA28613; Wed, 2 Sep 1998 17:19:40 +0800
+Date: Wed, 2 Sep 1998 17:19:40 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: CASTEP in NCHC (fwd)
+Message-Id: <Pine.GSO.3.96.980902171923.28546C-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2384
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Wed, 2 Sep 1998 16:13:18 +0800 (CST)
+From: Chi Tin Shin <c00cts00@nchc.gov.tw>
+To: phys@clover.sf.nchc.gov.tw
+Cc: Chi Tin Shin <c00cts00@nchc.gov.tw>
+Subject: CASTEP in NCHC
+
+Dear users,
+    Here is an brief introduction of the powerful software CASTEP
+in NCHC. For more detailed information of the CASTEP software, please see
+
+      http://www.nchc.gov.tw/RESEARCH/Phys/soft/castep/
+
+And also please give us your suggestion or interest about the
+training course of the CASTEP at
+
+      http://www.nchc.gov.tw/RESEARCH/Phys/soft/castep/castep_inv.htm
+
+or just contact me directly: Tel: (03)5776085x347, FAX:(03)5773538
+e-mail: c00cts00@nchc.gov.tw. Thank you very much.
+
+Sincerely yours,
+Shih, Chi-Tin
+
+======================================================================
+
+				CASTEP in NCHC
+
+=======================================================================
+
+Name: CAmbridge Serial Total Energy Package
+
+Version: 3.5
+
+Categiry: Computational Physics
+
+Installation/Upgrade Records:
+
+   ver. 3.0 1997.10.01 
+   ver. 3.5 1998.07.01 
+
+Description:
+
+CASTEP is a quantum mechanics program developed by the Theory of Condensed
+Matter Group in Cavendish Laboratory, University of Cambridge. It finds the
+density of electrons and the total energy of a extended systems such as
+solid and surfaces. Pseudo potentials are used in CASTEP to represent 
+atoms and plane wave basis set is used for expanding electronic wave 
+functions. The effect of many-electrons interaction is approximated with a
+exchange-correlation potential based on Density Functional Theory. With 
+high performance workstations or supercomputers, CASTEP is a robust tools
+to simulate microscopic world at atomic scale with high accuracy and
+efficiency. 
+
+Available Platforms: 
+
+   SGI Origin 2000: sophia.nchc.gov.tw (140.110.6.1) 
+   HP SPP 2000: vivid.nchc.gov.tw (140.110.1.6) 
+
+Installation Directory:
+
+   /usr/local/package1/msi/cerius2_3.5/res/CASTEP (in sophia) 
+   /usr/local/package1/castep4.0 (in vivid) 
+
+
+

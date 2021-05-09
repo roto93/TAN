@@ -1,0 +1,370 @@
+From huangmh@phys.sinica.edu.tw Wed Jan  2 16:50 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA03895
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 2 Jan 2002 16:50:14 +0800 (CST)
+Received: from phys.sinica.edu.tw (mails.phys.sinica.edu.tw [140.109.103.251])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA23798
+	for <astro@asiaa.sinica.edu.tw>; Wed, 2 Jan 2002 16:49:53 +0800 (CST)
+Received: from phys18 (IDENT:root@localhost.localdomain [127.0.0.1])
+	by  phys.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA27521
+	for <astro@asiaa.sinica.edu.tw>; Wed, 2 Jan 2002 16:50:47 +0800
+Date: Wed, 2 Jan 2002 16:46:49 +0800 (CST)
+From: Huang Ming-Huey <huangmh@phys.sinica.edu.tw>
+X-Sender: huangmh@phys18
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Nuclear in the Cosmos VII: 2nd Circular (fwd)
+Message-ID: <Pine.GSO.4.21.0201021646250.5809-100000@phys18>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 15563
+Status: RO
+
+
+
+**************************************************
+Huang, Ming-Huey A.     Office (886)-2-3366-5153
+Department of Physics, National Taiwan University, TAIWAN
+
+---------- Forwarded message ----------
+Date: Thu, 27 Dec 2001 23:10:45 +0900
+From: "NIC7 TERANISHI,Rm.303 WAKO,048-464-4582" <nic7@cns.s.u-tokyo.ac.jp>
+To: huangmh@phys.sinica.edu.tw
+Subject: Nuclear in the Cosmos VII: 2nd Circular
+
+*-----------------------------------------------------------------------*
+|         (RIKEN RARF SYMPOSIUM, TODAI INTERNATIONAL SYMPOSIUM)         |
+|        The 7th International Symposium on Nuclei in the Cosmos        |
+|                            July 8-12, 2002                            |
+|                Hotel Highland Resort, Fuji-Yoshida, Japan             |
+|                                                                       |
+|                   http://www.cns.s.u-tokyo.ac.jp/nic7/                |
+*-----------------------------------------------------------------------*
+                                                  December, 2001
+
+                  ===== Second Circular =====
+
+Dear Colleague, 
+
+    We would like to thank those who have informed us of their interest in 
+this meeting in response to the first circular. This second circular 
+contains much practical information including the preliminary scientific 
+program and the registration/accommodation form. Please read this circular 
+carefully and keep in mind the deadlines listed below. 
+
+For further details about the conference you are kindly requested to visit 
+our home page at http://www.cns.s.u-tokyo.ac.jp/nic7/.
+
+We look forward to your reply in your earliest convenience. 
+
+                                        Best regards, 
+                                        NIC7 Secretariat
+
+
+Key Dates:
+----------
+Mar. 31,   2002 : Deadline for submission of abstract.
+Apr. 30,   2002 : Deadline for early registration.
+May  31,   2002 : Final circular.
+Jun. 30,   2002 : No refund after this date.
+Jul. 8-12, 2002 : NIC VII symposium.
+Sep. 30,   2002 : Deadline for proceedings manuscripts.
+
+Preliminary Scientific Program:
+-------------------------------
+     The preliminary scientific program which includes invited speakers is 
+as follows.
+
+0. Introductory Overview
+    S. Woosley (Univ. California, Santa Cruz, USA)
+1. Big Bang Nucleosynthesis and Light Elements
+    G. Mathews (Univ. Notre Dame, USA)
+2. X-Rays, Gamma-Rays, Cosmic Rays, Meteorites, and Stellar Abundances 
+    C. Sneden  (Univ. Texas, Austin, USA)
+    T. Ohashi (Tokyo Metro. Univ., Japan) 
+    R. Diehl (Max Plank Inst. -MPE, Germany)
+    S. Amari (Washington Univ., USA)
+3. Nucleosynthesis in Stars and Nuclear Cross Sections
+    A. Heger (Univ. Chicago, USA)
+    L. Buchmann (TRIUMF, Canada)
+    T. Motobayashi (Rikkyo Univ., Japan)
+    F.-K. Thielemann (Univ. Basel, Switzerland)
+4. Weak Interaction and Neutrinos
+    Y.-D. Chan (LBNL, USA)
+    Y. Suzuki (ICRR, Univ. Tokyo, Japan)
+    K. Langanke (Univ. Aarhus, Denmark)
+5. AGB Stars, s-Process and n-Capture Reactions
+    F. Kaeppeler (FZ Karlsruhe, Germany)
+6. Explosive Nucleosynthesis and Proton-Rich Nuclei
+    W. Hillebrandt (Max Plank Inst. -MPA, Germany)
+    H. Schatz (Michigan State Univ., USA)
+7. Explosive Nucleosynthesis and Neutron-Rich Nuclei
+    H.-Th. Janka (Max Plank Inst. -MPA, Germany)
+    S. Goriely (ULB, Belgium)
+    K. Nomoto (Univ. Tokyo, Japan)
+    T. Kajino (Nat'l Astron. Obs., Japan)
+8. Galactic Chemical Evolution and Cosmo-Chronology
+    N. Prantzos (Inst. d'Astrophysique de Paris, France)
+    S. Ryan (Open Univ., United Kingdom)
+    K. Takahashi (Max Plank Inst. -MPIA, Germany)
+9. High-Density Matter, Nuclear Equation of State and 
+   Nuclear Data for Nuclear Astrophysics 
+    M. Smith (Oak Ridge Nat'l Lab., USA)
+10. New Scope in Observations and Experiments 
+    H. Utsunomiya (Konan Univ., Japan)
+
+Contributed Papers and Proceedings:
+-----------------------------------
+     We call for scientific contributions which will be selected for oral 
+presentations. Short oral presentations of posters are also planned during 
+the conference. We will publish the abstract book of papers presented in 
+the symposium. A copy will be provided to each participant at the 
+registration desk. All those who wish to present their papers are asked to 
+send the abstract by March 31st, 2002. The sample is given in the LaTeX 
+format which is available from WWW. Please follow the instruction in it. 
+A Word file is acceptable which is typed in the similar format. The 
+proceedings of this conference will be published by Nuclear Physics A. 
+
+WWW : http://www.cns.s.u-tokyo.ac.jp/~nic7/abstract/index.html
+
+Please send the pdf/ps file of your abstract by E-mail 
+(nic7-abstract@cns.s.u-tokyo.ac.jp) or send a hard copy to the NIC7 
+Secretariat by postal mail. 
+
+Registration
+------------
+     The conference registration fee is 30,000 Japanese Yen (JPY) if paid 
+by April 30th, 2002, and 35,000 JPY after April 30th. For students a 
+reduced fee of 15,000 JPY is available by April 30th, 2002, and 20,000 
+JPY after April 30th. The fee includes participation in the scientific and 
+social program of the conference, the proceedings and coffee breaks. The 
+registration fee for the accompanying persons is 10,000 JPY and includes 
+a part of meals and admission to the social programs. 
+
+The registration form can be obtained in the web site below. Please notice 
+that your registration will be completed after the receipt of the payment. 
+This applies to all registrants including invited speakers and those who 
+may be financially supported. 
+
+Registration should be made by completing and returning the enclosed 
+registration form either by E-mail (nic7-regist@cns.s.u-tokyo.ac.jp), 
+by fax, or by postal mail to the NIC7 Secretariat. 
+
+        http://www.cns.s.u-tokyo.ac.jp/~nic7/regist/regist.html
+
+The registration fee should be prepaid either by credit card (MASTER or VISA) 
+or by bank transfer. If you pay by credit card, please send the form by 
+POSTAL MAIL or FAX to the NIC7 Secretariat. If you send the 
+registration fee by bank transfer, it should be sent to the following address.
+We kindly remind you to include the name of your Home Institution as well as 
+the name of participant in the bank transfer. We do not accept personal 
+checks. 
+
+   Name of Bank   : SANWA BANK LTD. OIZUMI BRANCH
+   Account Name   : NIC7
+   Account Number : 5385808
+   Branch Address : 4-2-12, Higashi Oizumi, Nerima-ku, Tokyo, 178-0063 Japan
+   Branch Number  : 350
+
+Registered participants will be listed on the home page for confirmation.
+If you cancel the registration/accommodation by June 30th, full refund 
+will be made. 
+
+Lodging
+-------
+     We have reserved twin rooms with a charge of 9,500 JPY for one person
+in the conference hotel. If it is not convenient for you to share a room, 
+we have also reserved a limited number of single rooms (56 rooms) with a 
+charge of 12,500 JPY or single-deluxe rooms with a charge of 17,000 JPY. 
+Breakfast and dinner are included. The rooms are available from the 
+evening of July 7th to the morning of July 12th. Requests on the rooms 
+should be made in the registration form. 
+     - Twin rooms         :  9,500 JPY per night per person
+     - Single rooms       : 12,500 JPY per night
+     - Single-deluxe rooms: 17,000 JPY per night
+
+The rooms will be assigned on the first come first served basis. Because the 
+number of single rooms are limited, we would appreciate it if you could 
+share a twin room by two persons. All payment should be made by his/her 
+own response, when checking out. Any questions or requests about lodging 
+should be sent directly to Hotel Highland Resort using the Accommodation 
+Form for Changes and Questions in the web side below.
+
+Hotel Highland Resort
+WWW            : http://www.cns.s.u-tokyo.ac.jp/~nic7/accommo/index.html
+E-mail         : hrreserve@highlandresort.co.jp with a header of "NIC7"
+Tel/Fax        : +81-555-22-1000 / +81-555-22-3115 with a header of "NIC7"
+Postal Address : 5-6-1. Shin Nishihara. Fuji-Yoshida, Yamanashi, 
+                 403-0017 Japan.
+
+Access from the Narita (New Tokyo) Airport
+------------------------------------------
+     It takes about 4 hours from the Narita airport to Fuji-Yoshida by train 
+and bus. We recommend you to arrive at Narita airport before 17:30. Those 
+who arrive after 17:30 are advised to stay a night in Tokyo. More 
+information is available in the web page below. 
+
+     http://www.cns.s.u-tokyo.ac.jp/~nic7/traffic/index.html
+
+Lodging Before and After the Symposium in Tokyo-Ikebukuro
+---------------------------------------------------------
+     Those who arrive at Narita airport after 17:30 may reserve a lodging 
+in Tokyo Ikebukuro on July 6th. The lodging is also available on July 12th 
+and July 13th after the symposium for your convenience. Please note that 
+the scientific program of the symposium will continue till late afternoon 
+of July 12th. Your requests on the lodging in Tokyo should be also made in 
+the registration form, and be sent to NIC7 Secretariat.
+
+Other Activities
+----------------
+*Excursion and Social Program
+     We are planning a half-day excursion. Details of this program will be
+announced in the final announcement.
+
+*Tour to RIKEN, CNS, and NAO
+     We are planning a tour to RIKEN, CNS, and NAO on July 13th after the 
+symposium. 
+
+Financial Support
+-----------------
+     Some financial support will be available for students, junior 
+scientists, and people who have financial difficulty in coming from 
+outside Japan to this conference. Those who are interested in the support
+should send an E-mail request to the NIC7 Secretariat.
+
+Visa
+----
+     Please check visa requirements in due time and acquire the visa 
+prior to your entry into Japan. Ask the nearest Japanese embassy or 
+consulate whether you need a visa for entering Japan. Whether you need
+a visa entry, you may also check it at the following web site. 
+
+Ministry of Foreign Affairs of Japan :
+       http://www.mofa.go.jp/j_info/visit/visa/index.html
+
+If you need an official letter of personal invitation for the visa 
+application, please contact the NIC7 Secretariat. 
+
+International Advisory Committee
+--------------------------------
+  M. Arnould (ULB, Belgium)           G. Mathews (U. Notre Dame, USA)
+  G. Baym (U. Illinois, Urbana, USA)  M. Morita (Josai Int. U., Japan)
+  R. N. Boyd (Ohio State U., USA)     K. Nomoto (U. Tokyo, Japan)
+  L. Buchmann (TRIUMF, Canada)        J. E. Norris (Australian National
+  R. Gallino (Torino U., Italy)                          U., Australia)
+  W. Henning (GSI, Germany)           N. Prantzos (IAP, France)
+  W. Hillebrandt (MPA, Germany)       C. Rolfs (Bochum, Germany)
+  J. P. Hughes (Rutgers U., USA)      K. Sato (U. Tokyo, Japan)
+  T. Kajino (NAO, Japan)              I. Tanihata (RIKEN, Japan)
+  T. Kifune (Shinshu U., Japan)       F.-K. Thielemann (U. Basel, Switzerland)
+  S. Kubono (CNS, Japan)              Y. Totsuka (ICRR, Japan)
+  K. Langanke (U. Aarhus, Denmark)    M. Wiescher (U. Notre Dame, USA)
+  S. Woosley (UC, Santa Cruz, USA)
+
+Local Organizing Committee
+--------------------------
+  H. Ando (NAO)                      T. Nomura (KEK)
+  T. Kajino (Co-Chair, NAO)          T. Otsuka (U. Tokyo)
+  K. Koyama (Kyoto U.)               H. Sakai (CNS, Tokyo)
+  S. Kubono (Chair, CNS, Tokyo)      S. Shimoura (CNS, Tokyo)
+  T. Kunihiro (YITP, Kyoto)          T. Teranishi* (CNS, Tokyo)
+  S. Nishimura* (RIKEN)              Y. Mochizuki* (RIKEN)
+  I. Tanihata (Co-Chair, RIKEN)      T. Motobayashi (Rikkyo U.)
+  M. Teshima (ICRR, U. Tokyo)        Y. Nagai (RCNP, Osaka U.)
+  H. Toki (RCNP, Osaka U.)           K. Nomoto (Co-Chair, U. Tokyo)
+  Y. Yoshii (U. Tokyo)
+                                     (* Scientific secretary)
+
+Host Institutes
+---------------
+   Center for Nuclear Study, University of Tokyo (CNS) 
+   The Accelerator Research Facility, RIKEN
+   National Astronomical Observatory of Japan (NAO)    (*to be confirmed)
+
+Correspondence
+--------------
+   S.Kubono      : kubono@cns.s.u-tokyo.ac.jp
+   T.Teranishi   : teranisi@cns.s.u-tokyo.ac.jp
+   S.Nishimura   : nishimu@rarfaxp.riken.go.jp
+ 
+   NIC7 Secretariat : nic7@cns.s.u-tokyo.ac.jp
+   Tel/Fax          : +81-90-2918-8328 / +81-48-464-4554
+   Postal Address   : NIC7 Secretariat, 
+                      CNS, RIKEN Campus, Hirosawa 2-1, 
+                      Wako, Saitama, 351-0198 Japan
+
+=========================================================================
+-----------------------         CUT HERE          -----------------------
+=========================================================================
+
+                  Registration and Accommodation Form 
+           -- Nuclei in the Cosmos VII (July 8 ~ 12, 2002) --
+
+*Please type or print in BLOCK LETTERS.
+
+[1] NAME AND ADDRESS: [ ]Male/[ ]Female
+ Full Name (Family/First/Middle):
+ Title (Prof./Dr./Mr./Ms.):     Affiliation:
+ Postal Address:
+
+ E-mail:                      Phone/Fax:
+
+[2] CONTRIBUTED PAPER 
+ Do you submit a contributed paper?: [ ]Yes/[ ]No/[ ]Probably
+   Title:
+   Author(s):
+
+[3] REGISTRATION: Early Registration by April 30, 2002
+   * Your registration will be completed after the receipt of the payment. 
+     This applies to all registrants including invited speakers and those 
+     who may be financially supported. 
+
+ [ ] 30,000 JPY (Japanese Yen)    [ ] 15,000 JPY for a Student
+ [ ] 10,000 JPY per Accompanying Person
+     Name(s):
+     *The registration fee contains a part of meals and social programs. 
+ [ ] Add +5,000 JPY for Late Registration after April 30, 2002
+
+[4] LODGING: 
+ [ ] 10,000 JPY is requested for reservation at Hotel Highland Resort.
+ 1st Pref.: [ ]Twin(9,500JPY) [ ]Single(12,500JPY) [ ]Single-deluxe(17,000JPY)
+ 2nd Pref.: [ ]Twin(9,500JPY) [ ]Single(12,500JPY) [ ]Single-deluxe(17,000JPY)
+ Name of Person to share (if you have): 
+ Night(s) of Your Stay: [ ]July 7th, [ ]8th, [ ]9th, [ ]10th, [ ]11th
+   * There are limited number of single rooms available. First come first
+     served basis.
+   * Please contact hrreserve@highlandresort.co.jp (Fax:+81-555-22-3115) for 
+     questions and changes with a header "NIC7".
+
+[5] PAYMENT: 
+  Registration(Your Own & Accompanying Person(s))+Hotel Deposit=           JPY
+  * Please fill the total payment above.                      ^^^^^^^^^^^^^^^
+ [ ] Credit Card: [ ]Master or [ ]VISA ..  Expiration Date(m/y):
+     Account Number:
+     Card Holder Name:
+     * Please use postal mail or fax for payment by credit card.
+ [ ] Bank Transfer .. Transferred Date (m/d/y):
+      Transferred by the Name of:
+     * Should address to: SANWA BANK LTD. OIZUMI BRANCH, 
+                          Account Name: NIC7, Account Number: 5385808
+
+[6] LODGING BEFORE AND AFTER THE SYMPOSIUM IN TOKYO-IKEBUKURO
+ Night(s) of Your Stay: [ ]July 6th, [ ]July 12th, [ ]July 13th
+   * The scientific program will continue till late afternoon of July 12th, 
+     and your stay in Tokyo is recommended after the symposium.
+   * Please address further correspondence to NIC7 Secretariat.
+     (E-mail: nic7@cns.s.u-tokyo.ac.jp)
+
+[7] OPTIONAL TOUR: 
+ Are you interested in RIKEN-CNS-NAO tour on July 13th?: [ ]Yes/[ ]No
+
+[8] TRAVEL SCHEDULE
+ Airport:        Arrival Date:        Time:        Flight Number:
+               Departure Date:        Time:        Flight Number:
+   * If the travel schedule is not yet fixed, please let us know 
+     these items later when fixed. 
+
+* PLEASE SEND THIS FORM BY FAX (+81-48-464-4554), BY POSTAL MAIL 
+  (NIC7 SECRETARIAT), OR BY E-MAIL (nic7-regist@cns.s.u-tokyo.ac.jp).
+
+
+

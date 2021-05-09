@@ -1,0 +1,326 @@
+From kyl@asiaa.sinica.edu.tw Tue Mar 21 13:39 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA06306
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 21 Mar 2000 13:39:19 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA31158
+	for <astro@asiaa.sinica.edu.tw>; Tue, 21 Mar 2000 13:37:51 +0800
+Date: Tue, 21 Mar 2000 13:34:38 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MERLIN Newsletter (fwd)
+Message-ID: <Pine.SOL.4.10.10003211334360.15144-100000@iaa3>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id NAA06306
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 14941
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 20 Mar 2000 12:01:39 +0000 (GMT)
+From: Phil Diamond <pdiamond@jb.man.ac.uk>
+To: merlin-announce@jb.man.ac.uk, vlbi@cv3.cv.nrao.edu
+Subject: MERLIN Newsletter
+
+
+
+                  MERLIN/VLBI National Facility Newsletter
+                  ----------------------------------------
+
+                            Number 2: March 2000
+
+This newsletter, with attached figures, is also available on the web at:
+
+             http://www.jb.man.ac.uk/merlin/newsletter
+
+
+Contents
+--------
+
+      1. Call for Proposals: MERLIN and European VLBI Network
+      2. Director's Report
+      3. Recent Science: MERLIN captures radio flare from X-ray 
+         transient XTE J1859+226
+      4. Engineering Work: Replacement and commissioning of the 
+         new telescope drive system
+      5. National Facility Radio Imaging School, 25-28 April, 2000
+      6. The MERLIN archive
+
+
+Call for Proposals: MERLIN
+--------------------------
+The deadline for proposals for Semester 00B on MERLIN is April 9, 2000.  
+All details are in the MERLIN web area, specifically:
+
+                http://www.jb.man.ac.uk/merlin/propsub/call
+
+MERLIN will be offering all three standard frequencies for 00B 
+(1.4/1.6 GHz, 5 GHz and 22 GHz). L-Band will be available at the start 
+of the session. The timing of the change to C/K-Band will be determined 
+by user demand and the MERLIN TAG's view of the proposed science. There 
+will be only one change from L-Band to C/K-Band. It is planned to have 
+a joint MERLIN + EVN session at L-Band in November 2000. Applications 
+for such observing time should be submitted to the EVN (see below). 
+
+Proposal forms, information on MERLIN Key Programmes, and further general 
+information can be obtained via:
+                            
+            www:   http://www.jb.man.ac.uk/merlin
+            ftp:   ftp.jb.man.ac.uk, Directory: /pub/merlin/proposals
+            email:   merlin@jb.man.ac.uk
+
+Proposers should note that we are approaching the maximum of sunspot 
+activity in this present solar cycle. Associated ionospheric disturbances 
+can result in rapid phase changes across the MERLIN array particularly 
+at longer observing wavelengths. At L-Band, large and rapid phase 
+fluctuations on baselines longer than ~70 km can defeat standard phase 
+calibration procedures for perhaps 30% of the time. For stronger sources, 
+such phase errors are recoverable by self-calibration, but those proposing 
+for weak target sources may wish to request additional time to compensate 
+for anticipated losses, although a ~30% loss in long baseline data only 
+results in a sensitivity degradation of ~12%. This situation will improve 
+once solar maximum has passed.
+
+C-Band observations are less degraded by this ionospheric activity. 
+Proposers might consider using the shorter wavelengths at this point 
+in the solar cycle, delaying, where possible, deep L-Band observations of 
+weak targets for a year or so until the ionospheric activity subsides.
+
+
+Call for Proposals: European VLBI Network
+-----------------------------------------
+
+The next VLBI proposal deadline is June 1, 2000. All details may be found 
+in the EVN USERS GUIDE at:
+
+                 http://www.jive.nl/jive/evn/evn.html
+
+Potential users of the European VLBI Network should read the recent 
+Announcement of Opportunity, which describes the award of a grant from 
+the European Commission's Access to Research Infrastructure Programme. 
+This grant is designed to support access to the EVN and is available to 
+astronomers at EU (or Associated States) institutes that are not 
+affiliated to the EVN institutes. More details can be obtained at:
+
+               http://www.jive.nl/jive/evn/eu/access.html
+
+Director's Report
+-----------------
+
+The National Facility budget was received from PPARC shortly after the 
+publication of the last Newsletter and, as seems to be the fashion these 
+days, it did not leave us in a comfortable situation. PPARC were, 
+unfortunately, not able to provide all of the short-term band-aid that 
+was promised and so we have had to implement some austerity measures. 
+Such measures may affect our ability to provide the professional level 
+of service that our users expect but we ask that you bear with us.
+
+As was mentioned in the September 1999 Newsletter, the National Facility 
+will be reviewed this coming autumn. It has been decided to have a full 
+International Review and the review panel will have broad terms of 
+reference. The panel will consist of senior and respected radio astronomers 
+from around the world. 
+
+Now to the good news - late last year it was announced that the University 
+of Manchester had been successful in its application for about £2 million 
+from the Joint Infrastructure Fund to upgrade the 76-m diameter Lovell 
+Telescope.  The upgrade will consist of the replacement of the telescope 
+surface, a new control system and refurbishment of the track and 
+foundations.  The work will take place over the next three summers and 
+should be complete by late 2002. Once completed the telescope is expected 
+to have significant gain at 10 GHz. It will be a very welcome addition 
+to MERLIN at 5 GHz and, when combined with upgrades of the MERLIN 5 GHz 
+receivers (a project currently underway), will triple the sensitivity 
+of the array at that frequency.
+
+We welcome Barry Maguire to the National Facility staff as an aips++ 
+programmer. Jodrell Bank was one of the founding members of the aips++ 
+consortium. Unfortunately, due to constraints on resources, it was 
+forced to withdraw from the consortium a few years ago. However, with 
+the recent release of the first public version of aips++, it was felt 
+that the National Facility and Jodrell Bank Observatory should be 
+participating in the new generation of astronomical data processing 
+software. Therefore, we have rejoined the consortium and hired Barry. 
+His first job will be to ensure that MERLIN data can be read into aips++ 
+and calibrated.
+
+Recent Science:  MERLIN captures radio flare from X-ray transient 
+-----------------------------------------------------------------
+XTE J1859+226
+-------------
+
+On October 11, 1999, the Rossi XTE satellite discovered a bright new 
+transient X-ray source, XTE J1859+226 (Wood et al. 1999). Subsequent 
+X-ray observations (Markwardt et al. 1999) revealed variability 
+characteristic of an accreting black hole, and an optical counterpart 
+was rapidly identified (Garnavich et al. 1999). Two days after the 
+initial discovery, radio observations at 15 GHz with the Ryle Telescope 
+(RT) in Cambridge detected a radio counterpart subsequently confirmed 
+with the VLA (Pooley & Hjellming 1999). At this point, our MERLIN override 
+for radio-bright X-ray transients was triggered and a series of 
+observations were made at 1.7 GHz.
+
+Following detection of the radio counterpart to the X-ray emission as 
+a weak (<10 mJy) source on Oct 14 and 15, the rise, peak and decay of 
+a bright radio flare event from the system was recorded on October 16 
+This is one of the clearest observations of a radio flare event from 
+an X-ray binary ever made, in particular in its coverage of the rise, 
+which is notoriously difficult to catch. It almost certainly corresponds 
+to the ejection of a large mass of material from the system, probably at 
+relativistic velocities. Ongoing observations of this exciting source 
+with XTE, CGRO and at radio wavelengths with a host of ground-based 
+observatories, including MERLIN, the VLA, GBI, RT and the EVN promise 
+further insight into the relation between accretion and ejection in 
+black hole binary systems. MERLIN observations of this source and those 
+of others, such as GRS 1915+105 (Fender et al. 1999), are crucial in 
+understanding the physics of such systems.
+
+Investigators: R.P. Fender (University of Amsterdam), C. Brocksopp 
+(Open University),  T.W.B. Muxlow, R.E. Spencer and S.T. Garrington 
+(MERLIN/VLBI National Facility and Jodrell Bank Observatory), 
+G.G. Pooley (University of Cambridge), R.M. Hjellming (NRAO), 
+A.M. Stirling (University of Central Lancashire).
+ 
+Fender et al., 1999, MNRAS, 304, 865
+Garnavich et al., 1999, IAU Circ 7276
+Markwardt C.B. et al., 1999, IAU Circ 7274
+Pooley G.G. & Hjellming R.M., 1999, IAU Circ 7278
+Wood A. et al., 1999, IAU Circ 7274
+
+Engineering Work: 
+-----------------
+Replacement and commissioning of the new telescope drive system
+---------------------------------------------------------------
+
+Three of the MERLIN telescopes, Darnhall, Knockin and Pickmere were 
+built over 20 years ago to the same design as the NRAO VLA telescopes. 
+Part of the MERLIN Restructuring Grant was assigned to replace the 
+original Electrospace Systems Inc. drives and control systems with 
+modern reliable equipment, keeping all of the functionality of the 
+existing system and at the same time increasing the monitoring and 
+control facilities available.
+
+Darnhall was selected as the first telescope to be changed. As reported 
+in the previous Newsletter, the summer of 1999 saw all the original 
+control equipment, motors and limit switches removed and replaced. At 
+the same time, the opportunity was taken to install new distribution 
+equipment along with power and lighting circuits in the pedestal room. 
+All cabling on the site was examined and rationalised.  Due to the 
+retirement of the Electrical Workshop Supervisor, the installation of 
+the cabling was placed with contractors. Our staff installed the 
+motors and limit switches, and made the connections to the control 
+computer.
+
+Overall, the project went well. The shaft of the new motors was slightly 
+longer than that of the old system and had to be modified but otherwise 
+the motors were a direct replacement. The drives and control equipment 
+for the new motors have behaved well since they have been installed 
+although there are a small number of outstanding items that are still 
+to be resolved. This work will be completed shortly. The control computer 
+software has been significantly upgraded, as has the interface between 
+the computer and the new system.
+
+Darnhall is currently participating in the Semester 00A observations at 
+5 and 22 GHz and appears to be working well. Preparations have started 
+for the changes to the remaining two telescopes this summer. 
+
+National Facility Radio Imaging School, 25-28 April, 2000
+---------------------------------------------------------
+
+The imaging school will introduce prospective MERLIN and EVN users to 
+basic interferometry and give a taste of more elaborate techniques and 
+future developments for experienced radio astronomers.  About 1/3 of 
+the time will be spent in practical computing, reducing sample data sets. 
+Model data reduction routines for continuum and line observations covering 
+MERLIN and EVN data will be available.
+
+An announcement concerning the school was sent to various mailing lists, 
+it proved so popular that within a week of the initial announcement it 
+was oversubscribed. There will be 45 attendees in total, 16 from overseas. 
+The agenda and other information is available at 
+
+                   http://www.jb.man.ac.uk/merlin/school
+
+Sessions on basic data reduction will be given by National Facility and 
+EVN staff and Jodrell Bank Observatory personnel. There will also be 
+guest speakers who will discuss some of the science currently performed 
+by MERLIN and the EVN and will also look towards the future. Guest 
+speakers and their topics include: Karen Wills (Sheffield) on 'HI 
+absorption'; Stewart Eyres  (LJMU) on 'Novae: interpreting weak, variable 
+structure'; Katherine Blundell (Oxford) on 'Radio galaxies: what are we 
+looking for?'; Jeremy Yates (Herts) on 'High-frequency interferometry' 
+and  Rob Fender (Amsterdam) on 'X-ray counterparts and other faint 
+variable sources'. 
+
+We thank the EVN for contributing to the travel costs of some delegates 
+to this school through their EC programme 'Access to Large Scale 
+Facilities: the European VLBI Network and JIVE'.  We apologise to those 
+who inquired about the school but were unable to get a place. We hope to 
+make the lecture notes and model data reduction routines available after 
+the school. Please visit the web site or contact us (Anita Richards: 
+amsr@jb.man.ac.uk; Tom Muxlow: twbm@jb.man.ac.uk) if you are interested 
+in obtaining them.
+
+The MERLIN archive
+------------------
+                  
+                 MERLIN archive data access policy
+
+'It is the policy of the MERLIN/VLBI National Facility that the 
+investigators named on a MERLIN proposal have the sole right of access 
+to the data obtained for that proposal for one year after the end of the 
+Semester in which the observations were made. If the data are part of a 
+programme with long-term status then the investigators have sole right 
+of access to all the data of that programme for one year after the end of 
+the Semester in which the final set of observations were made. 
+
+An astronomer wishing access to data from the archive after the period 
+defined above should make a request in writing to the Director of the 
+National Facility (pdiamond@jb.man.ac.uk). Under normal circumstances, 
+the PI will be contacted to determine if there is a valid reason for an 
+extension to the one-year time limit.
+
+With the impending arrival of a web-based archive, the policy will be 
+reviewed at the next meeting of the MERLIN/VLBI National Facility Steering 
+Committee.'
+
+In the September 1999 Newsletter, the appointment of Dr. Anita Richards as 
+the NF data archivist was announced. Anita's principal job is to generate 
+an archive of calibrated data and images for all publicly accessible MERLIN 
+data. This is a major task and the archive will be made available in stages 
+as appropriate. As stated above the data access policy will be reviewed at 
+the next meeting of the Steering Committee.
+
+One immediate benefit to users is a new service that we are providing for 
+rapid access to MERLIN data taken as part of joint MERLIN/EVN observations. 
+We can provide the amplitude calibrated uv data in FITS format, suitable 
+for imaging and combining with EVN data.  This can usually be done on a 
+timescale similar to the correlation of the EVN data; about half a dozen 
+PIs have used this service to date, a slightly larger number preferring 
+to visit Jodrell (or arrange for a co-worker to visit) to reduce the data 
+from scratch. Please contact Anita (amsr@jb.man.ac.uk) concerning this 
+particular service.
+
+
+MERLIN/VLBI National Facility, Jodrell Bank Observatory, 
+University of Manchester, Macclesfield, Cheshire SK11 9DL, United Kingdom
+Telephone: +44 (0)1477 571321, Facsimile: +44 (0)1477 571618
+
+
+
+

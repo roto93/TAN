@@ -1,0 +1,396 @@
+From kyl@asiaa.sinica.edu.tw Tue Oct  5 07:35 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA19211
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 5 Oct 1999 07:35:09 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA06069
+	for <astro@asiaa.sinica.edu.tw>; Tue, 5 Oct 1999 07:34:40 +0800
+Date: Tue, 5 Oct 1999 07:31:14 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: SMA Calendar 10/03/99 (fwd)
+Message-ID: <Pine.SOL.4.10.9910050730400.10096-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 18315
+Status: RO
+
+
+
+Note the important milestone of two SMA antennas working as an
+interferometer on top of Mauna Kea in Hawaii.
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 4 Oct 1999 19:27:02 -0400 (EDT)
+From: James Moran <moran@cfa.harvard.edu>
+To: sma/calendar -- SAC -- Richard Hills <richard@mrao.cam.ac.uk>,
+     Masato Ishiguro <ishiguro@nro.nao.ac.jp>,
+     Peter Napier <pnapier@aoc.nrao.edu>, John Payne <jpayne@nrao.edu>,
+     Thomas Phillips <phillips@tacos.submm.caltech.edu>,
+     Jack Welch <welch@astron.berkeley.edu>,
+     David Woody <dpw@mm.ovro.caltech.edu>,
+     sma/general -- Alyssa Goodman <agoodman@cfa.harvard.edu>,
+     amg@hyperion.haystack.edu, Joseph Antebi <jantebi@sgh.com>,
+     Barbara Moran <smithmoran@earthlink.net>,
+     Bruce Dias <bdias@cfa.harvard.edu>, ben@bosma.com,
+     bmarsden@cfa.harvard.edu, Chris Rogers <chris@bosma.com>,
+     John Carlstrom <jc@hyde.uchicago.edu>, Charles Coy <ccoy@dzn.com>,
+     ming tang chen <mchen@asiaa.sinica.edu.tw>,
+     chin <chin@asiaa.sinica.edu.tw>,
+     James Sr Moran <moranW1QUO@worldnet.att.net>, eavrett@cfa.harvard.edu,
+     ebwu@gauss.iam.ntu.edu.tw, grybicki@cfa.harvard.edu,
+     Andy Harris <harris@astro.umd.edu>,
+     "Hsien (Sienny) Shang" <hshang@cfa.harvard.edu>,
+     htananbaum@cfa.harvard.edu, i.robson@jach.hawaii.edu,
+     ishapiro@cfa.harvard.edu, James Cornell <jcornell@cfa.harvard.edu>,
+     Philip Jewell <pjewell@nrao.edu>, James Moran <jmoran@awa.sma.hawaii.edu>,
+     Judith L. Lees <jlees@cfa.harvard.edu>, jpanttila@cfa.harvard.edu,
+     kaifu@subaru.naoj.org, Kathleen Entler <kentler@cfa.harvard.edu>,
+     klawley@cfa.harvard.edu, Laura Conway <lconway@cfa.harvard.edu>,
+     Typhoon Lee <typhoon@asiaa.sinica.edu.tw>, lgreenhill@cfa.harvard.edu,
+     Bill Liu <liubill@ms6.hinet.net>, Fred Lo <kyl@asiaa.sinica.edu.tw>,
+     Robert Martin <rmartin@cfa.harvard.edu>, Colin Masson <colin@rentec.com>,
+     Maria Teresa Beltran <mbeltran@cfa.harvard.edu>,
+     Robert Mclaren <mclaren@hale.ifa.hawaii.edu>, MYERST@opplp.si.edu,
+     Nancy M. Adler <nadler@cfa.harvard.edu>,
+     Nancy Poole <npoole@cfa.harvard.edu>,
+     Nayla Rathle <nrathle@cfa.harvard.edu>, ongcl@tcts.seed.net.tw,
+     p.friberg@jach.hawaii.edu, Patricia E. Brennan <pbrennan@cfa.harvard.edu>,
+     Patricia A. Capone <pcapone@cfa.harvard.edu>,
+     Philip C. Myers <pmyers@cfa.harvard.edu>,
+     Philip M. Sadler <psadler@cfa.harvard.edu>, psozanski@cfa.harvard.edu,
+     pthaddeus@cfa.harvard.edu, Philippe Raffin <raffin@asiaa.sinica.edu.tw>,
+     rdtsai@tcts.seed.net.tw, rick@bosma.com, rkirshner@cfa.harvard.edu,
+     "Robeson Summersgil (Robin) McGary" <rmcgary@cfa.harvard.edu>,
+     Alan Rogers <arogers@card.haystack.edu>, Joe Salah <jes@card.haystack.edu>,
+     Eric Silverberg <ecsilverberg@att.net>, smurray@cfa.harvard.edu,
+     srosenthal@cfa.harvard.edu, steve@nytex.com.tw, tmullen@cfa.harvard.edu,
+     ttsutsumi@cfa.harvard.edu, Alan Whitney <arw@dopey.haystack.edu>,
+     Chi Yuan <yuan@asiaa.sinica.edu.tw>, sma/staff <adowd@cfa.harvard.edu>,
+     akusunoki@cfa.harvard.edu, aschinckel@cfa.harvard.edu,
+     astark@cfa.harvard.edu, bchristie@cfa.harvard.edu,
+     "Bradley James (Brad) Wallace" <bwallace@cfa.harvard.edu>,
+     Candida A. Hoffman <choffman@cfa.harvard.edu>,
+     Charles A. Katz <ckatz@cfa.harvard.edu>,
+     "Christopher Bennett (Chris) Moore" <cmoore@cfa.harvard.edu>,
+     Cosmo Papa <cpapa@cfa.harvard.edu>,
+     Charles Sanborn <csanborn@cfa.harvard.edu>, dgraveline@cfa.harvard.edu,
+     Derek Kubo <dkubo@cfa.harvard.edu>, David Wilner <dwilner@cfa.harvard.edu>,
+     Edward Imbier <eimbier@cfa.harvard.edu>, eketo@cfa.harvard.edu,
+     esilverberg@cfa.harvard.edu, Edward Tong <etong@cfa.harvard.edu>,
+     Gerald Colton <gcolton@cfa.harvard.edu>,
+     George Nystrom <gnystrom@cfa.harvard.edu>,
+     John W. Barrett <jbarrett@cfa.harvard.edu>, jclune@cfa.harvard.edu,
+     Judith L. Lees <jlees@cfa.harvard.edu>, jmargolycz@cfa.harvard.edu,
+     John Maute <jmaute@cfa.harvard.edu>,
+     "James M. (Jim) Moran" <jmoran@cfa.harvard.edu>, jono@frank.harvard.edu,
+     Jacques Renaud <jrenaud@cfa.harvard.edu>,
+     John H. Test <jtest@cfa.harvard.edu>, Jun-Hui Zhao <jzhao@cfa.harvard.edu>,
+     kmccracken@cfa.harvard.edu, kyoung@cfa.harvard.edu,
+     Leslie E. Shirkey <lshirkey@cfa.harvard.edu>,
+     "Peter (Lee) Simmons" <lsimmons@cfa.harvard.edu>,
+     "Peter (Lee) Simmons" <lsimmons@cfa.harvard.edu>, mcrosas@cfa.harvard.edu,
+     "Matthew R. (Matt) Dexter" <mdexter@cfa.harvard.edu>,
+     Mark A Gurwell <mgurwell@cfa.harvard.edu>,
+     Michael A. Maresco <mmaresco@cfa.harvard.edu>, mreid@cfa.harvard.edu,
+     Masao Saito <msaito@cfa.harvard.edu>, msimonini@cfa.harvard.edu,
+     Michael J. Smith <msmith@cfa.harvard.edu>,
+     Martina Corinna Wiedner <mwiedner@cfa.harvard.edu>, npatel@cfa.harvard.edu,
+     pho@cfa.harvard.edu, plee@cfa.harvard.edu, pmailhot@cfa.harvard.edu,
+     pouellette@cfa.harvard.edu, ppeterson@cfa.harvard.edu,
+     Qizhou Zhang <qzhang@cfa.harvard.edu>, rblundell@cfa.harvard.edu,
+     Richard Hebert <rhebert@cfa.harvard.edu>, rkendall@cfa.harvard.edu,
+     rkimberk@cfa.harvard.edu, rplante@cfa.harvard.edu,
+     Ron Reed <rreed@cfa.harvard.edu>, Rima Rocha <rrocha@cfa.harvard.edu>,
+     Rima Rocha <rrocha@cfa.harvard.edu>,
+     Richard J. Scovel <rscovel@cfa.harvard.edu>,
+     Robert Wilson <rwilson@cfa.harvard.edu>, sleiker@cfa.harvard.edu,
+     SMA Admin for Margaret Simonini <smaadmin@cfa.harvard.edu>,
+     Scott Paine <spaine@cfa.harvard.edu>,
+     Scott Serata <sserata@cfa.harvard.edu>, syoung@cfa.harvard.edu,
+     Todd R. Hunter <thunter@cfa.harvard.edu>, tsridharan@cfa.harvard.edu,
+     vkuosmanen@cfa.harvard.edu, William R. Snow <wsnow@cfa.harvard.edu>,
+     Bill Walker <wwalker@cfa.harvard.edu>
+Subject: SMA Calendar 10/03/99
+
+
+                    !!!!!!!!!!!!!!!!!!!!!!!!!!!
+                    !                         !
+                    !    FRINGES EVERYWHERE   !
+                    !                         !
+                    !!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+              WEEKLY CALENDAR OF THE SUBMILLIMETER ARRAY PROJECT
+
+                             OCT 3 - 9, 1999 
+                     
+******************************************************************************
+
+Please send information for upcoming calendars by Friday evening of the
+preceding week to Candy Hoffman or Jim Moran via e-mail (choffman@cfa or
+moran@cfa). The calendar will be issued between late Friday and Monday 
+morning. All Group Leaders are requested to **POST** the calendar in their 
+areas.
+
+******************************** THIS WEEK ***********************************
+
+General Happenings:
+
+Haystack    Antenna 1:  On big pad. Continue testing new elevation axis servo. 
+               
+            Antenna 4:  In hangar. Continue alignment and outfitting of mount.
+                        Install cabin floor. Cabin panel assembly will begin 
+                        in about a week.
+
+Hawaii                  Continue 2-element tests.      
+
+
+TUE, OCT 5
+
+16:00       SMA Science meeting, M340
+
+WED, OCT 6
+
+20:00 (EDT) Weekly SAO-ASIAA telecon
+
+******************************* UPCOMING EVENTS ******************************
+
+OCT 12      Lawrence Small, SI Secretary designate, visits Receiver Lab, 
+              M109, 16:35
+
+OCT 12-22   Final step in transporter upgrade on Mauna Kea
+
+OCT 20      Monthly Correlator meeting, Haystack, 10:15 am 
+
+********************************* MILESTONES *********************************
+
+MAY  1, 1999     Commence two-receiver stability tests between receiver lab
+                 and IF/LO lab (see technical news section in calendar for 
+                 the week of 6/14/98). (Work suspended until new LO packaging
+                 complete in MK configuration.) 
+                 
+SEP 30, 1999     230 GHz fringes between two antennas on Mauna Kea. DONE!
+
+NOV  1, 1999     Antenna 7 (ASIAA) complete, move to test pad at ARL
+                 factory in Taiwan (RM schedule 2/11/99)
+
+DEC 31, 1999     Delivery of second quarter of correlator from MIT
+
+DEC 31, 1999     Ship Mounts 7 and 8 from Taiwan to Hawaii 
+                 (RM schedule 2/11/99). Expect delay
+
+JAN 31, 2000     Ship Mount 4 from Westford to Hawaii
+
+JUN 30, 2000     Delivery of third quarter of correlator from MIT
+
+DEC 31, 2000     Delivery of fourth quarter of correlator from MIT
+
+******************************* TECHNICAL NEWS *******************************
+
+!!!!!!!!!!SAO scientists confirm Young's 1803 double-slit interference
+experiment with novel instrumental setup. Wave nature of light validated!!!!!!!
+            
+Hawaii: As most of the world knows, beautiful, strong, sinuous and steady 
+fringes were obtained on a variety of sources with various correlators 
+starting the night of SEP 29. After several days of struggle the cryostat 
+in Antenna 3 was finally persuaded to cool down properly, and the spare
+230 GHz mixer that had been installed on SEP 26 worked fine. The first 
+target was the 230 GHz beacon on the Subaru catwalk, which produced good 
+results. The phase changed smoothly as the secondary reflection on 
+Antenna 3 was moved. The next task was to calibrate the pointing on 
+Antenna 3. The first look at Jupiter produced pointing offsets of 10 
+and 5 arcseconds in azimuth and elevation; very small offsets from the 
+pointing model derived with the holography receiver. The first fringes on 
+a celestial source were obtained on Saturn with the simple multiplier at 
+11:14 pm HST (about 25 hours ahead of the deadline promised to Congress). 
+The fringes were recorded for posterity on our trusty analog chart recorder 
+on loan from Bell Labs, running at 15 cm/minute. Saturn had an angular size 
+of about 20 arcseconds, and the fringe spacing was 10 arcseconds at 230 GHz 
+for our 25-meter E-W baseline. Our detection came when the visibility on 
+Saturn was rather close to a null, but the signal strength was so great that 
+this caused little problem (see detailed visibility models of the planets 
+on SEP 29 on http://cfa-www.harvard.edu/~mgurwell/planetary_flux.html).
+A few hours later whopping fringes were recorded on Venus, which was 
+also heavily resolved (Venus's diameter was 37 arcseconds). The image of 
+these fringes are on the SMA website. Note the sausage pattern of 
+amplitude modulation caused by our double sideband system (a null every 
+23 fringes for a sideband separation of 10 GHz and a center frequency of 
+230 GHz). The next night the Timoc correlator was connected and fringes were 
+detected on the CO (2-1) line in Orion. Less than an hour later the 
+fringe spectrum was measured with the MIT correlator configured to analyze
+one chunk of bandwidth (104 MHz) with 8 chips (about 0.5 MHz resolution). 
+The spectrum on the website is similar to the one obtained at Haystack last 
+fall; it shows a double peak since the ambient CO is completely resolved, 
+leaving only the bipolar outflow components. Fringes were also observed
+on Jupiter and Mars.
+
+Most of the visiting Cambridge crew members were totally exhausted and headed
+for the airport on Friday, leaving the exhausted resident staff and a few
+others to continue taking data.     
+
+Haystack: Late Friday afternoon the velocity loop was closed on the 
+new elevation axis servo on Antenna 1. The motion was very smooth! The
+limit encoder is connected to the system control board and the system
+shuts down if the antenna moves outside the limits (currently 20-85 degrees). 
+The Glentek enable function and brake release are both working and the 
+dynamic brake is connected. This week the position loop will be closed.
+
+The first 10 panels for the prototype cabin arrived at Haystack.
+          
+************************* HAWAII(SMA site)/CAMBRIDGE TRAVEL ******************* 
+
+SEP 19 - OCT  5     TKS, CSO and antenna testing 
+SEP 22 - OCT  3     Martina Wiedner, antenna testing
+SEP 28 - OCT  3     Chris Moore, antenna testing
+OCT 12 - OCT 21     George Nystrom, transporter work
+OCT 12 - OCT 25     Vesa Kuosmanen, transporter work
+OCT 13 - OCT 21     Joel Rosenberg, transporter work
+                    
+********************************* OTHER TRAVEL *******************************
+
+OCT  1 - OCT  5     Todd  Hunter, Mauna Kea, CSO observations
+OCT  3 - OCT  5     Bob Wilson, Holmdel*
+OCT  6 - OCT  9     Dave Wilner, Washington, NRAO meeting on science with ALMA
+Oct  6 - OCT  9     Chris Moore, Washington, NRAO meeting on science with ALMA
+OCT  6 - OCT  9     Nimesh Patel, Washington, NRAO meeting on science with ALMA
+OCT  6 - OCT  9     Masao Saito, Washington, NRAO meeting on science with ALMA
+OCT  6 - OCT  9     Qizhou Zhang, Washington, NRAO meeting on science with ALMA
+OCT  6 - OCT  9     Paul Ho, Washington, NRAO meeting on Science with ALMA
+OCT  6 - OCT  9     Martina Wiedner, Washington, NRAO meeting on science with ALMA
+OCT  6 - OCT 10     Mark Gurwell, Washington, ALMA science meeting, 
+                        ALMA Advisory Committee meeting
+OCT  7 - OCT  9     Jim Moran, Washington,  ALMA science Meeting, 
+                        ALMA Advisory Committee meeting
+OCT 11 - OCT 16     Bob Wilson, Holmdel (note resynchronization of schedule)
+OCT 18 - OCT 22     Ron Reed, Honolulu, Solaris administration course
+NOV 17 - NOV 26     Edward Tong, Tsukuba, Kobe and Nara, Japan, THz electronics
+                         conference; visit research labs
+NOV 23 - DEC  2     Eric Keto, Mauna Kea, observe at CSO
+
+* Bob Wilson's schedule changes for the fall: he will be in Cambridge the
+week of OCT 18, but not the week of OCT 11.
+
+************************** VISITORS FROM TAIWAN *****************************
+
+OCT  9 - OCT 15     Nagayoshi Ohashi, Cambridge (Ho)
+
+********************************* VISITORS **********************************
+
+OCT 12 - OCT 22     Jeff Thuemmler, Poclain (Nystrom) install anti-skid 
+                    system in transporter on Mauna Kea
+                    
+*********************** SCHEDULED LEAVE (2 days or more) *********************
+
+SEP 27 - OCT  8     Mike Smith
+SEP 30 - OCT  4     Steve Leiker
+SEP 30 - OCT 12     Alan Kusunoki
+OCT  1 - OCT  8     Candy Hoffman
+OCT 12 - OCT 13     Pat Capone
+OCT 13 - OCT 22     Eric Keto
+
+********************************* DEPARTURES *********************************
+
+********************************** ARRIVALS **********************************
+
+**************************** INTERNAL TRANSITIONS ****************************
+
+******************************* POSITIONS OPEN *******************************
+
+Electrical Technician, Hilo, Receiver Group (IS, 99-82), AUG 18 - until filled
+Electronics Engineer,  Receiver Group (IS, 99-83), AUG 18 - until filled
+Materials Expediter, Westford (WG, 99-89), SEP 20-OCT 4
+
+***************** POSITIONS / CANDIDATE EVALUATION /OFFERS MADE **************
+
+Astrophysicist/Technical, Test Group (IS, 99-15) 
+Administrative Officer, Hilo (GS, 99-52) 
+Mechanical Technician, Hawaii (GS, 99-74) 
+Laborer, Hilo (WG, 99-88)
+
+****************************** EXPECTED OPENINGS *****************************
+
+Mechanical Engineer, Antenna Group (GS)
+Correlator Engineer, Hilo (GS)
+
+*************************** OTHER NEWS AND COMMENT **************************
+
+Shipping News:
+
+A forty-foot container was dropped off at Haystack on OCT 1. It will
+be filled with panels for the next reflector and other items. It is
+expected to leave Haystack about OCT 8 and arrive in Kawaihae harbor
+about OCT 29.
+
+Recent SMA Tech Memos:
+
+132 Design and Initial Implementation of Diagnostic
+       and Error Reporting System of the SMA          Zhang      02/02/99
+133 Useful Information on Servicing National 
+       Instruments "slot-zero" i386 VXI 
+       Controllers running LynxOS 2.4.0               Hunter     02/02/99
+134 Shifted m-sequences for Phase Switching           Keto       03/24/99
+
+135 Librdsmafits. A C library for reading SMA FITS    Tsutsumi/  10/01/99
+    tables                                            Zhao
+ 
+
+These memos are on the Web. A list of all the memos can also be found on the
+Web. However, not all of the contents of these memos are available on the Web
+yet. If you want a paper copy of a memo, contact Candy Hoffman, 617-496-7085. 
+
+******************************OTHER OTHER NEWS *******************************
+
+********************* MISCELLANEOUS ANNOUNCEMENTS **************************
+
+The ~120-page SMA User's Manual is now available on the SMA website. 
+The URL is http://sma-www.harvard.edu/private/eng.html. Patel is the 
+coordinator of this effort, which involved the contributions of many
+people. Please forward comments about and additions to this manual to 
+him; he will keep it up to date.
+
+There is a complete set of the SMA Technical Memos in the bookshelf in M242.
+
+An updated organization chart for the SMA project (as of AUG 4, 1999) can be
+found on the WWW homepage. The project currently has a staff of 62 FTEs.
+
+Reminder: Any comp time earned during a calendar year must be used before the
+end of that year.
+
+SAFETY NOTE: Everyone (employees and visitors) is required to wear a hard hat
+in the heavy construction areas at Haystack: assembly building, warehouse and
+inside the fence surrounding the antenna pads. Thanks for your cooperation.
+
+Safety shoes should be worn in all lab/construction areas.
+
+Checkout the SMA Website at http://sma-www.harvard.edu and the SMA 
+Interferometry Real-Time Monitor, On-line Database and Data Archive Facility
+at http://smadata.sma.hawaii.edu
+
+******************************************************************************
+
+Distribution: SMA staff, Steering Committee, T. Myers, Capone, Conway, Brennan,
+Dias, Adler, Pantilla, Cornell, Lawley, Sozanski, Mullen, Poole, Lees, Goodman,
+Murray, Kirshner, Marsden, Sadler, Avrett, Rybicki, Tananbaum, Entler, Rathle,
+Typhoon Lee, Lo, Raffin, Liu, Chin, Chen, Ong, Tsai, Wu, Steve Lee, Martin, 
+Salah, Alan Rogers, Whitney, Gorczyca, Chris Rogers, Blevins, Antebi, Welch,
+Hills, Ishiguro, Napier, Payne, Phillips, Woody, Carlestrom, Jewell, Friberg,
+McLaren, Kaifu, Rosenthal
+
+
+
+
+

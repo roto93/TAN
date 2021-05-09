@@ -1,0 +1,37 @@
+> Date: Wed, 2 Mar 2016 18:07:03 +0800
+> Subject: NTHU colloquium (3/11)
+> From: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> To: astro@asiaa.sinica.edu.tw
+
+2016/03/11 (Fri.)
+14:00~15:00
+General 2nd building R521
+
+Title:
+Photometric redshifts for X-ray selected AGNs: paving the way towards the
+study of AGN/galaxy coevolution
+
+Abstract:
+
+To better investigate the AGN and galaxies coevolution, we need to have a
+complete characterisation and census of AGNs with accurate redshifts.
+Spectroscopic redshifts are relatively reliable, however, it is
+time-consuming and difficult to be obtained for faint sources at high
+redshifts. Therefore we have to rely on photometric redshifts (photo-z)
+which need to be tuned specifically for AGNs. In our work, we studied on
+the X-ray selected AGNs in the Chandra deep filed-south (CDFS) region,
+mainly using de-blending Subaru intermediate bands and HST
+optical/near-infrared data to compute photo-z. We first matched the
+multi-wavelength counterparts for the X-ray sources, then applied proper
+magnitude priors and appropriate AGN-galaxy hybrid templates for SED
+fitting. We achieved a photo-z accuracy of 0.013 with an outliers fraction
+of 5.3% for X-ray sources. With the SED fitting results of our well-trained
+AGN-galaxy hybrids, we further studied the AGN host properties via the
+rest-frame color-magnitude diagram (CMD) which is an useful probe to trace
+the stellar populations. We made corrections for dust extinction and AGN
+contamination for the AGN host colors, and found that the AGN host colors
+also present a bimodality in the CMD up to z~2.5 as found in normal
+galaxies. In this talk, I will present the CMD result of AGN host colors,
+and compare with the result of normal galaxies.
+
+==============================================================================

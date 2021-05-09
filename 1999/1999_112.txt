@@ -1,0 +1,437 @@
+From hkchang@phys.nthu.edu.tw Wed May 19 14:07:42 1999
+Return-Path: <hkchang@phys.nthu.edu.tw>
+Received: from lux17.cc.nthu.edu.tw by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA09451; Wed, 19 May 1999 10:56:43 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: (qmail 14287 invoked from network); 19 May 1999 04:10:47 -0000
+Received: from phux1.phys.nthu.edu.tw (qmailr@140.114.80.5)
+  by lux17.cc.nthu.edu.tw with SMTP; 19 May 1999 04:10:47 -0000
+Received: (qmail 20143 invoked by uid 108); 19 May 1999 02:58:38 -0000
+Date: Wed, 19 May 1999 10:58:38 +0800 (CST)
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: optical linear polarization from GRB990510 at 1.7+/-0.2 %  !!!
+Message-Id: <Pine.BSF.4.02A.9905191052120.19322-100000@phux1.phys.nthu.edu.tw>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 22546
+Status: RO
+
+
+
+-------------------------------------------------------------
+Hsiang-Kuang Chang                   hkchang@phys.nthu.edu.tw
+
+Department of Physics                      Tel: 886-3-5718688
+National Tsing Hua University                   
+Hsinchu 300                                Fax: 886-3-5723052
+                                                
+Taiwan, ROC          URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------
+
+---------- Forwarded message ----------
+Date: Tue, 18 May 1999 13:18:03 -0700
+From: John Gustafson <pogo@lanl.gov>
+To: laastro@mailhost.lanl.gov
+Subject: ESO GR observations
+
+THE FOLLOWING RELEASE WAS RECEIVED FROM EUROPEAN SOUTHERN OBSERVATORY
+HEADQUARTERS IN GARCHING, GERMANY, AND IS FORWARDED FOR YOUR
+INFORMATION.  (FORWARDING DOES NOT IMPLY ENDORSEMENT BY THE
+AMERICAN ASTRONOMICAL SOCIETY.)  Steve Maran, AAS
+
+Contact:  Dr. Richard M. West
+          Phone 49-89 320-06276
+          rwest@eso.org
+
+Text with all links is available on the ESO Website at URL:
+http://www.eso.org/outreach/press-rel/pr-1999/pr-08-99.html
+
+ ESO Press Release 08/99
+ 18 May 1999
+ For immediate release
+
+Southern Fireworks above ESO Telescopes
+New Insights from Observations of Mysterious Gamma-Ray Burst
+
+International teams of astronomers are now busy working on new and exciting
+data obtained during the last week with telescopes at the European Southern
+Observatory (ESO).
+
+Their object of study is the remnant of a mysterious cosmic explosion far
+out in space, first detected as a gigantic outburst of gamma rays on May 10.
+Gamma-Ray Bursters (GRBs) are brief flashes of very energetic radiation -
+they represent by far the most powerful type of explosion known in the
+Universe and their afterglow in optical light can be 10 million times
+brighter than the brightest supernovae [1]. The May 10 event ranks among the
+brightest one hundred of the over 2500 GRB's detected in the last decade.
+
+The new observations include detailed images and spectra from the VLT 8.2-m
+ANTU (UT1) telescope at Paranal, obtained at short notice during a special
+Target of Opportunity programme. This happened just over one month after
+that powerful telescope entered into regular service and demonstrates its
+great potential for exciting science. In particular, in an observational
+first, the VLT measured linear polarization of the light from the optical
+counterpart, indicating for the first time that synchrotron radiation is
+involved. It also determined a staggering distance of more than 7,000
+million light-years to this GRB.
+
+The astronomers are optimistic that the extensive observations will help
+them to better understand the true nature of such a dramatic event and thus
+to bring them nearer to the solution of one of the greatest riddles of
+modern astrophysics.
+
+A prime example of international collaboration
+
+The present story is about important new results at the front-line of
+current research. At the same time, it is also a fine illustration of a
+successful collaboration among several international teams of astronomers
+and the very effective way modern science functions.
+
+It began on May 10, at 08:49 hrs Universal Time (UT), when the Burst And
+Transient Source Experiment (BATSE) onboard NASA's Compton Gamma-Ray
+Observatory (CGRO) high in orbit around the Earth, suddenly registered an
+intense burst of gamma-ray radiation from a direction less than 100 from the
+celestial south pole. Independently, the Gamma-Ray Burst Monitor (GRBM) on
+board the Italian-Dutch BeppoSAX satellite also detected the event (see GCN
+GRB Observation Report 304 [2]). Following the BATSE alert, the BeppoSAX
+Wide-Field Cameras (WFC) quickly localized the sky position of the burst
+within a circle of 3 arcmin radius in the southern constellation Chamaeleon.
+It was also detected by other satellites, including the ESA/NASA Ulysses
+spacecraft, since some years in a wide orbit around the Sun.
+
+The event was designated GRB 990510 and the measured position was
+immediately distributed by BeppoSAX Mission Scientist Luigi Piro to a
+network of astronomers. It was also published on Circular No. 7160 of the
+International Astronomical Union (IAU).
+
+>From Amsterdam (The Netherlands), Paul Vreeswijk, Titus Galama, and Evert
+Rol of the Amsterdam/Huntsville GRB follow-up team (led by Jan van Paradijs)
+immediately contacted astronomers at the 1-meter telescope of the South
+African Astronomical Observatory (SAAO) (Sutherland, South Africa) of the
+PLANET network microlensing team, an international network led by Penny
+Sackett in Groningen (The Netherlands). There, John Menzies of SAAO and
+Karen Pollard (University of Canterbury, New Zealand) were about to begin
+the last of their 14 nights of observations, part of a continuous world-wide
+monitoring program looking for evidence of planets around other stars. Other
+PLANET sites in Australia and Tasmania where it was still nighttime were
+unfortunately clouded out (some observations were in fact made that night at
+the Mount Stromlo observatory in Australia, but they were only announced one
+day later).
+
+As soon as possible - immediately after sundown and less than 9 hours after
+the initial burst was recorded - the PLANET observers turned their telescope
+and quickly obtained a series of CCD images in visual light of the sky
+region where the gamma-ray burst was detected, then shipped them off
+electronically to their Dutch colleagues [3]. Comparing the new photos with
+earlier ones in the digital sky archive, Vreeswijk, Galama and Rol almost
+immediately discovered a new, relatively bright visual source in the region
+of the gamma-ray burst, which they proposed as the optical counterpart of
+the burst, cf. their dedicated webpage at
+http://www.astro.uva.nl/~titus/grb990510/ .
+
+The team then placed a message on the international Gamma-Ray Burster
+web-noteboard (GCN Circular 310), thereby alerting their colleagues all over
+the world. One hour later, the narrow-field instruments on BeppoSax
+identified a new X-Ray source at the same location (GCN Circular 311), thus
+confirming the optical identification.
+
+All in all, a remarkable synergy of human and satellite resources!
+
+Observations of GRB 990510 at ESO
+
+Vreeswijk, Galama and Rol, in collaboration with Nicola Masetti, Eliana
+Palazzi and Elena Pian of the BeppoSAX GRB optical follow-up team (led by
+Filippo Frontera) and the Huntsville optical follow-up team (led by Chryssa
+Kouveliotou), also contacted the European Southern Observatory (ESO).
+Astronomers at the this Organization's observatories in Chile were quick to
+exploit this opportunity and crucial data were soon obtained with several of
+the main telescopes at La Silla and Paranal, less than 14 hours after the
+first detection of this event by the satellite.
+
+  [ESO PR Photo 22a/99]  ESO PR Photo   [ESO PR Photo 22b/99]  ESO PR Photo
+                         22a/99                                22b/99
+
+ [Preview - JPEG: 211 x 400 pix -      [Preview - JPEG: 400 x 437 pix -
+ 72k]                                  297k]
+
+ [Normal - JPEG: 422 x 800 pix -       [Normal - JPEG: 800 x 873 pix -
+ 212k]                                 1.1M]
+
+ [High-Res - JPEG: 1582 x 3000 pix -   [High-Res - JPEG: 2300 x 2509 pix -
+ 2.6M]                                 5.9M]
+
+
+ Caption to PR Photo 22a/99: This wide-field photo was obtained with the
+ Wide-Field Imager (WFI) at the MPG/ESO 2.2-m telescope at La Silla on May
+ 11, 1999, at 08:42 UT, under inferior observing conditions (seeing = 1.9
+ arcsec). The exposure time was 450 sec in a B(lue) filter. The optical
+ image of the afterglow of GRB 990510 is indicated with an arrow in the
+ upper part of the field that measures about 8 x 16 arcmin2. The original
+ scale is 0.24 pix/arcsec and there are 2k x 4k pixels in the original
+ frame. North is up and East is left.
+
+ Caption to PR Photo 22b/99: This is a (false-)colour composite of the area
+ around the optical image of the afterglow of GRB 990510, based on three
+ near-infrared exposures with the SOFI multi-mode instrument at the 3.6-m
+ ESO New Technology Telescope (NTT) at La Silla, obtained on May 10, 1999,
+ between 23:15 and 23:45 UT. The exposure times were 10 min each in the J-
+ (1.2 5m; here rendered in blue), H- (1.6 5m; green) and K-bands (2.2 5m;
+ red); the image quality is excellent (0.6 arcsec). The field measures
+ about 5 x 5 arcmin2; the original pixel size is 0.29 arcsec. North is up
+ and East is left.
+
+  [ESO PR Photo 22c/99]  ESO PR Photo   [ESO PR Photo 22d/99]  ESO PR Photo
+                         22c/99                                22d/99
+
+ [Preview - JPEG: 400 x 235 pix -      [Preview - JPEG: 400 x 441 pix -
+ 81k]                                  154k]
+
+ [Normal - JPEG: 800 x 469 pix -       [Normal - JPEG: 800 x 887 pix -
+ 244k]                                 561k]
+
+ [High-Res - JPEG: 2732 x 1603 pix -   [High-Res - JPEG: 2300 x 2537 pix -
+ 2.6M]                                 2.3M]
+
+
+ Caption to PR Photo 22c/99: To the left is a reproduction of a short (30
+ sec) centering exposure in the V-band (green-yellow light), obtained with
+ VLT ANTU and the multi-mode FORS1 instrument on May 11, 1999, at 03:48 UT
+ under mediocre observing conditions (image quality 1.0 arcsec).The optical
+ image of the afterglow of GRB 990510 is easily seen in the box, by
+ comparison with an exposure of the same sky field before the explosion,
+ made with the ESO Schmidt Telescope in 1986 (right).The exposure time was
+ 120 min on IIIa-F emulsion behind a R(ed) filter. The field shown measures
+ about 6.2 x 6.2 arcmin2. North is up and East is left.
+
+ Caption to PR Photo 22d/99: Enlargment from the 30 sec V-exposure by the
+ VLT, shown in Photo 22c/99. The field is about 1.9 x 1.9 arcmin2. North is
+ up and East is left.
+
+The data from Chile were sent to Europe where, by quick comparison of images
+from the Wide-Field Imager (WFI) at the MPG/ESO 2.2-m telescope at La Silla
+with those from SAAO, the Dutch and Italian astronomers found that the
+brightness of the suspected optical counterpart was fading rapidly; this was
+a clear sign that the identification was correct (GCN Circular 313).
+
+With the precise sky position of GRB 990510 now available, the ESO observers
+at the VLT were informed and, setting other programmes aside under the
+Target of Opportunity scheme, were then able to obtain polarimetric data as
+well as a very detailed spectrum of the optical counterpart.
+
+Comprehensive early observations of this object were also made at La Silla
+with the ESO 3.6-m telescope (CCD images in the UBVRI-bands from the
+ultraviolet to the near-infrared part of the spectrum) and the ESO 3.6-m New
+Technology Telescope (with the SOFI multimode instrument in the infrared
+JHK-bands). A series of optical images in the BVRI-bands was secured with
+the Danish 1.5-m telescope, documenting the rapid fading of the object.
+Observations at longer wavelengths were made with the 15-m Swedish-ESO
+Submillimetre Telescope (SEST).
+
+All of the involved astronomers concur that a fantastic amount of
+observations has been obtained. They are still busy analyzing the data, and
+are confident that much will be learned from this particular burst.
+
+The VLT scores a first: Measurement of GRB polarization
+
+  [ESO PR Photo 22e/99]  ESO PR Photo  Caption to PR Photo 22e/99:
+                         22e/99        Preliminary polarization measurement
+                                       of the optical image of the
+ [Preview - JPEG: 400 x 434 pix -      afterglow of GRB 990510, as observed
+ 92k]                                  with the VLT 8.2-m ANTU telescope
+                                       and the multi-mode FORS1 instrument.
+ [Normal - JPEG: 800 x 867 pix -       The abscissa represents the
+ 228k]                                 measurement angle; the ordinate the
+                                       corresponding intensity. The
+                                       sinusoidal curve shows the best fit
+                                       to the data points (with error
+                                       bars); the resulting degree of
+                                       polarization is 1.7 1 0.2 percent.
+
+A group of Italian astronomers led by Stefano Covino of the Observatory of
+Brera in Milan, have observed for the first time polarization (some degree
+of alignment of the electric fields of emitted photons) from the optical
+afterglow of a gamma-ray burst, see their dedicated webpage at
+http://www.merate.mi.astro.it/~lazzati/GRB990510/ . This yielded a
+polarization at a level of 1.7 10.2 percent for the optical afterglow of GRB
+990510, some 18 hours after the gamma-ray burst event; the magnitude was R =
+19.1 at the time of this VLT observation. Independently, the Dutch
+astronomers Vreeswijk, Galama and Rol measured polarization of the order of
+2 percent with another data set from the VLT ANTU and FORS1 obtained during
+the same night.
+
+This important result was made possible by the very large light-gathering
+power of the 8.2-m VLT-ANTU mirror and the FORS1 imaging polarimeter.
+
+Albeit small, the detected degree of polarization is highly significant; it
+is also one of the most precise measurements of polarization ever made in an
+object as faint as this one. Most importantly, it provides the strongest
+evidence to date that the afterglow radiation of gamma-ray bursts is, at
+least in part, produced by the synchrotron process, i.e. by relativistic
+electrons spiralling in a magnetized region. This type of process is able to
+imprint some linear polarization on the produced radiation, if the magnetic
+field is not completely chaotic.
+
+The spectrum
+
+  [ESO PR Photo 22f/99]  ESO PR Photo  Caption to PR Photo 22f/99: A
+                         22f/99        spectrum of the afterglow of GRB
+                                       990510, obtained with VLT ANTU and
+ [Preview - JPEG: 400 x 485 pix -      the multi-mode FORS1 instrument
+ 112k]                                 during the night of May 10-11, 1999.
+                                       Some of the redshifted absorption
+ [Normal - JPEG: 800 x 969 pix -       lines are identified and the
+ 288k]                                 stronger bands from the terrestrial
+                                       atmosphere are also indicated.
+
+A VLT spectrum with the multi-mode FORS1 instrument was obtained a little
+later and showed a number of absorption lines, e.g. from ionized Aluminium,
+Chromium and neutral Magnesium. They do not arise in the optical counterpart
+itself - the gas there is so hot and turbulent that any spectral lines will
+be extremely broad and hence extremely difficult to identify - but from
+interstellar gas in a galaxy 'hosting' the GRB source, or from intergalactic
+clouds along the line of sight. It is possible to measure the distance to
+this intervening material from the redshift of the lines; astronomers
+Vreeswijk, Galama and Rol found z = 1.619 1 0.002 [4]. This allows to
+establish a lower limit for the distance of the explosion and also its total
+power.
+
+The numbers turn out to be truly enormous. The burst occurred at an epoch
+corresponding to about one half of the present age of the Universe (at a
+distance of about 7,000 million light-years [5]), and the total energy of
+the explosion in gamma-rays must be higher than 1.4 1053 erg, assuming a
+spherical emission. This energy corresponds to the entire optical energy
+emitted by the Milky Way in more than 30 years; yet the gamma-ray burst took
+less than 100 seconds.
+
+Since the optical afterglows of gamma-ray bursts are faint, and their flux
+decays quite rapidly in time, the combination of large telescopes and fast
+response through suitable observing programs are crucial and, as
+demonstrated here, ESO's VLT is ideally suited to this goal!
+
+The lightcurve
+
+Combining results from a multitude of telescopes has provided most useful
+information. Interestingly, a "break" was observed in the light curve (the
+way the light of the optical counterpart fades) of the afterglow. Some 1.5 -
+2 days after the explosion, the brightness began to decrease more rapidly;
+this is well documented with the CCD images from the Danish 1.5-m telescope
+at La Silla and the corresponding diagrams are available on a dedicated
+webpage at http://www.astro.ku.dk/~jens/grb990510/   at the Copenhagen
+University Observatory. Complete, regularly updated lightcurves with all
+published measurements, also from other observatories, may be found at
+another webpage in Milan at http://www.merate.mi.astro.it/~gabriele/990510/
+ .
+
+This may happen if the explosion emits radiation in a beam which is pointed
+towards the Earth. Such beams are predicted by some models for the
+production of gamma-ray bursts. They are also favoured by many astronomers,
+because they can overcome the fundamental problem that gamma-ray bursts
+simply produce too much energy. If the energy is not emitted equally in all
+directions ("isotropically"), but rather in a preferred one along a beam,
+less energy is needed to produce the observed phenomenon.
+
+Such a break has been observed before, but this time it occurred at a very
+favourable moment, when the source was still relatively bright so that
+high-quality spectroscopic and multi-colour information could be obtained
+with the ESO telescopes. Together, these observations may provide an answer
+to the question whether beams exist in gamma-ray bursts and thus further
+help us to understand the as yet unknown cause of these mysterious
+explosions.
+
+Latest News
+
+  [ESO PR Photo 22g/99]  ESO PR Photo  Caption to PR Photo 22g/99: V(isual)
+                         22g/99        image of the sky field around GRB
+                                       990510 (here denoted "OT"), as
+ [Normal - JPEG: 453 x 585 pix -       obtained with the VLT ANTU telescope
+ 304k]                                 and FORS1 on May 18 UT during a 20
+                                       min exposure in 0.9 arcsec seeing
+                                       conditions. North is up and east is
+                                       left.
+
+Further photometric and spectroscopic observations with the ESO VLT,
+performed by Klaus Beuermann, Frederic Hessman and Klaus Reinsch of the
+Gvettingen group of the FORS instrument team (Germany), have revealed the
+character of some of the objects that are seen close to the image of the
+afterglow of GRB 990510 (also referred to as the "Optical Transient" - OT).
+
+Two objects to the North are cool foreground stars of spectral types dM0 and
+about dM3, respectively; they are located in our Milky Way Galaxy. The
+object just to the South of the OT is probably also a star.
+
+A V(isual)-band image (PR Photo 22g/99) taken during the night between May
+17 and 18 with the VLT/ANTU telescope and FORS1 now shows the OT at
+magnitude V = 24.5, with still no evidence for the host galaxy that is
+expected to appear when the afterglow has faded sufficiently.
+
+Outlook
+
+The great distances (high redshifts) of Gamma-Ray Bursts, plus the fact that
+a 9th magnitude optical flash was seen when another GRB exploded on January
+23 this year, has attracted the attention of astronomers outside the GRB
+field. In fact, GRBs may soon become a very powerful tool to probe the early
+universe by guiding us to regions of very early star formation and the
+(proto)-galaxies and (proto)-clusters of which they are part. They will also
+allow the study of the chemical composition of absorbing clouds at very
+large distances.
+
+At the end of this year, the NASA satellite HETE-II will be launched, which
+is expected to provide about 50 GRB alerts per year and, most importantly,
+accurate localisations in the sky that will allow very fast follow-up
+observations, while the optical counterparts are still quite bright. It will
+then be possible to obtain more spectra, also of extremely distant bursts,
+and many new distance determinations can be made, revealing the distribution
+of intrinsic brightness of GRB's (the "luminosity function"). Other types of
+observations (e.g. polarimetry, as above) will also profit, leading to a
+progressive refinement of the available data.
+
+Thus there is good hope that astronomers will soon come closer to
+identifying the progenitors of these enormous explosions and to understand
+what is really going on. In this process, the huge light-collecting power of
+the VLT and the many other facilities at the ESO observatories will
+undoubtedly play an important role.
+
+Notes
+
+[1] Gamma-Ray Bursts are brief flashes of high-energy radiation. Satellites
+in orbit around the Earth and spacecraft in interplanetary orbits have
+detected several thousand such events since they were first discovered in
+the late 1960s.
+
+Earlier investigations established that they were so evenly distributed in
+the sky that they must be very distant (and hence very powerful) outbursts
+of some kind. Only in 1997 it became possible to observe the fading
+"afterglow" of one of these explosions in visible light, thanks to accurate
+positions available from the BeppoSAX satellite. Soon thereafter, another
+optical afterglow was detected; it was located in a faint galaxy whose
+distance could be measured. In 1998, a gamma-ray burst was detected in a
+galaxy over 8,300 million light-years away.
+
+Even the most exotic ideas proposed for these explosions, e.g. supergiant
+stars collapsing to black holes, black holes merging with neutron stars or
+other black holes, and other weird and wonderful notions have trouble
+accounting for explosions with the power of 10,000 million million suns.
+
+[2] The various reports issued by astronomers working on this and other
+gamma-ray burst events are available as GCN Circulars on the GRB Coordinates
+Network web-noteboard.
+
+[3] See also the Press Release, issued by SAAO on this occasion.
+
+[4] In astronomy, the redshift (z) denotes the fraction by which the lines
+in the spectrum of an object are shifted towards longer wavelengths. The
+observed redshift of a distant galaxy or intergalactic cloud gives a direct
+estimate of the universal expansion (i.e. the "recession velocity"). The
+detailed relation between redshift and distance depends on such quantities
+as the Hubble Constant, the average density of the universe, and the
+'Cosmological' Constant. For a standard cosmological model, redshift z = 1.6
+corresponds to a distance of about 7,000 million light-years.
+
+[5] Assuming a Hubble Constant H0 = 70 km/s/Mpc, mean density Omega0 = 0.3
+and a Cosmological Constant Lambda = 0.
+
+  ------------------------------------------------------------------------
+
+
+

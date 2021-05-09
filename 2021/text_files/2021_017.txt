@@ -1,0 +1,44 @@
+==============================================================================
+
+Subject: ALMA Recovery Status Update
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Tue, 26 Jan 2021 09:39:15 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+Yu-Nung
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Array Recovery Status Update
+Jan 25, 2021
+https://almascience.nao.ac.jp/news/array-recovery-status-update
+
+Dear colleagues,
+While the COVID-19 pandemic persists all around the world, ALMA staff at =
+the JAO and in the regions continue to work towards bringing the array =
+back online, with the ultimate goal to resume science operations and =
+deliver high-quality science data to our users.
+At this moment, the ALMA antennas are in the process of being powered up =
+and inspected after having been stowed for about 300 days. The central =
+local oscillator and the two correlators at the high site have =
+successfully been started and the first antennas have been paired up to =
+perform initial interferometric testing by science operations.
+The Operations Support Facility (OSF) can now sustain a minimum number =
+of ALMA staff. Nevertheless, the way towards science observations is =
+still long and uncertain and heavily depends on issues that may be =
+discovered as well as on the pandemic situation in Chile and the rest of =
+the world.
+The ALMA Regional Centres (ARCs) continue to assist ALMA users with the =
+reduction and analysis of existing data through virtual face-to-face =
+(f2f) support, in addition to answering the usual Helpdesk queries. If =
+you have any questions, want to sign up for a virtual f2f visit, or have =
+comments or concerns related to the situation at ALMA, please contact =
+the ALMA Helpdesk at https://help.almascience.org =
+<https://help.almascience.org/>.
+All ALMA staff wish you and your families to remain safe and healthy.=
+
+==============================================================================

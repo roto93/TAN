@@ -1,0 +1,80 @@
+==============================================================================
+
+In this issue (Dec 02 - 9, 2018)
+
+2. ASIAA Colloquium/Seminar/Lunchtalk (Dec 10): Edwige Chapillon (IRAM)
+                         (Dec 11): Chia-Jung Hsu (Chalmers Univ of Technology)
+                         (Dec 12): Hirofumi Noda (Osaka University)
+                         (Dec 14): I-Hsiu Li (University of Illinois)
+
+==============================================================================
+
+> Date: Thu, 6 Dec 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Edwige Chapillon (IRAM)
+Topic:          Update on the NOrthern Extended Millimeter Array
+Time:           12/10 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+The NOEMA (NOrthern Extended Millimeter Array), located at 2550m in the French Alps is the successor of the Plateau de Bure Interferometer. With twelve 15-meter antennas, 2SB receivers with 8 GHz IF per sideband and polarization, and baselines up to 1.6 kilometers, NOEMA is designed to offer ten times the sensitivity and four times the spatial resolution that was possible with the Plateau de Bure interferometer.
+As a unique combination of cutting-edge technology NOEMA will allow researchers address astronomical key questions as those related to the molecular complexity of star- and planet-formation processes in the Milky Way, and structure formation and galaxy evolution in the Universe. I will present the current status of the NOEMA project.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Chia-Jung Hsu (Chalmers University of Technology)
+Topic:          Mixing of the First Supernovae Metals
+Time:           12/11 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The first stars forged the first metals inside their stellar cores and eventually ejected them to the primordial IGM medium through supernovae explosions. These metals significantly influence the next generation of star formation. Therefore, it is very important to understand how these metals chemically enriched the early universe. In this research, we use two popular codes, ZEUS-MP and FLASH, and modify them to simulate the explosion process of the first supernovae in the minihalos. We find the mixing of SNe ejecta caused by the Rayleigh-Taylor instability due to the explosion energy and halo masses. Our results can help to understand the abundance pattern of some metal-poor stars that are thought to form after the first stars.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Hirofumi Noda (Osaka University)
+Topic:          Structure of Accretion onto Supermassive Black Hole Studied with Multi-wavelength Variability and X-ray High-Resolution Spectroscopy
+Time:           12/12 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In many studies of active galactic nuclei (AGNs), their central engine has been assumed to consist of a standard disc onto a supermassive black hole (BH) and a single hot corona located near the BH, emitting optical-UV blackbody and primary X-rays, respectively. However, this is now recognized too simple to explain actual optical, UV, and X-ray spectra and variabilities observed from nearby AGNs. To overcome this problem, we developed a variability-assisted method to decompose an X-ray spectrum into components model-independently, and discovered that the AGN central engine includes multiple X-ray-emitting regions separately formed around a BH (Noda et al. 2011, 2013, 2014). In this presentation, I will introduce these results, and show impacts of our picture to outer structures such as a broad-line region and a dusty torus, touching one of recent hot topics so-called "changing-look AGN" (e.g., Noda & Done 2018). Furthermore, I will show future studies of accretions in AGNs w!
+ ith X-ray microcalorimeter, referring to the leading result of NGC 1275 by the Hitomi satellite (Hitomi collaboration 2018).
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        I-Hsiu Li (University of Illinois)
+Topic:          TBA
+Time:           12/14 (Friday) 14:20 - 15:20
+Place:           R1107
+Abstract:
+TBA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

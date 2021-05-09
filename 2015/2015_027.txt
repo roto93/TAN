@@ -1,0 +1,21 @@
+> Date: Thu, 5 Feb 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Camilla Pacifici (Yonsei University Observatory)
+Topic:         What do the star formation histories of galaxies look like?
+Time:         2/13 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The spectral energy distribution of the light emitted from galaxies across the electromagnetic spectrum contains a myriad of details about the stellar, nebular and dust components of galaxies. In the first part of the talk, I will present a new comprehensive library of galaxy spectra built by combining the semi-analytic post-treatment of a large cosmological simulation with state-of-the-art models of the stellar and nebular emission and attenuation by dust. A main novelty of our approach is the ability to interpret simultaneously the stellar and nebular emission from galaxies, even at low spectral resolution. In the second part of the talk, I will show how we can use this spectral library to constrain the physical parameters and star formation histories of low- and high-redshift galaxies. The results show us that simple declining functions of time are not always good approximations of the star formation histories of galaxies. Our approach can be used to extract valuable info!
+rmation from any kind of galaxy observation across the wavelength range covered by spectral evolution models as well as to plan for future galaxy observations.
+
+===============================================================================
+

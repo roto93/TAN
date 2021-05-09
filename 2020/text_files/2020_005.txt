@@ -1,0 +1,213 @@
+=============================================================================
+
+In this issue (Jan 04 - 12, 2020)
+
+1. Arizona Radio Observatory - Call for Proposals: 2020A (Feb 12)
+2. International Astronomical Symposium: What A Wonderful World
+3. ASIAA Colloquium/Seminar/Lunchtalk (Jan 13): Cheng-Han Hsieh (Yale)
+                                      (Jan 15): Jongho Park (ASIAA)
+4. EA AGN Workshop 2020
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2020A)
+------------------------------------------------------------------------------
+
+To Astronomers and Astrophysicists of Taiwan:
+
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the ALMA
+Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona, and for the
+10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for
+the period March 1, 2020 - June 15, 2020. Proposal candidates from members of
+the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should submit up to
+THREE pages of scientific and technical justification (including figures,
+tables, and references) in addition to their Proposal Summary Sheet (form here):
+
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+
+All proposal candidates are required to list on the Proposal Summary Sheet
+their requested observing blocks (the exact LST ranges to be scheduled and
+number of times to be repeated), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+
+The 12m ALMA Prototype antenna currently supports dual-polarization sideband-
+separating (SBS) observations in three bands: 4mm (66 - 90 GHz), 3mm (84 - 116
+GHz), and 1mm (211 - 275 GHz). Observations at 1mm must be clearly justified
+as to why they cannot be performed on the SMT.  The 12m control system supports
+dual-polarization in the same sideband or single-polarization in each sideband
+("2 IF mode"; fixed 6.0 GHz IF frequency), position-switched, beam-switched,
+and OTF observations. Backend modes for the AROWS spectrometer may be found on
+the ARO Equipment Summary and Status sheet at:
+
+https://www.as.arizona.edu/arizona-radio-observatory
+
+
+The 10m SMT currently supports a dual-polarization sideband-separating (SBS)
+observations at 1mm (211 - 280 GHz) and dual-polarization double-sideband
+observations at 0.8mm (325 - 370 GHz).  The SMT is the preferred site for 1mm
+observations. We note that 0.8mm weather is limited during this semester. The
+SMT control system supports both dual-polarization ("2 IF mode") and dual-
+polarization + dual-sideband observations ("4 IF mode") with tunable IF from
+4.5 - 7.5 GHz, for position-switched, beam-switched, and OTF observations\.
+Proposal candidates should consult the ARO Equipment Summary and Status sheet
+for additional technical specifications:
+
+https://www.as.arizona.edu/arizona-radio-observatory
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. For further information about
+remote observing and other operational questions, please contact the ARO
+Software Engineers: Tom Folkers:
+
+tfolkers@email.arizona.edu or Natalie Gandilo ngandilo@email.arizona.edu
+
+
+Scheduling of successful proposals will be done according to availability of
+the receivers requested. Projects which require longer telescope time, e.g.
+24 hrs, are possible based on scientific merit. Graduate student
+participation is especially encouraged.
+
+Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by
+midnight (23:59 CST) on February 12, 2020 (Wednesday).
+
+==============================================================================
+
+From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+Date: Mon, 6 Jan 2020 15:17:24 +0800
+Subject: Symposium announcement
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear Prof. Kuan, please help to announce the following to TAN. Thanks.
+
+------------------------------------------------------------------------------
+
+First Announcement
+
+International Astronomical Symposium: What A Wonderful World
+
+To celebrate the 30th anniversary of the Delta Education Foundation that is
+the sponsor of the Delta Young Astronomer Award, a topical symposium will
+be held between July 21 and 23 at National Central University in Taiwan.
+Invited talks will be given by the following Delta award winners to depict
+the wonders of the Universe and our Solar System:
+
+Eva Grebel, University of Heidelberg
+Mathew Holman, Harvard-Smithsonian Center for Astrophysics
+Nissim Kanekar, Tata Institute of Fundamental Research
+Lisa Kewley, Australian National University
+Chao-Lin Kuo, Stanford University
+Jifeng Liu, University of Chinese Academy of Sciences
+Christopher Reynolds, Cambridge University
+Stephen Smartt, Queen's University, Belfast
+Masaomi Tanaka, University of Tohoku
+Jean-Baptiste Vincent, German Aerospace Center
+
+Science Organization Committee:
+Chorng-Yuan Hwang, NCU (Chair)
+Yi Chou, NCU
+Shih-Ping Lai, NTHU
+Chin-Fei Lee, ASIAA
+Chow-Choong Ngeow, NCU
+Wei-Hao Wang, ASIAA
+Local Organization Committee
+Wing-Huen Ip, NCU (Chair)
+Kuang-Shiang Chang, NCU
+Ming-Hsin Chang, NCU
+Tracy Chiou, NCU
+Chung-Ming Ko, NCU
+
+Website: http://ps1tw.astro.ncu.edu.tw/wawonderfulw/
+
+-- 
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+Date: Thu, 9 Jan 2020 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Cheng-Han Hsieh (Yale)
+Topic:         Rotating N2D+ filament in Orion B: Do cores inherit their angular momentum from their parent filament?
+Time:         1/13 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+Angular momentum is one of the most important physical quantities that govern star formation. The initial angular momentum of cores may be responsible for its fragmentation and can have an influence on the size of the protoplanetary disk. To understand how cores obtain their initial angular momentum, it is important to study the angular momentum of filaments where cores form. While a number of theoretical studies on filament rotation exist, there exist little or no precise specific angular momentum measurements in star-forming filaments. In this talk, I will present high-resolution N2D+ ALMA observations of the LBS23 (HH24-HH26) region in Orion B. Our maps provide one of the most precise and reliable measurements of the specific angular momentum in a star-forming filament. We find values of about 2 to 9 x 10^20 cm^2/s, comparable to the value measured in rotating cores with a size similar to our filament width (~ 0.04 pc) in Orion A. Our results suggest that young cores may !
+ inherit their angular momentum from their parent filaments. In addition, if time permits I will share some work and planned observations for the first interstellar comet, Borisov.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Jongho Park (ASIAA)
+Topic:
+Time:         1/15 (Wednesday) 14:20 - 15:20
+Place:          R1203
+
+==============================================================================
+
+Subject:  Fwd: EA AGN Workshop 2020
+From    Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>Add contact
+Date    2020-01-12 10:31
+
+Dear Prof Kuan,
+
+Please help to forward this to TAN.
+
+Thank you.
+
+Wei-Hao
+
+---------- Forwarded message ---------
+From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+Date: Sun, Jan 12, 2020 at 10:30 AM
+Subject: EA AGN Workshop 2020
+To: riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear All,
+
+This is to remind you that the registration deadline for EA AGN Workshop 2020
+is approaching.  The workshop will be held in Chongquing, China, on April 27-29.
+The registration deadline is Jan 31.  Please remember to register if you plan
+to attend this workshop.
+
+The workshop website is
+http://eaagn2020.csp.escience.cn/dct/page/1
+
+Cheers,
+Wei-Hao
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

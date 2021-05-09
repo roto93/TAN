@@ -1,0 +1,253 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Jun 19 12:42:39 2009
+Date: Fri, 19 Jun 2009 12:44:58 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 18-19, 2009)
+
+============================================================================== 
+
+In this issue (Jun 18-19, 2009)
+
+1. Mini-Lecture Series on Physical Processes in Star Formation (Jul-Aug)
+2. Mini-workshop on Magnetic Field at NTHU-TIARA (June 23-24)
+3. ASIAA Colloquium (Jun 19): Rosie Chen (University of Virginia)
+4. ADASS 2009
+
+============================================================================== 
+
+> Date: Thu, 18 Jun 2009 13:58:32 +0800
+> From: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Mini-Lecture Series on Physical Processes in Star Formation
+
+Dear Yi-Jehng,
+
+Would you please distribute this email with TAN?
+
+Thank you,
+Satoki
+
+
+-------
+Dear all,
+
+This summer, we are going to offer a mini-lecture series on
+selected topics in star formation.  This lecture series is to
+augment the general introductory classes on astrophysics and
+offer detailed discussion on some of the fundamental and
+important physical processes that occur in star formation.
+The level of instruction is intended for graduate students
+and research assistants working in either theoretical or
+observational aspects of star formation, but anyone with an
+interest in the subject is welcome.  Although there is no fee
+required, we do encourage students to register in order for
+us to estimate the number of participants and make
+appropriate preparations.  You can register from here:
+
+  http://www2.asiaa.sinica.edu.tw/act/workshop/20090730/
+
+and the registration deadline is July 24 (Fri), 2009.
+The tentative lecture topics and dates are as follows:
+
+
+<< Mini-Lecture Series on Physical Processes in Star Formation >>
+
+Location: ASIAA, Room 716
+
+
+7/30 (Thu)
+    Hydrostatic Equilibria (1.5 hour lecture)
+    Gravitational Collapse (1.5 hour lecture)
+8/04 (Tue)
+    Magnetohydrodynamics (1.5 hour lecture)
+    Ambipolar Diffusion and Core Formation (1.5 hour lecture)
+8/07 (Fri)
+    Accretion Disk (1.5 hour lecture)
+    Jets (1.5 hour lecture)
+
+
+In addition to this, we offer basic lectures for star formation
+as a part of the ASIAA summer student program lecture series:
+
+7/28 (Tue)
+    Observational View of Star Formation (1 hour lecture)
+8/06 (Thu)
+    Planet Formation (1 hour lecture)
+
+
+Thank you,
+Satoki Matsushita, Mike Cai, Sheng-Yuan Liu, and Chin-Fei Lee
+-------
+
+============================================================================== 
+
+> Date: Thu, 18 Jun 2009 16:18:49 +0800
+> Subject: Mini-workshop on Magnetic Field @ NTHU-TIARA (June 23-24)
+> From: Albert Kong <akong@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+Dear all,
+
+We would like to invite you to attend a mini-workshop on magnetic
+field at the Institute of Astronomy, National Tsing Hua University on
+June 23-24 (Tue-Wed). The purpose of this informal workshop is to
+gather people working on magnetic field related research and to
+exchange idea. We will feature a couple of overview talks by Kinwah Wu
+who is the Chair of Theoretical Astrophysics and Head of Theory in
+Mullard Space Science Lab, University College London. The schedule of
+the talks is as follow:
+
+June 23
+
+2pm  Radiative and dynamical processes in magnetically interacting
+two-body systems (1hr+discussion), Kinwah Wu
+
+3:15pm  High energy emission from rapidly rotating neutron-star
+magnetospheres, Kouichi Hirotani (30min+discussion)
+
+4pm Probing the pulsar wind in gamma-ray binary (30min+discussion),
+Jumpei Takata
+
+June 24
+
+2pm  Cosmic magnetism --- a pedestrian's perspective (1hr+discussion), Kinwah Wu
+
+3:15pm  Zooming in on the magnetic field structure around a protostar
+(30min+discussion), Shih-Ping Lai
+
+4pm  Vibrations of neutron stars promoted by frozen-in magnetic field
+(30min+discussion), Sergey Bastrukov
+
+All the talks will take place at NTHU-TIARA (8F, 2nd General Bld). ALL
+are welcome.
+
+Cheers,
+Albert
+
+============================================================================== 
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Another colloquium this week (6/19)
+> Date: Thu, 18 Jun 2009 18:22:15 +0900
+> Cc: astro@asiaa.sinica.edu.tw
+
+  Dear all,
+
+Dr Rosie Chen from University of Virginia is visiting IAA this week,
+and tomorrow Friday (6/19) Dr Chen is going to present a talk
+entitled
+
+"Massive Star Formation in HII Complexes in the Large Magellanic Cloud"
+
+Please mark your calendar and remember to join the event.
+
+Shigehisa Takakuwa
+
+
+----------------------- ASIAA Colloquium ------------------------------
+Speaker  : Dr Rosie Chen (University of Virginia)
+Title        : Massive Star Formation in HII Complexes in the Large  
+Magellanic Cloud
+Time       : 6/19 (Friday) 2 pm
+Location : ASIAA Room 716
+
+============================================================================== 
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: ADASS 2009
+> Date: Thu, 18 Jun 2009 18:27:31 +0900
+> Cc: astro@asiaa.sinica.edu.tw, morita@nro.nao.ac.jp
+
+  Dear All,
+
+Following announcement is for ADASS 2009 held in Sapporo, Japan,
+in October.  This conference is held every year and
+many astronomers or developers who are working on software
+project or data achive science attnend this meeting.
+
+  Sincerely,
+  Shigehisa Takakuwa
+
+-------- Original Message --------
+> Subject: [Adass-announce] Registration for ADASS 2009 is open
+> Date: Wed, 27 May 2009 12:55:41 -0400 (EDT)
+> From: Arnold Rots <arots@head.cfa.harvard.edu>
+> To: adass-announce@adass.org
+
+Announcement of ADASS 2009 SAPPORO
+
+We are pleased to announce the opening of registration for the
+19th annual conference on Astronomical Data Analysis Software
+and Systems (ADASS).  The conference will be held in Sapporo,
+Japan at the Renaissance Sapporo Hotel during 4-8 October
+2009.
+
+The ADASS conference is held each year at a different hosting
+astronomical institution. The conference provides a forum for
+scientists and programmers concerned with algorithms, software
+and software systems employed in the acquisition, reduction,
+analysis, and dissemination of astronomical data.  The program
+includes invited talks, contributed papers, display sessions,
+tutorials, and computer demonstrations, as well as special
+interest ("Birds of a Feather" or BOF) meetings.  These
+activities aim to encourage communication between software
+specialists, scientists, and also to stimulate further development
+of astronomical software and systems.  We encourage you to
+participate in this exciting conference by submitting an oral or
+poster abstract, a demonstration, or a BoF proposal.
+
+Key topics for this year's conference include but are not
+limited to:
+
+* Time domain astronomy
+* "Most dangerous" process, design & implementation errors
+* Virtual Astronomical Observatory (VAO) and the Virtual Obsevatory
+* Reusable archive technologies
+* Commonly available development environments & tools
+
+As this is the first ADASS in Asia, we encourage proposals that
+deal with topics of special interest to Asia.
+
+Details on the submission process can be found on the Conference
+website at http://www.adass.org/.
+
+Important Dates:
+-----------------
+Registration/Abstract Submission Opens: May 27, 2009
+Deadline for Oral and Poster Abstract Submission: July 15, 2009
+Deadline for Demo Submission: July 15, 2009
+End of Early (discounted) Registration: July 31, 2009
+Deadline for BoF Submission: August 31, 2009
+
+The Conference website will be updated regularly during the next
+few months to include information about the program, the current
+list of attendees, and the submitted abstracts.  Please review
+the calendar of important events and deadlines.
+
+We look forward to seeing you in Sapporo!
+
+Sincerely,
+
+Yoshihiko Mizumoto (Astronomical Data Center, NAOJ)
+Chair, Local Organizing Committee
+LOC email: info@adass2009.jp
+
+Arnold Rots
+Chair, Program Organizing Committee
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

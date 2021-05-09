@@ -1,0 +1,208 @@
+==============================================================================
+
+In this issue (Sep 01 - 05, 2016)
+
+1. Reminder: Arizona Radio Observatory Call for Proposals (Fall 2016; Sep 10)
+2. SMA's role in your ALMA proposals (hyperlink updated)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Sep 05): Po-Sheng Huang (ASIAA)
+                                      (Sep 06): Alan Heays (Leiden Obs)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Fall 2016)
+------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT), located on
+Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
+located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are
+being solicited for the period October 15, 2016 to February 15, 2017. Graduate
+student participation is especially encouraged. The proposal deadline for this
+2016 fall semester is set on September 10, 2016 (Saturday).
+
+The SMT currently supports a dual-polarization 1-mm (211-275 GHz) receiver
+with ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, a 0.4-mm (602-720 GHz) dual-polarization receiver with ALMA
+Band 9 mixers, and a new Band 7 receiver with SBS mixers is also available.
+The SMT control system supports both dual-polarization ("2 IF mode"), and
+dual-polarization, dual-sideband observations ("4 IF mode"), as well as OTF
+mapping. The new 12m supports an ALMA Band-3 dual-polarization SBS receiver
+(84-116 GHz).
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Proposal candidates should consult
+the ARO website, https://www.as.arizona.edu/aro/ , for technical
+specifications.
+
+Proposal candidates can download the updated Proposal Summary Sheet here:
+https://www.as.arizona.edu/aro/proposal_submission_information.htm . Proposal
+candidates are required to list on the Proposal Summary Sheet their requested
+observing blocks (LST ranges), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (44 degrees at the SMT, 10 degrees at the 12m). Proposal
+candidates are also encouraged to submit up to THREE pages of scientific
+justification (including figures and/or tables) with their Proposal Summary
+Sheet. Electronic submissions will be accepted in PDF format ONLY. Scheduling
+of successful proposals will be done according to availability of the
+receivers requested. The proposal PDF file should be emailed to
+kuan[at]asiaa.sinica.edu.tw by midnight (23:59 CST) September 10, 2016
+(Saturday).
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Date: Thu, 1 Sep 2016 08:01:23 +0800
+> Subject: Re: TAN (Issue Aug 26 - 31, 2016)
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof Kuan,
+
+The link below for the SMA/ALMA proposal survey is broken.
+Could you help to send an update to TAN to tell people using this link
+instead:
+http://tinyurl.com/zprdxuq
+
+Cheers,
+Wei-Hao
+
+> > From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> > Subject: Fwd: SMA's role in your ALMA proposals
+> > Date: Fri, 26 Aug 2016 10:57:54 +0800
+> > To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+>
+> Dear Prof Kuan,
+>
+> Please help to forward this message to TAN.
+>
+> Cheers,
+> Wei-Hao
+>
+>
+> > Begin forwarded message:
+> >=20
+> > From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> > Subject: SMA's role in your ALMA proposals
+> > Date: August 26, 2016 at 10:52:19 AM GMT+8
+> > To: riaa <riaa@asiaa.sinica.edu.tw>
+> >=20
+> > Dear All,
+> >=20
+> > We would like to understand if SMA has ever helped you on your ALMA =
+> proposals.
+> > If you have ever submitted an ALMA proposal (accepted or not), please =
+> fill out the
+> > form below.  It=E2=80=99s a short form.
+> >=20
+> > Cheers,
+> > Wei-Hao
+> >=20
+> >=20
+> >=20
+> >=20
+> > I've invited you to fill out a form:
+> > SMA's role in your ALMA proposals =
+> <https://docs.google.com/forms/d/e/1FAIpQLSfsEE16Cy5ZcZ5qQxPNgwUr
+> l66WP2JSL=
+> jUnbBGVv-MXnUKfzw/viewform?c=3D0&w=3D1&usp=3Dmail_form_link>
+> > SMA is considered as an ALMA pathfinder by many. One possible way for =
+> it to contribute to our ALMA science is to help to establish the science =
+> cases in our ALMA proposal. This can be either diagrams/figures based =
+> (at least partially) on SMA data, or science questions that stem from =
+> previous SMA studies. We would like to know how common this is.
+> >=20
+> > This is for Taiwan-based ALMA PIs only. You can fill out this form if =
+> you have ever submitted an ALMA proposal while you are working in =
+> Taiwan, or if you are currently working in Taiwan. All ALMA cycles (0-4) =
+> count.
+> > FILL OUT FORM =
+> <https://docs.google.com/forms/d/e/1FAIpQLSfsEE16Cy5ZcZ5qQxPNgwUr
+> l66WP2JSL=
+> jUnbBGVv-MXnUKfzw/viewform?c=3D0&w=3D1&usp=3Dmail_form_link>
+> > Create your own Google Form =
+> <https://docs.google.com/forms?usp=3Dmail_form_link>
+>
+
+==============================================================================
+
+> Date: Thu, 1 Sep 2016 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Po-Sheng Huang (ASIAA)
+Topic:          The Shaping of the Multipolar Pre-planetary Nebula CRL 618 by
+Multidirectional Bullets
+Time:           9/5 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+In order to understand the formation of the multipolar structures of the
+pre-planetary nebula CRL 618, we perform 3D simulations using a
+multidirectional bullet model. The optical lobes of CRL 618 and fast
+molecular outflows at the tips of the lobes have been found to have
+similar expansion ages of ˜100 yr. Additional fast molecular outflows
+were found near the source along the outflow axes with ages of ˜45 yr,
+suggesting a second episode of bullet ejections. Thus, in our
+simulations, two episodes of bullet ejections are assumed. The shaping
+process is simulated using the ZEUS-3D hydrodynamics code that includes
+molecular and atomic cooling. In addition, molecular chemistry is also
+included to calculate the CO intensity maps. Our results show the
+following: (1) Multiepoch bullets interacting with the toroidal dense
+core can produce the collimated multiple lobes as seen in CRL 618. The
+total mass of the bullets is ˜0.034 M_⊙ , consistent with the observed
+high-velocity (HV) CO emission in fast molecular outflows. (2) The
+simulated CO J = 3-2 intensity maps show that the low-velocity cavity
+wall and the HV outflows along the lobes are reasonably consistent with
+the observations. The position-velocity diagram of the outflows along
+the outflow axes shows a linear increase of velocity with distance,
+similar to the observations. The ejections of these bullets could be due
+to magnetorotational explosions or nova-like explosions around a binary
+companion.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Alan Heays (Leiden Observatory)
+Topic:          Laboratory astrochemistry:  UV photodestruction of molecules and its
+observable isotope effects
+Time:           9/6 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Finding ultraviolet photodestruction rates for the many
+atoms and molecules present in space is an interesting subject for
+fundamental study in laboratory and theoretical chemical physics.  I
+will discuss the photodestruction process and its application to the
+molecules observed in interstellar clouds, protoplanetary disks, and
+planetary atmospheres.  I will also discuss some detailed studies of
+N2 and CO photodissociation and their effect on the isotope-dependent
+fractionation of N, C and O atoms between different molecular forms,
+as observed in interstellar space and within the Solar system.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

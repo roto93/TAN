@@ -1,0 +1,227 @@
+============================================================================== 
+In this issue (Oct 05 - 10, 2014)
+
+1. NTHU astronomy colloquium (Oct 17): Kenneth Wong (ASIAA)
+2. Call for Proposals: KaVA (KVN+VERA) for 2015A (Nov 06)
+3. Call for Proposals of VERA 2015A (Nov 06)
+4. ASIAA Colloquia/Seminars (Oct 13): James Chan (NTU/ASIAA)
+                            (Oct 15): Albert Kong (NTHU)
+                            (Oct 14): Bi-Qing For (Univ of Western Australia)
+
+==============================================================================
+
+> Received: by 10.112.204.34 with HTTP; Sat, 4 Oct 2014 18:05:13 -0700 (PDT)
+> Date: Sun, 5 Oct 2014 09:05:13 +0800
+> Subject: NTHU astronomy colloquium
+> From: Tomo <itlhnis@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Dani Chao <edcamel@gmail.com>
+
+NTHU astronomy colloquium
+Friday - October 17 2014, 2-3pm in R620
+
+Kenneth Wong (ASIAA)
+Discovery of a Strong Lensing Galaxy Embedded in a Cluster at z = 1.62
+
+We identify a strong lensing galaxy in the cluster IRC 0218 that is
+spectroscopically confirmed to be at z=1.62, making it the
+highest-redshift strong lens galaxy known.  The lens is one of the two
+brightest cluster galaxies and lenses a background source galaxy into
+an arc and a counterimage.  With Hubble Space Telescope grism and
+Keck/LRIS spectroscopy, we measure the source redshift to be z=2.26.
+Using HST imaging in ACS/F475W, ACS/F814W, WFC3/F125W, and WFC3/F160W,
+we model the lens mass distribution with an elliptical power-law
+profile and account for the effects of the cluster halo and nearby
+galaxies. The Einstein radius is R_E = 0.38" and the total enclosed
+mass is 1.8x10^11 M_sun.  We estimate that the cluster environment
+contributes ~10% of this total mass.  Assuming a Chabrier IMF, the
+dark matter fraction within R_E is f_DM ~ 0.3, while a Salpeter IMF is
+marginally inconsistent with the enclosed mass (f_DM ~ -0.3).    The
+source has at least one bright compact region offset from the source
+center.  Emission from Lyman alpha and [OIII] are likely to probe
+different regions in the source.  This unique system is one of only a
+handful that allows us to study the mass structure of early-type
+galaxies at z > 1.  Current and future surveys, such as the Hyper
+Suprime-Cam survey, may uncover more of these high-z lens galaxies to
+better understand their physical properties and how they evolve over
+time.
+
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+==============================================================================
+
+> Subject: Call for Proposals : KaVA (KVN+VERA) for 2015A
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Mon, 6 Oct 2014 22:11:52 +0900
+> Cc: =?utf-8?B?7KCV7ZiE7IiY?= <hschung@kasi.re.kr>,
+>        Bong Sohn Won <bwsohn@kasi.re.kr>
+> To: "v-con@kakusan.nict.go.jp" <v-con@kakusan.nict.go.jp>,
+>        "ryunet@alma.mtk.nao.ac.jp" <ryunet@alma-extweb.mtk.nao.ac.jp>,
+>        astro@asiaa.sinica.edu.tw
+
+********************************
+Call for Proposals of KaVA ( KVN and VERA Array )
+Deadline;  November 6, 2014, 08:00 UT.
+*********************************
+
+Dear Colleagues.
+
+We invite proposals for the open use observations of the KaVA, a joint VLBI array
+of the KVN (Korean VLBI Network) and the VERA (VLBI exploration of Radio
+Astrometry). The joint array consists of three 21-m KVN telescopes and
+four 20-m VERA telescopes, with baseline lengths ranging from 300 km to 2300 km.
+
+Same as the last semester, this open-use call will be based on risk-share, and
+provide VLBI observations at 22GHz and 43GHz for astronomers who are affiliated
+to universities or institutes in Korea, Japan, China and Taiwan. 
+We can support astronomers who are not familiar with VLBI technique 
+in the preparation of proposals, scheduling, and data analysis. Proposers from 
+China and/or Taiwan are requested to include at least one collaborator from 
+VERA or KVN. If it is difficult to find the collaborator from VERA or KVN, we can
+support to find them. 
+The contact address for the support is kavaprop (at-mark) kasi.re.kr. 
+
+Observations will be conducted with single polarization (LCP) and 1-Gbps data rate.
+The total available observation time is up to 250 hours and the observations will be
+scheduled between January 15, 2015 and June 15, 2015.
+The maximum observing time per proposal is 48 hours during the observing period. 
+The deadline of submission is November 6, 2014.  More detailed
+information of the KaVA call-for-proposal can be found from
+
+http://kava.kasi.re.kr/contents/proposal_info.php?mid=020101
+
+If you have any questions, please send an email to kavaprop (at-mark) kasi.re.kr
+
+Sincerely,
+
+                        Jongsoo Kim
+                        Director of Radio Astronomy Division, KASI
+                          and
+                        Hideyuki Kobayashi
+                        The acting Director of Mizusawa VLBI Observatory, NAOJ
+
+==============================================================================
+
+> Subject: Call for Proposals of VERA 2015A
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Tue, 7 Oct 2014 09:21:11 +0900
+> To: evntech@jb.man.ac.uk, vlbi@nrao.edu, vlbi@listmgr.cv.nrao.edu,
+>        merlin-announce@jb.man.ac.uk,
+>        "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcements of the call-for-proposals of 
+the VERA for 2015A season.  
+Please distribute this announcement to your community and encourage 
+people to write proposals.  
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+=============================
+
+********************************
+Call for Proposals of VERA
+Deadline;  November 6, 2014, 08:00 UT.
+*********************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.  
+Available observation time is up to 200 hours during the observation period 
+from January 15th, 2015 to June 15th, 2015.
+Although it is limited to VERA array and  a single-beam mode, 
+the 6.7 GHz ( C-band ) is opened on shared-risk basis. 
+
+We encourage the submission of many proposals.
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+                      Hideyuki Kobayashi
+                      The acting Director of Mizusawa VLBI  Observatory of NAOJ
+                          Email;  hideyuki.kobayashi (at-mark) nao.ac.jp
+                          Phone; +81-422-34-3914
+                          Fax;  +81-422-34-3814
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu,  9 Oct 2014 08:00:02 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    James Chan (NTU/ASIAA)
+Topic:         CHITAH: Strong-Gravitational-Lens Hunter in Imaging Surveys
+Time:         10/13 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Albert Kong (NTHU)
+Topic:         Spider-man vs Transformers: Hunting for the missing black widows
+Time:         10/15 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Six years of observations with the Fermi Gamma-ray Space Telescope
+have revolutionized our knowledge of the gamma-ray pulsar population,
+leading to the discovery of over 40 millisecond pulsars (MSPs) by
+combining with deep radio observations. With this growing number of
+gamma-ray emitting MSPs and by combining multi-wavelength observing
+facilities, it is now possible to study their properties as a
+population. In this talk, I will review recent discoveries of
+"transformer" MSPs that switch between low-mass X-ray binaries and
+radio MSPs. I will also discuss how multi-wavelength observations
+reveal a new population of black widow/redback MSPs that provide new
+insights into MSP's emission mechanisms.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Bi-Qing For (Univ. of Western Australia)
+Topic:         The gaseous features of the Magellanic System
+Time:         10/14 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+In this talk, I will present the results of a study of high velocity clouds in the Magellanic Stream and the Leading Arm. The study uses the Galactic All-Sky Survey (GASS) and a newly conducted survey data of the Australia Telescope Compact Array (ATCA). The properties of HVCs in the two regions are compared and contrasted in order to study the different mechanisms shaping their structure and evolution. I will also present new discoveries from the study and report ongoing/future surveys on the Magellanic Clouds with state-of-the-art telescopes.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,113 @@
+> Date: Wed, 11 Feb 2015 09:52:55 +0800
+> From: Shiang-Yu Wang <sywang@asiaa.sinica.edu.tw>
+> Subject: Fwd: Subaru Call for Proposals (S15B)
+
+Dear Yi-Jehng: 
+
+Can you help to post this on TAN? Thanks. 
+
+best 
+Shiang-Yu 
+
+---------- Forwarded message ---------- 
+From: Chie Yoshida <chie.yoshida@nao.ac.jp> 
+Date: Tue, Feb 10, 2015 at 1:06 PM 
+Subject: Subaru Call for Proposals (S15B) 
+To: chie.yoshida@nao.ac.jp 
+
+# This mail is sent to all the previous proposers 
+# and visitors of Subaru Telescope by BCC. 
+
+Dear Colleague, 
+
+This is to announce the opening of Call for Proposals 
+for the Subaru Telescope open use semester S15B 
+from 2015 August 1 through 2016 January 31. 
+
+Detailed Information on the available instruments 
+
+[HSC, HDS, IRCS, Suprime-Cam, FMOS, COMICS, MOIRCS, 
+FOCAS, AO188 (NGS or LGS; usable with IRCS)] 
+
+and the details concerning proposal submission are available 
+at the following website: 
+
+http://www.naoj.org/Observing/Proposals/Submit/call.html 
+
+Please visit this site and read the description carefully 
+before submitting your proposals. 
+
+The deadline for Normal/Intensive Programs is 
+
+<<<March 10 (Tue), 2015, 12:00 (Noon) in JST>>> [e.g., 3.00am in UT], 
+
+while that for the Service program is 4 weeks later than this 
+(April  7 (Tue), 2015, 12:00 (Noon) in JST). 
+
+While only several important points are briefly summarized below, 
+please consult the web page for more detailed information. 
+
+(1) Abstract of Accepted Proposals Going to Be Opened 
+
+The complete text of the abstract of all the accepted Subaru 
+proposals from S15B semester will be open to the public 
+at the same time of the data release (i.e., after the proprietary 
+period of 18 months has expired). 
+
+(2) New Science Category 'Metal-poor stars' 
+
+A new category 'metal-poor stars' has been introduced mainly for 
+proposals intending to observe individual old stars as probes 
+to study chemical evolution (nucleosynthesis history) of our Galaxy 
+or local-group galaxies. 
+
+(3) Use of Hyper Suprime-Cam 
+
+Regarding HSC, there will be 4 observing runs (allocated to dark 
+or dark-gray nights in August, October, November, and January). 
+One narrow band filter (NB816) will be opened from S15B. 
+
+(4) Polarimetry Mode of IRCS+AO188 
+
+In S15B, polarimetry modes of IRCS+AO188 are newly available 
+for imaging (for Y-, J-, H-, and K-bands) as well as spectroscopic 
+observations (for zJH and HK) in a shared-risk operation. 
+IRCS observations will be conducted always in combination with 
+AO188 optics, regardless of the use of AO correction. 
+
+(5) Possibility of Instrument Decommission 
+
+Please keep in mind the possibility that S-Cam and/or FMOS, 
+which are available as usual still in S15B, might be decommissioned 
+and unavailable from S16A. Similar decommissioning is under 
+consideration also for HiCIAO and/or Kyoto3DII (PI instruments). 
+
+(6) MOIRCS Detector Replacement 
+
+Due to the detector replacement work, MOIRCS can not be used 
+in early S15B for about 2 months but expected to be available 
+from 2015 October in a shared-risk mode. 
+
+(7) Application from Keck/Gemini Community 
+
+Non-Japanese PIs who wish to use the Subaru Telescope but have 
+access to Keck or Gemini telescope time should in principle 
+apply through the time-exchange programs provided by Keck or Gemini. 
+
+Best regards, 
+
+Subaru Open Use Team 
+
+# P.S. 
+# 
+# This mailing list, comprising all the previous proposers 
+# and visitors of Subaru Telescope, is only used for special 
+# announcements related to Open Use or Users Meeting. 
+# If you want to have your mail address remove from this list, 
+# or change it to the new address, please fill and edit 
+# the following form appropriately and e-mail it to 
+# 
+# chie.yoshida @ nao.ac.jp (Secretary, Subaru Project Office) 
+# 
+
+===============================================================================

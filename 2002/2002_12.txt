@@ -1,0 +1,247 @@
+From kyl@asiaa.sinica.edu.tw Sun Jan 13 23:17 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id XAA11770
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 13 Jan 2002 23:13:14 +0800 (CST)
+Received: from iaa1 (kyl@iaa1 [140.109.177.7])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id XAA07681
+	for <astro@asiaa.sinica.edu.tw>; Sun, 13 Jan 2002 23:12:53 +0800 (CST)
+Date: Sun, 13 Jan 2002 23:12:53 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Workshop on Infrared Astronomy and Medium-size Telescopes (fwd)
+Message-ID: <Pine.SOL.4.10.10201132312490.8930-100000@iaa1>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7974
+Status: R
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Research Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+Postal Address:				Phone: 886-2-3365-2200 ext 700
+ASIAA, P.O. Box 23-141,			Fax: 886-2-2367-8405
+Taipei 106, Taiwan, ROC                 Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Thu, 10 Jan 2002 13:54:48 +0900
+From: Yao Yongqiang <yqyao@pmo.ac.cn>
+To: Yongqiang Yao <yqyao@pmo.ac.cn>, Hyung-Mok Lee <hmlee@astro.snu.ac.kr>,
+     Lou-Chuang Lee <loulee@sparc1.cc.ncku.edu.tw>,
+     Typhoon Lee <typhoon@asiaa.sinica.edu.tw>, Yan Li <gtsa@public.km.yn.cn>,
+     Jeremy Lim <jlim@asiaa.sinica.edu.tw>,
+     Lupin Lin <lupin@asiaa.sinica.edu.tw>,
+     Hiroshi Kimura <kimurahiroshimb@nifty.com>,
+     K. Y. Lo <kyl@asiaa.sinica.edu.tw>, YueHua Ma <yhma@pmo.ac.cn>,
+     RuiQing Mao <rqmao@jets.pmo.ac.cn>, Yong Key Minn <yminn@khu.ac.kr>,
+     Naomasa Nakai <nakai@nro.nao.ac.jp>, Junichi Noumaru <noumaru@naoj.org>,
+     Nagayoshi Ohashi <ohashi@asiaa.sinica.edu.tw>,
+     Masatoshi Ohishi <masatoshi.ohishi@nao.ac.jp>,
+     Yong-Sun Park <yspark@astro.snu.ac.kr>, Bo Peng <pb@bao.ac.cn>,
+     Tae-Soo Pyo <pyo@subaru.naoj.org>, Shuji Sato <sato@z.phys.nagoya-u.ac.jp>,
+     ShengCai Shi <shengcai@public1.ptt.js.cn>,
+     Han-Tzong Su <htsu@phys.ncku.edu.tw>, Ji Yang <jiyang@pmo.ac.cn>,
+     Chi Yuan <yuan@asiaa.sinica.edu.tw>, Gang Zhao <gzhao@bao.ac.cn>,
+     YongHeng Zhao <yzhao@lamost.org>, Yong-Ik Byun <byun@darksky.yonsei.ac.kr>,
+     Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>,
+     Jiansheng Chen <chen@vega.bac.pku.edu.cn>,
+     Ming-Tang Chen <mchen@asiaa.sinica.edu.tw>,
+     Wen-Ping Chen <wchen@astro.ncu.edu.tw>, Se-Hyung Cho <cho@kao.re.kr>,
+     Minho Choi <minho@asiaa.sinica.edu.tw>,
+     Dean-Yi Chou <chou@phys.nthu.edu.tw>, Hajime Ezawa <ezawa@nro.nao.ac.jp>,
+     Seog-Tae Han <sthan@trao.re.kr>,
+     Hisashi Hirabayashi <hirax@vsop.isas.ac.jp>,
+     Naomi Hirano <hirano@asiaa.sinica.edu.tw>,
+     Seung-Soo Hong <sshong@astroism.snu.ac.kr>,
+     Mareki Honma <honmamr@cc.nao.ac.jp>, Yong Huang <yhuang@cashq.ac.cn>,
+     W-Y. Pauchy Hwang <wyhwang@phys.ntu.edu.tw>, Siek Hyung <hyung@kao.re.kr>,
+     Makoto Inoue <inoue@nro.nao.ac.jp>, Wing-Huen Ip <wingip@astro.ncu.edu.tw>,
+     Dong-Rong Jiang <djiang@center.shao.ac.cn>,
+     ShengZhen Jin <jsz@sst.bao.ac.cn>, Jae-Hoon Jung <jhjung@trao.re.kr>,
+     Norio Kaifu <kaifu@nao.ac.jp>, Ryohei Kawabe <kawabe@nro.nao.ac.jp>,
+     Kang-Min Kim <kmkim@boao.re.kr>, Yi-Jehng Kuan <kuan@asiaa.sinica.edu.tw>,
+     Mikio Kurita <mikio@z.phys.nagoya-u.ac.jp>
+Subject: Workshop on Infrared Astronomy and Medium-size Telescopes
+
+
+*************************************************************
+
+FIRST ANNOUNCEMENT  .... open for registration and call for papers
+
+Infrared Astronomy and Medium-size Telescopes
+
+3-5 March 2002, Beijing, China
+
+*************************************************************
+
+
+Dear Colleague,
+
+An international workshop is being planned on the topic of infrared
+astronomy and medium-size telescopes. Following the significant 
+discussions in the East Asian Meeting of Astronomy 5 (EAMA5) in 
+Taipei, this meeting is aimed at assembling optical and infrared 
+astronomers in our local regions to review scientific motivation 
+and to achieve common recognition for establishing medium-size 
+telescopes in East Asian region. By assembling a group of 
+researchers with diverse observational and theoretical expertise,
+we also hope the meeting will promote realistic cooperation to 
+explore the exciting theme of making the first East-Asian infrared 
+telescope.
+
+The scientific program will be framed by three sessions,
+1) Infrared Astronomy: astrophysical results and highlights based on
+various size telescopes, through extended and in-depth reviews and
+discussions, 2) Medium-size Infrared Telescopes: examples and 
+requests  in optimizing telescope design and infrared instruments, 
+and 3) Astronomical Site Survey: results and plans of monitoring
+astronomical sites.
+
+The meeting will be held in Beijing at the beginning of March, 
+hosted by National Astronomical Observatories (NAOC) and Purple 
+Mountain Observatory (PMO), Chinese Academy of Sciences.
+Registration is now open and this announcement calls for papers.
+All participants are kindly requested to submit e-mail to
+yqyao@pmo.ac.cn, after filling the registration form attached. 
+A summary of the scientific programs and other more information 
+will be sent to pre-registered participants in the second announcement.
+
+Please feel free to disseminate this information to your colleagues.
+
+We look forward to hearing from you.
+
+
+With best regards,
+
+Yongqiang Yao
+
+Purple Mountain Observatory,
+#2 West Beijing Rd., 210008 Nanjing, China
+Telephone:   86-25-3322641
+Fax:         86-25-3313375
+E-mail:      yqyao@pmo.ac.cn
+
+
+------------------------------------------------------------
+
+Infrared Astronomy and Medium-size Telescopes
+
+3-5 March 2002, Beijing, China
+
+------------------------------------------------------------
+
+
+A. Organization
+
+      The Scientific Organizing Committee:
+
+      Gang Zhao, Yan Li, Jiansheng Chen, Guoxiang Ai (NAOC),
+      Jun Yan, Ji Yang (PMO), Shuji Sato(Nagoya Univ.), 
+      Norio Kaifu(NAOJ), Wenping Chen (NCU, Taiwan), 
+      Yong Key Minn (Kyung Hee Univ.)
+
+      The Local Organizing Committee:
+
+      Yongqiang Yao, Yi Xia (PMO), Jinxin Hao, Aiping Zhu (NAOC)
+
+
+B. Structure of the Meeting
+
+      March 3           registration and SOC meeting
+        
+      March 4           I.    Infrared Astronomy
+
+      March 5           II.   Medium-Size Telescopes
+
+                        III.  Astronomical Site Survey
+
+
+C. Meeting Location
+
+    The meeting will be held at the meeting hall of NAOC,
+    20A Datun Road, Chaoyang District, Beijing.
+
+
+D. Travel Information for foreign participants
+
+    It is convenient from Beijing airport to the meeting location, NAOC,
+    by taxi (~80 RMB). The LOC would also arrange receptionist for
+    foreign participants in the case their exact arriving flights have
+    been received.
+
+
+E. Accommodations and Meal
+
+    The LOC will reserve accommodations inside and nearby NAOC for all
+    participants. In principle, the meeting covers the accommodations
+    for invited speakers and foreign participants, and the other 
+    participants pay by themselves.
+
+
+F. Registration Fee and Travel Support
+
+    There is no registration fee for the workshop.
+    We do not have funds to assist in travel expenses.
+
+
+G. Important Dates
+
+   10 January 2002   First Announcement; registration is now open
+   15 February 2002  Deadline for registration and abstract submission
+   20 February 2002  Second Announcement to registered participants
+
+
+H. Contact Information
+
+    Organizer:                Yao, Yongqiang
+    Postal Address:           Purple Mountain Observatory
+                              #2 West Beijing Rd, 210008 Nanjing
+                              China
+    Telephone:                86-25-3322641
+    Fax:                      86-25-3313375
+    Email:                    yqyao@pmo.ac.cn
+
+---------------------------------------------------------------------
+
+
+Please fill out the registration information requested below.
+Concerning the visa requisition, we kindly suggest foreign participants
+to make registration in the earliest convenience.
+
+------------------Registration Information---------------------------
+
+Name:
+
+Institution:
+Address:
+
+E-mail:
+Telephone:
+FAX:
+
+Title:
+Authors:
+Abstract (fewer than 300 words):
+
+
+
+
+For more information contact:
+
+        Yongqiang Yao
+        Purple Mountain Observatory
+        2 West Beijing Rd, 210008 Nanjing, China
+        Telephone: 86-25-3322641
+        Fax:       86-25-3313375
+        Email:     yqyao@pmo.ac.cn
+---------------------------------------------------------------------
+
+
+

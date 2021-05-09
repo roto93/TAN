@@ -1,0 +1,63 @@
+From syliu@asiaa.sinica.edu.tw Fri Nov 26 13:06:38 2004
+Date: Tue, 2 Nov 2004 09:26:17 +0800 (CST)
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+To: Inst. of Astronomy and Astrophysics. <iaa@asiaa.sinica.edu.tw>
+Cc: astro@asiaa.sinica.edu.tw
+Subject: [Colloquium] ASIAA Colloquium This Week (11/05 Friday)
+
+
+  Dear all,
+
+ 	This week, we will have Prof. Takeshi Oka visiting from University
+  of Chicago On Thursday, Prof. Oka will first give a talk titled "The
+  Ubiquitous H3+" at the IAMS. On Friday, he will offer us a colloquium
+  titled
+
+  "Hot and Diffuse Clouds near the Galactic Center Probed by Metastable H3+"
+
+ 	Please mark your calendar and remember to join the talk!
+
+  Regards,
+
+  sheng-yuan
+
+  ------------------------ ASIAA Colloquium ------------------------
+   Speaker : Prof. Takeshi Oka (University of Chicago)
+   Title   : Hot and Diffuse Clouds near the Galactic Center
+                Probed by Metastable H3+
+   Time    : 11/05 (Friday) 2:00 PM
+   Location: ASIAA Room 716
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+   Abstract:
+              It has been well established mainly from the radio
+              observations of CO that the Central Molecular Zone
+              (CMZ) of the Galaxy, a region of radius ~ 200 pc,
+              contains high density (n >= 10^4 cm^-3) molecular
+              gas with a high filling factor of f >=  0.1 and the
+              gas constitutes about one tenth of the total interstellar
+              matter in the Galaxy (Morris and Serabyn 1996). It
+              is also known from the radio spectrum of NH3 that a
+              significant fraction of the gas has  high temperature
+              (~ 200 K) and large velocity dispersion (15 ~ 50 km s^-1).
+              Studies of the gas in the CMZ provide information
+              vital for understanding the turbulent activity in
+              the core of the Galaxy.
+
+              I report our discovery of low density (n <= 10^2 cm^-3)
+              and high temperature (T >= 300 K) gas in the CMZ using
+              the infrared absorption spectrum of H3+ in the
+              (J,K) = (3,3) metastable level. H3+, discovered in
+              interstellar space in 1996 (Geballe and Oka), is a
+              unique astrophysical probe in that it is observed with
+              comparable column densities (~ 10^14 cm^-2) both in
+              dense and diffuse clouds. Since the heavy visual
+              extinction of AV = 25 ~ 40 toward the Galactic center
+              (GC) is caused mainly by diffuse clouds, H3+ is a
+              powerful probe to study sightlines toward the GC.
+              I report our observations using the Subaru Telescope
+              (Goto et al. 2002), the United Kingdom Infrared
+              Telescope, and the Gemini South Telescope of the
+              extremely non-thermal rotational distribution of
+              H3+ and provide observational evidence for the vast
+              amount of hot and diffuse gas in the CMZ based on a
+              recent model calculation (Oka and Epp 2004).

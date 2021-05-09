@@ -1,0 +1,36 @@
+> From: Tomo GOTO <tomo@phys.nthu.edu.tw>
+> Date: Mon, 18 Apr 2016 09:23:57 +0800
+> Subject: NTHU colloquium (4/22)
+> To: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> Cc: astro@asiaa.sinica.edu.tw
+
+2016/04/22 (Fri.)
+14:00~15:00
+General 2nd building R521
+
+Speaker: Yoshiki Toba (ASIAA)
+
+Title:
+Statistical properties of Dust Obscured Galaxies revealed by HSC-SSP
+data with infrared data
+
+Abstract:
+Dust Obscured Galaxies (DOGs) are a subset of high-redshift (z~2)
+optically-faint ultra-luminous infrared galaxies (ULIRGs). Recently,
+some works have reported that the brighter mid-infrared DOGs are more
+AGN-dominated, and indicated that black holes in the IR-bright DOGs
+are expected to show the highest accretion rate during a major merger
+event. In addition, some works reported that IR-bright DOGs tend to
+reside in richer environments than fainter ones, and the most luminous
+DOGs may evolve into brightest cluster galaxies. Therefore,
+particularly IR-bright DOGs are expected to be a crucial population in
+terms not only of the co-evolution of galaxies and supermassive black
+holes (SMBHs) but also of structure formation.
+Combining the early data of the deep and wide optical data from Hyper
+Suprime-Cam (HSC) Subaru Strategic Program (SSP), VIKING DR2 near-IR,
+and WISE (ALLWISE) mid-IR data, we are searching the IR-bright DOGs.
+In this presentation, we will report the statistical properties of
+DOGs such as luminosity function, luminosity density, and clustering
+properties (Toba et al. 2015, 2016 in prep.).
+
+==============================================================================

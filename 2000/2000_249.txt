@@ -1,0 +1,169 @@
+From kyl@asiaa.sinica.edu.tw Sat Nov 18 10:34 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA02669
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sat, 18 Nov 2000 10:33:23 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA21815
+	for <astro@asiaa.sinica.edu.tw>; Sat, 18 Nov 2000 10:36:37 +0800
+Date: Sat, 18 Nov 2000 10:27:11 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: SIRTF Legacy Science Selections (fwd)
+Message-ID: <Pine.SOL.4.10.10011181026480.10937-100000@iaa3>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id KAA02669
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 5687
+Status: R
+
+
+FYI.
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Fri, 17 Nov 2000 18:04:06 -0800
+From: Michael Bicay <mdb@ipac.caltech.edu>
+To: mdb@ipac.caltech.edu, gxn@mop.caltech.edu
+Subject: SIRTF Legacy Science Selections
+
+Dear Friend of SIRTF:
+
+The SIRTF Science Center (SSC) at the California Institute of Technology,
+on behalf of 
+NASA and the SIRTF Project Office at the Jet Propulsion Laboratory,
+announces the 
+selection of projects that will comprise the SIRTF Legacy Science Program.
+Six 
+investigations were chosen following a competitive scientific review held
+at the SSC in 
+October.  These projects will utilize 3160 hours of SIRTF observing time,
+primarily in 
+the first year of the mission, to conduct large and coherent science
+investigations.  The 
+processed data and post-pipeline data products from these projects will
+create substantial 
+databases that will be invaluable for archival research, and in planning
+subsequent 
+programs on SIRTF or on other space-borne, airborne, and ground-based
+observatories.
+
+The selected projects, listed in alphabetical order by the Principal
+Investigator’s last 
+name, are listed below.  Detailed abstracts and complete lists of
+investigators will be 
+posted online in December, after the teams revise their original abstracts
+in response to 
+modifications to their proposed investigation (as necessary).
+
+Ed Churchwell (University of Wisconsin) and 13 Co-Investigators at 6
+institutions
+"The SIRTF Galactic Plane Survey"
+(400 hours)
+A 240 square degree IRAC survey of the inner Galactic plane, extending from
+10 
+to 70 degrees in longitude on either side of the Galactic Center, and from
+-1 to +1 
+degree in latitude.  The primary science goals include studying the
+structure of the 
+inner Galaxy and investigating the statistics and physics of star formation.
+
+Mark Dickinson (Space Telescope Science Institute) and 38 Co-Investigators
+at 13 institutions
+"GOODS: Great Observatories Origins Deep Survey"
+(647 hours)
+A deep 300 square arcmin IRAC and MIPS (24-micron) survey that overlaps deep 
+fields obtained by HST and CXO.  The primary science goals include the
+study of 
+galaxy formation and evolution over a wide range of redshift and cosmic 
+lookback time.
+
+Neal Evans II (University of Texas) and 10 Co-Investigators at 8 institutions
+"From Molecular Clouds to Planets"
+(400 hours)
+Imaging surveys of nearby molecular clouds, with follow-up spectroscopy of 
+young and embedded stellar sources.  The primary science include the study of 
+the evolution of molecular cores into protostars and disks, the incidence
+and early 
+evolution of sub-stellar objects, and the spatial structure of groups and 
+clusters.
+
+Robert Kennicutt (University of Arizona) and 14 Co-Investigators at 7
+institutions
+"SINGS: The SIRTF Nearby Galaxies Survey -- Physics of the Star-Forming ISM 
+and Galaxy Evolution" 
+(512 hours)
+A comprehensive imaging and spectroscopic survey of 75 nearby galaxies in 
+order to characterize their large-scale infrared properties.  The primary
+science 
+goals are to understand the physical processes connecting star formation to
+the 
+ISM and to provide diagnostic templates for interpreting observations of
+objects 
+in the distant universe.
+
+Carol Lonsdale (Infrared Processing and Analysis Center, Caltech) 
+and 19 Co-Investigators at 9 institutions
+"SWIRE: The SIRTF Wide-area Infrared Extragalactic Survey"
+(851 hours)
+Wide-area, high-latitude imaging surveys of up to 100 square degrees,
+reaching to 
+cosmological redshifts of ~2.5.  The primary science goals include the
+evolution 
+of dusty, star-forming galaxies, evolved stellar populations and AGN as a 
+function of environment.  The resultant catalogs will include more than 2
+million 
+infrared-selected galaxies.
+
+Michael Meyer (University of Arizona) and 18 Co-Investigators at 12
+institutions
+"The Formation and Evolution of Planetary Systems: Placing Our Solar System 
+in Context"
+(350 hours)
+An imaging and spectroscopic survey of hundreds of young stars with accretion 
+disks, ranging in age from a few million years to one billion years.  The
+primary 
+science goal is to trace the evolution of planetary systems from stellar
+accretion 
+through the coalescence of solids and accretion of remnant molecular gas,
+and on 
+through the planetary debris disk phase.
+
+
+The Legacy Science TAC Chair, in formally recommending the projects to the
+SSC Director, offered this statement:
+"Taken together, the projects we recommend represent an exciting use of
+NASA’s next major astrophysical observatory.  Each of the projects will
+yield the superb science that we expect of a major investment of time in a
+NASA Great Observatory.  A hallmark of each of these projects is that they
+fully exploit the unique and special capabilities of SIRTF that make it a
+major NASA mission and the highest priority space project of the 1991
+National Academy of Sciences Decade Review."
+
+
+
+============================================
+Michael D. Bicay (SIRTF Science Center/IPAC)
+--------------------------------------------
+California Institute of Technology
+IPAC 100-22
+770 South Wilson Avenue
+Pasadena, CA   91125
+PHONE: 626.397.9506   FAX: 626.397.7181
+--------------------------------------------
+mdb@ipac.caltech.edu
+============================================
+
+

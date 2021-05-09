@@ -1,0 +1,192 @@
+Date: Fri, 24 Aug 2012 20:55:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Aug 15 - 24, 2012)
+
+============================================================================== 
+
+In this issue (Aug 15 - 24, 2012)
+
+1. Arizona Radio Observatory - Call for Proposals: Fall 2012 (Sep 19, 2012)
+2. ASIAA Colloquia (Aug 24): Yi-Nan Chin (TKU)
+                  (Aug 23): Kevin Walsh (Southwest Research Inst.)
+3. Kyoto EANAM (application deadline Aug 31)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Fall 2012)
+------------------------------------------------------------
+Dear Astronomers in Taiwan,
+
+Proposals are being solicited, from members of the University Consortium of
+ALMA-Taiwan and ASIAA, for observing time for the period October 1, 2012 - 
+February 1, 2013, at the Arizona Radio Observatory, for the Sub-Millimeter
+Telescope (SMT) and the Kitt Peak 12 Meter (KP12M). The proposal deadline of
+UCAT/ASIAA for this 2012 fall semester is set on September 19, 2012 (Wednesday).
+
+The SMT currently supports a dual-polarization, 1 mm receiver with ALMA Band-6
+sideband-separating mixers, a dual-polarization 0.8 mm receiver, and a 0.4 mm
+(602-720 GHz) dual-polarization receiver with ALMA Band-9 mixers. The SMT
+control system has been updated to allow for dual polarization, dual sideband
+observations (so-called "4 IF mode"). The KP12M supports a dual-polarization
+3 mm receivers (82-116 GHz) that employs ALMA Band-3 sideboard-separating
+mixers, as well as dual polarization, single sideband receivers for the lower
+part of the 3 mm window (65-86 GHz) and at 2 mm (130-180 GHz). Remote observing
+is available at both ARO telescopes. Please refer to http://aro.as.arizona.edu/
+for more details.
+
+Information about Remote Observing can be viewed at:
+http://aro.as.arizona.edu/remote/remote.htm .
+For further information about remote observing and other operational questions,
+please contact Tom Folkers, Operations Manager: tfolkers@email.arizona.edu
+
+Proposals should consist of:
+1. A proposal Cover Sheet, obtainable at http://aro.as.arizona.edu/proposals.
+2. A brief scientific and technical justification (no more than 2 pages).
+3. A source list with observing time requirements and justification, and/or
+  tables, figures and references (no more than 1 page in total).
+4. provide the IP number of the computer you will be using during your observing
+  time.
+
+Please pay special attention to the "Sun avoidance" issue of your proposed
+observations. The SMT will not be pointed to within 42 degrees of the Sun, and
+the KP12M, 15 degrees.
+
+Electronic submissions will be accepted in PDF format only. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. Please submit your proposals by midnight (23:59 pm CST) September 19,
+2012 to: kuan AT asiaa.sinica.edu.tw .
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================
+
+> Date: Sun, 19 Aug 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Yi-Nan Chin (TKU)
+Topic:        A brief history of the Chinese astronomy
+Time:        8/24 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Kevin Walsh (Southwest Research Institute)
+Topic:        The Grand Tack: Jupiter's migration to 1.5 AU, and how it shaped the inner solar system
+Time:        8/23 (Thursday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+A persistent difficulty in terrestrial planet formation models is creating Mars analogs with the appropriate mass: Mars is typically an order of magnitude too large in simulations. A recent work found that a small Mars can be created if the planetesimal disk from which the planets form has an outermost edge at 1.0 AU. However, this work and no previous work, can explain such a truncation of the planetesimal disk and preserve the asteroid belt.  We show that gas-driven migration of Jupiter inward to 1.5 AU, before its subsequent outward migration, can truncate the disk and repopulate the asteroid belt. This dramatic migration history of Jupiter suggests that the dynamical behaviour of our giant planets was more similar to that inferred for extra-solar planets than previously thought, as both have been characterized by substantial radial migration.
+
+==============================================================================
+
+> Date: Tue, 21 Aug 2012 11:24:52 +0800
+> From: Pin-Gao Gu <gu@asiaa.sinica.edu.tw>
+> To: <iaa@asiaa.sinica.edu.tw>, <astro@asiaa.sinica.edu.tw>,
+>        <ntu_astro@asiaa.sinica.edu.tw>
+> Subject: Fwd: Kyoto EANAM application deadline Aug. 31
+
+
+Dear colleagues, 
+
+It is to remind you that the deadline for 5th
+EANAM (East Asian Numerical Astrophysics Meeting) is just around the
+corner. Below are the details. Please register on time if you are
+interested. If you remember, the biennial meeting was held in Taiwan
+last time. This time the host is Japan. 
+
+Thanks for your attention,
+
+
+Pin-Gao Gu 
+
+-------- Original Message -------- 
+
+        SUBJECT:
+        Kyoto
+EANAM application deadline Aug. 31
+
+        DATE:
+        Tue, 21 Aug 2012 09:09:47
++0900
+
+        FROM:
+        Tomoyuki Hanawa 
+
+        TO:
+        EANAM SOC 
+
+        REPLY-TO:
+
+        hanawa@cfs.chiba-u.ac.jp
+
+Dear colleagues,
+
+The deadline for EANAM
+5th (Kyoto, Oct. 29-Nov.2) is approaching.
+I would appreciate it if you
+could remind your colleagues of the
+deadline, AUGUST 31st.
+
+You can
+find the web page for the registration at
+
+
+http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/ [1]
+
+The deadline is
+for hotel accomodation, finanicial support and visa
+as well as for
+contributed papers. Although LOC has hotel rooms
+available at this
+moment, they will be released in early September
+if we have vacancy. We
+will offer the rooms on a first-come-first
+-served basis.
+
+As you know,
+we have much time for contributed talks. If you find
+good works by
+nearby young posdocs and stundets, please encourage them
+to
+apply.
+
+Yours,
+Tomoyuki
+
+  
+
+Links:
+------
+[1]
+http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

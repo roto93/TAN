@@ -1,0 +1,173 @@
+Date: Sat, 10 Nov 2012 01:04:57 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Nov 05 - 09, 2012)
+
+============================================================================== 
+
+In this issue (Nov 05 - 09, 2012)
+
+1. Job opening: Subaru Telescope Project Research Fellow
+2. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Colloquium (Nov 13): Yoshihiro Iwasa
+                                                        (Univ. of Tokyo)
+3. NTHU Astronomy Colloquium (Nov 16): Paul Ricker (Univ of Illinois)
+
+==============================================================================
+
+> Date: Mon, 5 Nov 2012 08:36:43 -1000  
+> From: Nagayoshi Ohashi <ohashi@asiaa.sinica.edu.tw>      
+> Subject: job ad for TAN
+
+Hi Yi-Jehng,
+
+Would you please post the following message at TAN?
+
+Thanks,
+Nagayoshi
+
+------------------------------------------
+Subaru Telescope Project Research Fellow
+
+
+Subaru Telescope, National Astronomical Observatory of Japan (NAOJ) is 
+inviting applications for the position of project research fellow.
+Subaru Telescope, NAOJ operates the Subaru telescope for open use observations
+and is also active in the research and development for its future systemm. 
+We are seeking a few Project Research Fellows who can actively pursue
+observational research and/or instrumental development using the Subaru
+telescope. 
+Project Research Fellow is a full-time position (38h45min working hours/week)
+employed under the scheme of the annual salary system of National Institutes
+of Natural Sciences (NINS).
+
+For more details, please visit: http://jobregister.aas.org/job_view?JobID=43472
+
+==============================================================================
+
+> Date: Wed, 07 Nov 2012 10:00:45 +0800
+> From: f95222027@ntu.edu.tw
+> To: =?big5?b?qkyozr9Q?= Chia-Yen Lin <swallow@phys.ntu.edu.tw>,
+>        astro@asiaa.sinica.edu.tw, Yen-Ling Anne Lee
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, November 13
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium
+which will be held on November 13.
+The Joint Colloquium Series is organized by
+the NTU Physics Department, Center for Condensed Matter Science (CCMS),
+Leung Center for Cosmology and Particle Astrophysics (LeCosPA),
+Academia Sinica Institute of Astronomy and Astrophysics (ASIAA),
+and the Institute of Atomic and Molecular Sciences (IAMS).
+The idea is to have excellent speakers to give inspiring, informative,
+but non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on November 13.
+
+Best regards,
+
+Pisin Chen (LeCosPA)
+Ting-Wai Chiu (NTU-Phys)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Michihiro Takami (ASIAA)
+
+
+-------------------------------------------------------------------------------
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+Speaker: Prof. Yoshihiro Iwasa(岩佐 義宏 教授)
+        (QPEC & Department of Applied Physics, University of Tokyo, Japan.)
+        (Correlated Electron Research Group, RIKEN, Japan)
+Topic: Emergent Iontronics
+Time: 11/13 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCMS-New Physics Building
+
+Brief Bio. :
+University Education
+  Ph.D.: 1986, University of Tokyo
+Professional Career
+  1986-1991: Research Associate, University of Tokyo
+  1991-1994: Lecturer, University of Tokyo
+  1993-1994: Visiting Researcher, AT &T Bell Laboratories
+  1994-2001: Associate Professor, Japan Advanced Institute of Science  
+and Technology (JAIST)
+  2001-2010: Professor, Tohoku University
+  2010-    : Professor, University of Tokyo
+  2010-    : Team Leader, RIKEN
+
+
+Abstract :
+    In your mobile phones, there are two kinds of important devices,  
+billions of transistors and a battery. The transistor controls  
+electron flow in a semiconductor to enable processing and storage of  
+information, while the latter stores electrochemical energy for  
+driving the former. In the latest decade, devices with combined  
+concepts of transistors and batteries, electrochemical transistors,  
+are receiving increasing interests, because they can offer new  
+opportunities beyond conventional current switching functions of all  
+solid transistors.
+    One of surprises comes from a simple replacement of solid gate  
+dielectrics in field effect transistors (FETs) with electrolytes,  
+which produces an innovative concept of field effect phase control in  
+a variety of materials, including superconductors, ferromagnets, Mott  
+insulators, and even metals. Current status of emergent “iontronics”,  
+electronics based on ionic functions, will be reviewed.
+------------------------------------------------------------------------------
+
+==============================================================================
+
+> Date: Fri, 9 Nov 2012 18:52:11 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+#############################################
+                    NTHU
+            Astronomy Colloquium
+#############################################
+
+      2:20 p.m. 16 Nov. 2012 (Friday)
+      NTHU Physics Building, Rm620
+
+  Speaker: Prof. Paul Ricker
+            (University of Illinois, U.S.A.)
+
+  Title: Magnetizing the Intracluster Medium
+          with AGN Feedback
+
+  Tea/Discussion Time is followed in the same room.
+
+                    All Welcome !!
+
+ABSTRACT:
+Galaxy clusters have been shown using Faraday rotation of background
+radio sources to possess clusterwide magnetic fields of order 1-10
+microGauss. These fields can have a variety of important effects on
+diffusive transport processes in the intracluster medium, and they help
+to accelerate nonthermal electrons that produce observable diffuse radio
+emission. However, while plasma mechanisms operating during structure
+formation readily produce very weak seed fields, how microGauss fields
+come to exist throughout cluster-size volumes is not clear. Magnetized
+feedback by the active galaxies known to exist at the centers of many
+clusters has been suggested as a possible field amplification and
+distribution mechanism. I will address this model using
+magnetohydrodynamic simulations of AGN feedback in clusters.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

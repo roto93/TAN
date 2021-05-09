@@ -1,0 +1,99 @@
+==============================================================================
+
+Date: Fri, 18 Dec 2020 07:55:14 +0800
+Subject: ALMA Cycle 8 2021 Pre-Announcement
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+    The ALMA Cycle 8 2021 Pre-announcement has been released.=20
+
+    Following the postponement of Cycle 8 because of the COVID-19 =
+pandemic, the Joint ALMA Observatory (JAO) will now start the next cycle =
+of observations, referred to as "Cycle 8 2021", in October 2021. A Call =
+for Proposals (CfP) with detailed information on Cycle 8 2021 is =
+anticipated to be issued in March 2021 and the deadline for proposal =
+submission will be in April 2021.  The purpose of this pre-announcement =
+is to highlight aspects of the CfP to assist with early planning, and it =
+includes newly updated information over the previous pre-announcement =
+delivered for Cycle 8 in December 2019.  As the global response to the =
+pandemic continues to evolve, we encourage interested parties to follow =
+the ALMA Science Portal for the latest information.
+
+The key dates (anticipated) for Cycle 8 2021 are:    =09
+        17 December 2020        Cycle 8 2021 =
+pre-announcement
+        17 March 2021            Release of the ALMA =
+Cycle 8 2021 CfP and Observing Tool, and opening of archive for proposal =
+submission
+        21 April 2021            Proposal submission =
+deadline
+        August 2021            Results of the proposal =
+review sent to proposers
+        8 September 2021        ACA Supplemental Call =
+for Proposals released, and opening of archive for proposal submission
+        1 October 2021            Start of Cycle 8 2021 =
+observations
+        6 October 2021            Cycle 8 2021 =
+Supplemental Call deadline
+
+Updates to the Proposal Review Process=20
+    =E2=80=A2 ALMA will adopt a distributed peer review process for =
+scientific review of most proposals submitted to Cycle 8 2021. After a =
+successful pilot run in the Cycle 7 Supplemental Call (see ALMA Memo =
+616), distributed peer review will be used for all proposals requesting =
+less than 25 hours on the 12-m Array, and ACA stand-alone proposals =
+requesting less than 150 hours on the 7-m Array. In this review system, =
+for each submitted proposal the PI (or one of the delegated co-Is) will =
+be responsible for reviewing up to 10 other submitted proposals, thus =
+increasing the involvement of the ALMA community in the review process.
+    =E2=80=A2 Large proposals and proposals requesting more than 25 =
+hours on the 12-m Array will be reviewed by science review panels, as in =
+previous cycles.=20
+    =E2=80=A2 ALMA encourages PIs to submit larger, more ambitious =
+proposals. Therefore, there is no longer a cap on the total time that =
+can be allocated to Large Programs. Further, Large Programs andproposals =
+that require more than 25 hours on the 12-m Array will have first =
+priority to fill at least 10% of the observing queue. =20
+    =E2=80=A2 All Cycle 8 2021 proposals will be reviewed using a =
+dual anonymous procedure.  While proposers will still enter their names =
+and affiliations in the Observing Tool, their identities will be =
+concealed from the reviewers.  It will be the responsibility of the =
+investigators to write their proposals such that anonymity is preserved. =
+ By using this procedure, we aim to minimize unconscious bias.  =
+Guidelines on preparing anonymous proposals will be made available prior =
+to the time of the CfP.
+
+    A FAQ on the proposal process is available here =
+https://almascience.nao.ac.jp/images/frequently-asked-questions.
+
+New in Cycle 8 2021    =E2=80=94 The following technical capabilities =
+will be available this Cycle for the first time:
+    =E2=80=A2 Solar observations in Band 5
+    =E2=80=A2 A passive-phasing mode that allows observations of =
+fainter VLBI targets (Bands 3 and 6), and can also be used in an =
+ALMA-only mode primarily for observations of pulsars (Band 3). This mode =
+can be used to observe sources with a correlated flux density < 500 mJy =
+within an unresolved core on ALMA baselines up to 1 km, but requires =
+there to be a bright calibrator close to the science target.
+    =E2=80=A2 High frequency observations (Bands 9 and 10) with the =
+stand-alone 7-m Array
+    =E2=80=A2 Mosaicking of continuum linear polarization =
+observations (Bands 3 to 7) with the 12-m Array
+    =E2=80=A2 Spectral scans with the 7-m Array
+    =E2=80=A2 Up to a total of 75 hours of full polarization =
+observations of a single field with the 7-m Array in stand-alone mode at =
+the Main Call only
+
+
+    For more information, please see =
+https://almascience.nao.ac.jp/news/alma-cycle-8-2021-pre-announcement =
+<https://almascience.nao.ac.jp/news/alma-cycle-8-2021-pre-announcement>
+
+best,
+Yu-Nung=
+
+==============================================================================

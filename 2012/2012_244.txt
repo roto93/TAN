@@ -1,0 +1,259 @@
+Date: Thu, 20 Dec 2012 00:05:28 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN Issue (Dec 13 - 19, 2012)
+
+============================================================================== 
+
+In this issue (Dec 13 - 19, 2012)
+
+1. ALMA Imaging Workshop 2013 (AIW2013; Jan 22-24): registration deadline Jan 14
+2. ASIAA Colloquia (Dec 21): Rainer Spurzem (NAOC & Univ. of Heidelberg)
+                  (Dec 17): Ryosuke Asano (Nagoya Univ)
+3. NTHU Astronomy Colloquium (Dec 21): An-Li Tsai (NCU)
+4. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Colloq (Dec 25): Martin Green (NIST,USA)
+
+==============================================================================
+
+_________________________________________________________
+
+tuCASA - ASIAA
+ALMA Imaging Workshop 2013 (AIW2013)
+
+2013 January 22 - 24 (Tuesday - Thursday)
+URL: http://www.es.ntnu.edu.tw/tuCASA/AIW2013/ 
+_________________________________________________________
+
+
+Announcement:
+
+We are pleased to announce a 3-day workshop, the ALMA Imaging Workshop 2013
+(AIW2013), to be held jointly by the UCAT Center for ALMA Science Advancement
+(tuCASA) of the University Consortium of ALMA-Taiwan (UCAT) and the ALMA
+Regional Center (Taiwan-ARC) of ASIAA for potential ALMA users in Taiwan.
+
+    AIW2013 is designed for serious ALMA users who are committed to work on
+ALMA data, have specific target sources and well-defined science goals in mind.
+AIW2013 is aimed mainly for graduate students, postdocs and faculty members.
+The data to be used for the workshop are Science Verification (SV) data and/or
+the 1-year proprietary-period expired, open data of Cycle-0 high-priority
+projects. Participants are required to have the self-selected datasets readily
+downloaded prior to the time of the workshop; the available data can be found
+at http://alma.asiaa.sinica.edu.tw/twarc_tutorials_6th.php . The format of the
+workshop will be lectures in the morning and hand-on exercise with the specific
+participant-selected ALMA datasets in the afternoon basically. The AIW2013
+program includes:
+
+    * ALMA project progress, and Science using ALMA data
+    * Imaging concepts (uv-coverage, weighting, cleaning [continuum/line])
+    * Data Analysis (I): viewer, im/spec fittings, channel maps, pv diagrams
+    * Data Analysis (II):  moment maps, FITS export/import
+    * Hands-on exercise (I): data inspection (listobs, plotms)
+    * Hands-on exercise (II): Imaging (continuum subtraction, clean, viewer)
+
+The detailed program can be found at
+http://www.es.ntnu.edu.tw/tuCASA/AIW2013/program.pdf 
+the preparation page for the workshop, including the SV and Cycle-0 open data,
+is available at
+http://alma.asiaa.sinica.edu.tw/twarc_tutorials_6th.php 
+
+
+Date and Venue:
+
+2013 January 22 (Tuesday)
+-- Rm S101, Teaching & Research Bldg. (教學研究大樓), NTNU Science Campus (師大分部)
+
+2013 January 23 - 24 (Wednesday - Thursday)
+-- Rm 1107, ASIAA, NTU main campus
+
+
+Registration:
+
+On-line registration is available at:
+http://www.asroc.org.tw/ALMAwksp2013/registration.php 
+Registration is free of charge. The registration deadline is at 12 noon on
+January 14 (Mon), 2013.
+
+
+Inquiry:
+
+For more information, please contact Ms. Pei-Ju Liu (劉姵汝小姐) at peijuliu@ntnu.edu.tw
+
+==============================================================================
+
+> Date: Sun, 16 Dec 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Rainer Spurzem (NAOC and Univ. of Heidelberg)
+Topic:        TBA
+Time:        12/21 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Ryosuke Asano (Nagoya University)
+Topic:        Evolution of grain size distribution in galaxies
+Time:        12/17 (Monday) 15:30 - 16:30
+Place:        R1203
+Abstract:
+Dust in galaxies affects the various evolutionary properties of
+galaxies, like star
+formation and spectral energy distribution (SED) of galaxies, etc.
+Furthermore, these
+effects depend strongly on the grain size distribution in galaxies as
+well as the amount of dust.
+Both the total dust mass and the grain size distribution in galaxies are
+affected by various processes.
+These processes occur in galaxies ubiquitously, and they depend strongly
+on the metallicity,
+the size distribution of grains. Hence, it is crucial to consider all
+dust processes in a unified framework
+to understand the evolution of the evolution of the total dust mass and
+the grain size distribution in galaxies.
+We construct a dust evolution model taking into account the grain size
+distribution and investigate the evolution of the distribution in
+galaxies. We consider three processes as follows: (1) dust destruction
+by supernova (SN)
+shocks, (2) metal accretion onto the grain surface in the interstellar
+medium (ISM)
+(3) grain-grain collisions in turbulence (shattering and coagulation).
+In this talk, I will introduce our dust evolution model, show the
+evolution of grain size distribution obtained by our model, and discuss
+what process is the dominant source of the grain size distribution at
+every stage of galaxy evolution.
+
+==============================================================================
+
+> Date: Mon, 17 Dec 2012 18:21:30 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium 
+
+#############################################
+                    NTHU
+            Astronomy Colloquium
+#############################################
+
+      2:20 p.m. 21st Dec. 2012 (Friday)
+        NTHU Physics Building, Rm620
+
+      Speaker: Dr. An-Li Tsai
+                (NCU)
+
+    Title: To Constrain the SED Type of
+            Unidentified Fermi Objects
+
+Tea/Discussion Time is followed in the same room.
+
+                All Welcome !!
+
+==============================================================================
+
+> Date: Wed, 19 Dec 2012 07:59:05 +0800
+> From: f95222027@ntu.edu.tw
+> To: astro@asiaa.sinica.edu.tw, Yen-Ling Anne Lee <ntulecospa@ntu.edu.tw>,
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, December 25
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium
+which will be held on December 25.
+The Joint Colloquium Series is organized by
+the NTU Physics Department, Center for Condensed Matter Science (CCMS),
+Leung Center for Cosmology and Particle Astrophysics (LeCosPA),
+Academia Sinica Institute of Astronomy and Astrophysics (ASIAA),
+and the Institute of Atomic and Molecular Sciences (IAMS).
+The idea is to have excellent speakers to give inspiring, informative,
+but non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on December 25.
+
+Best regards,
+
+Pisin Chen (LeCosPA)
+Ting-Wai Chiu (NTU-Phys)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Michihiro Takami (ASIAA)
+
+
+-------------------------------------------------------------------------------
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+Speaker: Prof. Martin L. Green
+        ( Group Leader, Functional Properties Group, Materials  
+Measurement Laboratory,
+          National Institute of Standards and Technology (NIST), USA )
+Topic: Materials for Sustainable Development.
+Time : 12/25 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCMS-New Physics Building
+
+Brief Bio. :
+  Professor Martin L. Green is the leader of the Functional  
+Properties Group of the Materials Measurement Laboratory at the  
+National Institute of Standards and Technology (NIST). His group  
+incorporates experimental as well as computational approaches for  
+understanding the fundamental properties of functional materials. He  
+has B.S. and M.S. degrees in Metallurgy from the Polytechnic Institute  
+of Brooklyn, and a Ph.D. in Materials Science from M.I.T. Dr. Green  
+served as president of the Materials Research Society (MRS) in 2001,  
+and is an MRS Fellow.
+
+
+Abstract :
+  Every human endeavor should be informed by sustainable development,  
+because none of our material resources are infinite and only a few  
+sources of energy are sustainable. The most common definition of  
+sustainable development comes from the 1987 Brundtland report, “Our  
+Common Future”, and states that “Sustainable development is  
+development that meets the needs of the present without compromising  
+the ability of future generations to meet their own needs.” However,  
+this is not a scientific definition, and essentially refers to  
+economic development.  Further, it requires that we know, or at least  
+accurately estimate, what the needs of future generations will be. In  
+this talk I will address the meaning and definition of sustainable  
+development, and explore the space at its intersection with materials  
+science. Materials have always served the role of technology enablers,  
+and will continue to do so for sustainable development.  The immediate  
+and direct connections between sustainable development and materials  
+science include efficient use of materials (conservation,  
+substitution, reuse, repurposing, recycling), materials life cycle  
+assessment, replacement materials (scarcity, resource availability,  
+materials flow analysis and economics), energy (materials to support  
+alternative energy technologies, to mitigate problems with fossil-fuel  
+technologies, and to increase energy efficiency), mitigation of  
+undesirable impacts on environment and human health from technology  
+and economic growth (corrosion, pollution, toxic waste), and water  
+purification. I will also highlight a few examples of materials for  
+sustainable development in research programs at NIST and elsewhere,  
+such as materials for carbon capture, thermoelectric devices, and  
+standards for bio-derived products.
+-------------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

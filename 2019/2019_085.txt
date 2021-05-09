@@ -1,0 +1,40 @@
+
+> Date: Thu, 23 May 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Albert Zijlstra (Jodrell Bank Centre for Astrophysics, University of Manchester)
+Topic:          TBA
+Time:           5/29 (Wednesday) 14:20 - 15:20
+Place:           R1203
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Howard Yee (University of Toronto)
+Topic:          H-alpha Imaging Spectroscopy of Cluster Galaxies Using SITELLE
+Time:           5/30 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+SITELLE is an 11'x11' field-of-view imaging Fourier transform spectrograph
+(iFTS) on CFHT. I will briefly describe the history of iFTS and the
+capability of this new, unique, IFU-like instrument.  We have started
+a program to use SITELLE to study the H-alpha emission in star-forming
+galaxies in a sample of z~0.25 galaxy clusters. I will describe the
+current data on two clusters, Abell 2390 and Abell 2465, and the
+pipeline we developed to generate complete samples of cluster emission-line
+galaxies (ELGs). I will present some initial results from the data, in
+particular, the alignment of the difference vectors between emission-line 
+and continuum light with the cluster center, a signature of ram pressure
+in operation; and the strong emission region in the core of the Brightest
+Cluster Galaxy in Abell 2390.   I will end with a discussion of the 
+prospect of using SITELLE for large surveys of emission-line galaxies, 
+such as the survey for Lyman-alpha galaxies at z ~ 3 to 6.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

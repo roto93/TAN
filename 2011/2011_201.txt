@@ -1,0 +1,279 @@
+From chienfuliu@gmail.com  Thu Dec  1 00:23:54 2011
+Return-Path: <chienfuliu@gmail.com>
+X-Spam-Flag: NO
+X-Spam-Status: No, score=-3.6 required=6.2 tests=ASIAA_SIGNATURE2,
+	ASIAA_SIGNATUREA,ASIAA_SIGNATUREB,AWL,DKIM_SIGNED,DKIM_VALID,DKIM_VALID_AU,
+	FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_LOW,SPF_PASS,TO_LIST_IAA
+	autolearn=ham version=3.3.1
+X-Spam-Level: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on asiaa.sinica.edu.tw
+Received: from mail-gx0-f180.google.com (mail-gx0-f180.google.com [209.85.161.180])
+	by asiaa.sinica.edu.tw (8.13.8/8.13.8) with ESMTP id pAUGNeir025123;
+	Thu, 1 Dec 2011 00:23:41 +0800
+Received: by ggnq1 with SMTP id q1so1189615ggn.39
+        for <multiple recipients>; Wed, 30 Nov 2011 08:23:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=7+Ftn4eZf0TTbdB06PYdl9OdzGV+o+U6dcEnaLfpH9k=;
+        b=iaon7NRNeMdbaKErLJLBo4157nvH8QLXo4kGR/tnAolCxen1rUIO4SyKRhAQWFzOju
+         WFG63OjnARxpeUiwKpNavPlu/MP/mDqAveO5zBRu8KE68L4TrLPytVmTxMqDn7Z3Tr7e
+         TAjz4rt/iFT2261v08aW8Mg5T2Cj/Nzfu4nL0=
+MIME-Version: 1.0
+Received: by 10.50.158.227 with SMTP id wx3mr3246166igb.52.1322670219651; Wed,
+ 30 Nov 2011 08:23:39 -0800 (PST)
+Received: by 10.231.11.4 with HTTP; Wed, 30 Nov 2011 08:23:39 -0800 (PST)
+Date: Thu, 1 Dec 2011 00:23:39 +0800
+Message-ID: <CALwW2DsXnA5TbO=6wLpSQCgcUO4Tmva4KJ1zd3dnkfdt6stmFQ@mail.gmail.com>
+Subject: ASIAA/CCMS/IAMS/NTU-Physics Joint Colloquium, December 6
+From: Chien-Fu Liu <chienfuliu@gmail.com>
+To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+        ithuang@phys.sinica.edu.tw, mathas@math.sinica.edu.tw,
+        whchen@gate.sinica.edu.tw, tofaculty@phys.ntu.edu.tw,
+        demihuang@ms.ntu-ccms.ntu.edu.tw, iaa@asiaa.sinica.edu.tw,
+        astro@asiaa.sinica.edu.tw, Chih-Wei Chang <cwchang137@ntu.edu.tw>,
+        Jiunn-Wei Chen <jwc@phys.ntu.edu.tw>,
+        Jer-Lai Kuo <jlkuo@pub.iams.sinica.edu.tw>,
+        Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+Content-Type: multipart/alternative; boundary=14dae9340b7f98ea3c04b2f62866
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.6 (asiaa.sinica.edu.tw [140.109.177.5]); Thu, 01 Dec 2011 00:23:47 +0800 (CST)
+X-Virus-Scanned: by amavisd-new
+Status: RO
+
+--14dae9340b7f98ea3c04b2f62866
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Colleagues,
+
+The NTU Physics Department, Center for Condensed Matter Science, Institute
+of Atomic and Molecular Sciences, and the Academia Sinica Institute of
+Astronomy and Astrophysics invite everyone to our joint colloquium series.
+The speakers are all famous international scholars and the colloquia are
+aiming at a broad audience, including undergraduate students. Below is the
+information of the talk on December 6(Tuesday). Please help to forward this
+to the colleagues in your departments.
+
+Best Regards,
+Chih-Wei Chang (CCMS)
+Jiunn-Wei Chen (NTU Physics)
+Jer-Lai Kuo (IAMS)
+Wei-Hao Wang (ASIAA)
+
+_______________________________________________________
+Speaker: Che-Ting Chan
+ Topic: Invisibility: fact or fiction?
+Time: 12/06 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCM-New Physics Building
+
+Abstract: Can we make objects invisible? Invisibility has obsessed
+humankind for centuries and it is only very recently that researchers have
+shown that cloaking is not just fiction: it can be realized in principle
+through the development of new artificial materials called metamaterials
+and a new mathematical method called transformation optics. In this talk, I
+will review a few different strategies to realize invisibility and related
+notions. I will show that invisibility can be realized by (i) a special
+type of coating which can guide waves around an object, (ii) metamaterials
+that can cancel the scattering of other objects, (iii) resonance effect
+that can suppress optical excitation, (iv) a zero-refractive index medium
+if special boundary conditions are satisfied, and (v) using active sources
+to create a quiet zone. The limitations of these each of these approaches
+will be discussed.
+
+Brief Bio: C.T. Chan received his B. Sc. degree from the University of Hong
+Kong in 1980 and his PhD degree from the University of California at
+Berkeley in 1985.  He is currently a Chair Professor of Physics at HKUST,
+and the director of William Mong Institute of Nano Science and Technology.
+He has been elected a Fellow of the American Physical Society since 1996.
+His primary research interest is the simulation and understanding of
+material properties. He is now working on the theory a variety of advanced
+materials, including photonic crystals, metamaterials and nano-materials.
+He has over 200 publications and ~14,000 citations.
+
+For more information please see:
+http://web.phys.ntu.edu.tw/jwc/2011_Fall_colloq
+uia/Joint%20colloquia%20fall.html
+
+--14dae9340b7f98ea3c04b2f62866
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"border-collapse:collapse;font-family:arial,sans-serif"><font =
+style=3D"border-collapse:collapse;font-family:arial,sans-serif;font-size:13=
+px" face=3D"arial, sans-serif">Dear Colleagues,</font><br>
+<br>
+<font style=3D"border-collapse:collapse;font-family:arial,sans-serif;font-s=
+ize:13px" face=3D"arial, sans-serif">The
+ NTU Physics Department, Center for Condensed Matter Science, I</font>nstit=
+ute of Atomic and Molecular Sciences,<font style=3D"border-collapse:collaps=
+e;font-family:arial,sans-serif;font-size:13px" face=3D"arial, sans-serif"> =
+and=20
+the Academia Sinica Institute of Astronomy and Astrophysics invite=20
+everyone to our joint colloquium series. The speakers are all famous=20
+international scholars and the colloquia are aiming at a broad audience,
+ including undergraduate students. Below is the information of the talk=20
+on December 6(Tuesday). Please help to forward this to the colleagues in=20
+your departments.</font><br>
+
+
+
+<br><font style=3D"border-collapse:collapse;font-family:arial,sans-serif;fo=
+nt-size:13px" face=3D"arial, sans-serif">Best Regards,</font><br>
+
+
+
+
+
+
+
+
+
+
+
+<font style=3D"border-collapse:collapse;font-family:arial,sans-serif;font-s=
+ize:13px" face=3D"arial, sans-serif">Chih-Wei Chang (CCMS)</font><br>
+<font style=3D"border-collapse:collapse;font-family:arial,sans-serif;font-s=
+ize:13px" face=3D"arial, sans-serif">Jiunn-Wei Chen (NTU Physics)</font><br=
+>Jer-Lai Kuo (IAMS)<br><font style=3D"border-collapse:collapse;font-family:=
+arial,sans-serif;font-size:13px" face=3D"arial, sans-serif">Wei-Hao Wang (A=
+SIAA)</font><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><font style=3D"border-collapse:collapse;font-family:arial,sans-serif;fo=
+nt-size:13px" face=3D"arial, sans-serif">______________________________</fo=
+nt><font style=3D"border-collapse:collapse;font-family:arial,sans-serif;fon=
+t-size:13px" face=3D"arial, sans-serif">_________________________</font><br=
+>
+<font size=3D"2"><span style=3D"border-collapse:collapse;font-family:arial,=
+sans-serif">Speaker<font size=3D"2"><span style=3D"color:rgb(0,0,0)">:</spa=
+n></font><font style=3D"color:rgb(0,0,0)" size=3D"2"> Che-Ting Chan</font><=
+/span></font><font size=3D"2"><span><br>
+
+
+
+
+
+
+
+
+
+</span><span></span><span><span></span></span><span></span></font>
+
+</div><font size=3D"2">
+
+
+
+</font><font style=3D"border-collapse:collapse;font-family:arial,sans-serif=
+;color:rgb(0,0,0)" size=3D"2"><span></span><span style=3D"border-collapse:c=
+ollapse;font-family:arial,sans-serif">Topic:</span></font><font style=3D"bo=
+rder-collapse:collapse;font-family:arial,sans-serif;color:rgb(0,0,0)" size=
+=3D"2"><span style=3D"font-family:Arial,Helvetica,sans-serif;line-height:18=
+px;border-collapse:separate"> Invisibility: fact or fiction?</span></font><=
+font style=3D"border-collapse:collapse;font-family:arial,sans-serif;color:r=
+gb(0,0,0)" size=3D"2"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</font><font size=3D"2"><span style=3D"border-collapse:collapse;font-family=
+:arial,sans-serif;color:rgb(0,0,0)">Time: 12/06 (Tuesday) 14:20 - 15:10<br>=
+Place: Room 104, CCM-New Physics Building<br><br></span><span>Abstract:</sp=
+an><span>
+ Can we make objects invisible? Invisibility has obsessed humankind for=20
+centuries and it is only very recently that researchers have shown that=20
+cloaking is not just fiction: it can be realized in principle through=20
+the development of new artificial materials called metamaterials and a=20
+new mathematical method called transformation optics. In this talk, I=20
+will review a few different strategies to realize invisibility and=20
+related notions. I will show that invisibility can be realized by (i) a=20
+special type of coating which can guide waves around an object, (ii)=20
+metamaterials that can cancel the scattering of other objects, (iii)=20
+resonance effect that can suppress optical excitation, (iv) a=20
+zero-refractive index medium if special boundary conditions are=20
+satisfied, and (v) using active sources to create a quiet zone. The=20
+limitations of these each of these approaches will be discussed. <br>
+
+<br style=3D"font-family:arial,helvetica,sans-serif"></span></font><font si=
+ze=3D"2">
+
+
+
+
+
+
+  <span>Brief Bio: C.T. Chan received his B. Sc. degree from the=20
+University of Hong Kong in 1980 and his PhD degree from the University=20
+of California at Berkeley in 1985.=A0 He is currently a Chair Professor of
+ Physics at HKUST, and the director of William Mong Institute of Nano=20
+Science and Technology. He has been elected a Fellow of the American=20
+Physical Society since 1996.=A0 His primary research interest is the=20
+simulation and understanding of material properties. He is now working=20
+on the theory a variety of advanced materials, including photonic=20
+crystals, metamaterials and nano-materials. He has over 200 publications
+ and ~14,000 citations.<br>
+
+</span></font>
+
+<span><font size=3D"2">
+<br>
+</font></span><font face=3D"arial, sans-serif" size=3D"2">For more informat=
+ion please see:</font><font size=3D"2">=A0<br>
+
+
+
+</font><a href=3D"http://web.phys.ntu.edu.tw/jwc/2011_Fall_colloquia/Joint%=
+20colloquia%20fall.html" style=3D"color:rgb(119,153,187);font-family:arial,=
+sans-serif;font-size:13px" target=3D"_blank"><font size=3D"2">http://web.ph=
+ys.ntu.edu.tw/</font><font size=3D"2">jwc/2011_Fall_colloq</font>uia/Joint%=
+20colloquia%20fall.html</a>
+
+--14dae9340b7f98ea3c04b2f62866--
+

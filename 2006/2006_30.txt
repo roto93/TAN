@@ -1,0 +1,198 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Tue Feb 21 17:32:16 2006
+Date: Tue, 21 Feb 2006 12:01:04 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue February 18 - 21, 2006)
+
+==============================================================================
+
+In this issue (February 18 - 21, 2006)
+
+1. NCU Astronomy Colloquium (Feb 24): MOTOYAMA Kazutaka (TIARA)
+2. Subaru 2006B: Call for proposals
+3. TIARA Reionization Workshop program UPDATE
+
+==============================================================================
+
+> Date: Mon, 20 Feb 2006 17:14:30 +0800 (CST)
+> Subject: Colloquium at NCU
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Dear Prof. Kuan,
+
+Could you post following information to the TAN network?
+
+Thank you in advance,
+
+---------------------------------------------------------------------------
+                               Colloquium
+                      at the Institute of Astronomy,
+                       National Central University
+
+Date: 24 February 2006
+Time: 14:00-15:00
+Loc.: Room 1013, Science Building IV, National Central University
+
+Speaker: Dr. MOTOYAMA Kazutaka (TIARA, Taiwan)
+
+Title: Radiation driven implosion model for high accretion rate of protostar
+
+Abstract:
+We investigated how radiation driven implosion affects on star
+formation nearby massive star. UV radiation from massive star ionizes
+surface of molecular cloud and compress it. This process is known as
+Radiation Driven Implosion(RDI). If RDI trigger star formation,
+accretion rate and final mass of protostar would be affected by
+RDI. Using numerical simulation, we revealed that RDI enhanced
+accretion rate > 10^{-4} M_sun / yr. We also reveled that final mass
+of protostar depends on density profile of cloud.
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65978
+Fax: +886-3-4262304
+
+==============================================================================
+
+> Date: Mon, 20 Feb 2006 22:29:22 +0800 (CST)
+> Subject: Subaru
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Dear Prof. Kuan,
+
+I have received following announcement. Could you also post this to
+the TAN network?
+
+Thanks,
+
+Daisuke
+
+---------------------------------------------------------------------------
+<<Subaru 2006B Call for Proposals>>
+
+ Dear Colleague:
+
+ - Please ignore this if you have already received a Japanese
+ version of this message. We apologize for any duplicate mailings. -
+
+This is to announce the opening of "The Call for Proposals for
+Subaru Open Use semester S06B (from 2006 Aug. 1 to 2007 Jan. 31:
+6 months)".  Detailed Information for observing time requests is
+available at our website at:
+
+http://www.naoj.org/Observing/Proposals/Submit/call.html
+
+Please visit this website and read the description carefully
+before submitting your proposals.
+
+The deadline for Normal/Intensive Programs is
+
+<<< March 14, 2006, 12:00am (Noon) in JST>>> [e.g., 3.00am in UT], 
+
+while that for the Service program is one month later than this.
+
+Especially important points specific to this S06B semester are 
+summarized as follows; our web page should be consulted
+for more detailed information.
+
+[Telescope Down Time] 
+Due to the re-coating work of the Primary mirror, the telescope 
+will be shut down from the beginning to the middle of August, 2006.
+
+[Time Exchange with Gemini]
+Subaru users can apply to Gemini GMOS and NIFS in this S06B
+semester. In this time exchange, Gemini observations will be 
+performed in the queue mode and about 5 nights (50 hours) will 
+be available.
+
+[Opening of MOIRCS Spectroscopy Mode]
+In addition to the imaging mode which is already opened 
+since S06A, the low-resolution spectroscopic mode of MOIRCS 
+is going to become available since this S06B semester, 
+though with a shared-risk operation. 
+
+Best regards,
+
+ The Subaru Open Use Team
+
+
+P.S.
+
+This mail is sent to all the previous proposers/visitors
+of Subaru telescope. The mailing list is used for
+very special notice about Subaru telescope and
+announcement for Open Use /Users Meeting.
+If you want to remove your mail address from this mailing
+list, or change it to the new adress, please fill and edit
+the following form appropriately and e-mail it to
+
+yamada@optik.mtk.nao.ac.jp
+
+with the e-mail subject,  "Subaru Mailing List".
+
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65978
+Fax: +886-3-4262304
+
+==============================================================================
+
+> From: "Janne Wang" <hcwang@asiaa.sinica.edu.tw>
+> To: <astro@asiaa.sinica.edu.tw>
+> Subject: Re: TAN (Issue February 17, 2006)
+> Date: Tue, 21 Feb 2006 11:45:19 +0800
+
+Dear Sirs,
+
+The updated program as below:
+
+      Date Time Speakers/Event Topic=20
+      2/16 (Thu.)  12:00 - 13:00  Benedetta Ciardi Reionization theory =
+and observations =20
+      2/20 (Mon.)  10:30 - 11:30  Asantha Cooray 21cm background=20
+      2/21 (Tue.)  10:30 - 11:30  Tom Theuns TBD=20
+      2/23 (Thu.)  10:30 - 11:30  Tirthankar Roy Choudhury Observational =
+Constraints on Reionization Models=20
+      2/23 (Thu.)  12:30 - 13:30  Andrea Ferrara First stars & the =
+cosmic dawn =20
+      2/24 (Fri.)  10:30 - 11:30  Shiv Sethi TBD=20
+      2/27 (Mon.)  10:30 - 11:30  Christopher Hirata Excitation & =
+de-excitation of the 21cm line =20
+      2/28 (Tue.)  10:30 - 11:30  Tzu Ching Chang Halo Mergers and =
+Bubble Growth during Reionization=20
+      3/02 (Thu.)  10:30 - 11:30  Ilian lliev Large-scale simulations of =
+reionization =20
+      3/01 (Wed.)  10:30 - 11:30  Garrelt Mellema 21cm predictions for =
+the epoch of reionization =20
+      3/03 (Fri.)  10:30 - 11:30  Ue-Li Pen TBD=20
+
+
+Sincerely,
+Janne Wang
+ASIAA webmaster
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

@@ -1,0 +1,168 @@
+From kyl@asiaa.sinica.edu.tw Tue Mar 21 09:18 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA02024
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 21 Mar 2000 09:17:48 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA29838
+	for <astro@asiaa.sinica.edu.tw>; Tue, 21 Mar 2000 09:16:22 +0800
+Date: Tue, 21 Mar 2000 09:13:06 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: International Meeting on Masers  (fwd)
+Message-ID: <Pine.SOL.4.10.10003210913030.7348-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6312
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 20 Mar 2000 14:58:05 -0600
+From: Victor Migenes <vmigenes@cibeles.astro.ugto.mx>
+To: vlbi@zia.aoc.nrao.edu
+Subject: International Meeting on Masers 
+
+
+***************************************************************************
+ 
+ 	                      INTERNATIONAL CONFERENCE                      
+ 
+ 		    Cosmic Masers: From Protostars to Black Holes   
+                                                                        
+                  	          5-11th March 2001
+                                Angra dos Reis Beach 
+                               Rio de Janeiro, Brazil    
+
+ 
+*************************************************************************** 
+ 
+ 				FIRST ANNOUNCEMENT  
+ 		
+                     		 16th March 2000  
+ 
+ 	The last astronomical meeting in which masers were the main 
+ topic of discussion, ``Astrophysical Masers'', was held in March 1992 in 
+ Virginia (Lecture Notes in Physics 412: Astrophysical Masers, 1993, Eds. 
+ Clegg and Nedoluha and published by Springer-Verlag ).  During the past
+ eight years there has been significant technological improvements in the 
+ field of interferometry including the following:
+
+    1) the coming of age of the VLBA, providing much improved imaging
+       capabilities and temporal sampling for OH, water and other 
+       molecular species;
+
+    2) the operation of the VLBA and the upgrade of the VLA with 43 GHz 
+       receivers which allows improved study of SiO masers;
+
+    3) the MERLIN upgrade in frequency, resolution and sensitivity 
+       providing intermediate spatial resolution between the VLA and VLBI; 
+
+    4) the new JIVE correlator, facilitating many new observations with
+       the European VLBI Network; 
+
+    5) the dawn of Space-VLBI with the HALCA satellite providing the 
+       highest possible resolution for OH maser observations; and
+
+    6) the advances of mm-wavelength VLBI and telescopes at the BIMA, 
+       OVRO, Nobeyama and IRAM facilities, to name a few. 
+ 
+ These echnological improvements have provided higher quality maser data, 
+ which in turn have led to important advancements in the understanding of 
+ the various astrophysical phenomena with which masers are associated.  
+ In particular, observations of H2O and OH masers in active galactic nuclei 
+ (AGN) have provided dramatic confirmation of the existence of super-massive 
+ black holes.
+
+       On the theoretical front, there has also been significant
+ progress on many aspects of maser theory.  Supercomputers have been
+ used with refined molecular parameters, excitation conditions and optimized 
+ code for radiative transfer in maser media.  There has been much
+ progress on time variability and polarization theory.  We now have a 
+ better understanding of the significance of heating sources, such as 
+ X-rays from AGNs, in generating water masers and SiO masers in galactic 
+ and extragalactic objects. 
+ 
+ 	We are organizing an IAU Symposium* to take place at the tropical 
+ beach resort of Angra dos Reis, in Rio de Janeiro, Brazil, during March of 
+ 2001. The goals of the symposium are: 
+
+      (1) to review the research done in cosmic masers since the 
+ last conference, including the nature and implications of masers
+ in each of their major astrophysical settings: star forming regions, 
+ evolved star envelopes, and the nuclei of active galaxies.  
+
+      (2) to present the current state of maser research in fields
+ where masers serve as probes of physical and dynamical conditions.
+ For example, masers allow one to measure distances directly, to
+ determine magnetic field strengths and configurations, and to
+ study the interstellar medium at both large and small scales.  
+
+      (3) to discuss theoretical advances and challenges in maser physics
+ and to promote better collaboration between observers and theoreticians.
+
+      (4) to define important scientific targets for emerging telescopes
+ such as the Atacama Large Millimeter Array (ALMA) and the 50-m millimeter 
+ radio telescope, both planned to be built in South America. 
+ 
+ The members of the Scientific Organizing Committee are:
+  
+ Dr. Victor Migenes, U. Gto. (chair)  	 Dr. Mark Reid, CfA (co-chair) 
+ Dr. Moshe Elitzur (UKy)                 Dr. Luis F. Rodriguez (UNAM) 
+ Dr. Slava Slysh (ASC)                   Dr. Makoto Inoue (NAO) 
+ Dr. Jim Cohen (UMan)                    Dr. Guido Garay (UChile) 
+ Dr. Karl Menten (MPI)                   Dr. Ray Norris (ATNF)
+ Dr. Zulema Abrahan (USP)
+ 
+ The members of the Local Organizing Committee are: 
+ 
+ Dr. Everton L\"udke, UFSM (chair)	Dr. Zulema Abraham (USP)
+ Dr. Eugenio Scalise (INPE) 		Dr. Jacques Lepine (USP) 
+ Dr. William Boas (CRAAE)		Dr. Marcio Maia (USP) 
+ 
+ 
+       The registration fee will be US$160 per attendee (US$100 for 
+ students) which will help defray the costs of a copy of the proceedings, 
+ coach transportation to and from Angra dos Reis hotel and Rio de Janeiro 
+ International airport, coffee breaks  and the conference dinner. 
+
+       The preliminary registration form should be sent directly to the
+ Local Organizing Committee Web page. We are accepting 15-min oral and
+ poster titles and abstracts now. The SOC will select the abstracts for the 
+ oral talks. 
+
+
+                    Internet:  http://lynx.ccne.ufsm.br 
+                    
+                    Email:     maser2001@lynx.ccne.ufsm.br  
+
+
+For general information,  please contact: 
+ 
+ Dr.  Victor Migenes               or      Dr. Everton Lukde
+ Universidad de Guanajuato                 Universidad Federal de Santa Maria
+ Departamento de Astronomia                CCNE- Departamento de Fisica 
+ Apdo. Postal 144                          Campus Universitario
+ Guanajuato, GTO. CP36000                  97105-900 Santa Maria RS
+ MEXICO                                    Brazil
+ Email: vmigenes@astro.ugto.mx             eludke@sm.conex.com.br
+ 
+------------------
+ *IAU approval pending
+ -------------------------------------------------------------------------
+
+
+
+

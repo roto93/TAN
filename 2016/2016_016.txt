@@ -1,0 +1,37 @@
+> Date: Fri, 22 Jan 2016 11:44:00 +0800
+> From: Yen-Ting Lin <ytl@asiaa.sinica.edu.tw>
+> Subject: message from CFHT
+
+Hi Prof. Kuan,
+
+Could you please post the following to TAN, regarding updates from CFHT?
+
+thanks,
+yen-ting
+
+------------------------------------------------------------------
+
+Dear CFHT users
+
+1) The deadline for the submission of CFHT Large Programs has been
+extended to February 29 2016.
+
+2) New information has been added to the CFHT MegaCam and WIRCam
+webpages. Please see:
+
+http://www.cfht.hawaii.edu/Instruments/Imaging/Megacam/specsinformation.html
+for an update on the new broad band filters and their calibration
+against the SNLS deep field catalogs. The page will eventually include
+specific calibration info on the narrow band filters as soon as
+the observations become available in those bands.
+
+http://cfht.hawaii.edu/Instruments/Imaging/WIRCam/dietWIRCam.html for
+the revised photometric calibration of WIRCam and
+http://cfht.hawaii.edu/Instruments/Imaging/WIRCam/IiwiVersion2Doc.html
+for information on the new non-linearity correction.
+
+Dr. Daniel Devost
+Director of Science Operations/Directeur des Operations Scientifiques
+Canada-France-Hawaii Telescope Corporation
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

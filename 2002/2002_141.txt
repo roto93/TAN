@@ -1,0 +1,453 @@
+From astro Fri Aug 30 18:12 CST 2002
+Received: (from astro@localhost)
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) id SAA29251
+	for astro; Fri, 30 Aug 2002 18:12:21 +0800 (CST)
+Date: Fri, 30 Aug 2002 18:12:21 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+Message-Id: <200208301012.SAA29251@iaa17.asiaa.sinica.edu.tw>
+To: astro
+Subject: TAN (Issue August 24 - 30, 2002)
+Content-Type: text
+Content-Length: 18643
+Status: RO
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (August 24 - 30, 2002):
+
+0. My apology ... but
+1. It is a shame ...
+2. every-two-week is probably too low a frequency for TAN ...
+3. IAU #217: first announcement
+4. Too late -- but just an example ... 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Dear TANists,
+
+Thanks for giving feedbacks to TAN (see Entry 1 and 2below). Sorry that 
+I didn't act fast enough for last week and this week's talks at ASIAA.
+
+As some of you may have known that TAN has been now closed for its 
+spontaneous relay function since April when various virus emails were 
+floating around.  When virus attack was at its peak, TAN received more
+than 100 attacks per week.  That left me no choice but closed it.
+Even now, TAN still receives about 15 virus-infected emails per week.
+TAN has got a lot of complaints about the virus thing before it was
+switch to manual by the way.
+
+So these days I check TAN every week or so and manually edit it.
+Last issue was two weeks apart from previous issue because when the
+first week I checked, there was no timely message.  But when I checked
+the second week, it's too late.  So there is always a +_7 days error
+margins existed.  As you can see in Entry 4 below, there is no way
+I could have it announced in time unless I check it every day.
+
+So ... if next time you have something really timely to announce,
+please send me (kuan@asiaa.sinica.edu.tw) a separate email so I can take
+necessary action to ensure TAN will have it announce in time.
+Certainly if people send in messages early enough, that won't be a 
+problem either.  (But we all understand things always happened the
+last minutes:)
+
+Sorry guys.  
+
+
+Yi-Jehng Kuan
+TAN administrator
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: Fri, 23 Aug 2002 19:07:13 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+X-Sender: wchen@fermi.phy.ncu.edu.tw
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+cc: astro@iaa17.asiaa.sinica.edu.tw
+Subject: Re: TAN (Issue Aug 11-23, 2002)
+
+It is a shame that this was not announced earlier.  The message was sent
+off only on August 23, when the first talk was supposed to take place,
+though Minho apparently submitted it on August 16.
+
+Minho, could you circulate the colloquium announcement as before, in
+addition to the TAN?  Thanks.
+
+Wen Ping
+
+
+On Fri, 23 Aug 2002, Taiwan Astronomy Network wrote:
+
+> Date: Fri, 16 Aug 2002 19:07:12 +0800 (CST)
+> From: Minho Choi  <minho@asiaa.sinica.edu.tw>
+> Message-Id: <200208161107.TAA02592@iaa1.asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw, iaa@asiaa.sinica.edu.tw
+> Cc: edith@lra.ens.fr
+> Subject: [Colloquium] ASIAA Colloquium
+> 
+> --------------------------- ASIAA Colloquium ---------------------------
+> Speaker : Edith Falgarone
+>           (Laboratoire de Radioastronomie, Ecole Normale Superieure)
+> ------------------------------------------------------------------------
+> Title   : Small Scale Structure in Non Star Forming Molecular Clouds
+> Time    : Friday 8/23 2:00 pm
+> ------------------------------------------------------------------------
+> Title   : ISM Turbulence
+> Time    : Friday 8/30 2:00 pm
+> ------------------------------------------------------------------------
+> Location: ASIAA Conference Room (Room 716)
+> URL     : http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+> ------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Sat, 24 Aug 2002 12:13:34 +0800
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+X-Mailer: Mozilla 4.72 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: Re: TAN (Issue Aug 11-23, 2002)
+
+Dear Yi-Jehng,
+every-two-week is probably too low a frequency for TAN to distribute
+announcements of talks.
+Could you consider to relay the incoming mails in a time as short as possible?
+Say, every day when there is any.
+Cheers,
+--
+-------------------------------------------------------------
+Hsiang-Kuang Chang                   hkchang@phys.nthu.edu.tw
+
+Associate Professor
+
+Department of Physics                      Tel: 886-3-5742952
+National Tsing Hua University              Fax: 886-3-5723052
+Hsinchu 300
+
+Taiwan, ROC          URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Sun, 25 Aug 2002 15:39:41 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: IAU S217: first announcement (fwd)
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Research Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+Postal Address:				Phone: 886-2-3365-2200 ext 700
+ASIAA, P.O. Box 23-141,			Fax: 886-2-2367-8405
+Taipei 106, Taiwan, ROC                 Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Thu, 8 Aug 2002 21:12:35 +0200 (MEST)
+From: iaus217@discovery.saclay.cea.fr
+To: kyl@asiaa.sinica.edu.tw
+Subject: IAU S217: first announcement
+
+             *  F I R S T   A N N O U N C E M E N T  *
+
+
+                      IAU symposium No 217
+        "RECYCLING INTERGALACTIC AND INTERSTELLAR MATTER"
+             Sydney, Australia, 14-17 July 2003
+
+                 to be held in conjunction with the
+                  XXVth  IAU General Assembly
+
+---------------------------------------------------------------------
+
+IAU symposium No 217 will address the origin and fate of the stellar/
+interstellar material liberated by galaxies  during their evolution.
+The symposium will start with  a census of  processed material in the
+intergalactic medium, such as the metal-enriched hot gas studied via
+X-ray spectroscopy, processed hydrogen clouds probed by  absorption
+lines in the spectra of background quasars and by radio surveys, and
+intracluster stellar populations as traced by red giant stars or
+planetary nebulae.
+The  focus will then turn to the physical ejection mechanisms from
+galaxies. In particular, the relative importance of starburst-driven
+superwinds, AGN-driven outflows, tidal interactions, harassment and
+ram-pressure stripping will be examined from the observational and
+theoretical sides. Finally, the subsequent "recycling" of the expelled
+material  will be addressed, with an emphasis on re-accretion processes
+in galaxies and the formation of Tidal Dwarf Galaxies.
+
+
+---------------------------------------------------------------------
+
+                        * CONTACT *
+
+IAU symposium 217 web page: http://www-dapnia.cea.fr/Sap/Conferences/IAU
+IAU general assembly web page: http://www.astronomy2003.com
+
+email for symposium 217: iaus217@discovery.saclay.cea.fr
+
+contact persons for symposium 217
+                 Pierre-Alain Duc, Service d'astrophysique, CEA Saclay,
+                 91191 Gif sur Yvette cedex, France
+                 tel: +33 1 69 08 92 68; fax: +33 1 69 08 65 77
+(in Australia)   Baerbel Koribalski, PO Box 76, Epping NSW 2121, Australia
+                 tel: +61 2 9372 4361; fax:+61 2 9372 4310
+
+
+---------------------------------------------------------------------
+
+                       * EXPRESSION OF INTEREST *
+
+If you are interested in attending this symposium and wish to receive the
+further announcements, please fill the 'expression of interest' form at
+http://www-dapnia.cea.fr/Sap/Conferences/IAU
+You are invited to enter the preliminary titles and (short) abstracts for
+ your planned contribution (optional).
+
+If you have no web access, send an email to:
+   iaus217@discovery.saclay.cea.fr, indicating your name, email address
+and optionally the preliminary title and abstract of your contribution. 
+
+The deadline for the formal abstract submission to the IAU S217 SOC will be
+ February 15, 2003. The selection of contributed talks will occur
+ early spring 2003.  The registration itself and final submission
+of accepted abstracts will  be done through the IAU General Assembly web
+ site.
+
+Note that IAU funds are available to  cover travel  costs,
+BUT are VERY LIMITED. Following the IAU regulations, the grants will be
+given in priority to qualified scientists  to whom few or no other means
+of support are available, e.g. colleagues from countries in economic
+difficulties and young scientists. The selection will be carried out
+by the SOC. The application form is available at: 
+http://www.mso.anu.edu.au/~iauxxv/PDFs/Travel_Grant_Application_Form.pdf
+or at the S217 web site.
+The deadline for submission is January 15, 2003.
+
+There are  other sources of financing, especially via the national IAU
+representatives. IAU member countries are expected to make available some
+travel funds for their astronomers attending the General Assembly. A
+contact list will be posted in the IAU S217 web site.
+
+
+
+---------------------------------------------------------------------
+
+               * SCIENTIFIC ORGANIZING COMMITTEE *
+
+Hans Boehringer (Germany), Jonathan Braine (France), Elias Brinks
+(Mexico), Pierre-Alain Duc (France, chair), Ken Freeman (Australia),
+Uta Fritze-v.Alvensleben (Germany), Jay Gallagher (United States),
+Baerbel Koribalski (Australia, local contact), Felix Mirabel
+(Argentina), Max Pettini (United Kingdom), Yoshiaki Taniguchi (Japan)
+
+
+---------------------------------------------------------------------
+
+                    * SCIENTIFIC RATIONALE *
+
+    Over the recent years, great progress has been made in the area of
+galaxy evolution.  This was facilitated by the wealth of new high
+spatial and spectral resolution observations from space (HST, XMM-Newton,
+ Chandra); by large
+increases in sensitivity from ground-based 10m-class telescopes (VLT,
+Keck, Subaru, Gemini, etc.); by the availability of deep or/and large radio
+surveys (VLA, HIPASS) and by similar increases in the computing
+power available for running numerical simulations.  However, one
+critical aspect of galaxy evolution that has never been explored per
+se is the transformation and recycling of the gaseous and stellar
+material both within and outside of galaxies: gas consumed by star
+formation and subsequently ejected by supernovae or superwinds into
+the inter-galactic medium (IGM); injection in the IGM of metal-enriched
+ material via AGN-driven jets; material ejected from galaxies through
+interactions and mergers; and gas stripped from galaxies by the
+ram-pressure of the intracluster medium (ICM). Numerical simulations
+can now follow in detail the evolution of the gaseous medium in galaxies
+through these violent events.
+
+       At the same time, our knowledge of the IGM  has
+improved dramatically.  In clusters of galaxies, the nature of the ICM
+can now be constrained more tightly through X-ray observations by
+XMM-Newton and Chandra. These observations have revolutionized our
+     understanding of the cooling/heating processes in the intracluster
+medium, and allow us to measure its elemental abundances with 
+unprecedented precision. The intergalactic medium at high redshift is
+investigated using absorption lines detected in high resolution
+spectra of background QSOs. In the local Universe, 
+molecules in low-density gas clouds are observed well outside galactic disks
+ through absorption against background UV sources.  The
+first metallicity measurements of the high-velocity clouds in the
+Local Group were obtained by this method. Strangely enough, no
+pristine hydrogen clouds, devoid of any heavy elements, have yet been
+found, either locally or at high redshift.  All these observations
+suggest a general "pollution" of the intergalactic medium by galaxy
+ejecta, even at high redshift.  Even more surprisingly, surveys of
+planetary nebulae and RGB/AGB stars in 'empty' fields of nearby
+clusters confirmed that a large (10 to 50%) fraction of the total
+stellar population lie between galaxies. Various models of galaxy
+mass-loss via dynamical processes or superwinds have attempted to
+account for these observations, but they still disagree on the
+efficiency of the IGM enrichment mechanisms and on the nature of the
+progenitors.
+
+What is the fate of the material liberated by galaxies during their
+evolution and currently observed in the IGM? It is very likely that
+the fraction of it that is not dispersed or evaporated, and hence lost
+for future recycling, may fall back onto galaxies.  This is in
+agreement with numerical experiments which predict the re-accretion of
+tidal debris as well as gas stripped by ram-pressure. This reservoir
+of expelled material can be recycled in their progenitors, fueling
+star-formation episodes with a time delay depending on how far into
+the IGM the gas clouds had been injected.  On the other hand, there is
+now observational evidence that galactic material may be recycled in
+the space between galaxies, forming a new generation of objects.
+Tidal Dwarf Galaxies (TDGs) are young galaxies assembled from the gas
+and stars ejected from interacting galaxies. Unfortunately, while
+numerical models support the formation of such objects, the conditions
+for their formation have not been fully investigated, and it is
+difficult to assess their cosmological importance. However, it has been
+claimed that TDGs could be good laboratories to study, in the local
+universe, the process of galaxy formation more commonly investigated
+through observations at high redshift. Also their dark matter content
+or absence of it may be used to constraint the dark matter distribution
+in the parent galaxies.
+
+The IAU symposium will address in a concise manner all of these issues,
+following the fate of galaxy material, from its liberation by galaxies,
+its journey into the intra-cluster medium, to its final recycling in
+and outside galaxies. Experts of all the various wavelength domains will
+meet there and confront their observations and models, to compare and
+complement the constraints in this very active, yet still growing, field
+of research.
+
+---------------------------------------------------------------------
+
+                   *  DRAFT PROGRAM  *
+
+
+The program of the  symposium will be organized following, as the
+main guidelines, the origin and fate of galaxy material in the
+intergalactic medium from  liberation by galaxies to the final
+recycling in and outside galaxies. 
+
+
+Census of galactic material in the IGM/ICM
+------------------------------------------
++ Intergalactic gas clouds in the nearby Universe:
+- Results from blind HI surveys, millimetric CO observations and far-UV
+  absorption experiments
+- High Velocity Clouds in the Local Group
+
++ Metal-rich  gas at  high redshift:
+- Results from QSO absorption lines studies
+
++ Intracluster medium at low and moderate redshift:
+- ICM metallicity: results from XMM-Newton and Chandra
+- Dust in the ICM
+
++ Intergalactic stars in nearby clusters:
+- Surveys of intergalactic planetary nebulae and red giant stars
+- Diffuse optical emission
+- Remnants of disrupted dwarf galaxies
+
+Feeding the IGM: mass-loss from galaxies
+----------------------------------------
++ Starburst-driven outflows:
+- At low redshift: dwarf galaxies, starbursts
+- At high redshifts: Lyman Break Galaxies; link with damped lyman
+  alpha systems
+
++ AGN-driven outflows
+
++ Dynamical removal:
+- Ram-pressure stripping
+- Tidal collisions
+- Harassment
+
++ Efficiency of each of the ejection mechanisms as a function of
+- Galaxy type
+- Environment
+
+Recycling the ISM/IGM
+---------------------
++ Re-accretion onto galaxies:
+- Return of tidal and stripped material
+- Impact of inflows on the evolution of galaxies
+
++ Star-formation in the intergalactic medium
+- AGN Jet induced star-formation
+
++ Tidal Dwarf Galaxies: formation mechanism
+- Dynamics, chemistry, stellar populations
+- Instabilities in tidal tails
+
++ Tidal Dwarf Galaxies: cosmological importance
+- Survival of TDGs
+- Identification of  TDGs at low and high redshift
+- Collision rate as a function of redshift and TDG production
+
+Note that invited talks will be posted during autumn 2002.
+
+---------------------------------------------------------------------
+
+                   * VENUE OF THE SYMPOSIUM *
+
+
+The symposium will take place during the IAU General Assembly.
+Five other symposia and 21 joined discussion covering many fields
+of astrophysics will be also organized during this event.
+
+Of particular interest to those who will attend IAU S217
+is Joint Discussion 10, "The cosmic cauldron: evolution in
+galaxy clusters". It is planned  just after the
+symposium: July 18-19, 2003.
+
+You may find the rest of the scientific program of the GA,
+and practical details about Sydney at:
+http://www.astronomy2003.com
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Tue, 27 Aug 2002 11:41:10 +0800 (CST)
+From: Minho Choi  <minho@asiaa.sinica.edu.tw>
+Message-Id: <200208270341.LAA09307@iaa1.asiaa.sinica.edu.tw>
+To: astro@asiaa.sinica.edu.tw, iaa@asiaa.sinica.edu.tw
+Cc: edith@lra.ens.fr
+Subject: [Colloquium] ASIAA Colloquium
+Content-Type: text
+Content-Length: 745
+Status: R
+
+Dear Colleagues,
+
+This week's colloquium time has been changed to TOMORROW morning.
+Sorry for the short notice.
+
+Dr. Falgarone will continue her lecture.
+If you need a short review of the first lecture,
+please ask in the beginning of the talk.
+
+Thank you.
+Minho
+
+--------------------------- ASIAA Colloquium ---------------------------
+Speaker : Edith Falgarone
+          (Laboratoire de Radioastronomie, Ecole Normale Superieure)
+Title   : The Fractal Turbulence-Driven Structure of Molecular Clouds
+          II. Link with Turbulence
+Time    : Wednesday 8/28 10:00 am
+Location: ASIAA Conference Room (Room 716)
+URL     : http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

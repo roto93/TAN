@@ -1,0 +1,181 @@
+From astro@iaa17.asiaa.sinica.edu.tw Thu Apr  1 00:15:38 2010
+Date: Thu, 1 Apr 2010 00:15:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Mar 30 - 31, 2010)
+
+============================================================================== 
+
+In this issue (Mar 30 - 31, 2010)
+
+1. ASIAA Colloquium (Mar 31): Stephane Claude (HIA)
+2. CARMA Summer School 2010
+
+============================================================================== 
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: [Colloquium] Colloquium talk tomorrow
+> Date: Tue, 30 Mar 2010 17:18:04 +0800
+
+Dear All,
+
+We will have a colloquium talk tomorrow.
+
+Usually I would refuse to allocate three talks in a week, but this is  
+a talk
+that I cannot refuse.  We usually only have talks that interest people
+above the 11th floor.  The talk tomorrow is suitable for the whole  
+institute.
+
+Please mark your calendar.
+
+Cheers,
+Wei-Hao
+
+____________________________________________________
+Speaker:    Dr. Stephane Claude (HIA)
+Title:           HIA Millimetre Instrumentation Laboratory
+redshifts
+Abstract:     http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+Time:           3/31 (Wednesday) 2 pm
+Location:     ASIAA Room 1203
+____________________________________________________
+
+============================================================================== 
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Fwd: CARMA Summer School 2010
+> Date: Wed, 31 Mar 2010 16:30:41 +0800
+
+Dear Yi-Jehng,
+
+This one may be worth circulated via TAN, if it's not done yet.
+
+best,
+sheng-yuan
+
+開始轉寄郵件：
+
+> 寄件人: Nikolaus Volgenau <volgenau@ovro.caltech.edu>
+> 日期: March 23, 2010 6:16:37 AM GMT+08:00
+> 收件人: volgenau@mmarray.org
+> 標題: CARMA Summer School 2010
+> 回覆給: volgenau@ovro.caltech.edu
+>
+> Applications are invited for the 2010 CARMA Summer School.
+>
+> We are planning to hold the CARMA SUMMER SCHOOL at the CARMA site in  
+> the
+> Inyo mountains during the week July 11 - 17, 2010.
+>
+> Students will stay at the observatory for lectures, practical
+> demonstrations, and observing projects.  The lectures cover the basic
+> theory of interferometer observations, data reduction and imaging.
+> During the school each participant will make observations, and analyze
+> the results.
+>
+> - There will be a nominal cost to the students.
+> - Positions will be extremely limited.
+> - Participants should normally be graduate students or postdocs.
+> - The application deadline is April 25.
+> - The application should consist of a statement of up to one page  
+> saying
+> why the student would like to come, and contain the name and contact
+> information for the student's advisor.
+>
+> Here are some of the instrumental characteristics to help select a
+> suitable project to learn observing and data analysis techniques.
+>
+> CARMA is designed as an aperture synthesis telescope. There are two
+> receiver bands: 3 mm and 1 mm. A basic aperture synthesis observation
+> makes an image the size of the primary beam (lambda/diameter ~1 arcmin
+> at 100 GHz; 0.5 arcmin at 230 GHz) with a resolution corresponding to
+> the maximum separations of the 15 antennas. You will learn how this
+> works at the school. During the school we will be in a compact antenna
+> configuration, the D-configuration, which gives an angular resolution
+> ~3-6 at 100 GHz, and 1.5-3 arcsec at 230 GHz, or the most compact
+> E-configuration with an angular resolution ~10 arcsec at 100 GHz, and
+> ~4-5 arcsec at 230 GHz.
+>
+> The most convenient source size is one which is smaller than the  
+> size of
+> the primary beam. Larger sources can be imaged by time-sharing the
+> pointing of the antennas (mosaicing), at the cost of lowered
+> sensitivity. The sensitivity is determined by the system noise
+> (receivers plus atmosphere), the bandwidth (or velocity resolution),  
+> and
+> the observing time. The atmosphere is usually not so good for 1 mm
+> observations in the summer, or for sources which are at low  
+> declinations
+> and must be observed through more of the atmosphere, so it's best to
+> select a bright source which is high in the sky and can be observed  
+> at 3
+> mm, but don't be discouraged if your favorite source does not satisfy
+> all these conditions. It's best to observe a strong enough source that
+> you can make an image during the school, rather than a detection
+> project. Then you can see the effects of different imaging techniques.
+>
+> You can read a TECHNICAL DESCRIPTION:
+> http://cedarflat.mmarray.org/observing/doc/instrument_desc.html
+> There is a tool to calculate the RMS noise:
+> http://cedarflat.mmarray.org/observing/tools/rms.html
+> and a tool to explore correlator configurations:
+> http://cedarflat.mmarray.org/observing/tools/CGS.html
+>
+> LOGISTICS
+>
+> Travel:
+> Plan to arrive on Sunday 11 July and depart on Saturday 17 or
+> Sunday 18 July. We will organize a hike in the Sierras on Saturday.
+> The school starts at 9am Monday and ends Saturday.
+>
+> Meals:
+> Breakfast, Lunch, and Dinner will be provided and will be cooked
+> communally in the control room kitchen.
+>
+> Accommodations:
+> Because this is a 'hands-on' school, the plan is to hold all lectures
+> and demonstrations in the control building at Cedar Flat, adjacent to
+> the telescopes.  Since the dorm and cottage at OVRO can accommodate at
+> most 8, we hope that at least 7 people will join Mel and Dick in  
+> camping
+> out at the "Nelson" campground, about 1.5 miles from the control room.
+> Those who camp will avoid the hassle of driving up and down the  
+> mountain
+> each day, and will have a wonderful opportunity to star-gaze each  
+> night.
+>
+> Cost:
+> The fees for the school, including accommodation and food will range
+> from $25.00 to $65.00 per person per day, depending on accommodation
+> choice.
+>
+> PLEASE REPLY WITH YOUR APPLICATION BY 25 APRIL.
+>
+> Applications should be sent to Mary Daniel <mary@ovro.caltech.edu>.
+>
+> Persons affiliated with the CARMA institutions who are interested in
+> attending should contact their local director. Students from outside
+> the CARMA institutions should contact Melvyn Wright
+> <wright@astron.berkeley.edu> for more information.
+>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

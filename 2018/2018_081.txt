@@ -1,0 +1,196 @@
+==============================================================================
+
+In this issue (May 26 - 31, 2018)
+
+1. cosmic cycle 2018
+2. First announcement: CASA tutorial at 2018 EVN Symposium
+3. ASIAA Colloquium/Seminar/Lunchtalk (Jun 04): Steven Gibson (WKU/ASIAA)
+                                      (Jun 06): Vivien Chen (NTHU)
+4. SMA Call for Large Scale and Standard Proposals - 2018B Semester
+
+==============================================================================
+
+> Subject: Fwd: cosmic cycle 2018
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Date: Mon, 28 May 2018 13:17:52 +0800
+> Cc: astro@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+    Please find below the information about the conference "Cosmic Cycle of Dust and Gas in the Galaxy: from Old to Young Stars” in coming July. This is one of the big series of meetings held in Vietnam in recent years. Note that the deadline for early bird registration is coming in a few days on May 31th.
+
+best,
+sheng-yuan
+
+—————————————— 
+
+The registration for the conference Cosmic Cycle of Dust and Gas in the Galaxy: from Old to Young Stars -July 9th to July 13th, 2018- is now open. The conference will take place at the International Center for Interdisciplinary Science and Education (ICISE) which is located in the beautiful coastal city of Quy Nhon, Vietnam. You are invited to register and submit contributed talks and posters.
+
+https://cosmiccycle2018.sciencesconf.org/
+
+Organized in the framework of the "Rencontres du Vietnam", the conference focuses on the evolution of dust and gas from evolved to young stars. The aim of the conference is to bring astronomers working on the circumstellar environment of evolved stars and star forming regions and planetologists working on the origin of the solar system together to discuss about science in a friendly and relaxed environment at ICISE. In July 2016, in the same cycle of conferences, “Blowing In the Wind” addressed issues of dynamics of gas and dust in the Galaxy. In July 2017, another conference “Star Formation in Different Environments” focused on how stars form. This year's conference will be dedicated to the physico-chemistry and evolution of gas and dust. It will review state-of-the-art knowledge of the molecular and dust components of envelopes and shells surrounding AGB stars, planetary nebulae, diffuse giant molecular clouds as well as Supernovae. Special sessions will be dedicat!
+ed to the origin and evolution of matter in the solar system: meteorites, comets, etc. Recent observations, in particular with ALMA, are the source of major progress in the study of the cosmic cycle of gas and dust in the Galaxy making such a conference very timely.
+
+The list of invited speakers can be found at: https://cosmiccycle2018.sciencesconf.org/resource/page/id/6
+
+
+Bootcamp: 
+
+During the weekend before the conference, we organize a series of tutorials and lectures introducing the topics of the conference to senior undergraduates, PhD students and young postdocs. If you are interested in attending it, please contact Tuan-Anh Pham (ptanh@vnsc.org.vn).
+
+==============================================================================
+
+> From: Ilse van Bemmel <bemmel@jive.eu>
+> Subject: First announcement: CASA tutorial at 2018 EVN Symposium
+> Date: Wed, 30 May 2018 14:26:19 +0200
+> To: astro@asiaa.sinica.edu.tw
+
+[This message is sent through several e-mail exploders, apologies if you =
+receive multiple copies]=20
+
+With the imminent release of CASA 5.3 the first experimental VLBI tools =
+will be included in the package (see the latest CASA Newsletter =
+<https://science.nrao.edu/enews/casa_006/> for more details). With =
+support from  IAA-CSIC <https://www.iaa.csic.es/>, JIVE =
+<http://www.jive.eu/> is organising an afternoon tutorial to introduce =
+these new tools to the EVN community, which will take place at the end =
+of the EVN symposium <http://evnsymp2018.iaa.es/> in Granada, Spain.
+
+Date & time: October 11, 15:30 =E2=80=93 18:30
+Location: IAA-CSIC, Glorieta de la Astronm=C3=ADa s/n, C.P. 18008, =
+Granada, Spain=20
+
+The first part of the tutorial consists of a lecture to demonstrate how =
+to calibrate an EVN Network Monitoring Experiment in CASA, starting from =
+the data stored in the EVN archive. The second part allows participants =
+to try this for themselves, or attempt to calibrate a small dataset of =
+their own. A few scans on a bright source are sufficient, given the =
+available time.=20
+
+
+All participants should bring their own laptop with a working CASA 5.3 =
+installation. Note that at the time of writing, there is not yet a =
+formal release, check the CASA Downloads =
+<https://casa.nrao.edu/casa_obtaining.shtml> page for the latest news. =
+Experience with CASA is not necessary, for non-experienced CASA users it =
+is recommended to work through one of the JVLA CASA =
+<https://casaguides.nrao.edu/index.php/Karl_G._Jansky_VLA_Tutorials>=C2=A0=
+=
+<https://casaguides.nrao.edu/index.php/Karl_G._Jansky_VLA_Tutorials>tutori=
+als <https://casaguides.nrao.edu/index.php/Karl_G._Jansky_VLA_Tutorials> =
+prior to attending the workshop.
+
+Interested participants are requested to sign up beforehand =
+<https://goo.gl/forms/kLj4qFxeMWeatMyl1>. Registration before 15 =
+September is recommended to ensure a seat. After that date, details on =
+the tutorial will be provided only to registered participants.=20
+
+
+Please contact me if you require more information.
+
+Kind regards,
+Ilse van Bemmel
+
+--
+Project scientist
+Joint Institute for VLBI ERIC
+PO Box 2
+7990 AA Dwingeloo
+The Netherlands
++31-521-595784
+
+==============================================================================
+
+> Date: Thu, 31 May 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Steven Gibson (WKU/ASIAA)
+Topic:         Dust SED Mapping of Cold Diffuse Clouds
+Time:         6/4 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Vivien Chen (NTHU)
+Topic:         Filamentary Accretion Flows in the IRDC M17 SWex
+Time:         6/6 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Although filamentary structures are ubiquitous in molecular clouds, basic observational constraints are needed to clarify the role of filaments in the mass assembly process. Using ALMA Band 3, we have performed full-synthesis imaging of the N2H+ (1-0) emission in the remarkable IRDC complexes, M17 SWex, where a delayed onset of massive star formation was reported in the two hubs at the convergence of multiple filaments of parsec length.  We derive gas kinematics by fitting the hyperfine components of N2H+ spectra.  The mass accretion rates are in the range of 10^-5 to 10^-4 Msun/yr.  The line widths suggest a transonic nature of dense gas in the filaments.  A comparison study of viral parameters from filaments, clumps, to cores is made.  The observation results all together are consistent with the hierarchical gravitational collapse scenario.
+
+==============================================================================
+
+> From: "Tirupati Kumara, Sridharan" <tksridharan@cfa.harvard.edu>
+> Date: Thu, 31 May 2018 13:50:20 -0400
+> Subject: SMA Call for Large Scale and Standard Proposals - 2018B Semester
+> To: cfa-wide <cfa-wide@cfa.harvard.edu>, 
+>    sma-newsletter <sma-newsletter@cfa.harvard.edu>,
+
+Dear Colleague,
+
+We wish to draw your attention to the Large Scale Projects program for observations with the Submillimeter Array (SMA), which is now accepting Notices of Intent to propose. Under this program, proposals dedicated to answering major astrophysical questions having significant scientific impact requiring observing times of order 100-1000 hours are solicited. In this communication, we are also pre-announcing the dates for standard observing proposals. These calls are for the 2018B semester with observing period Nov 16, 2018 - May 15, 2019. 
+
+The SMA is a reconfigurable interferometric array of eight 6-m antennas on Maunakea jointly built and operated by the Smithsonian Astrophysical Observatory and the Academia Sinica Institute of Astronomy and Astrophysics. The array operates in the 230, 345 and 400 GHz bands. 
+
+The SMA has recently completed significant upgrades in observational capability, with more under way. Currently, the SMA observes simultaneously with two orthogonally polarized receivers, one in the 230 GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with full polarimetric observations available using the 230+240 or 345+400 band combinations). The SWARM correlator processes 8 GHz bandwidth for each receiver in each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. This 32 GHz frequency coverage can be continuous where the tuning ranges overlap for the two orthogonally polarized receivers. In short, the SMA now provides flexible, wide band frequency coverage that delivers high continuum sensitivity and excellent spectral line capabilities. A full track offers continuum sensitivity of 200 or 500 micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions (precipitable water vapor 2.5mm and 1.0mm, respectively). The corresponding line sensi!
+tivities at 1 km/s resolution are 30 and 70 mJy. The small antennas allow access to low spatial frequencies in the sub-compact configuration, and at the other extreme, the finest angular resolution with the very extended configuration at 345 GHz is ~ 0.25". The compact and extended configurations complete the range. Thus, in some ways, the characteristics and performance of the SMA are both similar and complementary to those of the stand-alone Atacama Compact Array (ACA) component of ALMA. For more information about SMA capabilities, visit the SMA Observer Center website and explore the set of SMA proposing tools. Current and archived SMA Newsletters available online provide a sampling of the wide variety of science possible with the SMA. 
+
+The Large Scale Projects program follows a phased development, submission and review path, with the final selection of successful proposals synchronized with the TAC process for standard proposals. Accordingly, a Notice of Intent is required ahead of full submission. The deadlines are: 
+
+Large Scale Projects proposals 
+
+Notice of Intent: 02 July, 2018 
+Full submission: 09 August, 2018 
+
+Standard Observing Proposals 
+
+Submissions open : 14 August 2018 (expected date) 
+Submissions Close : 06 September 2018 
+
+A second announcement will be circulated when the standard proposal system opens for submissions. 
+
+More details can be found at: 
+
+General
+
+Large Scale
+
+Notice of Intent
+
+Questions or comments regarding the Call can be addressed to sma-largescale@cfa.harvard.edu for  Large Scale Proposals and to sma-propose@cfa.harvard.edu  for Standard Proposals.
+
+Best wishes,
+
+T. K. Sridharan
+SMA TAC Chair
+-- 
+You received this message because you are subscribed to the Google Groups "sma-newsletter" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to sma-newsletter+unsubscribe@cfa.harvard.edu.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+==============================================================================
+
+> From: Meng-Ru Wu <mwu@gate.sinica.edu.tw>
+> Date: Mon, 5 Aug 2019 10:14:05 +0800
+> Subject: Numerical Astrophysics Summer School: Astrophysical Fluid Dynamics,
+>          Sep. 4-6, 2019, NTHU
+> To: astro@asiaa.sinica.edu.tw
+
+
+Dear colleagues,
+
+We have a numerical astrophysics summer school on astrophysical fluids in
+early September (9/4 - 9/6).
+You are welcome to register. The deadline for registration is on August
+15th.
+
+https://nctsmma.github.io/events/201909-naschool/
+
+In this 3-day school, we will introduce the basic theory of fluid dynamics
+and simulations of hydrodynamics. The program of the school consists of
+five lectures and five hands-on Lab sessions. Participants can expect to
+learn how to perform basic hydrodynamic simulations with FLASH code, and
+work together in a group of 2-4 people on a specific small scientific
+project.
+
+Ke-Jung Chen
+Hiroyuki Hirashita
+Kuo-Chuan Pan
+Hsi-Yu Schive
+Meng-Ru Wu
+
+==============================================================================

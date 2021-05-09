@@ -1,0 +1,162 @@
+From astro@.MISSING-HOST-NAME. Fri Nov 26 13:06:44 2004
+Date: Wed, 3 Nov 2004 13:47:44 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue Oct 27 - Nov 03, 2004)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (Oct 27 - Nov 03, 2004):
+
+1. Pacifichem 2005 - Symposium 47: 
+	Astrochemistry - From Laboratory Studies to Astronomical Observations
+2. ASIAA Colloquium (Nov 05): Takeshi Oka (Univ of Chicago)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From kaiser@gold.chem.hawaii.edu Wed Oct 27 10:31 CST 2004
+Message-ID: <417F08D1.9060000@gold.chem.hawaii.edu>
+Date: Tue, 26 Oct 2004 16:32:49 -1000
+From: "Ralf I. Kaiser" <kaiser@gold.chem.hawaii.edu>
+
+
+Astrochemistry - From Laboratory Studies to Astronomical Observations
+
+Pacifichem 2005 - Symposium 47
+
+Honolulu, Hawai'i, December 15-20, 2005
+ 
+
+Contents
+
+The formation of molecules in extraterrestrial environments has 
+fascinated scientists since the pioneering detection, of CH and CN in 
+interstellar space. We now know of about 130 species, ranging in 
+complexity from diatomics such as molecular hydrogen to polyatomics like 
+the sugar glycolaldehyde, benzene, and cyanopentaacetylene, which have 
+been identified as gas-phase constituents of extraterrestrial 
+environments. Nevertheless, many facets of the question "How do these 
+molecules arise?" remain unanswered or contentious. This symposium 
+focuses on the interdisciplinary field of astrochemistry, bringing 
+together speakers from the fields of laboratory astrochemistry 
+(dynamics, kinetics, and spectroscopy), astrochemical modeling 
+(physicists), theoretical astrochemistry (computational chemists), and 
+observational astrochemistry (astronomers). By focusing on the interplay 
+between observational data, kinetic modeling, and fundamental 
+investigations of the details of specific molecular processes, we seek 
+also to evaluate the emerging generalized concepts on the formation of 
+astrochemically important molecules on the molecular level. Furthermore, 
+by exploring the current boundaries of astrochemical knowledge, we can 
+more effectively design new laboratory experiments under well-defined 
+conditions (and recommend promising directions for further astronomical 
+searches) to resolve critical unanswered aspects of molecular synthesis 
+in extraterrestrial space on the molecular level. 
+
+
+Presentations & Proceedings
+
+This symposium features 30 invited talks (30 min each). In addition we 
+allocated time slots for 10 contributed talks (15 min each) and poster 
+presentations. Registrations and abstracts shall be submitted through 
+the Pacifichem Webpage <http://www.pacifichem.org/> 
+(http://www.pacifichem.org/) before April 13, 2005. Contributors will be 
+notified by May 30, 2005, if submissions have been selected for oral or 
+poster presen­ta­tions. Proceedings are published by the American 
+Institute of Physics. Additional information (invited speakers, 
+submission process) can be found on 
+http://www.chem.hawaii.edu/Bil301/AstroPacifichem.html
+
+
+The Organizers
+
+Peter Bernath, Department of Chemistry, University of Waterloo, 200 
+University Avenue West, Canada. Email: bernath@uwaterloo.ca 
+<mailto:bernath@uwaterloo.ca>
+
+Ralf I. Kaiser, Department of Chemistry, University of Hawai'i at Manoa, 
+Honolulu, HI 96822, USA. Email: kaiser@gold.chem.hawaii.edu 
+<mailto:kaiser@gold.chem.hawaii.edu>
+
+Alexander M. Mebel, Florida International University, Department of 
+Chemistry & Biochemistry, University Park, Miami, FL. 
+Email:  mebela@fiu.edu <mailto:mebela@fiu.edu>
+
+Young C. Minh, Korea Astronomy Observatory, 61-1, Whaam, Yusong, Taejon 
+305-348, Republic of Korea, Email: minh@trao.re.kr <mailto:minh@trao.re.kr>
+
+Yoshihiro Osamura, Department of Chemistry, Rikkyo University, 3-34-1 
+Nishi-ikebukuro, Tokyo, 171-8501, Japan. Email: osamura@rikkyo.ne.jp 
+<mailto:osamura@rikkyo.ne.jp>
+
+Simon Petrie, Department of Chemistry, Australian National 
+University,Canberra , ACT 0200, Australia. Email: spetrie@rsc.anu.edu.au 
+<mailto:simon.petrie@anu.edu.au>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Tue, 2 Nov 2004 09:26:17 +0800 (CST)
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+cc: astro@asiaa.sinica.edu.tw
+Subject: [Colloquium] ASIAA Colloquium This Week (11/05 Friday)
+
+
+  Dear all,
+
+ 	This week, we will have Prof. Takeshi Oka visiting from University
+  of Chicago On Thursday, Prof. Oka will first give a talk titled "The
+  Ubiquitous H3+" at the IAMS. On Friday, he will offer us a colloquium
+  titled
+
+  "Hot and Diffuse Clouds near the Galactic Center Probed by Metastable H3+"
+
+ 	Please mark your calendar and remember to join the talk!
+
+  Regards,
+
+  sheng-yuan
+
+  ------------------------ ASIAA Colloquium ------------------------
+   Speaker : Prof. Takeshi Oka (University of Chicago)
+   Title   : Hot and Diffuse Clouds near the Galactic Center
+                Probed by Metastable H3+
+   Time    : 11/05 (Friday) 2:00 PM
+   Location: ASIAA Room 716
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+   Abstract:
+              It has been well established mainly from the radio
+              observations of CO that the Central Molecular Zone
+              (CMZ) of the Galaxy, a region of radius ~ 200 pc,
+              contains high density (n >= 10^4 cm^-3) molecular
+              gas with a high filling factor of f >=  0.1 and the
+              gas constitutes about one tenth of the total interstellar
+              matter in the Galaxy (Morris and Serabyn 1996). It
+              is also known from the radio spectrum of NH3 that a
+              significant fraction of the gas has  high temperature
+              (~ 200 K) and large velocity dispersion (15 ~ 50 km s^-1).
+              Studies of the gas in the CMZ provide information
+              vital for understanding the turbulent activity in
+              the core of the Galaxy.
+
+              I report our discovery of low density (n <= 10^2 cm^-3)
+              and high temperature (T >= 300 K) gas in the CMZ using
+              the infrared absorption spectrum of H3+ in the
+              (J,K) = (3,3) metastable level. H3+, discovered in
+              interstellar space in 1996 (Geballe and Oka), is a
+              unique astrophysical probe in that it is observed with
+              comparable column densities (~ 10^14 cm^-2) both in
+              dense and diffuse clouds. Since the heavy visual
+              extinction of AV = 25 ~ 40 toward the Galactic center
+              (GC) is caused mainly by diffuse clouds, H3+ is a
+              powerful probe to study sightlines toward the GC.
+              I report our observations using the Subaru Telescope
+              (Goto et al. 2002), the United Kingdom Infrared
+              Telescope, and the Gemini South Telescope of the
+              extremely non-thermal rotational distribution of
+              H3+ and provide observational evidence for the vast
+              amount of hot and diffuse gas in the CMZ based on a
+              recent model calculation (Oka and Epp 2004).
+  ------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

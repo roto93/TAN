@@ -1,0 +1,65 @@
+> Date: Thu, 7 Dec 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    James Simpson (ASIAA)
+Topic:         S2COSMOS: First results from an EAO survey to unveil 1200 sub-mm sources in the COSMOS field with SCUBA-2
+Time:         12/11 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Daisy Leung (Cornell University)
+Topic:         The Interstellar Medium and Gas Dynamics of High Redshift Dusty Star-Forming Galaxies and Quasars
+Time:         12/11 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Gas-rich star-forming galaxies are the main contributors to the buildup of stellar and black holes masses in the Universe, which took place rapidly between the redshift of z=1-3. Both star formation and active galactic nucleus (AGN) activity are related to the gas content and the dynamics of their host galaxies, which in turn shape their subsequent evolution to the present epoch. In this talk, I will present our recent findings in characterizing the interstellar medium (ISM) of dusty star-forming galaxies (DSFG) and powerful quasars using multi-wavelength photometry and CO- and [CII]- line imaging obtained with telescopes such as ALMA, VLA, PdBI, and SMA. In particular, I will focus on our findings of the most massive z~3 "main-sequence" disk galaxy discovered in the rare sample of IR-luminous galaxies at the peak epoch of cosmic star formation using the Herschel Space Observatory. I will conclude with a discussion on the implications of these studies in the context of galax!
+y formation and evolution.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Anne Dutrey (University of  Bordeaux)
+Topic:         ALMA and NOEMA Observations of Disks: deriving Gas and Dust Properties
+Time:         12/13 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Protoplanetary disks of gas and dust encountered around low and intermediate young stars are now recognized as sites of planet formation.  Determining as accurately as possible their physical parameters, such as the temperature and the density, is therefore  fundamental.  So far, our knowledge of these physical parameters remains in many cases model dependent. In the first part of this seminar, I will discuss some recent results we have obtained using ALMA and NOEMA to study the TW Hydra and the Flying Saucer protoplanetary disks.  I will then briefly discuss disk evolution by showing the results of the survey of hybrid disks we have done using the IRAM 30-m telescope and APEX.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chang, Yin-Chang (ASIAA)
+Topic:         TBD
+Time:         12/13 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Juliana Kwan (Kavli IPMU)
+Topic:         Cosmology from joint probes of clustering and weak lensing
+Time:         12/14 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+We live in an exciting time for cosmology. With ongoing imaging surveys such as Dark Energy Survey (DES) and the Hyper Suprime-Cam (HSC) Survey covering increasing volumes of sky, we are now able to explore much more of the large scale dark matter distribution with weak gravitational lensing. Observations of galaxy-galaxy lensing and cosmic shear provide new information on the nature of dark energy and cosmic acceleration by breaking cosmological parameter degeneracies when combined with galaxy clustering. However, the sophistication of our theoretical modelling needs to match the precision of our observations. This will be especially significant for small deviations to the standard model such as massive neutrinos and time variations to the equation of state parameter for dark energy.
+>
+This talk presents results from one of the first studies from DES involving joint probes of weak lensing and large scale structure. I will also talk about the analysis tools that I have built to supply percent level predictions for highly non-linear quantities such as the halo bias and mass function using a large suite of N-body simulations including dynamical dark energy and massive neutrinos.
+
+==============================================================================

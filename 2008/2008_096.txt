@@ -1,0 +1,179 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Jun 13 02:11:13 2008
+Date: Fri, 13 Jun 2008 02:06:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 10 - 12, 2008)
+
+==============================================================================
+
+In this issue (Jun 10 - 12, 2008)
+
+1. NCU Astronomy Colloquia (Jun 11): Sergei A. Levshakov
+                                 (Ioffe Physico-Technical Institute, Russia)
+                           (Jun 12): Sergei Gulyaev
+				 (Auckland University of Technology)
+                           (Jun 20): Hsu-Tai Lee and Hui-Chen Chen
+2. ASIAA Colloquium (June 13): Sergei Levshakov
+			         (Ioffe Physico-Technical Institute)
+
+==============================================================================
+
+> From: "Yu-Huei Wu" <yhwu@astro.ncu.edu.tw>
+> To: asall@astro.ncu.edu.tw, astro@asiaa.sinica.edu.tw,
+>       asall@canis.astro.ncu.edu.tw, twhepnet@hepmail.phys.sinica.edu.tw
+> Subject: Talks in IA NCU 
+> Date: Tue, 10 Jun 2008 20:37:50 +0800
+
+Dear people,
+
+Sorry to get things online late. Since we have many talks this week, we will have two talks this week 
+and move one talk (陳慧真 Hui-Chen Chen)  to the next week. Anyone who'd like to have lunch with 
+our speakers is very welcome.
+
+ This week / (1)  6/11(Wed) 14.00: Dr. Sergei A. Levshakov ----See previous e-mail.
+                    \ (2)  6/12(Thu)  14.00: Prof. Sergei Gulyaev     ----- See his title and talk as following.
+    
+
+ Next week
+/   (1) 6/20(Fri)  14.00-15.00: 李昫岱 Dr. Lee, Hsu-Tai 
+\   (2) 6/20(Fri)  15.00-16.00: 陳慧真 Hui-Chen Chen-----
+           See her title and talk as following. 
+
+############################################################################
+Astronomy Colloquium 
+Institute of Astronomy, NCU
+
+Title:
+The Square Kilometre Array (SKA) project: scientific, technical and geopolitical challenges
+
+Speaker:
+Prof. Sergei Gulyaev 
+New Zealand SKA Project Leader, Director of Institute for Radiophysics and Space Research, School of 
+Computing and Mathematical Sciences, Auckland University of Technology
+
+Date:
+06,12,2008(Thu)
+(month,day,year) 
+
+Time:
+14:00-15:00
+
+Place:
+S4-1013
+
+The Square Kilometre Array (SKA) represents the next major, and natural, step in radio astronomical 
+facilities, providing two orders of magnitude increase in collecting area over existing telescopes. In 
+this talk I will outline the key science projects for the SKA and briefly discuss main engineering and 
+computational problems. I will also discuss the current status of the SKA and its geopolitical 
+challenges.
+
+############################################################################
+Astronomy Colloquium Institute of Astronomy, NCU
+
+Title:
+Survivability of a star cluster in a dispersing molecular cloud
+
+Speaker:
+陳慧真 Hui-Chen Chen
+NCU
+
+Date:
+06,20,2008
+(month,day,year) 
+
+Time:
+15:00-16:00
+
+Place:
+S4-1013
+
+Star clusters are believed to from in molecular clouds. By estimating the ratio of optical clusters to 
+embedded cluster, people argued that most of them could not survive for a long time. Dispersion of 
+the parent molecular clouds by stellar winds, UV radiation and/or supernova explosions might be the 
+main mechanism in this short timescale. In this work we study the effect of the dispersion of 
+molecular clouds by N-body simulations. A large set of runs are carried out to investigate the 
+parameter space. The ending time of simulations are set as 30 Myr in every case since the lifetime of 
+molecular clouds is usually from 10 to 30 Myr. In our results, the survivability of a star cluster is 
+related to the mass ratio of the cluster to the entire system ( the cluster and the cloud) in a certain 
+region ( radius). Different dispersion rates are compared to different radii. An embedded cluster 
+seems not easy to disrupt if the parent cloud is less massive or more extensive. By the robust result 
+in our study, the survivability could be predict if the initial conditions of the cluster and the cloud are 
+known.
+
+############################################################################
+
+Cheers,
+Yu-Huei
+
+--------------------------------------------------------------
+吳育慧 國立中央大學天文研究所 博士後 
+
+Yu-Huei Wu, Post doc, Institute of Astronomy,NCU
+
+NCU Astro colloquium page:
+
+http://www.astro.ncu.edu.tw/contents/seminar/colloquium/sub.php?more=all
+
+Tel: 03-4227151-65953
+
+--------------------------------------------------------------
+
+--
+Open WebMail Project (http://openwebmail.org)
+
+==============================================================================
+
+> Date: Wed, 11 Jun 2008 12:56:02 +0800
+> From: lychiang <lychiang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> CC: astro@asiaa.sinica.edu.tw
+> Subject: [Colloquium]ASIAA Colloquium this week
+
+Dear all,
+
+This week some of us are going to enjoy the outing, but most are surely 
+going to work hard! For Friday's colloquium we have Dr. Sergei Levshakov 
+from  Ioffe Physico-Technical Institute of Russia, who is currently 
+visiting Academia Sinica. The title of his talk is
+
+"QSO spectra in cosmological tests"
+
+Please mark your calendar and remember to join the event.
+
+Lung-Yih
+
+------------------------- ASIAA Colloquium -------------------------
+ Speaker  : Dr. Sergei Levshakov (Ioffe Physico-Technical Institute)
+ Title        : QSO spectra in cosmological tests
+ Time       : 6/13 (Fri) 2:00 PM
+ Location : Rm 716
+ Broadcast: Available at http://www.asiaa.sinica.edu.tw/
+----------------------------------------------------------------------------- 
+
+
+-- 
+Lung-Yih Chiang
+Institute of Astronomy and Astrophysics
+Academia Sinica
+P.O.Box 23-141
+Taipei 10617
+Taiwan R.O.C.
+tel: +886 2 33 65 22 00 ext 786 
+http://www.asiaa.sinica.edu.tw/~lychiang/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

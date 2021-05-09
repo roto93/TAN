@@ -1,0 +1,41 @@
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Subject: ALMA Cycle 8 Pre-Announcement
+Date: Sun, 22 Dec 2019 14:27:54 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear all,
+
+    The ALMA Cycle 8 Pre-announcement has been released.
+
+    The Joint ALMA Observatory (JAO) will start the next cycle of observations (Cycle 8) in October 2020. A Call for Proposals (CfP) with detailed information on Cycle 8 will be issued in March 2020 and the deadline for proposal submission will be in April 2020. This pre-announcement highlights aspects of the Cycle 8 CfP to assist with early planning.
+
+    The key dates (anticipated) for Cycle 8 are:
+        19 December 2019        Cycle 8 pre-announcement
+        17 March 2020            Release of the ALMA Cycle 8 Call for Proposals and Observing Tool, and opening of archive for proposal submission
+        15 April 2020            Proposal submission deadline
+        End of July 2020        Results of the proposal review sent to proposers
+        9 September 2020        Deadline for phase 2 submission by PIs or designees
+        15 September 2020        Release of ACA Supplemental Call for Proposals
+        1 October 2020            Start of Cycle 8 observations
+        8 October 2020               Supplemental Call deadline
+
+    New in Cycle 8    â€”    In Cycle 8, the following technical capabilities will be available for the first time:
+        â€¢ Solar observations in Band 5
+        â€¢ VLBI observations of faint science targets (correlated flux density <500 mJy within an unresolved core on ALMA baselines up to 1 km). These observations will be done in passive phasing mode, where it is recommended to have a bright calibrator within 5 deg of the science target.
+        â€¢ High-frequency observations (Bands 9 and 10) with the stand-alone 7-m Array
+        â€¢ Mosaicking of continuum linear polarization observations (Bands 3 to 7)
+        â€¢ Spectral scans with the 7-m Array
+
+    Dual-Anonymous Proposal Review
+         Proposals in Cycle 8 will implement a dual-anonymous process for proposal reviews. While proposers will still enter their names and affiliations in the Observing Tool, their identities will be concealed from the reviewers. It will be the responsibility of the investigators to write their proposals such that anonymity is preserved. Guidelines on how to prepare such proposals will be presented in a forthcoming ALMA news item and, later, in the CfP.
+
+    For more information, please see https://almascience.nao.ac.jp/news/cycle-8-pre-announcement
+
+best,
+Yu-Nung
+
+==============================================================================

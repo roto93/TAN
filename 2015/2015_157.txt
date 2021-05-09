@@ -1,0 +1,174 @@
+==============================================================================
+
+In this issue (Aug 25 - 29, 2015)
+
+1. Arizona Radio Observatory - Call for Proposals: Fall 2015 (Oct 01, 2015)
+2. JCMT 16A Call for Proposals
+3. ASIAA Colloquium/Seminar/Lunchtalk (Aug 31): Meg Schwamb (ASIAA)
+                                      (Sep 01): S.K. Pan (NRAO)
+                                      (Sep 02): Edward Tong (SAO)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Fall 2015)
+----------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT), located on
+Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
+located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period October 15, 2015 to January 16, 2016. The proposal
+deadline of UCAT/ASIAA for this 2015 fall semester is set on October 01, 2015
+(Thursday).
+
+The SMT currently supports a dual-polarization 1-mm (211-275 GHz) receiver with
+ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, a 0.4-mm (602-720 GHz) dual-polarization receiver with ALMA
+Band 9 mixers, and a new Band 7 receiver with SBS mixers will be available in
+January 2016. The SMT control system supports both dual-polarization ("2 IF
+mode"), and dual-polarization, dual-sideband observations ("4 IF mode"), as
+well as OTF mapping. The new 12m supports an ALMA Band 3 dual-polarization SBS
+receiver (84-116 GHz) for this season.
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Information about Remote Observing
+can be viewed at: http://aro.as.arizona.edu/remote/remote.htm/. Graduate
+student participation is especially encouraged. For further information about
+remote observing and operational questions, please contact Tom Folkers,
+Operations Manager at tfolkers@email.arizona.edu.
+
+Proposers should consult the ARO website, http://aro.as.arizona.edu/, for
+technical specifications and to download updated Proposal Summary Sheet
+templates here: http://aro.as.arizona.edu/proposal_submission_information.htm .
+Proposal candidates are required to list on the Proposal Summary Sheet their
+requested observing blocks (LST ranges), dates on which they are NOT available
+to observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (44 degrees at the SMT).
+
+Proposals should consist of:
+1.  A Proposal Summary Sheet.
+2.  A brief scientific and technical justification (no more than 2 pages).
+3.  A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+
+Electronic submissions will be accepted in PDF format ONLY. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to
+kuan@asiaa.sinica.edu.tw by midnight (23:59 pm CST) October 01, 2015 (Thursday).
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================
+
+> Subject: Fwd: JCMT 16A Call for Proposals is now OPEN.
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Date: Tue, 25 Aug 2015 12:43:27 +0800
+> Cc: astro@asiaa.sinica.edu.tw
+> To: riaa@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+        FYI, in case you are not on the JCMT user mailing list, here is the new CfP for JCMT 2016A semester.
+
+best,
+sheng-yuan
+
+
+> Begin forwarded message:
+>
+> From: Jessica Dempsey <j.dempsey@eaobservatory.org>
+> Subject: JCMT 16A Call for Proposals is now OPEN.
+> Date: August 25, 2015 at 4:41:20 AM GMT+8
+> To: JCMT Users List <jcmt_users@eaobservatory.org>
+>
+> Dear JCMT user,
+>
+> The East Asian Observatory is happy to invite PI observing proposals for semester 16A at JCMT. We are launching this Call through a new proposal handling system: Hedwig. You can reach Hedwig and find complete details of this Call at:
+>
+> https://proposals.eaobservatory.org/
+>
+> At your first visit, you should go to 'Log in' and generate an account.
+>
+> We hope you will find Hedwig easy to use: there is a 'Help' facility at the upper right corner, and individual Help tags at many places on the proposal pages.
+>
+> The 16A Call for Proposals closes on the 22nd of September, 2015.
+>
+> In addition, it should be noted that we will embark on survey observing in the 16A semester - and as such, PI time is more limited than the current semester, however we still strongly encourage PI submissions as at least 800 hours of time will be available to EAO and partner region investigators. Some alterations have also been made to the PI eligibility for Canada - please see the Call for details.
+>
+> We will close the old Northstar proposal handler soon: if you have information on Northstar that you value, please retrieve it now.
+>
+> best regards,
+> Jessica
+>
+> --
+> Dr Jessica Dempsey
+> EAO JCMT Operations Manager
+>
+> j.dempsey@eaobservatory.org
+>
+> To unsubscribe from this group and stop receiving emails from it, send an email to jcmt_users+unsubscribe@eaobservatory.org.
+
+==============================================================================
+
+> Date: Thu, 27 Aug 2015 08:00:02 +0800
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:     Meg Schwamb (ASIAA)
+Topic:          New Horizons at Pluto
+Time:          8/31 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Pluto is one of the largest dwarf planets residing in the Kuiper belt, a sea of icy planetesimals orbiting beyond Neptune. In mid-July, NASA's New Horizons spacecraft became the first mission to reach Pluto, making its closest approach to the dwarf planet and its largest moon Charon. The images and spectra obtained during the closest days and hours of the flyby will rewrite our understanding of the Pluto system. I'll present the New Horizons mission, talk briefly about what we knew previously about Pluto, and present some of the highlights from the preliminary fly-by data presented to the pubic.
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:     S. K. Pan (NRAO)
+Topic:          The CDL's current status and future plans
+Time:          9/1 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+An overview of the current status of the NRAO Central Development Laboratory will be presented.  Future development plans on MMIC amplifiers, Phased Array Feeds, Integrated Receiver Development, and CDL's role in the future ngVLA and ALMA development will also be discussed.
+
+*** Colloquium ***
+____________________________________________________
+Speaker:     Edward Tong (SAO)
+Topic:          Next Generation Receiver System for the SMA
+Time:          9/2 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+During the past few years, the SMA has been engaging in a wideband receiver upgrade. Front?end receivers with IF bandwidth of 12+ GHz have been introduced. Most of these receivers employ series distributed SIS mixers fabricated in ASIAA. Later this year, we will be introducing a new set of receivers that cover 210?270 GHz, which can be operated together with the existing 200 or 300 GHz receiver sets. At the same time, a new digital backend, the SWARM correlator, is being developed and put into action. Powered by the 5 GSample/sec Analog?Digital Convertor developed by ASIAA, SWARM currently offers 2 x 1.5 GHz bandwidth, in addition to the 2 x 2 GHz provided by the ASIC (or legacy) correlator. This wideband receiver upgrade has improved the sensitivity of the SMA. Under good weather conditions, the SMA can deliver a detection threshold of 1 mJy or better at 345 GHz with the ASIC correlator alone. Further gains are being materialized when the SWARM data is included.
+Looking beyond the current phase of receiver upgrade, we believe that the sensitivity of the SMA can see further improvements. Our vision for the Next Generation Receiver System for the SMA includes a combination of re?formulation of the front?end hardware, coupled with a continued expansion of the backend digital hardware. In order to achieve this objective, the entire receiver system has to be overhauled. We are drawing up plans to achieve this, with the aim of targeting specific areas of science that the SMA is best positioned to do well. We will present our plans, and we hope to get inputs from both the technical and scientific groups in ASIAA, which have strong interests in the continued operation of the SMA.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

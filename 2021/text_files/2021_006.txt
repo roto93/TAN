@@ -1,0 +1,23 @@
+==============================================================================
+
+Date: Thu, 7 Jan 2021 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    James Hung-Hsu Chan (ASIAA)
+Topic:         Measuring accretion disk sizes of lensed quasars with microlensing time delay in multi-band light curves
+Time:         1/11 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+I will present a new method to measure the color-dependent source size in lensed quasars using the microlensing time delays inferred from multi-band light curves. In practice, the relevant observable is the differential microlensing time delays between different bands. I will show from simulation using the facility as Vera C. Rubin Observatory that if this differential time delay between bands can be measured with a precision of 0.1 days in any given lensed image, the disk size can be recovered to within a factor of 2. If four lensed images are used, our method is able to achieve an unbiased source measurement within the error of the order of 20%, which is comparable with other techniques.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

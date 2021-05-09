@@ -1,0 +1,62 @@
+==============================================================================
+
+Date: Thu, 24 Oct 2019 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Chia-Lin Ko (NTHU/ASIAA)
+Topic:         How do dust polarization observations trace B-fields? A Comparison between JVLA and ALMA observations
+Time:         10/28 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+The previous SMA 0.87 mm and CARMA 1.3 mm surveys of dust polarization toward protostars (Galametz et al. 2018; Hull et al. 2017) have shown that polarization percentage in general decreases rapidly with total intensity. They also hinted with a dichotomy that the projected polarization E-segments are either parallel or perpendicular to the outflow axes. Based on the JVLA 18-48 GHz and ALMA 230 and 345 GHz polarization observations towards the specific Class 0 YSO, NGC1333 IRAS4A, we conjectured a unified interpretation of these facts based on aligned dust grains with B-field. At 345 GHz, we found that the radial polarization percentage profiles of IRAS4A1 and IRAS4A2 may be consistent with centrally illuminated collapsing cores, which have an hourglass shaped B-field topology, r^-2 volume density profile, and an approximately consistent grain alignment efficiency. The modestly high optical depth leads to the depolarization at the center of IRAS4A2. The much higher optical de!
+ pth at the center of IRAS4A1 eventually leads to a 90 degree flip of polarization position angles at 230 and 345 GHz with respect to those observed at 18-48 GHz. At 230 and 345 GHz, what we detected were the linear polarization due to dust extinction instead of dust emission. We conclude that the 230/345 GHz polarization observations towards Class 0 YSOs indeed trace B-field, although any dichotomy related to how E-field is aligned with certain prefer axes (e.g., outflow, filament) may be related to the optical thickness of the selected samples.
+
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Richard de Souza (University of Michigan)
+Topic:         Unravelling the Andromeda Galaxy's most massive merger
+Time:         10/29 (Tuesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The Andromeda Galaxy (M31), our nearest large galactic neighbour, offers a unique opportunity to
+test how mergers affect galaxy properties. M31's stellar halo caused by the tidal disruption of
+satellite galaxies is the best tracer of the galaxy's accretion history. Despite a decade of
+effort in mapping out M31's large stellar halo, we are unable to convert M31's stellar halo into
+a merger history. Here we use cosmological models of galaxy formation to show that M31's massive
+and metal-rich stellar halo containing intermediate age stars implies that it merged with a
+large (M* ~ 2.5 x 10^10 M_sun) galaxy ~2 Gyr ago. The simulated properties of the merger debris
+help to interpret a broader set of observations of M31's stellar halo and satellites
+than previously considered: its compact and metal-rich satellite M32 is the tidally-stripped core of
+the disrupted galaxy, M31's rotating and flattened inner stellar halo contains most of the merger
+debris, and the giant stellar stream is likely to have been thrown out during the merger. This accreted
+galaxy was the third largest member of the Local Group. This merger may explain the global burst of star
+formation ~2 Gyr ago in the disk of M31 in which ~1/5 of its stars were formed. Moreover, M31's disk and
+bulge were already in place before its most important merger, suggesting that mergers of this magnitude
+do not dramatically affect galaxy structure.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Eduard Vorobyov (University of Vienna)
+Topic:         Formation of giant planets via disk gravitational fragmentation
+Time:         10/30 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Giant planets play an important role in sculpturing planetary systems. They are found at a wide range of orbital distances from a fraction of au to hundreds of au, making it difficult to explain their origin in the framework of the core accretion paradigm.
+
+I will show that giant planets at orbital distances of tens of au (such as in HR 8799, PDS 70) can form through gravitational fragmentation of the outer regions of young protostellar disks followed by inward migration and tidal stripping of the fragments. An interesting by-product of this mechanism are accretion bursts, which can manifest itself as FU Orionis-type luminosity outbursts. Dust settling in the fragment interiors and likely formation of solid protoplanetary cores will also be discussed.
+
+==============================================================================

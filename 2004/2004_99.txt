@@ -1,0 +1,341 @@
+From astro@.MISSING-HOST-NAME. Wed Jun  9 13:22:05 2004
+Date: Tue, 8 Jun 2004 23:21:48 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue June 04 - 08, 2004)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (June 04 - 08, 2004):
+
+1. Astro-E2 AO-1
+2. Corrections: TIARA Job Openings: Postdoctoral and Research-Assistant 
+		Positions (July 01)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From hkchang@phys.nthu.edu.tw Fri Jun  4 10:53 CST 2004
+Date: Fri, 4 Jun 2004 10:48:30 +0800 (CST)
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: Astro-E2 AO-1 (fwd)
+
+
+-------------------------------------------------------------
+Hsiang-Kuang Chang                   hkchang@phys.nthu.edu.tw
+
+Associate Professor
+
+Department of Physics                      Tel: 886-3-5742952
+National Tsing Hua University              Fax: 886-3-5723052
+Hsinchu 300
+
+Taiwan, ROC          URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------
+
+---------- Forwarded message ----------
+Date: Thu, 3 Jun 2004 14:22:36 +0900
+From: Hideyo Kunieda <kunieda@astro.isas.jaxa.jp>
+To: hkchang@phys.nthu.edu.tw
+Cc: Tadayasu Dotani <dotani@astro.isas.jaxa.jp>, yamasaki@astro.isas.jaxa.jp
+Subject: Astro-E2 AO-1
+
+Dear Dr. Hsiang-Kuang Chang
+
+The next Japanese X-ray astronomy satellite Astro-E2 is being prepared
+for the launch in February 2005. As was mentioned in the previous IAU
+regional meeting in Japan last year, we plan to receive observation
+proposals from all across the world. We would like to notify following
+announcement of opportunity (AO-1) of Astro-E2 observations to the
+astrophysicists in Taiwan.
+
+There are two remarks. Researchers in countries other than USA or ESA
+member states have to submit proposals to ISAS, Japan according to this
+announcement. One more thing is that this is a program to enhance
+international collaboration with Japanese astronomers. Japanese co-I's
+are recommended. If there is no one available, we will introduce
+Japanese advisors to successful proposals, later.
+
+It is greatly appreciated if you circulate this AO among your
+colleagues or friends who may be interested in this opportunity.
+
+										With best wishes,
+
+										Hideyo Kunieda
+
+=====================================================
+Announcement of Opportunity (AO-1) of Astro-E2
+------------------------------------------------------------------------
+--------------------
+1. Overview
+   This is an announcement for researchers affiliated with
+institutions or universities located in Japan or countries other than
+USA or ESA member states, soliciting proposals for participation in
+the Institute of Space and Astronautical Science/Japan Aero-space
+Exploration Agency (ISAS/JAXA) program for conducting observations
+with the Astro-E2 X-ray observatory, currently scheduled for launche
+in February, 2005. The AO-1 covers a 1-year of observations beginning
+in September, 2005.
+
+   US based scientists should consult the parallel announcement at
+
+http://astroe.gsfc.nasa.gov/
+
+while scientists in ESA member countries should consult the version at
+
+http://www.rssd.esa.int/Astro-E2
+
+   This version is applicable to scientists based in all other
+countries. We would like to enhance scientific cooperation between
+non-US or non-ESA and Japanese scientists. Thus, PIs affiliated
+with institutions located in other countries than USA , ESA Member
+States or Japan are also eligible to propose for Astro-E2 guest
+investigations through ISAS/JAXA according to the present
+announcement.
+
+
+2. Astro-E2 X-ray observatory
+   The mission is equipped with five high throughput X-ray telescopes
+(XRTs) to cover up to 12 keV. A high resolution spectrometer (XRS) and
+four CCD cameras (XISs) are placed at foci of the telescopes. A hard
+X-ray detector (HXD) points in the same direction as the XRTs and
+covers up to 600 keV. The major features of Astro-E2 are its high
+energy resolution (E/dE ~ 1000 at 6 keV) and its broad energy coverage
+from 0.2 to 600 keV. Because the life time of the XRS cryogen is
+limited (estimated to be about 2.5 years), it is suggested that
+emphasis will be placed upon observations requiring the cryogenically
+cooled XRS during the early phase. The detailed mission description
+can be found in the following web site:
+
+http://www.astro.isas.jaxa.jp/astroe
+
+
+3. Mission phases and time allocation
+   The operational phases consist of three distinct phases which are
+divided into sub-phases.
+
+   Phase-0: Covers the first month when the basic functions of the
+satellite will be tested and initial operations are started for all
+scientific instruments by extending the optical bench and opening the
+doors.
+
+   Phase-I starts when the mission is ready for scientific observations
+and lasts until the XRS becomes unable to observe because of the lack
+of cryogen, roughly 2.5 years after the launch. It will be divided
+into three or four sub-phases (Ia-Ic; Id will be added if the cryogen
+lifetime exceeds 2.5 years). In Phase-II, the XRS will no longer be
+available so that only the XIS and HXD will be operated. Observations
+will be conducted along with the observation plans by the Science
+Working Group (SWG) of Astro-E2, Japanese AO, US AO and proposals from
+across the world, with time alloted as summarized in the following
+table. A portion of Japanese time has been allocated to ESA observers.
+Non-US and non-ESA observers are solicited to propose to the Japanese
+time (present AO).
+
+Phase (terms)       SWG     Japan       US        J/US
+                             (ESA)
+Phase-0(0-1 Mo)	     0%      0 %         0%          0%
+Phase-Ia(2-7 Mo)   100       0           0           0
+Phase-Ib(8-19 Mo)   25      37.5 (6)    32.5         5
+Phase Ic(20-31 Mo)  15      42.5 (7)    37.5         5
+Phase Id(32-? Mo)    0      50 (8)      37.5        12.5
+Phase-II             0      60 (10)     30          10
+
+   The present announcement covers observations for Phase-Ib. Of the
+total observation time, 5% will be reserved for maintenance and
+calibration purposes while 3% will be reserved for target of
+opportunity (TOO) observations. The remaining observation time will
+be allocated as shown in the table. In this AO-1 (Phase-Ib), the
+actual observation time is estimated to be 3,860 ksec for Japanese time
+excluding the ESA portion. In the merging process, if two individual
+proposals are recommended in US and Japan for the same target, they
+will be merged, when both PI's presented their wish to collaborate on
+the application form. Proposals from non-US, non-ESA countries will be
+accepted in the Japanese time up to the ESA portion.
+
+
+4. Observing Constraints
+   The Astro-E2 SWG has decided the target list of observations for the
+SWG time in Phase-Ia and Ib. Proposals to observe targets in this list
+will not be accepted without a strong justification, such as a much
+longer exposure, different pointing within an extended object, or
+different observing window of a variable object.
+
+   The length of the observation time in the proposal must be justified
+by showing the feasibility with simulations. The minimum allowed
+exposure time of an observation is 10 ksec due to operational
+constraints. While in principle there is no upper limit to the
+exposure, proposals with longer exposure times should address more
+important science, in general.
+
+   Observation times can be requested for a specific time (such as for
+specific binary phase) or for simultaneous campaigns (time critical
+observations). Target of opportunity (TOO) observations can be
+proposed for those objects with a high scientific importance that
+involve rapidly evolving phenomena whose occurrence cannot be
+predicted accurately. Such a proposal should state specific target
+names, position, triggering conditions, duration of events and the
+possibility of occurrence. Proposals for generic TOOs (e.g., the next
+Galactic supernova) are not allowed through this process. A separate
+mechanism will be established for such unpredictable targets. For
+gamma-ray bursts, the SWG has allocated 200 ksec to perform
+coordinated observations following alerts from other monitoring
+satellites. Therefore, no other proposals will be accepted for
+gamma-ray bursts.
+
+
+5. Review process and schedule
+   Proposals may be submitted from May 18 through August 18. They will
+be reviewed by a board of scientists in the fields of X-ray
+astrophysics and other relevant fields. After adding ESA proposals,
+the selected target list will be merged with the list selected in the
+US. The final list will be announced in December 2004. Accepted
+targets are prioritized in three categories. Priority A targets must
+be observed during the term. Priority B targets will be observed
+during the term but could be carried over to the next term. Priority C
+targets can be observed if there is a slot of observation time, but
+will not be carried over to the following term if they are not
+observed during the current term. The fraction of observation time is
+A:B:C = 50% : 40% : 50% (40% more than the available time). TOO and
+time critical observations should be scientifically more important
+(category ``A'' targets).
+
+
+6. Data rights
+   The data will be delivered to the successful proposer after standard
+processing has been carried and will go into the public domain one
+year after the delivery of data to the proposer. The data of the
+Phase-Ia (100% SWG time) will be open to public at the end of
+Phase-Ib. The data of generic TOO's and gamma-ray bursts observed in
+the mission TOO time and SWG time will belong to the Astro-E2 team for
+one year at least during Phase-Ia and Ib).
+
+
+==================Proposal Submission========================
+1. Observations
+   X-ray observations with Astro-E2 observatory from September 2005
+through August 2006.
+
+2. Who may propose
+   Principal investigators (PI's) have to be affiliated with
+institutions or universities located in Japan or countries other than
+US or ESA member states. PI's at US institutions and those in ESA
+member states should submit to NASA or ESA, respectively. PI's in
+other countries should send proposals to Japan.
+When a graduate student is a PI, his/her supervisor should be assigned
+as a Co-nvestigators. Scientists, who stay in US or in ESA member states
+by a fund from Japanese organizations, are able to submit to
+ISAS or  NASA/ESA.
+The requirement of affiliation with above institution does not
+extend to Co-Investigators. In case of proposals from coutries
+other than  Japan, US, and ESA member countries, collaboration
+with Japanese colleagues is strongly encouraged. Proposals
+without Japanese co-I's can  be submitted, and some Japanese
+advisors will be introduced after the acceptance.
+
+
+3. Due date of proposals
+   12:00 JST (03:00 UT) on August 18, 2004. Printed material should be
+postmarked no later than this date in Japan. In case of posting from
+outside of Japan, express air mail should be used.
+
+4. Proposal format
+   The following two items are both necessary.
+
+(1) RPS (Remote Proposal Submission system) submission: Note that the
+observation parameters in the electrical form must be accurate because
+they will be forwarded on-line to the satellite operation system.
+
+(2) 7 sets of hard copy of the proposal have to be submitted to the
+following address:
+
+Hideyo Kunieda
+Institute of Space and Astronautical Science
+Japan Aerospace Exploration Agency
+3-1-1, Yoshinodai, Sagamihara
+Kanagawa,229-8510
+Japan
+
+   The proposal form consists of
+(1) Cover Page (1 page),
+(2) Target Form (1 page),
+(3) Scientific Justification (scientific problem and technical
+feasibility) (maximum 4 pages; includes text, figures, charts, and
+tables)
+
+5. Supplemental Information
+
+   For details, see the mission description available at
+
+http://www.astro.isas.jaxa.jp/astroe/
+
+If you have questions, please contact
+
+Hideyo Kunieda
+TEL: 042-759-8154
+FAX: 042-759-8455
+e-mail: kunieda@astro.isas.jaxa.jp
+=======================================================
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From shang@asiaa.sinica.edu.tw Fri Jun  4 01:19 CST 2004
+Date: Fri, 4 Jun 2004 01:20:44 +0800 (CST)
+From: Hsien Shang <shang@asiaa.sinica.edu.tw>
+To: Yi-Jehng Kuan <kuan@asiaa.sinica.edu.tw>
+cc: Hsien Shang <shang@asiaa.sinica.edu.tw>
+Subject: TIARA ads (fwd)
+
+Dear Yi-Jehng,
+
+Some correction: we will consider applications for all areas of 
+astrophysics.
+
+---------- Forwarded message ----------
+Date: Thu, 3 Jun 2004 02:42:59 +0800 (CST)
+From: Hsien Shang <shang@asiaa.sinica.edu.tw>
+To: Yi-Jehng Kuan <kuan@asiaa.sinica.edu.tw>
+Cc: Hsien Shang <shang@asiaa.sinica.edu.tw>
+Subject: TIARA ads
+
+Hi Yi-Jehng,
+
+Could you please post our ad to TANET? We are looking for research 
+assistants and students as well.
+
+Thanks,
+
+Sienny
+
+=================================================
+Postdoctoral Positions in Theoretical/Computational Astrophysics
+Theoretical Institute for Advanced Research in Astrophysics
+
+Academia Sinica and National Tsing Hua University, Taiwan
+
+The newly established Theoretical Institute for Advanced Research in
+Astrophysics (TIARA) is seeking applications to fill several postdoctoral
+positions in theoretical/computational astrophysics in Fall 2004.  
+TIARA is a joint collaboration between the National Tsing Hua University 
+based in Hsinchu and Academia Sinica based in Taipei and has a mission to 
+carry out research at the highest level and to establish a vigorous 
+visitors program in theoretical astrophysics.  Present research at TIARA 
+include investigations in the areas of Galactic Dynamics, Star and Planet
+Formation, High Energy/Relativistic Astrophysics and Computational
+Fluid Dynamics and Magnetohydrodynamics.  The successful candidates will
+also have the opportunity for collaborations with scientists in the
+ongoing observational programs (SMA, AMiBA, TAOS projects within the
+Academia Sinica Institute of Astronomy and Astrophysics
+(http://www.asiaa.sinica.edu.tw).
+
+Applicants should submit a curriculum vita, a brief summary of 
+research and future research plans, and arrange for three letters of 
+recommendation to be sent to Ms. Winny Hsieh, Chief 
+Administrator, Institute of Astronomy and Astrophysics, TIARA 
+Postdoctoral Positions, Academia Sinica, P.O. Box 
+23-141, Taipei 106, Taiwan; Email: asiaa@asiaa.sinica.edu.tw.
+
+The closing date for applications is July 1, 2004.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

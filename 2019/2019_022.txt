@@ -1,0 +1,302 @@
+==============================================================================
+
+In this issue (Feb 15 - 21, 2019)
+
+1. Colloquium talks at NCU (Feb 15): Yen-Chen Pan
+                           (Feb 22): Wei-Hao Wang
+                           (Feb 25):  Hsiang-Yi Karen Yang
+2. ALMA Cycle 7 Users Workshop 2019
+3. The ALMA Configuration Schedule for Cycles 7, 8, and 9 
+4. ASIAA Colloquium/Seminar/Lunchtalk (Feb 25): Po-Sheng Ou (NTU/ASIAA)
+                            (Feb 25): Kohei Hayashi (University of Tokyo)
+                            (Feb 26): Ippei Obata (The University of Tokyo)
+                            (Feb 27): Takafumi Ootsubo (JAXA)
+5. NTNUES colloquium (Feb 26): Veronica Allen (NASA Goddard Space Flight Center)
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Fri, 15 Feb 2019 09:52:14 +0800
+> Subject: Colloquium talks at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+Please circulate these NCU colloquium talks; thanks.
+
+*** NCU Colloquium Talk ***
+
+*by* Yen-Chen Pan
+*on* Understanding Type Ia Supernova with UV Spectroscopy
+*at*  Feb/15 (F) 14:00 - 15:00 NCU S4-1013
+*Abstract* Ultraviolet (UV) observations of Type Ia supernovae (SNe Ia) are
+useful tools for understanding progenitor systems and explosion physics. In
+particular, UV spectra of SNe Ia, which probe the outermost layers, are
+strongly affected by the progenitor metallicity. Theory suggests that SN Ia
+progenitor metallicity is correlated with its peak luminosity, but not its
+light-curve shape. This effect should lead to an increased Hubble scatter,
+reducing the precision with which we measure distances. If the mean
+progenitor metallicity changes with redshift, cosmological measurements
+could be biased. Models also indicate that changing progenitor metallicity
+will have little effect on the appearance of optical SN data, but
+significantly alter UV spectra. To address this problem, we reduced and
+published the largest UV spectroscopic sample of SNe Ia to date. With this
+sample, we confirm theoretical predictions that SN Ia UV spectra are strong
+metallicity indicators. Our findings show that UV spectra are promising
+tools to further our understanding of SN Ia while directly improving the
+utility of SN Ia for cosmology.
+
+_______________________________________
+
+*by* Wei-Hao Wang
+*on* Faint Submillimeter Galaxies
+*at* Feb 22 (F) 14:00 to 15:00
+*Abstract* Submillimeter galaxies (SMGs) are high-redshift dust obscured
+star-forming galaxies with extremely high star formation rate (10^2 to
+>10^3 Msun/yr). They are widely regarded as progenitors of present-day
+massive elliptical galaxies. They were first discovered in the late 90=E2=
+=80=99s.
+Since then, we have slowly accumulated knowledge about this special
+population of galaxies. In the first decade since their discovery, most
+observations focused on the brightest members in this population, because
+of the limited sensitivities of submillimeter instruments. Such bright SMGs
+are extremely luminous, but are not representative in the dusty galaxy
+population. Thanks to the advent of sensitive interferometers and
+wide-field cameras, we are now pushing our studies to much fainter SMGs,
+i.e., more typical members in the dusty galaxy population. In this talk, I
+will introduce our recent works on understanding the faint SMGs and their
+relationship to normal galaxies.
+
+_______________________________________
+
+*by* Hsiang-Yi Karen Yang
+*on* The Microphysics of AGN Feedback
+*at* Feb 25 (M) 4:00 pm (*special date/time*) NCU S4 Room 1013
+*Abstract* Feedback from active galactic nuclei (AGN) is one of the most
+important processes governing the formation and evolution of galaxies and
+galaxy clusters. It is believed to be responsible for inhibiting the
+formation of massive galaxies and for solving the long-standing
+"cooling-flow problem" in galaxy clusters. A lot of understanding of AGN
+feedback has been gained using hydrodynamic simulations; however, some of
+the relevant physical processes are unresolvable or not captured by pure
+hydrodynamics, such as plasma effects and cosmic-ray (CR) physics. In this
+talk, I will present how we use simulations that incorporate this
+"microphysics" to understand how AGN jets feedback on galactic and cluster
+scales. Specifically, I will discuss our recent progress on the
+understanding of AGN heating in clusters, and how the heating processes
+depends on the AGN jet composition. I will also talk about how we could use
+multi-messenger observations of the Fermi bubbles as a nearby laboratory
+for studying AGN feedback. Finally, I will conclude with open questions and
+future prospects of applying simulations beyond hydrodynamics to various
+interesting astrophysical systems.
+
+==============================================================================
+
+> From: Pei-Ying Hsieh <pyhsieh@asiaa.sinica.edu.tw>
+> Date: Tue, 19 Feb 2019 11:29:30 +0800
+> Subject: ALMA Cycle 7 Users Workshop 2019
+> To: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw,
+>     astro@asiaa.sinica.edu.tw
+
+Dear potential ALMA users,
+
+ALMA will issue its Cycle 7 Proposal Call on March 19, 2019. In
+response to that, the ALMA Regional Center (Taiwan-ARC) of ASIAA and
+the University Consortium of ALMA-Taiwan (UCAT) will hold one day ALMA
+Users Workshop on March 22 (Friday), 2019. Below is the announcement:
+
+ALMA Users Workshop 2019
+Time: March 22, 2019
+Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+https://events.asiaa.sinica.edu.tw/workshop/20190322/
+Registration Deadline: March 12, 2019.
+
+The ALMA Cycle 7 Users Workshop is designed for preparing ALMA Cycle 7
+proposals. It is intended for graduate students, postdocs, faculty
+members and people who are interested in using ALMA.
+
+The program of the ALMA Users Workshop includes:
+
+ALMA Cycle 7 capability
+Suggestions of ALMA proposal preparation
+ALMA science portal
+Observing Tool (OT)
+CASA image simulation
+
+Please install the latest version of CASA and OT BEFORE the workshop.
+Feel free to ask ARC members for help if there is any difficulty
+during the installation.
+
+
+Best regards,
+Pei-Ying Hsieh
+On behalf of Taiwan ARC node
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: The ALMA Configuration Schedule for Cycles 7, 8, and 9 
+> Date: Wed, 20 Feb 2019 17:21:37 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>     riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+
+Yu-Nung
+
+=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+The ALMA Configuration Schedule for Cycles 7, 8, and 9
+Feb 15, 2019
+
+A preview of the Cycles 7, 8, and 9 ALMA Configuration Schedule is now =
+available. This schedule is being released to allow ALMA users to plan =
+their proposal strategy for the next three Cycles. Note that the overall =
+schedule may be modified depending on the outcomes of the proposal =
+review process and the proposal pressure in the different =
+configurations. While configurations C-1 through C-8 (with maximum =
+baselines between 0.16 and 8.5 km) will be offered every cycle, users =
+should note that configurations with baselines longer than 13 km (C-9 =
+and C-10) are scheduled for Cycle 7 and 9 but not Cycle 8.
+
+The Schedule is provided at the following link
+        =
+https://almascience.nao.ac.jp/observing/observing-configuration-schedule/l=
+ong-term-configuration-schedule=
+
+==============================================================================
+
+> Date: Thu, 21 Feb 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Po-Sheng Ou (NTU/ASIAA)
+Topic:          Modeling the Mass loss of Massive Stars with MESA
+Time:           2/25 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Kohei Hayashi (University of Tokyo)
+Topic:          Galactic Archaeology: a unique probe of the nature of dark matter
+Time:           2/25 (Monday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+Dark matter is now known to be the vital ingredient for the growth of structure in the Universe, while its nature remains a mystery.
+Galaxies in the Local Group are excellent laboratories to shed light on the nature of dark matter and its role in the galaxy formation.
+This is because these galaxies are sufficiently close to measure photometry, spectroscopy, and astrometry for their resolved stars, and this information enables us to study their chemo-dynamical structures in detail. Such studies are so-called "Galactic Archaeology".
+In particular, dwarf spheroidal (dSph) galaxies are ideal sites for studying the basic properties of dark matter as they are largely dark-matter dominated.
+Revealing dark matter distributions in dSphs is of crucial importance in testing dark matter models and constraining particle candidate of dark matter.
+In this talk, I will discuss dark halo structures in the dSphs through our dynamical analysis of their current available data.
+I will also discuss how dynamical studies for the dSphs can place constraints on the nature of dark matter.
+I will also present the future prospects for Galactic Archaeology science with deep and wide-field photometric and spectroscopic surveys, especially Subaru-HSC and PFS.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Ippei Obata (The University of Tokyo)
+Topic:          Axion Dark Matter Search with Optical Cavity Experiment
+Time:           2/26 (Tuesday) 11:00 - 12:00
+Place:           R812
+Abstract:
+The outline of this talk is mainly based on our recent paper 10.1103/PhysRevLett.121.161301. In this talk, I will present a novel experimental approach to search for axion dark matter which does not need a conventional strong magnetic field but use an optical cavity. This new method aims to measure the difference of phase velocity between two circular-polarized photons which is caused by the coupling to axion dark matter. The experimental sensitivity is in principle only limited by quantum noise which enables us to probe tiny axion-photon coupling  g_{aÎ³} <~ 10^{âˆ’11}GeV^{-1} with axion mass range m_a <~ 10^{-10}eV, which is competitive with other experimental proposals.  If I have time, I will also discuss the possibility to test axion dark matter with ongoing and upcoming gravitational wave detectors by using a scheme similar to our proposed method.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Takafumi Ootsubo (JAXA)
+Topic:          Comets, asteroids, and interplanetary dust observed with 
+infrared satellites: from AKARI to SPICA
+Time:           2/27 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+AKARI, the Japanese infrared astronomical satellite, was launched 
+in February 2006 and made a number of pointed observations for 
+deep imaging and spectroscopy together with the all-sky survey. 
+The data of the AKARI observations are essential not only for 
+the studies of the Galactic and extragalactic sciences, but also 
+for the Solar System sciences on comets, asteroids, TNOs, and 
+interplanetary dust. AKARI has already provided many precious 
+survey data sets and outcomes for the Solar System sciences, 
+including the asteroid catalog and the zodiacal emission map.
+
+AKARI has a spectroscopic capability in near- and mid-infrared 
+wavelength region. We carried out spectroscopic observations 
+for tens of asteroids and comets in 2.5-5 micron. AKARI detects 
+clear absorption/emission features related to hydrated minerals 
+in many asteroids and carbon dioxide in cometary comae. 
+AKARI also made the spectroscopy of the zodiacal emission in 
+the mid-infrared (5.5 to 12.5 micron) and detected the silicate 
+feature around 10-micron region toward the various ecliptic 
+latitude regions. These data sets provide us the information 
+on the physicochemical environment in the early solar nebula. 
+
+SPICA (Space Infrared Telescope for Cosmology and Astrophysics) 
+is an ESA-JAXA joint mission for infrared astrophysics after 
+AKARI, Spitzer and Herschel. SPICA covers infrared wavelength 
+(12 to 230 micron) region spectroscopically with the scientific 
+instruments SMI and SAFARI. In this talk, I will summarize the 
+successful results of AKARI and introduce the SPICA science 
+goals on the Solar System sciences.
+
+==============================================================================
+
+> Subject: NTNUES colloquium 26/Feb/2019: Organic chemistry around young high-mass stars: Observational and theoretical
+> From  chenlw <chenlw@ntnu.edu.tw>
+> To    chenlw@ntnu.edu.tw
+> Date  2019-02-21 19:05
+
+  Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         26/Feb/2019 14:20
+  Conference Room, B1, General Hall
+      (ºî¦XÀ] ¦a¤U«Ç¤p«¬ºtÁ¿ÆU)
+
+
+TITLE: Organic chemistry around young high-mass stars: Observational and theoretical
+
+SPEAKER: Dr Veronica Allen (NASA Goddard Space Flight Center)
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20190226.txt
+
+
+
+* Teatime available after the colloquium
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,101 @@
+
+> Date: Thu, 10 May 2018 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Ken Osato (Univ. of Tokyo)
+Topic:         Strong orientation dependence of surface mass density profiles of dark haloes at large scales
+Time:         5/14 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+We study the dependence of surface mass density profiles, which can be directly measured by weak gravitational lensing, on the orientation of haloes with respect to the line-of-sight direction, using a suite of N-body simulations. We find that, when major axes of haloes are aligned with the line-of-sight direction, surface mass density profiles have higher amplitudes than those averaged over all halo orientations, over all scales from 0.1 to 100 Mpc/h we studied. While the orientation dependence at small scales is ascribed to the halo triaxiality, our results indicate even stronger orientation dependence in the so-called two-halo regime, up to 100 Mpc/h. The orientation dependence for the two-halo term is well approximated by a multiplicative shift of the amplitude and therefore a shift in the halo bias parameter value. The halo bias from the two-halo term can be overestimated or underestimated by up to ~ 30% depending on the viewing angle, which translates into the bias in !
+estimated halo masses by up to a factor of two from halo bias measurements. The orientation dependence at large scales originates from the anisotropic halo-matter correlation function, which has an elliptical shape with the axis ratio of ~ 0.55 up to 100 Mpc/h. We discuss potential impacts of halo orientation bias on other observables such as optically selected cluster samples and a clustering analysis of large-scale structure tracers.
+
+
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Ji-Jia Tang (NTU)
+Topic:         The Physical Properties of an Exceptionally Blue QSO at z ∼ 6.6 and their Implication to the Early Growth of SMBH
+Time:         5/14 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+We explore the early growth of supermassive black holes (SMBHs) by using a near-infrared (NIR) spectrum of a recently discovered z = 6.621 QSO PSO J006+39 in three physical properties: (1) According to the standard thin disk model, the NIR (rest-frame FUV) spectrum of this QSO is dominated by the emission from the accretion disk. We found that the power-law slope of the continuum αλ of this QSO in NIR, −2.94 ± 0.03, is much bluer than the expected slope −1.5 from the standard thin disk model. We will discuss two possibilities to explain this unique slope: the black hole spin and the Comptonisation corona of the accretion disk. (2) The growth rate can be estimated by the Eddington ratio (Lbol/LEdd). We first estimated the SMBH mass by using the Mg ii line width and the rest frame luminosity L3000Å to be ∼ 108 M⊙ . Then we derived Eddington ratio Lbol/LEdd ∼ 1. (3) There are surprisingly many metal-rich QSOs found in the early universe, given the required time fo!
+r metal formation. We present two probes to estimate the metallicity of this QSO. The Fe ii/Mg ii ratio is often used as an indicator for high-z QSOs because Fe metallicity requires a certain time to be enhanced by the Type-Ia supernovae. The detection of the faint He ii line in this QSO provides another path to measure the metallicity. We used N v/He ii ratio to estimate the metallicity by considering the blue FUV continuum in the photoionization calculation. We will discuss implications of these physical properties of this QSO about the growth of SMBHs in the early universe.
+
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________ 
+Speaker:    Roger A. Chevalie (Univ. ov Virginia)
+Topic:         Superluminous supernovae
+Time:         5/15 (Tuesday) 14:20 - 15:20
+Place:         CCMS R104
+Abstract:
+Unbiased supernova searches led to the recognition of the class of superluminous supernovae (SLSN) about one decade ago.  These events can be a factor 100 more luminous than ordinary supernovae.  Some SLSNe show narrow hydrogen lines and are likely powered by interaction with a dense circumstellar medium.  In one case, the progenitor star lost several solar masses of gas in the 30 years leading to the explosion; the reason for the extreme mass loss is not understood.  Other SLSNe do not show narrow lines, but show broad lines and are stripped of hydrogen.  These features are difficult to explain in an interaction scenario.  Another possibility is radioactive power, but the required mass of 56Ni can be larger than allowed by the light curve and the expectations of 56Ni synthesis.  Power from a magnetar (highly magnetized pulsar) with a millisecond period can roughly explain light curves and spectra.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Gabriel Torrealba (ASIAA)
+Topic:         Understanding Dark Matter through Ultra-Faint dwarf galaxies
+Time:         5/16 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The standard model of cosmology states that the dark matter present in the
+Universe consists of particles that mainly interact gravitationally. This
+model is extremely successful in explaining the large scale structure: from
+the Cosmic Microwave Background to how galaxies distribute in the Universe.
+
+In this scenario, the dark matter dominated formation of structure
+is hierarchical: small structure form first, and then acts as
+building blocks to form bigger structure. One of the key predictions of this
+scenario, or any scenario where formation of structure is hierarchical, is the
+presence of hundreds to thousands of small dark matter halos orbiting galaxies
+like the Milky Way. However, due to their dark nature and small scales, these
+have proven difficult to find. Nevertheless, while most of the smallest of the
+dark halos will remain dark forever, some will be lit by small and dim
+galaxies, providing a window of opportunity to probe the nature of dark matter
+and the formation of structure at the smallest scales.
+
+In this contribution, I will present some results of a new quest for the
+search of the dark halos around the Milky Way, via the detection of small
+satellite galaxies. By improving the detection algorithms and by the use of
+new deep wide surveys, I have pushed the detection limits yielding several new
+discoveries, including the discovery of the enigmatic galaxy Crater 2. Even
+when being the fourth largest in the vicinity of the Milky Way, Crater 2
+remained  hidden until very recently due to its extreme properties. These same
+properties may be in tension with our current models of the Universe posing
+interesting new challenges to the standard model of cosmology.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Roger Chevalier (University of Virginia)
+Topic:         Supernova Remnant in Molecular Clouds
+Time:         5/16 (Wednesday) 11:00 - 12:00
+Place:         R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Cheng, Jen-Chieh (ASIAA)
+Topic:         TBD
+Time:         5/16 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

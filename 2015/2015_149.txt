@@ -1,0 +1,72 @@
+> Date: Thu, 13 Aug 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        I-Non Chiu (Munich University Observatory)
+Topic:          Density Enhancement of Background Galaxies Magnified by Massive Galaxy Clusters
+Time:           8/17 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+We present a novel method to estimate the masses of galaxy clusters using the density enhancement of the background normal galaxies induced from the lensing magnification.
+Two background galaxy populations are selected for this study through their photometric colors; they have characteristic redshifts ⟨z⟩ ≃ 0.9 (low-z background) and ⟨z⟩ ≃ 1.8
+(high-z background).
+Stacking these populations in a sample of 19 massive galaxy clusters selected by the South Pole Telescope (SPT) Sunyaev-Zel’dovich effect (SZE) survey at a median redshift z ≃ 0.42, we detect the magnification bias effect at 3.3σ and 1.2σ for the low- and high-z backgrounds, respectively.
+The resulting mass estimate is in a good agreement with the SZE-inferred masses and, moreover, the shear profiles predicted by magnification are consistent with the the observed ones.
+This approach only requires the accurate photometry and is well suited to the ongoing/future wide field survey (e.g., DES or HSC).
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Tony Mroczkowski (United States Naval Research Laboratory)
+Topic:          Imaging of the Sunyaev-Zel'dovich Effect Using the Goddard-IRAM Superconducting 2-Millimeter Observer (GISMO)
+Time:           8/18 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Clusters of galaxies are among the largest gravitationally-bound objects in the Universe, and are found at the intersections of the large filamentary structure known as the Cosmic Web, which connects them to other clusters and superclusters.  Clusters therefore trace the large-scale spatial distribution of dark matter, and can be used in cosmological tests that are independent from, and complementary to, other probes such as the cosmic microwave background (CMB), supernovae, and baryon acoustic oscillations (BAO).  One tool now being used to find clusters at high redshift is the Sunyaev-Zel'dovich effect (SZE), which has redshift-independent surface brightness.  To accurately extract cosmological parameters SZE observations, one must better understand how the signature due to thermal pressure tracks the gravitational potential, or more generally: How well does the baryonic component trace dark matter?  The Goddard-IRAM Superconducting 2-Millimeter Observer (GISMO) is a 2-mm !
+ (150 GHz) 128-element bolometer array that operated from the IRAM 30-meter Telescope, providing a resolution of 16.5''. In a handful of follow-up observations, it was able image the SZ decrement in high-redshift massive clusters. Newly-built, the 2nd generation, dual-band GISMO-2 instrument will double its 2-mm pixel count, providing 256 detectors with lower instrument noise than the original GISMO. Additionally, GISMO-2 will simultaneously image the SZ increment and mm-wave sources with 1280 detectors operating at 1.2 mm (250 GHz). I will present GISMO SZ imaging of a few massive high-redshift clusters, and discuss prospects for GISMO-2 in combined studies using the 2nd generation MUltiplexed SQUID/TES Array at Ninety GHz (MUSTANG-2) from the 100-meter Green Bank Telescope.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Thomas Greve (University College London)
+Topic:          [CII] is all the rage at high-z - but how to make sense of it?
+Time:           8/19 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In this talk I will present new SIGAME simulations of the [CII] 157.7um fine structure line emission from cosmological smoothed particle hydrodynamics (SPH) simulations of main sequence galaxies at z = 2. The gas in our galaxy simulations is modelled as a multi-phased interstellar medium (ISM) comprised of molecular gas residing in the inner regions of giant molecular clouds, an atomic gas phase associated with photodissociation regions at the surface of the clouds, and a diffuse, fully ionized gas phase. Taking into account heating by the local FUV radiation field and cosmic rays - both scaled by the local star formation rate density - we calculate the [CII] emission from each of the aforementioned ISM phases. The [CII] emission peaks in the central (<~ 1 kpc) regions of our galaxies where the star formation is most intense, and we find that the majority (>~ 60%) of the emission in this region originates in the molecular gas phase. At larger galactocentric distances (>~2 kp!
+ c), the atomic gas is the main contributor to the [CII] emission (>~ 80%), and at all radii the ionized gas provides a negligible amount (<~ 5%) to the [CII] budget. Our simulations predict a log-linear relationship between the integrated [CII] luminosity and star formation rate with a slope (0.80 +/- 0.12) in agreement with observationally determined slopes (~ 0.85 - 1.00) but with a ~ 3 times higher normalization than the observed z ~ 0 relation.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Po-Han Chiang (ASIAA)
+Topic:          ALMA band 1 Cartridge Measurements
+Time:           8/19 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+
+*** CompAS Seminar ***
+____________________________________________________
+Speaker:        Ken Chen (EACOA Fellow)
+Topic:          Physics of the First Luminous Objects
+Time:           8/20 (Thursday) 13:30 - 14:30
+Place:           R1108
+Abstract:
+One of the paramount problems in modern cosmology is to elucidate how the first generation of luminous objects, stars, accreting black holes (BHs) and galaxies, shaped the early universe at the end of the cosmic dark ages. According to the modern theory of cosmological structure formation, the hierarchical assembly of dark matter (DM) halos provided
+the gravitational potential wells that allowed gas to form stars and galaxies inside them. Modern large telescopes have pushed the detection of galaxies up to a redshift of z ~ 10. However, models of the first luminous objects still require considerable eff ort to reach the level of sophistication necessary for meaningful predictions, Due to the complexity of involved physical phenomena, this physical understanding may only come by the proper use of numerical simulations. Therefore, I have used state-of-the-art simulations on some of largest supercomputers to study these objects. In my talk, I will discuss the possible physics behind the formation of these first luminous objects by presenting the results from our simulations. I will also give possible observational signatures of the cosmic dawn that will be the prime targets for the future telescopes such as the James Webb Space Telescope (JWST).
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

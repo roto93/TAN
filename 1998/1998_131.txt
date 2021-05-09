@@ -1,0 +1,155 @@
+From kyl@asiaa.sinica.edu.tw Wed Jun 24 08:37:50 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA28280; Wed, 24 Jun 1998 08:18:51 +0800
+Errors-To: kuan@sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA11702; Wed, 24 Jun 1998 08:17:17 +0800
+Date: Wed, 24 Jun 1998 08:17:17 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: BIMA_note_74 NEW PROPOSAL DEADLINE IS JULY 20 (fwd)
+Message-Id: <Pine.GSO.3.96.980624081710.11565B-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4984
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 23 Jun 1998 11:14:50 -0500 (CDT)
+From: Helene Dickel <lanie@astro.uiuc.edu>
+To: BIMA observers -- ASIAA Taiwan Group <iaa_ast@asiaa.sinica.edu.tw>,
+    bimaext Exploder <bimaext@astro.uiuc.edu>,
+    laiusers Exploder <laiusers@astro.uiuc.edu>,
+    lmausers Exploder <lmausers@astro.umd.edu>,
+    ralusers Exploder <ralusers@astron.berkeley.edu>
+Cc: Helene Dickel <lanie@astro.uiuc.edu>
+Subject: BIMA_note_74 NEW PROPOSAL DEADLINE IS JULY 20
+
+BIMA_note_74    
+
+To:     BIMA PIs/Observers
+From:   H. Dickel, Scheduler
+Date:   98 June 23
+ 
+Topic:  New Call for proposals for FALL98/WINTER99
+	with Monday JULY 20 deadline is posted on WWW 
+	(and excerpted below)
+
+========================================================================
+(posted 98 June 23)
+
+BIMA: Call for Proposals
+
+Current Proposal Deadline is 1998 July 20 (Monday)
+          -- electronic submissions to be received by 11:59 pm CDT.
+          open-call for 3 mm observing plus simultaneous
+          in-house-only call for 1 mm observing.
+
+Proposals being accepted to use the 10-element array
+during the 4th quarter FALL98 and 1st quarter WINTER99.
+Expected configurations are C, B, A and possibly D array (depending on the
+number of requests).
+Some form of dynamic scheduling will be used during these observing periods.
+
+A limited amount of 1 mm time will be available when conditions allow.
+PIs requesting 1 mm tracks in B or A array should be able to self-cal their
+observations; please include that information on the coversheet (new version
+1.7).
+
+----------------------------------------------------------------------------
+
+PIs requesting a large number of tracks are to submit their proposals as
+"Key" proposals.
+PIs of Key proposals are normally from one of the three BIMA institutions.
+
+Be sure to click on WHAT'S NEW? for further information re 1 mm receivers, H
+array, and for the latest re scheduling procedures and changes to the
+proposal forms.
+
+If at all possible, please use the electronic submission process. Thank you.
+
+----------------------------------------------------------------------------
+NOTICE: Be sure to download the latest LaTeX Proposal Style file
+bimaprop.sty and LaTeX Proposal Cover Sheet bimaprop.tex 
+
+	(*** NEW ***  version 1.7, updated 06/22/98)
+
+before filling out the LaTeX form with the information for your new
+proposal. At the top of both forms is the version number and date. Near the
+top of the new LaTeX form is the email address to which to submit your
+electronic proposal.
+
+For more details, see proposal procedures. In Brief:
+
+  1. Email your filled-in LaTex coversheet form to
+     ``bimaprop-submit@astro.uiuc.edu''
+  2. Wait for a response from the automated BIMA email handler. The response
+     will inform you of the proposal ID number assigned to your proposal.
+     Take a note of this proposal ID number.
+  3. Then if you have any Additional Files, the response will also instruct
+     you how to submit them.
+
+European, etc. proposers - please read the special note concerning paper
+size.
+
+----------------------------------------------------------------------------
+Helpful Interactive Resources:
+
+   * How To Determine A Sensitivity Based HA Range
+   * Rms Noise Calculator    - warning -
+            has not been updated yet with the most recent double band
+     	    receiver temperatures
+   * BIMA Calibrator Locater
+
+----------------------------------------------------------------------------
+Detailed information on the technical capabilities of the instrument and the
+proposal procedures are available by the following electronic methods:
+
+  1. The BIMA World Wide Web server: http://bima.astro.umd.edu. Click here
+     to view the instructions directly.
+
+  2. By email:
+
+     Just send an email to bimaprop-info@astro.uiuc.edu for a single-file
+     summary of instructions.
+
+     Send email to bimaprop-request@astro.uiuc.edu for the basic proposal
+     materials, returned to you in several messages.
+
+     (Note that this is an automated service; real people read mail sent to
+     this address only occasionally.)
+
+  3. By anonymous ftp to ftp.astro.uiuc.edu . Change into the
+     pub/BIMA/proposal directory and consult the README and
+     call_for_proposals.txt files to determine which files you need.
+
+or you can write to:
+
+     Dr. Lewis E. Snyder, Director
+     Laboratory for Astronomical Imaging
+     103 Astronomy Bldg.
+     1002 W. Green St.
+     Urbana, IL 61801
+
+----------------------------------------------------------------------------
+Please send comments and questions to:lanie@astro.uiuc.edu or
+acord@astro.uiuc.edu
+
+
+

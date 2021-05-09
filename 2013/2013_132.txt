@@ -1,0 +1,584 @@
+Date: Wed, 17 Jul 2013 03:46:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jul 05 - 16, 2013)
+
+============================================================================== 
+
+In this issue (Jul 05 - 16, 2013)
+
+1. The 2nd ASIAA-tuCASA ALMA Imaging Workshop 2013 (Aug 31 - Sep 01)
+2. ASIAA Colloquia (Jul 12): Robert Wittenmyer (Univ of New South Wales)
+                  (Jul 09): Kuo-Chuan Pan (UIUC)
+  [Sorry, late. YJK]
+3. SMA call for proposals - 2013B semester (Aug 09)
+4. The Life Cycle of Dust in the Universe (Nov 18-22): 2nd announcement
+5. ASIAA Colloquia (Jul 17): Mark Morris (UCLA)
+                  (Jul 15): Kaiki Inoue (Kinki University)
+6. ASIAA Colloquium/Seminar this week (Jul 17)
+
+==============================================================================
+
+> Date: Tue, 16 Jul 2013 13:01:07 +0900  
+> From: °ª®á Ác¤[ <takakuwa@asiaa.sinica.edu.tw>        
+> Subject: ALMA imaging workshop 
+
+Dear Yi-Jehng,
+
+
+Could you please send the following announcement of the 2nd ALMA imaging
+workshop to TAN ?
+Thank you so much.
+
+
+Sincerely,
+Shigehisa Takakuwa
+
+
+------------------------------------------------------------------------------- 
+The 2nd ASIAA-tuCASA ALMA Imaging Workshop 2013
+
+
+Time: August 31 - September 1, 2013
+Place: Room 941, Astronomy-Mathematics Building, ASIAA, NTU main campus
+Web: http://events.asiaa.sinica.edu.tw/workshop/20130831/
+
+
+Announcement:
+  We are pleased to announce the 2nd ASIAA-tuCASA ALMA Imaging Workshop,
+a 1.5-day workshop, to be held jointly by the ALMA Regional Center (Taiwan-ARC)
+of ASIAA and the UCAT Center for ALMA Science Advancement (tuCASA) of the
+University Consortium of ALMA-Taiwan (UCAT) for potential ALMA users in Taiwan.
+
+
+  Following the 1st ALMA Imaging Workshop 2013
+  (AIW2013, http://www.es.ntnu.edu.tw/tuCASA/AIW2013/ ),
+this workshop is designed to provide users with the update of ALMA project, and
+to familiarize users with the CASA simulator for preparing their proposals,
+along with hands-on exercises. Furthermore, a participant session will be
+organized for users to report their data reduction process or to exchange
+science ideas for Cycle 2 proposal call.
+
+
+New users are welcome to attend this workshop, and are required to work through
+CASA hands-on exercises of AIW2013
+  (http://alma.asiaa.sinica.edu.tw/twarc_tutorials_6th.php )
+prior to the time of the workshop.
+A Q&A session is available at the beginning of the workshop for new users to
+discuss with ARC members.
+  
+The program of the workshop will include:
+a. A Q&A section of CASA imaging/data analysis for new users (2 hours)
+b. ALMA project progress (30 mins)
+c. CASA SIMDATA imaging simulation for observation planning (0.5 day)
+d. Participant Session (0.5 day)
+  Progress reports -- participants of 1st imaging workshop are encouraged to
+                report their progress in this session
+  Science with ALMA -- participants, including students, postdocs, and
+                faculties are welcome to introduce their science case in CY2
+
+
+The detailed program can be found at
+  http://events.asiaa.sinica.edu.tw/workshop/20130831/program.php 
+
+
+On-line registration is available at:
+  http://events.asiaa.sinica.edu.tw/workshop/20130831/registration.php 
+
+The registration deadline is on August 22 (Thu), 2013.
+
+
+LOC:
+  Edwige Chapillon
+  Chin-Fei Lee
+  Suh-Lian Lin
+  Hauyu Liu
+  Sheng-Yuan Liu
+  Linda Shao
+  Yu-Nung Su (co-Chair)
+  Shigehisa Takakuwa (Chair)
+  Alfonso Trejo Cruz
+
+==============================================================================
+
+> Date: Sun, 7 Jul 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Robert Wittenmyer (University of New South Wales)
+Topic:        Exoplanetary Science in Australia: Detection, Characterisation, and
+Destruction
+Time:        7/12 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I give an update on three major exoplanetary science initiatives being
+pursued by Australian-based planet-search teams.  Further observations
+from the Anglo-Australian Planet Search (AAPS) have revealed that some
+systems previously thought to contain a single, moderate-eccentricity
+planet are better fit by two planets on nearly-circular orbits.  We have
+investigated apparent single-planet systems to see if the available data
+can be better fit by two lower-eccentricity planets.  We identify nine
+promising candidate systems and perform detailed dynamical tests to
+confirm the stability of the potential new multiple-planet systems.  In
+addition to the AAPS, I describe the Pan-Pacific Planet Search, a
+radial-velocity survey of Southern hemisphere evolved, intermediate-mass
+stars using the 3.9m Anglo-Australian Telescope.  We currently achieve
+velocity precisions of 3-6 m/s, and there are several planet candidates
+emerging as more data are obtained.
+
+I then describe a plan for Minerva: an installation of four 0.7m
+telescopes feeding a high-resolution spectrograph, sited at Mt Hopkins
+in Arizona.  Minerva will give exoplanetary scientists the ability to
+pursue dedicated radial-velocity searches for planets orbiting the
+nearest bright stars.  In addition, a Southern hemisphere Minerva could
+be used to follow up on objects of interest from Antarctic telescopes
+such as the Chinese AST-3.  I will describe the diverse science cases
+for this highly cost-effective facility.
+
+Finally, I present results from our recent series of papers in which we
+have performed extensive suites of dynamical simulations to test the
+veracity of proposed multiple-planet systems.  We show that some systems
+are strongly constrained by protected low-order resonances, while others
+are wildly unstable on short timescales.  This work highlights the
+critical need to include dynamical stability analysis as an integral
+part of the discovery process for candidate multi-planet systems.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Kuo-Chuan Pan (UIUC)
+Topic:        Search for Surviving Post-Impact Remnant Stars in Type Ia Supernova Remnants
+Time:        7/9 (Tuesday) 14:00 - 15:00
+Place:        R1108
+Abstract:
+The nature of the progenitor systems of Type Ia supernovae is still unclear. One way to distinguish between the SDS and DDS is to search for the surviving Post-Impact Remnant Stars (PIRSs). Using our stellar evolution simulations of main-sequence- (MS-) and helium-rich- (He-) PIRSs, we predict the color and magnitude of MS- and He-PIRSs as functions of time. We also discuss PIRS candidates in Galactic Type Ia supernova remnants (Ia SNRs), including SN 185, SN 1006, SN 1574, SN 1604, and G1.9+0.3, and nearby extragalactic Ia SNRs. We find that the maximum detectable distance of MS PIRSs (He PIRSs) is 0.6âˆ’4 Mpc (0.4 âˆ’ 16 Mpc), if the apparent magnitude limit is 27 and we assume no extinction, suggesting the Large and Small Magellanic Clouds (LMC/SMC) and the Andromeda Galaxy (M31) are excellent environments in which to search for PIRSs.
+
+==============================================================================
+
+> From: Hirano Naomi <hirano@asiaa.sinica.edu.tw>
+> Subject: SMA call for proposals - 2013B semester
+> Date: Fri, 12 Jul 2013 15:16:32 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Colleagues:
+
+We wish to inform you of the current Call for Proposals for the =
+Submillimeter Array (SMA), the reconfigurable interferometric array of =
+eight 6-m antennas on Mauna Kea jointly built and operated by the =
+Smithsonian Astrophysical Observatory and the Academia Sinica Institute =
+of Astronomy and Astrophysics.  The array operates in the 230 GHz, 345 =
+GHz and 420 GHz bands.
+
+The SMA is currently accepting proposals for the 2013B observing =
+semester (2013 Nov 16 through 2014 May 15) from principal investigators =
+from the worldwide astronomical community. The proposal deadline is 2013 =
+August 08, 16:00 EDT/10:00 AM HST/ 20:00 GMT/ 2013 August 09, 04:00 CST =
+(Taipei).
+
+For more information, including instructions and tools for proposal =
+preparation and submission, please visit the SMA Observer Center website =
+at http://sma1.sma.hawaii.edu/. Questions or comments regarding the Call =
+for Proposals can also be addressed to propose@sma.hawaii.edu.
+
+With best wishes,
+
+Qizhou Zhang for SMA TAC
+
+==============================================================================
+
+> Date: Fri, 12 Jul 2013 16:14:01 +0800
+> Subject: The Life Cycle of Dust in the Universe, Taipei, 18 - 22 Nov 2013: Second announcement
+> From: Ciska Kemper <ciska@asiaa.sinica.edu.tw>
+> To: lcod2013@asiaa.sinica.edu.tw
+
+
+********************** Second Announcement *******************************
+
+    The Life Cycle of Dust in the Universe:
+    Observations, Theory, and Laboratory Experiments
+
+    November 18-22, 2013, Taipei, Taiwan
+
+    http://events.asiaa.sinica.edu.tw/meeting/20131118/
+
+-------------------------------------------------------------------------
+
+IMPORTANT NOTICE FOR PARTICIPANTS FROM CHINA:
+
+Participants from the PRC interested in participating in the meeting,
+should note that it takes 3 to 4 months in total to apply for a travel
+permit. Please contact the LOC before July 18, 2013 at
+lcod2013@asiaa.sinica.edu.tw
+
+-------------------------------------------------------------------------
+
+OBJECTIVES:
+
+This meeting aims to address the life cycle of dust in the Universe,
+which covers the formation, evolution and destruction of dust in a
+range of environments, ranging from the smallest to the largest
+scales. Bringing together observational and theoretical
+astrophysicists as well as meteoriticists and experimentalists will
+allow for a cross-disciplinary dialogue.
+
+The meeting follows a successful tradition of astrophysical dust
+meetings, starting in Albany in 1972, with the latest edition "Cosmic
+Dust: Near and Far" organized by Th. Henning taking place in
+Heidelberg in 2008.
+
+Since that meeting, the field of dust astrophysics has made major
+leaps forward with the hoist of data arriving from such missions as
+the infrared space telescopes Spitzer, Herschel, and Stardust, the
+latter returning dust samples from comet Wild-2 currently being
+studied in the lab. The largest telescope on Earth, ALMA, has recently
+come online, allowing for investigations into the origin of dust in
+the Universe. Thus, this is an excellent time to review the status of
+the field of dust astrophysics in this meeting.
+
+The meeting aims to create an environment in which all aspects of the
+life cycle of dust will be discussed, from an astrophysical, chemical
+and mineralogical perspective, and the effect on a range of
+environments. Observational insights, theoretical models and
+experimental approaches all contribute to our view of the life cycle
+of dust, and the meeting will address new developments and future
+projects in all these areas.
+
+-------------------------------------------------------------------------
+
+CONFIRMED INVITED SPEAKERS:
+
+    Jean-Philippe Bernard (IRAP)
+    Jeroen Bouwman (MPIA)
+    Fred Ciesla (Chicago)
+    Isabelle Cherchneff (Basel)
+    Karine Demyk (IRAP)
+    Loretta Dunne (Canterbury, NZ)
+    Hideaki Fujiwara (NAOJ)
+    Christa Gall (NASA GSFC)
+    Hiroyuki Hirashita (ASIAA)
+    Edward Jenkins (Princeton)
+    Anthony Jones (IAS)
+    Hidehiro Kaneda (Nagoya)
+    Sun Kwok (Hong Kong)
+    Scott Messenger (NASA JSC)
+    Harald Mutschke (Jena)
+    Nathan Smith (Arizona)
+    Angela Speck (Missouri)
+    Sundar Srinivasan (ASIAA)
+    Shogo Tachibana (Tokyo)
+    Svitlana Zhukovska (MPIA)
+
+The conference summary will be given by Thomas Henning (MPIA)
+
+-------------------------------------------------------------------------
+
+SCIENTIFIC ORGANIZING COMMITTEE:
+
+    Anja Andersen (DARK)
+    Maarten Baes (Ghent)
+    Eli Dwek (NASA GSFC)
+    Haley Gomez (Cardiff)
+    Karl Gordon (STScI)
+    Lei Hao (Shanghai)
+    Thomas Henning (MPIA)
+    Lindsay Keller (NASA JSC)
+    Ciska Kemper (ASIAA)
+    Chiyoe Koike (Ritsumeikan)
+    Typhoon Lee (ASIAA)
+    Margaret Meixner (STScI)
+    Vito Mennella (Capodimonte)
+    Michiel Min (Amsterdam)
+    Takashi Onaka (Tokyo)
+    Itsuki Sakon (Tokyo)
+    Raffaella Schneider (Roma)
+    Darach Watson (DARK)
+
+-------------------------------------------------------------------------
+
+VENUE:
+
+International Conference Hall,
+Humanities and Social Sciences Building, 3F, Academia Sinica
+128 Academia Road, Section 2, Nankang, Taipei, Taiwan
+
+The meeting is held on the Academis Sinica (AS) main campus, which is
+different from the National Taiwan University (NTU) campus where
+Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA) is
+located.
+
+-------------------------------------------------------------------------
+
+PROCEEDINGS:
+
+We plan to publish conference proceedings.
+
+-------------------------------------------------------------------------
+
+EXCURSIONS:
+
+Through a local tour agency, we will offer two excursions, which can
+be booked separately from the conference registration.
+
+On Wednesday afternoon (20 November), we will visit the famous eroded
+coast of Yeliu with its beautiful rock formations, followed by a visit
+to the night market of Keelung.
+
+On the weekend after the conference (23 & 24 November), a two-day trip
+to Taroko Gorge will be offered. This scenic canyon on Taiwan's east
+coast is definitely worth a visit!
+
+The registration for these excursions will open around 1 August, and close
+by the end of September. More information will appear on the conference
+website in due course.
+
+-------------------------------------------------------------------------
+
+IMPORTANT DATES:
+
+18 July 2013: Deadline for participants from mainland China to
+              apply for a travel permit
+
+24 August 2013: Deadline to submit abstracts for contributed talks
+
+24 August 2013: Deadline for regular registration
+
+25 October 2013: Deadline to submit poster abstracts
+
+25 October 2013: Deadline for late registration
+
+18 -- 22 November 2013: Conference dates
+
+23 -- 24 November 2013: Optional 2-day excursion to Taroko Gorge
+
+25 -- 26 November 2013: NanoSIMS inauguration and isotope workshop
+
+-------------------------------------------------------------------------
+
+WEBSITE & REGISTRATION:
+
+Additional information on this meeting can be found at
+http://events.asiaa.sinica.edu.tw/meeting/20131118/
+
+The on-line registration for this meeting is now open, and the regular
+registration fee is 335 USD (payment to be completed by Aug 24,
+2013). Late registration is possible at a higher rate of 395 USD.
+
+To connect with other participants prior to the conference, join our
+Facebook group: https://www.facebook.com/groups/lcod2013/
+
+-------------------------------------------------------------------------
+
+ISOTOPE WORKSHOP & NANOSIMS INAUGURATION:
+
+After the conference on "The Life Cycle of Dust in the Universe:
+Observations, Theory and Laboratory Experiments", there will be a
+2-day workshop at Academia Sinica on 25 and 26 November 2013 in honour
+of Typhoon Lee's 65th birthday, celebrating his contributions to the
+field of meteoritics and dust astrophysics. This will also be the
+inauguration meeting for Academia Sinica's NanoSIMS facility.
+
+More information on this meeting will follow.
+
+-------------------------------------------------------------------------
+
+We hope to see you in Taipei in November.
+
+Kind regards,
+
+Ciska Kemper,
+on behalf of the LOC:
+
+    Tzuching Chang
+    Cindy Chiu
+    Hiroyuki Hirashita
+    Ciska Kemper
+    Lihwai Lin
+    Suh-Lian Lin
+    Ming-Chang Liu
+    Sheng-Yuan Liu
+    Ji Yeon Seok
+    Sundar Srinivasan
+    Wei-Hao Wang
+    Ronny Zhao-Geisler
+
+Contact email: lcod2013@asiaa.sinica.edu.tw
+
+<http://www.asiaa.sinica.edu.tw>
+
+==============================================================================
+
+> Date: Sun, 14 Jul 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Mark Morris (UCLA)
+Topic:        Past and Future Activity of the Galactic Black Hole
+Time:        7/17 (Wednesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+An X-ray light echo now propagating through the central molecular zone
+of our Galaxy has revealed that a major X-ray flare took place there about 
+100 years ago.  The high luminosity and the direction of propagation implicate
+the central supermassive black hole in our galaxy, which is presently very
+quiescent.  I will discuss this evidence, and the outstanding possibilities for 
+what might have caused this activity.  This may not be a particularly rare event;
+a gaseous object -- possibly centered on a star -- is now plummeting toward 
+the black hole on a highly eccentric orbit and is expected to supply new fuel
+for enhanced accretion activity during and after its passage through periapse 
+in early 2014.  I will present the view of this object from UCLA, based on data
+obtained at the Keck Observatory.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Kaiki Inoue (Kinki University)
+Topic:        Probing dark matter with mini-gravitational lensing
+Time:        7/15 (Monday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Recently, our group have shown that the MIR flux-ratio anomalies
+seen in some quadruple lens systems can be solely explained by the
+weak lensing effects caused by mini-halos and mini-voids in the
+line-of-sight. In our model, the number of halos and voids in the
+line-of-sight monotonically increases as a function of the source
+redshift, which are consistent with the observational trend. In
+literature, it has been postulated that the flux-ratio anomaly is
+mainly caused by subhalos in the lensing galaxy.  Therefore, our
+findings may challenge this "standard" picture. Using our result,
+we would be able to put stringent constraints on the mass scale of
+dark matter particles that have a large free-streaming scale such
+as sterile neutrinos and super-WIMPs.  In this talk, as an
+introduction, I review the physical mechanisms that are used for
+categorizing dark matter via structure formation and explain about
+the basics about gravitational lensing. Then I present recent
+results on the perturbation induced by line-of-sight mini-structures
+in quasar-galaxy quadruple lens systems. Finally, I briefly comment
+on the possible constraints on dark matter particles from our result
+and how we can distinguish these structures from subhalos in lensing
+galaxies in future observations.
+
+==============================================================================
+
+> Date: Tue, 16 Jul 2013 10:28:31 +0800
+> Subject: Colloquium/Seminar this week
+> From: Hyosun Kim <hkim@asiaa.sinica.edu.tw>
+> To: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> Cc: IAA <iaa@asiaa.sinica.edu.tw>,
+>        "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>,
+>        "ntu_astro@asiaa.sinica.edu.tw" <ntu_astro@asiaa.sinica.edu.tw>,
+>        ASIAA Webmaster <web@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+As Keiichi mentioned, we will have a colloquium talk by
+prof. Mark Morris (UCLA) on Wednesday (tomorrow).
+Please keep in mind the unusual date for colloquium.
+
+And after the colloquium, we will take him to Din Tai Fung
+for the colloquium dinner. If you are interested in joining
+dinner, please let me finish counting by tomorrow noon.
+
+Thanks,
+Hyosun
+
+
+On Sun, Jul 14, 2013 at 8:00 AM, Keiichi Asada <asada@asiaa.sinica.edu.tw>
+wrote:
+> Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+>
+> *** Colloquium
+> ____________________________________________________
+> Speaker:        Mark Morris (UCLA)
+> Topic:          Past and Future Activity of the Galactic Black Hole
+> Time:          7/17 (Wednesday) 14:00 - 15:00
+> Place:          R1203
+> Abstract:
+> An X-ray light echo now propagating through the central molecular zone
+> of our Galaxy has revealed that a major X-ray flare took place there about
+> 100 years ago.  The high luminosity and the direction of propagation
+implicate
+> the central supermassive black hole in our galaxy, which is presently very
+> quiescent.  I will discuss this evidence, and the outstanding
+possibilities for
+> what might have caused this activity.  This may not be a particularly
+rare event;
+> a gaseous object -- possibly centered on a star -- is now plummeting
+toward
+> the black hole on a highly eccentric orbit and is expected to supply new
+fuel
+> for enhanced accretion activity during and after its passage through
+periapse
+> in early 2014.  I will present the view of this object from UCLA, based
+on data
+> obtained at the Keck Observatory.
+>
+>
+> *** Special Seminar
+> ____________________________________________________
+> Speaker:        Kaiki Inoue (Kinki University)
+> Topic:          Probing dark matter with mini-gravitational lensing
+> Time:          7/15 (Monday) 14:00 - 15:00
+> Place:          R1203
+> Abstract:
+> Recently, our group have shown that the MIR flux-ratio anomalies
+> seen in some quadruple lens systems can be solely explained by the
+> weak lensing effects caused by mini-halos and mini-voids in the
+> line-of-sight. In our model, the number of halos and voids in the
+> line-of-sight monotonically increases as a function of the source
+> redshift, which are consistent with the observational trend. In
+> literature, it has been postulated that the flux-ratio anomaly is
+> mainly caused by subhalos in the lensing galaxy.  Therefore, our
+> findings may challenge this "standard" picture. Using our result,
+> we would be able to put stringent constraints on the mass scale of
+> dark matter particles that have a large free-streaming scale such
+> as sterile neutrinos and super-WIMPs.  In this talk, as an
+> introduction, I review the physical mechanisms that are used for
+> categorizing dark matter via structure formation and explain about
+> the basics about gravitational lensing. Then I present recent
+> results on the perturbation induced by line-of-sight mini-structures
+> in quasar-galaxy quadruple lens systems. Finally, I briefly comment
+> on the possible constraints on dark matter particles from our result
+> and how we can distinguish these structures from subhalos in lensing
+> galaxies in future observations.
+>
+>
+
+--
+Dr. Hyosun Kim
+Distinguished Postdoctoral Scholar, Academia Sinica
+Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)
+P. O. Box 23-141, Taipei 10617, Taiwan
+Phone: +886-2-2366-5461
+Fax: +886-2-2367-7849
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

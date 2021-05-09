@@ -1,0 +1,147 @@
+From kyl@biaa.sinica.edu.tw Sat Apr 25 10:22 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA06795; Sat, 25 Apr 1998 10:21:31 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA19132; Sat, 25 Apr 1998 10:17:47 +0800
+Date: Sat, 25 Apr 1998 10:17:46 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: A bug fix release of Difmap (fwd)
+Message-Id: <Pine.GSO.3.96.980425101743.19130A-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5534
+Status: RO
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 24 Apr 1998 16:04:03 -0700
+From: Martin Shepherd <mcs@astro.caltech.edu>
+To: vlbi@cv3.cv.nrao.edu
+Subject: A bug fix release of Difmap
+
+This message announces the release of Difmap version 2.3c.
+
+The reason for this release is primarily to fix a significant bug,
+as described later in this message. For this reason I strongly
+recommend that users of Difmap upgrade to the new version.
+
+A compressed tar file of the new Difmap distribution can be retrieved at:
+
+ ftp://astro.caltech.edu/pub/difmap/difmap2.3c.tar.Z
+
+Unpacking and installation instructions can also be found in the same
+place, at URL:
+
+ ftp://astro.caltech.edu/pub/difmap/README
+
+This README file can also be found in the top-level directory the
+above tar file.
+
+Alternatively, for those with un-reliable internet connections there
+is also a copy of the compressed difmap tar file that has been split
+into 14 100k chunks. To take advantage of this, invoke anonymous ftp
+to astro.caltech.edu and type:
+
+ ftp> cd pub/difmap
+ ftp> get README.split
+ ftp> quit
+ 
+Then follow the directions in the README.split file just acquired.
+
+-----------------------------------------------------------------------
+
+New features:
+
+  The 'invert' command, which is usually called for you by commands
+  such as 'maplot', 'clean' etc, has been modified to be less stubborn
+  in its handling of sampling constraints. In previous versions of
+  Difmap this command would refuse to continue when presented with
+  visibilities that sampled higher spatial frequencies than could be
+  Nyquist sampled by the chosen map grid. It then told you how to
+  remedy this by either reducing the size of the map pixels or by
+  forceably excluding high spatial frequencies using the uvrange
+  command.
+
+  In the new version of Difmap, instead of refusing to continue, the
+  invert command now makes a map using just those visibilities that
+  can be adequately sampled by the chosen map grid. If this results in
+  any visibilities being excluded, 'invert' tells you what percentage
+  were excluded and what pixel sizes one would have to choose to avoid
+  any exclusions.
+
+  Note that it is not necessarily an error to choose a pixel size that
+  is too big to sample all of the visibilities. Sometimes this is the
+  only practical way to create a map that is large enough to view
+  one's field of interest.
+
+  The main reason that I felt compelled to change this right now is
+  that the break point at which visibilities are thought to be
+  inadequately sampled has changed subtly in the new version of
+  Difmap. In the new version I have now taken account of the 2 pixel
+  fuzz added to each visibility by the gridding convolution
+  function. This is a very subtle change, but existing mapping scripts
+  that were setting the uvrange using the precise values needed to
+  stop the 'invert' command from complaining, suddenly stopped
+  working.  With the new behavior, the complaints are now just
+  warnings and the need to use the uvrange command, just to view a
+  larger area using larger pixels, is no longer necessary.
+
+  Another minor new feature is the allowance of non-integer uniform
+  bin widths (width>=1.0).
+
+The Bug:
+
+  Now we get to the bad news. I am sorry to say that there has been a
+  significant bug in Difmap's uniform weighting algorithm ever since I
+  upgraded Difmap to support multi-dimensional FITS files. Note that
+  maps derived from merge files and maps derived using natural
+  weighting won't have been affected by this bug. The affected maps
+  are those that have been made using uniform weighting in the FITS
+  version of Difmap. Some of these maps may have higher noise levels
+  than expected and they may not exhibit the full resolution
+  enhancements and beam shape expected from uniform weighting.
+  The maps should otherwise be correct.
+
+  The bug involved the accumulation of binned visibility weights in
+  one half of a conjugate-symmetric array. When visibilities that lay
+  in the omitted half of the array were encountered, their conjugate
+  positions in the included half of the array were incorrectly
+  computed by switching the sign of the U coordinate but not that of
+  the V coordinate. This resulted in some parts of the UV plane being
+  overweighted and other parts being underweighted. In fact some of the
+  underweighted parts would have been given zero weight except that in
+  protecting against divide by zero errors, the gridding function
+  substituted unity weights in such supposedly impossible cases.
+
+  Since fixing the bug, some of the CLASS survey has been remapped to
+  determine the extent of the problem, and I am happy to say that the
+  only differences that were found were the existence of a few
+  marginal sources that had previously been just below the noise
+  threshold. Over the last two months new data has also been acquired
+  and mapped, mainly to test the new behavior of the invert command
+  when subjected to visibilities that can't be Nyquist sampled. This
+  change involved some significant modifications so I didn't want to
+  release Difmap it had been thoroughly exercised in house.
+
+Martin Shepherd  (mcs@astro.caltech.edu)
+
+
+

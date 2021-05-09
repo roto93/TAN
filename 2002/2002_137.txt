@@ -1,0 +1,186 @@
+From astro Sat Aug 10 17:31 CST 2002
+Received: (from astro@localhost)
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) id RAA07165
+	for astro; Sat, 10 Aug 2002 17:30:39 +0800 (CST)
+Date: Sat, 10 Aug 2002 17:30:39 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+Message-Id: <200208100930.RAA07165@iaa17.asiaa.sinica.edu.tw>
+To: astro
+Subject: TAN (Issue Aug 02-10, 2002)
+Content-Type: text
+Content-Length: 6692
+Status: RO
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (August 02 - August 10, 2002):
+
+1. VLBI Symposium in Korea - 2nd announcement (fwd)
+2. Prof. Maria Zuber's visit in NCU (August 13)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From kyl@asiaa.sinica.edu.tw Fri Aug  2 08:54 CST 2002
+Date: Fri, 2 Aug 2002 08:52:57 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: VLBI Symposium in Korea - 2nd announcement (fwd)
+Message-ID: <Pine.SOL.4.10.10208020852540.4570-100000@iaa1>
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Research Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+Postal Address:				Phone: 886-2-3365-2200 ext 700
+ASIAA, P.O. Box 23-141,			Fax: 886-2-2367-8405
+Taipei 106, Taiwan, ROC                 Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Tue, 30 Jul 2002 19:59:11 +0900
+From: VLBI2002 <ntiv@trao.re.kr>
+To: VLBI2002 <ntiv@trao.re.kr>
+Subject: VLBI Symposium in Korea - 2nd announcement
+
+*******************************************************************************
+We sincerely apologize if you receive multiple copies of this 2nd Announcement.
+*******************************************************************************
+-------------------------------------------------------------------------------
+[2nd Announcement] New Technologies in VLBI
+    November 5 - 8, 2002, Gyeong-ju, Korea
+          (URL: http://www.trao.re.kr/~ntiv)
+-------------------------------------------------------------------------------
+Dear Colleagues,
+
+We herewith send you the 2nd Announcement of NTIV 2002.
+We will appreciate very much if you kindly forward this information to
+your colleagues.
+
+The deadline for Pre-registration is September 30, 2002.
+You can register using on-line and also by fax. If you visit our
+conference web page
+(http://www.trao.re.kr/~ntiv), you can find the ¡°registration¡± page.
+
+We hope that all of you can participate and enjoy the conference.
+
+With best regards,
+Young Chol Minh (Chair of LOC)
+
+---------------------------------------------------------
+
+We invite you to the beautiful, Gyeong-ju, Korea this coming November.
+The symposium ¡°New Technologies in VLBI¡± will be focused mainly on the
+latest technological developments in VLBI, and will consist of about 30 invited
+talks, 5 review talks, 3 open discussions, and contributed poster papers,
+presented over a period of 4 days.
+
+We believe that this symposium can be a collaborating stage among VLBI
+groups in the world. Our Korea Astronomy Observatory has started a new VLBI
+project KVN (Korean VLBI Network) and needs supports and collaborations with many
+leading groups in VLBI activities.
+We invite the VLBI researchers in the world to visit our beautiful
+historical city Gyeong-ju and have many fruitful discussions on the latest developments
+in VLBI technologies.
+
+1. TOPICS
+Invited Talks
+- New VLBI Data Systems
+- e-VLBI
+- Digital Filtering and Hi-speed Samplers
+- New Correlator Technologies
+- Arrays as a VLBI Element/Global VLBI Experiments
+- RFI Problems/Mitigation
+- New VLBI Projects
+
+Reviews
+- Technologies for Mm and Sub-mm VLBI
+- Technological Limitations/Wishes in Geodetic VLBI
+- Technological Limitations/Wishes in Astronomical VLBI
+
+Discussions
+- New Ideas for VLBI Correlators
+- VLBI Data-Transport Systems
+- Specifications for a New Geodetic VLBI System
+
+
+2. SCIENTIFIC PROGRAM
+The Symposium will consist of about 30 invited talks, 3 review talks and
+3 open discussions, presented over a period of 4 days.
+Inevitably, most contributions will be in the form of posters.
+We encourage participants to submit abstracts by the deadline of October
+5, 2002.
+
+Invited Speakers:
+W. Alef(MPIfR), W. Baan(ASTRON), B. Carlson(DRAO), Y. Chikada(NAOJ),
+P. Diamond(Jodrell Bank), D. Ferris(ATNF), M. Garrett(JIVE), L.Gurvits(JIVE), 
+H. Hase(BKG), E. Himwich(NASA GSFC), H. Hirabayashi(ISAS), Iguchi(NAOJ),
+D. Jauncey(CSIRO), N. Kawaguchi(NAOJ), M. Kesteven(CSIRO),
+H. Kobayashi(NAOJ), T. Kondo(CRL), Y. Koyama(CRL), Y. Minh(KAO),
+M. Rioja(OAN), A. Roshi(NRAO), A. Roy(MPIfR), R. Schilizzi(JIVE),
+W. Schleuter(BKG), G. Tuccari(CNR), A. Whitney(Haystack)
+
+Program Committee:
+R. Booth (OSO), J. Brooks (ATNF), S. H. Cho (KAO), L. Gurvits (JIVE),
+H. Hase (BKG), E. Himwich (NASA), D. Jauncey (CSIRO), J. H. Jung (KAO),
+N. Kawaguchi (co-Chair, NAO), Y. C. Minh (co-Chair, KAO), T. Kondo (CRL), 
+R. Schilizzi (JIVE), W. Schlueter (co-Chair, BKG), Y. Shuhua (Shanghai),
+A. R. Whitney (co-Chair, Haystack), Z. C. Zhai (Shanghai)
+
+Local Organizing Committee
+Y. C. Minh (Chair, KAO) and KVN Staff
+
+3. IMPORTANT DATES
+April 30: First Announcement
+August 1: Second Announcement
+September 30: Deadline for Pre-registration
+October 5: Deadline for Abstract Submission for Posters
+October 15: Final Announcement
+November 4: Reception and Registration
+November 5-8: Symposium
+
+4. CONTACT TO
+General Chair
+Dr. Young Chol Minh
+Korea Astronomy Observatory, 61-1, Hwaam-dong, Yusong-gu, Daejeon
+305-348, KOREA
+E-mail: minh@trao.re.kr / Tel: +82 42 865-3263 / Fax: +82 42 865-3272
+
+Conference Secretariat
+Ms. Eunsuk Kang
+E-mail: ntiv@trao.re.kr / Tel: +82 42 472-7458 / Fax: +82 42 472-7459
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From bonnie@astro.ncu.edu.tw Wed Aug  7 15:03 CST 2002
+Message-ID: <010801c23ddf$23c37a90$ae22738c@phy.ncu.edu.tw>
+From: "Bonnie/Astronomy, NCU" <bonnie@astro.ncu.edu.tw>
+To: <astro@asiaa.sinica.edu.tw>
+Subject: Prof. Maria Zuber's visit in NCU
+Date: Wed, 7 Aug 2002 14:53:30 +0800
+
+
+Dear reader,
+
+This is the assistant of Graduate Institute of Astronomy,NCU.
+I want to announce the information of Prof. Maria Zuber's visit in NCU.
+
+Prof. Maria Zuber will visit NCU during the period of August 11-13
+and she will give us a lecture on August 13 as follows:
+  a.. Title: The New Mars: Results of the Mars Global Surveyor Mission
+  b.. Time: August 13, 2002(Tuesday) 10:00a.m.
+  c.. Place: Rm 1013, Science Building 4                     
+Looking forward to your coming.
+
+
+Yours sincerely,
+Bonnie lin
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

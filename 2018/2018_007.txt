@@ -1,0 +1,24 @@
+Arizona Radio Observatory: Call for Proposals (2018A)
+------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the ALMA Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona, and for the 10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for the period February 15, 2018 - June 15, 2018. Proposal candidates from members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should submit up to THREE pages of scientific and technical justification (including figures, tables, and references) in addition to their Proposal Summary Sheet (download form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the Proposal Summary Sheet their requested observing blocks (the exact LST ranges to be scheduled and number of times to be repeated), dates on which they are not available to observe, and dates in which sources in those observing blocks are within the Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+The 12m ALMA Prototype antenna currently supports an ALMA Band 3 (82.5-116 GHz) dual-polarization SBS (sideband-separating) receiver.  The 12m control system supports dual-polarization in the same sideband or single-polarization in each sideband ("2 IF mode"), position-switched, beam-switched, and OTF observations.  A new spectrometer, AROWS, is being commissioned on the 12m telescope and is being made available on a best effort basis with 2 channels.  The AROWS center IF frequency is fixed at 6.0 GHz for the full 4 GHz bandwidth mode, but is steerable within the 4 GHz IF bandwidth in the higher resolution/smaller bandwidth modes.  The older MAC autocorrelator and filter banks will still be available as a backup.  Possible backend modes may be found on the ARO Equipment Summary and Status sheet at:
+https://www.as.arizona.edu/arizona-radio-observatory
+
+The 10m SMT currently supports a dual-polarization ALMA Band 6 (211-280 GHz) receiver with SBS mixers and a Band 7 (320-370 GHz) DSB receiver. Higher frequency receivers will not be available this semester. The SMT control system supports both dual-polarization ("2 IF mode") and dual-polarization+dual-sideband observations ("4 IF mode") with tunable IF from 4.5-7.5 GHz, for position-switched, beam-switched, and OTF observations.  Proposal candidates should consult the ARO Equipment Summary and Status sheet for additional technical specifications: 
+https://www.as.arizona.edu/arizona-radio-observatory
+
+Remote observing is available. Observers who plan to observe remotely must supply fixed IP address(es) of the computer(s) that will be used during observing on their Proposal Summary Sheet. For further information about remote observing and other operational questions, please contact Tom Folkers, Operations Manager:  tfolkers@email.arizona.edu.
+
+Scheduling of successful proposals will be done according to availability of the receivers requested.  Graduate student participation is especially encouraged. 
+The proposal deadline for this 2018 spring semester is set on January 31, 2018.
+
+Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by midnight (23:59 CST) January 31, 2018 (Wednesday).
+
+==============================================================================

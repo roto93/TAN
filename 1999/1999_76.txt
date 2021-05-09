@@ -1,0 +1,619 @@
+From kyl@asiaa.sinica.edu.tw Mon Apr  5 14:40:08 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA18593; Mon, 5 Apr 1999 14:36:58 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id OAA00635; Mon, 5 Apr 1999 14:34:01 +0800
+Date: Mon, 5 Apr 1999 14:34:00 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MCNews #31 - LaTeX file (fwd)
+Message-Id: <Pine.GSO.3.96.990405143357.3627A-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 21970
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 5 Apr 1999 00:42:30 -0500 (CDT)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: MCNews #31 - LaTeX file
+Resent-Date: Mon, 5 Apr 1999 00:42:47 -0500 (CDT)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+\documentstyle[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\fboxsep=4.5pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+\def\vinfty{$v_{\infty}$}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\mdot{\.M}
+\def\msunyr{($M_{\odot}\,{\rm yr}^{-1}$)}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+% "less than or approximately"
+\def \la{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+<\cr\sim\cr}}}}}
+
+% "greater than or approximately" 
+\def \ga{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\sim\cr}}}}}
+
+
+\begin{document}
+
+{\fbox{{\fbox{\parbox[]{17cm}{
+\bigskip
+\smallskip
+\centerline{\Huge{\sc The Magellanic Clouds Newsletter}}
+\bigskip
+\centerline{\Large \bf An electronic exchange on Magellanic Clouds research}
+\bigskip
+\smallskip
+\centerline{\bf Edited by\, Eva K.\ Grebel and You-Hua Chu}
+\smallskip
+\centerline{{\tt mcnews@astro.uiuc.edu}}
+\medskip    
+\centerline{{\tt http://www.astro.uiuc.edu/mcnews/MCNews.html}}
+\centerline{{\tt http://www.astro.uni-bonn.de/\~{}mcnews/}}
+% THAT IS http://www.astro.uni-bonn.de/~mcnews/
+\bigskip
+\smallskip
+\hspace{0.5cm} {\Large\it{No.\ 31}} \hspace{10cm} {\Large\it{April 4, 1999}}
+}}}}
+
+
+\bigskip\noindent
+
+
+\begin{center}
+{\em Happy holidays!}\\
+\bigskip
+\bigskip
+\bigskip
+\bigskip
+{\LARGE\sc{Contents}} 
+\bigskip
+\bigskip
+
+\begin{tabular}{lr}
+%News                               & 1 \\
+Abstracts of 10 refereed papers     &  \\
+%Abstract of a non-refereed paper   & 9 \\
+%Conference announcement           & 12\\
+%Job opportunity                    & 10\\
+\end{tabular}
+\end{center}
+
+%\hrulefill
+\bigskip
+\bigskip
+\bigskip
+
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{9cm}{
+{\LARGE\bf{Abstracts of Refereed Papers}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+
+\begin{center}
+{\Large\bf            Emission-Line Properties of the LMC Bubble N70
+}
+\end{center}
+\centerline{\bf Brooke P.\ Skelton$^1$, William H.\ Waller$^2$,
+ Richard F.\ Gelderman$^3$}
+\centerline {\bf Larry W.\ Brown$^4$, 
+Bruce E.\ Woodgate$^4$, Adeline Caulet$^5$, \&  Robert A.\
+ Schommer$^6$}
+{\footnotesize  $^1$  University of Washington, Astronomy Department, 
+Seattle, Washington  98195, USA \\
+$^2$  Raytheon STX Corporation, 
+Harvard-Smithsonian Center for Astrophysics, 
+and Tufts University, Department of Physics and Astronomy, 
+Robinson Hall, Medford MA  02138, USA \\
+$^3$ NASA Goddard Space Flight Center and Western Kentucky University,
+Department of Physics and Astronomy, Bowling Green, Kentucky  42101-3576, USA \\
+$^4$ NASA Goddard Space Flight Center, Code 681, Greenbelt, MD 20771, USA \\
+$^5$ University of Illinois, Astronomy Department, Urbana, IL  61801, USA \\
+$^6$ National Optical Astronomy Observatories, Cerro Tololo 
+Inter-American Observatory, Casilla 603, La Serena, Chile}\\
+
+We present a spectrophotometric imaging study of the emission bubble N70 
+(DEM 301) in the Large Magellanic Cloud.  N70 is approximately 100 pc 
+in size with a nearly circular shell-like morphology.  The nebular 
+emission is powered by an uncertain combination of EUV photons, 
+intense winds, and supernova shock waves from the central population 
+of high-mass stars (the OB association LH 114).  We have obtained 
+narrow-band images (FWHM $\sim$ 6 \AA) of N70 in the light of 
+H$\alpha$$\lambda$6563, [N II]$\lambda$6584, [S 
+II]$\lambda\lambda$6717,6731, and [O III]$\lambda$5007, along with the 
+corresponding red and green continua.  The resulting line fluxes and 
+flux ratios are used to derive ionization rates, nebular densities, 
+volume filling fractions, and excitation indices.  The photoionizing 
+luminosity inferred from the embedded stellar population is more than 
+adequate to account for the observed hydrogen ionization rate.
+
+We compare the emission-line photometry with that derived from similar 
+imaging of the Orion nebula and with data collected from the 
+literature on other emission-line regions in the LMC.  Compared to the 
+Orion nebula, N70 shows much higher [S II]/H$\alpha$ intensity ratios 
+which increase smoothly with radius --- from $<$0.3 near the center to 
+$>$1.0 towards the outer filamentary shell.  The measured intensity 
+ratios in N70 more closely match the range of excitation spanned by 
+giant and supergiant H II shells and by some of the supernova remnants 
+observed in the LMC.  
+
+The contending ionization and excitation 
+processes in the interior and outer shell of N70 are evaluated in 
+terms of the available data.  EUV photons probably contribute most of 
+the inner nebula's ionization, whereas a combination of 
+photoionization plus collisional ionization and excitation of sulfur 
+atoms by low-velocity shocks seems to best fit the emission-line 
+luminosities and intensity ratios observed in the outer shell.  
+Considerations of the radiative and mechanical energetics that are 
+involved may indicate the need for one or two supernova explosions 
+having occurred during the last $\sim$Myr.
+\\
+
+{\bf   Accepted by:\,   
+Publications of the Astronomical Society of the Pacific 
+}\\
+{\it For preprints, contact\, }       {\tt waller@cosmos2.phy.tufts.edu}\\
+{\it Also available from the URL\, }  {\tt astro-ph/9903001 }\\
+\bigskip
+
+%========================================================================
+
+
+
+\newcommand{\ha}{H$\alpha$}
+\newcommand{\nii}{[N~{\sc ii}]~6584\AA}
+\newcommand{\sii}{[S~{\sc ii}]~6716 \& 6731\AA}
+
+\begin{center}
+{\Large\bf          The structure and dynamics of the unique Honeycomb
+Nebula\\
+\vspace*{2mm} in the halo of 30 Doradus
+}
+\end{center}
+\centerline{\bf       M.P.\ Redman$^1$, Z.A.\ Al-Mostafa$^{1,2}$, J.\
+Meaburn$^1$, M.\ Bryce$^1$, and J.E.\ Dyson$^3$
+}
+{\footnotesize  $^1$  Department of Physics \& Astronomy,
+University~of~Manchester, Oxford~Road, Manchester M13~9PL, UK
+         \\     $^2$  King Abdulaziz City for Science and Technology,
+Institute of Astronomical and Geophysical Research, PO Box 6086,
+Riyadh 11442, Saudi Arabia
+          \\    $^3$  Department of Physics \& Astronomy,
+University~of~Leeds, Leeds, LS2~9JT, UK
+}\\
+
+The structure and dynamics of the Honeycomb nebula in the Large
+Magellanic cloud are modelled as resulting from the interaction of a
+supernova explosion with an existing giant shell of the type commonly
+found in the LMC. In particular, the processes that may have led to
+the striking morphology and velocity structure of this nebula are
+examined. New data of the Honeycomb nebula, are presented. Here,
+spatially resolved profiles of the \sii\ density sensitive lines,
+obtained with the Manchester Echelle Spectrometer, supplement
+previous, complementary, \ha\ and \nii\ profiles.
+
+The agreements and differences between all of these data and this
+simple model are highlighted.
+\\
+
+{\bf   Accepted by: Astronomy and Astrophysics
+}\\
+{\it For preprints, contact\, }       {\tt   mpr@ast.man.ac.uk  }\\
+{\it Also available from the URL\, }  {\tt
+ftp://www.ast.man.ac.uk/outgoing/mpr/honey.ps.gz    }\\
+\bigskip
+
+%========================================================================
+
+
+\newpage
+
+\def\frac{$''$\hspace*{-.1cm}}
+\def\h2{H\,{\sc ii}}
+\def\ab{$\sim$}
+
+
+\begin{center}
+  {\Large \bf {\it HST} Observations of the very young SMC ``blob''  
+   N\,88A}
+\end{center}
+\centerline{\bf  M.\ Heydari-Malayeri$^1$,  V.\ Charmandaris$^1$,
+    L.\ Deharveng$^2$,  M.R.\ Rosa$^3$, and H.\ Zinnecker$^4$ } 
+{\footnotesize  $^1$ {\sc demirm}, Observatoire de Paris, 61 Avenue de 
+l'Observatoire, F-75014 Paris, France \\
+$^2$ Observatoire de Marseille, 2 Place Le Verrier, 
+F-13248 Marseille Cedex 4, France \\
+$^3$ Space Telescope European Coordinating Facility, European 
+Southern Observatory, Karl-Schwarzschild-Strasse-2, D-85748 Garching bei 
+M\"unchen, Germany \\
+$^4$ Astrophysikalisches Institut Potsdam, An der Sternwarte 16, 
+D-14482 Potsdam, Germany } \\
+
+High-resolution {\it Hubble Space Telescope} images have allowed us
+for the first time to resolve the compact SMC ionized ``blob'' N\,88A
+(diameter \ab\,3\frac.5 or 1 pc). This very young \h2\, region, which 
+is hatching from its natal molecular cloud, is heavily affected by
+absorbing dust associated with the cloud. The interstellar reddening
+towards N\,88A is on average $A_{V}$\,\ab\,1.5 mag and strikingly
+rises to more than 3.5 mag in a narrow dust band crossing the
+core of the \h2\, region. Such a high extinction is unprecedented for
+an \h2\, region in the metal-poor SMC.  We present the photometry of
+some 70 stars lying towards the OB association at the center of which
+lies N\,88A.  The exciting star(s) of N\,88A is not detected, due to
+the heavy extinction. The chronology of star formation is discussed
+for the whole region. \\
+
+{\bf  Submitted to:\, Astronony \& Astrophysics  }
+\\
+{\it For preprints, contact\, }       {\tt   heydari@obspm.fr  }\\
+\bigskip
+
+%========================================================================
+
+
+
+
+\begin{center}
+{\Large\bf        UV Spectral Classifications of O and B Stars\\
+\vspace*{2mm}
+in the Large Magellanic Cloud}
+\end{center}
+\centerline{\bf        Margaret M.\ Smith Neubig$^1$ and Frederick 
+C.\ Bruhweiler$^1$}
+{\footnotesize  $^1$  Institute for Astrophysics and Computational Sciences,
+Department of Physics, 200 Hannan Hall, The Catholic University of America, 
+Washington, DC 20064, USA}\\
+
+In this extension of our previous ultraviolet classification study of Small 
+Magellanic Cloud (SMC) stars, we construct an ultraviolet classification 
+system for stars of the Large Magellanic Cloud (LMC), a galaxy with a 
+metallicity intermediate to those of the Milky Way and the SMC.  Employing the 
+same method as was used for the SMC, we compile a set of LMC spectra drawn from
+the International Ultraviolet Explorer ({\it IUE}) archives, and use these 
+spectra to construct a framework of reliable UV spectral classification 
+criteria.  We classify 143 LMC {\it IUE} spectra, and identify the LMC standard
+stars which define our UV classification system.  Representative spectra are 
+presented to illustrate the patterns that the UV spectral classification 
+features exhibit.  The LMC and SMC UV classification systems are intended to be
+applicable to UV spectra of stars in external galaxies for which no MK standards
+have been defined.  Such UV spectra are expected to be collected from 
+spaceborne instruments such as the Space Telescope Imaging Spectrograph ({\it 
+STIS}), aboard the Hubble Space Telescope.
+\\
+
+{\bf   Accepted by:\,   The Astronomical Journal
+}\\
+{\it For preprints, contact\, }       {\tt   neubig@iue.gsfc.nasa.gov  }\\
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf The Fourth Catalogue of Population I Wolf-Rayet Stars\\
+\vspace*{2mm} in the Large Magellanic Cloud
+}
+\end{center}
+\centerline{\bf J.\ Breysacher$^1$, M.\ Azzopardi$^2$, G.\ Testor$^3$
+}
+{\footnotesize  $^1$ {European Southern Observatory, Karl-Schwarzschild-Strasse 2, D-85748 Garching bei M\"{u}nchen, Germany\\
+                $^2$ Observatoire de Marseille, 2 Place Le Verrier, F-13248 Marseille Cedex 04, France\\
+                $^3$ Observatoire de Paris, section de Meudon, DAEC, F-92195 Meudon Cedex, France
+}\\ 
+
+\normalsize The catalogue provides for each of the 134 W-R stars of Population I
+presently known in the Large Magellanic Cloud, accurate equatorial
+coordinates, photometric data, spectral classification, binary status, correlation
+with OB associations and HII regions. The miscellaneous designations
+of the stars are also listed. Although completeness is not
+pretended, results published during the last decade are highlighted in
+the notes given for each individual star. A uniform set of finding
+charts is presented.\\
+
+{\bf   Accepted by:\,   Astronomy and  Astrophysics Supplements
+}\\
+{\it For preprints, contact\, }       {\tt   jbreysac@eso.org}\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+\begin{center}
+{\Large\bf  Differences in the fractions of Be stars in galaxies
+}
+\end{center}
+\centerline{\bf  Andr\'e Maeder$^1$, Eva K.\ Grebel$^{2,3}$,
+and Jean--Claude Mermilliod$^4$
+}
+{\footnotesize  $^1$  Observatoire de Gen\`eve, CH-1290 Sauverny, Switzerland
+         \\     $^2$  UCO/Lick Observatory, University of California, Santa 
+                      Cruz, CA 95064, USA
+         \\     $^3$  University of Washington, Department of Astronomy, Box 
+                      351580, Seattle, WA 98195, USA
+         \\     $^4$  Institut d'Astronomie, UniL, CH--1290 
+                      Chavannes--des--Bois, Switzerland
+}\\
+
+The number ratios  $Be/(B+Be)$  of Be to B--type stars in young, well
+studied clusters of the Galaxy, the LMC and SMC are examined. In order to
+disentangle age and metallicity effects we choose clusters
+in the same age interval and for which reliable photometric and spectroscopic
+data are available. Number counts
+are made for various magnitude intervals, and the results are
+found to be stable with respect to this choice. In the magnitude interval
+$M_{\mathrm{V}} = -5$ to -1.4 (i.e. O9 to B3) we obtained a ratio $Be/(B+Be)$ =
+0.11, 0.19, 0.23, 0.39 for 21 clusters located
+in the interior of the Galaxy, the exterior of the Galaxy, the
+LMC and the SMC, respectively.
+
+Various hypotheses for these differences are examined. An interesting
+possibility
+is that the average rotation is faster at low metallicities as a result
+of star formation processes. The much higher relative N--enrichment
+found by Venn (1999) in A--type supergiants of the
+ SMC, compared to galactic supergiants, also strongly supports the
+presence of more rotational mixing at low metallicities.
+We discuss whether high rotational mixing may be
+ the source of primary nitrogen in the early chemical evolution of galaxies.
+\\
+
+{\bf   Accepted by:\,   Astronomy \& Astrophysics
+}\\
+{\it For preprints, contact\, }       {\tt Andre.Maeder@obs.unige.ch}\\
+{\it Also available from the URL\, }  {\tt http://xxx.lanl.gov/abs/astro-ph/9904008}\\
+
+\bigskip
+
+%========================================================================
+
+
+
+\newpage
+
+\begin{center}
+{\Large\bf V(RI)$_{\rm {\boldmath C}}$ Photometry of
+Cepheids in the Magellanic Clouds }
+\end{center}
+\centerline{\bf Thomas G.\ Barnes III$^1$, Inese I.\ Ivans, Jodie R.\
+Martin$^2$, C.S.\ Froning $^2$,}
+\centerline{\bf  and Thomas J.\ Moffett$^3$}
+{\footnotesize  $^1$ McDonald Observatory, The University of Texas
+at Austin, Austin, TX 78712-1083, USA
+\\     
+$^2$ Department of Astronomy, The University of Texas, Austin, Texas
+78712-1083, USA
+\\
+$^3$ Purdue University, Department of Physics, 1396 Physics
+Building, West Lafayette, Indiana 47907- 1396}, USA
+\\
+
+We present {\it V(RI)}$_{C}$ data for thirteen Cepheids in the Large Magellanic
+Cloud and eight in the Small Magellanic Cloud. The total number of new measures
+is fifty-five in each wavelength band.  The median uncertainty in the 
+photometry is $\pm 0.03$ mag.  These results supplement a larger photometric 
+program on Magellanic Cloud Cepheids previously published.
+\\
+
+{\bf  Submitted to:\,    The Astrophysical Journal Supplement Series
+}\\
+{\it For preprints, contact\, Thomas G. Barnes III\, }       {\tt
+tgb@astro.as.utexas.edu}\\
+{\it Also available from the URL\, }  
+{\tt  http://xxx.lanl.gov/abs/astro-ph/9903095}\\
+
+\bigskip
+
+%============================================================
+
+
+
+\begin{center}
+{\Large\bf      Statistics of Stellar Populations of Star Clusters\\
+\vspace*{1.5mm}
+and Surrounding Fields in the Outer Disk\\
+\vspace*{2mm}
+ of the Large Magellanic Cloud}
+\end{center}
+\centerline{\bf J.F.C.\ Santos Jr.$^1$, A.E.\ Piatti$^2$,
+J.J.\ Clari\'a$^2$, E.\ Bica$^3$, D.\ Geisler$^4$, H.\ Dottori$^3$
+}
+{\footnotesize  $^1$  Dep. de F\'{\i}sica, ICEx-UFMG, C.P.\ 702,
+30123-970 Belo Horizonte MG, Brazil
+         \\     $^2$  Observatorio Astron\'omico de C\'ordoba, Laprida
+854, 5000, C\'ordoba, Argentina
+         \\
+                $^3$  Dep. de Astronomia, IF-UFRGS, C.P. 15051,
+91501-970 Porto Alegre RS, Brazil
+         \\
+                $^4$  Dep. de F\'{\i}sica, FCFM, Universidad de
+Concepci\'on, Casilla 160-C, Concepci\'on, Chile
+}\\
+
+A comparative analysis of Washington color-magnitude diagrams
+(CMDs) for 14 star clusters and respective surrounding fields in
+the Large Magellanic Cloud (LMC) outer disk is presented. Each
+CCD frame including field and respective cluster covers an area of
+$185\Box'$. The stellar population sampled is of intermediate age and
+metallicity. CMD radial analysis involving star count ratios,
+morphology and integrated light properties are carried out. Luminosity
+functions (LFs) are also presented.
+Two main results are: (i) Within the range $4<R($kpc$)<8$, the distance
+from the LMC center is  well correlated with the average
+age in the sense that inner
+fields are younger and; (ii) Beyond $\approx$8kpc the outer fields do
+not show evidence of a significant intermediate-age component in their
+stellar populations, as inferred from red giant clump star counts.
+\\
+
+{\bf   Accepted by:\,   The Astronomical Journal
+}\\
+{\it For preprints, contact\, }       {\tt jsantos@fisica.ufmg.br  }\\
+{\it Also available from the URL\, }  {\tt
+http://xxx.lanl.gov/abs/astro-ph/9903329    }\\
+\bigskip
+
+
+%============================================================
+\newpage
+
+\begin{center}
+{\Large\bf  The Optical Gravitational Lensing Experiment. \\
+Cepheids in the Magellanic Clouds.\\
+\vskip 3pt
+I. Double-Mode Cepheids in the Small Magellanic Cloud
+}
+\end{center}
+\centerline{\bf A.\ Udalski$^1$, I.\ Soszy{\'n}ski$^1$, M.\ Szyma{\'n}ski$^1$,
+M.\ Kubiak$^1$, G.\ Pietrzy\'nski$^1$}
+\centerline{\bf P.\ Wo\'zniak$^2$, and K.\ \.Zebru\'n$^1$}
+{\footnotesize   
+\noindent
+$^1$  Warsaw University Observatory, Al.\ Ujazdowskie 4, 00-478 Warszawa,
+Poland\\
+$^2$  Princeton University Observatory, Princeton, NJ 08544-1001, USA
+}\\
+
+We present a sample of 93 double-mode Cepheids detected in the 2.4 
+square degree area in the central part of the SMC. 23 stars from the
+sample  pulsate in the fundamental mode and the first overtone while 70
+objects are  the first and second overtone pulsators. This is the
+largest sample of such  type Cepheids detected in one environment so
+far. 
+ 
+We analyze period ratio of double-mode Cepheids and Fourier parameters
+of  decomposition of the light curves of these objects. We also present
+location of different type Cepheids from the SMC in the color-magnitude
+diagram and show their distribution of ${V-I}$ color indices. We find
+one object which  is probably a blend, either physical or optical, of
+two Cepheids pulsating in  the fundamental mode.
+\\
+
+{\bf   Accepted by: Acta Astronomica 49, 1.
+}\\
+{\it For preprints, contact\, }       {\tt   udalski@sirius.astrouw.edu.pl }\\
+{\it Also available from the URL\, }  {\tt 
+http://xxx.lanl.gov/abs/astro-ph/9903391}\\
+\bigskip
+
+%========================================================================
+
+
+
+\begin{center}
+{\Large\bf  The Optical Gravitational Lensing Experiment. \\
+Cepheids in the Magellanic Clouds.\\
+\vskip 2pt
+II. Single-Mode Second Overtone Cepheids\\
+\vskip 2pt
+in the Small Magellanic Cloud
+}
+\end{center}
+\centerline{\bf A.\ Udalski$^1$, I.\ Soszy{\'n}ski$^1$, M.\ Szyma{\'n}ski$^1$,
+M.\ Kubiak$^1$, G.\ Pietrzy\'nski$^1$}
+\centerline{\bf P.\ Wo\'zniak$^2$, and K.\ \.Zebru\'n$^1$}
+{\footnotesize   
+\noindent
+$^1$  Warsaw University Observatory, Al.\ Ujazdowskie 4, 00-478 Warszawa,
+Poland\\
+$^2$  Princeton University Observatory, Princeton, NJ 08544-1001, USA
+}\\      
+
+We present a sample of 13 candidates for single-mode second overtone 
+Cepheids discovered in the 2.4 square degree area of the SMC bar during
+the OGLE  microlensing search. All candidates passed four photometric
+tests: analysis of  Fourier parameters of the light curve, $R_{21}$ and
+$\phi_{21}$, position in  the period-luminosity diagram and location in
+the color-magnitude diagram. 
+ 
+The stars form a very homogeneous group of objects with very similar
+light  curves of low amplitude and almost sinusoidal shape. Their color
+indices ${B-V}$ and  ${V-I}$ are also very similar and the objects
+determine the observational blue edge of the instability strip of the
+first overtone Cepheids. This is the first firm  sample of the
+single-mode second overtone Cepheids detected so far.
+\\      
+
+{\bf   Accepted by: Acta Astronomica 49, 45.
+}\\
+{\it For preprints, contact\, }       {\tt   udalski@sirius.astrouw.edu.pl }\\
+{\it Also available from the URL\, }  {\tt 
+http://xxx.lanl.gov/abs/astro-ph/9903393}\\
+\bigskip
+
+%========================================================================
+
+
+
+
+%========================================================================
+
+
+
+
+\end{document}
+
+
+
+
+
+

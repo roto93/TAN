@@ -1,0 +1,89 @@
+From jlim@asiaa.sinica.edu.tw Wed Mar 10 17:36:48 1999
+Return-Path: <jlim@asiaa.sinica.edu.tw>
+Received: from biaa33.biaa.sinica.edu.tw (iaa11) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA13517; Wed, 10 Mar 1999 17:33:30 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id RAA15284; Wed, 10 Mar 1999 17:30:34 +0800
+Date: Wed, 10 Mar 1999 17:30:34 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199903100930.RAA15284@biaa33.biaa.sinica.edu.tw>
+To: iaa@iaa1, astro@iaa1
+Subject: ASIAA Colloquium time change
+Cc: shinnaga@orion.sci.ibaraki.ac.jp
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Content-Md5: 4rflPlavj7hYuS0kyAwoRA==
+Content-Length: 3269
+Status: RO
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                  =20
+                      *     C O L L O Q U I U M    *
+
+
+                           16 Mar 1999 (Tuesday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+           =20
+            Colloquium (3:30 pm)
+
+            SPEAKER: Dr. Hiroko Shinnaga=20
+                     (Ibaraki University)
+	    TITLE:   "A Development of a Millimeter Polarimeter for=20
+	              Investigating Interstellar and Circumstellar Magnetic"
+	    ABSTRACT:=20
+  Molecular clouds are sites of star formation.
+Magnetic field may play an important role in a process of
+star formation.  To date, precise value for the magnetic
+field strength in high density (n($H_{2}$) =1B$B!f=1B(B$10^{4}cm^{-3}$)
+regions has not been measured because of observational
+difficulties. However, the most crucial aspects of star
+formation are predicted to occur in high density regions,
+where molecular clouds are collapsing, or dispersing
+angular momentum.  We have designed and constructed a
+tunable polarimeter to cover frequencies from 35 GHz
+to 250 GHz for the 45 m telescope at Nobeyama Radio
+Observatory for precise observation and eventual
+determination of interstellar and circumstellar magnetic
+fields.  The polarimeter has capability of measuring both
+circular and linear polarization. The insertion loss was
+measured to be 0.14 =1B$B!^=1B(B 0.05 dB in 100 GHz band. The
+overall instrumental polarization of the system
+in 100 GHz band was found to be as low as 3%.  The performance
+of the polarimeter in astronomical observation was tested by
+simultaneously measuring the linear polarization of the
+J=3D2-1 transition of SiO in the v=3D0 and 1 states at 86 GHz
+toward two strong SiO maser objects.  We got the first
+observational evidence for the ground vibrational state of
+SiO J=3D2-1transition in one source to be maser origin.
+      Using the millimeter polarimeter system, we attempted
+an observation of Zeeman effect of CCS $J_{N} =3D 4_{3} =1B$B!]=1B(B =
+3_{2}$
+emission toward one typical dark cloud core in Taurus molecular
+cloud complex, L1521E.  Measurements of Zeeman splitting
+with the line can provide us the magnetic field strength of the
+cloud region where stars will be formed.  We made precise
+calculation of g factors of each CCS lines and confirmed some of
+them by laboratory microwave spectroscopy.
+For the astronomical measurement, we used a low noise receiver
+( $T_{sys}$ ~ 170 =1B$B!]=1B(B 200 K) with high frequency resolution =
+(${\Delta}$
+Freq. =3D2.5 kHz).  From careful analysis and fittings, the magnetic =
+field
+strength of L1521E with the line is derived to be +160 ${\mu}$ G =
+=1B$B!^=1B(B
+38 ${\mu}$G (statistical error of the fitting of Stokes V spectrum) =
+=1B$B!^=1B(B
+19 ${\mu}$G ( pointing error of the telescope).  This is the lowest
+upper limit value ofthe magnetic field strength with the radical
+so far.
+ 
+

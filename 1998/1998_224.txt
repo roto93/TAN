@@ -1,0 +1,109 @@
+From kyl@asiaa.sinica.edu.tw Sat Nov 14 09:51:11 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA03438; Sat, 14 Nov 1998 09:46:54 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA07651; Sat, 14 Nov 1998 09:44:39 +0800
+Date: Sat, 14 Nov 1998 09:44:38 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Geodetic VLBI Job Announcement (fwd)
+Message-Id: <Pine.GSO.3.96.981114094436.7588C-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4209
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 13 Nov 98 13:42:34 EST
+From: Nancy Vandenberg <nrv@gemini.gsfc.nasa.gov>
+To: vlbi@gemini.gsfc.nasa.gov, pcfs@gemini.gsfc.nasa.gov,
+    vlbi@cv3.cv.nrao.edu, apt-twg@rp.csiro.au, evntech@nfra.nl
+Subject: Geodetic VLBI Job Announcement
+
+                    VLBI Earth Science Support
+
+  NVI, Inc. is seeking qualified candidates for up to three
+anticipated positions in geodetic Very Long Baseline
+Interferometry (VLBI). The work will be performed under NVI
+Inc.'s contract that supports the VLBI group at NASA's Goddard
+Space Flight Center in Greenbelt, MD. The successful applicants
+will be members of the Goddard VLBI team and will be interacting
+with the international VLBI community. Candidates are sought for
+the following positions:
+
+  (1) Scientist for VLBI Analysis. This position supports
+contributions to advancement of the VLBI technique through
+research in areas such as atmosphere modeling, geophysical
+modeling, combination of data from different techniques, use of
+VLBI for orbit determination, and advanced estimation strategies.
+The position also involves analyzing VLBI data using SOLVE/GLOBL
+with particular emphasis on analyzing results of the CORE
+(Continuous Observations of the Rotation of the Earth) program
+sessions. The applicant will be expected to contribute to the
+scientific research goals of the Goddard VLBI group, make
+presentations at scientific meetings, and publish papers in
+refereed journals. Applicants for this position must have a good
+understanding of the VLBI technique and prior experience with
+VLBI data analysis. The applicant should have an advanced degree
+in one of the physical sciences or mathematics. 
+
+  (2) Scientist for VLBI Field System. This position supports
+development and maintenance of the Field System, a PC/Linux-based
+field software control system for VLBI data acquisition. The
+position also involves designing and developing custom interface
+software for unique station hardware, Linux system
+administration, and management of PC hardware configurations. The
+applicant will be expected to provide technical support and
+training in all areas of VLBI data acquisition to VLBI staff at
+stations around the world. Applicants for this position should
+have experience with VLBI data acquisition at a working station
+and experience using and developing software for Linux systems.
+This position includes travel to VLBI stations for software and
+system installation, testing, and training. The applicant should
+have an advanced degree in one of the physical sciences or
+mathematics.
+
+  (3) Data Technician/Programmer for IVS (International VLBI
+Service) Coordinating Center support. Responsibilities of this
+position include maintenance of IVS information system data
+bases, including gathering and entering data; production and
+distribution of IVS reports and documentation; data archiving;
+IVS product delivery support. The applicant will also contribute
+to development of data presentation software including web-based
+applications. The applicant should have a degree in one of the
+physical sciences or mathematics.
+
+  All applicants should have good programming skills in languages
+such as Fortran, C, Perl, or HTML, as well as familiarity with
+Unix and Windows environments. Good interpersonal and
+communications skills are required of all applicants.
+
+  NVI, Inc. is a woman-owned small business with contracts
+supporting various science missions at Goddard Space Flight
+Center. NVI, Inc. provides competitive salaries and benefits.
+Interested persons should respond before 15 December 1998 by
+submitting a resume to NVI, Inc. Please send resumes by postal
+mail to NVI, Inc., Attn. Nancy Vandenberg, 6401 Golden Triangle
+Drive, Suite 450, Greenbelt, MD 20770, or by e-mail to
+nrv@gemini.gsfc.nasa.gov. NVI is an equal opportunity employer.
+
+
+

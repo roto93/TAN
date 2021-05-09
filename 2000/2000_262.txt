@@ -1,0 +1,204 @@
+From kyl@asiaa.sinica.edu.tw Sun Dec  3 15:51 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA10766
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 3 Dec 2000 15:50:43 +0800 (CST)
+Received: from iaa1 (kyl@iaa1 [140.109.177.7])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA14856
+	for <astro@asiaa.sinica.edu.tw>; Sun, 3 Dec 2000 15:57:20 +0800
+Date: Sun, 3 Dec 2000 15:44:45 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: FIRST Science Workshop (fwd)
+Message-ID: <Pine.SOL.4.10.10012031544430.8807-100000@iaa1>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6616
+Status: R
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Fri, 01 Dec 2000 10:13:52 -0800
+From: Charmaine D. Mayes <Charmaine.D.Mayes@jpl.nasa.gov>
+To: agoodman@cfa.harvard.edu, bbutler@aoc.nrao.edu, dcl@submm.caltech.edu,
+     leisawitz@stars.gsfc.nasa.gov, neufeld@pha.jhu.edu,
+     dgarnett@as.arizona.edu, gei@cfa.harvard.edu, bryson@cfht.hawaii.edu,
+     herbst@mps.ohio-state.edu, go@orton.jpl.nasa.gov,
+     Harold.Yorke@jpl.nasa.gov, jglenn@casa.colorado.edu, jmangum@tuc.nrao.edu,
+     jbieging@as.arizona.edu, krs@exoplanet.jpl.nasa.gov, lscholz@aas.org,
+     heyer@fermat.astro.umass.edu, malkan@astro.UCLA.EDU, mmeyer@as.arizona.edu,
+     rayjay@astron.Berkeley.EDU, riccardo@astrosun.tn.cornell.edu,
+     rubin@cygnus.arc.nasa.gov, Robert.Silverberg@gsfc.nasa.gov,
+     guesten@mpifr-bonn.mpg.de, scasey@mail.arc.nasa.gov, slamb@astro.uiuc.edu,
+     mseilonen@coi-world.com, tknowles@esli.com,
+     tmarston@mail0.ipac.caltech.edu, william.r.mcgrath@jpl.nasa.gov,
+     Jussi.Saily@hut.fi, dtheil@du.edu, kyl@asiaa.sinica.edu.tw,
+     nje@bubba.as.utexas.edu, suketu@pop.uky.edu
+Cc: phillips@submm.caltech.edu, William.D.Langer@jpl.nasa.gov,
+     goldsmit@astrosun.tn.cornell.edu, pmh@zoe.as.utexas.edu,
+     gxh@ipac.caltech.edu, Gary.S.Parks@jpl.nasa.gov,
+     Guy@jpl.nasa.gov.Stringfellow, Ben.A.Parvin@jpl.nasa.gov,
+     Mary.L.Romejko@jpl.nasa.gov, harwit@bellatlantic.net
+Subject: FIRST Science Workshop
+
+2nd ANNOUNCEMENT
+
+          Submillimeter Astronomy Science Workshop for
+         Far Infrared and Submillimeter Telescope (FIRST)
+
+
+              "FIRST - A Vision of the Cool Universe"
+
+A Workshop will be held at Humphrey's Half Moon Inn on Shelter Island, San
+Diego, 11th to 13th February, 2001, to help inform the US astronomy
+community of the scientific opportunities available with the FIRST mission.
+The science workshop will be followed (14th - 16th of February, 2001) by
+the annual TeraHertz (THz) Technology Symposium (contact Imran Mehdi at
+imran@merlin.jpl.nasa.gov), where relevant technology will be discussed.
+Participants will be welcome to attend either or both components.  A visit
+to Composite Optics Inc.  will be arranged between the two meetings.
+Registration for the FIRST Science Workshop is required (see below), but is
+at no cost.
+
+LIST OF INVITED SPEAKERS
+M. Fall (STScI) - Theories of Galaxy Formation and Evolution
+C. Steidel (Caltech) - Observations of Distant Galaxies (Optical)
+A. Blain (Cambridge) - Observations of Distant Galaxies (Submm)
+B. Draine (Princeton) - Physics of the ISM
+E. Herbst (Ohio State) - Chemistry in Star Forming Regions
+E. Lada (U. Florida) - Physics of Star Formation
+J. Fischer (NRL) - CII in Galaxies
+M. Gerin (ENS) - ISO Extragalactic Results
+G. Blake (Caltech) - Line Surveys with FIRST
+N. Scoville (Caltech) - ALMA Science - Extragalactic
+N. Evans (U Texas) - ALMA and Galactic Studies
+P. Solomon (Stony Brook) - Nearby Galaxies
+P. Goldsmith (Cornell) - SWAS Science Results
+G. Pilbratt (ESTEC) - Introduction to FIRST
+A. Poglitsch (MPI, Garching) - Introduction to PACS
+M. Werner (JPL) - Synergy with SIRTF
+J. Davidson (NASA Ames) - SOFIA and FIRST
+D. Neufeld (Johns Hopkins) - ISO Galactic Results
+D. Wilner (CFA) - The SMA and FIRST
+G. Pilbratt (ESTEC) - Introduction to FIRST
+A. Poglitsch (MPI, Garching) - Introduction to PACS
+J. Bock (JPL/Caltech) - Introduction to SPIRE
+M. Harwit (Cornell) - Planck and FIRST
+T. Phillips (Caltech) - Introduction to HIFI
+
+
+FIRST Mission
+"FIRST" is an ESA "Cornerstone Mission" in the Horizon 2000 program,
+consisting of a passively cooled 3.5m diameter telescope, operating in
+
+the 60-600 micron range at the L2 point.  There are three instruments
+in the helium cooled focal plane:
+
+SPIRE, a long wavelength (200 - 670 micron) camera and low resolution
+spectrometer;
+
+PACS, a short wavelength (60 - 210 micron) camera and low resolution
+spectrometer; and
+
+HIFI, a high resolution (heterodyne) spectrometer, operating from 450 -
+1900 GHz.
+
+
+NASA's Role
+===========
+NASA is a partner in the program and has developed appropriate technologies
+for the Telescope, plus focal plane detector components for HIFI and SPIRE.
+JPL is the NASA lead center for FIRST and NASA will support US science
+participation through a US FIRST Science Center at the Infrared Processing
+and Analysis Center (IPAC).
+
+
+Format of Workshop
+The format of the science workshop will be invited Introductory talks,
+followed by structured, full workshop discussions whose purpose is to help
+frame the scientific potential FIRST.  In addition, there will be a poster
+session with opportunity to present science results relevant to the FIRST
+mission.
+
+
+Registration
+If you wish to attend, please register electronically using the attached
+registration form.  There is no registration fee planned for this workshop,
+or for workshop registrants attending the THz conference.  However, THz
+Conference only participants should register separately for that
+conference.  Information about securing hotel rooms at Humphrey's Half
+Moon Inn on Shelter Island will be sent later to registered participants.
+
+Contacts:
+The organizing committee is T. Phillips (chair), P. Goldsmith, P. Harvey,
+M. Harwit, G. Helou, W. Langer, and G. Stringfellow.
+
+
+Registration forms, and any questions should be sent to
+charmaine.d.mayes@jpl.nasa.gov
+
+
+
+======================== CUT HERE =============================
+
+Registration Form (Due Date 8th January 2001)
+(Participants are advised to register as soon as possible due to limited 
+capacity.)
+
+
+NAME
+
+DEPARTMENT
+INSTITUTION
+ADDRESS
+CITY/STATE/ZIP
+
+email:
+Telephone
+Fax
+
+Arrival Date (Workshop starts at 5pm on the 11th Feb. with a reception  and 
+introductory talks and ends at 5pm on 13th Feb.)
+
+
+Do you wish to contribute a Poster?  Yes/No
+
+
+Do you plan to stay for the THz conference?   Yes/No
+
+
+Title of Poster:
+
+
+
+
+
+email to Charmaine.Mayes@jpl.nasa.gov
+====================================================================
+
+==============================
+Charmaine D. Mayes
+Project Secretary, FIRST/Planck
+M.S. 306-473
+Jet Propulsion Laboratory
+4800 Oak Grove Drive
+Pasadena, CA  91109
+(818)393-1397
+(818)393-4053 FAX
+charmaine.d.mayes@jpl.nasa.gov
+=============================== 
+
+

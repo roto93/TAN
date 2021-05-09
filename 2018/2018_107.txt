@@ -1,0 +1,196 @@
+==============================================================================
+
+In this issue (Jul 06 - 17, 2018)
+
+1. SPICA2019 conference announcement
+2. IAU Symposium #341 Challenges in Panchromatic Galaxy Modelling with Next
+  Generation Facilities
+3. ASIAA Colloquium/Seminar/Lunchtalk (Jul 18): Wei, Ta-Shun (ASIAA)
+
+[due to a failure of internet connection plus a sendmail problem, the TAN
+  server was offline again since July 06 until today; any announcements sent
+  to TAN might have been lost during this period. Please send it again to TAN
+  if you find your messsages to TAN were not forwarded in this issue. sorry
+  for any inconvenience it may have caused.  --- YJK ]
+
+==============================================================================
+
+> Date:    Fri, Jul 6, 2018 at 9:20 PM
+> From:    Ciska Kemper <ciska@asiaa.sinica.edu.tw>
+> To: spica-taiwan <spica-taiwan@asiaa.sinica.edu.tw>,
+>    riaa <riaa@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw
+> Subject: SPICA2019 conference announcement
+
+**Exploring the Infrared Universe: The Promise of SPICA**
+Crete, Greece
+
+20-23 May 2019
+
+
+The infrared wavelength range is key to understand the origin and
+evolution of galaxies, stars and planetary systems, which are obscured
+by dust during a large part of their life cycles. With a large cold
+mirror and a sensitive suite of instruments, SPICA, recently selected as
+a candidate for ESA=E2=80=99s Cosmic Visions program, stands poised to
+revolutionize these fields by providing ultra-deep spectroscopy in the
+12-230 =C2=B5m range, as well as imaging (17-37 =C2=B5m and 100-350 =C2=B5m= )
+and polarimetry (100-350 =C2=B5m). With launch planned for 2030, SPICA will
+complement current and upcoming facilities, filling the spectral gap
+between JWST and ALMA, while providing a huge leap over previous
+infrared space missions. We would like to invite the international
+astronomical community to participate in the conference, **Exploring the
+Infrared Universe: The Promise of SPICA**, which will take place on the
+island of Crete on 20-23 May 2019.  At this conference, participants
+will learn about the capabilities and current design of SPICA, which
+includes a significant Guest Observer program, while discussing the
+exciting scientific promise of the mission. Up to date information about
+the SPICA mission and its instruments can be found at
+http://www.spica-mission.org, in addition to links to a set of
+whitepapers recently published in the journal PASA, that focus on some
+of extragalactic science enabled by SPICA.=20
+
+
+Topics to be addressed at the meeting include:
+
+-The rise of metals and dust across cosmic time
+-Feedback and feeding processes in galaxy evolution
+-Star formation and the baryon cycle in galaxies
+-Magnetic fields and turbulence in star formation
+-Protoplanetary disks and the formation of habitable planets
+-Debris disks, planetary systems, and the Solar system
+
+
+Confirmed invited speakers include: Susanne Aalto, Yuri Aikawa,
+Fran=C3=A7oise Combes, Bill Dent, Edith Falgarone, Davide Fedele, Andrea
+Ferrara, Javier Goicoechea, Masateru Ishiguro, Patrick Koch, Leon
+Koopmans, Ilse de Looze, Roberto Maiolino, Thomas M=C3=BCller, Tohru Nagao,
+Klaus Pontoppidan, Alexandra Pope, and Peter Roelfsema.=20
+
+
+For further information about the conference, please visit
+http://www.spica2019.org/=20
+
+Looking forward to seeing you in Crete.
+
+
+The scientific organizing committee:
+
+Lee Armus            Martin Giard        Sue Madden
+Marc Audard        Matt Griffin        Mikako Matsuura
+Vassilis Charmandaris  Doug Johnstone        Stefanie Milam
+Carlotta Gruppioni      Inga Kamp         Paco Najarro
+Yasuo Doi              Hidehiro Kaneda        Takashi Onaka
+Eiichi Egami            Ciska Kemper         Luigi Spinoglio
+David Elbaz            Kotaro Kohno            Floris van der Tak (chair)
+Jan Tauber
+
+==============================================================================
+
+> from:    Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> to: riaa@asiaa.sinica.edu.tw,
+>    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> date:    Mon, Jul 9, 2018 at 9:29 AM
+> subject: IAU Symposium #341 Challenges in Panchromatic Galaxy Modelling with
+>          Next Generation Facilities
+
+Dear colleagues,
+
+The deadline of abstract submission and early registration for the conference below has been extended to 15 July (this week).
+
+Regards,
+Hiro
+
+---------------------------------------
+IAU Symposium #341:
+
+¡§Challenges in Panchromatic Galaxy Modelling with Next Generation Facilities¡¨
+
+November 12 to 16, 2018 at Osaka University Hall
+
+https://panmodel2018.sciencesconf.org/
+
+Topics:
+State-of-the-art panchromatic galaxy models and studies
+Pushing the redshift frontier: modeling the first galaxies
+Pushing the wavelength frontier: extending models towards X-rays and radio
+Pushing the technical frontier: from overwhelmingly large datasets to machine learning
+
+Rationale:
+How galaxies form and evolve across cosmic times is one of the fundamental questions in modern astrophysics. In this endeavor, the panchromatic modeling of galaxies is one of the key tools. As new and next-generation facilities progressively open a new era in astronomy we enter a new era where our current approach at modeling the emission galaxies faces a triple frontier.
+
+The redshift frontier. 
+The first galaxies in the universe are still largely terra incognita. How did the first stellar generations form? What are the properties of population III stars and their effect on their environment? How are their evolution and spectra affected by rotation and binarity? What can we tell about their physical conditions (gas density, temperature, metallicity, etc.) from the recombination line spectra? How did the dust form in such extreme objects? Since its inception, ALMA has been providing excellent opportunities for probing dust to high redshift (z~7 or higher). Surprisingly, it revealed a large variety in dust content already established at high redshift: some galaxies are rich in dust but others are extremely poor. This suggests that the early stages of galaxy evolution present a large variety of physical conditions, driving galaxies along different paths. The variety should also be related to the stellar populations that we will observe with JWST, since metals, of which!
+  dust grains are composed, originate from stars. Therefore, in order to comprehend the evolution of the first galaxies, we need to undertake a large panchromatic effort to fully understand the stellar, the gas, and the dust content in high-redshift galaxies, rather than develop the models separately as is often the case. This conference is suitable for these aims because of the attendance of observers working at various wavelengths and theoreticians working on the most advanced models of dust evolution and SEDs.
+
+The wavelength frontier. 
+The new X-ray missions e-ROSITA and Athena will bring far-reaching changes to our understanding of black hole physics and AGN evolution over cosmic time. In parallel the CTA is expanding our window on cosmic rays. At the same time, MeerKAT is starting operations, VLASS will start soon all the while the EVLA and LOFAR show excellent capabilities for deep fields. These instruments will open new and unique opportunities to tackle the physics of galaxies from star formation to quasars and active nuclei, while opening a new window on the epoch of reionization. However, one of the main challenges in order to tackle all these points will be to determine the physical properties of galaxies through accurate SED modeling. Historically, panchromatic models have only covered reliably the electromagnetic spectrum from the ultraviolet to the sub-millimeter. The loss of information in foregoing X-rays and radio wavelengths is damaging to measure reliably the respective properties of host g!
+alaxies and AGN, as nuclear activity and star formation can be difficult to disentangle reliably. This conference will allow us to discuss state-of-the-art X-ray and radio modeling of galaxies and the prospects of combining them with standard panchromatic models.
+
+The technical frontier. 
+LSST, Euclid, WFIRST and SKA will produce imaging and spectroscopic surveys with observations of billions of galaxies, observed multiple times over periods in excess of a decade, dwarfing the largest extragalactic surveys to date that have been used in developing and applying modeling techniques. The size and dimensionality of these data, combined with their limited wavelength coverage, creates the need to rethink our panchromatic modeling methods. This will require the community to focus its efforts on developing new methods and techniques, such as machine learning, that utilize the volume and diversity of the data rather than high signal-to-noise measurements of small numbers of galaxies. In order to maximize the information that can be extracted from these imaging surveys, experts in the panchromatic modeling of galaxies need to engage with statisticians and observers. This meeting will be an ideal platform from which to identify the steps that need to be undertaken in th!
+is direction and to develop a path towards the exploitation of this new generation of multispectral and temporal surveys.
+
+The meeting is will take place from 12 to 16 November 2018 at the ?saka University Conference Hall in Japan. ?saka, is a large historic city of Japan with a rich intellectual life. It is tightly connected to the rest of the world with direct flights from Asia, Europe, the Middle East, North America, and Oceania. It it connected with T?ky? through a fast train, offering even broader connections to the world.
+
+Review talks
+State-of-the-art panchromatic galaxy models and studies
+a. The history of panchromatic surveys (Sadanori Okamura)
+b. The physical ingredients for panchromatic modeling (Stephane Charlot)
+c. Panchromatic codes and modeling techniques from £q2 minimization to Bayesian inference (Maarten Baes)
+
+Pushing the redshift frontier: modeling the first galaxies
+a. Pushing the redshift frontier with future ground-based and space-borne facilities (Toru Yamada)
+b. Pushing the redshift frontier modeling the UV-optical domain of high-z galaxies (Erik Zackrisson)
+
+Pushing the wavelength frontier: extending models towards X-rays and radio
+a. Pushing the panchromatic modeling frontier towards the X-Rays (Andrea Merloni)
+b. Pushing the panchromatic modeling frontier towards the radio (Eric Murphy)
+
+Pushing the technical frontier: from overwhelming large datasets to machine learning
+a. Pushing the technical frontier from large datasets to machine learning (Viviana Acquaviva)
+
+Organizing committee: 
+SOC chair: Mederic Boquien (University of Antofagasta, Chile)
+
+SOC members: Veronique Buat (Aix-Marseille University, France), Laure Ciesla (Laboratory of Astrophysics of Marseille, France), Andrew Connolly (University of Washington, USA), Daniel Dale (University of Wyoming, USA), Ilse De Looze (University College London, UK), Maud Galametz (CEA Saclay, France), Carlotta Gruppioni (Astrophysics and Space Science Observatory of Bologna - INAF, Italy), Hiroyuki Hirashita (ASIAA, Taiwan), Akio Inoue (Osaka Sangyo University, Japan), Elisabeta Lusso (Durham University, UK), Kentaro Nagamine (Osaka University, Japan), Giulia Rodighiero (University of Padova, Italy), Daniel Schaerer (University of Geneva, Switzerland), Renske Smit (University of Cambridge, UK), Patricia Tissera ( Andres Bello University, Chile)
+
+LOC chair: Akio Inoue (Osaka Sangyo University, Japan)
+LOC members: Denis Burgarella (Laboratory of Astrophysics of Marseille, France), Takuya Hashimoto (Osaka Sangyo University, Japan), Ken Mawatari (Osaka Sangyo University, Japan), Tohru Nagao (Ehime University, Japan), Hiroshi Shibai (Osaka University, Japan)
+
+==============================================================================
+
+> From: "ASIAA Colloquium/Talks" <talks@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Date: Thu, 12 Jul 2018 11:30:02 +0800
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Wei, Ta-Shun (ASIAA)
+Topic:          Introduction of Supertorrefier
+Time:          7/18 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

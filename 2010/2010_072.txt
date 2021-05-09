@@ -1,0 +1,162 @@
+From wchen@astro.ncu.edu.tw Wed May 12 17:44:09 2010
+Date: Wed, 12 May 2010 17:43:21 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: 1st Announcement: MODEST-10, Beijing 30/8-3/9/2010 (fwd)
+
+Hi Yi-Jehng
+
+Another conference info...  Please circulte.  Thanks.
+
+Wen Ping
+
+
+
+----------------------- First Announcement ----------------------
+
+           Modelling Dense Stellar Systems (MODEST) - 10
+
+           30 August - 3 September 2010, Beijing, China
+
+      (We also encourage proposals for splinter sessions, either
+       before or after the main meeting, and provide logistical
+      support. Please email modest10@kiaa.pku.edu.cn if you would
+                   like to pursue this option.)
+
+                 http://silk0.bao.ac.cn/modest10/
+
+
+Scientific Rationale
+====================
+
+Dense stellar clusters are the birth places of stars and planetary
+systems, and form the building blocks of galaxies. The complex
+interplay between stellar dynamics, stellar evolution, hydrodynamical
+and radiation processes relevant for single and binary stellar
+evolution and stellar collisions presents a formidable challenge for
+physical understanding and accurate modelling.
+
+In recent years, significant progress has been made in all these
+domains, and powerful hardware (GPUs and GRAPEs) has become available
+to vastly speed up simulations. In addition, a wealth of dynamical
+observational data have become available, and will emerge in the near
+future (LAMOST, GAIA). The combination of these advances has increased
+our understanding related to a range of fundamental topics in
+astronomy: star cluster formation and evolution, star formation,
+planetary dynamics, stellar structure and evolution, dynamics of the
+Galactic Centre, the formation and evolution of galaxies, and
+cosmology.
+
+At the same time, fresh problems have emerged which challenge the
+basic paradigm of almost all recent work. Once regarded as an example
+of simple stellar populations, born simultaneously, rich clusters are
+now known to have a more complicated history, which affects everything
+from their dynamical evolution to their composition.  Understanding
+the formation and evolution of star clusters is a challenging task
+that requires the collaboration and exchange of ideas by astronomers,
+physicists, and computer scientists with observational and theoretical
+expertise in Galactic and extragalactic astronomy.
+
+The MODEST (Modelling Dense Stellar Clusters) collaboration is a
+loosely-knit international collaboration among various groups working
+on stellar dynamics, stellar evolution, stellar hydrodynamics, and
+related research areas. One of the main activities of the
+collaboration is to provide a software framework for large-scale
+simulations of dense stellar systems, in which existing codes for
+dynamics, stellar evolution, and hydrodynamics can be easily coupled,
+and place them in the appropriate observational context.
+
+This MODEST-10 workshop is, ten years since MODEST-1 was organised in
+New York, the first in China and the first main MODEST meeting in
+Asia.  In addition to its function as a scientific forum of our fields
+it will be an occasion to look both back and forward at how we want to
+shape the next ten years of the MODEST collaboration. The scientific
+topics of MODEST-10 focus primarily on, but are not limited to:
+
+1. The formation and evolution of star clusters, from birth to death,
+   including the issues of infant mortality, stellar multiplicity, the
+   initial mass function, mass segregation, and the effect of tidal
+   fields;
+
+2. Resolved globular clusters and globular cluster systems in nearby
+   and distant galaxies;
+
+3. Dwarf galaxies, the formation of tidal dwarfs and nuclear star
+   clusters;
+
+4. Exotic objects in dense stellar systems (blue stragglers, contact
+   binaries, black holes, and other compact objects);
+
+5. The dynamics of planetary systems in star cluster environments;
+
+6. Modeling of galactic nuclei, including our own Galactic Centre; the
+   interaction between stars, star clusters and supermassive black
+   holes;
+
+7. Comparison between observations and simulations -- preparing for
+   large surveys in the next decade;
+
+8. High-performance computational facilities (GPUs, GRAPEs,
+   supercomputers) and innovative computing environments (grids,
+   MUSE).
+
+With regard to the special tradition of MODEST as a forum for open and
+ample discussion, we have designed an unusual workshop structure,
+consisting of moderators, discussion leaders, review and highlight
+speakers and speakers linked to a special computational astrophysics
+and e-science session. In all roles, invitees will have an opportunity
+to also present their own results and view of the field.  MODEST-10
+will NOT be just the classical sequence of talk/discussion, but the
+success of this new concept depends on all of you.
+
+INVITED (review and highlight) SPEAKERS, DISCUSSION LEADERS, and
+MODERATORS (c: confirmed/likely):
+
+Tal Alexander          John Fregeau         David Merritt
+Jay Anderson (c)       Evgenij Gaburov      Steffen Mieske
+Holger Baumgardt       Mark Gieles (c)      Eric Peng (c)
+Kenji Bekki            Stephen Gillessen    Giampaolo Piotto
+Peter Berczik (c)      Douglas Heggie (c)   Simon Portegies Zwart
+Torsten Boeker (c)     Jarrod Hurley (c)    Fred Rasio
+Ian Bonnell            Piet Hut (c)         Alison Sills
+Rupali Chandar (c)     Natascha Ivanova (c) Rainer Spurzem (c)
+Patrick Cote           Sungsoo Kim (c)      Ron Taam (c)
+Francesca D'Antona     Andreas Kuepper (c)  Dany Vanbeveren (c)
+Melvyn Davies          Xiaowei Liu (c)      Enrico Vesperini (c)
+Richard de Grijs (c)   Youjun Lu (c)        Qingjuan Yu (c)
+Walter Dehnen          Tom Maccarone (c)    Jilin Zhou
+Licai Deng (c)         Junichiro Makino
+
+The MODEST-10 workshop is jointly organised by the Kavli Institute for
+Astronomy and Astrophysics at Peking University (KIAA;
+http://kiaa.pku.edu.cn) and the National Astronomical Observatories of
+the Chinese Academy of Sciences (NAOC; http://www.bao.ac.cn).
+
+On Monday 30 and Tuesday 31 August, the science sessions will be held
+at the KIAA, on Wednesday 1 September we will arrange for two buses to
+drive us to Xinglong Observatory (some 3 hours north of Beijing) for a
+session on LAMOST science (and your chance to see the telescope first
+hand), and on Thursday 2 and Friday 3 September, we will convene at
+the NAOC (bus transportation from the Peking University campus will be
+provided).
+
+REGISTRATION IS NOW OPEN:
+http://silk0.bao.ac.cn/cgi-bin/modest10/modest10-regi.pl
+
+The early registration deadline is 1 July 2010. This is also the
+deadline for hotel reservations through our block booking for hotels
+on or close to the Peking University campus (see
+http://kiaa.pku.edu.cn/Visit_Info/accommodation.html for hotel options
+if you would like to do this independently). Please let us know
+whether you want us to book a hotel room for you (payment in Chinese
+yuan at the registration desk, please).
+
+PLEASE NOTE THAT ALL NON-CHINESE NATIONALS NEED TO APPLY FOR A VISA TO
+ENTER CHINA! Information about the visa requirements and procedure can
+be found here: http://silk0.bao.ac.cn/modest10/visa.html
+
+We are looking forward to welcoming you to Beijing in September!
+
+On behalf of the Local Core Group and Scientific Advisory Panel,
+
+Richard de Grijs

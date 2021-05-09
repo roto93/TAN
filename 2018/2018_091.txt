@@ -1,0 +1,78 @@
+
+> Subject: Call for Proposals (2018-2019 term) TRAO 14m telescope, Korea
+> From: Youngung Lee <yulee@kasi.re.kr>
+> Date: Fri, 15 Jun 2018 00:47:29 +0000
+> Cc: =?utf-8?B?6rCV7ZiE7Jqw?= <orionkhw@kasi.re.kr>
+> To: "hirano@asiaa.sinica.edu.tw" <hirano@asiaa.sinica.edu.tw>
+
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the CfP of the TRAO 14m =
+telescope
+to TAN.
+
+Thank you,
+Naomi
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+Call for Proposal (2018-2019 term)
+
+=20
+We would like to call for proposals using TRAO (Taeduk Radio Astronomy =
+Observatory) 14m telescope for the term of 2018 autumn to 2019 spring. =
+Recently we successfully installed a multi-beam receiver system, =
+SEQUOIA-TRAO, and renovated most part of the telescope system. The new =
+receiver system is now equipped with high-performing 16-pixel MMIC =
+preamplifiers in a 4x4 array, operating within 85-115.6 GHz frequency =
+range. System temperature ranges from 170 K (86~110 GHz) to 400 K (115 =
+GHz; 12CO). The 2nd IF modules with the narrow band and the 8 channels =
+with 4 FFT spectrometers allow to observe 2 frequencies simultaneously =
+within the 85~100 or 100~115 GHz bands for all 16 pixels of the =
+receiver. OTF (On-The-Fly) mapping mode is the main observing mode, and =
+a simple position switching mode is also available. OTF test observation =
+shows that it takes 27 min for 6=E2=80=99x6=E2=80=99 region, and 37 min =
+for 10=E2=80=99x10=E2=80=99. You may decide a regrid size and =
+convolution parameter after completion of your observation. Pointing =
+accuracy is about 6 acrsec. The backend system (FFT spectrometer) =
+provides the 4096x2 channels with a fine velocity resolution of better =
+than 0.05 km/s (15 kHz) per channel. Its effective spectra bandwidth is =
+60 MHz.
+
+There are three Key Science Programs (KSP) =
+<http://radio.kasi.re.kr/trao/schedule.php> running for three years, =
+abstracts of which are accessible at the TRAO home page.  Proposals =
+which are not overlapped with KSPs are encouraged. Please refer the TRAO =
+homepage for KSPs and other information. There are lots of telescope =
+time avaliable between LST 10 and 15hrs, thus proposals using this time =
+slots would have more privilege. Scientists, who did not have an =
+observing experience at TRAO, are encouraged to have an internal =
+collaborator(s) of KASI (Korea Astronomy and Space Science). The upper =
+limit of telescope time per proposal is suggested as 100 hours. Two =
+bedrooms and kitchen are available for outside observers. Deadline for =
+proposal submission is August 31st 2018 (KST 23:59; UT+9). =20
+
+=20
+homepage: http://trao.kasi.re.k <http://trao.kasi.re.kr/>r
+
+
+=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+Youngung Lee
+Ph.D.
+Principal Scientist
+Radio Astronomy Research Center
+KOREA ASTRONOMY AND SPACE SCIENCE INSTITUTE/
+Tel: 82-42-865-3281
+Mobile: 82-10-3935-3281
+Fax: 82-42-865-3272
+https://www.facebook.com/youngung.lee.35 =
+<https://www.facebook.com/youngung.lee.35>=
+
+==============================================================================

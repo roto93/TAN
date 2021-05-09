@@ -1,0 +1,136 @@
+==============================================================================
+
+In this issue (Mar 28 - Apr 02, 2016)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Apr 06): Hsiang-Yi Yang (U of Maryland)
+                                   (Apr 07): Min-Kai Lin (Univ of Arizona)
+2. First Announcement of The 10th East Asian Meeting on Astronomy (EAMA10)
+
+==============================================================================
+
+> Date: Thu, 31 Mar 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Hsiang-Yi Yang (University of Maryland)
+Topic:          Solving the Cooling-Flow Problem in Galaxy Clusters
+Time:           4/6 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Galaxy clusters with short central cooling times are predicted to host massive inflow of gas and large star formation rates, which are absent observationally – the so-called “cooling-flow problem”. Feedback from the central active galactic nuclei (AGN) is one of the most promising heating mechanisms to counteract radiative cooling. However, it is still uncertain how the feedback energy is transformed into heat and how to distribute heat isotropically. The role of conduction is also not well understood. In particular, it is unexplored whether the AGN-driven turbulence could halt the heat-flux driven buoyancy instability (HBI) that acts to insulate the cluster cores from conductive heating. I will present results from our recent simulations that aim to address the above two questions. Finally, few models to date consider cosmic-ray filled AGN bubbles, which are crucial for bubble evolution. I will discuss how we could use multi-wavelength observations of the Fermi bubble!
+ s as a nearby laboratory to understand the processes of AGN feedback.
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Min-Kai Lin (University of Arizona)
+Topic:          Hydrodynamic activity in protoplanetary disks
+Time:           4/7 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The realization that large portions of cold, dense protoplanetary disks do not support magnetically-driven turbulence have lead to renewed interest in purely hydrodynamical processes in accretion disks. Such processes may play significant roles in disk evolution, planet formation, as well as explaining observations of transition disks. I will discuss recent theoretical developments in three important examples of hydrodynamic instabilities in protoplanetary disks. I first describe the Rossby Vortex Instability, which has been invoked to form dust-trapping vortices to explain asymmetries observed in several transition disks. I will also present new simulations of vortices in massive 3D disks. I then describe the Vertical Shear Instability and its generic relevance to astrophysical disks. I show that, despite rather stringent thermodynamic requirements, that this instability is indeed viable in realistic, irradiated protoplanetary disks where cooling is regulated by dust opacit!
+ y. Finally, I present a new analytical treatment of Gravitational Instabilities in rotating disks that includes cooling physics, irradiation and viscosity. I discuss how this generalized linear theory may aid the understanding of disk fragmentation, and show that application of our analyses predict where protoplanetary disks are expected to fragment, in agreement with the current consensus based on direct numerical simulations.
+
+==============================================================================
+
+> Date: Fri, 1 Apr 2016 15:31:34 +0800
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: Fwd: First announcemen
+
+Dear Prof Kuan,
+
+Could you please help to forward this to TAN?
+
+Cheers,
+Wei-Hao
+
+---------- Forwarded message ----------
+
+------------------------------------------------------------------------
+First Announcement of The 10th East Asian Meeting on Astronomy (EAMA10)
+
+
+This is the first announcement of EAMA10, to be held at Seoul National
+University, Seoul, Korea, on 2016 September 27-30.
+
+http://astro.snu.ac.kr/eama10
+
+
+East-Asia Meeting on Astronomy (EAMA) aims at promoting collaborations
+between astronomers in the East Asian region. Since its first meeting
+in 1990 in China, the EAMA meeting has been indeed providing a place
+to discuss the ideas and to coordinate the efforts on fostering
+collaborations among East Asian countries as well as among
+individuals. The formation of EACOA (East Asian Core Observatories
+Association) in 2005 was a meaningful output of EAMA. The upcoming
+10th EAMA (EAMA10) will be held on September 27-30, 2016 in Seoul,
+Korea. The astronomical activities in the East Asian region are now
+quite diverse and more collaborative than ever before, without
+mentioning individual projects. EAMA10 will contribute to further
+promoting such activities by discussing regional activities, current
+and future large facilities, science projects, and astronomy education
+and public outreach in East Asian countries. As the 10th meeting, it
+will be also a good opportunity to look back the astronomical
+achievements of the East Asian region during past 25 years and to
+foresee its next 25 years.
+
+The meeting will have the following agenda.
+
+Part 1. Regional Activities
+
+Part 2. Large Facilities
+
+Session 2-1: Collaborative Facilities
+
+Session 2-2: Current and Future Facilities
+
+Part 3. Sciences
+
+Sessions: Topical Sessions
+
+Part 4. Historical Astronomy, Astronomy Education, and Public Outreach
+
+Session 4-1: Historical Astronomy
+
+Session 4-2: Astronomy Education and Public Outreach
+
+Part 5. Discussion
+
+
+
+Some of the important deadlines are given below.
+
+  -Second announcement/Registration start: April 20, 2016
+  -Abstract submission deadline: July 15, 2016
+
+
+For questions, please contact eama10@astro.snu.ac.kr.
+We look forward to seeing you at the meeting.
+
+
+Sincerely yours,
+Bon-Chul Koo (SOC Chair) & Myungshin Im (LOC Chair)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

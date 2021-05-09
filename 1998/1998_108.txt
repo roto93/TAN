@@ -1,0 +1,77 @@
+From kyl@asiaa.sinica.edu.tw Sat May 16 09:36:01 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02026; Sat, 16 May 1998 09:30:57 +0800
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA26187; Sat, 16 May 1998 09:29:35 +0800
+Date: Sat, 16 May 1998 09:29:35 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: VLBA Observational Status Summary / update (fwd)
+Message-Id: <Pine.GSO.3.96.980516092930.26179A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2001
+Status: RO
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 15 May 1998 15:36:04 -0600 (MDT)
+From: Joan Wrobel <jwrobel@arana.aoc.NRAO.EDU>
+To: scistaff@arana.aoc.NRAO.EDU, vlbi@arana.aoc.NRAO.EDU
+Cc: analysts@arana.aoc.NRAO.EDU, dmedcalf@arana.aoc.NRAO.EDU,
+    jwrobel@arana.aoc.NRAO.EDU, lappel@arana.aoc.NRAO.EDU,
+    switz@arana.aoc.NRAO.EDU
+Subject: VLBA Observational Status Summary / update
+
+15 May 1998
+
+Dear Colleague,
+
+The VLBA Observational Status Summary (OSS) has recently been updated.
+This document provides, in concise form, the minimal information
+needed to formulate technically sound proposals requesting VLBA
+resources.  It also provides lists of relevant software and
+documentation, plus a list of key NRAO personnel who can be consulted
+for further, more detailed information.
+
+The VLBA OSS is available via either
+
+(a) anonymous FTP as a PostScript file with name "obssum.vlba.ps" 
+    in directory "pub" on host "ftp.aoc.nrao.edu", or
+
+(b) WWW browsers.  Use the URL "http://www.nrao.edu/" to point 
+    toward the NRAO home page, which offers easy selection of the 
+    VLBA home page.  Both HTML and PostScript versions of the 
+    VLBA OSS can be accessed from the VLBA home page.  There are
+    a few errant NRAO logos in some of the HTMLed tables; these
+    logos should be gone Monday.
+
+Let me take this opportunity to remind you that the next VLBA proposal
+deadline is 1 June at 5pm EDT, for the proposal period 30 October 1998
+to 1 February 1999.  Proposers asking for the phased VLA should be
+aware that the VLA will be in its CnB and C configurations during the
+proposal period.
+
+Yours sincerely,
+J.M. Wrobel
+
+(end msg)
+
+

@@ -1,0 +1,63 @@
+From wchen@astro.ncu.edu.tw Wed Oct  2 05:56 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id FAA05566
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 2 Oct 2002 05:56:47 +0800 (CST)
+Received: from dirac.phy.ncu.edu.tw (IDENT:root@dirac.phy.ncu.edu.tw [140.115.30.11])
+	by asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g91LtQk32659
+	for <astro@asiaa.sinica.edu.tw>; Wed, 2 Oct 2002 05:55:26 +0800
+Received: from localhost (wchen@localhost)
+	by dirac.phy.ncu.edu.tw (8.11.6/8.11.6) with ESMTP id g91LUDj28298
+	for <astro@asiaa.sinica.edu.tw>; Wed, 2 Oct 2002 05:30:13 +0800
+X-Authentication-Warning: dirac.phy.ncu.edu.tw: wchen owned process doing -bs
+Date: Wed, 2 Oct 2002 05:30:12 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+X-Sender: wchen@dirac.phy.ncu.edu.tw
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: 2MASS All-Sky Quicklook Images now available (fwd)
+Message-ID: <Pine.LNX.4.21.0210020529580.28294-100000@dirac.phy.ncu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2083
+Status: RO
+
+
+
+---------- Forwarded message ----------
+Date: Tue, 1 Oct 2002 14:32:58 -0700 (PDT)
+From: 2mass@ipac.caltech.edu
+To: wchen@outflows.astro.ncu.edu.tw
+Subject: 2MASS All-Sky Quicklook Images now available
+
+The Two Micron All Sky Survey (2MASS) is pleased to announce that the 2MASS
+Quicklook Images covering the full sky are now available on-line.  A
+description of the Quicklook Images, cautionary notes about their use and a
+gallery of known Anomalies in the Images can be found at the 2MASS All-Sky
+Data Release page at http://www.ipac.caltech.edu/2mass/releases/allsky/.
+
+The Quicklook Images are renditions of the 1"/pixel J, H and Ks FITS-format
+2MASS Atlas Images that have been passed through a data compression algorithm
+that causes some loss of intensity information.  The Quicklook Images are not
+recommended for quantitative photometric measurements, but they contain full
+astrometric information and are useful for visual examination of the near
+infrared sky and as finding chart material.  Users should defer to the
+2MASS Point and Extended Source Catalogs for measurements of discrete sources.
+
+The Quicklook Images serve as a preview of the release of the 2MASS All-Sky
+Point and Extended Source Catalogs that contain approximately 470 million
+sources.  The All-Sky Catalogs are in the final stages of validation before
+their impending release.
+
+Interactive access to the 4,121,439 2MASS Images is available via the
+position/object-based All-Sky Quicklook Image Server at the Infrared Science
+Archive (IRSA;  http://irsa.ipac.caltech.edu).  Batch retrieval of Quicklook
+Images will be available in the near future.  The non-lossy-compressed 2MASS
+Atlas Images will be available in 2003.
+
+-------------------------------------------------------------------------------
+The Two Micron All Sky Survey is a joint project of the University of
+Massachusetts and the Infrared Processing and Analysis Center/California
+Institute of Technology. Funding for the survey has been provided by the
+National Aeronautics and Space Administration and the National Science
+Foundation.
+
+

@@ -1,0 +1,135 @@
+From kyl@asiaa.sinica.edu.tw Wed Jan 27 07:30:21 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA18754; Wed, 27 Jan 1999 07:28:17 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA26597; Wed, 27 Jan 1999 07:25:40 +0800
+Date: Wed, 27 Jan 1999 07:25:40 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Abstract (fwd)
+Message-Id: <Pine.GSO.3.96.990127072536.25365D-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4119
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 26 Jan 1999 21:49:41 +0300 (MSK)
+From: "Bisnovaty-Kogan G.S." <gkogan@mx.iki.rssi.ru>
+To: Astrophysical Dynamics Conference <astrodyn@uevora.pt>
+Cc: ad-list@uevora.pt
+Subject: Abstract
+
+
+%=================================================================
+%
+%     Latex Abstract Template for the Astrophysical Dynamics
+%                               at
+%                  University of Evora, Portugal
+%                               on
+%                        14-16 April 1999
+%
+%  Please fill the form by replacing the sample text and e-mail it
+%  along with the registration form
+%  to    astrodyn@uevora.pt
+%  by    1st March     - contributed talks
+%        14th March    - posters
+%
+%=================================================================
+\documentstyle [epsf]{report} \hoffset-6mm\voffset-22mm
+\textheight25cm\textwidth16cm\topmargin1cm\topskip-0.5cm
+\oddsidemargin1cm\hbadness=3000\evensidemargin0cm\parindent1em
+\itemsep\parskip\topsep\parskip\parindent=0pt
+\font\big=cmb10 scaled \magstep3
+\def\degr{\hbox{$^\circ$}}
+\def\arcmin{\hbox{$^\prime$}}
+\def\arcsec{\hbox{$^{\prime\prime}$}}
+\def\fh{\hbox{$.\!\!^{\rm h}$}}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fs{\hbox{$.\!\!^{\rm s}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+%
+\begin{document}
+
+{\large\bf \centering
+%=================================================================
+%  please type the title here; like the following example:
+%=================================================================
+Electromagnetic particle acceleration in relativistic jets
+%-----------------------------------------------------------------
+\bigskip}
+
+{\large\bf
+%=================================================================
+%  please type the authors here, e.g.,
+%=================================================================
+G.S.Bisnovatyi-Kogan $^1$ G.S.
+%-----------------------------------------------------------------
+\medskip}
+
+%=================================================================
+%  please type the institute affiliations of all authors here, e.g.
+%=================================================================
+$^1$ Space Research Institute, Moscow, Russia
+%$^2$Institute of Astronomy, Madingley Road, Cambridge, U.K.\newline
+%$^3$Department of Space and Earth Science, Osaka University,
+%    Toyonaka, Japan
+%-----------------------------------------------------------------
+\medskip
+
+{\bf Abstract}
+
+%=================================================================
+%  please type the abstract text here  (maximum 200 words)
+%=================================================================
+ When
+ observed with high angular resolution jets
+ in quasars and AGN show structure with
+ bright knots separated by dark regions.
+ Radiation of knots is usually strongly
+ polarized, indicating to the synchrotron radiation
+ of the relativistic
+ electrons in an ordered magnetic fields. Estimation of the life
+ time of these electrons, based on the observed luminosities and
+ spectra, gives values much less than their kinematic ages $d/c$,
+ where $d$ is the distance of the emitting point from the central
+ source.
+ That indicates to a necessity of acceleration
+ of electrons in the jets in order to explain the observations.
+ If a charge separation happens at the formation of knots, long wave
+ electromagnetic oscillations proceed, leading to emission of
+ a strong electromagnetic waves.
+ So, charged particles are directly
+ accelerated by the electric field of the waves.
+\par
+
+%=================================================================
+\vskip1cm
+\end{document}
+\bye
+%=================================================================
+
+
+
+
+

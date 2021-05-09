@@ -1,0 +1,147 @@
+==============================================================================
+
+In this issue (Nov 17 - 23, 2017)
+
+1. Next proposal deadline for Nobeyama 45m radio telescope
+2. TTTT seminar (Dec 14)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Nov 27): Nadia M. Murillo (Leiden Obs)
+
+==============================================================================
+
+> Subject: Fwd: Next proposal deadline for Nobeyama 45m radio telescope
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Date: Fri, 17 Nov 2017 12:49:33 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+FYI
+
+
+> 開始轉寄郵件：
+>
+> 寄件人: "K. Tatematsu" <k.tatematsu@nao.ac.jp>
+> 標題: Next proposal deadline for Nobeyama 45m radio telescope
+> 日期: 2017年11月17日 GMT+8 下午12:23:32
+> 收件人: Su Yu-Nung <ynsu@asiaa.sinica.edu.tw>, "Lyo, A-Ran" <arl@kasi.re.kr>
+> 副本: k.tatematsu@nao.ac.jp
+> 回覆給: k.tatematsu@nao.ac.jp
+>
+> Dear Yu-Nung and A-Ran,
+>
+> can you circulate for your communities?
+> Thank you!
+>
+> Regards,
+> Ken
+>
+> ーーー
+> Title:
+> Next proposal deadline for Nobeyama 45m radio telescope in Dec 12
+>
+> This is a kind reminder to tell you that
+> the next proposal deadline for Nobeyama 45m radio telescope is
+> 12th December 2017, 06:00UT=15:00JST.
+> http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index-e.html
+>
+>
+> Ken’ichi Tatematsu
+> Director, Nobeyama Radio Observatory
+> National Astronomical Observatory of Japan
+>
+>
+>
+>
+> --
+> K. Tatematsu (National Astronomical Observatory of Japan)
+>
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> Subject: TTTT seminar
+> Date: Tue, 21 Nov 2017 15:03:49 +0800
+
+To who it may concern,
+
+Could you please forward the following announcement to TAN?
+
+Regards,
+Tetsuya
+------------------------------------------------------------------------------
+Dear all,
+
+This is a reminder of "TTTT seminar" in NTHU.
+We start to have periodic guest talks in the astro-ph class
+in National Tsing Hua University (NTHU) namely
+Timely Talk per Thirty days organized by Tetsuya (TTTT).
+Any students and faculties are welcome to join.
+The first speaker is as follows.
+
+Title:
+An extremely luminous dust-obscured galaxy discovered
+by the optical to millimeter observations
+
+Speaker: Yoshiki Toba
+Institute of Astronomy and Astrophysics, Academia Sinica
+
+Time: 12:20pm 14th Dec. 2017 (Thursday)
+Venue: R501, IoA, 5th floor in the 2nd General Building
+
+Abstract:
+I will report the discovery of an extremely-luminous dust-obscured
+galaxy (DOG) at z = 3.70. This DOG is selected as a candidate of
+extremely-luminous infrared (IR) galaxies based on the photometry
+from the Sloan Digital Sky Survey (SDSS) and Wide-field Infrared
+Survey Explorer (WISE). In order to derive its accurate IR luminosity,
+we perform follow-up observations at 450 and 850 micron using the
+Submillimetre Common User Bolometer Array 2 (SCUBA-2) on the
+James Clerk Maxwell Telescope (JCMT), and at 870 and 1300 micron
+using the Submillimeter Array (SMA), which enable us to pin down its
+IR Spectral Energy Distribution (SED). We perform SED fitting using
+14 photometric data (0.4 - 1300 micron) and estimate its IR luminosity,
+L_IR (8-1000 micron), to be {1.8 ± 0.2) × 10^14 L_sun, making it one
+of the most luminous IR galaxies in the Universe. I will present our
+follow-up observations and the SED modeling in detail
+(Toba et al. 2017, ApJ, submitted).
+
+With best regards,
+Tetsuya
+
+==============================================================================
+
+> Date: Thu, 23 Nov 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Nadia M. Murillo (Leiden Observatory)
+Topic:          Forming stellar siblings: a look at the chemistry and physics of multiple stars
+Time:           11/27 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Multiple stars are commonly found throughout our galaxy at all mass ranges. They are excellent stellar physics laboratories and the cause of many interesting phenomena such as certain types of supernovae, planetary nebulae and binary black holes.
+Observations find multiplicity at all stages of stellar evolution. An elevated frequency of multiplicity is found at the early stages of star formation, which shows that most stars are formed in multiple systems. In this talk we look at some of the open questions regarding formation and structure of multiple stars, namely the formation of rotationally supported disks, chemical structure of early stage star formation, and the factors that influence star formation. Multi-wavelength observations are coupled with chemical and physical models, to address these questions. We demonstrate that stellar multiplicity is common and needs to be taken into account in our picture of star formation.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

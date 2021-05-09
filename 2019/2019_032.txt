@@ -1,0 +1,312 @@
+==============================================================================
+
+In this issue (Feb 28 - Mar 08, 2019)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Mar 04-07; late)
+2. Colloquium talk at NCU (Mar 15): Marco A. Munoz-Gutierrez (ASIAA)
+3. Announcement: LOT 2019B Call-of-Proposal
+4. ASIAA Colloquium/Seminar/Lunchtalk (Mar 11): Marco MuÃ±oz-Gutierrez (ASIAA)
+                                      (Mar 14): Annalisa Pillepich (MPIA)
+                                      (Mar 15): Wentao Luo (Kavli IPMU)
+5. Second Announcement for the CFHT 2019 Users' Meeting
+
+==============================================================================
+
+> Date: Thu, 28 Feb 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Shutaro Ueda (ASIAA)
+Topic:          First direct observational evidence for sub-sonic nature of gas sloshing in a cool core of galaxy cluster
+Time:           3/4 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+Galaxy clusters are the largest gravitaionally bound and virialized objects in the Universe. They are continuously growing through mergers between smaller galaxy clusters. RXJ 1347.5 - 1145 (z = 0.451) is one of the most luminous X-ray galaxy clusters, which means that this cluster is one of the most massive galaxy clusters. Our team carried out the ALMA observation of the Sunyaev-Zel'dovich effect (SZE) on this cluster. This observation enable us to look into the SZE image of the core of galaxy clusters owing to the angular resolution of ALMA. Combining the high-resolution data of Chandra X-ray, we find that the residual X-ray image after removing the global emission shows a clear dipolar pattern characteristic of gas sloshing,
+whereas we find no significant residual in the SZE image. We then estimate the equation of state of perturbations in the gas from the X-ray and SZE residual images. The inferred velocity is 420 +310/-420  km/s, which is much lower than the adiabatic sound speed of the intracluster medium in the core. We thus conclude that the perturbation is nearly isobaric, and the gas sloshing motion is consistent with being in pressure equilibrium. I will present this result and mention about the other feature in the X-ray and the SZE images of RXJ 1347.5 - 1145.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Jeffrey Fung (UC Berkeley)
+Topic:          Simulating Protoplanetary Disks Using GPU
+Time:           3/4 (Monday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+Protoplanetary disks are gas-rich disks around young stars, and cradles
+of planets. Observations of these disks have revealed that they are all
+rich in features, containing gaps and spiral arms that are potentially
+the results of gravitational disk-planet interaction. Using
+hydrodynamics simulations, we can study them and probe the early stages
+of planet formation. However, these simulations have stringent
+requirements on both resolution and duration, and their significant
+computational cost has been a bottleneck in research. In this talk, I
+will discuss how we are able to lower this cost by an order of
+magnitude by adapting to GPU (Graphics Processing Unit) computing. I
+will describe my GPU-based hydrodynamics code PEnGUIn, and explain the
+optimization that helps it reach a speed of about 100 million cells per
+second per GPU. I will present results from PEnGUIn simulations, where
+we not only model specific disks in detail, but also perform parameter
+space studies to provide quantitative links between disk features and
+the properties of potential planets. I will discuss how these results
+have informed us about planet formation, tying back to the known
+population of exoplanets. In the end, I will also give a few examples
+of other board applications of GPU computing in astronomical research.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Liton Majumdar (JPL)
+Topic:          Multi-wavelength Astronomy and the Origin of Planetary Systems
+Time:           3/5 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+One of the most exciting developments in astronomy is the
+discovery of planets around stars other than our Sun.  More than two
+thousand exo-planets have now been detected.  But how do these planets form,
+and why are they so different from those in our own solar system?  Which
+ingredients are available to build them?  Thanks to powerful ground-based
+telescopes such as the Atacama Large Millimeter Array (ALMA) and soon the
+James Webb Space Telescope (JWST), we are now in a position to address these age-old questions scientifically.  The formation of stars and planetary
+systems takes place in "molecular clouds".  These dense, cold, dust
+enshrouded regions of the interstellar medium exhibit a high degree of
+molecular complexity.  I will discuss how this complexity develops in
+protostellar envelopes, and how far it progresses before the molecules are
+incorporated as ices into planetesimals in protoplanetary disks and
+delivered to planets in the habitable zone.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Wen-Pin Hsieh (ASIES)
+Topic:          A journey to the Earth and icy bodiesâ€™ interiors
+Time:           3/6 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Physical properties of constituent materials in the Earth and planetary interiors are key to determine their formation history and thermo-chemical structures, etc. In particular, knowledge of the thermal conductivity of these constituent materials under relevant pressure-temperature conditions plays critical roles in understanding many geophysical phenomena within the Earth and planetary bodies, such as the temperature profile and dynamics of the mantle and core, as well as the heat flux across the core-mantle boundary. Recently we have successfully combined ultrafast optics with high pressure diamond cells to precisely measure lattice thermal conductivity of Earthâ€™s mantle and core materials and water-volatile mixtures under extreme conditions. Modeling of our new data show significant influences of hydration, iron, aluminum, and volatiles on the thermal states and dynamics of the Earth and icy bodies. I will also discuss some future directions that are important to furth!
+ er understand the thermal history of the Earth and icy bodies.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Chueh-Yi Richard Chou (ASIAA)
+Topic:          Optical Developments for WIFIS and Subaru PFS Projects
+Time:           3/6 (Wednesday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+My expertise is in optical design as well as follow up developments such as performance simulation, optics fabrication details, instrument integration and testing, etc. My instrumentation experience includes the development of a Wide Integral Field Infrared Spectrograph (WIFIS), the development for the Subaru Prime Focus Spectrograph (PFS), and the development of a star tracker camera system. WIFIS is the largest Etendue (AÎ©) near-infrared integral field spectrograph recently commissioned on Bok telescope at Kitt Peak in 2017. I was in charge of the optical design of WIFIS and optics fabrication details. For PFS project, my main contribution is on the fiber probes and one of the sub-system called Metrology Camera System (MCS). The fiber probe is designed to measure the fiber status (tilt, shift and focus). The fiber probe is built by myself and characterized to satisfy all system requirements. Currently the fiber probe has been installed on the instrument calibration stand !
+ and taking data. On the other hand, MCS is designed to provide accurate fiber position information by taking images of back illuminated fibers. The MCS optical design, optics fabrications and performance simulations were completed by myself. Currently MCS has been integrated and shipped to Subaru observatory in 2018. In the engineering runs in late Oct. 2018, MCS demonstrated its capability to successfully take images of objects located at the telescope prime focal plane. Besides that, I will present my work in the optical design and performance tests of a star tracker camera system that will be used on a micro-satellite. For future developments, in the near future I will coordinate with group engineers to accomplish the installation and status verification of PFS fiber modules. For MCS project, I will keep improving the MCS image quality and the goal is to deliver MCS to Subaru observatory in 2019. For longer time scale developments, I will describe my work in ULTIMATE-Sub!
+ aru and present potential optical developments for Subaru tele!
+ scope and TMT first light instrument MOBIE.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Sean Dougherty (ALMA)
+Topic:          
+Time:           3/7 (Thursday) 14:20 - 15:20
+Place:           R1203
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Sat, 2 Mar 2019 13:53:50 +0800
+> Subject: Fwd: invitation for a colloquium talk
+> To: astro@asiaa.sinica.edu.tw
+
+*** NCU Colloquium ***
+Speaker: Marco A. Munoz-Gutierrez (ASIAA)
+Date/Time: March 15, 14:00
+Room: NCU, S4 Room 1013
+Title: The Contribution of Dwarf Planets to the Origin of Jupiter Family
+Comets
+Abstract:
+In this work we explore the long-term dynamical evolution of a bias-free
+orbital representation of the Kuiper belt, the so-called L7 synthetic model
+from CFEPS, under the gravitational influence of the Sun and the four giant
+planets, as well as of the 34 largest known TNOs, those with
+visual absolute magnitude H_V < 4, among which are the four objects
+currently classified as dwarf planets by the IAU (Pluto, Eris, Haumea, and
+Makemake); however, in this work we indistinctively call Dwarf Planets
+(DPs) to all the objects in our 34 members set. Over 1 Gyr  time-scales, we
+ analyzed the secular influence of the DPs over Kuiper belt particles and
+their contribution to the injection rate of new visible Jupiter Family
+Comets (JFCs), as they make their way from the Scattering, Resonant, and
+Classical populations to the inner Solar System. We found that  DPs
+effectively increase the number of new visible JFCs originating from the
+Classical and Resonant populations in almost 20%, when compared with the
+number of comets produced by the giant planets alone. For the
+Scattering population the increment is marginal but noticeable. Given the
+rate of escapes from the Kuiper belt enhanced by DPs, 20% less objects in
+the Classical and Resonant populations are required to supply the number of
+JFCs currently observed. Considering recent estimates of the injection rate
+of  new comets  required to maintain the population  of JFCs in steady
+state, the maximum numbers of 1 to 10 km sized objects required to supply
+the 100% of new JFCs are: =E2=88=BC5.9=C3=9710^7, =E2=88=BC1.0=C3=9710^8, a=
+nd =E2=88=BC2.9=C3=9710^8 for the
+Scattering, Resonant, and Classical populations, respectively. By comparing
+with the  number of objects in the same size range expected to be present
+on each of these populations from recent cratering records predictions on
+the surface of 2014 MU69, we provide some estimates of the fractional
+contribution of each population to new visible JFCs. Additionally, we found
+that the Plutinos are the most important source of comets originally coming
+from a resonant configuration, where the presence of Pluto and the large
+plutinos Orcus, 2003 AZ84, and Ixion, are important to increase the number
+of unstable 3:2 resonators. On the other hand, the twotinos and
+the populations in the 5:3 and 5:2 mean motion resonances with Neptune all
+supply a comparable amount of new visible JFCs. <wchen@astro.ncu.edu.tw>
+
+==============================================================================
+
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> Date: Sun, 3 Mar 2019 08:49:39 +0800
+> Subject: Announcement: LOT 2019B Call-of-Proposal
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof. Kuan, can you announce the following to TAN?
+
+Thanks for the help.
+-----------------------------------------------------------
+
+Dear all, call-of-proposal for LOT in 2019B Semester is now available at:
+
+http://www.lulin.ncu.edu.tw/
+http://www.lulin.ncu.edu.tw/lulinnews/files/190302_LOT_2019B_Announcement.txt
+
+The deadline is: *29 March 2019 *(before midnight local Taiwan time).
+
+-----------------------------------------------------------
+-- 
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> Date: Thu, 7 Mar 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Marco MuÃ±oz-Gutierrez (ASIAA)
+Topic:          
+Time:           3/11 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Annalisa Pillepich (MPIA)
+Topic:          
+Time:           3/14 (Thursday) 14:20 - 15:20
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Wentao Luo (Kavli IPMU)
+Topic:          
+Time:           3/15 (Friday) 14:20 - 15:20
+Place:           R1203
+
+==============================================================================
+
+> From: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> Date: Fri, 8 Mar 2019 14:41:59 +0800
+> Subject: Second Announcement for the CFHT 2019 Users' Meeting
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Cc: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+
+ Dear Yi-Jehng,
+
+Could you please help circulate the following information (as in the
+subject) to TAN? Thank you.
+
+cheers
+Keiichi Umetsu
+
+---
+
+Aloha,
+
+This is the Second Announcement for the CFHT 2019 Users' Meeting
+"CFHT in the 2020s, A Time of Research, Excellence and Transformation"
+which will be held in MontrÃ©al, from May 19 to 22, 2019.
+
+Registration is still open and has a deadline of April 17, 2019:
+http://www.cfht.hawaii.edu/en/news/UM2019/registration.php
+
+After registering, you will receive a confirmation of your
+registration information, along with a secure link to access the room
+reservation form. Rooms need to be reserved before April 17.
+
+The meeting will be held at the Double Tree by Hilton MontrÃ©al hotel:
+http://www.cfht.hawaii.edu/en/news/UM2019/venue.php
+
+The Abstract deadline is March 18:
+http://www.cfht.hawaii.edu/en/news/UM2019/abstracts/
+
+The following invited speakers have been confirmed:
+Jean-Charles Cuillandre
+Jean-Francois Donati
+Laurie Rousseau-Nepton
+Alessandro Boselli
+Trent Dupuy
+Rosemary Pike
+Sam Quinn
+
+We invite you to consult the website for further details:
+http://www.cfht.hawaii.edu/en/news/UM2019/2ndannouncement.php
+
+We look forward to seeing you in MontrÃ©al!
+
+Nadine Manset - LOC chair
+on behalf of the LOC & SOC
+um2019loc@cfht.hawaii.edu
+
+______________________________________________________
+Keiichi Umetsu
+Academia Sinica Institute of Astronomy & Astrophysics (ASIAA)
+11F of Astronomy-Mathematics Building, AS/NTU
+No.1, Section 4, Roosevelt Road, Taipei 10617, Taiwan
+Phone: +886-2-2366-5446
+Fax: +886-2-2367-7849
+E-mail: keiichi@asiaa.sinica.edu.tw
+www: http://idv.sinica.edu.tw/keiichi/index.php
+Google scholar: https://scholar.google.com/citations?hl=en&user=JHAdrV0AAAAJ
+______________________________________________________
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

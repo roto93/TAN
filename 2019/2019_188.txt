@@ -1,0 +1,63 @@
+In this issue (Nov 25 - 29, 2019)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Dec 02): John Carpenter (ALMA)
+                                      (Dec 04): Nami Sakai (RIKEN)
+                      (Dec 05): Francesco Lovascio (Queen Mary Univ of London)
+
+==============================================================================
+
+Date: Thu, 28 Nov 2019 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    John Carpenter (ALMA)
+Topic:
+Time:         12/2 (Monday) 12:15 - 13:15
+Place:          R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Nami Sakai (RIKEN)
+Topic:         TBD
+Time:         12/4 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+TBD
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Francesco Lovascio (Queen Mary University of London)
+Topic:         Vortices and planet formation: studying the stability of vortices in a dusty gas
+Time:         12/5 (Thursday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Forming planets is difficult, there are hurdles at every step of the way. Vortices may be able to help overcome some of the challenges by trapping dust in their cores, stopping the dust drifting away and increasing dust concentration for faster embryo growth. It is not clear however that dusty core vortices are stable long enough for significant dust growth to take place in their cores. To tackle this problem we use the terminal velocity approximation to model dusty gases in local simulations of vortices. The terminal velocity approximation is an approach to modelling tightly coupled dust and gas, which can be implemented very efficiently in a hydrodynamics solver, making it perfect for the simulation of dusty vortices. We find dusty vortices to be stable for long periods of time which could have important implications for planet formation.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

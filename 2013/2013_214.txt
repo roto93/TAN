@@ -1,0 +1,383 @@
+============================================================================== 
+
+In this issue (Nov 19 - 24, 2013)
+
+1. Urgent: Cycle 2 Observing Tool Update
+2. Reminder: ALMA-T Mock Proposal Review
+3. LOT 2014A Call-of-Proposal
+4. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Collqm (Nov 26): John Ellis
+                                                        (King's College London)
+5. NTHU Astronomy Colloquium (Nov 29): Yasuhiro Hasegawa (ASIAA)
+6. ALMA Workshop on Long Baseline and Phase Correction (Dec 25-26)
+
+7. ASIAA Colloquium (Nov 27): Angela Speck (University of Missouri)
+
+==============================================================================
+
+> Subject: Urgent: Cycle 2 Observing Tool Update
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Date: Tue, 19 Nov 2013 08:47:15 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>, riaa@asiaa.sinica.edu.tw,
+
+Dear Prospective,
+
+  Please check the following line for Cycle 2 OT update.
+
+  http://almascience.nao.ac.jp/news/urgent-cycle-2-observing-tool-update-1
+
+Urgent: Cycle 2 Observing Tool Update
+
+Nov 15, 2013
+
+An update to the OT release for Cycle 2 proposal submission will be released on Monday 18 November. A number of bugs have been discovered since the Call for Proposals and a number of these are addressed in the update. The majority of the bugs are relatively minor, but time estimates for polarization and spectral scan projects are affected. All users should download this update. Web Start users will automatically receive the update upon restarting the OT, whilst the tarball release will require a manual download and subsequent installation.
+
+Users who already submitted proposals may wish to retrieve their projects and check the OT time estimates. For the most part, there will be no change to the initial result. If there is a significant change in the time estimate, users have the option of resubmitting their Cycle 2 proposal with comments or a revised observing strategy. An option is also to leave the submitted proposal as is. The new time estimate will automatically be used in the proposal review.
+
+More details of the fixes are given on the OT's Known Issues page.
+
+Best Wishes,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+==============================================================================
+
+> Subject: Reminder: ALMA-T Mock Proposal Review (Submission Deadline is Today!!!)
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Date: Tue, 19 Nov 2013 11:17:20 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+
+Dear All,
+
+  Here is a kind reminder for ALMA-T Mock Proposal submission deadline.
+
+  (see also http://alma.asiaa.sinica.edu.tw/proposals_cycle02.php#mock)
+  The Taiwan ARC node will hold a mock review of ALMA proposals for =
+Cycle 2, as for Cycle 1. In Cycle 1, the over-subscription rate was =
+about 6. In Cycle 2, the over-subscription rate may be about the same. =
+Thus, only very well-prepared proposals will succeed. Prospective users =
+should have their proposals prepared now.
+
+Proposals fail sometimes due to 1) unclear science questions or goals =
+and/or poorly designed experimenting methods/approaches, but also often =
+due to 2) poor writing or last minute compilation. The purpose of this =
+review is to improve the quality of ALMA-T proposals for better success =
+rate by enforcing potential users to prepare the proposals early, thus, =
+to at least eliminate the last minute writing and to further sharpen the =
+science ideas.
+
+  This mock review is mainly targeted at new users, postdocs, and =
+students in Taiwan. Nonetheless, all Taiwanese users are welcome to =
+submit their proposals.
+
+  The proposal submission deadline is 2013.11.19. Full proposal, =
+including scientific and technical justification, figures and tables, is =
+required to submit to arcasiaa.sinica.edu.tw in pdf format. Half-cooked =
+proposals will benefit little from mock reviewing. Technical assessment =
+will be carried out by the Taiwan ARC staff. Scientific review will be =
+conducted through paper by a review panel, including Vivien Chen, Naomi =
+Hirano, Sheng-Yuan Liu, Satoki Matsushita, Kazushi Sakamoto, and Wei-Hao =
+Wang.
+
+Technical and scientific review comments will feedback to the PIs =
+through email a week later on 2013.11.26. Face-to-face discussion with =
+the ARC staff or review panel members may be considered and arranged. =
+PIs can incorporate these comments into proposal revision before "true" =
+submission.
+
+Best Wishes,
+Chin-Fei
+On behalf of Taiwan ARC node=
+
+==============================================================================
+
+> Date: Tue, 19 Nov 2013 15:29:49 +0800
+> Subject: LOT 2014A Call-of-Proposal
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Prof Kuan, can you pass the following announcement to TAN?
+
+Thanks.
+
+---------------------------------------------------------
+
+Dear all, LOT 2014A call-of-proposal can be found in:
+
+http://www.lulin.ncu.edu.tw/lulinnews/files/131119_LOT2014A_Call_for_Proposal.txt
+
+and the proposal's LaTex template can be downloaded from:
+
+http://www.lulin.ncu.edu.tw/lulinnews/files/131119_lot2014a_annoucement.zip
+
+---------------------------------------------------------
+
+-- 
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> Date: Wed, 20 Nov 2013 09:43:26 +0800
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, November 26
+> From: "J.-P. Wu" <jpw750811@gmail.com>
+> To: swallow <swallow@phys.ntu.edu.tw>, whchen <whchen@gate.sinica.edu.tw>,
+        astro <astro@asiaa.sinica.edu.tw>,
+
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held
+on November 26 (http://web.phys.ntu.edu.tw/colloquium/).
+
+The Joint Colloquium Series is organized by the NTU Physics Department,
+Center for Condensed Matter Science (CCMS), Leung Center for Cosmology and
+Particle Astrophysics (LeCosPA), Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA), and the Institute of Atomic and Molecular Sciences
+(IAMS).
+
+The idea is to have excellent speakers to give inspiring, informative, but
+non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on November 26.
+
+Best regards,
+
+Yen-Ting Lin (ASIAA)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Jiwoo Nam (LeCosPA)
+Juinn-Wei Chen (NTU-Phys)
+
+--------------------------------------------------------------------------------
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+
+Speaker: John Ellis
+
+              (King's College London)
+
+Topic : Particle Physics after the Discovery of the Higgs Boson
+
+Time  : 11/26 (Tue.) 14:20 - 15:20
+
+Place : Room 104, CCMS-New Physics Building
+
+Abstract:
+    The discovery of the Higgs boson by the ATLAS and CMS experiments at
+the Large Hadron Collider (LHC) at CERN, described recently in a colloquium
+here by George Hou, opens up new perspectives in particle physics. This
+colloquium will describe ideas for possible new physics beyond the Standard
+Model, much of it motivated by astrophysics and cosmology, such as dark
+matter. This colloquium will also discuss prospects for discovering new
+physics with the LHC and other possible future accelerators.
+
+Brief Bio:
+    John Ellis currently holds the Clerk Maxwell Professorship of
+Theoretical Physics at King's College in London. After obtaining a PhD from
+Cambridge University and post-doctoral positions at SLAC and Caltech, from
+1973 to 2011 he worked at CERN (Geneva), where he was Theory Division
+Leader for six years.
+    His research interests focus on the phenomenological aspects of
+elementary particle physics and its connections with astrophysics,
+cosmology and quantum gravity. Much of his work relates directly to
+experiment: interpreting results of searches for new particles and
+exploring the physics that could be done with future accelerators. A
+proposal he made in 1976 led to the discovery of the gluon in 1979, and he
+was one of the first to study how the Higgs boson could be produced and
+discovered. He has authored nearly a thousand scientific papers, with over
+fifty thousand citations in total. He is currently very active in efforts
+to understand the Higgs particle discovered recently at CERN, as well as
+its implications for possible new physics such as dark matter. He has long
+been an early protagonist of new particle accelerator projects, including
+the Large Electron-Positron (LEP), Large Hadron Collider (LHC), Compact
+Linear Collider (CLIC) and now future very large circular colliders at
+CERN. He is also known for his relentless efforts to promote global
+collaboration at CERN.
+    John Ellis was awarded the Maxwell Medal (1982) and the Paul Dirac
+Prize (2005) by the Institute of Physics. He was elected Fellow of the
+Royal Society of London in 1985 and of the Institute of Physics in 1991,
+and is an Honorary Fellow of King's College Cambridge and of the Serbian
+Physical Society. He has been awarded Honorary Doctorates by the University
+of Southampton, Uppsala University, the St Kliment Ohridski University, the
+Ukrainian Academy of Sciences and the University of Cape Town.
+
+------------------------------------------------------------------------------
+
+==============================================================================
+
+> Date: Fri, 22 Nov 2013 17:21:06 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+###########################################################
+                            NTHU
+                    Astronomy Colloquium
+###########################################################
+
+                2:20 p.m. 29 Nov. 2013 (Friday)
+                NTHU Physics Building, Rm620
+
+                Speaker: Dr. Yasuhiro Hasegawa
+                        (ASIAA)
+
+Title: Planet formation in inhomogeneous protoplanetary disks
+
+Abstract:
+One of the most fundamental questions in theories of planet formation
+is how planets form out of protoplanetary disks. As shown by many
+previous studies, planetary migration, that arises from resonant,
+tidal interactions between protoplanets and the natal disks,
+jeopardizes the existence of any planetary system around the central
+stars. In this talk, I will present all the key results of my recent
+work, wherein planet traps - specific sites in protoplanetary disks
+at which planets undergoing rapid type I migration are captured -
+play a crucial role. We will discuss how disk inhomogeneities, one of
+the most general properties of planetary disks, give rise to planet
+traps and how planet traps affect the formation and evolution of
+planetary systems. Comparisons with a large number of observed
+exoplanets enable us to verify our picture of planet formation based
+on planet traps.
+
+                Tea/Discussion Time is followed !
+
+                        All Welcome !!
+
+==============================================================================
+
+> Date: Fri, 22 Nov 2013 17:35:11 +0800
+> From: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> CC: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> Subject: ALMA Workshop on Long Baseline and Phase Correction
+
+Dear all,
+
+ALMA Cycle 2 Call for Proposal has been announced, and many
+Cycle 0 results has started to publish these days.  On the
+other hand, ALMA developments are still ongoing actively,
+and one of the highly requested development items from
+scientific point-of-view is the "long baseline."  To realize
+the long baseline observations, understanding the effects of
+atmosphere to millimeter and submillimeter wave propagation,
+testing the phase correction methods, and characterizing the
+instruments are essential.
+
+To enhance the discussion for the "long baseline," we are
+going to hold the
+  "ALMA Workshop on Long Baseline and Phase Correction"
+on Dec.25 (Wed) and 26(Thu) at the headquarter of the
+National Astronomical Observatory of Japan (NAOJ) in Mitaka,
+Tokyo.  It is planned to have talks about the long baseline
+and phase correction tests done so far using ALMA and other
+observatories, atmospheric researches, and characterizations
+of various instruments, followed by discussions about coming
+longer baseline and phase correction tests and further
+developments of instruments for ALMA.  We attached the
+current tentative program below (it may subject to change).
+
+This workshop is supported by the ALMA Workshop grant of the
+NAOJ Chile Observatory.  The budget is extremely limited, so
+we cannot support any travel fee (if you are living in Japan,
+please contact about the travel support independently).
+
+Note that this workshop will be held in English.
+
+If you would like to attend the workshop, and/or give a oral
+presentation, please submit the following format to
+  satoki_at_asiaa.sinica.edu.tw
+(please change "_at_" to "@").  We are looking forward to
+seeing you at the workshop.
+
+
+------- Registration Format (Start) -------
+Name:
+Affiliation:
+Email address:
+Oral Presentation:  YES  NO
+  Title:
+
+Workshop dinner (on Dec.25):  YES  NO
+------- Registration Format (End) -------
+
+
+------- Tentative Program -------
+"ALMA Workshop on Long Baseline and Phase Correction"
+
+Date: Dec.25(Wed) & 26(Thu)
+Location: NAOJ Mitaka Rinkou-Shitsu $B!JNX9V<<!K(B
+
+Tentative Program:
+12/25 (Wed)
+13:00 Opening Remark
+      S. Matsushita (ASIAA)
+13:10 "ALMA Status and Plan"
+      R. Kawabe (NAOJ)
+13:40 "Phase Fluctuation at ALMA 3 km Baseline"
+      S. Matsushita (ASIAA)
+14:10 "ALMA Fast Switching Test Results and Future Plan"
+      Y. Asaki (ISAS/JAXA)
+14:40 Coffee Break
+15:00 "Multi-Frequency (22 + 43 + 86 +129 GHz) Phase Correction
+      with KVN"
+      T.-H. Jung (KASI)
+15:30 "Characteristics and Possible Problems of the ALMA Line
+      Length Corrector, and the Possibilities of Other Mechanisms"
+      H. Kiuchi (NAOJ)
+16:00 - 17:30 Discussion
+18:30 - Workshop Dinner
+
+12/26 (Thu)
+9:00 "Effect of Liquid Water to the mm-/submm-wave Propagation"
+      S. Matsushita (ASIAA)
+9:30 "Cloud Monitor and MiSTI"
+      M. Momose (Ibaragi Univ.)
+10:00 "ALMA Science and Requests to Long Baselines"
+      K. Kohno (Univ. Tokyo)
+10:30 - 12:00 Discussion
+12:00 Closing Remark
+      Y. Asaki (ISAS/JAXA)
+-------
+
+Organizing Committee
+  Satoki Matsushita (ASIAA), Yoshiharu Asaki (ISAS/JAXA),
+  Ryohei Kawabe (NAOJ), and Daisuke Iono (NAOJ)
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 24 Nov 2013 08:00:05 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Angela Speck (University of Missouri)
+Topic:        TBA
+Time:        11/27 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

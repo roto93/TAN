@@ -1,0 +1,287 @@
+==============================================================================
+
+In this issue (Sep 22 - 28, 2018)
+
+1. Announcement: SMI/SPICA meeting (Oct 04)
+2. Ron's Fest on Oct 26
+3. ASIAA Colloquium/Seminar/Lunchtalk (Oct 01): Jia-Yu Ou (NCU)
+                                      (Oct 03): Misao Sasaki (IPMU/YITP/NTU)
+4. Improve your rejected ALMA proposals
+5. [VLBI] KVN call for proposals 2019A
+6. Call for Proposals of VERA 2019A
+
+==============================================================================
+
+> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
+> Subject: announcement: SMI/SPICA meeting (Oct. 4 at ASIAA)
+> Date: Sat, 22 Sep 2018 19:12:09 +0800
+> To: Network Taiwan Astronomy <astro@asiaa.sinica.edu.tw>,
+>     riaa@asiaa.sinica.edu.tw
+
+Dear all,
+
+We will host a SMI/SPICA meeting on Oct. 4 at ASIAA. The website is now open for registration.
+https://events.asiaa.sinica.edu.tw/workshop/20181004/
+
+The SPace Infrared telescope for Cosmology and Astrophysics (SPICA) mission is selected as one of ESAâ€™s fifth medium class mission in its Cosmic Vision science programme in May 2018. In SPICA, ASIAA partners with JAXA to develop the SPICA Mid-infrared Instrument (SMI) and the science program associate with it. It is important to regain our momentum on the science activities and technical development after the M5 phase A selection.
+
+This workshop aims to provide the opportunities for Taiwanese astronomers to review the capability of the new SPICA, to present the science interests with SPICA and also to promote the future collaboration between Taiwanese and Japanese communities especially on SMI.
+
+We think that the SPICA facility, with its instruments SMI, SAFARI and the (as-of-yet) unnamed polarisation instrument (previously known as SAFARI/POL but now it is separated from SAFARI), match your scientific and project interests. So we hope to have your participation.
+
+Here I show you a list of references for more about SPICA and its instrumentation suite.
+http://www.esa.int/Our_Activities/Space_Science/ESA_selects_three_new_mission_concepts_for_study
+http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/research-en.html
+http://www.spica-mission.org/instruments.html#safari
+http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/SMI/index-en.html
+
+PASA special issue on "Exploring Astronomical Evolution with SPICA"
+https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/collections/exploring-astronomical-evolution-with-spica
+# All of them have arXiv preprint counterparts.
+
+Thank you.
+
+Regards,
+Youichi Ohyama (LOC chair)
+
+==============================================================================
+
+> From: Hsien Shang <shang@asiaa.sinica.edu.tw>
+> Date: Tue, 25 Sep 2018 11:28:10 -0700
+> Subject: Ron's Fest on Oct 26
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>         iaa <iaa@asiaa.sinica.edu.tw>
+> Cc: Sienny Shang <shang@asiaa.sinica.edu.tw>
+
+Dear Colleagues,
+
+A celebration of Ron Taam's 70th Birthday and Retirement will be held on
+Oct 26 in ASIAA. You are cordially invited to participate and celebrate
+together!
+
+https://events.asiaa.sinica.edu.tw/meeting/20181026/
+
+If you have prior science collaborations with Ron, you are invited to
+contribute a science talk; if you have prior interactions and work
+experiences with Ron, you are invited to contribute a work/project talk; or
+if you simply like to share your respect or appreciation for Ron or to
+share some fun memories, you are invited to contribute a talk of
+appreciation.
+
+Please mark your calendar and register to participate!
+
+Depending on the total participation, we will adjust the lengths of the
+presentations and some may be arranged for free-format speeches at the
+banquet.
+
+Cheers,
+
+Sienny
+On behalf of the organizing committee
+
+==============================================================================
+
+> Date: Thu, 27 Sep 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Jia-Yu Ou (NCU)
+Topic:          Refining period of a Mira in M33 with OGLE data analysis.
+Time:           10/1 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+[HBS 2006] 40671 is a confirmed long period Mira found in M33.Using observed light curves from Hartmann et al (2006) data, Barsukova et al. (2011) found a period of 665 day for this Mira. In addition to Hartmann's data (2005~2006), we also collected PTF (Palomar Transient Factory) data taken from 2009 to 2016. Combining these two datasets that spanned ~10 years can be used to refine the period of this Mira. Based on the combined light curve, we found that this Mira could exhibit a long secondary variation. To aid in our investigation, we collected known Mira light curves data from the OGLE and LAMOST/ASAS database. According to the OGLE Mira, we found majority of Mira light curves are composed with a short pulsation period and a long secondary variation. We also use machine learning to classify these OGLE Mira target. Hence we also tried to look for additional features in Mira light curves using our method, and compared to the light curve of [HBS 2006]40671 to refine its pul!
+ sation period and to determine its long secondary period, hence we also tried to look for additional features using our method,and compared to the light curve of [HBS 2006]40671. Therefore, we can use those information to refine the short period and find out the long term variation. In this work, we present our latest investigation on the period refinement of this Mira.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Misao Sasaki (IPMU/YITP/NTU)
+Topic:          Gravitational wave cosmology
+Time:           10/3 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Since the first detection of gravitational waves from coalescing
+binary black holes by LIGO on 14 September, 2015, we have
+entered a new ear of gravitational wave astronomy.  In addition to
+this tremendous success in the direct detection of gravitational waves,
+there is also impressive progress toward the detection of primordial
+gravitational waves through the B-modes polarization of cosmic microwave
+background anisotropies. These developments will upgrade the current
+level of cosmology to an unprecedented level, where gravitational waves
+play the central role, which I call "gravitational wave cosmology".
+In this lecture, I discuss the current status and future prospects
+of gravitational wave cosmology.
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: improve your rejected ALMA proposals
+> Date: Fri, 28 Sep 2018 11:48:26 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear ALMA users,
+
+We invite you to send your rejected Cy6 ALMA proposals to us for a second review.
+We will send your proposals to local experts for review, and then provide you detailed
+review reports.
+
+The reason for this is that the ALMA proposal reviewers have many proposals to read in
+a short period.  This leaves them very little time to provide detailed comments in the
+review report.  They usually just pick one or two major weaknesses and write them in the
+report.  If you just follow the review report and address these one or two weaknesses in 
+your Cy7 proposal, it is possible that the revised proposal is still not good enough.
+
+To remedy this, and to help you to improve your Cy6 proposals for Cy7, we form a team
+of local reviewers who are willing to give you detailed comments. We hope this can better
+prepare you for Cy7.  If you intend to write a Cy7 proposal that is similar to your Cy6 one,
+we strongly encourage you to send your rejected Cy6 proposal to us.
+
+The deadline is Oct 5.  We plan to provide the review reports to you in early November.
+
+Please also feel free to ask me if you have any questions about this process.  This is not
+an official review.  So many things can be flexible.
+
+Cheers,
+Wei-Hao
+
+==============================================================================
+
+> From: Jung Taehyun <thjung@kasi.re.kr>
+> Date: Fri, 28 Sep 2018 18:18:26 +0900
+> Subject: [vlbi] KVN call for proposals 2019A
+> To: EVN Tech <evntech@jb.man.ac.uk>, vlbi@nrao.edu,
+>         merlin-announce@jb.man.ac.uk, astro@asiaa.sinica.edu.tw
+
+Dear Colleagues,
+
+This announcement contains call for proposals of Korean VLBI Network (KVN).
+
+Best regards,
+Taehyun Jung
+
+
+---------------------------------------------
+
+1. KVN Call for Proposal (VLBI)
+
+______________________________________
+
+Call for Proposals 2019A (KVN VLBI)
+______________________________________
+
+The Korean VLBI Network (KVN, http://kvn.kasi.re.kr) invites scientific
+proposals for VLBI observations during the 2019A season from astronomers
+around the world. Observations of successful proposals will be scheduled
+between 15th January 2019 and 15th June 2019. Proposals should be emailed
+to kvnprop@kasi.re.kr before the deadline of UT 08:00 (KST 17:00) on 1st
+November 2018.
+
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by
+the Korea Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr).
+Its three 21m radio telescopes are located around South Korea in Seoul,
+Ulsan, and Jeju Island. The baseline length ranges from 305km to 476 km.
+Its 4-channel receiving system allows simultaneous observation at 22, 43,
+86, and 129 GHz. Higher than 1 Gbps recording rates (2, 4 and 8 Gbps) using
+Mark6 recorder are available. Total time of 300 hours are planned for this
+call. The maximum observation time of a proposal is limited to 100 hours.
+If requested in proposals, the observation time can be allocated over a
+year, until January 15, 2020, but the observation time will not be
+increased. Details of the information and current status of the KVN can be
+found in the KVN VLBI Status Report (
+https://radio.kasi.re.kr/kvn/status_report_2019/array.html).
+
+Proposers should use the KVN VLBI observing application form (the .tex file
+can be found athttp://kvn.kasi.re.kr/index.html/obs_proposal.php). Please
+carefully follow the instructions of the proposal form. A separate
+scientific and technical justification is mandatory. This Justification
+should be submitted together with the proposal form and not exceed 3 pages.
+
+Jongsoo Kim
+Director of Radio Astronomy Division, KASI
+
+==============================================================================
+
+> Subject: Call for Proposals of VERA 2019A
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Fri, 28 Sep 2018 18:40:57 +0900
+> To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+>         "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>         "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+>         "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcement of the call-for-proposals of 
+the VERA for 2019A season.  
+Please distribute this announcement to your community and encourage 
+people to write proposals.  
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+_________________________________
+
+****************************************
+Call for Proposals of VERA
+Deadline;  November 01, 2018, 08:00 UT.
+*****************************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with a 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.  
+The recording rates of 2048Mbps (single-beam mode) and 4096Mbps  
+(2-beam mode) are opened from 2018B season. 
+Available observation time is up to 200 hours during the observation period 
+from January 15th, 2019 to July 15th, 2019.
+Although it is limited to VERA array and  a single-beam mode, 
+the 6.7 GHz ( C-band ) is opened on shared-risk basis. 
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+               Mareki Honma
+               Director of Mizusawa VLBI  Observatory of NAOJ
+                  Email;  mareki.honma (at-mark) nao.ac.jp
+                  Phone; +81-197-22-7128
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

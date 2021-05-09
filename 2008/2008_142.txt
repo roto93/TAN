@@ -1,0 +1,198 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Sep 24 23:56:52 2008
+Date: Wed, 24 Sep 2008 23:51:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Sep 18 - 24, 2008)
+
+==============================================================================
+
+In this issue (Sep 18 - 24, 2008)
+
+1. An Important Announcement from the CFHT-Taiwan Program
+2. NCU Astronomy Colloquium (Sep 26): Zhi-Wei Zhang (NCU)
+3. ASIAA Colloquium (Sep 30): Laird Thompson (Univ. of Illinois)
+
+==============================================================================
+
+> Date: Wed, 24 Sep 2008 09:35:44 +0800   
+> From: "Jeremy Lim" <jlim@asiaa.sinica.edu.tw>         
+> To: kuan@asiaa.sinica.edu.tw
+> Subject: pls post in TAN - thanks!
+
+Dear Colleagues, 
+    As mentioned in the last Call for CFHT-Taiwan Proposals, the CFHT-Taiwan 
+Time Assignment Committee (TAC) will be giving increasing weight to the status 
+of previously executed projects in allocation of future observing time on the 
+telescope.  Prompt publication of already executed projects is vital for the 
+scientific health of our community, and necessary to secure future funding to 
+support our use of the CFHT. 
+    To help the PIs, TAC, and entire Taiwan community keep track of the status 
+of individual projects, a WEB page has been created to allow individual PIs to 
+record the current status of their projects.  Please do so before 27 Oct 2008, 
+the date of the next CFHT-T User's Meeting.  Note also that the next CFHT-T 
+TAC meeting is anticipated for 3 November 2008. 
+
+    If you are a member of the ASIAA, you can access the WEB page by following 
+the instructions below. 
+
+IAA home page -> OIR -> CFHT observations -> Semester (ie. 2008A) -> Project 
+Status 
+-> Status of CFHT Projects for ASIAA Users 
+
+or use the link: 
+
+https://www.asiaa.sinica.edu.tw/Internal/cfht_project/ListStatus.php 
+
+Please update your personal project status and here we explained the meaning 
+of selected fields. 
+
+Processing : the date your data are processed. 
+Stacking   : the date your data are stacked. 
+Delivery   : the date you get your data (by FTP or tape). 
+Analyzed   : the date you (expect to) finish the data analysis. 
+
+Paper Status: 
+   Please fill in the paper status by selecting the stage you are right now. If
+you are going to merge different project(s) to publish a paper or publish 
+another paper(s) with this dataset, please write down your comment in the 
+field "Note".
+     
+For more information on updating or any question, please feel free to contact 
+Chi-Hun Yan 
+(chyan@asiaa.sinica.edu.tw) 
+
+If you are not a member of the ASIAA, you can access the WEB page by following
+the instructions below.
+
+IAA home page -> OIR -> CFHT observations -> Semester (ie. 2008A) -> Project 
+Status 
+
+or use the link: 
+
+https://oir.asiaa.sinica.edu.tw/cfht/ 
+
+Please create the account for yourself to access the database by filling the 
+form "Create an account" with the appropriate information.  For example: 
+
+English Name 
+    Lastname :      Ip 
+    Firstname:   Wing-Huen 
+E-mail address: wingip@astro.ncu.edu.tw 
+
+Then you can set the password and verify it.  Once you click "Submit", we will 
+check your information and grant access provided your information is 
+validated.  In your next visit, you can simply use your E-mail address and 
+password you to log in. 
+
+Processing : the date your data are processed. 
+Stacking   : the date your data are stacked. 
+Delivery   : the date you get your data (by FTP or tape). 
+Analyzed   : the date you (expect to) finish the data analysis. 
+
+Paper Status: 
+    Please fill in the paper status by selecting the stage you are right now.  If 
+you are going to merge different project(s) to publish a paper or publish 
+another paper(s) with this dataset, please write down your comment in the 
+field "Note".     
+     
+For more information on updating or any question, please feel free to contact 
+Chi-Hun Yan 
+(chyan@asiaa.sinica.edu.tw) 
+
+sincerely, 
+Jeremy Lim, PI CFHT-Taiwan program 
+Wang Shiang-Yu, co-PI CFHT-Taiwan program 
+Yan Chi-Hung 
+
+-------------------------------------------------------------- 
+Jeremy Lim 
+Associate Research Fellow 
+Institute of Astronomy & Astrophysics, Academia Sinica (ASIAA) 
+Phone: 886-2-3365 2200 x727 
+FAX: 886-2-2367 7849 
+
+==============================================================================
+
+> Date: Mon, 22 Sep 2008 14:21:57 +0800 (CST)
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: NCU colloquium Sep 26, Friday 14:00 by Zhang on TAOS
+
+Dear Yi-Jehng
+
+Please circulate the NCU colloquium this Friday.  Thanks.
+
+Wen Ping
+
+-------------------
+Speaker: Zhi-Wei Zhang (Astronomy/NCU, PhD Candidate)
+Date/Time: Sep 26, Friday, 14:00-15:00
+Place: Room 1013, S4 Building, NCU
+Title: Results from The First Two-Year Data of the TAOS Project
+
+Abstract:
+
+The Taiwanese-American Occultation Survey (TAOS) aims to search for stellar 
+occultation by small (> 1 km) Kuiper-belt objects (KBOs) by collecting huge 
+amount of stellar photometric measurements (~10^9) with 3 telescopes.  The 
+photometric data produced by a custom aperture photometry are analysed by a 
+statistical method which is efficient to detect brief occultation events in 
+multi-telescope data.  No statistically significant events were found in the 
+first two years of data.  However, the null detection allows us to set a 
+stringent upper bound to the size distribution of KBOs.  In this talk, the 
+aperture photometry and event detection algorithm will be shown and a detection 
+efficiency test and a estimation of the upper bound will be described.
+-------------------
+
+==============================================================================
+
+> From: "Chiang Lung-Yih" <lychiang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> Cc: astro@asiaa.sinica.edu.tw
+> Subject: [Colloquium] ASIAA Colloquium next week
+> Date: Wed, 24 Sep 2008 12:22:11 +0800
+
+Dear all,
+
+Professor Laird Thompson of UIUC is going to visit IAA on 9/29 and 30. Professor
+Thompson's research work has spanned from extragalactic astronomy in early years,
+particularly in clusters of galaxies, galaxy morphology and galaxy redshift surveys, to
+instrumentation. Since 1990 he has been working in adaptive optics. Next Tuesday (9/30)
+he is going to present a talk titled 
+
+"Detecting the Atmospheres of Extrasolar Planets"
+
+Please mark your calendar and remember to join the event.
+
+Lung-Yih
+
+--------------------------- ASIAA Colloquia ---------------------------
+  Speaker  : Prof. Laird Thompson (Univ. of Illinois)
+  Title    : Detecting the Atmospheres of Extrasolar Planets
+  Time     : 09/30 (Tuesday) 2:00 pm
+  Location : ASIAA Room 716
+  Broadcast: available at http://www.asiaa.sinica.edu.tw/
+-----------------------------------------------------------------------
+  
+---------------------------------------
+Lung-Yih Chiang
+Assistant Research Fellow
+Institute of Astronomy and Astrophysics
+Academia Sinica, Taiwan
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

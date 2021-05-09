@@ -1,0 +1,57 @@
+> Date: Fri, 15 Jun 2012 20:14:58 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> cc: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+>        alma-t@asiaa.sinica.edu.tw
+> Subject: Specifics for ALMA users in Taiwan
+
+Dear Potential ALMA users in Taiwan,
+
+A PI in Taiwan has access to ALMA through both East Asia (EA) and North 
+America (NA) regions. He/She can register in the ALMA Science Portal. 
+After registration, the user can select freely (and also can change it) to 
+which region the time should be charged to. Also for submitting Helpdesk 
+tickets, both regions can be selected. Accordingly, and since as a rule, 
+ALMA users should have only a single account. If you have two accounts, 
+you should have received a email informing you that the two accounts would 
+be merged. If they are not merged automatically, please remove one or 
+submit a Helpdesk ticket. With the account, you should be able to see a 
+drop-down menu in Observing Tool (OT) for you to select which region to 
+submit your proposal. If you don't see the drop-down menu in OT, then you 
+may need to reset/update your institution in your profile in the science 
+portal.
+
+In Cycle 1, a PI in Taiwan can also have a 50/50 split option for time 
+charge. To facilitate the explanation, here we assume some one submits a 
+proposal with this split option, and requests a total time of 10 hrs, 
+i.e., 5 hrs in EA and 5 hrs in NA.
+
+If one selects the split option, it depends on where the proposal stands 
+in BOTH queues. For the proposal to be accepted, it needs to fit within 
+BOTH queues; i.e., for the above proposal submitted for Cycle 1, the 5 hrs 
+needs to fit within the NA 270 hr allotment and the other 5 hrs needs to 
+fit within the EA 180 hr allotment. If it only fits within one queue and 
+not the other, it will not be given a "High Priority" status.
+
+Note that this is not necessarily a double jeopardy; it depends on the 
+relative over-subscription between the two regions, and how close to the 
+dividing line the proposal lies. Not obvious for the example of a 10 hrs 
+proposal; more-so for larger proposals where e.g. fitting 20 hrs into two 
+queues is easier than fitting 40hrs into one.
+
+On the other hand, a Taiwanese PI can submit two 5hr proposals SEPARATELY, 
+one with EA as the Executive, another with NA as the Executive. Then each 
+part would be judged against the relevant queue, - they get all the time 
+if they pass both Executives cutoff; they get 5 hrs if they only pass one 
+Executives cutoff.
+
+Note that this workflow would only work for projects that could be split 
+by number of targets, not total integration time, since there is a 
+prohibition against submitting the exact same proposal with different 
+Executive affiliations.
+
+Best Regards,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

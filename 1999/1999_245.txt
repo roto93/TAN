@@ -1,0 +1,219 @@
+From kyl@asiaa.sinica.edu.tw Tue Nov 23 09:33 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA06985
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 23 Nov 1999 09:32:33 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA09325
+	for <astro@asiaa.sinica.edu.tw>; Tue, 23 Nov 1999 09:32:02 +0800
+Date: Tue, 23 Nov 1999 09:28:24 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ISO_Beyond_the_Peaks:_3rd_Announcment (fwd)
+Message-ID: <Pine.SOL.4.10.9911230928200.21299-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6130
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 23 Nov 1999 00:43:26 +0100 (MET)
+From: ISO Helpdesk <helpdesk@iso.vilspa.esa.es>
+To: kyl@astro.uiuc.edu
+Subject: ISO_Beyond_the_Peaks:_3rd_Announcment
+
+
+                          ISO BEYOND THE PEAKS
+             The 2nd ISO workshop on analytical spectroscopy 
+                           2-4 February 2000
+                            
+                            ISO Data Centre
+                       Villafranca del Castillo
+                             Madrid, Spain
+     ===============================================================
+        
+            -------------------------------------------------
+           |3rd Announcement: Invited Programme and Reminders|
+            -------------------------------------------------
+
+
+This announcement contains the invited programme for the workshop and
+reminders of the deadline of ** 1 DECEMBER 1999 ** for submission of
+abstracts and for registration.
+
+
+One of the aims of this workshop -a follow-on to the  "First ISO
+Workshop on Analytical Spectroscopy" held in October 1997- is to
+review the current ISO spectroscopy heritage.  This will not only
+encourage further scientific work on the ISO data themselves but will
+also benefit the preparation of future missions such as SIRTF, FIRST, 
+SOFIA, NGST, ASTRO-F, etc.  Another aim of the workshop is to assist
+in  establishing the final goals for the ISO archive phase and in
+defining the end products.
+
+Topics may include, but are not limited to: planetary models; hot and
+cool stellar atmosphere and wind models or grids of models;
+photoionisation; spectral synthesis; circumstellar and interstellar
+dust features; dust in  planetary environments; the diffuse ISM;
+galaxies; optical depth effects and  estimation; laboratory studies
+and line lists; ices and unidentified IR features; PDRs; molecular
+line modelling and data interpretation; and data  reduction techniques
+for optimising scientific output from standard data products. 
+
+The second announcement available on the WWW at:
+
+http://www.iso.vilspa.esa.es/meetings/beyondthepeaks/2nd_announcement.html
+
+contains information on the scientific and local organising
+committees, calendar of events, contributed papers, proceedings, hotel
+information, transport, registration, submission of abstracts etc.  
+This announcement does not repeat those details - please refer to the
+second announcement.
+
+
+
+Reminders
+---------
+
+Abstracts:
+- - - - - -
+
+The deadline for submission of abstracts for contributed papers and 
+posters is:
+
+       1 December 1999.
+
+The template for abstracts is provided at:
+
+http://www.iso.vilspa.esa.es/meetings/beyondthepeaks/abstract-template.tex
+
+The SOC will review the submitted abstracts in the first two weeks of
+December to establish the programme of contributed talks and posters.
+
+
+Registration:
+- - - - - - - 
+
+The meeting room at the ISO Data Centre can only accommodate some 90-100
+participants; expressions of interest from the first 2 announcements are
+coming close to that number.  Thus, if you wish to come to the
+workshop, please let the ISO helpdesk <helpdesk@iso.vilspa.esa.es> know, as
+described in the second announcement, before:
+
+       1 December 1999.
+
+
+
+
+Invited Programme
+-----------------
+
+The programme will consist of about 20 invited talks plus some 30
+contributed talks and posters.  Ample time will be allocated for
+discussions and for viewing posters.  The workshop talks will concentrate
+on discussing scientific results coming from the ISO spectroscopic
+observations, their relation to models and laboratory measurements.
+
+The confirmed invited talks are as follows;  1 or 2 further talks are
+still under discussion for addition to the programme.
+
+
+Session 1: Solar System
+- - - - - - - - - - - - -
+			
+Spectroscopy of Solar System Objects                 Bruno Bezard
+
+Commonalities and parallels between circumstellar 
+  and inter-planetary dust (zodiacal + cometary)     Jacques Crovisier
+
+
+Session 2: ISM			
+- - - - - - - -
+
+Commonalities and parallels between circumstellar    Rens Waters 
+  and ISM dust;  PN and diffuse ISM 
+
+Water: observations and models                       Jose Cernicharo
+
+Interstellar and protostellar ices                   Emmanuel Dartois
+
+
+Session 3: Stars
+- - - - - - - - 
+			
+Young Stellar Objects                                Cecilia Ceccarelli
+
+HII regions                                          Pierre Cox
+
+Hot matter around AGB stars                          Issei Yamamura
+
+Wolf-Rayet and Luminous Blue Variable stars          Pat Morris
+
+Supernova remnants                                   Ernesto Oliva 
+
+
+Session 4: Calibration and Data Analysis
+- - - - - - - - - - - - - - - - - - - - -
+			
+Update on ISO instruments calibration and data       Pedro Garcia-Lario
+  analysis techniques
+			
+
+Session 5: Extragalactic			
+- - - - - - - - - - - - -
+
+Galaxies: The short-wavelength view                  Dieter Lutz
+
+Galaxies: The long-wavelength view                  Jackie Fischer
+							
+			
+
+Session 6: Models			
+- - - - - - - - -
+
+ISO impact on stellar models and viceversa           Leen Decin
+
+Radiative transfer                                   Volker Ossenkopf 
+							
+Modelling infrared line emission from ionised        Jacques Le Bourlot
+  and photodissociated gas				
+							
+
+
+Session 7: Laboratory
+- - - - - - - - - - -
+			
+Mineralogy                                           Thomas Henning 
+			
+
+
+Session 8: Future missions/instruments
+- - - - - - - - - - - - - - - - - - - -
+			
+Future missions and instruments                      Thijs de Graauw
+
+
+Session 9: Round the table discussions
+- - - - - - - - - - - - - - - - - - - -
+
+To be introduced by a 'conference summary' listing challenging issues
+to provoke reactions from the audience.
+
+
+
+-------------------------------end-------------------------------
+
+

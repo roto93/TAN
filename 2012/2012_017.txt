@@ -1,0 +1,79 @@
+Date: Tue, 31 Jan 2012 02:04:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jan 30, 2012)
+
+============================================================================== 
+
+In this issue (Jan 30, 2012)
+
+1. Arizona Radio Observatory - Call for Proposals: Spring 2012 (Feb 19, 2012)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2012)
+------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Proposals are being solicited, from members of the University Consortium of
+ALMA-Taiwan and ASIAA, for observing time for the period March 1 - June 1,
+2012 at the Arizona Radio Observatory. The proposal deadline of UCAT for this
+2012 spring semester is set on February 19, 2012 (Sunday).
+
+The Arizona Radio Observatory operates the Sub-Millimeter Telescope (SMT) and
+the Kitt Peak 12 Meter. The SMT currently supports a dual-polarization, 1 mm
+receiver with ALMA Band-6 sideband-separating mixers, a dual-polarization 0.8
+mm receiver, and a 0.4 mm (602-720 GHz) dual-polarization receiver with ALMA
+Band-9 mixers. The SMT control system has been updated to allow for dual
+polarization, dual sideband observations (so-called "4 IF mode"). The 12 m
+supports a dual-polarization 3 mm receivers (82-116 GHz) that employs ALMA
+Band-3 sideboard-separating mixers, as well as dual polarization, single
+sideband receivers for the lower part of the 3 mm window (65-86 GHz) and at
+2 mm (130-180 GHz). Remote observing is accessible at both ARO telescopes.
+Please refer to http://aro.as.arizona.edu/ for more details.
+
+Information about Remote Observing can be viewed at:
+http://aro.as.arizona.edu/remote/remote.htm .
+
+For further information about remote observing and other operational questions,
+please contact Tom Folkers, Operations Manager: tfolkers@email.arizona.edu
+
+People are required to use the 12m and SMT proposal Cover Sheets, obtainable at
+http://aro.as.arizona.edu/proposals, for their proposals. Proposals should
+consist of a proposal Cover Sheet and a brief scientific and technical
+justification. The justification may be up to two pages of text, and should NOT
+exceed three pages in total including tables, figures, references and a source
+list with observing time requirements.
+
+Please pay special attention to the "Sun avoidance" issue of your proposed
+observations. The SMT telescope will not be pointed to within 42 degrees of the
+Sun, and the 12 Meter, 15 degrees. In addition, please also provide the IP
+number of the computer you will be using during your observing time IN YOUR
+PROPOSAL. 
+
+Electronic submissions to UCAT will be accepted in PDF format only. Scheduling
+of successful proposals will be done according to availability of the receivers
+requested. Please submit your proposals by midnight (23:59 pm CST) February 19,
+2012 to: kuan AT asiaa.sinica.edu.tw .
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

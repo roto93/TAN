@@ -1,0 +1,26 @@
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Date: Wed, 4 Sep 2019 11:04:22 +0800
+> Subject: The Cycle 7 ACA Supplemental Call for Proposals is now open!
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>     riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear all,
+
+The Cycle 7 ACA Supplemental Call for Proposals is now open:
+
+The Joint ALMA Observatory (JAO) is now accepting observing proposals for Cycle 7 that request to use the Atacama Compact Array (ACA) in stand-alone mode. Instructions on how to submit proposals can be found on the Cycle 7 Supplemental Call web page (https://almascience.org/proposing/7m-array-supplemental-call).
+
+Users of any nationality or affiliation are invited to submit proposals before the deadline of 15:00 UT on Tuesday 1 October 2019.
+
+Proposals submitted in the Supplemental Call will be peer reviewed using a distributed system in which each proposal team selects a designated reviewer to participate in the review process. The review process is described in detail in the Supplemental Call documentation.
+
+Users should note that the Supplemental Call proposal submission server will not be available for a few hours on September 10 and September 25 because of scheduled maintenance. The precise downtimes will be noted on the Science Portal. Users will need to update the Observing Tool (OT) after the September 10 maintenance period. For most users, this will happen automatically using the automated webstart tool. Information on updating the OT is available at the Observing Tool webpage.
+
+
+best,
+Yu-Nung
+
+==============================================================================

@@ -1,0 +1,2101 @@
+From jlim@iaa11.asiaa.sinica.edu.tw Mon Jun 12 14:31 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA13884
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 12 Jun 2000 14:30:27 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA27897;
+	Mon, 12 Jun 2000 14:29:30 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id OAA18545;
+	Mon, 12 Jun 2000 14:25:19 +0800 (CST)
+Date: Mon, 12 Jun 2000 14:25:19 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200006120625.OAA18545@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: 5pzpBPKtdb1frejfXt3E0w==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 697
+Status: O
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         16 June 2000 (Friday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. He Xiang-Tao 
+                     (Beijing Normal University)
+	    TITLE:   "Multi-wavelength Quasar Survey"
+	              
+
+From kyl@asiaa.sinica.edu.tw Tue Jun 13 12:50 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA05721
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 13 Jun 2000 12:50:02 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA32221
+	for <astro@asiaa.sinica.edu.tw>; Tue, 13 Jun 2000 12:48:58 +0800
+Date: Tue, 13 Jun 2000 12:44:56 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: AAS Electronic Announcement #83 -- JUNE 2000 (fwd)
+Message-ID: <Pine.SOL.4.10.10006131244530.21004-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3388
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 01 Jun 2000 15:58:29 -0400
+From: AAS Email Exploder <aasmail@aas.org>
+Reply-To: webmaster@aas.org
+To: aasmembers@aas.org
+Subject: AAS Electronic Announcement #83 -- JUNE 2000
+
+______________________________________________________
+AAS Electronic Announcement #83 -- JUNE 2000
+[Mailed from aas.org at 3:55pm 1 JUNE 2000]
+______________________________________________________
+CONTENTS
+
+1.  ROCHESTER ANTICIPATED PRESS COVERAGE 
+
+2.  FUSE GUEST INVESTIGATOR PROGRAM: Call for Proposals
+
+_________________________________________________________
+_________________________________________________________
+1.  ROCHESTER ANTICIPATED PRESS COVERAGE 
+
+We are aware that astronomers who miss the meeting
+are often questioned by students and friends concerning 
+the findings reported in the media.  However, we do not 
+post the press releases from the meeting on the Web because 
+we supply information to the media, we don't compete with 
+them in getting the information out.  Press releases on 
+individual papers and findings are prepared by the author 
+institutions and not by the AAS. 
+
+Shortly before each meeting, the list of press conferences 
+is posted on the AAS web site, with references to the 
+corresponding meeting papers. 
+
+You can access the Rochester Anticipated Press Conferences 
+through the online Program:  
+
+http://www.aas.org/meetings/aas196/program/index.html
+
+or directly at: 
+
+http://www.aas.org/meetings/press/photos196/196conf.html
+
+_________________________________________________________
+2.  FUSE GUEST INVESTIGATOR PROGRAM: Call for Proposals
+    George Sonneborn, FUSE Project Scientist
+    Call for Proposals Issued:  10 May 2000
+    Notices of Intent Due: 12 June 2000
+    Proposals Due: 14 July 2000.
+
+The NASA Research Announcement for Cycle 2 of the Guest 
+Investigator (GI) program of the Far Ultraviolet Spectroscopic 
+Explorer (FUSE) mission was issued on 10 May 2000. This 
+research announcement, and the accompanying FUSE Observers Guide, 
+are available online. The NRA and other GI program information 
+is available at http://fusewww.gsfc.nasa.gov/fuse. The FOG and
+other documents, including FUSE first results papers, can be 
+obtained from the FUSE web site (http://fuse.pha.jhu.edu).
+
+Questions about the FUSE mission should be sent to the FUSE 
+support desk:  mailto:fuse_support@pha.jhu.edu. Questions about 
+the FUSE GI program should be addressed to the FUSE Project 
+Scientist (mailto:george.sonneborn@gsfc.nasa.gov)
+
+_________________________________________________________
+_________________________________________________________
+An AAS Electronic Announcement is mailed to all members around 
+the 10th of each month.  Included are important items that do 
+not fit into the schedule of the AAS Newsletter.  Because of volume,
+Meeting Announcements are not included.
+
+Items for possible inclusion in this announcement series should 
+be sent to mailto:johnson@aas.org.  Keep announcement short and refer 
+readers to sources of additional information.
+
+Address corrections should be sent to mailto:address@aas.org.
+
+
+From kyl@asiaa.sinica.edu.tw Wed Jun 14 08:39 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA25220
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 14 Jun 2000 08:39:10 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA03594
+	for <astro@asiaa.sinica.edu.tw>; Wed, 14 Jun 2000 08:37:58 +0800
+Date: Wed, 14 Jun 2000 08:34:03 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Job-Advert_Mechanical Engineer, ATNF Narrabri (fwd)
+Message-ID: <Pine.SOL.4.10.10006140834010.22024-100000@iaa3>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id IAA25220
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 3820
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 13 Jun 2000 16:55:17 +1000
+From: Sue Little <Sue.Little@atnf.csiro.au>
+To: Job Advertisement:  ;
+Subject: Job-Advert_Mechanical Engineer, ATNF Narrabri
+
+Dear Recipient,
+
+Appended is a notice regarding the position of Mechanical Engineer at
+Narrabri Observatory,  Australia Telescope National Facility, CSIRO. We
+would be grateful if you could post this at your institution and forward it
+to anyone you think may be interested.
+
+If you wish to be deleted from this exploder list please let me know.
+
+Yours sincerely,
+
+Sue Little
+ATNF Admin.
+**************************************************************************** 
+*************
+
+
+
+MECHANICAL ENGINEER
+
+Australia Telescope National Facility
+Paul Wild Observatory
+Narrabri  NSW
+
+$53K - $72K + Superannuation
+
+
+The Australia Telescope National Facility (ATNF) is the premier radio
+astronomical facility in Australia and operates the Compact Array at the
+Paul Wild Observatory near Narrabri, the 22m Mopra Radiotelescope near
+Coonabarabran and the Parkes Radiotelescope, all in NSW.  The Compact Array
+(6 antennas, each 22m in diameter, on a 3km rail track) is currently
+undergoing a major upgrade involving civil, mechanical, electronic and
+software engineering developments.
+
+The successful applicant will be responsible for the mechanical maintenance
+of the Compact Array and Mopra antennas, for managing the team of technical
+and trades staff who provide antenna and site engineering services, and
+would be expected to contribute to the upgrade work. The observatory
+operates 24 hours every day of the year with periods scheduled for
+maintenance and development.  Staff members are often required to work out 
+of normal
+working hours.  Duties will include:
+
+·       monitoring and developing the long term maintenance schedule for
+mechanical components of the antennas  and related systems;
+·       overseeing mechanical/civil antenna and site works;
+·       managing contracted works;
+·       contributing to the ongoing assessment and development of all 
+aspects of
+  the Observatory's mechanical and civil infrastructure, including the
+mechanical aspects of antenna optics;
+·       on occasions participating in relevant activities at Parkes or the 
+ATNF
+headquarters in Sydney.
+
+A degree or equivalent in mechanical engineering and several years’
+experience is essential. The successful applicant will have demonstrated
+project management and leadership experience and will need good written and
+oral communication skills.  The ability to climb and work on the telescope
+structures and a current driver's license are also required.
+
+This position is for an indefinite period.  The successful applicant will be
+eligible for Australian Government superannuation and a district allowance
+of up to $1200 per annum.  Where appropriate, relocation expenses will be
+provided as will assistance with accommodation for a period of up to 18
+months.
+
+Further information about the position can be obtained by contacting Dr
+David McConnell, (02) 6790 4000 (or email David.McConnell@atnf.csiro.au).  A
+copy of the duty statement and selection criteria can be obtained from Miss
+Kylee Forbes on (02) 6790 4024.
+
+Applications should include a curriculum vitae, and the names and addresses
+(preferably email) of three referees.  They should be addressed to Dr David
+McConnell, Australia Telescope National Facility, Locked Bag 194, Narrabri
+NSW 2390 or by email to David.McConnell@atnf.csiro.au and should arrive by
+the deadline of 30 June 2000.
+
+
+From kyl@asiaa.sinica.edu.tw Fri Jun 16 09:33 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA08684
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 16 Jun 2000 09:33:06 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA13720
+	for <astro@asiaa.sinica.edu.tw>; Fri, 16 Jun 2000 09:31:34 +0800
+Date: Fri, 16 Jun 2000 09:27:58 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Hubble Space Telescope Cycle 10 Call for Proposals (fwd)
+Message-ID: <Pine.SOL.4.10.10006160927580.16165-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2274
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 15 Jun 2000 15:09:10 -0400 (EDT)
+From: AutoBot_Message <STScI-Generic@stsci.edu>
+To: kyl@astro.uiuc.edu
+Subject: Hubble Space Telescope Cycle 10 Call for Proposals
+
+Hubble Space Telescope Cycle 10 Call for Proposals
+==================================================
+
+Release Date:       June 14, 2000
+Proposal Deadline:  September 08, 2000
+
+NASA and The Space Telescope Science Institute are pleased to announce
+the Cycle 10 Call for Proposals for astronomical observations and
+archival research utilizing the Hubble Space Telescope (HST).
+Participation in this program is open to all categories of
+organizations, both domestic and foreign, including educational
+institutions, profit and nonprofit organizations, NASA Centers, and
+other Government agencies.  This solicitation will be open from June
+14, 2000 through September 08, 2000 8:00pm EDT, and proposals may be
+submitted throughout this period.
+
+Starting June 14, 2000, specific guidelines for proposal preparation
+will be available electronically from the Space Telescope Science
+Institute's World-Wide Web site at the Cycle 10 Announcement Web Page
+with URL:
+
+	http://www.stsci.edu/ftp/proposer/cycle10/announce.html 
+
+All programmatic and/or technical information is available at the web
+site or you can contact the STScI Help Desk, email help@stsci.edu,
+phone 410-338-1082.
+
+The submission of proposals for this Cycle is entirely electronic.
+The Scientific Instruments offered are the Advanced Camera for
+Surveys, the Fine Guidance Sensor, the Near Infrared Camera and
+Multi-Object Spectrometer, the Space Telescope Imaging Spectrograph,
+and the Wide Field Planetary Camera 2. However, proposers should check
+the Cycle 10 Announcement Web Page in the period leading up to the
+proposal deadline for updates on the anticipated details of Servicing
+Mission SM3B, which will affect the details of Cycle 10.
+
+Results of the selection will be announced in mid to late December 2000.
+
+
+
+
+From kyl@asiaa.sinica.edu.tw Mon Jun 19 18:12 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id SAA27612
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 19 Jun 2000 18:12:04 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id SAA25501
+	for <astro@asiaa.sinica.edu.tw>; Mon, 19 Jun 2000 18:09:59 +0800
+Date: Mon, 19 Jun 2000 18:06:57 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: workshop in Shanghai (fwd)
+Message-ID: <Pine.SOL.4.10.10006191806520.9477-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7544
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 19 Jun 2000 17:53:37 +0800
+From: Yipeng Jing <cosmos4th@center.shao.ac.cn>
+To: Andreas Burkert <burkert@mpia-hd.mpg.de>,
+     Chi Yuan <yuan@asiaa.sinica.edu.tw>,
+     Fred K.Y. Lo <kyl@asiaa.sinica.edu.tw>,
+     Gerhard Boerner <grb@mpa-garching.mpg.de>,
+     Hans Boehringer <hxb@xray.mpe.mpg.de>, Houjun Mo <hom@mpa-garching.mpg.de>,
+     jkw@astro.physik.uni-potsdam.de,
+     Katsuhiko Sato <sato@utap.phys.s.u-tokyo.ac.jp>,
+     kohji@utap.phys.s.u-tokyo.ac.jp,
+     Matthias Bartelmann <msb@mpa-garching.mpg.de>,
+     naoshi@tap.scphys.kyoto-u.ac.jp,
+     Peter Biermann <plbiermann@mpifr-bonn.mpg.de>,
+     Rashid Sunyaev <sunyaev@mpa-garching.mpg.de>,
+     Shin Sasaki <sasaki@phys.metro-u.ac.jp>,
+     Simon White <swhite@mpa-garching.mpg.de>,
+     Stephane Charlot <charlot@mpa-garching.mpg.de>,
+     Tetsu Kitayama <tkita@phys.metro-u.ac.jp>,
+     Thihong Chiueh <chiuehth@phys.ntu.edu.tw>,
+     Thomas Boller <bol@xray.mpe.mpg.de>,
+     Toshiyuki Kanazawa <kanazawa@utap.phys.s.u-tokyo.ac.jp>,
+     Yasushi Suto <suto@utap.phys.s.u-tokyo.ac.jp>, ypjing@center.shao.ac.cn,
+     dzg@bac.pku.edu.cn, dhzhao@center.shao.ac.cn
+Subject: workshop in Shanghai
+
+Dear colleagues,
+
+We cordially invite you to attend the 4th Joint workshop on "Cosmology
+in the New Millennium". Enclosed is the first announcement of the workshop.
+
+Look forward to seeing you in Shanghai.
+
+Sincerely,
+
+Zugan Deng, Gerhard Boerner, Yipeng Jing
+
+
+__________________________________________________________________________
+
+                        4th Joint workshop on
+                  "Cosmology in the New Millennium"
+ 
+                    Shanghai Astronomical Observatory, 
+                   80 Nandan Road, Shanghai, China P.R.
+                         October 17 - 22, 2000
+ 
+ 
+                             FIRST CIRCULAR
+
+Important dates:
+    1. Registration: before 15th August 2000
+    2. Invitation letters (for visa):  1st Sept 2000
+    3. Second circular: 1st Sept 2000
+
+In a series of workshops on Cosmology which had been Chinese -- German
+bilateral miniworkshops, the fourth one will be held at Shanghai
+Observatory from October 17 to 20, 2000. About six Japanese
+participants are coming to join at this meeting. This workshop is also
+the first such activity involving the newly established Partner group
+of the MPI fuer Astrophysik at Shanghai Observatory. The topics to be
+discussed include galaxy formation, large scale cosmic structure, high
+redshift objects, the Cosmic Microwave Background, active galaxies and
+quasars. 
+
+Organizers
+   Zugan Deng, Gerhard Boerner, Yipeng Jing (Secretary)
+
+Sponsor:
+   The workshop is supported by the exchange program between National
+   Natural Science Foundation of China and Science Foundation of Germany,
+   and the exchange program between Chinese Academy of Sciences and 
+   Max-Planck Society. Shanghai Observatory will sponsor and host 
+   the workshop.
+
+Place: 
+   Shanghai Astronomical Observatory, 
+   80 Nandan Road, Shanghai, China
+
+Time: 
+   Arrival: Monday, October 16, 2000
+   Workshop: Oct 17 (Tue) --- Oct 20 (Fri)
+   Excursion: Oct 21/22 
+   Departure: Oct 23 (Mon)
+
+Workshop website: http://center.shao.ac.cn/cosmos4th/index.htm
+   The website provides the updated information about the workshop. It
+   also provides the information about the transportation from 
+   two international airports in Shanghai to the hotel, the maps 
+   around the hotel and the Shanghai Observatory, 
+   some simple Chinese sentences (with English translation) which 
+   can help you find way to, e.g. the hotel or the conference 
+   place. AND MORE.
+
+   Please be patient; the website is under construction and should
+   be finished WITHIN this week (before 25th June 2000)
+    
+Preliminary list of the participants: see at the workshop website
+
+Facilities for your presentation:
+   The conference hall is well equipped by multi-media facilities. 
+   You can use transparencies, slides and notebook PC (Power Point) 
+   for your talk. Ordinary paper also works, as it can be directly
+   projected. 
+
+Registration:
+    Although most of the participants have been invited to attend the
+    workshop by the organizers, it is required that every
+    participant make a registration (the form attached below)
+    BEFORE 15 August 2000 for providing necessary information.
+    The participants from Germany do not need to send the 
+    registration again, since they have already provided 
+    the information. There is no registration fee for the 
+    participants from outside the Mainland China.
+
+Social Events:
+   There is a welcome party at 17:00 of 16 Oct in Shanghai
+   Observatory. The workshop banquet will be held in the evening 
+   of 19 Oct. On Oct.21/22, there will be an excursion to Putuo 
+   Mountain Island. All the participants and accompanying persons are 
+   invited to join. 
+
+Proceedings:
+   Proceedings will be published on "Progress in Astronomy" (Shanghai) for
+   the invited talks, contributed talks, and poster presentations. 
+   Language: English
+
+
+Accommodations:
+   According to our current plan (may subject to change; will be 
+   confirmed in the second circular), the foreign participants will 
+   live in XingLongHua Hotel which is three subway stops away from 
+   Shanghai Observatory. The rate is estimated about 220 CNY (
+   about US $28) per night for one two-bed room.
+ 
+   The participants will have lunches and dinners together at 
+   nearby restaurants with the meal cost covered by the workshop.
+
+Transportation from airports to the hotel:
+   The information can be found at the workshop website. We strongly
+   encourage foreign guests to take flights in groups. If more than
+   (including) five people arrive in Shanghai in one flight, we can
+   arrange to pick them up at the airport. Individual guests (less than
+   5) should come to the hotel by themselves. 
+
+
+Contact Person:   
+   Yipeng Jing 
+   Shanghai Astronomical Observatory 
+   80 Nandan Road, Shanghai 200030, China
+   TEL :+86-21-54900713
+   FAX: +86-21-6438-4002 
+   Email: cosmos4th@center.shao.ac.cn 
+
+Registration form:
+
+*****************************************************************************
+               REGISTRATION FOR WORKSHOP
+*****************************************************************************
+
+  
+NAME:
+_____________________________________________________________________
+        Last                            First           Middle Initial
+ 
+Do you wish to attend the workshop (Yes or No)?
+ 
+ Yes (   )   No (   )
+
+If yes, please give a title of your talk.
+ 
+Title:
+______________________________________________________________________
+
+
+Mailing Address:______________________________________________________
+ 
+______________________________________________________________________
+ 
+_____________________________________________________________________
+ 
+  
+Business Telephone_____________________ Fax______________________
+ 
+ 
+E-Mail:____________________________
+
+
+Indicate how you would like your name and affiliation to appear on
+your name tag:
+ 
+______________________________________________________________________
+  
+Please send this to: cosmos4th@center.shao.ac.cn
+ 
+ 
+
+________________________END __________________________
+ 
+
+
+
+From taiji@asiaa.sinica.edu.tw Tue Jun 20 17:16 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA19925
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 20 Jun 2000 17:16:04 +0800 (CST)
+Received: from iaa25 (iaa25 [140.109.177.110])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA30332;
+	Tue, 20 Jun 2000 17:13:46 +0800
+Date: Tue, 20 Jun 2000 17:11:34 +0800 (CST)
+From: Jounghun Lee <taiji@asiaa.sinica.edu.tw>
+X-Sender: taiji@iaa25
+To: Cosmology & Particle Astrophysics Journal Club: ;
+Subject: special journal clubs
+Message-ID: <Pine.SOL.4.10.10006201709430.7675-100000@iaa25>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id RAA19925
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 1172
+Status: O
+
+
+                 * * * * * * * * * * * * * * * * * * * * * *
+                 *         T A I D A  &  A S I A A         *
+                 *                                         *
+                 *        J O I N T    S E M I N A R       *
+                 * * * * * * * * * * * * * * * * * * * * * * 
+
+ 
+                      COSmology & Particle Astrophysics 
+                           Special Journal Club 
+
+
+                     June 21, 2000 (Wendesday, 4:10 - 5:10 pm)
+
+            Room phys.4, Physics Building, National Taiwan University 
+            ======================================================== 
+
+ 
+                SPEAKER: Dr. Chung Kao (University of Wisconsin)
+                     
+                TITLE: "Higgs Challenge"
+
+ 
+
+
+
+                     June 22, 2000 (Thursday,12:10 - 1:10 pm)
+
+            Room phys.4, Physics Building, National Taiwan University 
+            ======================================================== 
+
+ 
+                SPEAKER: Dr. Chung Kao (University of Wisconsin)
+                     
+       TITLE: "Phenomenology of Supergravity Model with Inverted Scalar
+                           Mass Hierarchy."
+
+
+
+From jlim@iaa11.asiaa.sinica.edu.tw Tue Jun 20 18:42 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id SAA21322
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 20 Jun 2000 18:41:39 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id SAA30892;
+	Tue, 20 Jun 2000 18:39:15 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id SAA05191;
+	Tue, 20 Jun 2000 18:36:21 +0800 (CST)
+Date: Tue, 20 Jun 2000 18:36:21 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200006201036.SAA05191@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: IMIMG411F8OPzTeZnt1uxQ==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 1313
+Status: O
+
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         23 June 2000 (Friday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. Don Kurtz 
+                     (Cape Town University)
+	    TITLE:   "The Music of the Spheres: Nonradial Pulsation in 
+	              three classes of variable stars discovered in 
+	              South Africa, and asteroseimological results from them"
+	    
+	    ABSTRACT:
+This talk will introduce nonradial stellar pulsation - what it looks
+like, what it is, and how stars are like giant musical instruments. Most
+importantly, it will show how seismology of stars, asteroseismology, can
+be used to probe their otherwise-inaccessible interiors. Examples shown
+will be the rapidly oscillating Ap stars, gamma Doradus stars and the EC
+14026 subdwarf B stars - all discovered by astronomers currently working 
+in South Africa.
+	              
+
+From taiji@asiaa.sinica.edu.tw Tue Jun 20 20:37 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA23243
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 20 Jun 2000 20:37:34 +0800 (CST)
+Received: from iaa25 (iaa25 [140.109.177.110])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA31420;
+	Tue, 20 Jun 2000 20:35:14 +0800
+Date: Tue, 20 Jun 2000 20:33:04 +0800 (CST)
+From: Jounghun Lee <taiji@asiaa.sinica.edu.tw>
+X-Sender: taiji@iaa25
+To: Cosmology & Particle Astrophysics Journal Club: ;
+Subject: one correction
+Message-ID: <Pine.SOL.4.10.10006202030210.7778-100000@iaa25>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 489
+Status: O
+
+Hi everybody,
+
+I would like to correct one thing in the announcement. 
+The thursday talk by Dr. Chung Kao will last for one hour 
+and a half. So, it starts at 12:10 pm and will continue till 
+1:40 pm.   
+
+cheers,
+Jounghun Lee 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,                Phone: 886-2-2652-2020 ext 203
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+
+From kyl@asiaa.sinica.edu.tw Tue Jun 27 09:11 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA08685
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 27 Jun 2000 09:10:25 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA10512
+	for <astro@asiaa.sinica.edu.tw>; Tue, 27 Jun 2000 09:14:27 +0800
+Date: Tue, 27 Jun 2000 09:14:26 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ATNF telescope applications - deadline July 12th (fwd)
+Message-ID: <Pine.LNX.4.10.10006270914220.10507-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2096
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 27 Jun 2000 10:53:30 +1000
+From: jchapman <Jessica.Chapman@atnf.csiro.au>
+To: ATNF users:  ;
+Subject: ATNF telescope applications - deadline July 12th
+
+Dear Colleagues, 
+
+************************REMINDER NOTICE******************************
+
+**********AUSTRALIA TELESCOPE NATIONAL FACILITY ***********
+
+Applications for observing time are now invited for the 2000OCT term 
+for the following telescopes:
+
+Compact Array, Narrabri 
+Parkes telescope, Parkes 
+Mopra telescope, Coonabarabran 
+VLBI observations 
+
+*********************************************************************** 
+CLOSING DATE for applications is 12th July 2000 
+For 3 month Observing term October 1st to December 30th 2000 
+************************************************************************
+
+For the Compact Array, proposers should note that the term will start in 
+the 6A configuration. The other configurations offered for the term are the 
+6C, 1.5B, 1.5C, 750B and 750C arrays.
+
+In addition there may be a limited amount of testing/science time
+available for 22 GHz observations using two of the Compact Array telescopes. 
+22 GHz telescope applications should include an ATNF staff member. 
+For further information on the 22 GHz system, please email Dave McConnell 
+(dmcconne@atnf.csiro.au).
+
+Application forms, telescope documentation and full information on how to 
+apply for ATNF telescope time are available on the web at the address 
+http://www.atnf.csiro.au/observers/
+
+Please note that the scientific case for telescope applications should not 
+exceed a total of 3 pages (including figures). A font size of at least 10 point
+
+should be used. 
+
+Jessica Chapman 
+ATNF Time Assignment Secretary 
+email: jchapman@atnf.csiro.au 
+tel: +61 (0) 2 9372 4196 
+fax: +61 (0) 2 9372 4310
+
+
+
+
+
+
+
+
+From jlim@iaa11.asiaa.sinica.edu.tw Fri Jun 30 13:57 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA20724
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 30 Jun 2000 13:57:03 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA29249;
+	Fri, 30 Jun 2000 14:00:32 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id NAA11164;
+	Fri, 30 Jun 2000 13:51:49 +0800 (CST)
+Date: Fri, 30 Jun 2000 13:51:49 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200006300551.NAA11164@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: wodo5bMLR3YZjQKL5BrE5A==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 705
+Status: O
+
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         5 July 2000 (Wednesday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. Hiromoto Shibahashi 
+                     (University of Tokyo)
+	    TITLE:   "What the Helioseismology Results Mean for the Sun" 
+
+From kuan Fri Jul  7 10:29 CST 2000
+Received: (from kuan@localhost)
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) id KAA29368
+	for astro; Fri, 7 Jul 2000 10:29:04 +0800 (CST)
+Date: Fri, 7 Jul 2000 10:29:04 +0800 (CST)
+From: Yi-Jehng Kuan <kuan>
+Message-Id: <200007070229.KAA29368@iaa17.asiaa.sinica.edu.tw>
+To: astro
+Subject: Congratulations!
+X-Sun-Charset: US-ASCII
+Content-Type: text
+Content-Length: 859
+Status: O
+
+
+I guess this email refers to the good news that Prof. Typhoon Lee got 
+elected as a member of Academia Sinica (Academician) yesterday.
+
+Yi-Jehng
+
+ps: the TAN machine will be down for a system upgrade.  Will be down for 
+    who knows how long:-<
+
+
+----- Begin Included Message -----
+
+>From lihj@asiaa.sinica.edu.tw  Thu Jul  6 17:49:27 2000
+Date: Thu, 06 Jul 2000 17:31:49 +0800
+From: Hsien-jung Li <lihj@asiaa.sinica.edu.tw>
+X-Accept-Language: en
+MIME-Version: 1.0
+To: iaa@asiaa.sinica.edu.tw
+Subject: Congratulations!
+Content-Transfer-Encoding: 7bit
+
+Congratulations to my teacher Professor Typhoon Lee.
+What a great honor!
+
+--
+Brian H. Li
+
+Institute of Astronomy and Astrophysics
+Academia Sinica (ASIAA)
+Taiwan, Republic of China
+
+TEL : +886-2-2652-2020 ext.236
+FAX : +886-2-2788-1106
+E-mail : lihj@asiaa.sinica.edu.tw
+
+
+----- End Included Message -----
+
+
+From jlim@iaa11.asiaa.sinica.edu.tw Fri Jul  7 16:14 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA05110
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 7 Jul 2000 16:14:20 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA09663;
+	Fri, 7 Jul 2000 16:18:48 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id QAA16917;
+	Fri, 7 Jul 2000 16:09:01 +0800 (CST)
+Date: Fri, 7 Jul 2000 16:09:01 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200007070809.QAA16917@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: obP3qkkXpT4drQOPDq6uKA==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 686
+Status: O
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         10 July 2000 (Monday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. Frank Shu 
+                     (University of California, Berkeley)
+	    TITLE:   "Formation of Planetesimals" 
+ 
+
+From jlim@iaa11.asiaa.sinica.edu.tw Tue Jul 18 10:30 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA28828
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 18 Jul 2000 10:29:40 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA20252;
+	Tue, 18 Jul 2000 10:33:14 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id KAA22599;
+	Tue, 18 Jul 2000 10:23:56 +0800 (CST)
+Date: Tue, 18 Jul 2000 10:23:56 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200007180223.KAA22599@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: SbKPT4Rs1NdkiqsCmJh1vg==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 729
+Status: O
+
+ 
+ 
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         21 July 2000 (Friday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. Erick Young 
+                     (University of Arizona)
+	    TITLE:   "Recent Progress on SIRTF: 
+	              The Space Infrared Telescope Facility" 
+
+From taiji@asiaa.sinica.edu.tw Wed Jul 19 15:47 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA15530
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 19 Jul 2000 15:46:59 +0800 (CST)
+Received: from iaa25 (iaa25 [140.109.177.110])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA26991;
+	Wed, 19 Jul 2000 15:50:26 +0800
+Date: Wed, 19 Jul 2000 15:41:18 +0800 (CST)
+From: Jounghun Lee <taiji@asiaa.sinica.edu.tw>
+X-Sender: taiji@iaa25
+To: Cosmology & Particle Astrophysics Journal Club: ;
+Subject: Resume of the Cospa Journal Club
+Message-ID: <Pine.SOL.4.10.10007191538510.27369-100000@iaa25>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id PAA15530
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 927
+Status: O
+
+Hi everybody!
+
+How is your summer going ?
+Missing our cospa meeting too much?
+So, we have decided to resume our journal club tomorrow! 
+See you all tormorrow.
+
+
+                 * * * * * * * * * * * * * * * * * * * * * *
+                 *         T A I D A  &  A S I A A         *
+                 *                                         *
+                 *        J O I N T    S E M I N A R       *
+                 * * * * * * * * * * * * * * * * * * * * * * 
+
+ 
+                      Cosmology & Particle Astrophysics 
+                          LUNCH BOX JOURNAL CLUB 
+
+                   July 20, 2000 (Thursday, 12:30 - 1:30 pm)
+
+             Conference Room, 4th floor, Biochemistry Building, Asiaa 
+             ========================================================= 
+
+ 
+                SPEAKER: Prof. Tzihong Chiueh (TAIDA)
+                   
+              TITLE: "Review of the Nobeyama SZ Observations" 
+
+
+
+
+
+From kyl@asiaa.sinica.edu.tw Thu Jul 20 14:38 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA07775
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 20 Jul 2000 14:37:48 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA32340
+	for <astro@asiaa.sinica.edu.tw>; Thu, 20 Jul 2000 14:41:29 +0800
+Date: Thu, 20 Jul 2000 14:32:32 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Job Advert - Operations Scientist - ATNF Parkes  (fwd)
+Message-ID: <Pine.SOL.4.10.10007201432300.28400-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3192
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 20 Jul 2000 17:09:21 +1100
+From: Sharon Scott <Sharon.Scott@atnf.csiro.au>
+To: atnf_all@atnf.csiro.au
+Subject: Job Advert - Operations Scientist - ATNF Parkes 
+
+Dear Recipient,
+
+Appended is a notice regarding the position of Operations Scientist, Parkes
+Observatory,  Australia Telescope National Facility, CSIRO. We would be grateful
+if you could post this at your institution and forward it to anyone you think
+may be interested.
+
+If you wish to be deleted from this exploder list please let me know.
+
+Yours sincerely,
+
+Sharon Scott
+Personal Assistant to the 
+Officer-in-Charge
+Parkes Observatory
+*****************************************************************************************
+
+
+			AUSTRALIA TELESCOPE NATIONAL FACILITY
+				PARKES OBSERVATORY
+
+				Operations Scientist
+			   $35k - $52k + superannuation
+
+The CSIRO Parkes Observatory is part of the Australia Telescope National
+Facility (ATNF), a radio astronomical facility operated by CSIRO with the aim of
+advancing knowledge about the Universe. Information about the ATNF can be found
+at www.atnf.csiro.au
+
+The Parkes Observatory is seeking an enthusiastic scientific professional with
+interests in modern computing systems and astronomy to join a small team having
+responsibility for the operations and systems development at the radio
+telescope.
+
+The appointee will develop new observing techniques and software to meet the
+Observatory's evolving needs, and will become deeply involved in the day-to-day
+support of visiting astronomers at the Observatory.  Applicants should have good
+communication skills, should possess a degree in a physical science, engineering
+or some related field, and have basic skills in software development and
+documentation. 
+
+In addition to the support and developmental work, there will be some
+opportunity to become involved in research projects currently underway on the
+telescope. In particular these projects include: an all-sky survey in the 21-cm
+hydrogen line using the 13-beam receiver and a Galactic Pulsar Survey. Some
+fraction of time will also be available for individual astronomical research.
+
+The telescope operates continuously, 24 hours a day, and the appointee will be
+expected to work flexible hours and reside in the Parkes area.  The position is
+offered as a 3 year appointment.
+
+Enquiries and requests for duty statements and selection criteria should be
+directed to: 
+
+	Geoff Freeman
+	Phone 02 6861 1723, Fax 02 6861 1730 or e-mail Geoff.Freeman@atnf.csiro.au
+
+Please send details of your qualifications, skills and work achievements,
+together with names of two professional referees to:
+
+	Dr. John Reynolds
+	Officer-In-Charge, ATNF Parkes Observatory, 
+	PO Box 276, Parkes, NSW 2870.	
+	Email: John.Reynolds@atnf.csiro.au
+								by 29th August 2000.
+
+			  CSIRO IS AN EQUAL OPPORTUNITY EMPLOYER
+			   PROMOTING A NON SMOKING ENVIRONMENT
+
+
+From clw@asiaa.sinica.edu.tw Thu Jul 20 20:33 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA09607
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 20 Jul 2000 20:32:59 +0800 (CST)
+Received: from iaa15 (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA01876;
+	Thu, 20 Jul 2000 20:36:37 +0800
+Date: Thu, 20 Jul 2000 20:27:40 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@asiaa.sinica.edu.tw>
+X-Sender: clw@iaa15
+To: TANet <astro@asiaa.sinica.edu.tw>, scimeeting@amiba.asiaa.sinica.edu.tw,
+        cospa@amiba.asiaa.sinica.edu.tw, newsletter@amiba.asiaa.sinica.edu.tw
+cc: Jia-Huey Hsieh <winny@asiaa.sinica.edu.tw>,
+        Emily Wei <emily@asiaa.sinica.edu.tw>,
+        Yang Tai Shaw <pshaw@asiaa.sinica.edu.tw>,
+        LI-Shuang Wang <jackie@asiaa.sinica.edu.tw>,
+        Amy Chang <shchang@phys.ntu.edu.tw>
+Subject: AMiBA Mini-workshop
+Message-ID: <Pine.SOL.4.10.10007201938170.17322-100000@iaa15>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2202
+Status: O
+
+Dear Colleague,
+
+Please find below the programme of the upcoming mini-workshop on AMiBA
+Science.  you can also find the updated version, if any revision, at 
+http://www.asiaa.sinica.edu.tw/amiba/meeting/miniworkshop.html
+
+please note that the afternoon sessions on the first 2 days start from
+04:00pm, after ASIAA's colloquia, for details see
+http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+
+cheers,
+
+Lin-wen Chen
+-----------------------------------------------------------------------
+
+                      Mini-workshop on AMiBA Science
+                      ==============================
+                           27-29 July 2000	
+                     Conference Room, ASIAA, Taipei
+
+27 Jul 2000 Thu
+---------------
+10:00-12:00   Current status of AMiBA science (K.Y. Lo)
+              Report on Paris cluster meeting (T.H. Chiueh)
+              Report on Santa Barbara CMB workshop (U.L. Pen)
+              Recent progress on CMB polarisation (K.W. Ng)
+
+12:00-14:00   Lunch break
+14:00-16:00   ASIAA Colloquium  (Doug Lin)
+
+16:00-18:00   Organisation of AMiBA science working group
+
+28 Jul 2000 Fri
+---------------
+09:00-12:00     Discussion on cluster SZE and related issues (T.H. Chiueh)
+                      o physical condition of clusters
+                      o SZE modeling           o cluster evolution
+                      o X-ray observations     o cluster redshift surveys
+                      o simulations            o radio lobes
+                      o point sources in the fields
+
+12:00-14:00     Lunch break
+14:00-16:00     ASIAA Colloquium  (Y. H. Chu)
+
+16:00-18:00     Discussion on CMB polarisation and related issues 
+                      o point source subtraction
+                                                            (K.W. Ng)
+
+29 Jul 2000 Sat
+---------------
+09:00-10:30     Discussion on missing baryons/LSS & related issues I
+                                                            (U.L. Pen)
+10:30-12:00     Remaining issues? (K.Y. Lo)
+
+12:00-14:00     Lunch break
+
+14:00-15:00     Listing of science issues to be addressed.
+
+
+04 Aug 2000 Fri
+---------------
+09:00-12:00     Discussion on missing baryons/LSS & related issues II
+							     (C.P. Ma)
+
+
+From clw@asiaa.sinica.edu.tw Thu Jul 20 20:34 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA09656
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 20 Jul 2000 20:34:18 +0800 (CST)
+Received: from iaa15.asiaa.sinica.edu.tw (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA01886;
+	Thu, 20 Jul 2000 20:36:49 +0800
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa15.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA28722;
+	Thu, 20 Jul 2000 20:27:42 +0800 (CST)
+Received: from iaa15 (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA01876;
+	Thu, 20 Jul 2000 20:36:37 +0800
+Date: Thu, 20 Jul 2000 20:27:40 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@asiaa.sinica.edu.tw>
+X-Sender: clw@iaa15
+To: TANet <astro@asiaa.sinica.edu.tw>, scimeeting@iaa15.asiaa.sinica.edu.tw,
+        cospa@iaa15.asiaa.sinica.edu.tw, newsletter@iaa15.asiaa.sinica.edu.tw
+cc: Jia-Huey Hsieh <winny@asiaa.sinica.edu.tw>,
+        Emily Wei <emily@asiaa.sinica.edu.tw>,
+        Yang Tai Shaw <pshaw@asiaa.sinica.edu.tw>,
+        LI-Shuang Wang <jackie@asiaa.sinica.edu.tw>,
+        Amy Chang <shchang@phys.ntu.edu.tw>
+Subject: AMiBA Mini-workshop
+Message-ID: <Pine.SOL.4.10.10007201938170.17322-100000@iaa15>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2202
+Status: O
+
+Dear Colleague,
+
+Please find below the programme of the upcoming mini-workshop on AMiBA
+Science.  you can also find the updated version, if any revision, at 
+http://www.asiaa.sinica.edu.tw/amiba/meeting/miniworkshop.html
+
+please note that the afternoon sessions on the first 2 days start from
+04:00pm, after ASIAA's colloquia, for details see
+http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+
+cheers,
+
+Lin-wen Chen
+-----------------------------------------------------------------------
+
+                      Mini-workshop on AMiBA Science
+                      ==============================
+                           27-29 July 2000	
+                     Conference Room, ASIAA, Taipei
+
+27 Jul 2000 Thu
+---------------
+10:00-12:00   Current status of AMiBA science (K.Y. Lo)
+              Report on Paris cluster meeting (T.H. Chiueh)
+              Report on Santa Barbara CMB workshop (U.L. Pen)
+              Recent progress on CMB polarisation (K.W. Ng)
+
+12:00-14:00   Lunch break
+14:00-16:00   ASIAA Colloquium  (Doug Lin)
+
+16:00-18:00   Organisation of AMiBA science working group
+
+28 Jul 2000 Fri
+---------------
+09:00-12:00     Discussion on cluster SZE and related issues (T.H. Chiueh)
+                      o physical condition of clusters
+                      o SZE modeling           o cluster evolution
+                      o X-ray observations     o cluster redshift surveys
+                      o simulations            o radio lobes
+                      o point sources in the fields
+
+12:00-14:00     Lunch break
+14:00-16:00     ASIAA Colloquium  (Y. H. Chu)
+
+16:00-18:00     Discussion on CMB polarisation and related issues 
+                      o point source subtraction
+                                                            (K.W. Ng)
+
+29 Jul 2000 Sat
+---------------
+09:00-10:30     Discussion on missing baryons/LSS & related issues I
+                                                            (U.L. Pen)
+10:30-12:00     Remaining issues? (K.Y. Lo)
+
+12:00-14:00     Lunch break
+
+14:00-15:00     Listing of science issues to be addressed.
+
+
+04 Aug 2000 Fri
+---------------
+09:00-12:00     Discussion on missing baryons/LSS & related issues II
+							     (C.P. Ma)
+
+
+From jlim@iaa11.asiaa.sinica.edu.tw Mon Jul 24 11:12 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA04612
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 24 Jul 2000 11:11:46 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA14472;
+	Mon, 24 Jul 2000 11:14:48 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id LAA26338;
+	Mon, 24 Jul 2000 11:06:24 +0800 (CST)
+Date: Mon, 24 Jul 2000 11:06:24 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200007240306.LAA26338@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Cc: lin@ucolick.org
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: twmHdF7FtBZ0S5aMRIcXIg==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 717
+Status: O
+
+ 
+ 
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         27 July 2000 (Thursday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. Doug Lin 
+                     (University of California, Santa Cruz)
+	    TITLE:   "Dynamical Evolution of Extrasolar Planetary Systems" 
+ 
+
+From kyl@asiaa.sinica.edu.tw Wed Jul 26 10:05 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA03164
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 26 Jul 2000 10:04:49 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA25021
+	for <astro@asiaa.sinica.edu.tw>; Wed, 26 Jul 2000 10:07:31 +0800
+Date: Wed, 26 Jul 2000 09:59:34 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ISO_Calibration_Sources (fwd)
+Message-ID: <Pine.SOL.4.10.10007260959270.23031-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1542
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 24 Jul 2000 22:56:41 +0200 (MET DST)
+From: ISO Helpdesk <helpdesk@iso.vilspa.esa.es>
+To: kyl@astro.uiuc.edu
+Subject: ISO_Calibration_Sources
+
+
+Dear colleague,
+
+During the preparation and execution of the European Space Agency's
+Infrared Space Observatory (ISO) mission extensive programmes were
+conducted to establish catalogues of celestial calibration standards
+adequate to support the calibration needs of the mission.  These
+programmes have led, in particular, to the production of sets of stellar,
+asteroidal and planetary calibration sources - both photometric and spectral,
+often spanning the full 2.5 to 240 micron wavelength range of ISO.
+
+We would like to draw your attention to this, now publicly available,
+database of near to far-infrared calibration sources, which you can find
+- along with comprehensive explanatory and reference material, at:
+
+  http://www.iso.vilspa.esa.es/users/expl_lib/ISO/wwwcal/ 
+      
+We hope that the astronomical community will find these products of 
+the ISO mission useful in a wide range of applications.
+
+
+  Martin Kessler (ISO Project Scientist), Leo Metcalfe, Alberto Salama 
+  on behalf of all calibrators that contributed to this activity 
+  over many years.
+
+
+From jlim@iaa11.asiaa.sinica.edu.tw Wed Jul 26 10:32 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA03517
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 26 Jul 2000 10:32:24 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA25271;
+	Wed, 26 Jul 2000 10:35:04 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id KAA28096;
+	Wed, 26 Jul 2000 10:27:00 +0800 (CST)
+Date: Wed, 26 Jul 2000 10:27:00 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200007260227.KAA28096@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Informal Talk/Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: 3wgKXGXKT16F1VaxTc3aAw==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 1004
+Status: O
+
+ 
+ 
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *  I N F O R M A L  T A L K  *
+
+                      *     C O L L O Q U I U M    *
+
+
+                         28 July 2000 (Friday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Informal Talk (12:30 pm)
+
+            SPEAKER: Ms. Julia Hu 
+                     (Mount Stromlo and Siding Spring Observatories)
+	    TITLE:   "Australian Planetary Nebula Spectrograph and 
+	              Instrumentation at the South Pole" 
+ 
+ 
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. Chu You-Hua 
+                     (University of Illinois)
+	    TITLE:   "Chandra Observations of Planetary Nebulae" 
+
+From clw@asiaa.sinica.edu.tw Fri Jul 28 16:07 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA25177
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 28 Jul 2000 16:07:10 +0800 (CST)
+Received: from iaa15 (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA07083;
+	Fri, 28 Jul 2000 16:09:26 +0800
+Date: Fri, 28 Jul 2000 16:01:44 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@asiaa.sinica.edu.tw>
+X-Sender: clw@iaa15
+To: TANet <astro@asiaa.sinica.edu.tw>, scimeeting@amiba.asiaa.sinica.edu.tw,
+        cospa@amiba.asiaa.sinica.edu.tw, newsletter@amiba.asiaa.sinica.edu.tw
+cc: Yang Tai Shaw <pshaw@asiaa.sinica.edu.tw>,
+        LI-Shuang Wang <jackie@asiaa.sinica.edu.tw>,
+        Amy Chang <shchang@phys.ntu.edu.tw>
+Subject: AMiBA Mini-workshop on 04/Aug
+In-Reply-To: <Pine.SOL.4.10.10007201938170.17322-100000@iaa15>
+Message-ID: <Pine.SOL.4.10.10007281557450.11071-100000@iaa15>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1415
+Status: O
+
+for updates please check
+http://www.asiaa.sinica.edu.tw/amiba/meeting/miniworkshop2.html
+
+Lin-wen Chen
+---------------------------------------------------------------------
+                              Mini-workshop on
+                             Clusters and beyond
+                                4 August 2000
+                        Phys 4 Room, Physics building
+                     National Taiwan University, Taipei
+
+
+Morning Session    Chair: U.L. Pen
+
+09:00-10:00          Issues on missing baryons                C. P. Ma
+10:00-10:30          Discussion on missing baryons
+
+10:30-10:45          Coffee break
+
+10:45-11:45          Mass function                            J.H. Lee
+11:45-12:00          Discussion on mass function
+
+12:00-14:00          Lunch break
+
+
+Afternoon Session    Chair: T.H. Chiueh
+
+14:00-14:40          Galaxy distribution in superclusters     L.W. Chen
+
+14:40-15:20         Simulation on the dynamics of            T.B. Woo
+                    collisional light dark matter particles
+
+15:20-15:35          Coffee break
+
+                     Simulation on the dynamics of
+15:35-16:05          semi-collisional heavy dark matter       J.M. Wu
+                     particles
+
+16:05-17:00          Discussion: Science with AMiBA
+
+17:00-17:15          Concluding remark                        P.W.Y. Hwang
+                                                              T.H.Chiueh
+
+
+
+
+
+From clw@asiaa.sinica.edu.tw Fri Jul 28 16:12 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA25302
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 28 Jul 2000 16:12:20 +0800 (CST)
+Received: from iaa15.asiaa.sinica.edu.tw (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA07093;
+	Fri, 28 Jul 2000 16:09:48 +0800
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa15.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA22047;
+	Fri, 28 Jul 2000 16:01:51 +0800 (CST)
+Received: from iaa15 (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA07083;
+	Fri, 28 Jul 2000 16:09:26 +0800
+Date: Fri, 28 Jul 2000 16:01:44 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@asiaa.sinica.edu.tw>
+X-Sender: clw@iaa15
+To: TANet <astro@asiaa.sinica.edu.tw>, scimeeting@iaa15.asiaa.sinica.edu.tw,
+        cospa@iaa15.asiaa.sinica.edu.tw, newsletter@iaa15.asiaa.sinica.edu.tw
+cc: Yang Tai Shaw <pshaw@asiaa.sinica.edu.tw>,
+        LI-Shuang Wang <jackie@asiaa.sinica.edu.tw>,
+        Amy Chang <shchang@phys.ntu.edu.tw>
+Subject: AMiBA Mini-workshop on 04/Aug
+In-Reply-To: <Pine.SOL.4.10.10007201938170.17322-100000@iaa15>
+Message-ID: <Pine.SOL.4.10.10007281557450.11071-100000@iaa15>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1415
+Status: O
+
+for updates please check
+http://www.asiaa.sinica.edu.tw/amiba/meeting/miniworkshop2.html
+
+Lin-wen Chen
+---------------------------------------------------------------------
+                              Mini-workshop on
+                             Clusters and beyond
+                                4 August 2000
+                        Phys 4 Room, Physics building
+                     National Taiwan University, Taipei
+
+
+Morning Session    Chair: U.L. Pen
+
+09:00-10:00          Issues on missing baryons                C. P. Ma
+10:00-10:30          Discussion on missing baryons
+
+10:30-10:45          Coffee break
+
+10:45-11:45          Mass function                            J.H. Lee
+11:45-12:00          Discussion on mass function
+
+12:00-14:00          Lunch break
+
+
+Afternoon Session    Chair: T.H. Chiueh
+
+14:00-14:40          Galaxy distribution in superclusters     L.W. Chen
+
+14:40-15:20         Simulation on the dynamics of            T.B. Woo
+                    collisional light dark matter particles
+
+15:20-15:35          Coffee break
+
+                     Simulation on the dynamics of
+15:35-16:05          semi-collisional heavy dark matter       J.M. Wu
+                     particles
+
+16:05-17:00          Discussion: Science with AMiBA
+
+17:00-17:15          Concluding remark                        P.W.Y. Hwang
+                                                              T.H.Chiueh
+
+
+
+
+
+From kyl@asiaa.sinica.edu.tw Sun Jul 30 15:07 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA08971
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 30 Jul 2000 15:06:34 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA14285
+	for <astro@asiaa.sinica.edu.tw>; Sun, 30 Jul 2000 15:08:35 +0800
+Date: Sun, 30 Jul 2000 15:01:23 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Changes to the Cycle 10 HST Proposal Process (fwd)
+Message-ID: <Pine.SOL.4.10.10007301501210.9399-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2909
+Status: O
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 26 Jul 2000 13:25:43 -0400 (EDT)
+From: AutoBot_Message <STScI-Generic@stsci.edu>
+Reply-To: blacker@stsci.edu
+To: kyl@astro.uiuc.edu
+Subject: Changes to the Cycle 10 HST Proposal Process
+
+Dear Colleagues:
+
+We wish to announce two significant changes to the Cycle 10 proposal
+process.
+
+It now appears that servicing mission SM3B will likely occur as
+late as (or later than) November 1, 2001, well into Cycle 10.
+The earliest possible GO observations on the new instruments
+(ACS and NICMOS) would then be in ~March 2002. We can ensure that ACS
+and NICMOS science will still be scheduled as early as possible by 
+using the Cycle 11 review (notifications expected on or before December
+2001). 
+
+Therefore we have decided, in consultation with the HST Project and the
+Chairs of the Users Committee and the STIC, that while WFPC2, STIS, and
+FGS will continue to be available:
+
+   ***** ACS and NICMOS will not be offered in Cycle 10. *****
+
+We estimate that at most 600 orbits would have been available,
+and that science will be better served by having those ACS and
+NICMOS proposals chosen in late 2001 rather than this coming fall.
+GTO observations in the Cycle 10 catalog will be protected against
+duplication even if ACS deployment is delayed until Cycle 11 (see
+section 5.2 of the CP for details).
+
+Another important change  will be the unavailability of the Aft Shroud
+Cooling System (ASCS) during Cycle 10. Hence, 
+
+   ***** there will be no STIS NUV MAMA low dark current campaigns *****
+
+(this supersedes Section 4.3.4 of the Call for Proposals).
+
+Based on the presently projected SM3B date, we expect Cycle 10
+to start on July 1, 2001 and to include a full year of observations
+minus the ~2-3 month cost of the servicing mission including
+verification. If the present schedule holds, there may be fewer 
+WFPC2/STIS/FGS opportunities toward the end of Cycle 10, as observations 
+with the new instruments, ACS and NICMOS, ramp up and fewer than a 
+full year of orbits may be allocated (depending on information available 
+at the time of the Cycle 10 TAC in November 2000).
+
+We regret we were unable to announce this in the Call for Proposals
+issued last month but the information was (and is) still evolving.
+ACS and NICMOS proposals will be solicited for Cycle 11, which has
+a nominal deadline in September 2001. Meanwhile, proposers can choose
+the best science without resorting to strategic games regarding
+instrument choice.
+
+We will keep you informed should further significant changes occur
+prior to the proposal deadline.
+
+Best wishes,
+Steve Beckwith
+Director, STScI
+
+
+
+
+From kyl@asiaa.sinica.edu.tw Mon Jul 31 15:26 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA02808
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 31 Jul 2000 15:25:06 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA17799
+	for <astro@asiaa.sinica.edu.tw>; Mon, 31 Jul 2000 15:26:56 +0800
+Date: Mon, 31 Jul 2000 15:19:55 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Research Fellow/Postdoctoral Positions  (fwd)
+Message-ID: <Pine.SOL.4.10.10007311519220.21022-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3208
+Status: O
+
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 31 Jul 2000 15:31:03 +0900
+From: INOUE Makoto <inoue@nro.nao.ac.jp>
+To: vlbi exploder <vlbi@cv3.cv.nrao.edu>
+Subject: Research Fellow/Postdoctoral Positions 
+
+                    Research Fellow/Postdoctoral Positions
+                      NATIONAL ASTRONOMICAL OBSERVATORY
+                                JAPAN (NAOJ)
+
+Applications are invited for research fellow and/or postdoctoral positions at
+NAOJ under the Center of Excellence Foreign Research Fellows Program of the
+Ministry of Education, Science, Sports and Culture. The term of appointment
+will be from 3 to 12 months in 2001 (April 2001 -- March 2002) with possibility
+of extension. The monthly salary (including tax) will be between 368,000 and
+905,000 Japanese Yen (approx. US$ 3,500 - 8,600)) depending on qualifications
+and place of work. Expenses will be covered  for a round trip economy class
+travel to Japan as well as for a limited number of domestic travels for
+scientific conferences and discussions.
+
+Possible research areas include:
+
+1. Radio Astronomy
+Engineering and software developments of the 45-m telescope, the millimeter
+array, the space VLBI mission (VSOP), the radioheliograph , receivers, and
+the planned Large Millimeter and Submillimeter Array (LMSA) under negotiation
+to make a large world array with the Atacama Large Millimeter Array (ALMA) in
+northern Chile, and Observational study on interstellar matter, star formation,
+galaxies, AGN, cosmology, and solar physics using the facilities. The 
+successful
+candidate will spend 50% of his/her time on the developments and operation
+of the facilities and the rest for his/her independent personal research (http:
+//www.nro.nao.ac.jp/index-e.html).
+
+Contact person : Professor NAKAI Naomasa, Nobeyama Radio Observatory,
+Minamimaki, Minamisaku, Nagano 384-1305, JAPAN (e-mail: nakai@nro.nao.ac.jp)
+
+
+2. VLBI and Planetary Science
+Scientific perspectives and technology/software developments for
+1)  Project VERA(VLBI Exploration of Radio Astrometry) which aims at 10 micro-
+arcsecond level phase-referenced VLBI astrometry for making a three-dimensional
+map of the Milky Way Galaxy and is now under construction of initial three
+stations to be completed in 2001 (http://veraserver.mtk.nao.ac.jp), or
+2)  Project RISE (Research in SElenodesy) aiming at uncovering internal 
+structure
+and history of the Moon in terms of high precision geodetic measurements in
+Japanese Lunar Mission SELENE (SELEnological and Engineering Explorer) to be
+launched in 2004 (http://www.miz.nao.ac.jp/future-e.html#Fplan).
+
+Contact person : Professor SASAO Tetsuo, National Astronomical Observatory,
+2-21-1 Osawa, Mitaka, Tokyo, 181-8588 JAPAN (e-mail: sasao@miz.nao.ac.jp)
+
+Applicants must have a PhD or eqivalent. A curriculum vita, a list of
+publications and a discussion on research plan in NAOJ should be sent by
+September 15, 2000 to the contact persons.
+
+
+From taiji@asiaa.sinica.edu.tw Mon Jul 31 19:52 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id TAA07112
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 31 Jul 2000 19:52:33 +0800 (CST)
+Received: from iaa25 (iaa25 [140.109.177.110])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id TAA19305;
+	Mon, 31 Jul 2000 19:54:06 +0800
+Date: Mon, 31 Jul 2000 19:46:55 +0800 (CST)
+From: Jounghun Lee <taiji@asiaa.sinica.edu.tw>
+X-Sender: taiji@iaa25
+To: Cosmology & Particle Astrophysics Journal Club: ;
+Subject: the 8/3 cospa meeting
+Message-ID: <Pine.SOL.4.10.10007311946120.17084-100000@iaa25>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from QUOTED-PRINTABLE to 8bit by iaa17.asiaa.sinica.edu.tw id TAA07112
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 1097
+Status: O
+
+
+
+                 * * * * * * * * * * * * * * * * * * * * * *
+                 *         T A I D A  &  A S I A A         *
+                 *                                         *
+                 *        J O I N T    S E M I N A R       *
+                 * * * * * * * * * * * * * * * * * * * * * * 
+
+ 
+                      COSmology & Particle Astrophysics 
+                           Lunch Box Journal Club 
+
+                     August 3, 2000 (Thursday, 12:30 - 1:30 pm)
+
+            Conference Room, Building 1, National Taiwan University 
+          =========================================================== 
+
+ 
+          SPEAKER: Prof. Kin-Wang Ng (Physics Institute, Academia Sinica)
+                     
+           TITLE: "Interferometric Observations of CMB Polarization"
+
+
+ 
+                     
+
+
+Jounghun Lee 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,                Phone: 886-2-2652-2020 ext 203
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+
+From jlim@iaa11.asiaa.sinica.edu.tw Tue Aug  1 14:27 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA25184
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 1 Aug 2000 14:27:06 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA23699;
+	Tue, 1 Aug 2000 14:28:45 +0800
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id OAA05831;
+	Tue, 1 Aug 2000 14:21:40 +0800 (CST)
+Date: Tue, 1 Aug 2000 14:21:40 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200008010621.OAA05831@iaa11.asiaa.sinica.edu.tw>
+Subject: ASIAA Colloquium
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: U6U6ZLHuHj5bsP+inJHxVA==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 700
+Status: O
+
+
+ 
+ 
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                         2 August 2000 (Wednesday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Prof. Eric Young 
+                     (University of Arizona )
+	    TITLE:   "Searching in the Infrared for Young Stars" 
+ 
+
+
+
+From clw@asiaa.sinica.edu.tw Tue Aug  1 17:35 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA28219
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 1 Aug 2000 17:34:34 +0800 (CST)
+Received: from iaa15 (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA25085;
+	Tue, 1 Aug 2000 17:36:13 +0800
+Date: Tue, 1 Aug 2000 17:29:11 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@asiaa.sinica.edu.tw>
+X-Sender: clw@iaa15
+To: TANet <astro@asiaa.sinica.edu.tw>, scimeeting@amiba.asiaa.sinica.edu.tw,
+        cospa@amiba.asiaa.sinica.edu.tw, newsletter@amiba.asiaa.sinica.edu.tw
+Subject: "cluster & beyond" workshop 03-04 Aug 2000, NTU
+Message-ID: <Pine.SOL.4.10.10008011718150.22679-100000@iaa15>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2154
+Status: O
+
+Dear Colleague,
+
+please note there are 2 extra CosPA talks (by Drs U.L. Pen & C.P. Ma)
+after Dr K.W. Ng's CosPA lunch-box seminar in 03 Aug 2000 afternoon.
+
+the following programme can be also found at
+http://www.asiaa.sinica.edu.tw/amiba/meeting/miniworkshop2.html
+
+cheers,
+
+Lin-wen
+--------------------------------------------------------
+                              Mini-workshop on
+                             Clusters and beyond
+
+                           3 August Thursday 2000
+                     Conference Room, Physics Building 1
+                     National Taiwan University, Taipei
+
+ CosPA Journal Club
+ 12:30-13:30         Interferometric Observations of CMB      K.W. Ng
+                     Polarization
+
+ Afternoon Session   Chair: J.H. Lee
+
+ 14:00-15:00         A primer to use the Moving Mesh Hydro    U.L. Pen
+                     Code
+
+ 15:00-16:00**       Cosmic Structure Formation               C.P. Ma
+                                                 (** tentative schedule)
+
+
+
+                            4 August Friday 2000
+                        Phys 4 Room, Physics Building
+                     National Taiwan University, Taipei
+
+Morning Session      Chair: U.L. Pen
+09:00-10:00          Issues on missing baryons                C. P. Ma
+10:00-10:30          Discussion on missing baryons
+
+10:30-10:45          Coffee break
+
+10:45-11:45          Mass function                            J.H. Lee
+11:45-12:00          Discussion on mass function
+
+12:00-14:00          Lunch break
+
+Afternoon Session    Chair: T.H. Chiueh
+
+14:00-14:40          Galaxy distribution in superclusters     L.W. Chen
+14:40-15:20          Simulation on the dynamics of            T.B. Woo
+                     collisional light dark matter particles
+
+15:20-15:35          Coffee break
+
+                     Simulation on the dynamics of
+15:35-16:05          semi-collisional heavy dark matter       J.M. Wu
+                     particles
+16:05-17:00          Discussion: Science with AMiBA
+
+17:00-17:15          Concluding remark                        P.W.Y. Hwang
+                                                              T.H.Chiueh
+
+
+From clw@asiaa.sinica.edu.tw Tue Aug  1 17:35 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA28267
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 1 Aug 2000 17:35:31 +0800 (CST)
+Received: from iaa15.asiaa.sinica.edu.tw (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA25092;
+	Tue, 1 Aug 2000 17:36:43 +0800
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa15.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA03252;
+	Tue, 1 Aug 2000 17:29:13 +0800 (CST)
+Received: from iaa15 (iaa15 [140.109.177.105])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA25085;
+	Tue, 1 Aug 2000 17:36:13 +0800
+Date: Tue, 1 Aug 2000 17:29:11 +0800 (CST)
+From: "CHEN, Lin-wen" <clw@asiaa.sinica.edu.tw>
+X-Sender: clw@iaa15
+To: TANet <astro@asiaa.sinica.edu.tw>, scimeeting@iaa15.asiaa.sinica.edu.tw,
+        cospa@iaa15.asiaa.sinica.edu.tw, newsletter@iaa15.asiaa.sinica.edu.tw
+Subject: "cluster & beyond" workshop 03-04 Aug 2000, NTU
+Message-ID: <Pine.SOL.4.10.10008011718150.22679-100000@iaa15>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2154
+Status: O
+
+Dear Colleague,
+
+please note there are 2 extra CosPA talks (by Drs U.L. Pen & C.P. Ma)
+after Dr K.W. Ng's CosPA lunch-box seminar in 03 Aug 2000 afternoon.
+
+the following programme can be also found at
+http://www.asiaa.sinica.edu.tw/amiba/meeting/miniworkshop2.html
+
+cheers,
+
+Lin-wen
+--------------------------------------------------------
+                              Mini-workshop on
+                             Clusters and beyond
+
+                           3 August Thursday 2000
+                     Conference Room, Physics Building 1
+                     National Taiwan University, Taipei
+
+ CosPA Journal Club
+ 12:30-13:30         Interferometric Observations of CMB      K.W. Ng
+                     Polarization
+
+ Afternoon Session   Chair: J.H. Lee
+
+ 14:00-15:00         A primer to use the Moving Mesh Hydro    U.L. Pen
+                     Code
+
+ 15:00-16:00**       Cosmic Structure Formation               C.P. Ma
+                                                 (** tentative schedule)
+
+
+
+                            4 August Friday 2000
+                        Phys 4 Room, Physics Building
+                     National Taiwan University, Taipei
+
+Morning Session      Chair: U.L. Pen
+09:00-10:00          Issues on missing baryons                C. P. Ma
+10:00-10:30          Discussion on missing baryons
+
+10:30-10:45          Coffee break
+
+10:45-11:45          Mass function                            J.H. Lee
+11:45-12:00          Discussion on mass function
+
+12:00-14:00          Lunch break
+
+Afternoon Session    Chair: T.H. Chiueh
+
+14:00-14:40          Galaxy distribution in superclusters     L.W. Chen
+14:40-15:20          Simulation on the dynamics of            T.B. Woo
+                     collisional light dark matter particles
+
+15:20-15:35          Coffee break
+
+                     Simulation on the dynamics of
+15:35-16:05          semi-collisional heavy dark matter       J.M. Wu
+                     particles
+16:05-17:00          Discussion: Science with AMiBA
+
+17:00-17:15          Concluding remark                        P.W.Y. Hwang
+                                                              T.H.Chiueh
+
+

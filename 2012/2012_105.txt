@@ -1,0 +1,151 @@
+> Date: Thu, 31 May 2012 23:32:04 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+>        alma-t@asiaa.sinica.edu.tw,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: ALMA Call for Proposals for Cycle 1
+
+
+Dear Potential ALMA users,
+
+Below is the annoucement of the ALMA Call for Proposals for Cycle 1.
+See also:
+
+http://almascience.nao.ac.jp/call-for-proposals
+or
+https://almascience.nrao.edu/call-for-proposals
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+--------------------------------------------------------------------------
+
+  ALMA Call for Proposals for Cycle 1
+
+  The ALMA Director, on behalf of the Joint ALMA Observatory (JAO) and the
+  three partner organizations in East Asia, Europe and North America, is
+  pleased to announce the release of the Early Science Cycle 1 Call for
+  Proposals (CfP). Members of the astronomical community are invited to
+  propose for scientific observations to be scheduled during the period from
+  January to October 2013.
+
+  While the highest priority of the ALMA project continues to be the
+  completion of the full 66-antenna array, Cycle 1 observations provide a
+  significant opportunity for science from this unique world-class facility.
+
+
+  <Capabilities>
+  The ALMA Early Science Cycle 1 capabilities will include:
+  - Thirty-two 12-m antennas in the 12-m Array
+  - 12-m Array configurations with maximum baselines ranging from ~160 m to ~1
+    km
+  - Nine 7-m antennas, and two 12-m antennas for total power (single dish)
+    observations, in the Atacama Compact Array (ACA), for use in combination
+with 12-m Array observations for imaging of extended structures
+  - Receiver bands 3, 6, 7 & 9 (wavelengths of about 3, 1.3, 0.8 and 0.45 mm)
+  - Single field imaging and mosaics of up to 150 pointings
+  - Continuum and spectral line observations
+
+  It is anticipated that 800 hours of 12-m Array time and up to 800 hours of
+  ACA time will be available for Cycle 1 projects.  Complete details are
+  available in the Cycle 1 Proposer┬ Guide.
+
+  <Best efforts>
+  Cycle 1 observations will be conducted on a best effort basis, analogous to
+  Cycle 0, in parallel with the ongoing construction, commissioning and
+  verification of the whole ALMA system. The completion of the array of 66
+  antennas with the full set of scientific capabilities, expected in the
+  second half of 2013, is the highest priority of the Observatory.
+
+  Therefore, the following constraints will apply during Cycle 1:
+
+  -Projects will not be carried over from Cycle 1 to later cycles (even if
+they have not been completed in Cycle 1) and will not establish proprietary
+rights beyond the standard 12-month period.
+  -ALMA staff will conduct quality assurance on ALMA data and provide
+processed data products through the respective ALMA Regional Centers (ARCs).
+However, it cannot be guaranteed that the characterization and quality of the
+data and data reduction will meet the standards expected when ALMA is in full
+scientific operations. Proposers should expect that significant experience in
+radio (in particular, millimeter) interferometry, though not required, will be
+an advantage in working with the data products during ALMA Early Science,
+particularly for projects that include Band 9 or ACA components.
+
+  <Proposal submission>
+  The Science Portal at www.almascience.org is the principal resource for
+  information for scientific users regarding observing with ALMA. All
+  proposals must be prepared and submitted electronically using the ALMA
+  Observing Tool (OT) software. The OT and a LaTeX template, recommended for
+  preparation of the scientific and technical justification, are available
+  for download at the ALMA Science Portal. Registration in the Science Portal
+  is required for submission of ALMA proposals and is available at all times.
+
+  Deadline for proposal submission is 15:00 UT on July 12, 2012
+
+  <Relevant documents>
+  All documents relevant to this CfP are available in the ALMA Science
+  Portal. In particular, proposers are advised to consult the Proposer┬
+  Guide, the Technical Handbook, and the Early Science Primer.
+
+  <How to get help>
+  For specific information not provided in the Science Portal, proposers may
+  submit a ticket to the Helpdesk, or consult the Knowledgebase/FAQ, both
+  linked from the Science Portal. Registration in the ALMA Science Portal is
+  needed for submission of Helpdesk tickets.
+
+  <Access to ALMA data>
+  Data from completed Science Verification projects, designed to test ALMA
+  systems and confirm their performance, is available in the Science Portal,
+  together with detailed information on observations planned within the
+  Science Verification program.
+
+  Data from ALMA observations will be accessible to the community through the
+  Science Portal upon expiration of the standard 12-month proprietary period.
+
+  <Proposal review process>
+  All proposals submitted in response to this CfP will be subject to peer
+  review by a single international committee. Proposals will be assessed on
+  the basis of their overall scientific merit and the potential contribution
+  to the advancement of scientific knowledge, as well as on the extent to
+  which the planned observations demonstrate and exploit the ALMA Cycle 1
+  capabilities. Projects having the potential of delivering scientifically
+  worthwhile results from relatively short observations will be favorably
+  considered.  Science Assessors will be advised to consider Cycle 1
+  proposals for their own merit, independent of Cycle 0 results.
+
+  <Important dates>
+  The key dates for Cycle 1 are given below. ALMA reserves the right to alter
+  the given dates, should it become necessary to do so.
+
+  Date                    Milestone
+  31 May 2012            Release of Cycle 1 Call for
+                          Proposals and related tools and documents
+  31 May 2012 (15:00 UT)  Opening of the Archive for proposal submission
+  12 July 2012 (15:00 UT) Proposal submission deadline
+  November 2012          Announcement of the outcome of the Proposal Review
+Process
+  January 1, 2013        Start of ALMA Cycle 1 Science Observations
+  October 31, 2013        End of ALMA Cycle 1
+
+==============================================================================
+
+> Subject: Re: ALMA Call for Proposals for Cycle 1
+> From: Sakamoto Kazushi <ksakamoto@asiaa.sinica.edu.tw>
+> Date: Fri, 1 Jun 2012 10:12:19 +0800
+> Cc: riaa@asiaa.sinica.edu.tw,
+>    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+
+Dear Potential ALMA users,
+
+SMA TAC members from Taiwan recently posted their advices on SMA proposal writing
+at http://www.asiaa.sinica.edu.tw/%7Esma/ .
+These may be useful for ALMA proposers too.
+
+Best,
+Kazushi Sakamoto
+(SMA-T TAC chair)
+
+============================================================================== 
+

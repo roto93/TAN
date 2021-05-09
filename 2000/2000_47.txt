@@ -1,0 +1,290 @@
+From kyl@asiaa.sinica.edu.tw Wed Feb  9 14:26 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA01362
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 9 Feb 2000 14:26:18 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA07618
+	for <astro@asiaa.sinica.edu.tw>; Wed, 9 Feb 2000 14:28:04 +0800
+Date: Wed, 9 Feb 2000 14:21:44 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: TANet2 NewsBriefs, Vol. 2, Issue 1, 2000 (fwd)
+Message-ID: <Pine.SOL.4.10.10002091421420.23277-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 12956
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 03 Feb 2000 15:07:52 +0800
+From: Fay Sheu <c00yzs00@nchc.gov.tw>
+To: newsbriefs@tanet2.net.tw
+Subject: TANet2 NewsBriefs, Vol. 2, Issue 1, 2000
+
+TANet2 NewsBriefs
+>From the National Center for High-performance Computing
+(http://www.tanet2.net.tw)
+_________________________________________________________
+Hello NewsBriefs Readers;
+
+We bring to you, friends of the vBNS community, whose 
+paths may cross at STAR TAP, this newsletter to tell you 
+the news and events, plans and accomplishments in Taiwan.  
+
+   From the editor (editor@nchc.gov.tw)
+_________________________________________________________
+                         Volume 2, Issue 1, February 2000
+In this issue:
+
+Delegation from NCHC Participated in SC99 Exhibits
+Domestic Backbone of TANet2 Due for An Upgrade
+Twenty-six Institutions now on TANet2
+Use of Native Multicast Gaining Momentum
+NCTS to Provide Video-conferencing and Webcast Services
+Web-Based Database of GAGs-Binding Proteins under 
+  Development
+Correlation between Earthquake and Groundwater Level Studied
+
+_________________________________________________________
+Delegation from NCHC Participated in SC99 Exhibits
+
+   A nine-member delegation, led by Deputy Director 
+Whey-Fone Tsai of the NCHC, was at the SC99 Exhibition in 
+Portland, Oregon during the week of November 13-19, 1999.  
+Close to 70 exhibitors, many from outside the United States, 
+participated in the "research exhibits."  It was a record 
+turnout.  This is the second time that the National Center 
+for High-Performance Computing participated in the SC 
+Exhibits.  Last year, at SC98, the NCHC was initiated into 
+the iGrid.  It is especially fitting for the NCHC to 
+participate in this year's event for the emphasis is on "High 
+Performance Networking and Computing."  A recent mandate 
+charged the NCHC to take on the implementation of the nation's 
+high-performance networking.
+
+   Making use of the ImmersaDesk set up at the exhibit floor, 
+the team presented several projects.  Dr. Fang-pang showed 
+the modeling of patterns generated to simulate wood grains 
+during the manufacturing of "plastic wood."  Made by 
+extrusion, the fake wood is a substitute of the natural product 
+for paneling and molding in the construction industry.  The 
+modeling is based on the Numerical Wind Tunnel, developed at 
+the NCHC. (http://www.nchc.gov.tw/RESEARCH/NWT/research.htm)
+
+   Dr. Shin-jye Liang demonstrated the "Hydrodynamic Model 
+System for the Tamshui River."  As the second largest river 
+in Taiwan, the Tamshui River flows through the Metropolis of 
+the Great Taipei area and has become highly polluted, despite 
+costly attempts to clean it up.  The hydrodynamic model as 
+applied to the Tamshui River simulates flows under tidal 
+forcing, upstream inflows and interactions between fresh 
+water and seawater.  Model predictions are illustrated in a 
+distributed and interactive visualization environment (DIVE). 
+This Internet-based visualization environment uses both VRML 
+and OpenGL to display simulated results along with surrounding 
+terrain in a 3D virtual world.  It also uses CORBA to support 
+distributed communications and collaboration.  His ultimate 
+goal is to create a computational infrastructure for 
+predicting and visualizing flow scenarios, for forecasting 
+natural disaster, and managing ecosystem.  Such a framework
+builds on the integration of the geographic information system 
+(GIS), hydrodynamic and pollutant transport models, and 
+visualization tools as well as virtual reality. 
+(http://140.110.34.5/tamshui/index.htm; http://140.110.34.5/DIVE/)
+
+   Dr. Hsien-Chie Cheng presented his team's work on 
+"crashworthiness simulation" of a new-model car manufactured 
+by Yulong, the domestic motor company.  Profiles of simulated 
+crashes from a 50 kmph frontal impact into a rigid flat wall 
+during a 0.07 seconds span were generated using 
+supercomputers as well as the nonlinear transient FEM code: 
+LSTC-DYNA3D. (http://www.nchc.gov.tw/RESEARCH/solid/Cindex.html)
+
+   Dr. Chang-Huain Hsieh's presentation was on 
+"structure-based drug design model."  Using the design of 
+antagonists for the receptor of the trans-membrane protein, 
+endothelin, as an example, he illustrated the strategies 
+involved. (http://saturn.nchc.gov.tw:9091/mmtool/drug.mpeg)
+
+   Dr. Shih-Hung Chen has developed a simulation environment 
+and analysis tool (SEAT) as an internet-based collaborative 
+environment for the dynamic computation of plasma physics.  
+His system now incorporates a visualization module and 
+computing solvers, making it even more versatile for sharing 
+computing resources.(http://summer.nchc.gov.tw/SEAT)
+
+   Being at the exhibit floor, the team had the good fortune 
+to witness the historic delivery of 2.4 Gbps packet-over-
+SONET transmission.  It is a record speed, surpassing the line 
+rate for HDTV demonstration at Internet2 fall meeting just 
+one month earlier.  Next generation Internet technologies are 
+richly represented at this year's exhibits.  While there, the 
+group had the opportunity to conduct network measurement for 
+TANet2's link to the exhibition center.
+
+_________________________________________________________
+Domestic Backbone of TANet2 Due for An Upgrade
+
+   The TANet2 backbone will be upgraded and in full operation 
+by February 15.  In the new two-star configuration, the line 
+rate connecting the two is 300 Mbps, between NCHC-PoP and 
+MOE-PoP.  Reaching out to other PoPs will be 20 to 30 Mbps 
+each.  This bandwidth is sliced from a 60-90 Mbps allocated 
+for each PoP that is on both TANet2 and TANet.  The latter 
+is the educational network that services universities and 
+colleges.  Its inclusion of K-12 schools during the past year 
+created so much congestion that this new upgrade is but an 
+interim remedy until another T3 replaces the current 
+configuration and supplements the other T3 already in place.  
+Chung-Hwa Telecom, the carrier responsible for the TANet2 
+upgrade, will complete the installation and testing by 
+January 31 while our vendor, Hitron Technology, continues 
+to service the new backbone.  Hitron, which also runs HTnet, 
+is an ISP that won the bid to service TANet2 and mans the 
+Network Operation Center since last May.
+
+_________________________________________________________
+Twenty-six Institutions now on TANet2
+
+   Six more institutions signed on to TANet2, bring the 
+total to twenty six.  The new additions came after a new 
+round of applications were submitted in October.  Members 
+of the TANet2 Policy Committee served as reviewers.  It 
+marked the first time that an institution in the arts, 
+Tainan National College of the Arts, was accepted.  In all, 
+most universities that emphasize research are now on TANet2.  
+It is expected that after the upgrade of the domestic 
+backbone, more institutions will apply.  An announcement of 
+RFP will be issued in March, 2000.
+
+_________________________________________________________
+Use of Native Multicast Gaining Momentum
+
+   It took several months for network engineers at 
+universities to warm up to native multicast, although it was 
+made available since September 3, 1999.  By establishing 
+peering relationship with vBNS border gateway routers with 
+MBGP, TANet2 has gained access to multicast sessions from our 
+peered networks.  As TANet2 PoPs that deployed multicast 
+increases from four to the current eight, and with two other 
+universities joining in, users become more aware of the power 
+of the multicast.  Chief among its many applications is video 
+conferencing.  Many other application are being developed and 
+tested, including web-casting, distance education, or 
+distance learning.  We anticipate the number of institutions 
+adopting this bandwidth conservation service to increase 
+rapidly.  Traffics generated from unicast still outnumber 
+multicast by a very wide margin.
+
+_________________________________________________________
+NCTS to Provide Video-conferencing and Webcast Services
+
+   The National Center for Theoretical Sciences, established 
+under the sponsorship of the National Science Council, Taiwan, 
+is experimenting with the provision of video conferencing and 
+broadcasting over TANet2.  The Center, which is devoted to 
+advancing research in mathematics and theoretical physics, 
+has member scientists spread out throughout the island.  The 
+Center encourages cross-disciplinary and inter-regional 
+cooperation.  It also emphasizes international exchanges and 
+global collaboration.  With programs in a wide-ranging area, 
+scholars affiliated with the Center find it inconvenient to 
+attend the many gatherings.  These include lectures by 
+visiting scientists, both from overseas and from many locales 
+in Taiwan, delivered at conferences, seminars and workshops.  
+Making such sessions available to scientists and students who 
+otherwise cannot attend is a wonderful undertaking.  The Real 
+System will be adopted for the initial development.  When it 
+is made available, the content is expected to encompass Number 
+Theory, Dynamical Systems, Geometric Analysis, Discrete 
+Mathematics, Scientific Computation, High Energy Physics, 
+Condensed Matter Physics, Atomic and Molecular Physics, 
+Mathematical Physics and Biophysics.
+
+_________________________________________________________
+Web-Based Database of GAGs-Binding Proteins under 
+Development
+
+   Glycosaminoglycans (GAGs) is an entity that exerts 
+functions when bound to cellular proteins.  Dr. Chang-Huang 
+Hsieh of the NCHC is constructing a database for scientists 
+working in this field, to be accessed via the Internet through 
+a browser.  A graphical user interface (GUI) is being 
+developed under Java.  It incorporates the popular viewers 
+RasMol and Chime in its design and permits users to access 
+a host of biomolecular databases that the NCHC and others 
+services.  These include GenBank, Protein Data Bank, 
+Structural Classification of Proteins, Protein Information 
+Resources, PROSITE and Swiss-Prot.
+
+   The database has about 40 records presently.  It contains 
+all the textual information concerning the sugar moiety of 
+the GAGs and the structural information of the proteins each 
+GAGs binds to.  Information about chemical structure formula, 
+metabolic pathways, distribution in the body is being 
+collected by means of data-mining process.  Knowledge 
+discovery is a much needed technique that yields useful 
+information for researchers relying on these databases for 
+predicting the protein structure or for designing drugs.
+
+_________________________________________________________
+Correlation between Earthquake and Groundwater Level Studied
+
+   Before the Chi-Chi killer quake hit Taiwan at midnight, 
+September 21, 1999 many observed significant changes in the 
+water level in wells some distance away from the epicenter.  
+These changes took place as early as 24 hours prior to the 
+quake.  The township of Chi-Chi is at the Chelungpu fault.  
+After the quake and aftershocks, there was great displacement 
+owing to ground motions.  The maximum horizontal displacement 
+was 7.1 m whereas the maximum vertical displacement was 4.5 
+m.  Fluctuations in water level collected from about 50 wells 
+were also very great.  The level rose as much as 7 m and fell 
+as much as 11 m.  If these changes reflect a direct correlation, 
+then the magnitude of fluctuations in groundwater level is 
+potentially a good indicator of the severity of an earthquake.  
+It also serves as a good warning signal.  Ms. Chia-Chen Kuo 
+at the NCHC is developing a web-based system that will take 
+in real-time measurements from the wells and render them in 
+virtual reality.  In addition, the same system will be used 
+to treat surface and subsurface data collected for the 
+Chelungpu fault, rendering the data sets in 3D.  The 
+visualization system will be used for education and training 
+for workers in hazard mitigation.
+
+_________________________________________________________
+
+  Dr. Fay Sheu
+  TANet2 Task Group 
+  National Center for High-performance Computing
+_________________________________________________________
+
+If you wish to continue to be notified of announcements,  
+news and events about TANet2, you don't need to do anything.  
+If you wish to be removed from the mailing list, however,  
+please UNSUBSCRIBE as follows:
+
+   Send email to majordomo@tanet2.net.tw, leave the subject 
+   line blank, type UNSUBSCRIBE newsbriefs in the body.
+
+If you fail to unsubscribe, you most likely are using an 
+email address that is different from the one we have.  
+Please write or call us.
+   email to c00yzs00@nchc.gov.tw, or
+   call 03-577-6085 ext. 345.
+
+

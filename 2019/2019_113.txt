@@ -1,0 +1,98 @@
+==============================================================================
+
+In this issue (Jul 15 - 21, 2019)
+
+1. EA ALMA Development Workshop 2019
+2. ASIAA Colloquium/Seminar/Lunchtalk (Jul 22): Meng-Ru Wu (ASIOP)
+                                      (Jul 24): Cheng Li (Tsinghua U, China)
+
+==============================================================================
+
+> Subject: EA ALMA Development Workshop 2019
+> From:  Ming-Jye Wang <mingjye@asiaa.sinica.edu.tw>
+> Date:  2019-07-16 11:40
+
+Dear Yi-Jehng
+
+  I would appreciate you if the following message about the "EA ALMA Development Workshop 2019" can be circulated to TAN? Thank you.
+
+***********************************************
+EA ALMA Development Workshop 2019
+Large Seminar Room, NAOJ, Mitaka
+December 10-11, 2019
+
+https://alma-intweb.mtk.nao.ac.jp/~diono/meetings/EA_ALMA_WS_2019/
+
+***********************************************
+
+The Atacama Large Millimeter/Submillimeter Array (ALMA) is now routinely producing groundbreaking scientific results in almost all fields of astronomy and astrophysics.  In order to maintain ALMA as the most advanced (sub)mm-wave array in the coming decades, all ALMA partners are now striving to realize the goals presented in the ALMA Development Roadmap. The East Asian ALMA has been holding the EA ALMA Development Workshop every year, with the main aim to present the latest technological advancement and exchange ideas which are relevant to the upgrade of ALMA. This annual workshop is intended to become an effective forum for interaction and discussion between the technical and scientific communities, and the input from the community is key in the establishment of the EA ALMA Development Program. Last year, the main focus of the workshop was "wide IF", which is recognized as the highest priority in the ALMA Development Roadmap. This year, we would like to invite talks and di!
+ scussion related to high frequency (bands 8, 9 and 10) observations of ALMA and related hardware and software development.  Apart from this major focus, we will welcome contributions in the fields of antennas, front-ends, back-ends, and software development and related talks in science, science operations and/or commissioning of new capabilities.
+
+Timeline:
+July 5, 2019 First announcement
+September 10, 2019 Start registration
+November 8, 2019 Deadline for registration and abstracts
+December 10-11, 2019 Workshop
+***********************************************
+
+Best regards,
+
+Ming-Jye Wang
+
+Research Fellow,
+Superconducting Device Laboratory,
+Institute of Astronomy and Astrophysics, Academia Sinica
+mingjye@asiaa.sinica.edu.tw
++886-2-23665337
+
+==============================================================================
+
+> Date: Thu, 18 Jul 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Meng-Ru Wu (ASIOP)
+Topic:          Finding the remnants of the Milky Way's last neutron star mergers
+Time:           7/22 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+The discovery of a binary neutron star merger (NSM) through both its gravitational wave and electromagnetic emission has revealed these events to be key sites of r-process nucleosynthesis. However, whether NSMs are truly the dominant sites producing r-process elements to account for the measured abundances in the solar system and in metal-poor stars, and what isotopes do NSMs exactly produce are still undergoing debates. In this talk, I will discuss our recent work which demonstrates that it can be possible to detect the nuclear decay gamma-ray lines from the last ~O(10) NSM remnants in the Milky Way, if the next-generation gamma-ray telescopes can reach a line-sensitivity down to ~ 10^-8 to 10^-6 photons per centimeter square per second. I will also discuss possible implications from such detection to the above debating issues.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Cheng Li (Tsinghua University, Beijing)
+Topic:          Mapping the stars, gas and dust in nearby galaxies
+Time:           7/24 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The cosmic star formation rate density has been declining since z~2-3, suggesting that the cessation of star formation has been the dominating process in galaxy evolution since then. However, it is unclear how the star formation gets quenched inside the galaxies and what physical mechanisms have been driving this process. Current  integral field unit (IFU) surveys such as CALIFA and MaNGA are providing  resolved spectroscopy for large samples of galaxies in the local Universe, allowing the star formation histories across the whole galaxy area to be  studied with high accuracy. In addition, maps of molecular gas are also being obtained by arrays of radio antenna, thus providing additional data for linking the star formation and gas accretion processes in the IFU era. I'll talk about our recent work based on the CALIFA, MaNGA and CARMA-EDGE surveys, particularly focusing on the roles of environmental effect and internal structure in driving galaxy evolution.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
+

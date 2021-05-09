@@ -1,0 +1,42 @@
+> Received: by 10.112.204.34 with HTTP; Sat, 4 Oct 2014 18:05:13 -0700 (PDT)
+> Date: Sun, 5 Oct 2014 09:05:13 +0800
+> Subject: NTHU astronomy colloquium
+> From: Tomo <itlhnis@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Dani Chao <edcamel@gmail.com>
+
+NTHU astronomy colloquium
+Friday - October 17 2014, 2-3pm in R620
+
+Kenneth Wong (ASIAA)
+Discovery of a Strong Lensing Galaxy Embedded in a Cluster at z = 1.62
+
+We identify a strong lensing galaxy in the cluster IRC 0218 that is
+spectroscopically confirmed to be at z=1.62, making it the
+highest-redshift strong lens galaxy known.  The lens is one of the two
+brightest cluster galaxies and lenses a background source galaxy into
+an arc and a counterimage.  With Hubble Space Telescope grism and
+Keck/LRIS spectroscopy, we measure the source redshift to be z=2.26.
+Using HST imaging in ACS/F475W, ACS/F814W, WFC3/F125W, and WFC3/F160W,
+we model the lens mass distribution with an elliptical power-law
+profile and account for the effects of the cluster halo and nearby
+galaxies. The Einstein radius is R_E = 0.38" and the total enclosed
+mass is 1.8x10^11 M_sun.  We estimate that the cluster environment
+contributes ~10% of this total mass.  Assuming a Chabrier IMF, the
+dark matter fraction within R_E is f_DM ~ 0.3, while a Salpeter IMF is
+marginally inconsistent with the enclosed mass (f_DM ~ -0.3).    The
+source has at least one bright compact region offset from the source
+center.  Emission from Lyman alpha and [OIII] are likely to probe
+different regions in the source.  This unique system is one of only a
+handful that allows us to study the mass structure of early-type
+galaxies at z > 1.  Current and future surveys, such as the Hyper
+Suprime-Cam survey, may uncover more of these high-z lens galaxies to
+better understand their physical properties and how they evolve over
+time.
+
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+==============================================================================
+

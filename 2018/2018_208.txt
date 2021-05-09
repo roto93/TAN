@@ -1,0 +1,357 @@
+==============================================================================
+
+In this issue (Dec 16 - 23, 2018)
+
+1. Submillimeter Array (SMA) Call for Large Scale and Standard Proposals
+2. Second announcement: SPICA 2019 conference
+3. ASIAA Colloquium/Seminar/Lunchtalk (Dec 24): Kung-Yi Su (Caltech)
+                            (Dec 26): Li-Yen Hsu (data scientist at Lumiata)
+                            (Dec 26): Huang, Yen-Ru (ASIAA)
+                            (Dec 27): Yue Shen (University of Illinois)
+                            (Dec 27): Xin Liu (University of Illinois)
+4. ALMA Cycle 7 Pre-announcement
+
+==============================================================================
+
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: Fwd: Submillimeter Array (SMA) Call for Large Scale and Standard Proposals
+> To: astro@asiaa.sinica.edu.tw
+> Date: Tue, 18 Dec 2018 17:16:42 +0900
+
+Dear Yi-Jehng,
+
+Here is the new version of the SMA Call for proposals.
+Note that the deadline for the large-scale project has been changed to =
+Feb. 14 (in Taiwan time).
+I would appreciate it if you could circulate the new version to TAN.
+
+Regards,
+Naomi
+
+> =E8=BB=A2=E9=80=81=E3=81=95=E3=82=8C=E3=81=9F=E3=83=A1=E3=83=83=E3=82=BB=
+=E3=83=BC=E3=82=B8:
+>=20
+> =E5=B7=AE=E5=87=BA=E4=BA=BA: Mark Gurwell <mgurwell@cfa.harvard.edu =
+<mailto:mgurwell@cfa.harvard.edu>>
+> =E4=BB=B6=E5=90=8D: Fwd: Submillimeter Array (SMA) Call for Large =
+Scale and Standard Proposals
+> =E6=97=A5=E4=BB=98: 2018=E5=B9=B412=E6=9C=8818=E6=97=A5 6:09:25 JST
+> =E5=AE=9B=E5=85=88: sma-newsletter <sma-newsletter@cfa.harvard.edu =
+<mailto:sma-newsletter@cfa.harvard.edu>>
+>=20
+> Dear Colleagues,
+> The Large Scale Projects program for observations with the =
+Submillimeter Array (SMA) <https://sma1.sma.hawaii.edu/> is now =
+accepting Notices of Intent to propose. Under this program, proposals =
+dedicated to answering major astrophysical questions having significant =
+scientific impact requiring observing times of order 100 to 1,000 hours =
+are solicited. In this communication, we are also pre-announcing the =
+dates for standard observing proposals. These calls are for the 2019A =
+semester with observing period 16 May to 15 November 2019.
+>=20
+> Deadlines for Large Scale Projects:
+>=20
+> Notice of Intent: 10 January 2019
+> Full submission: 13 February (US) and 14 February (Taiwan) 2019
+> Standard Observing Projects:
+>=20
+> Submissions close: 7 March 2019
+> The SMA is a reconfigurable interferometric array of eight 6-meter =
+antennas on Maunakea jointly built and operated by the Smithsonian =
+Astrophysical Observatory and the Academia Sinica Institute of Astronomy =
+and Astrophysics. The array operates in the 230, 345, and 400 GHz bands.
+>=20
+> The SMA has recently completed significant upgrades in observational =
+capability, with more under way. Currently, the SMA observes =
+simultaneously with two orthogonally polarized receivers, one in the 230 =
+GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with =
+full polarimetric observations available using the 230+240 GHz or =
+345+400 GHz combinations).
+>=20
+> The SWARM correlator processes 8 GHz bandwidth for each receiver in =
+each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. =
+This 32 GHz frequency coverage can be continuous where the tuning ranges =
+overlap for the two orthogonally polarized receivers. In short, the SMA =
+now provides flexible, wide band frequency coverage that delivers high =
+continuum sensitivity and excellent spectral line capabilities (at 140 =
+kHz spectral resolution).
+>=20
+> A full track offers continuum sensitivity of 200 or 600 micro-Jy (1 =
+sigma) at 230 or 345 GHz in good weather conditions (precipitable water =
+vapor 2.5 mm and 1.0 mm, respectively). The corresponding line =
+sensitivities at 1 km/s resolution are 35 and 80 mJy. The small antennas =
+allow access to low spatial frequencies in the subcompact configuration, =
+and at the other extreme, the finest angular resolution with the very =
+extended configuration at 345 GHz is ~0.25". The compact and extended =
+configurations complete the range.
+>=20
+> Thus, in some ways, the characteristics and performance of the SMA are =
+both similar and complementary to those of the standalone Atacama =
+Compact Array component of the Atacama Large Millimeter/submillimeter =
+Array. For more information about SMA capabilities, visit the SMA =
+Observer Center website <http://sma1.sma.hawaii.edu/status.html> and =
+explore the set of SMA proposing tools =
+<http://sma1.sma.hawaii.edu/tools.html>. Current and archived SMA =
+Newsletters <https://www.cfa.harvard.edu/sma/Newsletters/> available =
+online provide a sampling of the wide variety of science possible with =
+the SMA.
+>=20
+> The Large Scale Projects program follows a phased development, =
+submission, and review path, with the final selection of successful =
+proposals synchronized with the TAC process for regular proposals. =
+Accordingly, a Notice of Intent =
+<http://sma1.sma.hawaii.edu/legacysubmit.html> is required ahead of full =
+submission.
+>=20
+> A second announcement will be circulated when the standard proposal =
+system opens for submissions, expected on or before February 7 2019. For =
+more details visit the following webpages:=20
+>=20
+> General Proposal Information =
+<http://sma1.sma.hawaii.edu/proposing.html>=20
+> Large Scale Projects <http://sma1.sma.hawaii.edu/call_largescale.html>
+> Notice of Intent <http://sma1.sma.hawaii.edu/legacysubmit.html>
+> Questions or comments regarding the call for Large Scale Projects =
+proposals can be addressed to sma-largescale@cfa.harvard.edu =
+<mailto:sma-largescale@cfa.harvard.edu> and on standard proposals to =
+sma-proposal@cfa.harvard.edu <mailto:sma-proposal@cfa.harvard.edu>.
+>=20
+> Sincerely,
+>=20
+> Mark Gurwell
+> Incoming SMA TAC chair
+>=20
+>=20
+>=20
+> --=20
+> You received this message because you are subscribed to the Google =
+Groups "sma-newsletter" group.
+> To unsubscribe from this group and stop receiving emails from it, send =
+an email to sma-newsletter+unsubscribe@cfa.harvard.edu =
+<mailto:sma-newsletter+unsubscribe@cfa.harvard.edu>.
+
+==============================================================================
+
+> Subject: Re: Second announcement: SPICA 2019 conference
+> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
+> Date: Wed, 19 Dec 2018 11:56:58 +0800
+> To: riaa@asiaa.sinica.edu.tw, spica-taiwan@asiaa.sinica.edu.tw,
+>         Network Taiwan Astronomy <astro@asiaa.sinica.edu.tw>
+
+Dear all,
+
+The deadline to submit abstracts is extended to December 24.
+
+Youichi
+
+2018/11/22 19:54ã€ Youichi Ohyama <ohyama@asiaa.sinica.edu.tw> ã ®ãƒ¡ãƒ¼ãƒ«ï¼š
+
+> Dear colleagues,
+> 
+> Here is a reminder. Deadline for abstracts is in about a week.
+> 
+> Youichi
+> 
+>> Exploring the Infrared Universe: The Promise of SPICA
+>> Crete, Greece
+>> 20-23 May 2019
+>> http://www.spica2019.org/
+>> Deadline for abstracts: 2018 December 1
+>> 
+>> 
+>> We now invite the community to submit abstracts for contributed talks and posters for the conference "Exploring the Infrared Universe: The Promise of SPICA". We welcome contributions with clear connections to SPICA, and are very interested in contributions that can help to finalize the design of SPICA,  and to strengthen or augment the SPICA science case.
+>> 
+>> 
+>> Science rationale:
+>> 
+>> The infrared wavelength range is key to understand the origin and evolution of galaxies, stars and planetary systems, which are obscured by dust during a large part of their life cycles. With a large cold mirror and a sensitive suite of instruments, SPICA, recently selected as a candidate for ESAâ€™s Cosmic Visions program, stands poised to revolutionize these fields by providing ultra-deep spectroscopy in the 12-230 Âµm range, as well as imaging (17-37 Âµm and 100-350 Âµm) and polarimetry (100-350 Âµm). With launch planned for 2030, SPICA will provide a huge leap in capabilities over previous infrared space missions, and complement current and upcoming facilities, filling the spectral gap between JWST and ALMA. We would like to invite the international astronomical community to participate in the conference, Exploring the Infrared Universe: The Promise of SPICA, which will take place on the island of Crete on 20-23 May 2019.  At this conference, participants will learn a!
+ bout the capabilities and current design of SPICA, which includes a significant Guest Observer program, while discussing the exciting scientific promise of the mission. Up to date information about the SPICA mission and its instruments can be found at http://www.spica-mission.org, in addition to links to a set of whitepapers recently published in the journal PASA, that focus on some of the science enabled by SPICA.
+>> 
+>> 
+>> Topics to be addressed:
+>> 
+>> -The rise of metals and dust across cosmic time
+>> -Coevolution of galactic star formation and black hole accretion
+>> -Star formation and the baryon cycle in galaxies
+>> -Magnetic fields and turbulence in star formation
+>> -Protoplanetary disks and the formation of habitable planets
+>> -Debris disks, planetary systems, and the Solar system
+>> 
+>> 
+>> Confirmed invited speakers:
+>> 
+>> Susanne Aalto                                        Yuri Aikawa                          FranÃ§oise Combes
+>> Bill Dent                                                    Edith Falgarone                  Davide Fedele
+>> Andrea Ferrara                                    Javier Goicoechea             Masateru Ishiguro
+>> Patrick Koch                                          Leon Koopmans                 Ilse de Looze
+>> Roberto Maiolino                               Margaret Meixner             Thomas MÃ¼ller
+>> Tohru Nagao                                          Klaus Pontoppidan          Alexandra Pope
+>> Peter Roelfsema
+>> 
+>> Scientific organizing committee:
+>> 
+>> Lee Armus                                               Martin Giard                        Sue Madden
+>> Marc Audard                                          Matt Griffin                           Mikako Matsuura
+>> Vassilis Charmandaris                    Doug Johnstone                  Stefanie Milam
+>> Carlotta Gruppioni                            Inga Kamp                              Paco Najarro
+>> Yasuo Doi                                                 Hidehiro Kaneda               Takashi Onaka
+>> Eiichi Egami                                            Ciska Kemper                      Luigi Spinoglio
+>> David Elbaz                                             Kotaro Kohno                     Floris van der Tak (chair)
+>> Jan Tauber                              
+>> 
+>> Local organizing committee:
+>> 
+>> Margaret Balothiari                          Vassilis Charmandaris (chair)
+>> Evangelia Ntormousi                        Raphael Skalidis
+>> Kostas Tassis
+>> 
+>> <Attached Message Part.txt>
+> 
+
+==============================================================================
+
+> Date: Thu, 20 Dec 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Kung-Yi Su (Caltech)
+Topic:          Suppressing cooling flows in massive galaxies with cosmic ray injection and turbulent stirring
+Time:           12/24 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+The quenching "maintenance" and related "cooling flow" problems are important in galaxies from Milky Way mass through clusters. We investigate this in halos with masses ~1e12-1e14 solar mass, using non-cosmological high-resolution hydrodynamic simulations with the FIRE-2 (Feedback In Realistic Environments) stellar feedback model. We first focus on physics present without AGN, and show that various proposed "non-AGN" solution mechanisms in the literature, including Type Ia supernovae, shocked AGB winds, other forms of stellar feedback (e.g. cosmic rays from supernovae), magnetic fields, Spitzer-Braginskii conduction, or "morphological quenching" do not halt or substantially reduce cooling flows nor maintain "quenched" galaxies in this mass range.  This all supports the idea that additional physics, e.g., AGN feedback, must be important in massive galaxies.
+We then test various AGN feedback toy models with different forms of energy input and ranges of coupling, exploring what scenario can possibly quench galaxy and suppress the cooling flows without resulting in halo properties that contradict  observations. The test scenarios include momentum injection, turbulent stirring, thermal heating, and cosmic ray injection. We found that turbulent stirring confined within 100 kpc  and cosmic ray injection can both maintain a stable, low-SFR halo for extended periods of time, because they provide non-thermal pressure form which can stably lower the core density and cooling rate. This can be much more efficient  than heating up the gas thermally.  We conclude that the enhancements of turbulence and cosmic ray energy are very important aspects of AGN feedback, and can be the dominant processes that quench the massive ellipticals.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Dr. Li-Yen Hsu (data scientist at Lumiata)
+Topic:          My Experience Going from Academia to Data Science
+Time:           12/26 (Wednesday) 14:20 - 15:20
+Place:           R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Huang, Yen-Ru (ASIAA)
+Topic:          1.5 THz Receiver Cartridge Based on HEB Mixers
+Time:           12/26 (Wednesday) 12:15 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Yue Shen (University of Illinois)
+Topic:          Extreme Variability Quasars
+Time:           12/27 (Thursday) 14:20 - 14:50
+Place:           R1203
+Abstract:
+Recent imaging and spectroscopic surveys have greatly increased the
+inventory of an elusive class of persistent variables, extreme
+variability quasars (EVQs), where the quasar can vary by more than a
+factor of few in flux over multi-year timescales, much more variable
+than the normal quasar population. In some extreme cases, the quasar
+almost entirely shuts off, leading to an apparent "type transition" from
+a type 1 (broad-line) quasar to a typical type 2 (narrow-line) quasar. I
+will briefly review this topic, and provide arguments that attribute the
+dramatic flux changes to intrinsic accretion rate changes. However, it
+remains a challenge to understand this EVQ phenomenon in the standard
+theory of accretion disks.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Xin Liu (University of Illinois)
+Topic:          Finding binary supermassive black holes in the variable electromagnetic sky
+Time:           12/27 (Thursday) 14:50 - 15:20
+Place:           R1203
+Abstract:
+Binary supermassive black holes are expected to be common from galaxy mergers. Their final coalescence is believed to be the loudest gravitational wave siren in the universe, yet no confirmed binary is known to be close enough so that it would efficiently emit gravitational waves to merge within the age of the universe. Over the past few years, systematic searches using synoptic surveys based on active galactic nucleus variability have started to yield a sample of intriguing candidates. I will discuss the results from these searches and highlight our recent discovery of potentially the first case of a candidate from circumbinary accretion disk variability from the Dark Energy Survey.
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: ALMA Cycle 7 Pre-announcement
+> Date: Thu, 20 Dec 2018 14:56:05 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear all,
+
+        The ALMA Cycle 7 Pre-announcement has been released. 
+
+        The Joint ALMA Observatory (JAO) will start the next cycle of observations (Cycle 7) in October 2019. A Call for Proposals (CfP) with detailed information on Cycle 7 will be issued in March 2019, with a deadline for proposal submission in April 2019. This pre-announcement highlights aspects of the Cycle 7 proposal Call that are needed to plan proposals.
+
+        The key dates for Cycle 7 are given below:
+
+                19 December 2018                        Cycle 7 pre-announcement
+
+                19 March 2019 (15:00 UT)                Release of the ALMA Cycle 7 Call for Proposals and Observing Tool, and opening of archive for proposal submission
+
+                17 April 2019 (15:00 UT)                Proposal submission deadline
+
+                End of July 2019                        Result of the proposal review sent to proposers
+
+                5 September 2019                        Deadline for phase 2 submission by proposers
+
+                October 2019                            Start of Cycle 7 observations
+
+                September 2020                          End of Cycle 7 observations
+
+
+        New in Cycle 7  â€” In Cycle 7, the following technical capabilities will be available for the first time:
+
+                -       Observations in Band 7 in configurations C43-9 and C43-10.
+
+                -       Solar observations in Band 7 in configurations C43-1 and C43-2.
+
+                -       Solar observations in one additional configuration (C43-4) in Band 3.
+
+                -       Improved sensitivity limit for full spectral resolution linear polarization observations (see below). 
+
+                In addition, spectral scans will become a standard mode. Observations in Band 7 at baselines longer than 5 km will become a standard mode as long as there is expected to be a suitable phase calibrator within 5 degrees of the science target (see below).
+
+                Finally, the data rate limitation from previous cycles will be significantly relaxed so that PIs will be able, for example, to set up high spectral resolution windows in long baseline configurations that were previously hampered due to high data rates.
+
+
+        Please also note that in Cycle 7, ALMA will offer a stand-alone ACA Supplemental Call for Proposals. It is anticipated that the Supplemental Call will be issued on 3 September 2019 with a proposal deadline on 1 October 2019. The Supplemental Call will maximize the scientific output of the ACA by allowing more timely science to be proposed since the Supplemental Call will follow the Main Call by five months. A minimum of 750 h of observing time on the ACA will be allocated through the Supplemental Call for observations between January 2020 and September 2020. Proposals submitted to the Supplemental Call will be peer reviewed through a distributed system, in which the PI of each submitted proposal, or a designated reviewer selected from among the co-Is of the proposal, will be responsible for reviewing ten proposals submitted in the same call. The Science Portal includes a more detailed description of the Supplemental Call and the distributed peer review process, including an!
+ swers to frequently asked questions, and up-to-date information about the implementation of the process in the Cycle 7 Supplemental Call.
+
+
+        For more information, please see https://almascience.nao.ac.jp/news/alma-cycle-7-pre-announcement
+
+best,
+Yu-Nung
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

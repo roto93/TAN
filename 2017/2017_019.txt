@@ -1,0 +1,46 @@
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Announcement: ALMA Users Workshop 2017 for Cycle 5 Proposal Call
+> Date: Wed, 8 Feb 2017 15:12:36 +0800
+> Cc: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear potential ALMA users,
+
+ALMA will issue its Cycle 5 Proposal Call on March 21, 2017. In response =
+to that, the ALMA Regional Center (Taiwan-ARC) of ASIAA and the =
+University Consortium of ALMA-Taiwan (UCAT) will hold one day ALMA Users =
+Workshop on March 25 (Saturday), 2017. Below is the announcement:
+
+ALMA Users Workshop 2017
+Time: March 25, 2017
+Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+URL: http://events.asiaa.sinica.edu.tw/workshop/20170325/ =
+<http://events.asiaa.sinica.edu.tw/workshop/20170325/>
+Registration Deadline: March 17, 2017.
+
+The ALMA Cycle 5 Users Workshop is designed for preparing ALMA Cycle 5 =
+proposals. It is intended for graduate students, postdocs, faculty =
+members and people who are interested in using ALMA.=20
+
+The program of the ALMA Users Workshop includes:
+
+1. ALMA Cycle 5 capability
+2. Suggestions of ALMA proposal preparation
+3. ALMA science portal
+4. Observing Tool (OT)
+5. CASA image simulation
+
+Please install the latest version of CASA and OT BEFORE the workshop. =
+Feel free to ask ARC members for help if there is any difficulty during =
+the installation.
+
+Furthermore, as previous cycles, proposal mock review will be offered =
+and will be announced separately.
+
+Best,
+Yu-Nung Su
+On behalf of Taiwan ARC node=
+
+==============================================================================

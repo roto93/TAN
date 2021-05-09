@@ -1,0 +1,120 @@
+> Date: Sat, 04 Feb 2012 15:05:20 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Cc: kinoshita@astro.ncu.edu.tw, jasonwu@ncu.edu.tw, chyuan@astro.ncu.edu.tw
+> Subject: NCUcam-1 training observation
+> From: KINOSHITA Daisuke <muhsia.dafu@gmail.com>
+
+Please post following announcement on NCUcam-1 training course to TAN
+network.
+
+thank you,
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+=-----------------------------------------------------------------------------
+
+  *** Training Course on NCUcam-1 Operation and Data Reduction ***
+
+This is an announcement for the training course on NCUcam-1 operation
+and data reduction. NCUcam-1 is a new CCD imager that Institute of
+Astronomy at National Central University has developed. NCUcam-1 is
+equipeed with a thick fully depleted CCD and offers a superb
+sensitivity at longer wavelength. It is now open for the astronomical
+community in Taiwan as one of open-use instruments for Lulin One-meter
+Telescope. The main purpose of the training course arranged this time
+is to provide an opportunity for potential users actually to operate
+the imager and obtain some data to deal with. For those who is
+planning an observation using NCUcam-1 is highly encouraged to join
+this program.
+
+The training course consists of 3 parts: (1) 2-hr lecture at NCU main
+campus, (2) training observation at Lulin Observatory, and (3)
+hands-on lecture on data reduction at Tongpu. Participants are
+expected to join all the 3 parts of this program.
+
+Schedule:
+
+  20/Feb/2012:    deadline of application submission
+  25/Feb/2012:    announcement of participants selection
+  02/Mar/2012:    2-hr lecture at NCU
+  10-12/Mar/2012: 2-night observation at Lulin
+  12-13/Mar/2012: hands-on lecture on data reduction
+
+The lecture at NCU provides the basic concept and design of
+NCUcam-1. After the lecture, participants form a group and start to
+plan the observation. The observing time of Lulin One-meter Telescope
+on 10 and 11 March 2012 is secured for this program. Participants
+carry out the observations of photometric standard stars and a few
+targets of their research topics. Calibration frames are obtained as
+well. After the observation, participants will reduced the data at the
+hands-on lecture. Basic CCD data reduction, astrometric calibration,
+and simple aperture photometry are planned for this hands-on lecture.
+
+For more information on NCUcam-1, please check following presentation
+slide which was used for the Annual Meeting of Physics Society of
+Taiwan in January 2012.
+
+  http://s3b.astro.ncu.edu.tw/nc1/ncucam1_phys2012.pdf
+
+For those who is willing to participate the this program, please fill
+in the form below and submit it to <ncucam1@s3b.astro.ncu.edu.tw> by
+23:59 on 20 February 2012.
+
+------------ Application Form for NCUcam-1 Training Observation ------------
+
+Name: 
+
+Affiliation:
+
+E-mail: 
+
+I am a(n) (1) undergraduate student, (2) graduate student, 
+          (3) postdoc, (4) faculty, (5) technician / engineer,
+          (6) others
+
+I will join 2-hr lecture at NCU on 02/Mar:    Yes    No
+
+I will join training observation at Lulin:    Yes    No
+
+I will join data reduction hands-on lecture:  Yes    No
+
+Brief description of your research topic:
+
+
+
+
+Urgency of using NCUcam-1 for your research:
+
+
+
+
+----------------------------------------------------------------------------
+
+Note:
+
+- Due to the limited lodging space at Lulin Observatory, the number
+  of participants is limited to 10 at the maximum.
+- Participants need to find the financial support by themselves for
+  their transportation, accommodation and other expenses for this
+  program.
+- Participants need to arrange their own transportation to/from Lulin
+  Observatory. Participants also need to arrange their own
+  accommodation at Tongpu for joining the hands-on lecture.
+- Participants are expected to bring their own laptop computer with
+  IRAF/SAOimage DS9/WCSTools/Source extractor installed.
+- For the inquiry on the NCUcam-1 training course, please send a
+  message to <ncucam1@s3b.astro.ncu.edu.tw>.
+
+Organizers:
+
+Kinoshita Daisuke
+Wu Ching-Huang
+Chen Tse-Chuan
+
+==============================================================================
+

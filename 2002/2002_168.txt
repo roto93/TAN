@@ -1,0 +1,50 @@
+From chou@phux1.phys.nthu.edu.tw Thu Oct  3 16:32 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA08387
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 3 Oct 2002 16:32:24 +0800 (CST)
+Received: from thccx9.oz.nthu.edu.tw (u-mail.HCRC.edu.tw [163.28.65.2])
+	by asiaa.sinica.edu.tw (8.11.6/8.11.6) with ESMTP id g938V1k08098
+	for <astro@asiaa.sinica.edu.tw>; Thu, 3 Oct 2002 16:31:01 +0800
+Received: from thccv11.oz.nthu.edu.tw (thccv11.oz.nthu.edu.tw [140.114.63.211])
+	by thccx9.oz.nthu.edu.tw (Postfix) with ESMTP id 7B7D59F985
+	for <astro@asiaa.sinica.edu.tw>; Thu,  3 Oct 2002 16:31:01 +0800 (CST)
+Received: from phux2.phys.nthu.edu.tw (phux2.phys.nthu.edu.tw [140.114.80.6])
+	by thccv11.oz.nthu.edu.tw (Postfix) with ESMTP id 57FCD39E44
+	for <astro@asiaa.sinica.edu.tw>; Thu,  3 Oct 2002 16:31:01 +0800 (CST)
+Received: (from root@localhost)
+	by phux2.phys.nthu.edu.tw (8.12.1/8.12.1) id g938UkDX013499
+	for astro@asiaa.sinica.edu.tw; Thu, 3 Oct 2002 16:30:46 +0800 (CST)
+Received: from phux1.phys.nthu.edu.tw (phux1.phys.nthu.edu.tw [140.114.80.5])
+	by phux2.phys.nthu.edu.tw (8.12.1/8.12.1av) with ESMTP id g938UkBS013491
+	for <astro@asiaa.sinica.edu.tw>; Thu, 3 Oct 2002 16:30:46 +0800 (CST)
+Received: (from chou@localhost)
+	by phux1.phys.nthu.edu.tw (8.11.6/8.11.6) id g938U6K40536
+	for astro@asiaa.sinica.edu.tw; Thu, 3 Oct 2002 16:30:06 +0800 (CST)
+	(envelope-from chou)
+Date: Thu, 3 Oct 2002 16:30:06 +0800 (CST)
+From: Dean-Yi Chou <chou@phys.nthu.edu.tw>
+Message-Id: <200210030830.g938U6K40536@phux1.phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+X-Virus-Scanned: by AMaViS perl-10
+Content-Type: text
+Content-Length: 697
+Status: RO
+
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title:   An Overview on Recent Cosmic Ray Research
+
+Speaker:  Chung-Ming Ko 
+         Institute of Astronomy, National Central University, Taiwan
+
+Date:    4 October, 2002
+Time:    12:10
+Place:   Room 620,  Physics Building, NTHU
+        
+***************************************************************************
+

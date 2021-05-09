@@ -1,0 +1,37 @@
+> Date: Thu, 3 Aug 2017 01:24:32 +0000
+> From: <cwl@kasi.re.kr>
+> To: "k.tatematsu@nao.ac.jp" <k.tatematsu@nao.ac.jp>, "topscope@googlegroups.com" <topscope@googlegroups.com>
+> Subject: : Call for Proposals:TRAO 14m telescope
+
+Dear Topscope people, 
+I also like to infofrm you of our notice for TRAO proposal call. 
+I hope that many of you are interested in using TRAO telescope. 
+
+Best wishes, 
+
+Chang Won Lee 
+
+------------------------------------------------------------------------------- 
+TRAO Call for proposals (2017~2018 term)  
+
+We would like to call for proposals using TRAO (Taeduk Radio Astronomy Observatory) 14m telescope for the term of 2017 autumn - 2018 spring.  Recently we successfully installed a multi-beam receiver system, SEQUOIA-TRAO, and renovated several parts of the telescope system.  The new receiver system is equipped with high-performing 16-pixel MMIC preamplifiers in a 4x4 array, operating within 85~115GHz frequency range.  System temperature ranges from 170K(86~110GHz) to 400K(115GHz; 12CO). As the optical system provides 2 sidebands, two different lines maximum 15 GHz apart can be observed simultaneously. OTF(On-The-Fly) mapping mode is the main observing mode, and a simple position switching mode is also available. OTF test observation shows that it takes 27min for 6’x6’ region, and 37min for 10’x10’.  You may decide a grid size and convolution parameters after observation as you want. Pointing accuracy is about 6 acrsec. The backend system(FT spectrometer) provide the 4096x!
+2 channel with fine velocity resolution of better than 0.05 km/sec (15kHz) per channel, and its effective spectra bandwidth is about 60MHz.  It is strongly encouraged to have an internal collaborator(s) of KASI (Korea Astronomy and Space Science) for scientists who did not have an observing experience at TRAO. The upper limit of telescope time is suggested as 100 hours per proposal. We TRAO are equipped with two bedrooms for outside observers and kitchen facilities for cooking.  Deadline for proposal submission is the end of August 2017(by midnight KST).  There are three Key Science Programs (KSP) running for three years, abstracts of which are all accessible at the TRAO home page.  Proposals which are not overlapped with KSPs are encouraged. Please refer the TRAO homepage for KSPs and other information; 
+http://radio.kasi.re.kr/trao/main_trao.php. 
+
+Here we provide some instruction for the format of proposal (please follow the format very strictly) 
+1.      About 100 hours of telescope time per proposal. (There will be some flexibility of telescope time allocation depending on the weather and system status, and number of proposals) 
+2.      Proposal Format (please submit your proposals in pdf form) 
+- We recommend to use MSWords.  Or alternatively, we you may use other word processing tools 
+- Strictly 4 pages maximum except coversheet (including figures, tables etc. – no appendix) in English 
+- fontsize 9,  line space-regular (1pt) 
+- Science Justification/ and or Science Goal 
+- Observing Strategy(Technical Justification) 
+- References 
+
+-- 
+You received this message because you are subscribed to the Google Groups "TOPSCOPE" group. 
+To unsubscribe from this group and stop receiving emails from it, send an email to topscope+unsubscribe@googlegroups.com. 
+To view this discussion on the web visit https://groups.google.com/d/msgid/topscope/7CBC0F76FD356B42B550F732736E23272BEAD190%40MAIL-2ND.kasi.re.kr. 
+For more options, visit https://groups.google.com/d/optout. 
+
+==============================================================================

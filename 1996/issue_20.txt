@@ -1,0 +1,99 @@
+From JLEE@astro.yale.edu Wed Aug 14 01:34 CST 1996
+Return-Path: <JLEE@astro.yale.edu>
+Received: from astro.yale.edu (halo.astro.yale.edu) by biaa17.biaa.sinica.edu.tw (5.0/SMI-SVR4)
+	id AA02060; Wed, 14 Aug 1996 01:33:46 --800
+Received: from astro.yale.edu by astro.yale.edu (PMDF #12135) id
+ <01I8896CP7XWB4STYG@astro.yale.edu>; Tue, 13 Aug 1996 13:35 EST
+Date: Tue, 13 Aug 1996 13:35 EST
+From: JLEE@astro.yale.edu
+Subject: Stellar distance catalogue available
+To: astro@biaa17.biaa.sinica.edu.tw
+Message-Id: <01I8896CP7XWB4STYG@astro.yale.edu>
+X-Vms-To: IN%"astro@biaa17.biaa.sinica.edu.tw"
+Content-Type: text
+Content-Length: 3701
+Status: RO
+
+The General Catalogue of Trigonometric Parallaxes, Fourth Edition, 1995.  
+	W. F. van Altena, J. T. Lee and E. D. Hoffleit, 
+		Yale University Observatory
+
+Cost: $75.00 + $5.00 Domestic S&H or $7.85 Foreign S&H for the two-volume set.
+
+	The Yale University Observatory announces the publication of a
+completely revised and enlarged two-volume edition of the General Catalogue
+of Trigonometric Stellar Parallaxes containing 15,994 parallaxes for 8,112
+stars published before the end of 1995.  In this Fourth Edition, 1,722
+(27%) new stars have been added to those contained in the previous edition
+by Jenkins (1963).  The mode of the parallax accuracy for the newly added
+stars (0.004" s.e.) is considerably better than in the previous editions
+(about 0.016"). Approximately half of the newly added stars are fainter
+than the Hipparcos Astrometric Satellite's magnitude limit of 13.0. 
+
+	For each star we list a reference to the source of publication of
+the individual parallax, the equatorial coordinates in the system of the
+FK4 for 1900 and the secular variation for 100 years to aid in quickly
+transferring from 1900 to 2000. Transit tables are provided to assist the
+user in locating stars with coordinates at the equinox of 1950 or 2000. The
+1900 equinox has been maintained to avoid assigning yet another star number
+and avoid potential errors, since the 1900 based numbers have been used in
+the Notes and elsewhere in the Catalogue. Auxilliary information is listed,
+including UBV photometry, MK spectral types, cross identifications with
+other catalogues, data on the variability and binary nature of the stars,
+orbits when available, and miscellaneous information to aid in determining
+the reliability of the data. 
+
+	The relative parallaxes are corrected to absolute parallax using
+newly computed corrections that are based on an improved model of the
+Galaxy.  In the Introduction to the Catalogue, an analysis of the resulting
+absolute parallaxes is summarized to determine the accidental and
+systematic errors of the parallaxes. Those results provide a "system" for
+the Catalogue which then yields weighted absolute parallaxes for each star.
+
+	Printed copies of the Two-volume General Catalogue are available
+from the Yale University Observatory, while the computer readable version
+will be available soon from the Astronomical Data Center (ADC) at Goddard
+Space Flight Center and from the Strasbourg Stellar Data Center (CDS) in
+France. A CD ROM disk was issued by the ADC in 1991 which contained a
+preliminary version of the YPC. In this final version we have revised the
+weighting system, and included newly published parallaxes, photometry and
+spectral types for most of the stars. The weighted mean parallaxes of many
+stars will be found to differ from those in the preliminary version due to
+changes in the weighting system and revisions to the default reference star
+magnitudes. 
+
+
+Other publications available from Yale University Observatory:
+
+1.  The Bright Star Catalogue, 4th Revised Edition by the Collaboratic
+        Dorrit Hoffleit with Carlos Jaschek, 1982
+    Cost: $35.00 + $3.00 Domestic S&H or $3.75 Foreign S&H.
+
+2.  The Supplement to the Bright Star Catalogue, by Dorrit Hoffleit
+        Michael Saladyga and Peter Wlasuk, 1983
+    Cost: $12.00 + $2.00 Domestic S&H or $2.50 Foreign S&H.
+
+3.  The Revised Yale Isochrones and Luminosity Functions, by E. M. Green,
+        P. Demarque, and C. R. King, 1987
+    Cost: $30.00 + $4.00 Domestic S&H or $4.50 Foreign S&H.
+
+For ordering information, please contact Kim Monocchi, Librarian, Yale
+University, Department of Astronomy - Tel.: (203)432-3033; Fax: (203)432-5048;
+e-mail: kimm@astro.yale.edu - PREPAYMENT REQUIRED
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+Please pass the words of the existence of TAN to people who you think should
+be included.
+ 
+To send a message to entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:                kuan@sinica.edu.tw
+                              (or +02-789-9818 ext 224, fax +02-788-1106)
+To check archives:              <http://biaa1.biaa.sinica.edu.tw:80/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+----------------------------------------------------------------------------
+ 

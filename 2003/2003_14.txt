@@ -1,0 +1,132 @@
+From astro@.MISSING-HOST-NAME. Thu Feb 27 19:21:34 2003
+Date: Wed, 15 Jan 2003 21:21:51 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue Jan 13 - 15, 2003)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (Jan 13 - 15, 2003):
+
+1. ASIAA Colloquium (Jan 17): Pierre Encrenaz (Pierre and Marie Curie Univ)
+2. ASIAA Colloquium (Jan 17): Sun Kwok (Univ of Calgary)
+3. Special Seminar under NCTS Astroparticle Physics subprogram (Jan 20):
+   Arturo Fernandez (Universidad Autonoma de Puebla)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Tue, 14 Jan 2003 11:29:00 +0800 (CST)
+From: Minho Choi  <minho@asiaa.sinica.edu.tw>
+Message-Id: <200301140329.LAA12238@iaa1.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: asall@joule.phy.ncu.edu.tw, astro@asiaa.sinica.edu.tw, panis@lra.ens.fr,
+        studbud@asiaa.sinica.edu.tw
+Subject: [Colloquium] NTU Phjysics Dept. / ASIAA Joint Colloquium
+
+------------- NTU Phjysics Dept. / ASIAA Joint Colloquium --------------
+Speaker : Pierre Encrenaz (Dept. of Applications of Physics,
+                           Pierre and Marie Curie University)
+Title   : Water and Molecular Oxygen in the Universe
+Time    : Friday 1/17 2:00 pm
+Location: NTU New Physics Building Room 104
+URL     : http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+------------------------------------------------------------------------
+
+Note that the meeting location is different from the usual.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Tue, 14 Jan 2003 11:47:54 +0800 (CST)
+From: Minho Choi  <minho@asiaa.sinica.edu.tw>
+Message-Id: <200301140347.LAA14132@iaa1.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: asall@joule.phy.ncu.edu.tw, astro@asiaa.sinica.edu.tw,
+        kwok@iras.ucalgary.ca, panis@lra.ens.fr, studbud@asiaa.sinica.edu.tw
+Subject: [Colloquium] ASIAA Colloquium
+
+--------------------------- ASIAA Colloquium ---------------------------
+Speaker : Sun Kwok (University of Calgary)
+Title   : The Synthesis of Inorganic and Organic Compounds
+          in the Late Stages of Stellar Evolution
+Time    : Friday 1/17 4:00 pm
+Location: ASIAA Room 716
+URL     : http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+------------------------------------------------------------------------
+
+                                Abstract
+
+Recent observations by the Infrared Space Observatory (ISO) have found
+evidence of rapid synthesis of complex organic molecules in the late
+stages of stellar evolution. The chemical synthesis begins with the
+formation of acetylene, the first building block of benzene, in carbon
+stars. In a following proto-planetary nebulae stage, emission features
+corresponding to stretching and bending modes of aliphatic compounds
+are detected. When these objects evolve to become planetary nebulae,
+aromatic C-H and C-C stretching and bending modes become strong. These
+results show that complex carbonaceous compounds can be produced in a
+circumstellar environment over a period of only a few thousand years.
+
+In this talk, we will summarize the history of astronomical infrared
+spectroscopy in the last 30 years, discuss the formation of solid-state
+inorganic and organic compounds in stars, and speculate on the possible
+implications of these products on the formation of the solar system.
+------------------------------------------------------------------------
+
+Note that the meeting time is different from the usual.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Message-ID: <003101c2bc4d$59556eb0$a391718c@userfjcoquuq4l>
+From: "Athar Husain" <athar@phys.cts.nthu.edu.tw>
+To: "Sieu-Huey Pang" <shpang@phys.cts.nthu.edu.tw>
+Cc: <jyshu@phys.cts.nthu.edu.tw>, <cychang@phys.cts.nthu.edu.tw>,
+        <astro@asiaa.sinica.edu.tw>, <afernand@fismat1.fcfm.buap.mx>
+Subject: Announcement for an  Astroparticle seminar at NCTU
+Date: Wed, 15 Jan 2003 12:19:51 +0800
+
+-----------------------------------------------------------------
+
+Special Seminar under NCTS Astroparticle Physics subprogram
+
+-----------------------------------------------------------------
+
+   Speaker:  Prof. Arturo Fernandez
+
+   Affiliation:  Fac. Ciencias Fisico Matematicas
+                    Universidad Autonoma de Puebla, Mexico
+
+   Title: Instrumentation for cosmic ray experiments at CERN
+
+   Time: Jan. 20 (Monday), 2003, 10:30 am
+
+  Place: NCTS lecture Room, 2nd Floor, Computer Center Building, NCTU
+
+  Abstract:
+ Cosmic ray physics at very high energies has become a very active
+ area in recent years. At the ``knee'' region of the cosmic ray energy
+ spectrum, several experiments (surface detectors and underground
+ experiments) are confronting their results on the composition of primary
+ particles with energies around 10^{15}eV without a complete agreement
+ among each other. With these datas in hand, many theorists are trying to
+ explain some  aspects of these events, such as the galactic or
+ extra-galactic origin of these events, obtaining huge uncertainties mainly
+ due the inadequate knowledge about the characteristics of hadronic
+ interactions above accelerator energies. The dedicated high energy
+ experiments such as L3-LEP (and more recently ALICE) at CERN,
+ using their high precision apparatus may start playing a crucial role
+ in this direction. In this talk, I will  present some recent results about
+ our work in three different cosmic ray experiments at CERN:
+ CORAL (Cosmic ray experiment at LHC),
+ ACORDE (A cosmic ray detector for ALICE) and a Two
+ surface cosmic ray detector array correlated data, at CERN.
+
+
+  -----------
+
+ athar
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

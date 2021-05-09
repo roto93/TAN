@@ -1,0 +1,36 @@
+Date: Sun, 17 Jul 2011 08:00:02 +0800
+To: iaa@asiaa.sinica.edu.tw
+Subject: Colloquium talk this week
+From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Dr. Hsiang-Hsu Wang (ASIAA)
+Topic:		Evidence for Radial Inflow in the Extended HI Disk of M83
+Time:		7/22 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+Abstract:
+Numerical simulations as well as indirect observational evidence suggest that
+typical spiral galaxies are still accreting gas from the cosmic web even at
+present days. However, the corresponding mass flow onto the outer disk and the
+subsequent inward transport of material has not been observed directly. We
+combine interferometric data from the VLA (obtained as part of the THINGS
+survey) as well as single dish data from the 100m Effelsberg telescope to
+trace the distribution of atomic hydrogen (HI) far into the outskirts of the
+nearby spiral galaxy M83. We use these data to search for evidence of gas
+accretion of extragalactic origin onto the HI disk of M83. Using a novel
+Fourier analysis approach we extract detailed information about the gas
+kinematics throughout the HI disk of M83. We find a radial mass flow all the
+way from the extreme outer disk to the inner parts of the galaxy where the gas
+is consumed by star formation. The amount of material that is transported
+inwards is sufficient to form new stars at the observed current rate of
+~ 2.5 Msun/yr, allowing the galaxy to evolve in a quasi steady
+state. For the first time, we can show that gas accretion and large-scale
+radial motions can solve the problem of short gas depletion times in spiral
+galaxies.
+
+==============================================================================
+

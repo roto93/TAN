@@ -1,0 +1,323 @@
+From kyl@asiaa.sinica.edu.tw Wed Jan 26 06:52 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id GAA01689
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 26 Jan 2000 06:51:29 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id GAA24244
+	for <astro@asiaa.sinica.edu.tw>; Wed, 26 Jan 2000 06:40:37 +0800
+Date: Wed, 26 Jan 2000 06:40:37 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: EVN Status Tables (fwd)
+Message-ID: <Pine.LNX.4.10.10001260640350.24185-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 16878
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 25 Jan 2000 18:02:37 +0100 (MET)
+From: Richard Porcas <p222rwp@mpifr-bonn.mpg.de>
+To: vlbi@cv3.cv.nrao.edu
+Subject: EVN Status Tables
+
+
+In case potential EVN Proposers are having difficulties accessing
+the EVN Status Tables (maintained up to the end of 1999 at MPIfR)
+I am exploding them !
+Richard Porcas
+
+========================================================================
+           EVN STATUS TABLES   -   Last update: 24 Jan 2000 (R.Porcas)
+           =================
+
+Please communicate any comments to Richard Porcas:   porcas@mpifr-bonn.mpg.de
+
+  TABLE I       OBSERVATORIES,  TELESCOPES  AND  AVAILABILITY       
+                                                                              
+ ----------------------------------------------------------------------
+ | EVN OBSERVATORIES  |    TELESCOPE    |      AVAILABILITY           |
+ |                    |Code  Diameter(m)| (see also TABLE II )        |
+ |--------------------|-----------------|-----------------------------|
+ |Jodrell Bank (UK)   |Jb-1  Lovell  76 | Wavelengths >= 18 cm        |
+ |                    |Jb-2  Mk2     25 | Wavelengths < 18 cm         |
+ |Cambridge (UK)      |Cm            32 | For EVN+MERLIN only - see(a)|
+ |Westerbork (NL)     |Wb    Array Nx25 | See note (b)                |
+ |Effelsberg (D)      |Eb/Ef        100 |                             |
+ |Medicina (I)        |Mc            32 |                             |
+ |--------------------|-----------------|-----------------------------|
+ |Noto (I)            |Nt            32 |                             |
+ |Onsala (S)          |On-85         25 | Wavelengths >= 5 cm         |
+ |                    |On-60         20 | Wavelengths < 5 cm, + 13 cm |
+ |Sheshan(Shanghai,CH)|Sh            25 |                             |
+ |Nanshan(Urumqi,CH)  |Ur            25 |                             |
+ |Torun (PL)          |Tr            32 |                             |
+ |--------------------|-----------------|-----------------------------|
+ |Simeiz (Ukraine)    |Sm            22 |                             |
+ |Metsaehovi (FI)     |Mh            14 | Wavel. 1.3, 0.7 cm only     |
+ |Yebes (E)           |Yb            14 | Wavel. 13, 3.6, 0.7 cm only |
+ |Robledo (Madrid, E) |Ro-63 DSS-63  70 | Limited;                    |
+ |                    |Ro-65 DSS-65  34 | Limited; 13, 3.6 cm only    |
+ |Wettzell (D)        |Wz            20 | Limited; 13, 3.6 cm only    |
+ ----------------------------------------------------------------------
+
+   OTHER OBSERVATORIES                                                        
+ ----------------------------------------------------------------------
+ |Arecibo (USA)       |Ar           305 | see note (c)                |
+ |Hartebeesthoek (SA) |Hh            26 | see note (d)                |
+ |Kashima (JP)        |Ka            34 | see note (d)                |
+ |Matera (I)          |Mr            20 | see note (d)                |
+ |Ny-Alesund (NO)     |Ny            20 | see note (d)                |
+ ----------------------------------------------------------------------
+
+  (a) Cm occasionally available without MERLIN, but only with exceptional
+      justification to the EVN Program Committee, and at the discretion 
+      of the Director, MERLIN/VLBI National Facilty (UK)
+
+  (b) Default mode of operation for Westerbork uses the full tied array of
+      14 telescopes, although from time to time one or more may be out of
+      operation.  The tied array uses the current 8x8 MHz IF system, so
+      that VSOP-type observing (16 MHz bands) will not be possible in 
+      this mode. It is also possible to use only a single dish, to avoid
+      problems with bandwidth and the narrow fan beam of the tied array.
+      Note: Hour-angle restriction is +- 6 h
+
+  (c) Arecibo may be available for a small amount of time during EVN
+      sessions for proposals which justify a need for its exceptionally
+      high sensitivity. Proposals need only be submitted to the EVN.
+      Note hour-angle limits: Max +- 1h20m (Dec 20) decreasing to
+                                  +- 30m (Dec 0 and ~36)
+
+  (d) These non-EVN telescopes may be requested for VLBI observations  
+      together with the EVN, but their use must be arranged by the
+      Proposers themselves by application to the relevant observatory
+
+
+  TABLE II     ANTENNA+RECEIVER PERFORMANCE  (SEFD = system noise in Jy)
+
+------------------------------------------------------------------------------
+|Wavel'th|  92 |  49 | 30 %| 21 #|  18 |  13*|   6 |   5 | 3.6*| 1.3 |0.7  cm|
+|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|
+|Jb-1 (e)| 132 |  83 |?????|  36=|  44=|     |     |     |     |     |       |
+|Jb-2 (d)|     |     |     | 350=| 320=|     | 320 | 910 |     | 910 |       |
+|Cm   (a)|     |     |     | 220=| 212=|     | 136 |     |     | 720 |       |
+|Wb   (b)| 150 |  90 | 180 |  30=|  30=|  70 |  70 |     | 200 |     |       |
+|Eb/Ef   |     |  70 |  80 |  20=|  19=| 160r|  20 |  50 |  40 | 120 |  600  |
+|Mc      |     |     |     | 390=| 582=| 400 | 296 | 900x| 270 |1090+| 2800L&|
+|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|
+|Nt      | 980s|     |     | 820=| 784=| 770r| 260 |     | 770r|2500 | 3000L&|
+|On-85   |     |     | 900 | 450=| 390=|     | 600 |1500y|     |     |       |
+|On-60   |     |     |     |     |     |1110r|     |     |1630r|1380s| 1310s |
+|Sh      |     |     |     |     |1088L|2232r| 520L|     | 590r|1606 |       |
+|Ur      |3020s|     |(00) |1068=|1068=|1312r| 353L|     | 396r|2950L|       |
+|Tr      |     |     |2000s| 250=| 230=|     | 250 | 300 |     |     |       |
+|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|
+|Sm      |2000s|1600s|     |     |1600s| 800s|3000s|     |1200s|3000s|       |
+|Mh      |     |     |     |     |     |     |     |     |     |2608 | 4500L |
+|Yb      |     |     |     |     |     |3800r|     |     |3300r|     | 4160L |
+|Ro-63   |     |     |     |     |  42L|  16 |     |     |  23 | 100 |       |
+|Ro-65   |     |     |     |     |     | 211 |     |     |  88-|     |       |
+|Wz      |     |     |     |     |     |1250r|     |     | 750r|     |       |
+------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+|Ar      | (00)|  12 |   4 | 3.5 |   4 | 4.5 | 7.3 | 9.5 |     |     |       |
+|Hh      |     |     |     |     | 450 | 380s| 700 |1840s| 940s|     |       |
+------------------------------------------------------------------------------
+ All receivers (rx's) are dual circular polarisation unless otherwise indicated:
+  L  = LHC polarisation only
+  r  = RHC polarisation only
+  s  = only single (circular) polarisation; can be selected by investigator
+  y  = single linear polarisation
+  x  = dual circ. polsn. at 6.0 GHz; LHC only at 6.7 GHz
+
+(*)  All observatories with 13 and 3.6 cm can observe both simultaneously
+(=)  Same receiver box for 21/18 cm. Manual changes needed at On (3h), Nt (1h)
+(a)  Cambridge normally available only during joint EVN/MERLIN sessions
+(d)  Jb-2 normally used at 18 and 21 cm only when Jb-1 not available (but
+      may replace Jb-1 in EVN-MERLIN sessions with prior justification)
+(b)  Tsys values at Westerbork assume 14 telescopes of the tied array
+(e)  No more than 1 source change every 10 minutes using the Lovell antenna
+      (Higher rates up to 12/hour are possible for limited periods, following
+      specific justification, and prior approval by the EVN Program Committee)
+(yy) planned for year 20yy
+(+)  Two 1.3 cm receivers at Medicina (same Tsys) - dual channel at prime 
+      focus and single channel (LCP) at secondary focus mounting.
+(&)  The 0.7 cm receiver is shared between Medicina and Noto.
+(-)  DSS-65 maser rx at 3.6 cm only; FET rx for 13/3.6 cm has Tsys(Jy)=158
+(%)  UHF Band: Eb 800-1300 MHz; Wb 750-1200 MHz; Tr 750-940 or 950-1105 MHz;
+      On 780-920 and 1000-1150 MHz; Ar (1000)-1150-1300 MHz; Jb-1 unknown
+(#)  21cm: Jb-1,Jb-2,Cm 1330-1430 MHz; Wb 1150-1800 MHz; Eb 1290-1800 MHz;
+      Mc 1350-1450 MHz; Nt 1400-1443 MHz; On 1200-1600 MHz; Tr 1400-1800 MHz
+      Ur 1380-1700 MHz; Ar 1150-1730 MHz.
+
+  TABLE III       FREQUENCY (RECEIVER) AGILITY
+
+------------------------------------------------------------------------------
+|SITE|SWITCH|SCHED|      WAVELENGTHS        |          COMMENTS              |
+|    | TIME |CONTR|                         |                                |
+|----|------|-----|-------------------------|--------------------------------|
+|Eb  |  40s | yes |13, 6, 3.6, 2, 1.3, 0.7  |sec. focus / high IF / VLBA-rec |
+|Ef  |  40s | yes |            2, 1.3, 0.7  |single-box rx / low IF / MK4-rec|
+|Wb  |  300s|  no |92,49,30,21,18,13,6,3.6  |prime focus                     |
+|Mc  |  70s |  no |18/21, 13, 3.6, 1.3      |prime focus                     |
+|Mc  | 240s |  no |18/21, 13, 3.6, 1.3<=> 6 |prime <=> secondary focus       |
+|Tr  | 180s |  no |18, 6, 5                 |Manual  IF cabling              |
+|Cm  | 120s |  no |18/21, 6, 1.3            |                                |
+------------------------------------------------------------------------------
+   SCHED CONTR = Automatic change from VLBI schedule, no operator intervention
+          ===>   All other rx changes on the EVN take timescales >= 30 mins
+
+  TABLE IV          EVN RECORDING EQUIPMENT
+                                                                              
+--------------------------------------------------------------------------------
+|TELESCOPE|   RECORD    |NO.|TP|    RECORDING MODES    |NO. NARROW-BAND FILTERS|
+| Code    |  TERMINAL   |BBC|  |    MK-3    |VLBA  MK-4| 125(250e)500(1000e)kHz|
+|---------|-------------|---|--|------------|----------|-----------------------|
+| Jb-1/2  |# MK4        |   |Tt| A  B  C  E |all-  all+|   4   6    6    4     |
+| Cm      |#     VLBA   | 8 |Tt| A* B  C* E |all   (00)|  (f)                  |
+| Wb      |  MK4        |   |Tt| A  B  C  E |all%- all+|   4   7    7    4     |
+| Ef      |$ MK4        |   |Tt| A  B  C  E |all-  all+|   5   6    6    5     |
+| Eb      |$     VLBA   | 8 | t|            |all       |  (f)                  |
+| Mc      |  MK4        |   |Tt| A  B  C  E |all-  all+|  18   6   18    6     |
+|---------|-------------|---|--|------------|----------|-----------------------|
+| Nt      |      VLBA+4 |14 |Tt| A  B  C  E |all   all+|  (f)                  |
+| On-85/60|  MK4        |   |Tt| A  B  C  E |all-  all+|   4   4    4    4     |
+| Sh      |      VLBA   |14 |Tt| A  B  C  E |all   (00)|  (f)                  |
+| Ur      | MK3A        |   |T | A  B  C  E |(00)  (00)|   0   0    0    0     |
+| Tr      |      VLBA+4 | 8 |Tt| A* B  C* E |all   (00)|  (f)                  |
+|---------|-------------|---|--|------------|----------|-----------------------|
+| Sm      | MK3A        |   |T | A  B  C  E |none      |   ?   ?    ?    ?     |
+| Mh      |      VLBA   |14@|Tt| A@ B  C@ E |all   (00)|  (f)                  |
+| Yb (c)  |      VLBA4  |14 |Tt| A  B  C  E |all   all+|  (f)                  |
+| Ro-63/65|  MK4        |   | t| A  B  C  E |all-  all+|   4   0    4    0     |
+| Wz (c)  |  MK4        |   |Tt| A  B  C  E |all   all+|   3   3    3    3     |
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+| Ar      |      VLBA4  | 8 | t|  (00) (00) |(00)  (00)|  (f)                  |
+| Hh      |  MK4        |   | t| A  B  C  E |all-  all+|   2   2    3    3     |
+| Ka      | K3/4        |   |T?| A  B  C  E | ???      |   ?   ?    ?    ?     |
+| Mr      | MK3A        |   |T | A  B  C  E | ???  ??? |   ?   ?    ?    ?     |
+| Ny      |  MK4        |   | t| A  B  C  E |all-  all+|   4   0    4    0     |
+--------------------------------------------------------------------------------
+
+      #  Normally, the MK4 terminal is used for Jb telescopes, and the VLBA
+          terminal for Cm. In special cases, changes in this arrangment could
+          made, by prior arrangement with the Jb VLBI Friend.
+      $  At Effelsberg: use the MK4 terminal for all thick tape recording,
+            for MK4 modes (>256 Mb/s) or for MK3 modes;
+            use the VLBA terminal for other (thin tape) experiments,
+            in particular: global, VLBA correlator, VLBA modes, frequency-
+            agile observations
+      T  Can record with "thick" tape
+      t  Can record with "thin" tape
+  VLBA4  VLBA terminal with MK4 formatter
+ VLBA+4  VLBA terminal with both MK4 (default) and VLBA formatters
+      *  Only a restricted number of channels can be recorded in modes A 
+          and C with < 14 BBCs. See also note on Cambridge recording below.
+      @  Only 7 BBCs currently useable at Mh (November 1998)
+   all-  All VLBA modes recorded with MK4 formatters have now been validated
+          for inter-operability with the VLBA. However, there are still
+          some restrictions resulting from differences between VLBA and MK4
+          terminals. Users should consult the document
+           OK_modes.vlba   which is available via anonymous ftp from:
+          ftp.aoc.nrao.edu  directory: pub
+   all+  The full range of MK4 modes, including bit rates >256 Mbps, is
+         not yet operational (Sep 1999)
+    (c)  Recommend use of "geodetic patching" modes at 13, 3.6 cm at Wz, Yb
+    (e)  250 and 1000 kHz filter must be on external slots for MK4 terminals
+         ===> NOT YET VALIDATED FOR USE WITH VLBA CORRELATOR  (MAY 1999)
+    (f)  VLBA terminals have all filters for every BBC channel
+      %  No 16 MHz bands with WSRT in tied array !
+   (yy)  Planned for year 20yy
+
+
+      Cambridge Recording
+      -------------------
+   The MERLIN signal from the Cambridge telescope returns to Jodrell on micro-
+wave links (max. BW = 30 MHz) and is recorded on a VLBA terminal with 8 BBCs.
+As a result, the VLBI observing bands which can be recorded are restricted.
+(But the signal CAN be 2-bit sampled when recording VLBA/MK4 modes)
+Although the rest of MERLIN is dual polarisation for all experiments, the
+Cambridge signal may be either (i) single LHC polarisation or (ii) dual
+circular polarisation, and can be decided by the PI. The default will be (i)
+for single polarisation and (ii) for dual polarisation VLBI recording modes.
+
+MK3 MODES:
+
+(i)  28 MHz (LCP)                 --> Use MODE B, 28L (record 28 MHz)
+                                       or MODE A, 56L (record only 28 MHz)
+
+(ii) 14 MHz each of (LCP) + (RCP) --> Use MODE A, 28D (record only 2 x 14 MHz)
+                                       or MODE C, 14D (record only 2 x  8 MHz)
+
+
+==============================================================================
+          MERLIN OBSERVING PARAMETERS
+          ---------------------------
+
+1)  System parameters for observation of a continuum source 
+
+                                         C-Band      L-Band
+                                         ------      ------
+Observing frequencies available         4.5-5.2    1.33-1.43   GHz (21cm)
+                                                   1.55-1.73   GHz (18cm)
+Maximum bandwidth per polarisation        ~ 15       ~ 15      MHz
+Maximum angular resolution                ~ 40       ~ 150     milliarcsecs.
+R.M.S. noise level for 12 hr. on source   ~ 0.05     ~ 0.06**  mJy per beam 
+           (in good weather)
+
+** Use of the Lovell telescope at L-Band reduces the rms to ~0.035 mJy/beam
+
+2)  MERLIN correlation:
+
+For spectral line work, the maximum number of frequency channels per baseline
+(to be divided between the 4 polarizations) for bandwidths of 16 MHz, 8 MHz,
+4 MHz, 2 MHz and <2 MHz are 64, 128, 256, 512 and 512, respectively.  
+The minimum total bandwidth is 125 kHz.
+
+3)  Further information can be obtained via:
+
+   ftp        ftp.jb.man.ac.uk   directory:  pub/merlin/semester_99A
+   www 	URL   http://www.jb.man.ac.uk/merlin/MERLIN.html
+   email      merlin@jb.man.ac.uk
+=============================================================================
+
+The latest confirmation of information from observatories was:
+
+Hh  24 11 98
+Yb  15 07 99
+Ur  10 11 99
+Jb  04 09 97
+Sm  05 09 97
+On  27 11 98
+Nt  10 12 97
+Mh  21 10 99
+Tr  04 05 99
+Wz  25 11 98
+Mc  21 10 99
+Eb  10 11 99
+Sh  23 11 98
+Cm  29 04 98
+Wb  19 03 99
+Ro  09 11 98
+Ar  10 09 99
+
+This file is kept at:       http://www.mpifr-bonn.mpg.de/EVN/EVNstatus
+==============================================================================
+
+

@@ -1,0 +1,62 @@
+From jlim@asiaa.sinica.edu.tw Mon Nov  1 14:28 CST 1999
+Received: from biaa33.biaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id OAA06983
+	for <astro@iaa17>; Mon, 1 Nov 1999 14:28:44 +0800 (CST)
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id OAA16458; Mon, 1 Nov 1999 14:24:36 +0800
+Date: Mon, 1 Nov 1999 14:24:36 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199911010624.OAA16458@biaa33.biaa.sinica.edu.tw>
+Subject: ASIAA-NCU Joint Colloquium (abstract included)
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: sVbqD5gRUS5s16EU8yHYSw==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 1757
+Status: RO
+
+
+    
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                 I     Graduate Institute of Astronomy     I
+                 I        NATIONAL CENTRAL UNIVERSITY      I
+                 * --------------------------------------- *
+ 
+                    *     J O i N T    S E M i N A R    *
+ 
+ 
+                           5 November 1999 (Friday)
+    Room 1013 (Conference Room; 10th floor) of the Science IV Building (NCU)
+            ==================================================
+ 
+Session 1:  Colloquium (2:00 - 3:00 pm)
+ 
+            SPEAKER: Dr. Jiang Ing-Guey
+                     (ASIAA)
+            TITLE:   "The Orbit and Mass of the Sagittarius Dwarf Galaxy"
+            
+            ABSTRACT:
+Possible orbital histories of the Sgr dwarf galaxy are explored.
+A special-purpose N-body code is used to construct the first models of
+the Milky Way -- Sgr Dwarf system in which both the Milky Way and the Sgr
+Dwarf are represented by full N-body systems and followed for a Hubble
+time. These models are used to calibrate a semi-analytic model of the
+Dwarf's orbit that enable us to explore a wider parameter space than is
+accessible to the N-body models. We conclude that the extant data on the
+Dwarf are compatible with a wide range of orbital histories. 
+
+
+
+ 
+Session 2:  Journal Club (3:15 - 4:15 pm)
+ 
+            SPEAKER: Dr. Minho Choi
+                     (ASIAA)
+            TITLE:   "Detection of Polarized CO Emission from the 
+                      Molecular Outflow in NGC 1333 IRAS 4A,"
+                      1999, ApJL, 525, L109"
+

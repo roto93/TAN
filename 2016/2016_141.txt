@@ -1,0 +1,63 @@
+> Date: Thu, 1 Sep 2016 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Po-Sheng Huang (ASIAA)
+Topic:          The Shaping of the Multipolar Pre-planetary Nebula CRL 618 by
+Multidirectional Bullets
+Time:           9/5 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+In order to understand the formation of the multipolar structures of the
+pre-planetary nebula CRL 618, we perform 3D simulations using a
+multidirectional bullet model. The optical lobes of CRL 618 and fast
+molecular outflows at the tips of the lobes have been found to have
+similar expansion ages of ˜100 yr. Additional fast molecular outflows
+were found near the source along the outflow axes with ages of ˜45 yr,
+suggesting a second episode of bullet ejections. Thus, in our
+simulations, two episodes of bullet ejections are assumed. The shaping
+process is simulated using the ZEUS-3D hydrodynamics code that includes
+molecular and atomic cooling. In addition, molecular chemistry is also
+included to calculate the CO intensity maps. Our results show the
+following: (1) Multiepoch bullets interacting with the toroidal dense
+core can produce the collimated multiple lobes as seen in CRL 618. The
+total mass of the bullets is ˜0.034 M_⊙ , consistent with the observed
+high-velocity (HV) CO emission in fast molecular outflows. (2) The
+simulated CO J = 3-2 intensity maps show that the low-velocity cavity
+wall and the HV outflows along the lobes are reasonably consistent with
+the observations. The position-velocity diagram of the outflows along
+the outflow axes shows a linear increase of velocity with distance,
+similar to the observations. The ejections of these bullets could be due
+to magnetorotational explosions or nova-like explosions around a binary
+companion.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Alan Heays (Leiden Observatory)
+Topic:          Laboratory astrochemistry:  UV photodestruction of molecules and its
+observable isotope effects
+Time:           9/6 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Finding ultraviolet photodestruction rates for the many
+atoms and molecules present in space is an interesting subject for
+fundamental study in laboratory and theoretical chemical physics.  I
+will discuss the photodestruction process and its application to the
+molecules observed in interstellar clouds, protoplanetary disks, and
+planetary atmospheres.  I will also discuss some detailed studies of
+N2 and CO photodissociation and their effect on the isotope-dependent
+fractionation of N, C and O atoms between different molecular forms,
+as observed in interstellar space and within the Solar system.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

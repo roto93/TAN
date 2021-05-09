@@ -1,0 +1,116 @@
+> Date: Thu, 16 Mar 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Andrew Mann (University of Hawaii at Manoa)
+Topic:          Tracing Planetary Evolution from Formation to Maturity
+Time:           3/20 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Planets are not born in their final state; rather, they change significantly
+over their lifetimes. Understanding how planets evolve has been a central
+question since the discovery of the first exoplanets. The first few hundred
+million years are thought to be the most formative, but planets in this age
+range are also the most difficult to identify and characterize. Instead,
+research has focused on inferring the history of planets through patterns in
+the population of older systems. In this talk I will discuss how this paradigm
+is shifting, as novel search techniques and new missions have enabled our
+discovery of Earth- to Jupuiter-size planets as young as 10 Myr. These
+discoveries have altered our understanding of how planets migrate and lose
+atmosphere, but raise further questions about the physical drivers of these
+changes. The upcoming TESS mission will discover hundreds more young planets,
+including analogues of a young Earth. Combined with follow-up from new NIR
+spectrog!
+ raphs (e.g., SPIRou on CFHT, IRD on Subaru), the TESS sample will enable new
+tests of planet formation and evolution through population statistics.
+Eventually, JWST, SPICA, and 30m-class telescopes can be used to study the
+atmospheres of young, rocky planets, providing unique insight into the history
+of potentially habitable planets.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Ziri Younsi (University of Frankfurt)
+Topic:          Imaging Black Holes - Shadows, Accretion and Variability
+Time:           3/22 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In the coming months and years mm-VLBI observations of supermassive black
+holes using the Event Horizon Telescope (EHT), most notably of Saggitarius A*
+and M87, are expected to verify the existence of astrophysical black holes
+through detection and measurement of the black hole shadow. Although the
+mathematical description of a black hole shadow is straightforward, its
+observational appearance is strongly governed by the (thermo)dynamics and
+geometrical structure of the surrounding accretion flow. This accretion flow,
+particularly on event horizon-scales, is turbulent and time variable, and must
+be modelled using general-relativistic magnetohydrodynamical (GRMHD)
+simulations. The propagation of radiation and therefore the appearance of
+shadow images, spectra and lightcurves are calculated using GR radiation
+transport (GRRT). Here we combine GRMHD and GRRT calculations to derive
+observational predictions of what upcoming VLBI observations of Sagittarius A*
+are expected to obs!
+ erve, addressing questions concerning variability therein and also discussing
+the possibility of testing the Kerr black hole hypothesis and constraining
+other black hole solutions and theories of gravity.
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Ke-Jung Chen (NAOJ)
+Topic:          Lighting up the Universe with Extreme Supernovae
+Time:           3/23 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Recent all-sky transient searches have discovered new and unexpected explosion
+types
+that fall outside traditional SN classification schemes. These exotic outliers
+in many cases
+are due to the deaths of massive stars and therefore may have been prevalent
+in the
+primordial universe because the Pop III IMF is thought to be top-heavy.
+Depending on the
+mass of the progenitor, these outliers may be faint, magnetar-powered,
+pair-instability, or
+general relativistic instability SNe, all of which have unique observational
+signatures.
+Some of these events are superluminous, 10-100 times brighter than normal
+supernovae,
+and may produce energetic UV, X-ray, or gamma-ray bursts. Their extreme
+luminosities
+enable their detection at z > 10 and they are ideal probes of the primordial
+universe at
+cosmic dawn, prior to the advent of the first galaxies. Here, we examine these
+exotic
+explosions with state of the art 3D radiation-hydro simulations that bridge
+all spatial scales
+from the central engine to breakout into the IGM, where observational
+signatures can be
+computed. We discuss the coevolution of radiation and turbulent mixing in SN
+ejecta
+and present realistic light curves for these explosions for JWST and the
+coming generation
+of extremely large telescopes (ELTs). Detection rates for Pop III SNe can
+place useful constraints
+on the primordial IMF, and their nucleosynthetic yields can be used to study
+the chemical
+compositions of extreme metal poor stars.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Hyosun Kim (ASIAA)
+Topic:          TBA
+Time:           3/24 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
+
+==============================================================================

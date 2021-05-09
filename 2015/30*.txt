@@ -1,0 +1,6 @@
+<p>
+<input type ="button" onclick="history.back()" value="Go Back"></input>
+</p>
+<p>
+<input type ="button" onclick="history.back()" value="Go Back"></input>
+</p>

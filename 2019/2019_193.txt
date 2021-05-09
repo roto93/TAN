@@ -1,0 +1,86 @@
+==============================================================================
+
+From: Patrick Koch <pmkoch@asiaa.sinica.edu.tw>
+Date: Mon, 16 Dec 2019 09:53:11 +0800
+Subject: 1st circular -- ALMA Workshop "The ALMA 2030 Vision: Design
+ considerations for Digitizers, Backend and Data Transmission System"
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Yi-Jehng,
+
+can you please help circulating this announcement through TAN?
+Thanks.
+
+best,
+Patrick
+
+----------------------------------------------------
+
+"The ALMA 2030 Vision: Design considerations for Digitizers, Backend and
+Data Transmission System"
+March 11-13, NAOJ, Mitaka, Japan
+
+https://alma-intweb.mtk.nao.ac.jp/~diono/meetings/ALMA2030_Mitaka/
+
+The ALMA Development Roadmap has identified the multiplication of the IF
+bandwidth of ALMA (at least by a factor 2) as one of the main priorities
+for ALMA upgrades in the 2020s. This increase of the instantaneous
+bandwidth will be realized with the coordinated upgrade of receivers in the
+Front End, the correlators, and last but not least, all electronics between
+them: digitizers, backend and Data Transmission System (DTS). This meeting
+aims to bring together experts on the ALMA system and digitizer, backend
+and data transmission system technologies, from within ALMA and from the
+community, in order to:
+
+(1) discuss the status of technology and performance prospects for the next
+decade for digitizers, backend and DTS,
+
+(2) identify the impact on these subsystems due to the increase of the
+instantaneous bandwidth by a factor >2,
+
+(3) discuss the most suitable location of the 2nd generation ALMA
+correlators in relation with the status of DTS technologies,
+
+(4) identify the possibility to use off-the-shelf technologies for the
+implementation of the 2nd generation of ALMA digitizers, backend and DTS,
+
+(5) discuss on possible system architectures to implement the
+multiplication of the IF bandwidth of ALMA by a factor >2.
+
+We particularly encourage participation by young scientists, and we have a
+modest amount of travel support.
+
+
+Timeline:
+Dec 10, 2019, First announcement and registration open
+Jan 20, 2020, abstract deadline
+mid-Feb, 2020, release program
+Mar 11-13, 2020, workshop
+
+
+Confirmed Invited Speakers:
+TBD
+
+
+SOC:
+Shinichiro Asayama (co-Chair: NAOJ)
+Sylas Ashton (NRAO)
+Alain Baudry (Universit=C3=A9 Bordeaux)
+John Carpenter (JAO)
+Daisuke Iono (co-Chair: NAOJ)
+Noriyuki Kawaguchi (NAOJ)
+Ciska Kemper (ESO)
+Jongsoo Kim (KASI)
+Hitoshi Kiuchi (NAOJ)
+Patrick Koch (ASIAA)
+Gie Han Tan (ESO)
+Al Wootten (NRAO)
+
+LOC:
+Takafumi Kojima (NAOJ)
+George Kosugi (NAOJ)
+Tomoko Nishikawa (NAOJ)
+Yoshi Uzawa (NAOJ)
+=E2=80=94=E2=80=94
+
+==============================================================================

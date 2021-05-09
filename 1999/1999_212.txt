@@ -1,0 +1,106 @@
+From kyl@asiaa.sinica.edu.tw Fri Oct 22 07:38 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA18101
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 22 Oct 1999 07:38:27 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA02378
+	for <astro@asiaa.sinica.edu.tw>; Fri, 22 Oct 1999 07:35:15 +0800
+Date: Fri, 22 Oct 1999 07:34:28 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: LEONID OBSERVING PROGRAM (fwd)
+Message-ID: <Pine.SOL.4.10.9910220734260.14288-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3262
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 21 Oct 1999 10:57:10 -0500
+From: Deana Pettigrew <pettigre@astro.uiuc.edu>
+To: astronomy@astro.uiuc.edu
+Subject: LEONID OBSERVING PROGRAM
+Resent-Date: Thu, 21 Oct 1999 10:53:23 -0500 (CDT)
+Resent-From: astronomy@astro.uiuc.edu
+
+>Date: Thu, 21 Oct 1999 10:46:09 -0400 (EDT)
+>From: STScI-Generic@stsci.edu (AutoBot_Message)
+>To: astro@astro.uiuc.edu
+>Subject: LEONID OBSERVING PROGRAM
+>Errors-To: fulton@stsci.edu
+>
+>Dear Colleagues:
+>
+>    We have received a number of suggestions following our September
+>announcement regarding the opportunity to utilize the  orbits at the
+>time of the Leonids meteor shower.  From these we have selected the
+>observations of  the Abell cluster A2444.  A proposal has been written   
+>by  Stefano Casertano and I append the scientific abstract  below, for 
+>your information.  As usual the data will be in the public domain 
+>immediately after the observations arrive at the STScI.
+>
+>
+>                            Best regards,
+>                            Duccio Macchetto
+>
+>
+>=========================================================================
+>
+>Abstract:
+>
+>Following suggestions by Kirk Borne and collaborators, Mark Dickinson,
+>and Mel Ulmer, we will observe the cluster of galaxies Abell 2444, which
+>lies within the Leonid avoidance viewing zone.  This cluster has a
+>published redshift z=0.324, which is fairly high for an Abell cluster,
+>although there are indications that the redshift might in fact be closer
+>to 0.2, and has 76 members between m3 and m3+2 (m3 = mag of
+>3rd-brightest member).  The cluster has distance class 6, richness class
+>1, and Bautz-Morgan (BM) type III (Abell et al.  1989, ApJS, 70, 1).
+>So, this is a relatively distant, poor cluster, with no single centrally
+>dominant galaxy.  This may therefore be an unevolved cluster.  Such a
+>conjecture is supported by Einstein IPC X-ray imaging observations of
+>this cluster (Henry et al. 1982, ApJ, 262, 1; see also
+>http://rings.gsfc.nasa.gov/~borne/ai2224s24.gif ) -- there is no
+>evidence for the X-ray emission that would normally be expected for a
+>rich evolved cluster.  This poor cluster may therefore be a young
+>cluster in the process of formation through the hierarchical merging of
+>subclumps out of the cosmological large-scale structure.
+>
+>We will observe the cluster in F606W and F814W, roughly corresponding
+>to B and V at the nominal cluster redshift.  The brightest cluster
+>member will be placed in the PC.  A two-point dither will be used,
+>with two (F814W) and three (F606W) exposures at each dither point to
+>provide robust CR rejection.  The program covers a total of five orbits,
+>two used for F814W and three for F606W.
+>
+>
+>
+>
+>
+
+
+
+
+***********************************************************
+Deana Pettigrew		E-mail: pettigre@astro.uiuc.edu
+BIMA Secretary		Phone:  217-244-6392
+University of Illinois	Fax:	 217-244-7638
+230 Astronomy Bldg.
+1002 W. Green Street
+Urbana, IL  61801
+
+

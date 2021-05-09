@@ -1,0 +1,194 @@
+===============================================================================
+In this issue (Mar 14 - Mar 22, 2015)
+
+1. Reminder: Announcement: ALMA Users Workshop 2015 for Cycle 3 Proposal Call
+2. ASIAA Colloquia/Seminars/Lunchtalk (Mar 25): Erick Young (SOFIA Sci Center)
+3. NCU Astronomy Colloquium (Mar 27): Sundar Srinivasan (ASIAA)
+4. announcing Python Crash Course July 6-10, ASIAA
+5. NTHU Astronomy Colloquium (Mar 27): Bandy Shang & Sunny Cheng (NTHU)
+
+===============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Date: Mon, 16 Mar 2015 13:22:48 +0800
+> Subject: Reminder: Announcement: ALMA Users Workshop 2015 for Cycle 3 Proposal Call
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>        alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+
+Dear All,
+
+  This is a kind reminder for the ALMA Users Workshop to be held next =
+Saturday (March 28).
+
+  Please register if you are interested in using ALMA. The deadline is =
+March 21, which is this saturday.
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+On Feb 25, 2015, at 9:55 AM, CF Lee <cflee@asiaa.sinica.edu.tw> wrote:
+
+> Dear Potential ALMA users,
+>=20
+>      ALMA will issue its Cycle 3 Proposal Call on March 24. In =
+response to that, Taiwan ARC node will hold a ALMA User Workshop jointly =
+with tuCASA on March 28 (Saturday).  Below is the announcement:
+>=20
+>=20
+>    ALMA Users Workshop 2015
+>    Time: March 28, 2015
+>    Place: Room 1203, Astronomy-Mathematics Building
+>    URL: http://events.asiaa.sinica.edu.tw/workshop/20150328/index.php
+>    Registration Deadline: March 21.
+>=20
+>      The ALMA Regional Center (Taiwan-ARC) of ASIAA and the UCAT =
+Center for ALMA Science Advancement (tuCASA) of the University =
+Consortium of ALMA-Taiwan (UCAT) are pleased to host jointly the ALMA =
+User Workshop 2015 for potential ALMA users in Taiwan.
+> The call for proposal for ALMA Cycle 3 will be issued on March 24, =
+2015. The ALMA User Workshop 2015 is designed for the preparation of =
+ALMA Cycle 3 proposals, and is aimed for graduate students, postdocs, =
+faculty members and people who are interested in observing with ALMA.
+>=20
+> The programs of the ALMA User Workshop 2015 include:
+>=20
+> ALMA progress report and Cycle 3 capabilitiy
+> ALMA Polarization/Long-baseline observations
+> Suggestions of ALMA proposal preparation
+> Observing Tool
+> Correlator and Splatalogue
+> CASA simulation
+> Discussion/hands-on
+> Best Wishes,
+> Chin-Fei
+> On behalf of Taiwan ARC node.
+
+===============================================================================
+
+> Date: Thu, 19 Mar 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Erick Young (SOFIA Science Center)
+Topic:         SOFIA, The Stratospheric Observatory for Infrared Astronomy -- Science Highlights and Observing Opportunities
+Time:         3/25 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The Stratospheric Observatory for Infrared Astronomy (SOFIA), is a highly modified Boeing 747-SP aircraft that has a 2.7-m telescope. Flying above more than 99% of the absorbing water vapor in the Earth's atmosphere, SOFIA provides access to otherwise unobservable wavelengths in the infrared to the worldwide astronomical community. SOFIA entered the Full Operations phase in February 2014, and is supporting observing proposals from astronomers all over the world. The project is an international collaboration between the US and Germany and has required high levels of coordination and communication among the many partners. The airplane has recently returned from an extensive periodic maintenance, and has resumed the science observation program. The plan for 2015 includes support for six science instruments, a deployment to the Southern Hemisphere, and support for an occultation of Pluto. This talk will cover some of the technical challenges in making SOFIA a reality, and will h!
+ighlight some of the recent science results.  Observing opportunities for Cycle 4 are described.
+
+===============================================================================
+
+> Date: Thu, 19 Mar 2015 12:25:26 +0800
+> Subject: NCU Astronomy Colloquium - 2015.03.27
+> From: ChingHua Shen <m1029002@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+
+*NCU Astronomy Colloquium*
+Speaker: Dr. Sundar Srinivasan (ASIAA)
+Topic: The dust return from AGB stars in nearby galaxies
+Time: Mar. 27, 2pm
+Place: S4-1013, NCU
+
+Abstract:
+Asymptotic giant branch (AGB) stars lose a substantial fraction of their
+mass in slow, dust-driven winds. This mass loss directly influences the
+life cycle of dust and gas in galaxies. The dust consists of either
+oxygen-rich or carbonaceous partiels, depending on the relative atomic
+abundance of carbon to oxygen (the C/O ratio) in the photospheric regions.
+Determining the current rate of AGB dust production requires information
+about the spectral energy distributions (SEDs), especially in the infrared.
+While large-scale studies of the Galactic AGB dust budget have been
+restricted to the Bulge or the Solar Neighbourhood, data from the Spitzer
+Space Telescope has enabled the identification of large AGB populations in
+nearby galaxies such as the Magellanic Clouds, allowing us to estimate the
+current AGB dust budget in these systems. These studies find that the dust
+production is dominated by a small fraction of very dusty, highly evolved
+stars. However, the global estimates seem too small to explain the observed
+interstellar dust mass. In this talk, I will review the theoretical and
+observational constraints on AGB dust production in nearby galaxies and
+discuss possible solutions to the dust budget "crisis".
+
+===============================================================================
+
+> Date: Fri, 20 Mar 2015 23:34:03 +0800
+> Subject: announcing Python Crash Course July 6-10, ASIAA
+> From: Hsien Shang <shang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw,
+>    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear All,
+
+Here we announce the upcoming Crash Course for the Python programming
+language to take place on July 6-10, 2015, ASIAA.
+
+http://events.asiaa.sinica.edu.tw/school/20150706/index.php
+
+This course is highly recommended by Prof. You-Hua Chu to all astronomers
+based in Taiwan, especially to students entering the field of Astronomy and
+Astrophysics.
+
+Please note that the lab sessions are *required* for all participants and
+based which lunch boxes will be provided.
+
+All participants will need to bring their own laptops meeting requirements
+of operating systems with necessary software packages downloaded, installed
+and tested prior to the course. Further updates including the
+download/installation instructions and minimal requirements for the laptops
+will be available in late spring/early summer.  Details of the syllabus may
+be revised and updated.
+
+Cheers,
+
+Sienny
+
+===============================================================================
+
+> Date: Sat, 21 Mar 2015 14:17:02 +0800
+> Subject: NTHU Colloquium
+> From: Dani Chao <edcamel@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Tomo GOTO <itlhnis@gmail.com>
+
+NTHU Colloquium - 2015.3.27 14:00, R620
+Student presentation
+
+Speaker:Bandy Shang
+Title: Millisecond dips in the 2007=E2=80=9309 RXTE/PCA light curve of Sco =
+X-1 and
+one possible occultation event
+
+Speaker:Sunny Cheng
+Title:Connecting Dark Matter Halos with the Galaxy Center and
+the Supermassive Black Hole
+
+Dani Chun-Yi Chao
+Institute of Astronomy, National Tsing Hua University
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

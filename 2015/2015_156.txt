@@ -1,0 +1,40 @@
+> Date: Thu, 27 Aug 2015 08:00:02 +0800
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:     Meg Schwamb (ASIAA)
+Topic:          New Horizons at Pluto
+Time:          8/31 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Pluto is one of the largest dwarf planets residing in the Kuiper belt, a sea of icy planetesimals orbiting beyond Neptune. In mid-July, NASA's New Horizons spacecraft became the first mission to reach Pluto, making its closest approach to the dwarf planet and its largest moon Charon. The images and spectra obtained during the closest days and hours of the flyby will rewrite our understanding of the Pluto system. I'll present the New Horizons mission, talk briefly about what we knew previously about Pluto, and present some of the highlights from the preliminary fly-by data presented to the pubic.
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:     S. K. Pan (NRAO)
+Topic:          The CDL's current status and future plans
+Time:          9/1 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+An overview of the current status of the NRAO Central Development Laboratory will be presented.  Future development plans on MMIC amplifiers, Phased Array Feeds, Integrated Receiver Development, and CDL's role in the future ngVLA and ALMA development will also be discussed.
+
+*** Colloquium ***
+____________________________________________________
+Speaker:     Edward Tong (SAO)
+Topic:          Next Generation Receiver System for the SMA
+Time:          9/2 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+During the past few years, the SMA has been engaging in a wideband receiver upgrade. Front?end receivers with IF bandwidth of 12+ GHz have been introduced. Most of these receivers employ series distributed SIS mixers fabricated in ASIAA. Later this year, we will be introducing a new set of receivers that cover 210?270 GHz, which can be operated together with the existing 200 or 300 GHz receiver sets. At the same time, a new digital backend, the SWARM correlator, is being developed and put into action. Powered by the 5 GSample/sec Analog?Digital Convertor developed by ASIAA, SWARM currently offers 2 x 1.5 GHz bandwidth, in addition to the 2 x 2 GHz provided by the ASIC (or legacy) correlator. This wideband receiver upgrade has improved the sensitivity of the SMA. Under good weather conditions, the SMA can deliver a detection threshold of 1 mJy or better at 345 GHz with the ASIC correlator alone. Further gains are being materialized when the SWARM data is included.
+Looking beyond the current phase of receiver upgrade, we believe that the sensitivity of the SMA can see further improvements. Our vision for the Next Generation Receiver System for the SMA includes a combination of re?formulation of the front?end hardware, coupled with a continued expansion of the backend digital hardware. In order to achieve this objective, the entire receiver system has to be overhauled. We are drawing up plans to achieve this, with the aim of targeting specific areas of science that the SMA is best positioned to do well. We will present our plans, and we hope to get inputs from both the technical and scientific groups in ASIAA, which have strong interests in the continued operation of the SMA.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

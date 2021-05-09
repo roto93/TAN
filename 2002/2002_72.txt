@@ -1,0 +1,70 @@
+From jiang@astro.ncu.edu.tw Mon Apr  8 14:36 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA17291
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 8 Apr 2002 14:35:19 +0800 (CST)
+Received: from halley.phy.ncu.edu.tw (IDENT:root@halley.phy.ncu.edu.tw [140.115.30.4])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA25435
+	for <astro@asiaa.sinica.edu.tw>; Mon, 8 Apr 2002 14:34:33 +0800 (CST)
+Received: from localhost (jiang@localhost)
+	by halley.phy.ncu.edu.tw (8.11.6/8.11.6) with ESMTP id g386tdh06554
+	for <astro@asiaa.sinica.edu.tw>; Mon, 8 Apr 2002 14:55:39 +0800
+X-Authentication-Warning: halley.phy.ncu.edu.tw: jiang owned process doing -bs
+Date: Mon, 8 Apr 2002 14:55:39 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+X-Sender: jiang@halley.phy.ncu.edu.tw
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU/ASIAA Joint Colloquium
+Message-ID: <Pine.LNX.4.21.0204081454440.6541-100000@halley.phy.ncu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2265
+Status: RO
+
+
+                   ***************************************
+                   |     National Central University     |
+                   *-------------------------------------*     
+                   |           Academia Sinica           |    
+                    Institute of Astronomy & Astrophysics 
+                   \__________ Joint Colloquium _________/
+
+
+                       2:00 p.m. 12 April 2002 (Friday)
+                 NCU Science Building IV, Conf. Room, Rm 1013
+   
+                 Speaker:  Dr. Takuhito Kuwabara
+                           (National Central University)
+                    
+                 Title:  AGN Jet Formation.
+
+                 Abstract:
+
+                 We carried out 2.5-dimensional resistive magneto-
+                 hydrodynamical simulations to study the effects of 
+                 magnetic diffusivity on magnetically driven mass 
+                 accretion and jet formation. The initial state is a
+                 constant angular-momentum torus threaded by large-scale 
+                 vertical magnetic fields. Since the angular momentum of 
+                 the torus is extracted due to magnetic braking, the torus 
+                 medium falls toward the central region. The infalling matter 
+                 twists the large-scale magnetic fields and drives bipolar
+                 outflow. We found that: 
+                 
+                 (1) when the normalized magnetic diffusivity is small 
+                     (<10^-3), mass accretion and jet formation take place 
+                     intermittently; 
+                 (2) when it is between 10^-3 and 10^-2, the system 
+                     evolves toward a quasi-steady state; and 
+                 (3) when it is > 10^-2 the accretion/mass outflow rate 
+                     decreases with diffusivity and approaches 0.
+
+                 The results of these simulations indicate that in the
+                 center of a galaxy which has a super-massive black hole, 
+                 a massive gas torus and magnetic braking provide a mass 
+                 accretion rate which is sufficient to explain the activity 
+                 of AGNs when the normalized magnetic diffusivity is smaller 
+                 than 5x10^-2.
+
+
+
+

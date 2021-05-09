@@ -1,0 +1,36 @@
+> Date: Sat, 15 Mar 2014 11:02:37 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+############################################
+                    NTHU
+            Astronomy Colloquium
+############################################
+
+      2:20 p.m. 21st March 2014 (Friday)
+         NTHU Physics Building, Rm620
+
+Speaker: Chia-Yu Hu
+          (Max Planck Institute for Astrophysics, Germany)
+
+Title: SPHGal: Smoothed Particle Hydrodynamics with
+        Improved Accuracy for Galaxy Simulations
+
+Abstract:
+We present the smoothed-particle hydrodynamics implementation SPHGal
+which incorporates several recent developments into the GADGET code.
+We conduct a series of idealized hydrodynamic tests. We also test
+a more realistic model of an isolated disk galaxy, where we find
+a feedback-induced instability developing if too much artificial
+viscosity is introduced.
+
+We find that the star formation rates vary only slightly for different SPH
+schemes while the mass loading is quite sensitive to the SPH scheme.
+
+          Tea/Discussion Time is followed !
+
+                   All Welcome !!
+
+==============================================================================

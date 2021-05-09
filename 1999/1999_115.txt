@@ -1,0 +1,41 @@
+the Institute for Astronomy
+for the 8.2-m Subaru telescope is described.  It is an Infared Camera 
+and Spectrograph (IRCS) for 1-5 microns.  One section consists of a 
+high-resolution cross-dispersed spectrograph (R=20,000).  Another 
+section consists of a slit-viewing camera that also serves as an infrared 
+camera with two pixels scales (23 and 60 milli-arcsec per pixel).  The
+infrared camera also has grisms with resolving power 400-1200.  This 
+instrument is intended to be completed by the end of the year.
+
+	                        AND
+	                        
+	                        
+	    TITLE:   "New Planetary Telescope"
+	    ABSTRACT:	          
+The Institute for Astronomy is proposing a replacement telescope for
+the 3.0 m NASA Infrared Telescope Facility.  This telescope will be
+a 6.5-m off-axis telescope.  The main advantages of the off-axis
+design are: (1) It will achieve very low scattered light images
+without the diffraction pattern of the secondary spider; (2) It will
+achieve low emissivity; (3) It will provide wide-field imaging 
+(up to 2 degrees field-of-view).  Some interesting design features
+of an off-axis telescope will be discussed. 
+	   
+
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: 	astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		    (or +02-2652-2020 ext 224, fax +02-2788-1106)
+To check the back issues:	   	 <http://asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
+

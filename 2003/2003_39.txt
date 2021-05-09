@@ -1,0 +1,34 @@
+From wchen@astro.ncu.edu.tw Wed Apr 30 13:16:43 2003
+Date: Thu, 6 Mar 2003 03:10:53 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+     asall@astro.ncu.edu.tw
+Subject: LOT time request for Apr to Jun 2003
+
+
+Call for Observing Proposal --- Lulin 1 m 
+
+Proposals for observing time on the LOT are solicited for the 2003-II
+season (April to June).  The first 3 months of operation faced some CCD
+detector and filter wheel problems, but the telescope performed to its
+expectation, especially after fine-tuning in the last week of February.
+LOT now has an RMS pointing close to 10" and tracking (no guiding) 
+accuracy of 0.4" in 10 minutes, well exceeding its specs.  The newly 
+brought Princeton Instrument 1300 CCD camera arrived in early March, which 
+will be adapted with the existing filter set (broadband and line filters) 
+before the new filter wheel shows up in May.  The PI1300 camera is capable 
+of 1 MHz readout and very good electronic specs.  We will characterize the 
+camera as soon as possible and expect it will go online for the 2003-II 
+season.  Statistics shows that in the last fall/winter season, there was 
+about 50% observing time (e.g., 300 hours in October to December 2002).  
+If this spring will be as dry as last year, the coming April to June may 
+still have some usable nights.  
+
+The deadline for the current proposal cycle is March 15.  Feel free to 
+contact me for any questions you may have. 
+
+Wen Ping Chen
+
+    [ Part 2, ""  Application/MSWORD  98KB. ]
+    [ Unable to print this part. ]
+

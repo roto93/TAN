@@ -1,0 +1,309 @@
+From kyl@asiaa.sinica.edu.tw Wed Sep 15 22:59 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA22506
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 15 Sep 1999 22:57:44 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA20140
+	for <astro@asiaa.sinica.edu.tw>; Wed, 15 Sep 1999 22:50:02 +0800
+Date: Wed, 15 Sep 1999 22:50:01 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MERLIN/VLBI National Facility Newsletter (fwd)
+Message-ID: <Pine.LNX.4.10.9909152249590.19998-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 14545
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 15 Sep 1999 14:27:00 +0100 (BST)
+From: Phil Diamond <pdiamond@jb.man.ac.uk>
+To: vlbi@cv3.cv.nrao.edu
+Subject: MERLIN/VLBI National Facility Newsletter
+
+
+
+                  MERLIN/VLBI National Facility Newsletter
+
+                         Number 1:  September, 1999
+
+
+This is the first of a regular biannual newsletter that will describe 
+activities at the MERLIN/VLBI National Facility (NF). In the past there 
+has been no clear mechanism for disseminating information to the NF's 
+user community; this is being rectified through this newsletter and also 
+through the publication of a more detailed biennial report. Copies of the 
+first edition of this report, covering the period 1997-1998, were made 
+available at NAM and will be distributed further within the next two weeks.
+
+The newsletter is also available on the web at:
+
+             http://www.jb.man.ac.uk/merlin/newsletter
+
+Call for Proposals
+------------------
+
+There are two proposal deadlines approaching that are relevant to the NF.
+The first is the deadline for Semester 00A on MERLIN. Note that the 
+MERLIN deadline is non-standard and after the busy time of October 1, 
+this is possible because the NF staff process the proposals for the PPARC
+secretariat.
+
+    The proposal deadline is '9th October 1999'. All details are in the
+    MERLIN web area, specifically:
+         http://www.jb.man.ac.uk/merlin/schedules/index.html
+    MERLIN will be offering 22GHz, 5GHz, and 1.4-1.7GHz for Semester 00A
+    (although it is not yet clear if the Lovell telescope will be 
+    available for 1.4-1.7 GHz in 00A). 
+    Proposal forms, information on MERLIN Key Programmes, and further
+    general information can be obtained via:    
+         www:    http://www.jb.man.ac.uk/merlin/MERLIN.html
+         ftp:    ftp.jb.man.ac.uk, Directory: /pub/merlin/semester_00A
+         email:  merlin@jb.man.ac.uk
+
+The second is the autumn deadline for European and global VLBI:
+
+    The proposal deadline is '1st October 1999'. All details may be
+    found in the EVN USERS GUIDE at:
+         http://www.nfra.nl/jive/evn/evn.html
+    The provisional plan for EVN observing sessions in 2000 is given 
+    below, proposals received by October 1st will be considered for 
+    scheduling in any of the sessions listed.
+
+   2000   Session 1  Feb 10 - Mar 02   6 cm (+MERLIN),  18/21 cm,  + ??    
+   2000   Session 2  May 25 - Jun 15   6 cm,            18/21 cm,  + ??     
+   2000   Session 3  Sep 06 - Sep 27   6 cm,            18/21 cm,  + ??
+   2000   Session 4  Nov 08 - Nov 25   6 cm,            18/21 cm,  + ??
+
+    The ?? signify wavelengths to be allocated based on proposal pressure.
+
+General News
+------------
+
+At the time of writing PPARC have not yet notified us of our final budget 
+for the next grant period. As some of you may be aware there is worry on
+that front since the rate of salary increases is greater than the inflation 
+indexation rate applied to all PPARC grants. This, combined with the lack of 
+inflationary increases for the NF grant in the past means that the operational, 
+non-staff costs for the NF are under severe pressure. At the June meeting of 
+the Ground Based Facilities Committee (GBFC) the NF's problems were recognized 
+and a short-term financial band-aid was promised which may help the situation. 
+However, in the longer term other measures are needed and GBFC decided that 
+the NF operation should be reviewed next summer in order to evaluate the 
+efficiencies resulting from the restructuring programme initiated two years
+ago and determine a new base budget for continued operation and development.
+
+There is some good news: GBFC allowed the NF to appoint a data archivist
+whose job is to produce an archive of all MERLIN data. This will be 
+accomplished in three phases: first the archive database and web interface 
+will be created; secondly, an existing pipeline reduction script written in 
+AIPS will be used to start populating the database with calibrated data and 
+initial images from new observations; finally the archivist will move 
+backwards through the existing archive of raw data and produce a full archive. 
+The existing rules regarding open access to MERLIN data will remain in place, 
+that is: MERLIN data becomes publicly available 12 months after the end of 
+the semester in which the observations were made. Dr. Anita Richards has 
+been appointed as the archivist from October 1, 1999.
+
+In addition, we welcome Brian Smith to Jodrell Bank. Bryan joins us on an
+EU funded programme to perform development work on broadband fibre optic
+connections. Specifically, he is modelling the transmission characteristics
+of such fibres and assessing the feasibility of transmitting several 
+Gbit/sec over lengths of 100s and 1000s of km.
+
+
+Recent Science: Supernova Remnants and HII regions in NGC2146.
+--------------------------------------------------------------
+
+Andrea Tarchi (Universitaet Bonn ) et al.
+
+
+NGC2146 is a starburst galaxy at a distance of 14.5 Mpc.  The nuclear
+region is highly obscured in the optical, but radio observations with
+the VLA (Glendenning and Kronberg 1986, BAAS 18,1006) revealed a
+populations of about 20 point sources which were interpreted as radio
+supernovae (RSN) or supernovae remnants (SNR). MERLIN + VLA observations 
+at 5 GHz with 150 mas resolution show that 7 of the sources are resolved 
+into diffuse structures, some of which have shell-like morphologies.
+Additional 1.4 and 1.6 GHz MERLIN data have shown 9 sources coincident in 
+position with the ones detected at 5 GHz and allowed us to compute their 
+spectral indices. Three  of them show values consistent with synchrotron 
+emission from SNR or RSN, but the others present a very steep inverted 
+spectrum. Most of the sources with inverted spectrum are unresolved with 
+diameters < 9 pc and T_B > 1000 K, but two are resolved in amorphous 
+structures with sizes 10 and 20 pc. We claim that the positive spectral 
+index sources are optically thick compact or "ultra dense" HII regions 
+with n_e > 10^3 cm^-3, ionized by 10^3 O6 equivalent stars. Such massive 
+regions of current star-formation have been seen in other galaxies 
+(NGC5253 and Henize 2-10), but, interestingly, are not seen in M82; this 
+last galaxy has in fact many similarities with NGC2146. The present 
+starburst in NGG2146 may lie in a temporally intermediate phase between 
+the very young ones such as in NGC5253 and older examples like M82 
+(the ageing of the bursts refers to the sequence presented in Rieke et al.
+1988, ApJ 325, 679) The inverted spectra could alternatively be caused by 
+strong free-free absorption at 18cm caused by foreground ionized gas with 
+very high emission measures (> 10^8 pc cm^-6). The MERLIN observations 
+also reveal a very compact steep-spectrum source close to the centre of 
+the galaxy which is, up to now, considered a candidate for a RSN, because 
+of its steep nonthermal spectrum and its high brightness temperature. 
+HI absorption has been detected against this source using MERLIN at 21cm, 
+implying a column depth of 25E21 cm^-2.
+
+These observations demonstrate the current ability of MERLIN to
+resolve SNR and star-forming regions in increasingly distant galaxies.
+The proposed upgrade for MERLIN, including the resurfaced Lovell
+Telescope, will allow populations of SNR and HII regions to be studied 
+in many more galaxies at greater distances.
+
+email:   atarchi@astro.uni-bonn.de
+Co-I's:  N Neininger, U Klein (Bonn), 
+         A Greve (IRAM), B Glendenning (NRAO)
+         A Pedlar(JBO), S Garrington, T Muxlow (MERLIN/VLBI NF)
+
+See image at http://www.jb.man.ac.uk/merlin/newsletter/ngc2146.gif
+
+Summer Engineering Work
+-----------------------
+
+The so-called "shutdown" of the National Facility for about three months
+each summer is, in fact, the busiest time of the year for the professional
+engineering staff who operate the system. With the telescopes in 24-hour
+operation throughout the rest of the year, this is the only opportunity to
+undertake much of the essential maintenance and to implement many of the
+developments required by our policy of continuous improvement in the
+quality of the science output.
+
+Our main task this summer has been the complete replacement of the servo, 
+drive and control system on the Darnhall telescope which is one of the 25-m
+diameter VLA-style dishes located about 30km from Jodrell Bank. This is part 
+of the Restructuring initiative, which also provides for similar work to be 
+carried out on the Knockin and Pickmere telescopes in summer 2000. The 
+existing (original) control systems on these three telescopes are more than 
+20 years old, obsolete and beginning to cause trouble, so the replacement is 
+timely. It is interesting to note that even electric motor technology has 
+advanced since the telescopes were built, with the result that the new 
+motors are substantially smaller than the originals.
+
+At the time of writing, the new hardware is installed and commissioning is
+almost complete. The revised telescope control software has also been
+written and installed. Testing of the complete system is due to begin
+shortly.
+
+Also ready for testing is a new version of the Mk2 telescope control
+software which will permit full remote control of the receiver changing
+carousel in the focus cabin during the next 5/22GHz observing session
+early in the new year. However, final commissioning of this system has
+been deferred until after the September VLBI session to permit completion
+of improvements to the elevation drive and new focus access arrangements
+required by the Health & Safety Executive. The construction of the carousel 
+was a direct scientific benefit of the restructuring programme which was 
+otherwise aimed at decreasing the running costs of current observations. 
+It was designed and commissioned in-house in less than 12 months.
+
+See image of carousel at http://www.jb.man.ac.uk/merlin/newsletter/mkff2.gif
+
+The Lovell Telescope, which is an important element of many National
+Facility observations, has been the subject of major engineering work this
+summer, including:
+
+- trials of a technique to renew the reflecting surface
+- painting of the reflector backing structure
+- repairs to the azimuth track
+- replacement of critical bearings in all four azimuth drive bogies.
+
+The University has made a bid to the Joint Infrastructure Fund for a grant
+to renew the whole of the reflecting surface using the technique
+successfully tested this summer. If the bid is successful, we plan to
+complete the work in two, extended summer maintenance periods.
+
+The bearings we have replaced were installed when the Telescope was first
+constructed in the early 1950s. We hope that the new ones last equally
+well.
+
+MERLIN: A Vision for the Future
+-------------------------------
+
+As you will read in the biennial report mentioned above we have
+a plan for the future development of MERLIN which will, when completed,
+transform MERLIN into a new instrument with more than an order of magnitude
+improvement over the current sensitivity and three times the current
+resolution for high quality imaging. This transformation is especially 
+relevant as we enter a new era of high resolution astronomy, with infrared 
+adaptive optics already demonstrated on GEMINI and with NGST and ALMA on 
+the horizon, MERLIN is uniquely placed to provide complementary radio 
+observations. The development plan for MERLIN capitalizes on this position. 
+
+The plan is discussed in more detail at 
+          http://www.jb.man.ac.uk/merlin/future.html
+
+Briefly, the development is envisaged in three stages:
+1) Array Upgrade: new 12-15 GHz receivers, full frequency flexibility,
+   replacement of the Defford telescope
+2) Prototype Fibre Link: development and testing of a broad-band fibre
+   link between Jodrell Bank and Cambridge
+3) Array broad-banding: the linking of all telescopes to Jodrell Bank
+   with optical fibres and the installation of a new broad-band correlator.
+
+Along with the concurrent resurfacing of the Lovell telescope, these
+upgrades will provide, without significant increase in running costs, 
+a 25-fold sensitivity increase at the prime 
+operating frequency of 5 GHz with 50 mas resolution and the ability to
+carry out reliable imaging at 22-24  GHz with 8 mas resolution. 
+
+The exact sequencing of the components of the development is not
+critical, nor is the division into three stages.
+
+The unique combination of resolution, sensitivity and frequency 
+coverage of an upgraded MERLIN will open up a spectacular range of new
+possibilities in both galactic and extra-galactic astronomy.  In
+particular it will bring within reach the thermal and ionized universe
+of stars, nebulae and active galaxies in a wavelength regime
+unobscured by dust. Stellar astronomy in particular will be
+revolutionised by the ability to detect thermal emission from warm gas
+and dust with linear resolution of a few AU or better.  MERLIN will
+therefore provide complementary science to ALMA (which studies
+cold/cool material at somewhat lower resolution) and NGST. Other
+MERLIN opportunities include fundamental astrometry with a positional
+accuracy < 0.1 mas; planetary searches; studies of star forming
+regions and active stars; methanol and excited state OH masers, 
+extragalactic SNR and starburst galaxies, AGN and a wide range of 
+cosmological studies.
+
+Subscription to the MERLIN mailing list
+---------------------------------------
+
+To subscribe to the electronic mailing list for the MERLIN/VLBI National 
+Facility send an email to Majordomo@jb.man.ac.uk with the following 
+command in the body of the email message (not the Subject field);
+
+                    subscribe merlin-announce 
+
+If you ever want to remove yourself from the MERLIN mailing list, send an 
+email to Majordomo@jb.man.ac.uk with the following command in the body of 
+the email message;
+
+                    unsubscribe merlin-announce 
+
+or from another account, besides the one used to subscribe to the list,
+
+                    unsubscribe merlin-announce your-email-address 
+
+If you ever need to get in contact with the owner of the list, (if you 
+have trouble unsubscribing, or have questions about the list
+itself) send email to owner-merlin-announce@taranis.jb.man.ac.uk.
+
+
+

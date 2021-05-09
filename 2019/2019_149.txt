@@ -1,0 +1,238 @@
+==============================================================================
+
+In this issue (Sep 06 - 14, 2019)
+
+1. Active Galactic Nucleus Jets in the Event Horizon Telescope Era
+   (Jan 20-22, 2020)
+2. 2020A CALL FOR PROPOSALS INAF - RADIO TELESCOPES
+3. ASIAA Colloquium/Seminar/Lunchtalk (Sep 18): Peter Scicluna (ASIAA)
+
+==============================================================================
+
+Date: Tue, 10 Sep 2019 13:10:03 +0800
+From: Masanori NAKAMURA <nakamura@asiaa.sinica.edu.tw>
+Reply-To: Masanori NAKAMURA <nakamura@asiaa.sinica.edu.tw>
+To: riaa@asiaa.sinica.edu.tw,
+    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: =?iso-8859-13?Q?=B4Active?= Galactic Nucleus Jets in the Event
+ Horizon Telescope =?iso-8859-13?Q?Era=A1,?= Tohoku University, 2020 Jan. 20
+ - 22
+
+FYI.
+
+Masanori Nakamura <nakamura@asiaa.sinica.edu.tw>
+
+-----------------------------------------------------------------------------
+
+      ¡°Active Galactic Nucleus Jets in the Event Horizon Telescope Era¡±
+
+               Aoba Science Hall in Science Complex C,
+                 Aobayama Campus, Tohoku University
+
+       2020 January 20 (Mon) morning - 22 (Wed) early afternoon
+
+https://www.astr.tohoku.ac.jp/~shigeo/agn_jet_2020/index.html
+
+-----------------------------------------------------------------------------
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+Rationale
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+The Event Horizon Telescope (EHT) successfully took a picture of M87's
+black hole (BH) shadow surrounded by a ringlike emission, which is one
+of the strongest confirmations of Einstein¡¯s general relativity and existence
+of supermassive BHs at the centers of galaxies. The picture also
+accelerates our investigations on the launching mechanism of relativistic
+jets in active galactic nuclei. A puzzling/surprising fact is that M87¡¯s jet is
+unseen in the EHT picture, although it is overwhelmingly bright at longer
+wavelengths. The missing link between the BH shadow and the jet now
+draws much attention as one of the most important remaining issues.
+To address this issue, along with EHT, complementary VLBI observations
+at long wavelengths (3mm/7mm/10mm), offered by such as the Global
+Millimeter VLBI Array (GMVA), the Very Long Baseline Array (VLBA) and
+the East Asian VLBI Network (EAVN) will play increasingly important roles\.
+
+The main purpose of this workshop is to get better understanding on
+BH-powered outflows in the universe. The M87 jet is a prototype in such
+sources and the first M87 EHT results provide us with a lot of new
+perspectives on it. Hence, the lineup of invited speakers in this workshop
+are mostly linked to the first EHT M87 results, and the following topics will
+be covered by those talks.
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+Invited speakers: Key words
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+K. Akiyama (MIT/NRAO):            Next generation EHT & space-VLBI
+M. Honma (NAOJ/Mizusawa):         Overview of the first EHT results
+T. Jung (KASI):                      KVN/e-KVN
+T. Kawashima (NAOJ):             BH shadow & jet connection
+Y. Kawazura (Tohoku U):             Plasma physics in accretion flows
+J.-Y. Kim (MPIfR):                mmVLBI view of 3C279
+S. Kisaka (Tohoku U):               BH magnetospheres
+R. Lu (SHAO):                      M87 jet base seen at 3.5mm
+D. Mazin (ICRR):                   High-energy & multi-wavelength science
+Y. Mizuno (Goethe U Frankfurt):   BH shadow & gravity theories
+M. Nakamura (ASIAA):                 Jet theories & simulations
+K. Niinuma (Yamaguchi U):           EAVN-high
+K. Ohsuga (U Tsukuba):               BH high-power accretion & outflow
+J. Park (ASIAA):                   M87 jet velocity & surrounding wind
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+Registration
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+It is open now. The deadline of abstract submission is December 1.
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+Organizing Committees
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+SOC: K. Toma (Tohoku U, chair), K. Hada (NAOJ Mizusawa VLBI), M. Kino (Kogakuin U/NAOJ)
+LOC: S. Kimura (Tohoku U), T. Ogihara (Tohoku U)
+
+==============================================================================
+
+From: Jung Taehyun <thjung@kasi.re.kr>
+Date: Wed, 11 Sep 2019 08:53:51 +0200
+Subject: Fwd: 2020A CALL FOR PROPOSALS INAF - RADIO TELESCOPES
+To: "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>,
+
+Dear all (with apologies for the cross-posting),
+
+Please find the call for proposal of three Italian radio telescopes below\.
+
+Best regards,
+Taehyun Jung
+
+---------- Forwarded message ---------
+From: Radioproposal <radioproposal@inaf.it>
+Date: Fri, Sep 6, 2019 at 4:07 PM
+Subject: 2020A CALL FOR PROPOSALS INAF - RADIO TELESCOPES
+To: Radio Call Distribution <rcd@inaf.it>
+
+
+2020A CALL FOR PROPOSALS INAF - RADIO TELESCOPES
+
+
+-- DEADLINE 3.10.2019 12:00 CET--
+
+
+The Istituto Nazionale di Astrofisica (INAF) invites scientists to
+participate in the call for proposals of observing time at the three
+national radio telescopes:
+
+- the 32-m Medicina antenna
+- the 32-m Noto antenna
+- the 64-m Sardinia Radio Telescope
+
+Two observing semesters are scheduled every year: 1st January to 30th June,
+1st July to 31st December.
+Deadlines fall in early October and early April, respectively.
+
+
+The three telescopes can be used as single dishes for spectroscopic and
+ continuum observations as well as for VLBI, outside the standard networks
+coordination (EVN, IVS, etc.) which have their own time allocations.
+
+VLBI proposers must take care of organising the availability of
+international telescopes if needed by their observations. The presence of
+observers at SRT is also requested. They are also required to contact the
+antenna staff prior to submission, in order to assess the availability of
+software/hardware services for their specific needs.
+
+Some SRT configurations are offered in shared risk mode, please take this
+into account when preparing the proposal and contact SRT team before
+submitting the proposal.
+SRT staff may be able to offer support for external proposer/observer, you
+can contact them for details.
+
+Instructions on the submission procedure and characteristics of the
+instruments currently available can be found at
+
+http://www.radiotelescopes.inaf.it/proposal_main.html
+
+
+A dedicated help desk for the submission only may be reached via e-mail at
+radioproposal@inaf.it
+
+The proposals will be peer-reviewed and should be submitted before
+12:00 CET of October 3rd, 2019.
+
+Below we report the time INAF plans to award for the next semester 2020A:
+
+Medicina: 2500 hours
+Noto: 2000 hours
+SRT: 1500 hours
+
+These amounts might be subject to modification, due to maintenance needs
+and to the variability of the commitments resulting from international
+agreements.
+
+
+** NOTICE
+
+According to the MOU between INAF and KASI up to 30hrs of observing time in
+VLBI mode are allocated to approved eating VLBI projects. These projects
+have to be submitted both to the Italian and Korean TACs with the standard
+form selecting "Eating VLBI mode" in the project type. Approved projects
+will be observed up to 30hrs/semester.
+Projects exceeding 30 hours will be scheduled together with all other
+projects according to their relative grades.
+PIs of these proposals must be associated with INAF or KASI.
+
+**
+
+Please, feel free to distribute the present call to anyone interested
+Best regards,
+
+
+Tiziana Venturi
+Emilio Molinari
+
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+Mail
+priva di virus. www.avast.com
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+<#m_6732890070364895096_m_-5640584396676999430_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+==============================================================================
+
+Date: Thu, 12 Sep 2019 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Peter Scicluna (ASIAA)
+Topic:         Dusty mass-loss from evolved stars
+Time:         9/18 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract: Evolved Stars play key roles, enriching galaxies with dust, gas that fuels star
+formation and the products of nucleosynthesis through their mass loss.For low- and
+intermediate-mass stars, a large part of this mass loss occurs on the Asymptotic Giant
+Branch through a dusty wind, while the more massive Red Supergiants undergo similar
+processes. In this talk, I will review some recent progress in understanding the mechanisms
+driving this mass loss and how it enriches the ISM. I will then present some results from the
+ongoing JCMT large program the Nearby Evolved Stars Survey, which is observing a
+statistical sample of evolved stars in the Solar Neighbourhood. NESS aims to determine the
+total mass return to the Solar Neighbourhood and obtain a statistical picture of the physics
+of mass loss. Finally, I will explore some important avenues for future work in this field.
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

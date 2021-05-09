@@ -1,0 +1,42 @@
+
+In this issue (Jun 25 - 30, 2019)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Jul 03): Yusuke Tsukamoto (Kagoshima U)
+
+==============================================================================
+
+> Date: Thu, 27 Jun 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Yusuke Tsukamoto (Kagoshima University)
+Topic:          Impact of non-ideal effects on circumstellar disk formation and their possible observational signatures
+Time:           7/3 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In this talk, I will talk about recent progress of  theoretical studies about circumstellar disk formation. In particular, I will focus on the impact of non-ideal MHD effect. Recent theoretical studies have shown that non-ideal MHD effects (Ohmic diffusion, Hall effect, ambipolar diffusion) play crucial roles for protostar and circumstellar disk formation and evolution. Ohmic and ambipolar diffusion decouple the gas and the magnetic field, and significantly reduces the magnetic torque in the first core and disk, which enables the formation of the circumstellar disk at the formation epoch of protostar. Ambipolar diffusion set an upper limit to the magnetic field strength of ~ 0.1 G  in and around the newly born disk (Masson+16, Tsukamoto+17). Hall effect notably changes the magnetic torques in the envelope around the disk, and strengthens or weakens the magnetic braking depending on the relative orientation of magnetic field and angular momentum (Krasnopolsky+11, Tsukamoto+15!
+ b, Tsukamoto+17). This suggests that the bimodal evolution of the disk size may realize in the early disk evolutionary phase. Hall effect and ambipolar diffusion imprint the characteristic velocity structures in the envelope of Class 0/I YSOs. Hall effect makes a counter-rotating envelope around the disk. Our simulations show that counter rotating envelope has the size of 100-1000 AU.  Ambipolar diffusion causes the significant ion-neutral drift in the envelope. Our estimate show that the drift velocity of ion could become significant  (~km/s ) in the Class 0/I YSOs.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

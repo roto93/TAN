@@ -1,0 +1,86 @@
+From jiang@astro.ncu.edu.tw Mon Oct  8 08:38 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA03988
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 8 Oct 2001 08:38:12 +0800 (CST)
+Received: from joule.phy.ncu.edu.tw (joule.phy.ncu.edu.tw [140.115.30.14])
+	by asiaa.sinica.edu.tw (8.9.3+Sun/8.9.3) with ESMTP id IAA19012
+	for <astro@asiaa.sinica.edu.tw>; Mon, 8 Oct 2001 08:28:25 +0800 (CST)
+Received: from localhost (jiang@localhost)
+	by joule.phy.ncu.edu.tw (8.9.3/8.9.3) with ESMTP id IAA32454
+	for <astro@asiaa.sinica.edu.tw>; Mon, 8 Oct 2001 08:34:12 +0800
+X-Authentication-Warning: joule.phy.ncu.edu.tw: jiang owned process doing -bs
+Date: Mon, 8 Oct 2001 08:34:12 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+X-Sender: jiang@joule.phy.ncu.edu.tw
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU/ASIAA Joint Colloquium
+Message-ID: <Pine.LNX.4.21.0110080831230.31900-100000@joule.phy.ncu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3181
+Status: RO
+
+                   ***************************************
+                   |     National Central University     |
+                   *-------------------------------------*     
+                   |           Academia Sinica           |    
+                    Institute of Astronomy & Astrophysics 
+                   \__________ Joint Colloquium _________/
+
+
+                       2:00 p.m. 12 Oct. 2001 (Friday)
+                 NCU Science Building IV, Conf. Room, Rm 1013
+   
+                 Speaker: Dr. Wang, Chih-Yueh
+                          (National Central University)
+      
+                 Title:   Instabilities and Clumping 
+                          in Type Ia Supernova Remnants
+             
+                 Abstract:
+
+            We present two-dimensional high-resolution hydrodynamical
+            simulations in spherical polar coordinates of a Type Ia
+            supernova interacting with a constant density interstellar
+            medium. The ejecta are assumed to be freely expanding with 
+            an exponential density profile. The interaction gives rise 
+            to a double-shocked structure susceptible to hydrodynamic
+            instabilities. 
+
+            The Rayleigh-Taylor instability initially grows, but the
+            Kelvin-Helmholtz instability takes over, producing vortex
+            rings. Provided the simulation is initiated early in the
+            evolution, with a perturbation $\ga 1$\%, the instability 
+            reaches its fully developed nonlinear strength within 5
+            doubling times. The further nonlinear evolution does not
+            depend on the initial conditions. Considering the small
+            initial radii of Type Ia supernovae, they are likely to reach
+            this fully developed phase. The nonlinear
+            instability initially evolves toward longer wavelengths and
+            eventually fades away when the reverse shock front is in the
+            flatter part of the supernova density distribution. Based on
+            observations of  X-ray knots and the protrusion in the
+            southeast outline of Tycho's supernova remnant, we include
+            clumping in the ejecta because these features cannot be
+            explained by instabilities growing from small
+            perturbations. The clump interaction with the reverse shock
+            induces Rayleigh-Taylor and Kelvin-Helmholtz instabilities on
+            the clump surface that facilitate fragmentation. 
+
+            In order to survive crushing and to
+            have a bulging effect on the forward shock, the clump's
+            initial density ratio to the surrounding ejecta must be at
+            least 100 for the conditions in Tycho's remnant. The $^{56}$Ni
+            bubble effect may be important for the development of
+            clumpiness in the ejecta.
+
+            The observed presence of an Fe clump would then require a
+            non-radioactive origin for this Fe, possibly $^{54}$Fe. The
+            large radial distance of the X-ray emitting Si and S ejecta
+            from the remnant center indicates that they were initially in
+            clumps.
+
+
+
+
+

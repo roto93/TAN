@@ -1,0 +1,266 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Sat Oct  1 16:57:13 2005
+Date: Thu, 29 Sep 2005 15:19:35 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue September 27 - 29, 2005)
+
+==============================================================================
+
+In this issue (September 27 - 29, 2005)
+
+1. NCU Colloquia (Oct 04): Pisin Chen (Stanford U),
+                 (Oct 07): Parijat Thakur (NCU)
+2. ASIAA Colloquium (Sept 30): Jumpei Takata (TIARA)
+3. EAYAM 2006: deadline extended
+
+==============================================================================
+
+From: "Yi Chou" <yichou@astro.ncu.edu.tw>
+To: <astro@asiaa.sinica.edu.tw>
+Subject: NCU Colloquia 
+Date: Wed, 28 Sep 2005 12:35:41 +0800
+
+ 
+           _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/              
+         _/                                 _/
+       _/      NCU Astronomy Colloquium    _/
+     _/                                   _/
+   _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+ 
+ 
+(1)
+Speaker :       Prof. Pisin Chen (Kavli Institute for Particle Astrophysics
+and Cosmology, Stanford Linear Accelerator Center, Stanford University)
+
+Title :          Alfven-Shock Induced Plasma Wakefield Acceleration for
+Ultra High Energy Cosmic Rays       
+
+Date    :          October 4th, 2005 (Tuesday)
+
+Time    :         03:30 pm
+
+Place   :          Room 1013, Science Building IV, NCU
+ 
+ 
+ 
+(2)
+ 
+Speaker :       Dr. Parijat Thakur (Graduate Institute of Astronomy,
+National Central University)
+
+Title :              SPH Simulations for formation of Nuclear Spirals in
+Barred Galaxies 
+
+Date    :          October 7th, 2005 (Friday)
+
+Time    :         02:00 pm
+
+Place   :          Room 1013, Science Building IV, NCU
+ 
+ 
+ 
+
+Yi Chou
+
+Assistant Professor
+
+Astronomy Institute
+
+National Central University
+
+ 
+
+==============================================================================
+ 
+From: "Dinh Van Trung" <trung@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Cc: faculty@phys.ntu.edu.tw
+Subject: Colloquium on Friday Sep. 30, 2005
+Date: Thu, 29 Sep 2005 08:28:01 +0800
+
+Dear colleagues,
+
+This Friday we will have another colloquium presented
+by Dr. Jumpei Takata, who is currently TIARA postdoctoral
+fellow. Dr. J. Takata works mainly in pulsar and high
+energy astrophysics. He will share with us his recent research
+results on the particle acceleration in the magnetosphere of
+pulsars. So please mark your calendar and join the talk to 
+learn more about these exciting research results.
+
+Speaker: Dr. Jumpei Takata (TIARA)
+
+Title: Electrodynamical study on acceleration in pulsar magnetosphere
+
+Date/time: 02:00 pm Friday, Sep. 30, 2005
+
+Place: conference room, R.716
+
+Summary:
+
+Rapidly rotating young pulsars such as the Crab pulsar is one of the origins
+of cosmic high energy gamma-rays and particles. The electrons and positrons
+are accelerated to ~10TeV and emit the gamma-rays above 1GeV in the pulsar
+magnetosphere. The particle acceleration mechanism in the pulsar magnetosphere
+have been studied by many astronomers since discovery of the pulsar in 1969.
+However, the problem is not conclusive up to now.
+
+In resent work, we have developed the electrodynamical study on the particle
+acceleration at the outer magnetosphere. We have self-consistently solved the
+accelerating electric field, radiation process and pair-creation process with
+the current in the meridional plane with a 2-dimensional model for the first
+time. We find that the acceleration start point shifts toward the stellar
+surface as the current increases. We demonstrate that the gamma-ray spectrum
+hardness strongly depends on the current. We apply the model to the Vela
+pulsar. We discuss the structure of the acceleration region of the Vela pulsar
+by comparing the model spectrum with the observed one.
+
+Best regards,
+
+Trung
+
+==============================================================================
+
+Date: Thu, 29 Sep 2005 14:55:13 +0800 (CST)
+To: kuan, web@asiaa.sinica.edu.tw
+Subject: EAYAM 2006
+From: KINOSHITA Daisuke <daisuke@optik.mtk.nao.ac.jp>
+X-Fingerprint: FC9C D2FB A567 44F4 5862  75FF 8DD1 535D 94E8 A61B
+X-Public-Key: http://centaurs.mtk.nao.ac.jp/~daisuke/daisuke.gpgpubkey
+
+Dear Prof. Kuan,
+
+Could you please distribute following announcement to TAN network?
+
+Thank you,
+
+Daisuke
+
+---------------------------------------------------------------------------
+Dear colleage,
+
+We have decided to change the deadline of the submission of abstract
+and registration because of following two reasons;
+
+  (1) new semester in China and Taiwan has just started,
+  (2) the annual meeting of the Astronomical Society of Japan is
+      coming just after the current deadline (30/Sep/2005).
+
+New deadline for submission of abstract is set to 15 October 2005.
+
+---------------------------------------------------------------------------
+                       First Announcement
+
+      East Asian Young Astronomers Meeting 2006 (EAYAM 2006)
+                     Kiyosato, Yamanashi, Japan
+                       13-18 February 2006
+
+                   http://th.nao.ac.jp/~eayam/
+
+
+Dear colleage,
+
+In Nov. 2003, Taiwanese young astronomers organized East Asian Young
+Astronomers Meeting 2003 (EAYAM 2003), and it was a great success. In
+Oct. 2004, 6th East Asia Meeting for Astronomy (EAMA6) has settled a
+working group for EAYAM, and this working group encourages young
+astronomers to have EAYAM every 2-3 years so that all the PhD course
+students have a chance to attend it at least once during their course.
+
+Here, we are pleased to announce that the East Asian Young Astronomers
+Meeting 2006 (hereafter, EAYAM 2006) will be held in Kiyosato,
+Yamanashi, Japan from 13-18 Feb. 2006. The main topic of the invited
+reviews is ``Comprehensive Understanding of Star Formation and its
+Evolution'', and it is mainly divided into following three categories:
+
+  (1) Star Formation and Radio Astronomy,
+  (2) Evolution of Stars and Optical / Infrared Astronomy,
+  (3) Final Stage of Stellar Evolution and High Energy Astrophysics.
+
+The contributed talks, however, are not limited to these topics.
+
+This meeting is organized by Japanese young astronomers, and invites
+young astronomers in four of the EAMA core regions, China, Japan,
+Korea and Taiwan. We also certainly welcome contributions from young
+astronomers who are originally from one of these regions and are
+currently engaged in research activities abroad. The aim of the
+meeting is to encourage the interaction among young astronomers of
+neighboring regions, and thus, to provide an opportunity for future
+international collaborations. All the participants are expected to
+give both oral and poster presentation in order to stimulate
+discussions and interactions.
+
+The number of participants from each region will be approximately
+12. Postdocs and graduate students are encouraged to participate. We
+will provide meals and accommodations during the meeting and
+transportation between Tokyo and Kiyosato. Due to the limited budget,
+we cannot cover your travel expense between your home institute and
+Tokyo.
+
+To register and submit an abstract, please visit following website:
+
+  http://th.nao.ac.jp/~eayam/
+
+The deadline is postponed from the initial date of 30 September
+2005. New deadline of the abstract submission is 15 October 2005. If
+you have any question on EAYAM 2006, please contact to
+<eayam06_info@th.nao.ac.jp>.
+
+This meeting is supported by National Astronomical Observatory of
+Japan, RIKEN, Inoue Science Foundation, Foundation for Promotion of
+Astronomy, and individual astronomers in Japan.
+
+
+
+Scientific Organizing Committee (alphabetical order):
+
+BAMBA Aya (RIKEN)
+CHEN Wen-Ping (National Central University)
+IMAI Hiroshi (Kagoshima Univ.)
+KAWABE Ryouhei (NAOJ)
+LIU Sheng-Yuan (ASIAA)
+PAK Soojong (Korea Astronomy and Space Science Institute)
+SOHN Jungjoo (Seoul National University)
+YONEHARA Atsunori (Univ. of Tokyo, Chair)
+
+
+
+Local Organizing Committee (alphabetical order):
+
+FUJIWARA Hideaki (Univ. of Tokyo)
+FUKUSHI Hinako (Univ. of Tokyo)
+GOTO Tomotsugu (ISAS / JAXA)
+HANAYAMA Hidekazu (NAOJ / Univ. of Tokyo)
+HIGUCHI Arika (Kobe Univ.)
+KAMOHARA Ryuichi (Kagoshima Univ.)
+KINOSHITA Daisuke (NAOJ / NCU, Co-Chair)
+MAYAMA Satoshi (NAOJ)
+NAGAO Tohru (NAOJ)
+NAKAZATO Takeshi (NAOJ)
+OTA Kazuaki (Univ. of Tokyo)
+SAITOH Takayuki (NAOJ)
+SEKIGUCHI Tomohiko (NAOJ, Co-Chair)
+SHIKI Shigetomo (OECU)
+URATA Yuji (RIKEN)
+WAJIMA Kiyoaki (Korea Astronomy and Space Science Institute)
+YAMAZAKI Dai (Univ. of Tokyo)
+---------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

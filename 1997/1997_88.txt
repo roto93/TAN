@@ -1,0 +1,423 @@
+From kyl@biaa.sinica.edu.tw Sat Dec 13 08:06 CST 1997
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA29552; Sat, 13 Dec 1997 08:06:26 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA16170; Sat, 13 Dec 1997 08:05:24 +0800
+Date: Sat, 13 Dec 1997 08:05:24 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: IUCAF Report on WRC-97 (Condensed) (fwd)
+Message-Id: <Pine.GSO.3.96.971213080521.15981H-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 19303
+Status: R
+
+
+
+---------- Forwarded message ----------
+To: rekers@atnf.csiro.au, a.green@physics.usyd.edu.au,
+    pmcc@physvax.phys.utas.edu.au, jwhiteoa@atnf.csiro.au, ped@drao.nrc.ca,
+    tll@drao.nrc.ca, don.morton@hia.nrc.ca, leo@das.uchile.cl,
+    xytan@fudan.ihep.ac.cn, uao@public.wl.xj.cn, jlzhao@center.shao.ac.cn,
+    mattila@cc.helsinki.fi, sur@vipunen.hut.fi, baudry@observ.u-bordeaux.fr,
+    grewing@iram.fr, wim.vanDriel@obspm.fr, jbaars@mpifr-bonn.mpg.de,
+    kmenten@mpifr-bonn.mpg.de, rwielebinski@mpifr-bonn.mpg.de,
+    p073twi@mpifr-bonn.mpg.de, azensus@mpifr-bonn.mpg.de,
+    padrielli@astbo1.bo.cnr.it, butcher@nfra.nl, rts@jive.nfra.nl,
+    gomez@cay.es, hans@astro.su.se, richard@mrao.cam.ac.uk,
+    rdd@jb.man.ac.uk, nkardash@dpc.asc.rssi.ru, par@sao.stavropol.su,
+    fukui@a.phys.nagoya-u.ac.jp, hirax@vsop.isas.ac.jp,
+    inatani@nro.nao.ac.jp, inoue@nro.nao.ac.jp, ishiguro@nro.nao.ac.jp,
+    cho@apissa.issa.re.kr, george@bootes.hartrao.ac.za, willem@naic.edu,
+    blitz@astro.umd.edu, demerson@nrao.edu,
+    goldsmit@astrosun.tn.cornell.edu, mgoss@aoc.nrao.edu,
+    pjewell@compuserve.c
+Subject: IUCAF Report on WRC-97 (Condensed)
+
+
+Dear Colleague,
+
+Below you will find a condensed version of the IUCAF Report on the ITU
+World Radiocommunication Conference WRC-97 held in Geneva in
+October/November. The Radio Astronomy Service did quite well during
+this Conference, thanks to the hard work of a number of radio
+astronomers.
+
+Besides the specific results on radio astronomy related issues, some
+impressions are given of the atmosphere at the Conference and the
+strong forces at work.
+
+Sincerely Yours,
+
+Willem Baan
+
+
+*********************************************************************
+
+INTER-UNION COMISSION ON THE ALLOCATION OF FREQUENCIES 
+FOR RADIO ASTRONOMY AND SPACE RESEARCH
+
+                                        IUCAF Document 441 - Condensed
+
+     RADIO ASTRONOMY AND EARTH EXPLORATION ISSUES AT ITU WRC-97
+             Geneva, October 27 to November 21, 1997
+
+                   by Willem A. Baan, Chairman
+
+1.	INTRODUCTION
+
+The bi-annual ITU World Radiocommunication Conference ("WRC-97") has
+been held in Geneva from October 27 to November 21, 1997. Spectrum
+allocation issues for the Radio Astronomy ("RAS") were not on the
+Agenda for this Conference, only issues of peripheral interest.
+However, the allocation of spectrum for the Earth Exploration Satellite
+("EES") service was an important part of the Agenda, because the EES
+had not been allocated any spectrum since 1979. Participation from both
+the radio astronomy and Earth exploration communities was strong during
+the Conference and both the EES and the RAS were successful on all
+relevant issues. The ITU Radiocommunication Assembly ("RA") dealing
+with the work of the ITU Study Groups was held in the week preceding
+WRC-97.
+
+RADIO ASTRONOMY PARTICIPATION --- The radio astronomy and remote
+sensing communities were well represented at the Conference and there
+was strong and effective coordination between both passive user
+communities. The remote sensing people were all part of national
+delegations. The following astronomers participated in WRC-97:
+
+			  Delegation
+S. Ananthkrishnan 	  India 		week 123
+Willem Baan (USA)	  IUCAF			week 1234 
+Jim Cohen (UK)		  IUCAF			week 1234
+Boris Doubinskii (Russia) IUCAF			Radio Assembly + w1
+Tomas Gergely		  United States		week 1234
+Stanislav Gorgolevsky 	  Poland		week 34
+Hans Kahlmann		  Netherlands 		week 12
+Tom Kuiper (USA) 	  IUCAF			week 2
+Dave Morris (France)	  IUCAF 		week 23
+Masatoshi Ohishi (Japan)  IUCAF 		week 12
+Ken Tapping		  Canada 		week 1234
+Titus Spoelstra		  Netherlands 		week 34
+Paul VandenBout		  United States		week 2
+John Whiteoak		  Australia		week 234
+Anders Winnberg (Sweden)  IUCAF			week 2
+
+A big "THANK YOU" to all participants for their part in making this a
+successful RA and Conference. With 15 delegates the RAS had a midsize
+delegation. IUCAF thanks Paul VandenBout, director of the National
+Radio Astronomy Observatory (USA), for his attendance of the Conference
+and for his support of the radio astronomy delegation.
+
+COORDINATED ACTION OF IUCAF AND ADMINISTRATIONS --- As a Sector Member
+of the ITU, IUCAF can participate in all discussion forums within the
+ITU without itself having voting rights. IUCAF acts as an independent
+voice for the passive services, and again at this Conference there was
+very effective interplay between IUCAF and the national delegations.
+IUCAF and the radio astronomy community have become a "known entity" at
+the ITU, because the message of "protection for passive services" has
+not changed over the years and there are no hidden agendas.  The
+presence and the active participation of so many RAS/IUCAF delegates on
+large number of Agenda Items have strongly reinforced the need to
+protect the RAS and other passive spectrum users. The ITU reality is
+that decisions will be made, with or without RAS input. Therefore, it
+is essential that the (more) radio astronomers are active at these
+battlefields.
+
+THANK YOU --- IUCAF recognizes the considerable support of India,
+France, The Netherlands, United Kingdom, United States, and Sweden on
+radio astronomy related issues during this Conference. IUCAF also
+recognizes the active support of members from the remote sensing
+community during this Conference.
+
+IUCAF submitted a position document to WRC-97 on Agenda Items relevant
+to the passive service community (WRC-97 Document 144-E; IUCAF WWW doc
+440). IUCAF also submitted a position document to the ITU RA, which
+dealt with a recommendation from the satellite community to use Monte
+Carlo methods to calculate the interference levels into radio
+telescopes in the 1600 MHz bands (RA97/PLEN/54; WWW doc 439). In
+addition, IUCAF distributed a large number of copies of a popular
+article on "Radio Astronomy in the 21st Century" (K. Kellerman, Sky &
+Telescope, February 1997) during the last week of WRC-97. Paul
+VandenBout also presented a popular lunch talk on "What do the Radio
+Astronomers use all that radio spectrum for?"
+
+The final acts of WRC-97 contain some 550 pages. An estimated 7.7
+million pages were reproduced during WRC-97 or about 3000 pages per
+participant.
+
+In the following Section 2, some remarks will be made on the Conference
+and its working climate. Section 3 presents the Conference results on
+important RAS and EES issues. The relevant Agenda Items to be
+considered at the next WRC-99 are listed. An extended version of this
+document (Doc 441) and all relevant WRC-97 documents are on the IUCAF
+Home Page.
+
+2       CONFERENCE EVALUATION AND FUTURE WORK
+
+MORE RAS PARTICIPANTS ARE NEEDED TO PREPARE FOR WRC-99 --- The radio
+astronomy spectrum above 71 GHz is part of the Agenda for WRC-99, Item
+1.16 together with EESS (passive). This will be the LAST change for the
+RAS to make any changes in the current mmwave spectrum allocations up
+to 275 GHz and to forcefully address protection and interference issues
+at mmwave frequencies. We need to be successful at that Conference.
+
+The IUCAF mmWave Working Group, chaired by Phil Jewell (GMRT) and
+Masatoshi Ohishi (NRO), in collaboration with ITU-R Working Party 7D on
+Radio Astronomy, chaired by John Whiteoak (CSIRO), has been doing
+preparatory studies on this topic for almost a year. However,
+participation from more radio astronomers and the support from all
+(mmwave) observatories are required for the coming years. The Kyoto
+Declaration needs to be put to work!!
+
+The next WP 7D meeting will be in Geneva, March 2-6, 1998, preceded by
+a two-day open IUCAF preparatory meeting for WRC-99 on February 27-28
+in Grenoble. These meetings will be a good time for people to start
+participating in the ITU proceedings.
+
+WRC-97 CONFERENCE ATMOSPHERE --- In general, this Conference can be
+characterized by "See your investment dollars at work." There was again
+much "pushing and shoving" in order to advance specific commercial
+interests, often at the expense of sound "spectrum management".
+Lobbying efforts of the developing countries were intensive.
+
+BLOCK VOTING AT THE CONFERENCE --- At past meetings, the 40 plus
+European CEPT countries have presented European Common Proposals on
+many issues in the ITU. Similarly now, some 20 Asia-Pacific countries
+presented the APT proposals and also the 12 CITEL countries presented
+their IAP proposals. The Arab and African countries also formed rather
+coherent blocks but without putting in unified/prepared proposals.
+
+MANY RECEPTIONS --- During the first three weeks, there were receptions
+nearly each evening for which all 1000+ participants were invited. Some
+parties were extremely lavish and their budgets were far larger than
+the annual budgets for spectrum management in many countries. The
+atmosphere at the WRConferences is changing rapidly.
+
+	CONFERENCE TRENDS
+1.      The Conference showed a continued pressure from operators and
+certain administrations to consolidate more spectrum allocations for
+specific satellite applications.
+2.      Serious coordination efforts still need to be made to allow
+implementation of many planned (mostly non-GSO) satellite systems and
+to allow a peaceful coexistence of new systems and existing systems. It
+appears that sharing in certain bands between different satellite
+systems and various terrestrial applications will be very difficult if
+not impossible.
+3.      The demand for high frequency spectrum has risen dramatically
+with the possibility of terrestrial and satellite-based high-density
+data systems. Specific assignments have been made for such applications
+up to frequencies of 66 GHz. Although many of these systems could still
+be far away in the future, astronomers are warned that the (currently
+interference-free) mmwave spectral regions may soon have active
+applications.
+4.      Other services, like those of terrestrial fixed and
+aeronautical radio navigation, are getting seriously worried about
+"harmful interference", which was strongly expressed at the Conference.
+It appears that the RAS and EES are not anymore the only sufferers from
+unwanted emissions and there may be some new allies for the passive
+spectrum users.
+
+	HOT ISSUES AT WRC-97
+1. 	Aggregate Power Flux Density limits in Article S22 to allow
+frequency sharing between non-GSO and GSO Fixed Satellite (FSS) and
+Broadcasting Satellite (BSS) networks allowing non-GSO systems like
+Celestri (Motorola) and SkyBridge (Alcatel) to operate together in a
+band. This compromise apparently goes at the expense of the existing
+GSO systems sharing these bands, which will have difficulty operating
+under these standards.
+2. 	An extension band (sE) allocation for Inmarsat around 1600 MHz has
+been deferred to WRC-99 (Agenda Item 1.9).
+3. 	Satellite broadcasting channel plans for finding an equitable
+distribution for all countries.
+4. 	HF Broadcasting issues were extremely important for developing
+countries.
+5. 	Appendices S30 and S30A of the Radio Regulations harmonizing the
+feeder link plans for GSO BSS and FSS systems.
+6.	Lengthy/confusing discussions on deletions/changes in country
+footnotes from the Radio Regulations.
+
+3 ACTIONS ON AGENDA ITEMS OF WRC-97 RELEVANT TO RADIO ASTRONOMY AND
+EARTH EXPLORATION
+
+A.      SPURIOUS EMISSION LIMITS
+
+The results from ITU-R Task Group 1/3 have been adopted by the
+Conference and have been incorporated in Appendix S3 of the Radio
+Regulations. Section II of S3 has the new standards that will apply for
+all systems installed after Jan 2003 and for all transmitters after Jan
+2012. We will have to wait six years before the new (and greatly
+inadequate) Category A limits (dating from the seventies) will be first
+enforced.
+
+Recommendation 66 has been revised during the Conference such that
+ITU-R Task Group 1/5 can continue its work. TG1/5 chaired by Mohan
+Dhamrait (UK) will address the following issues: a) the (outstanding)
+spurious emission limits for the space services, b) the spurious
+Out-of-Band (OOB) emission limits for all services and particularly for
+services not presently included in S3, c) the rewrite of
+Recommendations on Spurious and OOB emissions, and d) to find the
+reasonable boundary between spurious and OOB. In particular, TG 1/5 has
+been tasked to study those bands that need more stringent limits on
+spurious and OOB to protect passive and safety services, and the impact
+of implementing or not implementing these limits. The dominant
+perception is that "general spurious limits" for active services should
+not be used to protect the passive services in a few bands.
+
+IUCAF has been actively participating in the work of Task Group 1/3 and
+presently in TG 1/5. More radio astronomers need to participate in this
+important work.
+
+B.         BANDS BELOW 1 GHZ
+
+Footnote RR S5.186, providing co-primary status for the RAS in the band
+79.25 - 80.25 MHz in Region 3, has been suppressed at the request of
+the Fixed and Mobile services. This band was totally unusable for
+astronomers in Region 3. Another exclusive allocation for RAS in Region
+2 in the 73 - 74.6 MHz band with footnotes in Regions 1 and 3 may serve
+better as a band in this frequency range. Some return favor from the FS
+and MS and cooperation at the next conference will be required.
+
+C.         MOBILE SATELLITE SERVICE
+
+India made proposals were carried to modify Footnote S5.208A relating
+to the protection of radio astronomy from MSS (sE) operations in the
+bands below 1 GHz. The modified footnote is slightly stronger but it is
+still not obligatory.
+
+No new MSS (sE) allocations below 1 GHz. New MSS (Earth-to-space)
+allocations were made in the bands 455 - 456 MHz and 459 - 460 MHz for
+MSS in Region 2 only.
+
+A new resolution calls for studies on the impact of NGSO MSS (sE) in
+the band 405 - 406 MHz on primary services in adjacent bands including
+the RAS in the band 406.1 - 410 MHz.
+
+Studies have been called for on "Frequency Sharing in the Bands 1610.6
+- 1613.8 MHz and 1660 - 1660.5 MHz between MSS and RAS" using ITU-R
+M.1316 (Monte Carlo method) and other relevant ITU-R Recommendations.
+This issue is not yet on a future Conference Agenda.
+
+The Land MSS allocation in the band 1660 - 1660.5 MHz has been
+converted to general MSS. Footnote S5.376A with "thou shalt not
+interfere with RAS" has been added.
+
+COM5-15 calls for studies to consider possible feeder link allocations
+for non-GSO MSS (Little LEO) systems in bands adjacent to the 1400 -
+1427 MHz passive band. (WRC-01 Agenda 3.5)
+
+Maritime Mobile (except aeronautical mobile) has been added to the band
+14.47 - 14.5 GHz, where RAS has secondary status for formaldehyde line.
+Studies are planned. RAS needs to get upgrade to Primary in near
+future.
+
+D.      FIXED SATELLITE SERVICE
+
+The non-GSO FSS feeder link allocation in the band 15.4 -15.7 GHz has
+been modified to 15.43 - 15.63 GHz. This band is adjacent to the
+primary RAS band 15.35 - 15.4 GHz. Footnote S5.511A specifically states
+that FSS (sE) shall not cause harmful to RAS stations in the band 15.35
+- 15.4 GHz based on RA.769 and calls for special measures to protect
+the RAS. (WRC-99 Agenda 1.14) It appears unlikely that this band can be
+used at all for FSS (sE). The American Ellipso system plans to use this
+band in (Es) direction. A Russian system is planned for the (sE)
+direction.
+
+The band 40.5 - 42.5 GHz has been provisionally allocated to Fixed
+Satellite Service (sE) subject to feasibility studies. This band is
+adjacent to the 42.5 - 43.5 GHz RAS band in Regions 1 and 3. The USA
+and UK object to use the upper 1 GHz of the band for this purpose,
+which may serve as guard band. (WRC-99 Agenda 1.4)
+
+E       EARTH EXPLORATION ISSUES
+
+A proposal from the Netherlands to use 6 MHz in the 420 - 470 MHz range
+for observations of forest canopy and ground-trunk interactions
+received little support from the Conference. (WRC-99 Agenda 8.7)
+
+Some 18 allocations for the Earth Exploration Satellite service have
+been made in bands from 400 MHz to 94 GHz. Some of these allocations
+were upgrades from secondary to Primary and some are new worldwide
+Primary allocations. Many have restrictive "non-interference to
+existing services" footnotes. IUCAF has requested that EES and SR
+operations in the band 3100 - 3300 MHz begin at the bottom of the band,
+in order to protect RAS observations of the CH molecule.
+
+The allocation of the 94 -94.1 GHz band for space-borne cloud radars.
+The specific frequency range has been suggested by radio astronomers
+because of its low number of spectral lines. A new footnote RR S5.562
+has been added to the 94 - 94.1 GHz band to reserve this for cloud
+radars only. These radars will be turned off over mmwave
+observatories.
+
+Extensive studies have been done to realign the allocations in the 50.2
+- 71 GHZ bands to accommodate the needs of the EES (passive) and SR
+(passive) and other active services (like Inter-Satellite Service) in
+the high-opacity oxygen absorption bands. In the process, the purely
+passive bands have been reduced from 4.85 GHz to 3.65 GHz. Space-based
+radio astronomy in this band could share spectrum with terrestrial
+services and EESS (passive) and SR (passive).
+
+Allocations for EESS (passive) above 71 GHz have been deferred to
+WRC-99. A new resolution calls for studies of EESS (passive) and RAS
+frequency bands above 71 GHz. (WRC-99 Agenda 1.16) This is important
+for mmwave astronomy.
+
+F       HIGH DENSITY FIXED SERVICE
+
+HIGH ALTITUDE PLATFORM (HAP) systems as proposed by SkyStation have
+been allocated spectrum in the FS (sE) bands 47.2 - 47.5 GHz (sE) and
+47.9 - 48.2 GHz (Es) via new footnote RR S5 552A. These allocations are
+subject to further studies that include the protection of the two
+Primary RAS allocations in the bands 42.5 - 43.5 GHz and 48.94 - 49.09
+GHz. These stratospheric balloon platforms will be positioned between
+20 and 80 km above major cities (around the world). IUCAF expressed
+strong concerns about the unwanted emission from such broad band
+applications. (WRC-99 Agenda Item 1.5). Radio astronomers discussed
+details of SkyStation and the protection of the RAS in adjacent bands
+during special meeting.
+
+Bands have been allocated for HIGH DENSITY FIXED SERVICE applications
+in the bands 31.8 - 33.4 GHz (secondary in Regions 1 and 3), 51.4 -
+52.6 GHz, 55.8 - 59 GHz, and 64 - 66 GHz. These allocations are subject
+to further study. WRC-99 Agenda 1.4.
+
+
+
+
+*****************************************************************
+International Council of Scientific Unions
+
+INTER-UNION COMMISSION ON THE FREQUENCY ALLOCATIONS
+             FOR RADIO ASTRONOMY AND SPACE SCIENCE
+                           (URSI, IAU and COSPAR)
+
+Willem A. Baan, Chairman
+
+WWW Page: http://www.naic.edu/iucaf/
+
+Arecibo Observatory                      Email: willem@naic.edu
+Barrio Esperanza                         Tel:   1-787-878-2612
+Arecibo, PR 00613                        Fax:   1-787-878-1861
+USA
+
+After February 1, 1998, the coordinates of the IUCAF Secretariat 
+will be as follows:
+
+WWW Page: http://www.nfra.nl/iucaf/
+
+Netherlands Foundation for Research in Astronomy (NFRA)  
+Westerbork Observatory
+PO Box 2                                 Email: iucaf@nfra.nl
+7990 AA Dwingeloo                        Tel:   (31) 521 595100
+The Netherlands                          Fax:   (31) 521 597332
+
+*****************************************************************
+
+
+----- End Included Message -----
+
+
+

@@ -1,0 +1,103 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Feb 13 22:19:22 2008
+Date: Wed, 13 Feb 2008 22:14:39 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Feb 13, 2008)
+
+==============================================================================
+
+In this issue (Feb 13, 2008)
+
+1. CARMA call for proposals (deadline: March 13)
+
+==============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Subject: Fwd: CARMA call for proposals: Deadline March 13
+> Date: Tue, 12 Feb 2008 16:13:56 +0800
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+	Please find below the proposal call by CARMA, which you may  
+distribute over TAN.
+
+best,
+sheng-yuan
+
+Begin forwarded message:
+
+> From: Douglas Bock <dbock@mmarray.org>
+> Date: February 7, 2008 6:58:27 AM GMT+08:00
+> To: carma-announce@mmarray.org
+> Subject: CARMA call for proposals: Deadline March 13
+>
+> CARMA Call for Proposals, Semester 2008B
+> Deadline: 13 March 2008
+> Proposals for observations using CARMA during the period 1 July to  
+> 31 December 2008 are due on 13 March 2008. CARMA comprises 15  
+> antennas operating at 1mm and 3mm on a 2200m elevation site, Cedar  
+> Flat, in the Inyo Mountains of California. Proposals will be  
+> accepted for the B, C, D, and E antenna configurations. These  
+> configurations have resolution 0.35", 0.8", 2", 5" at 230 GHz.
+>
+> CARMA is operated by the Universities of California (Berkeley),  
+> Illinois, and Maryland, and the California Institute of Technology,  
+> under a cooperative agreement with the University Radio Observatory  
+> program of the National Science Foundation. Approximately 30% of  
+> the observing time will be awarded to PIs outside the partner  
+> universities.
+>
+> Proposals should be submitted using the electronic form at http:// 
+> carma.astro.uiuc.edu/proposals/ before 17:00 CDT 13 March, 2008.  
+> Detailed information, including sensitivities and proposal  
+> submission instructions, are available at http://www.mmarray.org .  
+> Questions may also be addressed to Dr. Nikolaus Volgenau (volgenau  
+> @ mmarray.org).
+>
+> Note: Several CARMA system enhancements are underway. From time to  
+> time during this period, system upgrades may impact our ability to  
+> schedule all advertised combinations of wavelength and array  
+> configurations.
+>
+> -------------
+>
+> What's new for 2008B
+>
+> - New 3mm receivers are being installed on all antennas. These have  
+> wider a IF range and will permit simultaneous observation of new  
+> combinations of spectral lines such as 12CO and 13CO (see the  
+> correlator configuration tool for semester 2008B).
+>
+> - The compact E configuration will be offered for the first time  
+> (see CARMA memo 20).
+>
+> - The sensitivity calculator now estimates track lengths in the  
+> same way they will typically be scheduled.
+>
+> -------------
+>
+> You are receiving this message from the carma-announce email list.  
+> To unsubscribe send an email to majordomo@mmarray.org with  
+> "unsubscribe carma-announce" in the body of the message.
+>
+> Combined Array for Research in Millimeter-wave Astronomy
+> http://www.mmarray.org
+>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

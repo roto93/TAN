@@ -1,0 +1,87 @@
+==============================================================================
+
+In this issue (Nov 19 - 25, 2016)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Nov 30): Tien-Hao Hsieh (ASIAA)
+2. NTHU Astronomy Colloquium/Seminar Series (Dec 02): Ya-Wen Tang (ASIAA)
+
+==============================================================================
+
+> Date: Thu, 24 Nov 2016 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Tien-Hao Hsieh (ASIAA)
+Topic:          Widening of Protostellar Outflows: an Infrared Outflow Survey in Low Luminosity Objects
+Time:           11/30 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+We present an outflow survey toward 20 Low Luminosity Objects (LLOs), namely protostars with an internal luminosity less than 0.2 Lsun. Although a number of studies have reported the properties of individual LLOs, the reasons for their low luminosity remain uncertain. To answer this question, we need to know the evolutionary status of LLOs. Protostellar outflows are found to widen as their parent cores evolve, and therefore, the outflow opening angle could be used as an evolutionary indicator. The infrared scattered light escapes out through the outflow cavity and highlights the cavity wall, giving us the opportunity to measure the outflow opening angle. Using the Canada-France-Hawaii Telescope, we detected outflows toward eight LLOs out of 20 at Ks band, and based on archival Spitzer IRAC1 images, we added four outflow-driving sources from the remaining 12 sources. By fitting these images with radiative transfer models, we derive the outflow opening angles and inclination a!
+ ngles. To study the widening of outflow cavities, we compare our sample with the young stellar objects from Arce & Sargent (2006) and Velusamy et al. (2014) in the plot of opening angle versus bolometric temperature taken as an evolutionary indicator. Our LLO targets match well the trend of increasing opening angle with bolometric temperature reported by Arce \& Sargent and are broadly consistent with that reported by Velusamy et al., suggesting that the opening angle could be a good evolutionary indicator for LLOs. Accordingly, we conclude that at least 40\% of the outflow-driving LLOs in our sample are young Class 0 objects.
+
+==============================================================================
+
+> Date: Fri, 25 Nov 2016 17:16:05 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+>         yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 2nd Dec. 2016 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker: Dr. Ya-Wen Tang (ASIAA)
+
+Title: Planet formation in AB Auriga:
+        imaging inner gaseous spirals inside the dust cavity
+
+
+Abstract:
+Studies of planet forming disks have rapidly advanced in
+the last few years thanks to high contrast high angular
+resolution images obtained in the optical/near infrared
+and in the mm/submm regime. In the meantime, several
+exoplanets have been found by direct imaging in nearby
+debris disks. Studying planet formation in younger systems
+where the molecular gas and dust material are not yet fully
+dissipated is a clue to understand how a planetary system
+forms and evolves while the disk dissipates.
+
+In order to trace the structures induced by embedded objects,
+such as companion or planets, I observed the 12CO 2-1 transition
+at 0.1 angular resolution in the AB Aurigae system using ALMA.
+The 12CO 2-1 gas exhibits two spiral-like features within 0.7"
+(radius, r, 90AU) away from the star. These spirals are trailing
+and non-self-gravitating. Two possible locations of the embedded
+objects are suggested in order to explain the observed features
+in AB Aurigae system.
+
+Tea/Discussion Time is followed !  All Welcome !
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

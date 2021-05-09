@@ -1,0 +1,46 @@
+
+> From: "Hsiang-Kuang Chang" <hkchang@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium; 6/16, Fri.
+> Date: Thu, 1 Jun 2006 18:28:11 +0800
+
+-------------------------------------------------------------------
+                   Astronomy Colloquium
+                  Institute of Astronomy
+               National Tsing Hua University
+
+               "X-wind - the saga continues" 
+
+                      Prof. Mike Cai
+                          (ASIAA)
+
+In the context of star formation, the classical X-wind model provides a 
+self-consistent mechanism for magnetically channeling an accretion flow from 
+the disk to the protostar while driving a powerful outflow. However, the 
+mathematical solution possesses significant challenge. The governing 
+equation is a partial differential equation which changes character from 
+elliptic to hyperbolic across an unknown internal surface. This makes 
+numerical integration a daunting task. Based on an action principle, we have 
+reformulated the equations in the hodograph space. By interpolating between 
+analytic solutions near the X-point and at the asymptotic infinity, and 
+extremizing the action, we are able to construct approximate solutions that 
+describe a cold magnetohydrodynamic flow emanating from a small region near 
+the inner edge of an accretion disk. 
+                   
+              12:10pm, June 16, 2006 (Friday)
+                Room 620, Physics Building
+-------------------------------------------------------------------
+For lunch-box request, please contact Ms Kao at (03)5742666 or 
+w05836@phys.nthu.edu.tw by 5:00pm, June 15, 2006.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Hsiang-Kuang Chang                         hkchang@phys.nthu.edu.tw
+Associate Professor
+Department of Physics & Institute of Astronomy   Tel: 886-3-5742952
+National Tsing Hua University                    Fax: 886-3-5723052
+Hsinchu 30013                                
+Taiwan, ROC                URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

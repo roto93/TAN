@@ -1,0 +1,344 @@
+From kyl@biaa.sinica.edu.tw Mon Feb  9 11:46 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA25466; Mon, 9 Feb 1998 11:44:16 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id LAA04967; Mon, 9 Feb 1998 11:42:09 +0800
+Date: Mon, 9 Feb 1998 11:42:09 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: ISM Workshop (fwd)
+Message-Id: <Pine.GSO.3.96.980209114206.4365K-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 12622
+
+
+
+---------- Forwarded message ----------
+Date: Thu, 5 Feb 1998 09:04:21 -0800 (PST)
+From: Lloyd Higgs <Lloyd.Higgs@hia.nrc.ca>
+To: clada@cfa.harvard.edu, jpj.lafon@obspm.fr, langer@nimba.jpl.nasa.gov,
+    lasker@stsci.edu, latter@dusty.arc.nasa.gov, rlaurey@iso.vislspa.esa.es,
+    laurent@obspm.fr, gleto@ira.noto.cnr.it, le@obspm.fr,
+    leger@iaslab.ias.fr, leisawitz@stars.gsfc.nasa.gov,
+    lequeux@mesioa.obspm.fr, chun_leung@mts.rpi.edu, likkel@uwec.edu,
+    cclin@math.mit.edu, dcl@tacos.caltech.edu, rene@astro.su.se,
+    hliszt@nrao.edu, lizano@astrosmo.unam.mx, kyl@biaa.sinica.edu.tw,
+    jlockman@nrao.edu, jal@bufadora.astrosen.unam.mx, lovas@tiber.nist.gov,
+    flow@as.arizona.edu, lozinsk@sai.msu.su, lucas@iram.fr,
+    blynds@unidata.ucar.edu, mccall@aries.phys.yorku.ca,
+    dick@jila.colorado.edu, peter@mso.anu.edu.au,
+    CMckee@astron.Berkeley.EDU, mordecai@mpia-hd.mpg.de, dmn@star.ucl.ac.uk,
+    maciel@orion.iagusp.usp.br, john.macleod@hia.nrc.ca,
+    maihara@cr.scphys.kyoto-u.ac.jp, dcvmlk@iiap.ernet.in, amr@iac.es,
+    amt@iac.es, rmanches@atnf.csiro.au, manfroid@astro.ulg.ac.be,
+    tm9991r@acad.drake.edu, rmartin@as.arizona.edu, martin@oan.es,
+    John.C.Mather@gsfc.nasa.gov, mathews@ucolick.org, dsm@mso.anu.edu.au,
+    maruma@toyo.u.phys.nagoya-u.ac.jp, matsu@laplace.ed.kagawa-u.ac.jp,
+    kalevi.mattila@helsinki.fi, rmauersberger@as.arizona.edu,
+    jm@ast.man.ac.uk, umebold@astro.uni-bonn.de,
+    dmehring@socrates.patnet.caltech.edu, meier@uap.nrl.navy.mil,
+    garrelt@astro.su.se, melnick@cfa.harvard.edu,
+    mendez@usm.uni-muenchen.de, mennella@astrna.na.astro,
+    menon@astro.ubc.ca, kmenten@mpifr-bonn.mpg.de, jwm@saao.ac.za,
+    pmeszaros@astro.psu.edu, pmezger@mpifr-bonn.mpg.de,
+    michalits@torte.gsfc.nasa.gov, tjm@saturn.phy.umist.ac.uk,
+    miller@ucolick.org, dmilne@atnf.csiro.au, michell@husky1.stmarys.ca,
+    miyama@yso.mtk.nao.ac.jp, jinger@stsci.edu,
+    Jean-Louis.Monin@obs.ujf-grenoble.fr, montmerle@sapvxg.saclay.cea.fr,
+    dhm@roe.ac.uk, morris@astro.ucla.edu, dcm@hiaras.nrc.ca,
+    tchm@astro.uiuc.edu, gmunpa@AOL.com, mufson@mimosa.astro.indiana.edu,
+    murthy@pha.jhu.edu
+Subject: ISM Workshop
+
+       [La version FRANCAISE suit apres la version anglaise]
+
+*******************************************************************************
+
+                        1st Announcement
+
+          NEW PERSPECTIVES ON THE INTERSTELLAR MEDIUM
+                     August 22 - 28, 1998
+                  Naramata, British Columbia
+                           Canada
+
+                       A Workshop hosted by
+              Dominion Radio Astrophysical Observatory
+                Herzberg Institute of Astrophysics
+                 National Research Council of Canada
+
+
+SCIENTIFIC MOTIVATION
+
+Our Milky Way is a grand ecosystem in which the countless stars
+have been forming over the aeons from the interstellar medium
+(ISM).  Far from a homogeneous environment, the ISM displays
+large density and temperature variations, with point-like
+injection of energy and material from stars on one end of the
+scale, and energy exchange from galaxy-scale phenomena such as
+spiral shocks on the other.  Despite this transport of energy on
+all scales, pockets of relative quiescence exist where dense,
+cold gas can self-gravitate and begin the process of star
+formation.  The life cycle of stars and the state of the ISM are
+intimately entwined: the ISM is the matrix within which the
+evolution of a galaxy is played out.
+
+Because of our vantage point within it, the Milky Way is the only
+galaxy for which we have the potential to investigate this
+ecosystem in detail.  Recent advances in observations of our
+Galaxy over a broad range of wavelengths are providing
+detailed, complementary pictures of the most important
+components of the ISM and the processes within and affecting it.
+The purpose of this workshop is to bring together these new
+observations as well as the theoretical expertise that is vital
+to the emergence of a comprehensive understanding of our Galactic
+ecosystem.
+
+SCIENTIFIC ORGANIZING COMMITTEE
+
+Mark Heyer                              Chas Beichman
+Peter Dewdney                           John Dickey
+Neb Duric                               Anne Green
+Carl Heiles                             Lloyd Higgs
+Judith Irwin                            Gilles Joncas
+Tom Landecker (co-chair)                Henry Matthews
+Peter Martin                            Ralph Pudritz
+Russ Taylor (co-chair)
+
+
+
+THE WORKSHOP
+
+The workshop is intended to be an informal gathering of experts
+and people interested in the field, and will be limited to a
+maximum attendance of approximately 90 people.
+
+Although new observations provide the impetus for the meeting,
+the workshop will be mainly organised around our understanding of
+the self-gravitating and diffuse ISM system in four broad areas:
+
+Physical States and Processes in the Interstellar Medium
+Topology and Structure
+Energy Injection from Stars
+Disk-Halo Interaction
+
+There will also be a session devoted to new, large-scale
+observational projects.
+
+
+THE LOCATION
+
+The workshop will take place in Naramata, near the city of
+Penticton in the Okanagan Valley of British Columbia.  The
+Okanagan Valley, famous for its orchards and estate wineries, is
+located in the mountainous interior of British Columbia.  It can
+be reached by connections from international airports in
+Vancouver (about 30 minutes flying time to the west) or Calgary
+(45 minutes flying time to the east). The venue for the workshop will
+be the Naramata Centre, a conference facility in the village of Naramata
+on Okanagan Lake.  The Centre is self-contained, with low-cost,
+accommodation and dining for participants and their families
+(special dietary needs can be accommodated), and is set on
+spacious grounds with a private beach, not far from scenic
+Okanagan Mountain Provincial Park.  During August the weather is
+generally warm and sunny, eminently suitable for outdoor
+recreations, making for a pleasant, retreat-like atmosphere, 20km
+from Penticton.
+
+In keeping with the idyllic setting, the workshop will adopt a
+relaxed pace, with a modest number of presentations on each day,
+and two half-days set aside for excursions in the local area.
+Scientific events related to the topic of the workshop may also
+be planned for some evenings.
+
+It is estimated that accommodation and meals for the duration of
+the workshop will cost around $300-400 Cdn. The registration fee
+will be approximately $100 Cdn. We expect to have some funds available
+to assist with the expenses of graduate students and post-docs who
+wish to attend the workshop.
+
+LOCAL ORGANIZING COMMITTEE
+
+Lloyd Higgs (chair)
+Cindy Furtado
+Andrew Gray
+Chloe Handley
+Lewis Knee
+Tom Landecker
+Brad Wallace
+
+
+PLEASE RESPOND
+
+Please cut below this line and email or fax your response:
+
+(Email to: Lloyd.Higgs@hia.nrc.ca or fax to: 1-250-493-7767).
+
+-----------------------cut here ------------------------------
+
+Name:
+
+Institution:
+
+Address:
+
+Email:
+Fax:
+
+I will attend:
+
+I will probably attend (please keep me on the mailing list):
+
+I will need financial assistance (students and post-docs only):
+----------------------------------------------------------------
+
+
+*******************************************************************************
+
+			Premier avis
+
+	NOUVELLES PERSPECTIVES SUR LE MILIEU INTERSTELLAIRE
+	       	      22 au 28 aout 1998
+                Naramata, Colombie-Britannique
+                           Canada
+
+		    Un atelier organise par
+	l'observatoire federal de radioastrophysique
+	       Institut Herzberg d'astrophysique
+	     Conseil national de recherche du Canada
+
+
+MOTIVATION SCIENTIFIQUE
+
+Notre Voie Lactee est un superbe ecosysteme ou d'innombrables etoiles
+se sont formees et se forment encore a partir du milieu interstellaire 
+(MIS). Loin d'etre un environnement homogene, le MIS fait preuve de
+grandes variations en densite et temperature, avec des injections
+ponctuelles d'energie et de matiere stellaire a un bout et l'autre,
+des echanges energetiques causes par des phenomenes a l'echelle
+galactique tels que des chocs spiraux. Malgre ce transport d'energie
+sur toutes les echelles, des zones de calme relatif existent la ou le
+gaz dense et froid peut subir l'autogravitation et amorcer le processus
+de formation stellaire. Le cycle de vie des etoiles et l'etat du MIS 
+sont etroitement lies: le MIS est la matrice a l'interieur de laquelle
+la galaxie evolue.
+
+Vue notre position a l'interieur d'elle, la Voie Lactee est la seule
+galaxie dont nous pouvons etudier l'ecosysteme en detail. De recents
+progres dans le domaine d'observations de notre galaxie sur un grand 
+intervalle de longueurs d'onde nous fournissent des images detaillees
+et complementaires des composantes les plus importantes du MIS, nous
+informant sur les processus internes et ceux qui l'affectent. Le but
+de cet atelier est de rassembler ces nouvelles observations ainsi que
+l'expertise theorique qui est necessaire pour l'emergence d'une solide
+comprehension de notre ecosysteme galactique.
+
+COMITE SCIENTIFIQUE ORGANISATEUR
+
+Mark Heyer                              Chas Beichman
+Peter Dewdney                           John Dickey
+Neb Duric                               Anne Green
+Carl Heiles                             Lloyd Higgs
+Judith Irwin                            Gilles Joncas
+Tom Landecker (co-president)            Henry Matthews
+Peter Martin                            Ralph Pudritz
+Russ Taylor (co-president)
+
+
+L'ATELIER
+
+L'atelier sera une assemblee informelle d'experts et de gens interesses
+dans le domaine, avec une limite d'au plus 90 personnes.
+
+Bien que de nouvelles observations aient suggere l'organisation cette
+reunion, l'atelier sera surtout centre sur notre comprehension de
+systemes autogravitants et diffus du MIS, et divise en quatre sous-
+domaines:
+
+Processus et etats physiques du milieu interstellaire
+Topology et structure
+Energie injectee par les etoiles
+Interaction entre le disque et le halo
+
+Il y aura aussi une seance devouee a de nouveaux projets observationels
+de grande envergure.
+
+
+L'EMPLACEMENT
+
+L'atelier aura lieu a Naramata, pres de la ville de Penticton dans la
+vallee de l'Okanagan en Colombie-Britannique. La vallee de l'Okanagan,
+bien connue pour ses vergers et ses vignobles, est situee dans la region
+interieure montagneuse de la Colombie-Britannique. On peut s'y rendre
+par correspondance a partir des aeroports internationaux de Vancouver
+(30 minutes de vol a l'ouest) et de Calgary (45 minutes de vol a l'est).
+L'atelier aura lieu au "Naramata Centre", un centre de congres dans le
+village de Naramata sur le lac Okanagan. Le centre est complet en 
+lui-meme, avec de l'hebergement et des repas bon marche pour les
+participants et leurs familles (des besoins dietetiques speciaux peuvent
+etre accomodes), et est entoure d'un grand terrain avec plage privee,
+non loin du parc provincial "Okanagan Mountain". Au mois d'aout, il 
+fait generalement beau et chaud, un temps ideal pour des activites de
+plein-air, creant ainsi une plaisante atmosphere de style retraite a 
+20km de Penticton.
+
+L'atelier se deroulera a un rythme detendu, avec un nombre modeste de
+presentations a chaque jour et deux demi-journees reservees pour des
+excursions dans les environs. Certains evenements scientifiques relies
+au sujet de l'atelier auront peut-etre lieu en soiree.
+
+Le cout de l'hebergement et des repas pour la duree de l'atelier sera
+probablement d'environ $300-$400 (Cdn). Les frais d'inscriptions seront
+approximativement $100 (Cdn). Nous prevoyons avoir des fonds disponibles
+pour defrayer une partie des depenses d'etudiants gradues et de 
+post-docs desirant assister a l'atelier.
+
+COMITE ORGANISATEUR LOCAL
+
+Lloyd Higgs (president)
+Cindy Furtado
+Andrew Gray
+Chloe Handley
+Lewis Knee
+Tom Landecker
+Brad Wallace
+
+
+RSVP
+
+Coupez a la ligne ci-dessous et envoyez votre reponse par courrier
+electronique (Lloyd.Higgs@hia.nrc.ca) ou par fax (1-250-493-7767):
+
+----------------------------decoupez ici------------------------------
+
+Nom:
+
+Institution:
+
+Adresse:
+
+Adresse electronique:
+Fax:
+
+J'assisterai:
+
+J'assisterai probablement (svp gardez mon nom en liste):
+
+J'aurai besoin d'aide financiere (etudiants et post-docs seulement):
+-----------------------------------------------------------------------
+
+
+*****************************************************************************
+
+-- 
+Lloyd Higgs
+Dominion Radio Astrophysical Observatory (DRAO),
+Box 248, Penticton, B.C., Canada V2A 6K3
+Telephone: (250) 490-4325       FAX: (250) 493-7767
+       or: (250) 493-2277
+E-Mail: lah@drao.nrc.ca
+	Lloyd.Higgs@hia.nrc.ca
+
+

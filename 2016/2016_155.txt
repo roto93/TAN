@@ -1,0 +1,471 @@
+==============================================================================
+
+In this issue (Sep 20 - 30, 2016)
+
+1. First Announcement of the ALMA Band 1 Science Workshop, ASIAA, January 2017
+2. Call for Proposals of VERA 2017A
+3. ASIAA Colloquium/Seminar/Lunchtalk (Sep 27): Houjun Mo (UMass)
+   [Office closed due to typhoon]
+4. Korean VLBI Network(KVN) call for proposals 2017A
+5. ASIAA Colloquium/Seminar/Lunchtalk (Oct 03): Oscar Morata (ASIAA)
+                                      (Oct 03): I-Ting Ho (Univ. Hawai'i &
+                                                     Australian National Univ)
+                                      (Oct 04): Jifeng Liu (NAOC)
+6. NTHU Astronomy Colloquium/Seminar Series (Sep 30): 2nd talk cancelled
+7. NTHU Astronomy Colloquium/Seminar Series (Oct 07): Po-Chieh Yu (NCU)
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Oscar Morata <omorata@asiaa.sinica.edu.tw>
+> Subject: First Announcement of the ALMA Band 1 Science Workshop, ASIAA, January 2017
+> Date: Wed, 21 Sep 2016 01:03:49 +0200
+
+ALMA Band 1 Science Workshop, ASIAA, Taipei (Taiwan), 16-18 January 2017
+
+First Announcement
+
+The new ALMA Band 1 receiver is an ALMA development project lead by East
+Asia
+as a collaboration of ASIAA, NAOJ, NRAO, and the Universidad de Chile that
+will provide access to the 35-51 GHz frequency window at high angular
+resolution and sensitivity from the southern hemisphere.  Several key
+science
+cases have been proposed to be studied with the Band 1 Science Case aimed at
+greatly increasing the volume of the observable Universe and the range of
+observable frequencies and energies with ALMA.  The two main scientific
+goals
+of the ALMA Band 1 project are the study of the evolution of grains in
+protoplanetary disks, from mm to cm sizes, and the detection of
+molecular line
+emission from high-redshift galaxies, tracing molecular emission from
+redshifts z~1-10. Additionally, there is a broad range of science goals
+covered by ALMA Band 1: high-resolution and high-sensitivity observations of
+Sunyaev-Zel'dovich effect (SZE) in galaxy clusters; observations of very
+small
+grains and spinning dust; study of the fine structure of chemical
+differentiation in cloud cores, tracing the very cold phase of the ISM and
+probing the smallest length scales of chemical variation; complex
+carbon-chain
+molecules, including the aminoacids and sugars from which life on Earth may
+have originally evolved; the opportunity to measure the initial mass-to-flux
+ratio of molecular cores through the detection of the Zeeman effect in
+spectral lines (CCS), ...
+
+The ALMA Band 1 Development Project was approved by the ALMA Board in April
+2016. At this moment, the first three prototype receivers are being finished
+and the production phase of the ALMA Band 1 receivers will start in early
+2017.  The delivery of the last Band 1 receiver to ALMA is planned for
+December 2019. The ALMA Band 1 Science workshop will provide the first
+opportunity to show the exciting new science ALMA Band 1 can deliver and to
+start preparing for the first observing proposals in the ALMA lowest
+frequency
+band.
+
+
+The ALMA Band 1 Science Workshop will take place at the ASIAA (Academia
+Sinica, Institute for Astronomy and Astrophysics) in Taipei (Taiwan) from
+January 16 to 18 2017. It will consist of a few invited talks on the main
+scientific goals of ALMA Band 1, plus contributed talks. We also plan to
+have
+poster sessions.
+
+The two days after the workshop, 19-20 January, will be dedicated to the
+discussion and planning of the upcoming Band 1 Science Verification
+phase. These closed sessions are in principle addressed to the members
+of the
+current SV team, but if you are interested in joining and/or in contributing
+to the Science Verification of Band 1, please write to the Project Scientist
+of Band 1, Oscar Morata (omorata@asiaa.sinica.edu.tw).
+
+To obtain more information about the workshop and to access the registration
+forms, please go to https://events.asiaa.sinica.edu.tw/workshop/20170116/
+
+Oscar Morata on behalf of the SOC and LOC
+
+==============================================================================
+
+> Subject: Call for Proposals of VERA 2017A
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Wed, 21 Sep 2016 14:43:56 +0900
+> Cc: =?utf-8?Q?=EC=A1=B0=EC=84=B8=ED=98=95_Cho?= <cho@kasi.re.kr>,
+>         Jongsoo Kim <jskim@kasi.re.kr>,
+>         "Philip.Edwards@csiro.au" <Philip.Edwards@csiro.au>,
+>         "na.wang@ms.xjb.ac.cn" <na.wang@ms.xjb.ac.cn>,
+>         "jiyang@pmo.ac.cn" <jiyang@pmo.ac.cn>,
+>         "H.Kobayashi Hideyuki" <hideyuki.kobayashi@nao.ac.jp>,
+>         "atzioumi@atnf.csiro.au" <atzioumi@atnf.csiro.au>,
+>         mareki honma <mareki.honma@nao.ac.jp>,
+>         "xhong@shao.ac.cn" <xhong@shao.ac.cn>,
+>         "zshen@shao.ac.cn" <zshen@shao.ac.cn>,
+>         =?utf-8?B?6rmA7ZiE6rWs?= <hgkim@kasi.re.kr>,
+>         =?utf-8?Q?=EC=86=90=EB=B4=89=EC=9B=90_Won_Sohn?= <bwsohn@kasi.re.kr>,
+>         "wm@ynao.ac.cn" <wm@ynao.ac.cn>,
+>         "antao@shao.ac.cn An" <antao@shao.ac.cn>,
+>         "xuye@pmo.ac.cn" <xuye@pmo.ac.cn>,
+>         "Zhang.Ming@xao.ac.cn" <Zhang.Ming@xao.ac.cn>,
+>         =?utf-8?Q?=EB=B3=80=EB=8F=84=EC=98=81_Byun?= <bdy@kasi.re.kr>,
+>         =?utf-8?B?66+87JiB7LKg?= <minh@kasi.re.kr>
+> To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+>         "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>         "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+>         "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcement of the call-for-proposals of
+the VERA for 2017A season.
+Please distribute this announcement to your community and encourage
+people to write proposals.
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+
+---------------------------------------
+
+********************************
+Call for Proposals of VERA
+Deadline;  November 01, 2016, 08:00 UT.
+*********************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.
+Available observation time is up to 200 hours during the observation period
+from January 15th, 2017 to July 15th, 2017.
+Although it is limited to VERA array and  a single-beam mode,
+the 6.7 GHz ( C-band ) is opened on shared-risk basis.
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+                   Mareki Honma
+                   Director of Mizusawa VLBI  Observatory of NAOJ
+                      Email;  mareki.honma (at-mark) nao.ac.jp
+                      Phone; +81-197-22-7128
+
+==============================================================================
+
+> Date: Thu, 22 Sep 2016 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Houjun Mo (UMass)
+Topic:          Reconstructing the initial conditions to simulate the formation of the
+local universe
+Time:           9/27 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+I will describe a method that can be used to reconstruct the initial conditions of the local universe accurately. The method is applied to the SDSS volume. High-resolution simulations of the reconstructed initial conditions have been carried to recover of the formation histories and structures observed in the local universe.  I will also describe how the results can be used to study the formation and structure of the local cosmic web and of galaxies that are embedded in it.
+
+==============================================================================
+
+> From: Bong Won Sohn <bwsohn@kasi.re.kr>
+> Date: Wed, 28 Sep 2016 11:19:15 +0900
+> Subject: Korean VLBI Network(KVN) call for proposals 2017A
+> To: evntech <evntech@jb.man.ac.uk>, "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>         vlbi@listmgr.cv.nrao.edu, merlin-announce@jb.man.ac.uk,
+>         astro@asiaa.sinica.edu.tw
+> Cc: Anton Zensus <azensus@mpifr-bonn.mpg.de>,
+>         "David.Jauncey@csiro.au" <David.Jauncey@csiro.au>,
+>         Jon Romney <jromney@aoc.nrao.edu>, gabuzda@caesar.ucc.ie,
+>         Leonid Gurvits <lgurvits@jive.nl>,
+>         Lincoln Greenhill <greenhill@cfa.harvard.edu>,
+>         Phil Edwards <Philip.Edwards@csiro.au>, moran@cfa.harvard.edu,
+>         Robert.A.Preston@jpl.nasa.gov,
+>         Richard Porcas <p222rwp@mpifr-bonn.mpg.de>,
+>         Raphael Bachiller <r.bachiller@oan.es>,
+>         Francisco Colomer <f.colomer@oan.es>,
+>         Mareki Honma <mareki.honma@nao.ac.jp>,
+>         "Katsunori M. SHIBATA" <k.m.shibata@nao.ac.jp>
+
+
+Dear colleagues,
+
+on behalf of KASI KVN, I announce KVN call for proposals 2017A.
+Please forward this e-mail to anyone who might have interest for KVN
+observation.
+
+kind regards,
+
+Bong Won Sohn
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Call for Proposals 2017A (KVN VLBI)
+
+
+The Korean VLBI Network (KVN, http://kvn.kasi.re.kr/) invites scientific
+proposals for VLBI observations during the 2017A season from Astronomers
+over the world. Observations of successful proposals will be scheduled
+between 15th January 2017 and 15th June 2017. Proposals should be emailed
+to kvnprop@kasi.re.kr before the deadline of UT 08:00 (KST17:00) on 1st
+November 2016.
+
+
+
+=EF=81=AC Korean VLBI Network (KVN)
+
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by
+Korea Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr).
+Its three 21m radio telescopes are located in Seoul, Ulsan and Jeju Island
+around South Korea. The baseline lengths ranges from 305km to 476 km. Its
+4-channel receiving system allows simultaneous observation at 22, 43, 86,
+and 129 GHz. For 2017A season, 22, 43, and 86 GHz are available. Risk-share
+Observation at 129 GHz is available. Total machine time of 300 hours are
+planned for this call. The maximum observation time of a proposal will be
+limited to 100 hours. If requested in the proposals, the observation time
+can be allocated over a year, until January 15, 2018, for this call. But
+the maximum observation time will be NOT increased. Details of the
+information and current status of the KVN can be found in the KVN VLBI
+Status Report (http://radio.kasi.re.kr/kvn/status_report_2016/array.html).
+
+Proposer should fill the KVN VLBI proposal form (tex file can be found at
+http://kvn.kasi.re.kr/index.html/obs_proposal.php). Please carefully follow
+the instruction of the proposal form. A separate scientific and technical
+justification is mandatory. This Justification should be submitted together
+with the proposal form and not exceed 3 pages.
+
+
+
+Hyun-Goo Kim
+Director of Radio Astronomy Division, KASI
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Sohn, Bong Won
+Korean VLBI Network, KASI
+bwsohn@kasi.re.kr
+
+Tel.+82-(0)42-865-2173
+Fax.+82-(0)42-865-2050
+
+==============================================================================
+
+> Date: Thu, 29 Sep 2016 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Oscar Morata (ASIAA)
+Topic:          Current status of ALMA Band 1
+Time:           10/3 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        I-Ting Ho (Univ. Hawai'i & Australian National Univ.)
+Topic:          Gas flows in star-forming galaxies in 3D
+Time:           10/3 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Gas flows are one of the fundamental yet poorly understood processes driving galaxy evolution. This talk focuses on exploring gas flows in local galaxies by studying metallicity gradients and galactic-scale outflows in normal star-forming galaxies. This is made possible by new integral field spectroscopy data that provide simultaneously spatial and spectral information of galaxies. With the new 3D data, I study metallicity gradients and galactic winds to understand inflows and outflows in star-forming galaxies. I show that metallicity gradients in isolated disk galaxies are remarkably simple and universal. Simple chemical evolution models reveal that these simple metallicity gradients are a direct result of the coevolution of gas and stellar disk while galactic disks build up their masses from inside-out. Tight constraints on their mass outflow rates and inflow rates can be placed. I also investigate galactic winds in normal star-forming galaxies using data from the SAMI Gal!
+ axy Survey. I show that galactic winds are found to be very common even in normal star-forming galaxies that were not expected to host winds. By comparing galaxies with and without hosting winds, I show that galaxies with high star formation rate surface densities and bursty star formation histories are more likely to develop large-scale galactic winds.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Jifeng Liu (NAOC)
+Topic:          Ultraluminous Supersoft X-ray sources as super-critical accretion onto stellar black holes
+Time:           10/4 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+While ultraluminous supersoft X-ray sources (ULSs) bear features for intermediate mass black holes or very massive white dwarfs possibly close to Chandrasekhar mass limit, our recent discovery of processing relativistic baryonic jets from a prototype ULS in M81 demonstrate that they are not IMBHs or WDs, but black holes accreting at super-Eddington rates. This discovery strengthens the recent ideas that ULXs are stellar black holes with supercritical accretion,as demonstrated in the case of M101 ULX-1, and provides a vivid manifestation of what happens when a black hole devours too much, that is, it will generate thick disk winds and fire out sub-relativistic baryonic jets along the funnel as predicted by recent numerical  simulations.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Eva Villaver (Autonomous University of Madrid)
+Topic:          Single rotating stars and their AGB winds
+Time:           10/5 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Heavy modulated mass-loss takes place during the Asymptotic Giant Branch evolution of low-and intermediate-mass stars.  In the process several processes play their role: metallicity, stellar mass, rotation, magnetic fields, the presence of companions and a possible interaction with the ISM.  I will describe how our new stellar evolution models with rotation can  rule out single main sequence stars to achieve the needed physical conditions to cause asymmetrical mass-loss. We have quantified under which circumstances the presence of companions can induce sufficient tidal spin-up to form bipolar Planetary Nebulae. Finally, by computing models of star-planet interactions we have explored the role that substellar companions have in the overall stellar evolution and thus how they might influence PNe properties.
+
+==============================================================================
+
+> Date: Fri, 30 Sep 2016 09:52:27 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: ajrf@cftp.ist.utl.pt, ajrf@cts.nthu.edu.tw, alan200276@yahoo.com.tw,
+>         atxsrxog@hotmail.com, awen0121@gmail.com, bokbok123123@gmail.com,
+>         borluen.huang@cts.nthu.edu.tw, borluen.huang@gmail.com,
+>         cargicar@cts.nthu.edu.tw, cargicar@gmail.com,
+>         chang.jung@cts.nthu.edu.tw, chang.jung@mx.nthu.edu.tw,
+>         d01222004@cts.nthu.edu.tw, d01222004@ntu.edu.tw,
+>         dimitrios.giataganas@cts.nthu.edu.tw, dimitrios.giataganas@gmail.com,
+>         etnn1234@gmail.com, g9522545@cts.nthu.edu.tw, g9522545@oz.nthu.edu.tw,
+>         gb5f_professor@phys.nthu.edu.tw, koyama811@cts.nthu.edu.tw,
+>         koyama811@gmail.com, lee.chunhao9112@gmail.com,
+>         macokada3hiroshi@cts.nthu.edu.tw, macokada3hiroshi@gmail.com,
+>         mh062467306@gmail.com, paul82720@hotmail.com, pingyenlin@gmail.com,
+>         s1008179@gmail.com, s102022502@m102.nthu.edu.tw,
+>         s102022809@m102.nthu.edu.tw, s1109119@gmail.com,
+>         s9822111@m98.nthu.edu.tw, sawout@gmail.com, timespace1993@yahoo.com.tw,
+>         two.joker@gmail.com, y5770567@gmail.com,
+>         yafen.hsu.jane@cts.nthu.edu.tw, yafen.hsu.jane@gmail.com,
+>         yoshinori.honma255@cts.nthu.edu.tw, yoshinori.honma255@gmail.com,
+>         yoyolandachen@gmail.com, yukuohsiao@cts.nthu.edu.tw,
+>         yukuohsiao@gmail.com
+> cc: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+Hi,
+Kindly remind you that only one talk today
+(2nd one is cancelled due to flight/typhoon)
+The speaker will be here at 3 p.m., I will take him around
+you all ! Just open your office door if you are free.
+Ing-Guey
+> ################################################
+> NTHU Astronomy Colloquium/Seminar Series
+> ################################################
+>
+> Time Coordinate: 3:30 pm 30th Sep. 2016 (Friday)
+> Space Coordinate: NTHU General Building II, R521
+>
+> ************************************************
+> Speaker A: Dr. Yen-Chen Pan (UC Santa Cruz, USA)
+>
+> Title: Type Ia supernovae and their host galaxies
+>
+> Abstract:
+> Type Ia Supernovae are exceptionally bright explosions, and their
+> calibrateable brightness make them useful tools in probing the cosmic
+> expansion. However, the progenitors of SNe Ia are still unclear, which
+> could introduce uncertainties in their use in cosmology. Previous studies
+> have shown that the host environment is an important variable in controlling
+> SN Ia luminosities, even after the standard light curve
+> shape corrections have been performed. In this work, we investigate the
+> relation between SNe Ia and their host galaxies using high quality
+> photometric and spectroscopic data. We present the results obtained by
+> comparing the SN and host properties and analyze the dependence of SNe Ia on
+> their host environments.
+>
+> **************************************************
+> Speaker B: Dr. Jessy Jose (Peking University)
+>
+> Title: Feedback driven Galactic star forming regions:
+>        Stellar census and characteristics
+>
+> Abstract:
+> The role of feedback from massive stars has been long discussed as a
+> dynamical trigger for subsequent star formation.  Simulations show that the
+> effect of stellar feedback depends upon factors such as the input radiation,
+> wind energy, local ISM conditions etc. As a result, the feedback effect on
+> star formation activity may vary from region to region. In this context, star
+> formation activity within a few, massive star forming regions have been
+> performed. Systematic analysis of the stellar census and gas density are used
+> to estimate the star formation efficiency, star formation rate and initial
+> mass function. We explore how the star formation properties at different
+> parts of individual regions vary with respect to the dense gas fraction as
+> well as the amount of input energy from massive stars. Our analysis suggests
+> that the stellar feedback from massive stars  influence only to its localized
+> neighborhood and may not have much impact on the global star formation
+> activities of the regions.
+>
+>
+
+==============================================================================
+
+> Date: Fri, 30 Sep 2016 17:09:14 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: ajrf@cftp.ist.utl.pt, ajrf@cts.nthu.edu.tw, alan200276@yahoo.com.tw,
+>         atxsrxog@hotmail.com, awen0121@gmail.com, bokbok123123@gmail.com,
+>         borluen.huang@cts.nthu.edu.tw, borluen.huang@gmail.com,
+>         cargicar@cts.nthu.edu.tw, cargicar@gmail.com,
+>         chang.jung@cts.nthu.edu.tw, chang.jung@mx.nthu.edu.tw,
+>         d01222004@cts.nthu.edu.tw, d01222004@ntu.edu.tw,
+>         dimitrios.giataganas@cts.nthu.edu.tw, dimitrios.giataganas@gmail.com,
+>         etnn1234@gmail.com, g9522545@cts.nthu.edu.tw, g9522545@oz.nthu.edu.tw,
+>         gb5f_professor@phys.nthu.edu.tw, koyama811@cts.nthu.edu.tw,
+>         koyama811@gmail.com, lee.chunhao9112@gmail.com,
+>         macokada3hiroshi@cts.nthu.edu.tw, macokada3hiroshi@gmail.com,
+>         mh062467306@gmail.com, paul82720@hotmail.com, pingyenlin@gmail.com,
+>         s1008179@gmail.com, s102022502@m102.nthu.edu.tw,
+>         s102022809@m102.nthu.edu.tw, s1109119@gmail.com,
+>         s9822111@m98.nthu.edu.tw, sawout@gmail.com, timespace1993@yahoo.com.tw,
+>         two.joker@gmail.com, y5770567@gmail.com,
+>         yafen.hsu.jane@cts.nthu.edu.tw, yafen.hsu.jane@gmail.com,
+>         yoshinori.honma255@cts.nthu.edu.tw, yoshinori.honma255@gmail.com,
+>         yoyolandachen@gmail.com, yukuohsiao@cts.nthu.edu.tw,
+>         yukuohsiao@gmail.com
+> cc: circular_colloquium@asiaa.sinica.edu.tw, yinlumail@foxmail.com,
+>         s104025505@m104.nthu.edu.tw
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 7th Oct. 2016 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker: Dr. Po-Chieh Yu (NCU)
+
+Title: Investigations of AGNs: From Seyfert to QSOs
+
+Abstract:
+The reason of non-detection of polarized broad-line regions (BLRs) in
+some Seyfert 2 galaxies (non-HBLR) remains a mystery. Using integral field
+unit OSIRIS of Keck plus adaptive optics, we probe local Seyfert 2
+galaxies down to scales of 5-30 parsecs. With these K-band data, we can
+study nuclear stellar populations, molecular gas, and ionized
+gas within the central few hundred parsecs of the HBLR and non-HBLR
+Seyfert2 galaxies.
+
+Furthermore, some QSOs have the similar phenomena; the BLRs disappear
+in changing-look QSOs with the decreasing of continuum flux.
+The mechanisms causing the disappearance of BLRs are still unclear.
+To extend the sample, we have searched for changing-look QSOs using
+photometric data of Palomar Transient Factory (PTF), Sloan Digital
+Sky Survey (SDSS), and Pan-STARRS, along with the spectra of SDSS and
+LAMOST. I will also present preliminary results of our survey.
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

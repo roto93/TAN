@@ -1,0 +1,56 @@
+> Date: Thu, 26 Feb 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Vincent Desjacques (University of Geneva)
+Topic:         Beyond CMB: large scale structure probes of inflation
+Time:         3/2 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+CMB measurements furnish to date the tightest constraints on the nature of the primordial fluctuations and, thereby, the physics of inflation. Interestingly, independent and competitive constraints can be obtained by measuring large scale density fluctuations in the low redshift Universe. I will describe recent theoretical and observational developments and show that, in the long run, large scale structure surveys may achieve limits  on the primordial non-Gaussianity an order of magnitude better than Planck.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Jun Hashimoto (Oklahoma University)
+Topic:         Near-Infrared Imaging Observations of Transitional Disks in the Subaru/SEEDS project
+Time:         3/4 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+SEEDS is a strategic project in the Subaru telescope exploring exoplanets and circumstellar disks around 500 stars in the near-infrared wavelengths. The project has started in 2009 and will be completed in this year. Here, we review the project and summarize the major results especially in the survey of protoplanetary disks by near-infrared polarimetric imaging. In observing protoplanetary disks, we mainly focus on transitional disks known as a protoplanetary disk with a cavity in a central region of a disk. Disk-planet interaction would be one of intriguing interpretations potentially responsible for such a cavity-structure. Thus, transitional disks would be unique samples for understanding planet formation in a disk.
+
+As results of tens of observations in transitional disks, we have resolved fine structures in disks such as spirals, gaps, and dips at a radius of tens AU possibly due to gravitational interactions with unseen planet(s). These results may support planet formation at a wide orbit, e.g., GJ 504 b at 43 AU. We also found differences in structures of a cavity observed in the near-infrared and (sub-)millimeter wavelengths, i.e., a clear cavity in (sub-)millimeter wavelengths while no cavity in near-infrared wavelengths. The different behavior between small (sub-micron size) and large (millimeter size) dust grains would be consistent with disk-planet interaction plus dust filtration. Finally, we mention our preliminary results of disk demographics in transitional disks based on SEEDS data.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Yin-Chang Chang (ASIAA)
+Topic:         TAOS Mirror Alignment
+Time:         3/4 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+
+*** CompAS Seminar ***
+____________________________________________________ 
+Speaker:    Dr J.J. Eldridge (The University of Auckland)
+Topic:         Binary Population and Spectral Synthesis of high-redshift galaxies and core-collapse supernova.
+Time:         3/5 (Thursday) 13:30 - 14:30
+Place:         R1108
+Abstract:
+Most widely used population and spectral synthesis codes only rely on single star models. There are exceptions but haven't been able to become more widely used than Starburst99 and  Galaxev (Bruzual and Charlot) models. The BPASS collaborations (bpass.auckland.ac.nz) are attempting to change that, we have created a binary population synthesis code that uses a large grid of detailed stellar evolution models to account for the effect of interacting binaries.
+
+I will discuss the code and the models and outline some of the astrophysics results we have achieved with the code concerning high-redshift galaxies and core-collapse supernovae. I will also outline out future aims and plans.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

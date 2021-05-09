@@ -1,0 +1,43 @@
+> Date: Sun, 23 Dec 2012 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    no colloquium this week (ASIAA)
+Topic:        
+Time:        12/28 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Katherine Lee (UIUC)
+Topic:        Fragmentation and Kinematics of Starless Cores in Orion
+Time:        12/24 (Monday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+We study the structure and kinematics of nine starless cores (0.1 pc) in Orion with the IRAM 30-m telescope and CARMA.  With the high angular resolution CARMA provides, fragmentation is observed in a majority of the cores.  By morphologically comparing the structures between the data from IRAM, CARMA and Herschel 500 micron images, it is shown that the starless cores and their fragments are formed along the ambient filamentary structures, implying the importance of filamentary structures in the star formation process.  In addition, we discovered large velocity gradients across the cores which are best interpreted as convergent flows.  All together, our study suggests that turbulent fragmentation occurs at the stagnation of the convergent flows. These cores may be seeds for future massive star formation through competitive accretion. However, as the number of fragments is less than the prediction from theories, magnetic fields and radiative feedback, which have the ability to!
+  suppress fragmentation, may play a role in the core-forming process.
+
+
+____________________________________________________ 
+Speaker:    Jongsuk Hong (Seoul National University)
+Topic:        N-body and Fokker-Planck simulations for rotating star clusters with
+2-component models
+Time:        12/25 (Tuesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+To understand the effects of the initial rotation on the evolution of
+the tidally limited clusters with mass spectrum, we have performed the N-body
+simulations of the clusters with different initial rotations and compared the
+results to those of the Fokker-Planck (FP) simulations. We confirmed that the cluster evolution is accelerated by not only the initial rotation but also the mass spectrum. For the slowly rotating models, the time evolutions of mass, energy and angular momentum show good agreements between N-body and FP simulations. On the other hand, for the rapidly rotating models, there are significant differences between these two approaches at the early stage of the evolution because of the bar instability in N-body simulations. shape of cluster for N-body simulations becomes tri-axial or even prolate, while the 2-dimensional FP simulation can treat only axisymmetric systems.
+
+==============================================================================
+

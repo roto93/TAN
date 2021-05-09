@@ -1,0 +1,71 @@
+==============================================================================
+
+From: Jung Taehyun <thjung@kasi.re.kr>
+Date: Mon, 14 Oct 2019 23:37:25 +0900
+Subject: KVN Call for Proposals for the 2020A season
+To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+        > "vlbi@nrao.edu" <vlbi@nrao.edu>,
+        > "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+        > "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>,
+
+Dear colleagues,
+
+The Korean VLBI Network (KVN) announce
+the Call for Proposals for the 2020A season.
+The deadline is 15 November 2019, at UT 08:00.
+
+Please refer to the following KVN website for more information
+and distribute this announcement to all interested colleagues.
+** http://kvn.kasi.re.kr **
+
+With kind regards,
+Taehyun Jung
+
+--------------------------------------
+
+Call for Proposals 2020A (KVN VLBI)
+
+    Proposal submission deadline:
+
+   15th November, 2019, 08:00 UT
+
+--------------------------------------
+
+
+The Korean VLBI Network (KVN) invites scientific proposals for VLBI
+observations during the 2020A season from astronomers around the world.
+Observations of successful proposals will be scheduled between 15th January
+2020 and 15th June 2020. Proposals should be submitted via the KVN website (
+http://kvn.kasi.re.kr) before the deadline of UT 08:00 on 15th November
+2019.
+
+
+** Korean VLBI Network (KVN) **
+
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by
+the Korea Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr).
+Its three 21m radio telescopes are located around South Korea in Seoul,
+Ulsan, and Jeju Island. The baseline length ranges from 305km to 476 km.
+Its 4-channel receiving system allows simultaneous observation at 22, 43,
+86, and 129 GHz. Higher than 1 Gbps recording rates (2, 4 and 8 Gbps) using
+Mark6 recorder are available. Total time of 300 hours are planned for this
+call. The maximum observation time of a proposal is limited to 100 hours.
+If requested in the proposals, the observation time can be allocated over a
+year, until January 15, 2021, but the observation time will not be
+increased. Details of the information and current status of the KVN can be
+found in the KVN VLBI Status Report (
+https://radio.kasi.re.kr/kvn/status_report_2019/array.html).
+
+
+Proposers should use the KVN VLBI observing application form available at
+the KVN website. Please carefully follow the instructions of the proposal
+form. A separate scientific and technical justification is mandatory. This
+Justification should be submitted together with the proposal form and not
+exceed 3 pages.
+
+
+Kee-Tae Kim
+
+Director of Radio Astronomy Division, KASI
+
+==============================================================================

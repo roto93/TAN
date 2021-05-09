@@ -1,0 +1,39 @@
+From chou@phys.nthu.edu.tw Fri Feb 20 16:17:50 2004
+Date: Tue, 17 Feb 2004 15:42:17 +0800 (CST)
+From: Dean-Yi Chou <chou@phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title :   How to Raise a Hairy Baby Black Hole
+
+Speaker:  Dr. Mike Cai (IAA, Academia Sinica)
+
+Date:     27 February 2004 (Friday)
+
+Time:    12:10
+
+Place:   Room 620,  Physics Building, NTHU
+         
+Abstract:         
+We present here the first calculation of a spherical self-similar collapse
+that leads to a black hole formation.  The dynamic evolution is triggered by
+the central portion of a singular isothermal sphere in equilibrium
+collapsing to for an infinitesimal black hole.  This perturbation removes
+the pressure support for the layer immediately above, which causes it to
+collapse, and so on.  The influence of gravitational collapse propagates out
+as an expansion wave moving at the speed of sound.  Outside of the expansion
+wave, matter remains in local equilibrium.  We have also examined the
+effects of a weak and uniform magnetic field on the collapse.  Within the
+assumptions of perfect magnetohydrodynamics, the magnetic field lines are
+frozen to the collapsing matter, and arrange themselves in the form of a
+split magnetic monopole on the large scale.  We believe this theoretical
+model can serve to describe monolithic formation of massive black holes, and
+the presence of magnetic fields helps to break self-similarity and to define
+the final black hole mass.
+***************************************************************************

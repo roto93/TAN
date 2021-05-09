@@ -1,0 +1,818 @@
+From kyl@asiaa.sinica.edu.tw Fri Aug  6 08:27 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA02319
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 6 Aug 1999 08:27:30 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA03220
+	for <astro@asiaa.sinica.edu.tw>; Fri, 6 Aug 1999 08:26:22 +0800
+Date: Fri, 6 Aug 1999 08:23:54 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MCNews #35 - LaTeX file (fwd)
+Message-ID: <Pine.SOL.4.10.9908060823450.7838-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 28608
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 4 Aug 1999 23:18:17 -0500 (CDT)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: MCNews #35 - LaTeX file
+Resent-Date: Wed, 4 Aug 1999 23:18:43 -0500 (CDT)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+
+\documentstyle[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\fboxsep=4.5pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+\def\vinfty{$v_{\infty}$}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\mdot{\.M}
+\def\msunyr{($M_{\odot}\,{\rm yr}^{-1}$)}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+% "less than or approximately"
+\def \la{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+<\cr\sim\cr}}}}}
+
+% "greater than or approximately" 
+\def \ga{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\sim\cr}}}}}
+
+
+\begin{document}
+
+{\fbox{{\fbox{\parbox[]{17cm}{
+\bigskip
+\smallskip
+\centerline{\Huge{\sc The Magellanic Clouds Newsletter}}
+\bigskip
+\centerline{\Large \bf An electronic exchange on Magellanic Clouds research}
+\bigskip
+\smallskip
+\centerline{\bf Edited by\, Eva K.\ Grebel and You-Hua Chu}
+\smallskip
+\centerline{{\tt mcnews@astro.uiuc.edu}}
+\medskip    
+\centerline{{\tt http://www.astro.uiuc.edu/projects/mcnews/MCNews.html}}
+\centerline{{\tt http://www.astro.uni-bonn.de/\~{}mcnews/}}
+% THAT IS http://www.astro.uni-bonn.de/~mcnews/
+\bigskip
+\smallskip
+\hspace{0.5cm} {\Large\it{No.\ 35}} \hspace{10cm} {\Large\it{August 5, 1999}}
+}}}}
+
+
+\bigskip\noindent
+
+
+\begin{center}
+
+\bigskip
+{\LARGE\sc{Contents}} 
+\bigskip
+\bigskip
+
+\begin{tabular}{lr}
+News                               & 1 \\
+Abstracts of 11 refereed papers     & 2 \\
+Conference contribution abstract  & 9 \\
+%Thesis abstract                    & 0 \\
+%Conference announcement           & 0\\
+%Job opportunity                    & 0\\
+\end{tabular}
+\end{center}
+
+%\hrulefill
+\bigskip
+\bigskip
+\bigskip
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{1.7cm}{
+{\LARGE\bf{News}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+\centerline{\Large \bf Catalog of LMC and SMC Cepheids}
+\medskip
+
+\centerline{\Large \bf available over the Internet}
+\bigskip
+
+\bigskip
+The EROS~2  microlensing search team announces 
+release of two catalogs containing 290 LMC and 590 SMC Cepheids
+respectively.
+For each of these Cepheids period, Fourier coefficients, J2000 coordinates
+as well as light curves and magnitudes given in the EROS~2 filter system
+are indicated.\\
+
+The catalogs are available from the EROS~2 Internet archive:\\
+
+\centerline{{\tt
+http://www-dapnia.cea.fr/Phys/Spp/Experiences/EROS/Cepheides/catalog\_cep.html
+}}
+
+\bigskip
+
+\noindent
+{\it Florian Bauer}
+
+\newpage
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{9cm}{
+{\LARGE\bf{Abstracts of Refereed Papers}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+
+\def\cgssb{$\times$ 10$^{-8}$ erg s$^{-1}$ cm$^{-2}$ \AA$^{-1}$ Sr$^{-1}$ }
+\def\surfb{mag arcsec$^{-2}$}
+
+\begin{center}
+{\Large\bf  Ultraviolet Imaging Polarimetry of the Large 
+Magellanic Cloud.\\ \medskip
+I. Observations
+}
+\end{center}
+\centerline{\bf A.A. Cole$^1$, K.H. Nordsieck$^{1,2}$,
+S.J. Gibson$^3$, \& W.M. Harris$^2$
+}
+{\footnotesize  $^1$ Department of Astronomy, University of 
+Wisconsin--Madison, USA
+         \\     $^2$ Space Astronomy Laboratory, University of
+Wisconsin--Madison, USA
+	\\	$^3$ Department of Physics \& Astronomy,
+University of Calgary, Canada
+}\\
+
+We have used the rocket-borne Wide-Field Imaging Survey Polarimeter (WISP) to 
+image a $1\fdg5 \times 4\fdg8$ area of the western side of the
+Large Magellanic Cloud (LMC) at a wavelength of $\lambda =
+2150 \AA$  and a resolution of 1$'' \times 1\farcm5$.
+These are the first wide-field
+ultraviolet polarimetric images in astronomy.
+We find the UV background light of the LMC to be linearly
+polarized at levels ranging from our sensitivity limit of 4\% to 
+as high as $\approx$40\%.  In general, the polarization in a pixel
+increases as the flux decreases; the weighted mean value of
+polarization across the WISP field is 12.6\% $\pm$2.3\%.  
+The LMC's diffuse UV background, in uncrowded areas, rises from a minimum of 
+5.6 $\pm$3.1 \cgssb (23.6 $\pm$0.5 \surfb) to
+9.3 $\pm$1.1 \cgssb (23.1 $\pm$0.2 \surfb) in regions near the 
+bright associations.   We use our polarization maps to investigate
+the geometry of the interstellar medium in the LMC, and to 
+search for evidence of a significant contribution of scattered
+light from OB associations to the diffuse galactic light of the LMC.
+Through a statistical analysis of our polarization map, we identify
+9 regions of intense UV emission which may be giving rise to
+scattering halos in our image.
+We find that starlight from the N 11 complex and 
+the LH 15 association are the strongest contributors to the scattered
+light component of the LMC's diffuse galactic light.  This region
+of the northwestern LMC can be thought of as a kiloparsec-scale 
+reflection nebula
+in which OB stars illuminate distant dust grains, which scatter the
+light into our sightline.  In contrast, the polarization map 
+does not support the scattering of light from the large B2 complex
+in the southern WISP field; this effect may be astrophysical, or it
+may be the result of bias in our analysis.                     
+\\
+
+{\bf   Accepted by:\,   The Astronomical Journal
+}\\
+{\it For preprints, contact\, }       {\tt cole@astro.wisc.edu}\\
+%{\it Also available from the URL\, }  {\tt   your http address    }\\
+
+\bigskip
+
+
+
+
+\def\arcdeg{\hbox{$^\circ$}}
+
+\begin{center}
+{\Large\bf Ultraviolet Imaging Polarimetry of the Large Magellanic Cloud. \\
+\medskip
+II. Models
+}
+\end{center}
+\centerline{\bf A.A. Cole$^1$, K. Wood$^2$, \& K.H. Nordsieck$^{1,3}$
+}
+{\footnotesize  $^1$ Department of Astronomy, University of 
+Wisconsin--Madison, USA
+         \\     $^2$ Smithsonian Astrophysical Observatory, USA
+	\\	$^3$ Space Astronomy Laboratory, University of 
+Wisconsin--Madison, USA
+}\\
+
+Motivated by new sounding-rocket wide-field polarimetric images of the 
+Large Magellanic Cloud (Cole et al. 1999a), we have used a 
+three-dimensional Monte Carlo radiation transfer code to 
+investigate the escape of near-ultraviolet photons from young
+stellar associations embedded within a disk of dusty material
+(i.e., a galaxy).  As photons propagate through the disk,
+they may be scattered or absorbed by dust. Scattered photons
+are polarized and tracked until they escape to be observed;
+absorbed photons heat the dust, which radiates isotropically
+in the far-infrared, where the galaxy is optically thin.
+The code produces four output images: near-UV and far-IR flux,
+and near-UV images in the linear Stokes parameters Q and U.  From these images
+we construct simulated UV polarization maps of the LMC.  We
+use these maps to place constraints on the star$+$dust geometry
+of the LMC and the optical properties of its dust grains.
+By tuning the model input parameters to produce maps that
+match the observed polarization maps, we derive information about the
+inclination of the LMC disk to the plane of the sky, and about
+the scattering phase function $g$.  We compute a grid of models
+with $i$ = 28$\arcdeg$, 36$\arcdeg$, and 45$\arcdeg$, and $g$ = 0.64,
+0.70, 0.77, 0.83, and 0.90.   The model which best reproduces the
+observed polarization maps has $i$ = 36$\arcdeg^{+2}_{-5}$ and 
+$g$ $\approx$ 0.7.  Because of the low signal-to-noise in the data,
+we cannot place firm constraints on the value of $g$.
+The highly inclined models do not match the observed centro-symmetric
+polarization patterns around bright OB associations, or the 
+distribution of polarization values. 
+Our models approximately reproduce the observed ultraviolet
+photopolarimetry of the western side of the LMC; however, the
+output images depend on many input parameters and are nonunique.
+We discuss some of the limitations
+of the models and outline future steps to be taken; our models make
+some predictions regarding the polarization properties of diffuse
+light across the rest of the LMC.                      
+\\
+
+{\bf   Accepted by:\, The Astronomical Journal
+}\\
+{\it For preprints, contact\, }       {\tt cole@astro.wisc.edu}\\
+% {\it Also available from the URL\, }  {\tt   your http address    }\\
+
+\bigskip
+
+
+
+
+
+
+\begin{center}
+{\Large\bf SN 1987A's Circumstellar Envelope, II:\\ \medskip
+Kinematics of the Three Rings and the Diffuse Nebula}
+\end{center}
+\centerline{\bf Arlin P.S.~Crotts$^1$ and Stephen R.~Heathcote$^2$
+}
+{\footnotesize  $^1$  Columbia University, USA
+         \\     $^2$  Cerro Tololo Interamerican Observatory, Chile
+}\\
+
+We present several different measurements of the velocities of structures
+within the circumstellar envelope of SN 1987A, including the inner, equatorial
+ring (ER), outer rings (ORs), and the diffuse nebulosity at radii < 5 pc, based
+on CTIO 4m and HST data. A comparison of STIS and WFPC2 [N II]6583 loci for the
+rings show that the ER is expanding in radius at 10.5+-0.3 km/s, with the
+northern OR expanding along the line of sight at about 26 km/s, and for the
+southern OR, about 23 km/s. Similar results are found with CTIO 4m data.
+Accounting for inclination, the best fit to all data show both ORs with an
+expansion from the SN of 26 km/s. The ratio of the ER to OR velocities is
+nearly equal to the ratio of ER to OR radii, so the rings are roughly
+homologous, all having kinematic ages corresponding to about 20,000 yr before
+the SN explosion. This makes previously reported, large compositional
+differences between the ER and ORs difficult to understand. Additionally, a
+grid of longslit 4m/echelle spectra centered on the SN shows two velocity
+components over a region roughly coextensive with the outer circumstellar
+envelope extending about 5 pc (20 arcsec) from the SN. One component is
+blueshifted and the other redshifted from the SN centroid by about 10 km/s
+each. These features may represent a bipolar flow expanding from the SN, in
+which the ORs are propelled 10-15 km/s faster than that of the surrounding
+envelope into which they propagate. The kinematic timescale for the entire
+nebula is at least about 350,000 yr. The kinematics of these various structures
+constrain possible models for the evolution of the progenitor and its formation
+of a mass loss nebula.
+\\
+
+{\bf   Accepted by:\,   The Astrophysical Journal }\\
+{\it For preprints, contact\, }{\tt arlin@astro.columbia.edu}\\
+{\it Also available from the URL\, }
+{\tt http://xxx.lanl.gov/abs/astro-ph/9907367}\\
+\bigskip
+
+
+
+
+
+\begin{center}
+{\Large\bf  The Optical Gravitational Lensing Experiment. \\
+Cepheids in the Magellanic Clouds.\\
+\vskip 3pt
+III.  Period-Luminosity-Color and Period-Luminosity Relations\\
+\vskip 3pt
+of Classical Cepheids
+}
+\end{center}
+
+\centerline{\bf A. Udalski$^1$,  M. Szyma{\'n}ski$^1$, M. Kubiak$^1$,
+G. Pietrzy\'nski$^1$,}
+\centerline{\bf I. Soszy{\'n}ski$^1$, P. Wo\'zniak$^2$, and K. \.Zebru\'n$^1$}
+{\footnotesize   
+\noindent
+$^1$  Warsaw University Observatory, Al. Ujazdowskie 4, 00-478 Warszawa,
+Poland\\
+$^2$  Princeton University Observatory, Princeton, NJ 08544-1001, USA
+}\\
+
+We present Period-Luminosity-Color and Period-Luminosity relations of
+classical Ce\-pheids constructed for about 1240 Cepheids from the LMC
+and 2140  from the SMC. High quality {\it BVI} observations (120--360
+epochs in the {\it I}-band and 15--40 in the {\it BV}-bands) were
+collected during the OGLE-II microlensing experiment. The {\it I}-band
+diagrams of the LMC show very small scatter, $\sigma=0.074$~mag,
+indicating that Cepheid variables can potentially be a very good
+standard candle.
+ 
+We compare relations of fundamental mode Cepheids from the LMC and SMC
+and we do not find significant differences of slopes of the
+Period-Luminosity-Color and Period-Luminosity relations in these
+galaxies. For the first overtone Cepheids a small change of the slope of
+Period-Luminosity relation is possible. 
+ 
+We determine the difference of distance moduli between the SMC and LMC
+with Cepheid relations and compare the result with difference obtained
+with other standard candles: RR~Lyr and red clump stars. Results are
+very consistent and indicate that the values of zero points of the
+fundamental mode Cepheid relations are similar in these galaxies. The
+mean difference of distance moduli between the SMC and LMC is equal to
+$\mu_{SMC}-\mu_{LMC}=0.51\pm0.03$~mag.
+
+We calibrate the Period-Luminosity-Color and  Period-Luminosity
+relations for classical, fundamental mode  Cepheids using the observed
+LMC relations and adopting the short LMC distance modulus,
+$\mu_{LMC}=18.22\pm0.05$~mag, resulting from the recent determination
+with eclipsing system HV2274, RR~Lyr and red clump stars.
+ 
+Finally, we determine a constraint on the absolute magnitude of Cepheids
+by comparison of their mean {\it V}-band magnitude with that of RR~Lyr
+stars in both Magellanic Clouds. The 10-day period, fundamental mode
+Cepheid is on average $4.63\pm0.05$~mag brighter than RR~Lyr stars of
+LMC metallicity which with the most likely calibration of the brightness
+of RR~Lyr stars yields $M_V^{C,10}=-3.92\pm0.09$~mag.
+\\
+
+{\bf      Submitted to:\, Acta Astronomica 49
+}\\
+{\it For preprints, contact\, }       {\tt   udalski@sirius.astrouw.edu.pl }\\
+{\it Also available from the URL\, }  {\tt 
+http://xxx.lanl.gov/abs/astro-ph/9907236}\\
+\bigskip
+
+
+
+
+
+
+\begin{center}
+{\Large\bf Eros variable stars:  A catalog of Cepheids\\ \medskip
+in the central regions of the Magellanic Clouds }
+\end{center}
+\centerline{\bf The EROS collaboration \\
+}
+{\footnotesize  $^1$  CEA, DSM, DAPNIA, Centre d'{\'E}tudes de Saclay, 91191 Gif-sur-Yvette, Cedex, France
+ \\     $^2$  Laboratoire de l'Acc{\'e}l{\'e}rateur Lin{\'e}aire, IN2P3 CNRS et Universit{\'e} Paris-Sud, BP~34 91898 Orsay Cedex, France
+ \\     $^3$   Institut d'Astrophysique de Paris, INSU CNRS, 98~bis Boulevard Arago, 75014 Paris, France
+ \\     $^4$   Astronomical Observatory, Copenhagen University, Juliane Maries Vej 30, 2100 Copenhagen, Denmark
+ \\     $^5$   Coll{\`e}ge de France, PCC, IN2P3 CNRS, 11 place Marcelin Berthelot, 75231 Paris Cedex, France
+ \\     $^6$   Universidad de la Serena, Facultad de Ciencias, Departamento de Fisica, Casilla 554, La Serena, Chile
+ \\     $^7$   Department of Astronomy, Ohio State University, Columbus, OH 43210, USA
+ \\     $^8$   Physics Department, Ohio State University, Columbus, OH 43210, USA
+ \\     $^9$   Observatoire de Marseille, 2 place Le Verrier, 13248 Marseille Cedex 04, France
+}
+\\
+
+We present a catalog containing 
+290 LMC and 590 SMC Cepheids which have been obtained
+using the two 4k $\times$ 8k CCD cameras of 
+the EROS 2 microlensing survey.
+The Cepheids were selected from 1,134,000 and 504,000 stars in the central 
+regions of the LMC and SMC respectively, that were monitored over 150 nights 
+between October 1996 and February 1997, at a rate of one measurement
+every night. For each Cepheid the light curves, period, magnitudes in the EROS~2 filter system,
+Fourier coefficients, J2000 coordinates and cross-identifications 
+with objects referenced in the CDS Simbad database
+are presented. Finding charts of identified Cepheids in clusters NGC 1943, NGC 1958 and Bruck 56
+are presented. The catalogue and the individual light--curves
+will be electronically available through the CDS (Strasbourg). \\
+
+{\bf   Submitted to:\,   Astronomy \& Astrophysics Supplement Series }\\
+{\it For preprints, contact:\, }       {\tt   florian@hep.saclay.cea.fr }\\
+{\it Also available from the URL:\, \\}  
+         {\tt  http://www-dapnia.cea.fr/Phys/Spp/Experiences/EROS/Cepheides/catalog\_cep.html }\\
+\bigskip
+
+%http://www-dapnia.cea.fr/Phys/Spp/Experiences/EROS/Cepheides/catalog_cep.html   
+
+
+
+
+
+\begin{center}
+{\Large\bf  An Attempt to Pin Down the Instability Domain\\ \medskip 
+            of Long-Period Variables
+}
+\end{center}
+\centerline{\bf A. Gautschy }
+\centerline{
+{\footnotesize  Astronomisches Institut der Universit\"at Basel, Switzerland
+}}\bigskip
+
+    The period-luminosity relation of Miras and semiregular variables
+    in the Large Magellanic Cloud and in the Galaxy is used to locate
+    their instability domain in the Hertzsprung-Russell diagram. We
+    take advantage of the considerable width in luminosity of the
+    relation at given period to assign masses to the observed
+    long-period variables using stellar models on the the asymptotic
+    giant branch and nonadiabatic pulsation computations. We study the
+    sensitivity to chemical abundance of the position of the
+    instability region on the Hertzsprung-Russell diagram. The mass
+    function of the long-period variables along the AGB is discussed
+    for Galactic and LMC variables.  Finally, we contribute to the
+    dispute on the pulsation mode of Miras and lend support to the
+    view that, for most of the Mira variables, the pulsation in the
+    fundamental mode is more likely.
+\\
+
+{\bf   Accepted by:\,   Astronomy \& Astrophysics, Main Journal
+}\\
+{\it Preprints available from the URL:\, } 
+{\tt http://xxx.lanl.gov/abs/astro-ph/9907287}\\
+
+\bigskip
+
+
+
+
+
+
+\begin{center}
+{\Large\bf            OGLE observations of four binary pulsars in the SMC
+}
+\end{center}
+\centerline{\bf       M.J. Coe$^1$ and J.A. Orosz$^2$
+}
+{\footnotesize  $^1$  Dept Physics and Astronomy, Southampton
+University, UK
+         \\     $^2$  Dept Astronomy and Astrophysics, Penn State
+University, USA
+}\\
+
+This paper presents analysis and interpretation of OGLE photometric
+data of four X-ray binary pulsar systems in the Small Magellanic
+Cloud: 1WGA J0054.9-7226, RX J0050.7-7316, RX J0049.1-7250, and 1SAX
+J0103.2-7209.  In each case, the probable optical counterpart is
+identified on the basis of its optical colours. In the case of RX
+J0050.7-7316 the regular modulation of its optical light curve 
+appears to reveal an
+ellipsoidal modulation with a period of 1.416 days.  Using reasonable
+masses for the neutron star and the B star, we show that the amplitude
+and relative depths of the minima of the I-band light curve of RX
+J0050.7-7316 can be matched with an ellipsoidal model where the B star
+nearly fills its Roche lobe. For mass ratios in the range of 0.12 to
+0.20, the corresponding best-fitting inclinations are about 55 degrees
+or larger.  The neutron star would be eclipsed by the B star at
+inclinations larger than $\approx 60^{\circ}$ for this particular mass
+ratio range.  Thus RX J0050.7-7316 is a good candidate system for
+further study.  In particular, we would need additional photometry in
+several colours, and most importantly, radial velocity data for the B
+star before we could draw more quantitative conclusions about the
+component masses.\\
+
+{\bf   Accepted by:\,   Monthly Notices of the Royal Astronomical Society
+}\\
+{\it For preprints, contact\, }       {\tt   mjc@astro.soton.ac.uk  }\\
+
+\bigskip
+
+
+
+\begin{center}
+{\Large\bf The Stellar Mass Spectrum in the Young Populous Cluster\\
+\medskip
+NGC 1866
+}
+\end{center}
+\centerline{\bf  S.\ van den Bergh
+}
+{\footnotesize  $^1$  Dominion Astrophysical Observatory, Herzberg Institute
+of Astrophysics, National Research Council of Canada, 5071 West Saanich Road,
+Victoria, B.C., V8X 4M6, Canada
+}\\
+
+The young populous cluster NGC 1866 in the Large Magellanic Cloud (LMC),
+which is probably one of the most massive objects formed in the LMC during 
+the last $\sim 3$ Gyr, appears to have an unexpectedly high mass-to-light 
+ratio.  {From} its velocity dispersion Fischer et al. (1992) find its mass
+to be ($1.35\pm0.25$) $\cdot 10^5$ M$_{\odot}$.  The luminosity of this
+cluster is $M_V = -8.93 \pm 0.13$, corresponding to $L_V = (3.2 \pm 0.4) \cdot
+10^5 L_{V,\odot}$.  This yields M/$L_V = 0.42 \pm 0.09$ in solar units.  For
+a cluster of age 0.1 Gyr such a relatively high mass-to-light ratio requires
+a mass spectrum with an exponent $x = 1.72 \pm 0.09$; or $x = 1.75 \pm 0.09$
+if mass loss by evolving stars is taken into account.
+\\
+
+{\bf   Accepted by:\,   Publications of the Astronomical Society of the Pacific
+}\\
+{\it For preprints, contact\, }       {\tt   vdb@dao.nrc.ca}\\
+{\it Also available from the URL:\, } 
+{\tt http://xxx.lanl.gov/abs/astro-ph/9907271}\\
+
+\bigskip
+
+
+
+
+
+
+\begin{center}
+{\Large\bf Two Groups of Nearly Coeval Star Clusters\\
+\medskip
+in the Small Magellanic Cloud 
+}
+\end{center}
+\centerline{\bf  R. Michael Rich$^1$, Michael M. Shara$^2$, S. Michael 
+Fall$^2$, and David R. Zurek$^2$
+}
+{\footnotesize  $^1$ Dept of Physics \& Astronomy, University of California 
+at Los Angeles, 8979 Math-Sciences Bldg, Los Angeles, CA 90095, USA
+         \\     $^2$ Space Telescope Science Institute, 3700 San Martin Drive, 
+Baltimore, MD 21218, USA
+}\\
+
+We report new photometry of populous intermediate-age clusters in the SMC 
+using the {\sl Hubble Space Telescope}. In contrast to the accepted picture, 
+these clusters appear to have formed in two brief intervals, one $8\pm 2$ Gyr 
+ago, and a more recent burst $2\pm 0.5$ Gyr ago.  When the ridgelines of the 
+four clusters (NGC 339, 361, 416, and Kron 3) in the 8 Gyr burst are aligned, 
+the dispersion in turnoff luminosities is $<0.2$ mag, corresponding to a 
+maximum age spread of $\pm 0.7$ Gyr. When the ridgelines of three clusters 
+(NGC 152, 411, and 419) in the 2 Gyr burst are aligned, the maximum dispersion 
+of 0.2 mag in turnoff luminosity corresponds to a permitted age spread of 
+$\pm 0.2$ Gyr.
+Within each group of clusters, the entire cluster loci (including
+red giant branches and clumps) are nearly identical, consistent
+with indistinguishable metallicities and ages. In contrast to the wide 
+dispersion in ages previously reported in the literature, our sample 
+with more precise photometry and age measurements supports a 
+burst-punctuated rather than a continuous cluster formation history 
+for the 2 Gyr and 8 Gyr SMC clusters.
+\\
+
+{\bf   Accepted by:\,   The Astronomical Journal
+}\\
+{\it For preprints, contact\, }       {\tt  zurek@stsci.edu }\\
+{\it Also available from the URL\, }  
+{\tt   http://xxx.lanl.gov/abs/astro-ph/9907398}\\
+\bigskip
+
+
+
+
+\begin{center}
+{\Large\bf            
+Observations and Implications of the Star Formation History\\ \medskip
+of the LMC
+}
+\end{center}
+\centerline{\bf   Jon A. Holtzman$^1$ John S. Gallagher, III$^2$,
+Andrew A. Cole$^2$, Jeremy R. Mould$^3$,}
+\centerline{\bf  Carl J. Grillmair$^4$, and 
+the WFPC2 IDT
+}
+{\footnotesize  $^1$  New Mexico State University, Box 30001, Dept. 4500, 
+Las Cruces NM 88003, USA \\
+$^2$  Department of Astronomy, University of Wisconsin
+-- Madison, 475 N. Charter St., Madison, WI 53706, USA \\
+$^3$Mount Stromlo and Siding Spring Observatories,
+Australian National University, Private Bag, Weston Creek Post
+Office, ACT 2611, Australia \\
+$^4$SIRTF Science Center, Caltech, MS 100-22, Pasadena, CA 91125, USA
+}
+\\
+
+
+We present derivations of star formation histories based on
+color-magnitude diagrams of three fields in the LMC from HST/WFPC2
+observations. A significant component of stars older
+than 4 Gyr is required to match the observed color-magnitude diagrams.
+Models with a dispersion-free age-metallicity relation are unable to
+reproduce the width of the observed main sequence; models with a range
+of metallicity at a given age provide a much better fit. Such models
+allow us to construct complete ``population boxes'' for the LMC based
+entirely on color-magnitude diagrams; remarkably, these qualitatively
+reproduce the age-metallicity relation observed in LMC clusters.  We
+discuss some of the uncertainties in deriving star formation histories.
+We find, independently of the models, that the LMC bar field has a larger
+relative component of older stars than the outer fields. The main
+implications suggested by this study are: 1) the star formation history
+of field stars appears to differ from the age distribution of clusters,
+2) there is no obvious evidence for bursty star formation, but our
+ability to measure bursts shorter in duration than $\sim$ 25\% of any
+given age is limited by the statistics of the observed number of stars,
+3) there may be some correlation of the star formation rate with the
+last close passage of the LMC/SMC/Milky Way, but there is no dramatic
+effect, and 4) the derived star formation history is probably consistent 
+with observed abundances, based on recent chemical evolution models.
+\\
+
+{\bf   Accepted by:\,   The Astronomical Journal
+}\\
+{\it For preprints, contact\, }       {\tt   holtz@nmsu.edu  }\\
+{\it Also available from the URL\, }  
+{\tt   http://xxx.lanl.gov/abs/astro-ph/9907259    }\\
+\bigskip
+
+
+
+
+\begin{center}
+{\Large\bf Combined Analysis of the Binary-Lens Caustic-Crossing Event
+MACHO 98-SMC-1
+}
+\end{center}
+\centerline{\bf 
+C. Afonso et al., C. Alcock et al., S.H. Rhie et al., A. Udalski et al., 
+M. Albrow et al.
+}
+\centerline{\bf (The 
+      EROS, MACHO/GMAN, MPS, OGLE, and PLANET Collaborations, 94 authors)
+}
+\bigskip
+
+	We fit the data for the binary-lens microlensing event
+MACHO 98-SMC-1 from 5 different microlensing collaborations and find
+two distinct solutions characterized by binary separation $d$ and mass
+ratio $q$:  $(d,q)=(0.54,0.50)$ and $(d,q)=(3.65,0.36)$, where 
+$d$ is in units of the Einstein radius.
+However, the relative proper motion of the lens is very similar in the two
+solutions, $1.30\,$km/s/kpc and $1.48\,$km/s/kpc,
+thus confirming that the lens is in the Small Magellanic Cloud.
+The close binary can be either rotating or approximately
+static but the wide binary must be rotating at close its maximum allowed rate
+to be consistent with all the data.
+We measure limb-darkening coefficients for five bands ranging from 
+$I$ to $V$.  As expected, these progressively decrease with rising wavelength.
+This is the first measurement of limb darkening for a metal-poor A star.
+\\
+
+{\bf      Submitted to:\, The Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       {\tt gould@astronomy.ohio-state.edu  }\\
+{\it Also available from the URL\, }  {\tt http://xxx.lanl.gov/abs/astro-ph/9907247}\\
+
+\bigskip
+
+
+
+\bigskip
+\bigskip
+\bigskip
+
+\newpage
+
+\bigskip
+\centerline{  
+{\fbox{\parbox[]{10.3cm}{
+{\LARGE\bf{Abstracts of Non-Refereed Papers}}
+}}}}
+\bigskip
+
+\bigskip
+\bigskip
+
+
+
+
+
+
+\begin{center}
+{\Large\bf        Investigating the process of star formation\\
+\medskip
+in young LMC star clusters    
+}
+\end{center}
+\centerline{\bf       R.A.Johnson$^1$, S.F.Beaulieu$^1$, R.A.W.Elson$^1$,G.Gilmore$^1$,N.Tanvir$^2$,B.Santiago$^3$
+}
+{\footnotesize  $^1$  Institute of Astronomy, Madingley Road, Cambridge, UK
+         \\     $^2$  University of Hertfordshire, College Lane, Hatfield, UK
+         \\     $^3$  Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil
+}\\
+
+The rich star clusters in the Large Magellanic Cloud (LMC) are ideal
+for studying the process of star formation.  Here we focus on the
+determination of age spreads amongst the massive stars in two young
+clusters, NGC1818 and NGC1805. We present colour magnitude diagrams
+(derived from HST data) for these clusters, and discuss the
+difficulties in age spread determination.
+\\
+
+{\bf   
+      To appear in:\, Stellar Clusters and Associations: Convection, Rotation 
+and Dynamos, May 1999, Sicily, ed. R. Pallavicini
+}\\
+{\it Also available from the URL\, }  {\tt   http://www.ast.cam.ac.uk/LMC    }\\
+
+\bigskip
+
+
+
+\end{document}
+
+
+
+%\bigskip\noindent
+%\centerline{
+%{\fbox{\parbox[]{5.2cm}{
+%{\LARGE\bf{Thesis Abstract}}
+%}}}}
+%\smallskip
+
+\bigskip
+\bigskip
+\bigskip
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{7.2cm}{
+{\LARGE\bf{Meeting Announcement}}
+}}}}
+\smallskip
+
+
+\bigskip
+\bigskip
+
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{5.0cm}{
+{\LARGE\bf{Job Opportunity}}
+}}}}
+\smallskip
+
+\bigskip
+\bigskip
+
+
+
+
+\end{document}
+
+
+

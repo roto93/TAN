@@ -1,0 +1,175 @@
+==============================================================================
+
+In this issue (Jan 15 - 18, 2016)
+
+1. The first circular for ASROC 2016
+2. A new Higgs particle?
+3. ASIAA Colloquium/Seminar/Lunchtalk (Jan 21): John Carpenter (Joint ALMA Obs)
+
+==============================================================================
+
+> Date: Mon, 18 Jan 2016 16:51:11 +0800
+> From: Shiang-Yu Wang <sywang@asiaa.sinica.edu.tw>
+> Subject: The first circular for ASROC 2016
+
+Dear Yi-Jehng:
+
+  Could you help to post in on TAN? Thanks.
+
+best
+Shiang-Yu
+
+------------------------------------------------------------------------------
+
+Astronomical Society of the Republic of China 2016 Scientific Assembly
+(ASROC2016)
+
+National Cheng Kung University, Tainan
+
+May 13  15, 2016
+
+The 2016 Scientific Assembly of the Astronomical Society of the
+Republic of China (ASROC2016) will be held at National Cheng Kung
+University on May 13 (Friday)  15 (Sunday), 2016.  This is an annual
+event for all astronomers and astrophysicists in Taiwan to present
+their most recent discoveries and observations, to report their latest
+research results and to exchange ideas, also to organize
+collaborations when desirable.  Oral presentations and conference
+posters in all areas of astronomy and astrophysics are solicited.
+ASROC2016 is also an excellent venue for students, in particular
+graduate students, to present their research findings or progress from
+their thesis studies.
+
+The meeting will include plenary talks, scientific and educational
+sessions, poster presentation, and a business meeting.  The featured
+plenary speakers are 1) Prof. Harold A. Weaver, Jr. of Johns Hopkins
+University.  Prof. Weaver is the New Horizons project scientist at the
+Johns Hopkins University Applied Physics Laboratory, where he joined
+the staff in May 2002.  He was also the co-leader of the team that
+used the Hubble Space Telescope (HST) to find two new moons in the
+Pluto system.  His research interests include comets, planets and
+their satellites, and formation and evolution of planetary systems.
+His plenary talk will be ¨New Horizons: Mission to Pluto.〃
+2) Mr. Zolt G. Levay of Space Telescope Science Institute (STScI).
+Mr. Levay is a member of the Hubble Heritage Team and has developed software
+for astronomical data display and analysis.  He works with scientists at
+the STScI and around the world to process HST images and present them
+in a form that is aesthetic and educational to the general public as
+well as inspiring and thought-provoking to scientists.  Mr. Levay was
+awarded an STScI Individual Achievement Award in 1997.  He will
+present ¨The Heritage of Hubble Space Telescope.〃
+
+ASROC2016 website is now open for registration.  Participants of the
+scientific assembly should submit their abstracts and register
+on-line.  A registration fee of NT$1,000 (NT$800 for students) should
+be paid on site.
+
+The Astronomical Society cordially invites you to participate in this
+annual event with all the many interesting and exciting activities.
+For more details and updated information, please visit the ASROC
+website at http://www.asroc.org.tw/.
+
+Attached are the official circular in Chinese and English. [omitted. - YJK]
+
+Shiang-Yu Wang
+Co-Chair of LOC 2016 ASROC meeting
+
+==============================================================================
+
+> Date: Mon, 18 Jan 2016 09:19:14 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: cheung@phys.nthu.edu.tw, <twhepnet@hepmail.phys.sinica.edu.tw>,
+>         <astro@asiaa.sinica.edu.tw>
+> cc: ty18@cornell.edu, <jcpeng@illinois.edu>,
+>         "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>, <wyph.jh@msa.hinet.net>,
+>         Chih-Hsin Huang <chhuang@phys.ntu.edu.tw>
+> Subject: A new Higgs particle?
+
+Dear Kingmen and others:
+
+     Thank you so much for keeping us informed.
+
+     In fact, all of us, particle physicists and alike, should think about
+these things (problems) in terms of the Standard Model.
+
+     Let's start from quantum fields (particles). The only missing link is
+about \lambda (\phi^\dagger \phi)^2, the only renormalizable left-over for
+the complex scalar field \phi, in the 4-dimensional Minkowski space-time.
+This lambda (=1/8?) is dimensionless in the 4-dimensional Minkowski
+space-time and lambda should be determined by the governing space-time in
+view of its dimensionlessness. Since lambda = +1/8, it is self-repulsive -
+thus it cannot exist by itself.
+
+     The Higgs fields exist in pairs: phi(1,2) (Standard-Model Higgs),
+phi(3,2) (mixed family Higgs), and phi(3,1) (purely family Higgs), the
+first label SU_f(3) while the second the electroweak SU_L(2). They are
+maximally attractive in pair - just enough to overcome the
+self-repulsiveness. These fields are just enough to make the eight family
+gauge bosons massive as well as to make four family Higgs bosons.
+
+      The quark world has the (123) symmetry (SU_c(3) x SU_L(2) x U(1)).
+The lepton world also has the other (weaker) (123) symmetry (SU_L(2) x
+U(1) x SU_f(3)). They are free of Landau ghosts, and asymptotically free.
+Thus, well-behaved in the r => 0 limit.
+
+      In fact, in this 21st century, we can declare that we live in the
+quantum 4-dimensional Minkowski space-time with the gauge-group structure
+SU_c(3) x SU_L(2) x U(1) x SU_f(3) built-in from the very beginning. Why
+built-in from the very beginning? We could ask the 3^\circ K cosmic
+microwave background (CMB) for the answer.
+
+                         Best wishes to you all, Pauchy
+
+==============================================================================
+
+> Subject: Re: Colloquium/Seminar/Lunchtalk next week
+> From: Sakamoto Kazushi <ksakamoto@asiaa.sinica.edu.tw>
+> Date: Mon, 18 Jan 2016 20:21:38 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+
+Addendum to our weekly mailing.
+
+There will be an additional special seminar on Thursday by the Observatory Scientist of the Joint ALMA Observatory.
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        John Carpenter (Joint ALMA Observatory)
+Topic:     The Evolution of Circumstellar Disks: ALMA Observations of the Upper Sco OB Association
+Time:           1/21 (Thursday) 14:30 - 15:30     !! Note the non-standard time !!
+Place:           R1107         !! Note the non-standard place !!
+Abstract:
+The supply and lifetime of gas and dust in circumstellar disks are among the primary determinants of the properties of young planetary systems. Most of the information on disk evolution has so far come from infrared surveys, which have established that hot dust in primordial disks dissipates in approximately 5-10 Myr. ALMA is now playing a central role in these studies by probing colder gas and dust in disks. In this talk, I present recent results from an ALMA survey of 106 disks in the Upper Sco OB association. At an age of 5 Myr, Upper Sco is a benchmark region to establish the properties of disks at the end state of their evolution. By comparing Upper Sco with disk properties in young regions, we can assess how the gas and dust in disks evolve on timescales of 5 Myr.
+[This is a joint special seminar and planetary science group talk.]
+
+> 2016/01/14 08:00, ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw> wrote:
+>
+> Check on the website for the upcoming schedule
+> http://www.asiaa.sinica.edu.tw/
+>
+>
+> *** Colloquium ***
+> ____________________________________________________
+> Speaker:      Jean Coupon (University of Geneva)
+> Topic:                Probing the relationship between Galaxies and Dark Matter with Lensing and Clustering in CFHTLenS/VIPERS
+> Time:                 1/20 (Wednesday) 14:20 - 15:20
+> Place:                 R1203
+> Abstract:
+> I will present recent results on the connection between galaxies and dark matter haloes up to z=1, measured from a combined lensing and clustering analysis in the CFHTLS/VIPERS field. We obtained 30 deg2 of deep NIR data over the entire VIPERS area: whereas this program was initially designed to get robust stellar masses for the spectroscopic targets, we have shown that when properly calibrating photo-z's with spectro-z's and accounting for photo-z error in the modelling, one is able to get accurate constraints from projected clustering and galaxy-galaxy lensing from a photometric sample. This significant increase in survey area for such depths and good lensing data allowed us to consistently probe the Mstar-Mh relation from the peak of the stellar-to-halo mass ratio (SHMR) up to the most massive clusters, a key asset to bring new insights on galaxy evolution.
+>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

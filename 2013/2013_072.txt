@@ -1,0 +1,30 @@
+> Date: Sun, 14 Apr 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: CompAS Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Hao-Yu Liu (ASIAA)
+Topic:        Forming the Luminous OB Clusters at the Convergences of the Large Scale Molecular Filaments
+Time:        4/19 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Observations on distance <300 pc molecular clouds have shown that the nearby young YSO clusters form at the convergences of the molecular filaments. The preliminary analytical hub-filament model was proposed for describing this phenomenon. Our survey on a few most luminous Galactic OB cluster forming regions shows that their parent giant molecular clouds also have the hub-filament geometrical configuration. At the convergences of the filaments, the high density and the high external pressure may promote the accretion and the star-forming efficiency. I will elaborate the overall geometry and kinematics of the luminous OB cluster forming molecular clouds with two case studies, based on the synthesized SMA+IRAM-30m observations. One case is the molecular cloud G10.6-0.4 located in the near 3 kpc spiral arm. The other is the unique Galactic mini-starburst region W49A. We hope to shed some light on the paradigm of the formation of gravitationally bound massive cluster.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Chao-Chin Yang (Lund Observatory)
+Topic:        Introduction to the Pencil Code
+Time:        4/18 (Thursday) 14:00 - 15:00
+Place:        R1108
+Abstract:
+The Pencil Code is a parallelized, cache-efficient simulation code, capable of evolving magnetohydrodynamics and particles, among many other physics.  It employs high-order finite differences to attain high fidelity in short wavelengths and is thus ideal for simulating turbulent flows.  I will introduce the basic ideas behind the Pencil Code and how we collaborate on developing and maintaining the code.  Then I will briefly touch upon what I have used the code in my own research, including magneto-rotational turbulence, planetary dynamics, and chemical mixing in galactic disks.
+
+
+==============================================================================

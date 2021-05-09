@@ -1,0 +1,186 @@
+==============================================================================
+
+In this issue (Feb 22 - 27, 2019)
+
+1. Colloquium talks at NCU (Mar 08): Ya-Wen Tang (ASIAA)
+2. CFHT Call for Proposals 2019B
+3. First announcement ALMA 2019 (14-18 October)
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Fri, 22 Feb 2019 09:17:26 +0800
+> Subject: NCU colloquium
+> To: astro@asiaa.sinica.edu.tw
+
+Speaker: Ya-Wen Tang (ASIAA)
+Topic: Gravity, Magnetic Field, and Turbulence: Relative Importance and
+Impact on Fragmentation in the Infrared Dark Cloud G34.43
+Time: 03/08 (F) 14:00 - 15:00
+Place:  NCU S4-1013
+Abstract
+In this talk I will present our new study on the interplay between magnetic
+field, gravity, and turbulence in the fragmentation process of cores within
+the filamentary infrared dark cloud G34.43.  We observe the magnetic field
+(B) morphology across G34.43, traced with thermal dust polarization at 350
+micron with an angular resolution of 10" (0.18 pc), and compare with the
+kinematics obtained from N2H+ across the filament. We derive local velocity
+gradients from N2H+, tracing motion in the plane of sky, and compare with
+the observed local B field orientations in the plane of sky. The B field
+orientations are found to be perpendicular to the long axis of the filament
+toward the MM1 and MM2 ridge, suggesting that the B field can guide
+material toward the filament.  Toward MM3, the B field orientations appear
+more parallel to the filament and aligned with the elongated MM3 core,
+hinting a different B field role. Besides a large-scale east-west velocity
+gradient, we find a close alignment between local B field orientations and
+local velocity gradients toward the MM1/MM2 ridge. This local correlation
+in alignment supports a scenario where gas motions and B field lines are
+intertwined. Additionally, this alignment appears to be anti-correlated
+with total thermal dust emission, showing a tightening alignment with
+growing emission.  We analyze and quantify B field, gravity, turbulence,
+and their relative importance toward the three cores with various
+techniques.  We extract all quantities over two scales, a larger clump area
+at 0.6 pc scale and the smaller core area at 2 pc scale. While we find that
+gravitational energy, B field, and turbulent pressure all grow
+systematically from large to small scale for the three cores, we reveal
+that the ratios among the three constituents develop clearly differently
+over scale. We propose that this varying relative importance between B
+field, gravity, and turbulence over scale drives and explains the different
+fragmentation types seen at sub-pc scale (no fragmentation in MM1; aligned
+fragmentation in MM2; clustered fragmentation in MM3). We discuss
+uncertainties, subtleties, and robustness of our conclusion, and we stress
+the need of a multi-scale joint analysis to understand the dynamics in
+these systems.
+
+==============================================================================
+
+> From: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> Date: Fri, 22 Feb 2019 13:07:47 +0800
+> Subject: CFHT Call for Proposals 2019B
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Cc: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+
+ Dear Yi-Jehng,
+
+Could you please help circulate the following information to TAN? Thanks a lot.
+
+cheers
+Keiichi Umetsu
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+Dear colleagues,
+
+Please find below the general CFHT call for proposals for Semester 2019B.
+http://cfht.hawaii.edu/en/science/Proposals/
+
+Please be noted that, our deadline is March 19 2019 23:59 Taiwan time.
+
+Our CFHT website will be updated accordingly soon.
+http://oir.asiaa.sinica.edu.tw/cfht/observations.php
+
+cheers
+Keiichi Umetsu
+
+-------
+
+ The CFHT 2019B call for proposals is now open. The deadline for
+proposal submission is March 19 2019 23:59. Please go to
+http://cfht.hawaii.edu/en/science/Proposals/ for more details about
+the call.
+
+Best of luck to all the proposers.
+
+Daniel Devost
+
+==============================================================================
+
+> Subject: First announcement ALMA 2019, 14-18 October 2019, Cagliari, Sardinia, Italy
+> From  Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>Add contact
+> Date  2019-02-27 09:39
+
+Dear Prof Kuan,
+
+Please help to forward this message to TAN.
+
+Cheers,
+Wei-Hao
+
+
+Begin forwarded message:
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: Fwd: First announcement ALMA 2019, 14-18 October 2019, Cagliari, Sardinia, Italy
+> Date: February 27, 2019 at 9:38:32 AM GMT+8
+> To: riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear All,
+
+Below please find the first announcement of the pan-ALMA conference in Italy in October.
+
+You are encouraged to present your ALMA-related work in this conference.
+
+Cheers,
+Wei-Hao
+
+
+
+> ®t¥X¤H: Ciska Kemper <Francisca.Kemper@eso.org>
+> ¥ó¦W: First announcement ALMA 2019, 14-18 October 2019, Cagliari, Sardinia, Italy
+> ¤é¥I: 2019¦~2¤ë21¤é 22:49:13 JST
+> ©{¥ý: John Carpenter <John.Carpenter@alma.cl>, "d.iono" <d.iono@nao.ac.jp>, Al Wootten <awootten@nrao.edu>, Francisca Kemper <Francisca.Kemper@eso.org>, KOHNO Kotaro <kkohno@ioa.s.u-tokyo.ac.jp>, Eva Schinnerer <schinner@mpia.de>, "tetsuo.hasegawa@nao.ac.jp" <tetsuo.hasegawa@nao.ac.jp>, "g-novak@northwestern.edu" <g-novak@northwestern.edu>, "Martin A. Zwaan" <mzwaan@eso.org>, Leonardo Testi <ltesti@eso.org>, Crystal Brogan <cbrogan@nrao.edu>, Silvia Leurini <silvia.leurini@inaf.it>, "paolo.serra@inaf.it" <paolo.serra@inaf.it>, "amoullet@nrao.edu" <amoullet@nrao.edu>, "misato.fukagawa@nao.ac.jp" <misato.fukagawa@nao.ac.jp>
+
+First announcement:
+===================
+
+ALMA2019: Science Results and Cross-Facility Synergies
+======================================================
+
+Dear colleagues,
+
+It is our pleasure to announce the next ALMA-wide science conference, to be held from 14-18 October 2019 in Cagliari, Sardinia, Italy.
+
+The Atacama Large Millimeter/Submillimeter Array (ALMA) is the world's most sensitive facility for millimeter/submillimeter astronomical observations, and will soon be fully operational in all of the originally planned bands.  Since its first observations, ALMA has routinely delivered groundbreaking scientific results that span nearly all areas of astrophysics.
+
+Following conferencences in Puerto Varas (Chile, 2012), Tokyo (Japan, 2014), and Indian Wells (USA, 2016), the ALMA partnership is organizing the next ALMA Science Conference in Cagliari (Sardinia, Italy) on October 14-18, 2019.
+
+At the conference we expect to discuss the full breadth of ALMA science, with special emphasis on results from the first rounds of ALMA Large Programmes, the long baselines and high frequency capabilities, the new Solar and VLBI modes,  as well as the synergy between ALMA and other observatories.
+
+As in previous editions of the conference series, we expect to discuss the scientific priorities for the implementation of the ALMA Development Roadmap.
+
+http://www.eso.org/sci/meetings/2019/ALMA2019Cagliari.html
+
+Important dates
+---------------
+Abstract submission deadline: 15 May 2019
+Notification of talk selection: 1 July 2019
+Regular registration deadline: 31 July 2019
+Late registration deadline: 13 September 2019
+
+Registration will open in the second week of March
+--------------------------------------------------
+
+We hope to see many of you in Cagliari!
+
+Best wishes,
+
+Ciska Kemper,
+on behalf of the SOC/LOC
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

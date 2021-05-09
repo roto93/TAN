@@ -1,0 +1,347 @@
+From kyl@asiaa.sinica.edu.tw Tue Sep 29 08:23:00 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA29664; Tue, 29 Sep 1998 08:18:54 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA23832; Tue, 29 Sep 1998 08:16:51 +0800
+Date: Tue, 29 Sep 1998 08:16:51 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: URSI/USNC News 98.2 (fwd)
+Message-Id: <Pine.GSO.3.96.980929081647.23617D-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 11859
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Sun, 27 Sep 1998 22:52:58 -0700 (PDT)
+From: don backer 415 campbell 510-642-5128 <dbacker@bkypsr2.Berkeley.EDU>
+To: dbacker@bkypsr2.Berkeley.EDU
+Subject: URSI/USNC News 98.2
+
+URSI J NEWS 98.02
+
+D. Backer
+1998 Sep 27
+
+CONTENTS
+1. USNC Meeting 1998 Jan 4-7, Boulder, CO
+2. Workshop during URSI GA 1999, Toronto, CANADA
+
+11111111111111111111111111111111111111111111111111111111111111111
+
+The USNC/URSI Boulder meeting is just around the corner. Put the
+date on your calendar. Below please find the state of the meeting.
+I am still rounding up the titles submitted and will provide an update
+shortly (by News 98.03 and web site http://astro.berkeley.edu/~dbacker).
+
+Would those attending like to hold an informal evening session on the
+National Academy Decadal Review of Astronomy that is just gathering
+(formal) steam in the coming months? I think the following draft
+schedule is likely; therefore the obvious time might be Mon eve.
+Sun eve is possible, but then some folks arrive late. Mon eve is
+not great owing to reception/dinner requiring start time of 8:30-9 PM.
+Wed eve is also possible, although audience may thin. Note that
+the Decadal Review will hold an information session at the AAS
+meeting in Austin on Thursday 7th, PM.
+
+Don
+=====================================================================
+1999 JANUARY 4-7 BOULDER URSI/USNC MEETING TOPICS FOR COMMISSION J
+     98sep18 draft: topics final; ordering by date tentative
+     http://cires.colorado.edu/ursi/ has current information on meeting
+     http://astro.berkeley.edu/~dbacker/ursi/boulder.99jan.html has my
+         latest draft of J sessions
+
+  Session              Topic                      Organizer
+
+  Mon AM - Kilometer Square Array : Science       John Dreher, dreher@dsp.com 
+           Drivers & Design Concepts
+  Mon PM - Pulsars and Neutron Stars              Alex Wolszczan, 
+                                                    alex@astro.psu.edu
+  Mon eve - Reception
+
+  Tue AM - Plenary Session, Probably will be reports from Commissions
+  Tue PM - Radio Science in the Classroom         Carl Heiles, 
+                                                    cheiles@astro.berkeley.edu
+  Tue eve - J business meeting
+
+  Wed AM - Atmospheric Transmission at            Simon Radford, sradford@nrao.edu
+           MM/Submm Wavelengths
+  Wed PM - Spectrum Management/RFI                Mike Davis, mdavis@naic.edu
+
+  Thu PM - Recent Solar System Research           Tommy Thompson, 
+                                                    Thomas.W.Thompson@jpl.nasa.gov
+
+=====================================
+Atmospheric Transmission in the mm/Submm 
+=====================================
+(see also, http://www.tuc.nrao.edu/~sradford/j4/)
+
+R. Chamberlin, CSO: "South Pole Submillimeter Site Characteristics from
+		 Heterodyne Measurements" 
+
+M. Holdaway, NRAO: "Observational Consequences of Millimeter and 
+  		 Submillimeter Opacity
+
+W. H. S. Holland, T. Jenness, E. I. Robson, JAC, W. D. Duncan, J. F. Lightfoot, ROE:
+		"Understanding the Limitations of Submillimetre Calibration 
+		 with SCUBA on the JCMT"
+
+H. Matsuo,  S. Matsushita, Nobeyama: "FTS measurements of Submillimeter-Wave
+		Opacity at Pampa la Bola"
+
+S. Paine & R. Blundell, SAO: "FTS Measurements of Submillimeter Atmospheric 
+		Transmission at Chajnantor, Chile"
+
+S. Radford, NRAO Tucson: "Comparative Measurements of Atmospheric Transparency
+		at 350 um Wavelength"
+
+E. Serabyn, J. R. Pardo, CIT: "Calibration of Submillimeter Atmospheric 
+		Transmission Data"
+
+J. R. Pardo, GISS, E. Serabyn, CIT: "Analysis of FTS Atmospheric Measurements at
+		Mauna Kea and Implicatinons on Atmospheric Radiative Transfer 
+		Modeling"
+
+M. C. Wiedner, MRAO/CfA, R. E. Hills, MRAO: "First Tests of 183 GHz Water Vapor 
+		Monitors"
+
+G. Delgado, ESO, D. Urbain, Onsala: "183 GHz Water Vapour Measurements at Llano de
+		Chajnantor"
+
+J. W. M. Baars, UMass: "The Large Millimeter Telescope"
+
+R. Predmore, UMass: "Atmospheric Effects on the Metrology System for the Large
+		Millimeter Telescope"
+
+L. Olmi, UMass: "Predicting the Effects of Anomalous Refraction on the Telescope
+		 Point Spread Function: A Possible Compensating Technique"
+
+===========================
+Pulsars
+===========================
+
+K. Xilouris, Arecibo:	"Post-Upgrade Pulsar Observing with the Arecibo Telescope"
+
+M. M. McKinnon, NRAO:  "NRAO Systems for the GBT".
+ 
+* F. Camilo, Jodrell Bank:     "Searches"
+
+* M. Kramer, MPIfR/UC Berkeley: "Physics"
+
+V. Kaspi, MIT:	"The Neutron Star/Supernova Remnant Connection"
+
+M. McKinnon, NRAO:  "The Orthogonal Modes of Polarization in Pulsar Radio Emission"
+  
+D. C. Backer, UC Berkeley:     	"Recent Results from the Berkeley Pulsar Processors"
+
+B. Cadwell   	"Nancay Galactic Plance Pulsar Survey with the NBPP" 
+
+S. B. Anderson, B. A. Jacoby, CIT, B. J. Cadwell,  NRL, A. Wolszczan, Penn State
+		"The Penn State Pulsar Machines"
+
+A. Novikov   "S2 Baseband Processing System for Phase-Coherent Pulsar 
+                 Applications" 
+
+==========================
+Radio Science in the Classroom
+==========================
+
+S. R. Spangler, R. L. Mutel, Iowa: Student Science and Engineering with a
+		Small Radio Telescope"
+
+D. D. Cudaback, C. Heiles: "Berkeley's Advanced Undergraduate Lab: a 21-cm
+		Single Dish and 12-GHz Interferometer"
+
+D. L. Kaplan, J. M. Cordes, Cornell: "Galactic Rotation from HI and OH 
+		Radio Spectroscopy with a 5m Antenna"
+
+M. Thursby, Florida Inst. Tech: "The Radio Astronomy Student Lab at Florida Tech"
+
+B. K. Malphrus, Morehead: "The Morehead Radio Telescope: An Instrument for
+		Undergraduate Research"
+
+* R. Perley, NRAO: The NRAO/VLA Summer School
+
+M. J. Klein, JPL, J. P. Roller, Lewis Center: 
+		"The Goldstone-Apple Valley Radio Telescope Project"
+
+P. Pratap, J. E. Salah, Haystack: "The MIT Haystack Research Educational 
+		Initiative"
+
+S. A. Heatherly, J. R. Fisher, NRAO: "K-12 Teacher Institute at NRAO/Green Bank"
+
+==========================
+Solar System Radio Science
+==========================
+
+B. Ahmad, G. L. Tyler, Stanford: Advances in Radio Occulation Studies
+
+M. J. Klein, S. J. Bolton, JPL: "An Update on the Long-Term Variations of
+		Jupiter's Synchrotron Radiation"
+
+M. Sheppard, Bloomburg Univ, B. A. Campbell, NASM: Near-Nadir Scattering
+		from a Fractal Surface"
+
+J. Harmon, Arecibo, M. A. Slade, JPL: 	"Imaging Mercury's North Pole with the
+		Upgraded Arecibo S-Band Radar"
+
+J. P. Hoffman, Paul Steffes, Georgia Tech: "Preliminary Results of Laboratory
+		Measurements of the Centimeter Wavelength Properties
+		of Phospine under Simulated Conditions for the Outer Planets"
+
+J. L. Margot, D. B. Campbell, Cornell, R. F. Jurgens, M. A. Slade, JPL:
+		"High Resolution Topographic Maps of the Lunar Polar
+		 Regions from Earth-Based Interferometry"
+
+R. A. Simpson, Stanford: "Bistatic Radar Astronomy: Recent Spacecraft Results"
+
+S. R. Spangler, Iowa: "Interplanetary Scintillation Polarimetry and Coronal
+		Faraday Rotation"
+
+G. L. Tyler, D. P. Hinson, R. A. Simpson, Stanford: "Radio Science with
+		Mars Global Surveyor"
+
+===========================
+Square Kilometer Array
+===========================
+P. E. Dewdney, DRAO, A. R. Taylor, Calgary: "Science with the Square Kilometer Array"
+
+J. Dickel, Univ. Illinois: "Observations of Extended Supernova Remnants with the SKA"
+
+H. R. Butcher, NFRA: "Square Kilometer Radio Telescope: Organizational Issues" 
+
+J. Dreher, SETI Inst: "The One Hectare Array"
+
+P. E. Dewdney, DRAO, A. R. Taylor, Calgary: "The Large Adpaptive Reflector for the 
+		Square Kilometer Array"
+
+G. M. Resch, T. B. H. Kuiper, and J. G. Smith, JPL: "The Deep Space Network and the 
+		Square Kilometer Array" 
+
+W. J. Welch, G. Engargiola, Berkeley: "Wideband Feeds for the Square Kilometer Array" 
+
+S. W. Ellingson, R. S. Dixon, Ohio: "RFI Direction Finding and Suppression 
+		using an Adaptive Array: Field Results" 
+
+A. van Ardenne, NFRA: "Results of the R&D Program on Array Antenna Systems at NFRA"
+
+====================================
+Iridium Satellite, RFI Excision : Joint E/J Session
+====================================
+
+P. G. Steffes, Georgia Tech: "Current Issues in Spectrum Management
+		Affecting Radio Astronomy and Remote Sensing"
+
+H. D. Aller, G. E. Latimer, Michigan:	"Radio Interference Reduction 
+		using a Conical Shield at the Prime Focus of a Paraboloid"
+
+M. C. Aller, Michigan:	"Excision of Radio Interference from Observations
+	 	of Hydrogen Absorption Lines from Highly Redshifted Quasars"
+
+I. R. Linscott, S. Maslakovic, M. Oslick, J. D. Twicken, Stanford:
+		"RFI Excision Using the Discrete Wavelet Transform"
+
+R. F. Bradley, J. R. Fisher, NRAO: "Recent Progress in Digital Adaptive
+		Interference Canceling for Radio Astronomy"
+
+M. M. McKinnon, NRAO: "NRAO Observations of an Iridium Satellite at 
+	 	1610.6-1613.8 MHz"
+
+R. S. Zuelsdorf, IGPP/UCLA, A. Jacobson, LANL, R. J. Strangeway, C. T. Russell,
+		IGPP/UCLA: "Worldwide Map of RF Background Radiation as Detected
+		by FORTE"
+
+W. A. Luther, FCC: "Advanced Interferometry Applied to Practical Direction
+		Finding and Radiolocation Systems"
+
+W. A. Luther, FCC: "A Discussion of Wideband Emissions in the Spectrum"
+
+J. S. H. Schoenberg, AFRL, M. D. Abdalla, M. C. Skipper, ASR Corp:
+		"Field Measurements of an Ultr-Wideband Linear Array of
+		 Photoconductive Semiconductor Switched Sources"
+
+==========================================
+USNC-URSI January 1999
+National Radio Science Meeting
+Special Sessions
+==========================================
+
+Commission A:
+=============
+Identification of Buried Targets 
+  Organized by Carl Baum (AFRL-KAFB)
+
+Commission B:
+=============
+Rough Surface Scattering and Related Problems 
+  Organized by Alex Maradudin (UC-Irvine)
+
+Foliage Penetration and Scattering 
+  Organized by Roger Lang (GWU) [Joint with Comm F]
+
+Commission C:
+=============
+Signal Processing in Remote Sensing 
+  Organized by David Thompson (Lucent) 
+  [Comms F, G, and J are encouraged to participate] 
+
+Commission E:
+=============
+Spectrum management 
+  Organized by Mike Davis (J) mdavis@naic.edu & Dave Cohen (E) 
+   dcohen@ucsfs1.umd.edu [Joint between E and J]
+
+Spectrum Management of Wideband and Ultrawideband Equipments 
+  Organized by David Cohen
+
+Commission G:
+=============
+Radar Observations of Meteors: Issues & Results 
+  Organized by John Mathews (PSU) and Q. Zhou (NAIC) [Joint with Comm H]
+
+22222222222222222222222222222222222222222222222222222222222222
+
+Commission J Workshop to be held during URSI General Assembly, Toronto.
+Title: The Large Millimetre Arrays - Engineering progress and Scientific
+prospects.
+Organizing committee: R. Booth (Europe), M. Ishiguro (Japan), P. Napier
+(US)
+Time: 0900 - 1700, Saturday, 14 August, 1999.
+
+With plans for construction of a large millimetre wavelength array
+progressing rapidly in Europe, Japan and the United States,
+and with discussions of collaboration between the various
+projects already underway, the URSI General Assembly offers a valuable 
+opportunity for people working on these projects to meet
+and discuss issues of common interest. Possible topics for the workshop
+will include detailed progress reports on the status of the various
+projects, detailed discussions of the major technical challenges for the
+arrays including discussion of compatibility issues.
+
+The final topics and agenda will be announced closer to the date of the
+workshop. Please plan to attend if you are interested in the millimetre
+array projects. Please give suggestions for discussion topics to the
+organizers.
+
+
+

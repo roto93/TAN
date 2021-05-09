@@ -1,0 +1,67 @@
+Dear all, 
+
+If you plan to do 2mm or 3mm observations with the Kitt Peak 12m in the
+spring semester, please send me a Notice of Intent before midnight today
+(23:59 Feb 08; Friday). Sorry for the short notice. Appreciate. 
+
+Happy Year of Snake! 
+
+
+Yi-Jehng 
+
+
+Arizona Radio Observatory: Call for Proposals (Spring 2013) 
+------------------------------------------------------------ 
+
+Dear all, 
+
+Proposals from members of the University Consortium of ALMA-Taiwan and 
+ASIAA, for observing time are being solicited for the period February 25, 
+2013 – June 15, 2013, at the Arizona Radio Observatory, for the Sub- 
+Millimeter Telescope (SMT) and the Kitt Peak 12 Meter (12M). The proposal 
+deadline of UCAT/ASIAA for this 2013 spring semester is set on February 21, 
+2013 (Thursday). 
+
+The SMT currently supports a dual-polarization, 1 mm receiver with ALMA Band- 
+6 sideband-separating mixers, a dual-polarization 0.8 mm receiver, and a 0.4 
+mm (602–720 GHz) dual-polarization receiver with ALMA Band-9 mixers. A new 
+Band 8 (385–500 GHz) receiver will also be available for limited 
+observations. The SMT control system has been updated to allow for dual 
+polarization, dual sideband observations (so-called "4 IF mode"). The 12M 
+supports a dual-polarization 3 mm receivers (82–116 GHz) that employs ALMA 
+Band-3 sideboard-separating mixers, as well as dual polarization, single 
+sideband receivers for the lower part of the 3 mm window (65-86 GHz) and at 
+2 mm (130-180 GHz). Due to likely equipment upgrades, availability of the 12 
+m may be limited. Remote observing is available at both ARO telescopes. 
+
+Please refer to http://aro.as.arizona.edu/ for more details. Information 
+about Remote Observing can be found at: 
+http://aro.as.arizona.edu/remote/remote.htm. 
+For further information about remote observing and other operational 
+questions, please contact Tom Folkers, Operations Manager: 
+tfolkers@email.arizona.edu 
+
+Proposals should consist of: 
+1. A proposal Cover Sheet, obtainable at http://aro.as.arizona.edu/proposals. 
+2. A brief scientific and technical justification (no more than 2 pages). 
+3. A source list with observing time requirements and justification, and/or 
+tables, figures and references (no more than 1 page in total). Note Sun 
+Avoidance Zones. 
+4. Provide the IP number of the computer you will be using during your 
+observations. 
+
+Please pay special attention to the “Sun Avoidance Zone” issue of your 
+proposed observations. The SMT will not be pointed to within 42 degrees of 
+the Sun, and the 12M, 15 degrees. 
+
+Electronic submissions will be accepted in PDF format only. Scheduling of 
+successful proposals will be done according to availability of the receivers 
+requested. 
+Please submit your proposals by midnight (23:59 pm CST) February 21, 2013 to: 
+kuan AT asiaa.sinica.edu.tw. 
+
+Kind regards, 
+Yi-Jehng Kuan 
+on behalf of UCAT's ARO TAC 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

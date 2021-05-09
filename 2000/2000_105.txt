@@ -1,0 +1,235 @@
+From kyl@asiaa.sinica.edu.tw Fri Apr 14 22:09 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA27720
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 14 Apr 2000 22:08:51 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA25786
+	for <astro@asiaa.sinica.edu.tw>; Fri, 14 Apr 2000 22:03:26 +0800
+Date: Fri, 14 Apr 2000 22:03:26 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Re: PDRA (fwd)
+Message-ID: <Pine.LNX.4.10.10004142203240.25756-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 10780
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Fri, 14 Apr 2000 12:27:37 +0100 (BST)
+From: Steve Phillipps <S.Phillipps@bristol.ac.uk>
+To: Jonathan Davies <Jonathan.Davies@astro.cf.ac.uk>
+Cc: armand@noao.edu, armando@cuevano.ugto.mx, nisse@astro.uu.se,
+     binggeli2@urz.unibas.ch, bomans@astro.uiuc.edu, nuts@moo.uoregon.edu,
+     noah@wise1.tau.ac.il, gbruzual@cida.ve, martin@mso.anu.edu.au,
+     burkert@mpia-hd.mpg.de, claude@astro.umontreal.ca, jcn@ll.iac.es,
+     gdc@mso.anu.edu.au, Jonathan.Davies@astro.cf.ac.uk, hdeeg@ll.iac.es,
+     dettmar@astro.ruhr-uni-bochum.de, john@hal.astro.umn.edu,
+     spd@edwin.phys.unsw.edu.au, pduc@eso.org, ferguson@stsci.edu,
+     ferrara@arcetri.astro.it, fica@st.nepean.uws.edu.au, kcf@mso.anu.edu.au,
+     kfricke@uni-sw.gwdg.de, ufritze@uni-sw.gwdg.de, jsg@tiger.astro.wisc.edu,
+     bianca@ifctr.mi.cnr.it, doug@noao.edu, pmg@astro1.bnsc.rl.ac.uk,
+     grebel@astro.uiuc.edu, bg@astro.uu.se, rguzman@ucolick.org,
+     hhanami@yeelen.hss.iwate-u.ac.jp, hasegawa@kiso.mtk.ioa.s.u-tokyo.ac.jp,
+     HELD@astbo3.bo.astro.it, cheller@uni-sw.gwdg.de,
+     hensler@astrophysik.uni-kiel.d400.de, supas030@astrophysik.uni-kiel.de,
+     hodge@astro.washington.edu, hoffman@nova.phys.lafayette.edu,
+     hopp@usm.uni-muenchen.de, p083huc@mpifr-bonn.mpg.de, izotov@mao.kiev.ua,
+     kawatad@mito.ipc.ibaraki.ac.jp, p213ukl@astro.uni-bonn.de,
+     komiyama@silmaril.astron.s.u-tokyo.ac.jp, koo@helios.ucolick.org,
+     krueger@orion.mpia-hd.mpg.de, kunth@iap.fr, mglee@astrog.snu.ac.kr,
+     leitherer@stsci.edu, lilly@morgaine.astro.utoronto.ca,
+     lin@helios.ucolick.org, peter@astro.lu.se, ulindner@walhall.uni-sw.gwdg.de,
+     ute@goliat.ugr.es, kyl@astro.uiuc.edu, dario@ifctr.mi.cnr.it,
+     cmartin@as.arizona.edu, pepa@iaa.es, mateo@astro.lsa.umich.edu,
+     ssm@dtm.ciw.edu, vmcintyr@atnf.csiro.au, mebold@astro.uni-bonn.de,
+     jmelnick@eso.org, meurer@pha.jhu.edu, bmiller@dtm.ciw.edu,
+     dminniti@igpp.ucllnl.org, mirabel@ariane.saclay.cea.fr, moles@oan.es,
+     mori@astron.s.u-tokyo.ac.jp, mochi@fugu.as.utexas.edu, CMT@ll.iac.es,
+     murakami@dpkato.nifs.ac.jp, akko@avalon.sci.hokudai.ac.jp,
+     sco@starburst.la.asu.edu, oey@ast.cam.ac.uk, ohta@kusastro.kyoto-u.ac.jp,
+     eva@astro.uu.se, east@astro.uu.se, PAGEL@nbivms.nbi.dk,
+     bpartrid@haverford.edu, S.Phillipps@bristol.ac.uk, sap@sao.stavropol.su,
+     gmrichter@aip.de, jrroy@phy.ulaval.ca, l.sage@naturedc.com,
+     sasaki-m@shimonoseki-cu.ac.jp, schaerer@stsci.edu,
+     slaz@parcha.astro.wesleyan.edu, jschombert@gm.ossa.hq.nasa.gov,
+     simpsonc@galaxy.fiu.edu, skillman@hal.astro.umn.edu,
+     smecker@carina.ps.uci.edu, sorai@nro.nao.ac.jp, ralph@astro.lu.se,
+     lstavele@atnf.csiro.au, tajiri@het.ph.tsukuba.ac.jp,
+     taylorc@azalea.physics.mcmaster.ca, gtt@ll.iac.es,
+     txt@astsun.astro.virginia.edu, etolstoy@eso.org,
+     atomita@milano.mtk.nao.ac.jp, Tosi@astbo3.bo.astro.it,
+     vtrimble@orion.oac.uci.edu, chicag@astro.ucla.edu, urb@oa.uj.edu.pl,
+     vandyk@astro.ucla.edu, vanzee@astrosun.tn.cornell.edu,
+     vacca@athena.ifa.hawaii.edu, hugo@astro.rug.nl, wwalsh@astro.uni-bonn.de,
+     walter@astro.uni-bonn.de, Ronald.Weinberger@uibk.ac.at,
+     dwestpfa@aoc.nrao.edu, JWHITEOA@rp.csiro.au, ewilcots@uwast.astro.wisc.edu,
+     RAW@cosmos.la.asu.edu, lyoung@aoc.nrao.edu, hzinnecker@aip.de,
+     karen@moo.uoregon.edu, R.S.deJong@durham.ac.uk, dspray@ing.iac.esf,
+     briggs@pitt.edu, f.briggs@astro.rug.nl, schneide@fcrao1.astro.umass.edu,
+     piet@star.herts.ac.uk, vdhulst@astro.rug.nl, w.j.g.blok@astro.rug.nl,
+     c.s.frenk@durham.ac.uk, nsk@astro.washington.edu,
+     lake@astro.washington.edu, binggeli2@ubaclu.unibas.ch, txt@virginia.edu,
+     jd@ociw.edu, treyer@ast.cam.ac.uk, mike@ast.cam.ac.uk, rse@ast.cam.ac.uk,
+     tully@hale.IfA.Hawaii.Edu, dns@astro.princeton.edu,
+     prugniel@cumulus.univ-lyon1.fr, held@bo.astro.it, tarmandroff@noao.edu,
+     spaans@strw.leidenuniv.nl, lacey@tac.dk, jgallagher@noao.edu,
+     kormandy@hale.IfA.Hawaii.Edu, dvb@roe.ac.uk, rgm@ast.cam.ac.uk,
+     bergeron@eso.org, don@oddjob.uchicago.edu, awolfe@ucsd.edu, lsl@ucsd.edu,
+     rse@ast.cam.ac.uk, c.s.frenk@durham.ac.uk, lake@astro.washington.edu,
+     ebrinks@andromeda.cimat.mx, kcf@mso.anu.edu.au, impey@as.arizona.edu,
+     burkert@mpia-hd.mpg.de, noah@wise1.tau.ac.il, kalevi.mattila@helsinki.fi,
+     izotov@mao.kiev.ua, vdhulst@astro.rug.nl, Rodney.Smith@astro.cf.ac.uk,
+     S.Phillipps@bristol.ac.uk, qap@aaocbn3.aao.gov.au, pmk@astro.lsa.umich.edu,
+     loveday@sdss.fnal.gov, huchra@cfa.harvard.edu, rekers@atnf.csiro.au,
+     rwebster@physics.unimelb.edu.au, rjw@ociw.edu, bergeron@iap.fr,
+     rwo@virgina.edu, vandenbergh@dao.nrc.ca, ars@ociw.edu,
+     w.j.g.de.blok@astro.rug.nl, ewilcot@rainier.astro.wisc.edu,
+     berczik@mao.kiev.ua, taylor@alpha1.astro.ruhr-uni-bochum.de,
+     karen@moo.uoregon.edu, Stephanie.Cote@hia.nrc.ca,
+     edeblok@physics.unimelb.edu.au, antonucc@tacsg1.tac.dk,
+     Mike.Edmunds@astro.cf.ac.uk, jschombert@gm.ossa.hq.nasa.gov,
+     Binggeli@astro.unibas.ch, pmcc@astro.uiuc.edu, swater@astro.rug.nl,
+     Jonathan Davies <jid@astro.cf.ac.uk>
+Subject: Re: PDRA
+
+Dear All
+Just borrowing Jon's e-mail distribution list...!
+You or your post-docs or students may also be interested
+in the following post-doctoral position in Bristol (to 
+be advertised in the May AAS jobs bulletin).
+Enquiries (or completed applications) can be sent to me
+or Malcolm Bremer or to the Personnel Department.
+Regards
+Steve Phillipps
+
+***************************************************************
+1 Postdoctoral Position in Observational Cosmology
+                                         Expires: 31-May-2000
+
+Postdoctoral Position in Observational Cosmology
+UNIVERSITY OF BRISTOL
+Personnel Office (EO)
+Senate House
+Bristol BS8 1TH
+England
+Tel: 44-117-954-6947 (ansaphone after 5pm)
+minicom: 44-117-928-8894
+E-mail: Recruitment@bris.ac.uk
+
+Attention: Personnel Officer, Reference 6272
+
+A post-doctoral fellowship is available for three years starting from
+August 2000 or as soon as possible thereafter to work on analysis and
+follow-up of the INT Wide Area Survey. This is a survey of
+more than  100 square degrees of sky in several optical passbands
+to a depth of approximately r=25 being carried out by a consortium of
+UK universities. The survey is an ideal basis for many studies in
+observational cosmology and extragalactic astronomy, it is expected
+that the fellow will help define the exact areas of study based upon
+their own interests and the parameters of the survey, and will take a
+lead in follow-up observations of the survey.
+
+Applicants should have a PhD in a relevant field of astrophysics,
+preferably with experience in image processing and data analysis.  The
+post, within the recently expanded Bristol Astrophysics Group in the
+Department of Physics, will be for up to 3 years, is on the RA1A scale
+and is funded by a grant from the Leverhulme Trust.  Informal
+enquiries may be directed to Dr. Malcolm Bremer, Department of Physics
+(Tel: 44 (0)117-928-8764; e-mail: m.bremer@bristol.ac.uk).
+
+For further details contact the Personnel Office, to whom applications
+(quoting reference 6272) consisting of a CV and description of
+research interests should be sent by  31 May 2000.  Applicants
+should arrange for two referees to send letters of reference by the
+deadline.
+
+An Equal Opportunities Employer
+
+
+
+   ---------------Further Particulars--------------------------
+
+University of Bristol
+Department of Physics
+
+Postdoctoral Fellowship in Observational Cosmology
+
+Further Particulars
+
+
+The Physics Department is housed in the H.H. Wills Physics Laboratory,
+and currently has 45 HEFCE-funded academic staff.  It was graded 5A 
+(the highest possible) in the last research selectivity exercise.  
+There are presently 40 technicians and 7 secretaries as well as 
+post-doctoral workers and academic visitors.  It teaches some 350 
+undergraduates and 70 postgraduates in the various Physics programmes.
+
+The Astrophysics group, with which the successful applicant will be
+working, is one of 8 research groups in the Department whose
+activities also include theoretical physics, the physics of magnetic
+materials at low temperatures, liquid and amorphous solids, polymer
+physics, microstructural analysis, and particle physics.
+
+There are a total of 19 staff and research students in the
+Astrophysics group, including Professor Birkinshaw, Drs. Boyce,
+Bremer, Hardcastle, Liang, Masheder, Phillipps, Walker, and Worrall in
+Physics Bristol's well-established research programmes in Galactic
+astrophysics concentrate on observations and interpretation of the
+large-scale distribution of CO in the Galaxy's interstellar medium,
+and theoretical and observational studies of the physics and chemistry
+of masers.  The extragalactic work involves surveys for high-redshift
+galaxies and clusters, low surface-brightness galaxies, work on the
+Sunyaev-Zel'dovich (SZ) effect in clusters of galaxies, and X-ray and
+complementary multifrequency studies of galaxies and AGN.  The
+research effort is supported by the Starlink Node at Bristol, based on
+a dual processor Sun Enterprise 250 computer feeding other Sun
+computers, PCs and X-terminals.
+
+The successful candidate will work on analysis and follow-up of the
+INT Wide Area Survey (for a description see
+http://www.ast.cam.ac.uk/~wfcsur/). The survey is suitable for many
+studies in observational cosmology and extragalactic astronomy. It is
+expected the successful candidate will have a strong influence in
+deciding the exact topics to work on, based on their own interest,
+expertise and the suitability of the survey material for the
+particular topic.  They are also expected to take the lead in
+follow-up proposals and observations.
+
+
+Applicants should have a PhD in a relevant field of astrophysics, 
+preferably with experience in the analysis and interpretation of 
+optical imaging data.
+
+The appointment will be on the RA1A scale, and will
+be for up to three years.
+
+Informal enquiries about the position may be directed to 
+Dr. Malcolm Bremer, Department of Physics, University of Bristol
+(Tel: 44 (0)117 928 8764; e-mail: m.bremer@bristol.ac.uk). 
+
+
+Applications in writing together with a CV and description of research
+interests should be sent to the 
+Personnel Office (EO), Senate House, Bristol BS8 1TH, quoting
+reference 6272, to be received by  31-May-2000.
+Applicants should arrange for two referees to send letters of
+references by the same date.
+
+
+
+
+

@@ -1,0 +1,220 @@
+=============================================================================
+
+In this issue (Mar 16 - 20, 2020)
+
+1. EAYAM 2020 is postponed
+2. Release of Full Polarization ALMA Test Data in July 2020
+3. ALMA Cycle 8 Call for Proposals is Now OPEN!
+4. ASIAA Colloquium/Seminar/Lunchtalk (Mar 25): Ellis Owen (NTHU)
+5. Delay of the ALMA Cycle 8 Proposal Submission Deadline
+6. ALMA Cycle 7 Observations Suspended due to COVID-19
+
+==============================================================================
+
+From: Hsi-Wei Yen <hwyen@asiaa.sinica.edu.tw>
+Date: Tue, 17 Mar 2020 05:52:12 +0800
+Subject: EAYAM 2020 is postponed
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear colleagues,
+
+Due to the threat of the spreading coronavirus COVID-19, the East Asian
+Young Astronomer Meeting 2020 in Beijing is POSTPONED, after discussion in
+the SOC and coordination with NAOC.
+
+Based on the current situation, it would be still ricky to travel in May.
+In addition, there is the isolation policy for visitors in Beijing. Thus,
+the SOC decided to postpone the meeting.
+
+The SOC plans to postpone the meeting to the same season in 2021. All
+registrations will be released. We will re-announce the meeting and call
+for participation to all the current participants and the east asian
+astronomy community when the new date is decided.
+
+Sincerely,
+Hsi-Wei Yen
+on behalf of the SOC
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 18 Mar 2020 04:34:09 +0800
+Subject: Release of Full Polarization ALMA Test Data in July 2020
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+
+Yu-Nung
+
+
+Release of Full Polarization ALMA Test Data in July 2020
+Mar 17, 2020
+
+ALMA will be releasing data acquired as part of the Extension and Optimization of Capabilities effort (EOC). The data were used to test, implement, and determine the accuracy of the linear-polarization mosaicking observing mode of ALMA. The data consist of:
+
+(1) Offset-pointing full-polarization observations performed in an 11x11 pointing grid in the (Azimuth, Elevation) frame, covering a region spanning approximately the full-width at half-maximum (FWHM) of the primary beam at bands 3, 5, 6, and 7. The observations were of the bright, highly linearly polarized quasar 3C 279.
+
+(2) A 15- and 45-pointing mosaic in band 3 and band 6, respectively, toward the Orion-KL nebula. The observations were configured asrectangular mosaics with a factor of 2 over-sampling (with respect to Nyquist) along both axes, or a factor of 4 in total beam overlap. Both mosaics are centered at RA = 05:35:14.5, DEC = -05:22:31.6 (J2000), using the standard spectral specification for continuum polarization observations with ALMA. The mosaics were oriented at approximately 30 degrees E of N, with an approximate extension of 90 arcsec in width and 130 arcsec in length for band 3, and 54 arcsec in width and 82 arcsec in length for band 6. The approximate angular resolution of the data is 0.9 arcsec in band 3 and 0.6 arcsece in band 6. The approximate achieved sensitvity is 0.9, 0.1, and 0.1 mJy/beam for Stokes I, Q, and U in band 3 respectively, and 2.1, 0.5, and 0.49 mJy/beam for Stokes I, Q, and U in band 6 respectively.
+
+Note, that the theoretical sensitivity was not reached for Stokes I Orion KL data as the image was dynamic range limited. The raw data, along with the calibrated measurement sets, reference images, and reduction scripts will be released in early July 2020. The data will be available through the ALMA science archive.
+
+
+https://almascience.nao.ac.jp/news/release-of-full-polarization-alma-test-data-in-july-2020
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 18 Mar 2020 04:48:04 +0800
+Subject: ALMA Cycle 8 Call for Proposals is Now OPEN!
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+ALMA Cycle 8 Call for Proposals is Now OPEN!
+=09
+The ALMA Director, on behalf of the Joint ALMA Observatory and the =
+partner organizations in East Asia, Europe, and North America, is =
+pleased to announce that the ALMA Cycle 8 Call for Proposals for =
+scientific observations is now OPEN!
+
+ALMA Cycle 8 is currently scheduled for observations from October 2020 =
+to September 2021. Users of any nationality or affiliation are invited =
+to submit proposals before the deadline of 15:00 UT on Wednesday 15 =
+April 2020.
+
+ALMA is carefully monitoring the situation regarding the  COVID-19 =
+pandemic and the evolving global situation and is considering the =
+possibility of needing to delay the proposal deadline which is currently =
+set for 15:00 UT on Wednesday 15 April 2020.  Updates will be posted to =
+the ALMA Science Portal on a weekly basis at http://almascience.org.  =
+The first update will be posted on Tuesday, 24 March 2020.  For =
+additional questions regarding the Cycle 8 Call for Proposals, contact =
+the ALMA Helpdesk at http://help.almascience.org.
+
+For more information, please see =
+https://almascience.nao.ac.jp/proposing/call-for-proposals
+
+best,
+Yu-Nung=20
+On behalf of ARC
+
+==============================================================================
+
+Date: Thu, 19 Mar 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Ellis Owen (NTHU)
+Topic:
+Time:         3/25 (Wednesday) 14:20 - 15:20
+Place:          R1203
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Subject: Delay of the Cycle 8 Proposal Submission Deadline
+Date: Fri, 20 Mar 2020 07:33:31 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI.
+
+Yu-Nung
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Delay of the Cycle 8 Proposal Submission Deadline
+Mar 20, 2020
+Dear colleagues,
+
+As everyone is aware, the novel coronavirus COVID-19 continues to impact =
+the global community.  As such, the ALMA Director, along with the =
+regional partners, have decided to delay the proposal deadline for the =
+ALMA Cycle 8 Call for Proposals to NO EARLIER than 1500 UT on 19 May, =
+2020.=20
+
+The Regional ARCs have adjusted working conditions to support the Cycle =
+8 Call and, as of now, can provide support to their communities.  Please =
+contact the ALMA Helpdesk (https://help.almascience.org) with any =
+questions or concerns regarding the ALMA Cycle 8 Call or any other =
+issues.
+
+As we continue to monitor the conditions worldwide, we will assess the =
+feasibility of this deadline and provide additional updates to the =
+community as needed.  The next update to the community will be provided =
+NO LATER than 21 April, 2020 on the status of the call and the support =
+for the scientific community at the ARCs.
+
+We realize these are challenging and uncertain times.  We want to =
+continue to hear your concerns (please submit Helpdesk tickets) and will =
+take the appropriate action to address them.  It=E2=80=99s important now =
+to consider the health and well-being of yourself and those around you =
+=E2=80=93 that should be the primary focus as we navigate through these =
+stressful times.
+
+Please visit the ALMA Science Portal for the most up-to-date information =
+on the observing and proposal status at ALMA (https://almascience.org).=
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Subject: ALMA Cycle 7 Observations Suspended due to COVID-19
+Date: Fri, 20 Mar 2020 15:50:04 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI.
+
+The news item will appear in the Science Portal, midnight of EDT 20 March 2020.
+ALMA EPO also released the related news yesterday. (https://www.almaobservatory.org/en/announcement/alma-precautionary-measures-against-coronavirus/)
+
+Yu-Nung
+
+-------------------------------------------------------------------
+
+ALMA Cycle 7 Observations Suspended due to COVID-19
+
+20 March 2020
+
+Due to the COVID-19 outbreak that has spread to Chile, the ALMA Director has made the decision to suspend science operations with ALMA, effective immediately. This decision has been taken to protect the safety of ALMA staff, many of whom travel long distances by bus and by plane to reach the remote ALMA site in the Atacama Desert in northern Chile.
+
+A reduced staff will be retained at the Operation Support Facility (OSF) to maintain the safety of the ALMA equipment and infrastructure. All other staff will be working remotely for the immediate future. The plan is to continue providing data processing, data archive services, and ARC support, including the Cycle 8 Call for Proposals while external conditions allow it.
+
+An announcement will be posted on the science portal when observations are resumed.
+-------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

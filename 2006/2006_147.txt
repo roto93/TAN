@@ -1,0 +1,288 @@
+
+> From: "Hsiang-Kuang Chang" <hkchang@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Fw: Suzaku AO-2
+> Date: Sat, 2 Sep 2006 02:14:46 +0800
+
+---------- Forwarded Message -----------
+From: Kazuhisa MITSUDA <mitsuda@astro.isas.jaxa.jp>
+To: hkchang@phys.nthu.edu.tw
+Cc: Kazuhisa MITSUDA <mitsuda@astro.isas.jaxa.jp>
+Sent: Fri, 1 Sep 2006 23:37:07 +0900
+Subject: Suzaku AO-2
+
+Dear Prof. Hsiang-Kuang Chang,
+
+Could you please kindly distribute the second announcement of
+opportunity (AO-2) of the Suzaku X-ray astronomy observatory
+to colleagues in your country?
+
+Best wishes,
+
+Kazuhisa Mitsuda
+--------------------------------------------------
+Department of High Energy Astrophysics
+Institute of Space and Astronautical Science (ISAS)
+Japan Aerospace Exploration Agency (JAXA)
+
+3-1-1 Yoshinodai, Sagamihara, 229-8510, Japan
+
+phone:    +81-427-59-8132
+telefax:  +81-427-59-8455
+
+==========================================
+
+                                         September 1,  2006
+
+Announcement of Opportunity (AO-2) of Suzaku
+
+1. Overview
+The Japanese-US X-ray Astronomy satellite Suzaku was
+launched by ISAS/JAXA on 2005 July 10, and has since
+successfully carried out astronomical observations using the
+4 X-ray CCD cameras (XISs) and Hard X-ray Detctor (HXD),
+although the X-Ray Spectrometer (XRS) is no longer
+operational. Between 2005 September and 2006 March ("SWG
+phase" - see below), observations were carried out for
+instrument calibration and performance verification, which
+confirm the wide-bandpass, high-sensitivity, moderate
+spectral resolution capabilities of Suzaku. In 2006 April,
+we entered the 1-year international AO-1 phase of the
+mission, performing observations based on proposals received
+from the astronomical community world-wide. We plan to start
+AO-2 observations in 2007 April, and hereby invite
+submission of observing proposals as follows.
+US based scientists should consult the parallel announcement
+at
+http://astroe.gsfc.nasa.gov/
+while scientists in ESA member countries should consult the
+version at
+http://www.rssd.esa.int/Suzaku
+Present version is applicable to scientists based in all
+other countries.
+
+2. Suzaku observatory
+The Suzaku satellite carries four X-Ray Telescopes (XRTs)
+that focus X-rays up to 12 keV with a high efficiency, each
+with an XIS unit at its focus. The XIS has a high
+sensitivity particularly for extended sources, as well as
+good spectral resolution, for soft X-rays below 0.8 keV, a
+capability that is superior to those of Chandra and XMM-
+Newton. At the same time, the HXD, though non-imaging, has
+unprecedented sensitivity in the wide energy range up to
+several hundred keV. The wide bandpass coverage with the XIS
+and the HXD is an important characteristic of the Suzaku
+mission, so we invite observing proposals that make strong
+use of their sensitivities. The details of the instruments
+(Technical Description document), and a list of targets that
+have been observed or will be observed within the SWG (see
+below) time and AO-1 can be found at the
+http://www.astro.isas.jaxa.jp/suzaku/
+We plan to update the Technical Description document, as
+well as planning tools, with latest information in early
+October; existing versions should suffice for early planning
+of proposals, but may not give accurate results when
+detailed simulations are performed.
+
+3. Mission phases and time allocation
+
+The Suzaku mission has been developed as a Japanese-US
+collaboration, and the Science Working Group (SWG) that
+consist of researchers involved in the development and
+operation oversees the project overall. After the end of the
+SWG phase of the mission (through 2006 March), normal
+observations during AO-1 are entirely through open proposal
+process. Similarly, observing time during international AO-2
+(1 year period starting 2007 April) is open. This, however,
+excludes the following categories.
+
+(1)     Observatory Time (4%) for satellite maintainance and
+related purposes
+(2)     Calibration time (3%) for routine calibration of
+instruments
+(3)     Director's Discretionary Time (5%) for any genuinely
+unpredictable events including gamma-ray bursts, and other
+important observations granted at the discretion of the
+mission director.
+The remaining 88% of total time is available to proposers.
+This will be divided into (1) 50% for Japanese observations;
+(2) 37.5% for US observations; and (3) 12.5% for joint
+Japanese-US observations. The joint time will be used if
+proposals were received for the same target both in Japan
+and in the US, and if both PIs accept such merging (the
+proposal form will have a check box for the PI to indicate
+yes or no). This allocation is based on an ISAS-NASA
+agreement. Additionally, within the "Japanese" allocation, 8
+% of the observing time is reserved for proposals submitted
+to ESA as joint Japan-ESA observations, thus the purely
+Japanese time is 42%. The total time available to Japan
+researchers is 4923 ks, plus 1465 ks of joint time, assuming
+37 ks of good time per day and 360 days of operation per
+year. Proposals from non-US, non-ESA countries will be
+accepted within the Japanese time up to the ESA portion (938
+ks).
+
+4. Observing Constraints
+Over 200 objects will have been observed with Suzaku during
+the SWG and AO-1 peirods. A full listing can be found on the
+web.
+http://www.astro.isas.ac.jp/suzaku/accept/
+Observations of accepted priority A and B targets are
+guranteed, while those of priority C targets and Targets of
+Opportunity (TOOs) are not (see below for definitions of
+target priorities). Proposals for targets already observed
+are allowed, but must include a justification for an
+additional observation, such as a much longer exposure,
+different pointing within an extended object, or different
+observing window of a variable object. Proposers with an
+accepted C or TOO targets must re-propose if they wish to
+ensure that their observations are carried out (these
+targets are in principle open to competition). It must be
+noted that if the C target is observed in AO-1 with more
+than 70% of proposed time, it will not be observed in AO-2.
+If not, it will be observed until total time become 70% of
+proposed time of B proposal, while 90% for A proposal. In
+these cases, data should be shared by authors of AO-1 and AO
+-2.
+
+The length of the observation should be justified based on
+the specific scientific objectives, preferably using
+simulations. However, we set the minimum observing time at
+10 ksec, considering the efficiency of satellite operation.
+There is no upper limit to for the observing time, but
+longer observations will naturally require stronger
+scientific justifications.
+
+It is possible to specify the time of observations (time
+critical (TC) observations) to observe specific phases or
+for simultaneous observations. The monitoring observations
+can be proposed with certain interval. You also able to
+chose the roll angle of the optical system. In all these
+cases, you have to put on the TC flag in the application
+form.
+
+Target of opportunity (TOO) proposals are allowed for short-
+lived events on known objects whose timing is uncertain. The
+name and coordinates of the object(s) as well as the
+triggering conditions must be specified. We also require the
+estimated probability during AO-2 of such an event, as well
+as its duration. Generic TOOs without a specific target
+(such as "a nearby supernova") will not be accepted. The
+number of targets listed in a reserved TOO proposal should
+not exceed 5.
+
+Any genuinely unpredictable events may be observed outside
+the proposal process, as part of the 5% Director's Time.
+Data from such observations will not have a proprietary
+period. Please make a contact to us for these cases, except
+for gamma-ray bursts.
+suzaku_managers@astro.isas.jaxa.jp
+Gamma-ray burst TOO observations will be planed by the
+Suzaku science working group.
+
+5. Review process and schedule
+Researchers based in Japan, and non-US, non-ESA countries
+should submit proposals to ISAS/JAXA. The deadline is 2006
+December 1 at noon JST for proposals. All proposals from
+Japan and other countries will be reviewed in the same
+process in Japan. After the review in Japan together with
+the ESA proposals, a Japan-US merging committee will be
+convened in February, and the final observing program will
+be published soon thereafter.
+
+Accepted proposal will be classified into three categories.
+Priority A targets will be preferentially observed during
+the AO-2 period (2007 Apr to 2008 Mar). Priority B targets
+will be scheduled in this period as far as possible, but may
+be carried over to the following AOs. Priority C targets
+will be used as fillers when there are gaps in the schedule.
+For the total available time T, we will accept 0.5T, 0.4T,
+and 0.5T as As, Bs, and Cs (for a total oversubscription by
+40%). If the actual amounts of observatory, calibration, and
+director's times add up to less than 12% that is set aside,
+then the remainder will be used to observe additional C
+targets.
+
+TOOs and time critical observations will be accepted only as
+priority A targets.
+
+6. Data right
+Observers will have exclusive rights to the data for a 1
+year period after receipt of data, after processing. This,
+however, does not apply to real time TOO observations and
+for Gamma-ray burst data. We will deem an observation
+complete if 90% (for A targets) or 70% (for B targets) of
+the proposed time is obtained.
+
+==================Proposal Submission=====================
+1.      Observations
+X-ray observations with Suzaku observatory from April 2007
+through March 2008.
+
+2.      Who may propose
+Principal investigators (PIs) have to be affiliated with
+institutions and universities located in Japan and other
+countries than USA or ESA member states. PIs at USA
+institutions and those in ESA member states should submit to
+NASA or ESA, respectively. PIs in other countries should
+send proposals to ISAS/JAXA Japan.
+
+3.      Due date of proposals
+12:00 JST (03:00 UT) on December 1, 2006. Printed material
+should be mailed with stamps dated on the day in Japan.
+
+4.      Proposal format
+Following two materials are both necessary.
+(1) RPS(Remote Proposal Submission system) submission : Note
+that the observation parameters in the electrical form
+should be accurate because they will be forwarded on-line to
+the satellite operation system.
+(2) 7 sets of hard copy of the proposal has to be submitted
+to the following address,
+
+Kazuhisa Mitsuda
+Institute of Space and Astronautical Science
+Japan Aerospace Exploration Agency
+3-1-1, Yoshinodai, Sagamihara
+Kanagawa,229-8510
+Japan
+
+The proposal form consists of
+(1) Cover Page (1 page),
+(2) General Form (1 page),
+(3) Target Forms (1 page),
+(4) Target Constraints (1 page),
+(5) Target Remarks (1 page),
+(6) Scientific Justification (scientific problem and
+technical feasibility) (maximum 4 pages; includes text,
+figures, charts, and tables),
+
+5.      Supplement Information
+For the detail, mission description, especially technical
+description is available at the web page
+http://www.astro.isas.jaxa.jp/suzaku/
+We plan to update the Technical Description document, as
+well as planning tools, with latest information in early
+October; existing versions should suffice for early planning
+of proposals, but may not give accurate results when
+detailed simulations are performed.
+
+If you have questions, please contact to
+suzaku_ao2@astro.isas.jaxa.jp
+
+========
+Institute of Astronautical Science/Japan Aerospace
+Exploration Agency
+Kazuhisa Mitsuda, Tadayuki Takahashi and Hideyo Kunieda
+------- End of Forwarded Message -------
+
+
+-------------------------------------------------------------------
+Hsiang-Kuang Chang                         hkchang@phys.nthu.edu.tw
+Associate Professor
+Department of Physics & Institute of Astronomy   Tel: 886-3-5742952
+National Tsing Hua University                    Fax: 886-3-5723052
+Hsinchu 30013
+Taiwan, ROC                URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------------
+

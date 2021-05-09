@@ -1,0 +1,45 @@
+> Date: Thu, 15 Jan 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chuan-Chin Lai (ASIAA)
+Topic:         Can We Measure Galaxy Environments with Photometric Redshifts?
+Time:         1/19 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+A variety of methods have been proposed to define and to quantify galaxy environments. While these techniques work well in general with spectroscopic redshift samples, their application to photometric redshift surveys remains uncertain. To investigate whether galaxy environments can be robustly measured with photo-z samples, we quantify how the density measured with the nearest neighbor approach is affected by photo-z uncertainties by using the Durham mock catalogs in which the 3D real-space environments and the properties of galaxies are exactly known. Furthermore, we present an optimization scheme in the choice of parameters used in the 2D projected measurements which yields the tightest correlation with respect to the 3D real-space environments. By adopting the parameters in the density measurements, we show that the correlation between the 2D projected optimized density and real-space density can still be revealed, and the color-density relation is also visible even for !
+a photo-z uncertainty (Ïƒâˆ†z/(1+z)) up to 0.06. We find that a deep (i âˆ¼ 25) photometric redshift survey with Ïƒâˆ†z/(1+z) = 0.02 yields a comparable performance of density measurement to a shallower i âˆ¼ 22.5 (24.1) spectroscopic sample with 40% (20%) sampling rate. Finally, we discuss the application of the local density measurements to the Pan-STARRS Medium Deep survey, one of the largest on-going deep imaging surveys. Using data from âˆ¼ 5deg2 of survey area, our results show that it is possible to measure local density and to probe the color-density relation in the PS-MDS, confirming the simulation results. The color-density relation, however, quickly degrades for data covering smaller areas.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    David Spergel (Princeton University)
+Topic:         Searching for Gravitational Waves in the Microwave Background
+Time:         1/21 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The detection of gravitational waves from the early universe would have a profound impact on our understanding of the early universe and would have
+an important implications for our understanding of fundamental physics.  The BICEP2 team recently claimed to have made the first detection of gravitational waves.  I will suggest that polarized dust is a more likely explanation and discuss the recent results from the Planck satellite.  I will then look forward to upcoming experiments that will use multi-wavelength data to search for gravitational waves.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Hu, Yen-Sang (ASIAA)
+Topic:         Image sensor readout device in OIR
+Time:         1/21 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

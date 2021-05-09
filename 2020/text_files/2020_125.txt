@@ -1,0 +1,287 @@
+=============================================================================
+
+In this issue (Aug 14 - 22, 2020)
+
+1. SMA_Call_for_Standard_Observing_Proposals (2020B_Semester)
+2. [Shida CAG seminar] (Aug 27): Hau-Yu Liu (ASIAA)
+3. Astronomy on Tap Taipei: volunteer speakers wanted
+4. ASIAA Colloquium/Seminar/Lunchtalk (Aug 26): Chow-Choong Ngeow (NCU)
+
+==============================================================================
+
+From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+Subject: =?utf-8?Q?Fwd=3A_SMA_Call_for_Standard_Observing_Proposals_?==?utf-8?Q?=E2=80=93_2020B_Semester?=
+To: astro@asiaa.sinica.edu.tw
+Date: Fri, 14 Aug 2020 14:49:28 +0900
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the =E2=80=9CCall for SMA =
+Call for Standard
+Observing Proposals - 2020B semester=E2=80=9D to TAN.
+
+Thank you,
+Naomi
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+=E8=BB=A2=E9=80=81=E3=81=95=E3=82=8C=E3=81=9F=E3=83=A1=E3=83=83=E3=82=BB=
+=E3=83=BC=E3=82=B8:
+=20
+=E5=B7=AE=E5=87=BA=E4=BA=BA: Mark Gurwell <mgurwell@cfa.harvard.edu>
+=E4=BB=B6=E5=90=8D: SMA Call for Standard Observing Proposals =E2=80=93 =
+2020B Semester
+=E6=97=A5=E4=BB=98: 2020=E5=B9=B48=E6=9C=8814=E6=97=A5 6:25:27 JST
+=E5=AE=9B=E5=85=88: sma-propose <sma-propose@cfa.harvard.edu>
+=20
+Dear Colleagues,
+After a 10 week closure in response to the coronavirus pandemic, the =
+Submillimeter Array restarted limited operations in June 2020, and =
+continues to operate at a somewhat reduced schedule (5 nights out of 7). =
+We anticipate that we will be able to maintain this cadence and =
+hopefully expand it in the coming months, along with continued =
+development and deployment of enhanced capabilities.
+=20
+We now warmly welcome submission of proposals for the upcoming 2020B =
+semester. In 2020B, the fraction of time available may be somewhat =
+reduced, depending on safety protocols in place as a response to the =
+coronavirus pandemic. We actively solicit projects of all sizes, and we =
+are particularly interested in increasing the number of smaller =
+proposals that take just a few hours in time, projects that are =
+especially time critical (such as coordinated observing campaigns and =
+ToO triggered event programs), and in monitoring type proposals.
+=20
+Information on the array and the submission process are provided =
+below, and we are available to answer questions or point you to any =
+information you may need.
+=20
+The latest Call for Standard Observing Proposals for observations with =
+the Submillimeter Array (SMA) is for the 2020B semester with observing =
+period 16 Nov 2020 =E2=80=93 15 May 2021.=20
+Standard Observing Proposals
+=20
+Submission deadline: 10 Sep 2020 20:00 UTC =3D 10 Sep 2020 16:00 EDT =3D=
+ 11 Sep 2020 04:00 CST (Taiwan)
+=20
+Proposal Information and Submission =
+<http://sma1.sma.hawaii.edu/proposing.html>
+The SMA is a reconfigurable interferometric array of eight 6-m =
+antennas on Maunakea jointly built and operated by the Smithsonian =
+Astrophysical Observatory and the Academia Sinica Institute of Astronomy =
+and Astrophysics. The array operates in the 230, 345 and 400 GHz bands, =
+observing simultaneously with two orthogonally polarized receivers, one =
+in the 230 GHz or 345 GHz band and the other in the 240 GHz or 400 GHz =
+band (with full polarimetric observations available using the 230+240 or =
+345+400 band combinations).
+=20
+The SMA configurations include antenna separations ranging between 9 m =
+and 508 m. The small antennas allow access to low spatial frequencies =
+(with projected baselines as short as 6-m) in the sub-compact =
+configuration, and at the other extreme, the finest angular resolution =
+with the very extended configuration at 345 GHz is ~ 0.25". The compact =
+and extended configurations complete the range. The characteristics, =
+performance and sky coverage of the SMA are both similar and =
+complementary to those of the stand-alone Atacama Compact Array (ACA) =
+component of ALMA, while providing full access to the northern sky.
+=20
+The heart of the SMA backend is the SWARM correlator, now able to =
+process up to 12 GHz bandwidth (IF coverage of 4 to 16 GHz) for each =
+receiver in each sideband, for a total of 48 GHz bandwidth, at a uniform =
+140 kHz resolution. We are offering this new expanded coverage in 2020B =
+as a shared-risk opportunity.
+=20
+The SMA can tune the orthogonal receiver combinations independently, =
+resulting in a very flexible frequency coverage capability. For example, =
+observations can be made at 1.3 mm and 870 micron simultaneously (with =
+many other configurations possible). One popular configuration allows =
+the 12 GHz/sideband/receiver frequency coverage to cover up to 44 GHz =
+contiguously (with 4 GHz covered with both receivers), where the tuning =
+ranges overlap for the two orthogonally polarized receivers. =
+Alternatively, the two receivers can be set with the same LO to cover =
+the same 24 GHz (12 GHz in each sideband) of frequency space in the two =
+orthogonal polarizations, allowing improved spectral line sensitivity. =
+In such a case, full Stokes polarization measurements are also possible =
+at 1.3 mm and 870 microns.=20
+=20
+The SMA provides flexible, wide band frequency coverage that delivers =
+high continuum sensitivity and excellent spectral line capabilities. A =
+full transit observation with the 12 GHz/sideband/receiver correlator =
+coverage will offer continuum sensitivity of 200 or 500 micro-Jy (1 =
+sigma) at 230 or 345 GHz in good weather conditions (precipitable water =
+vapor 2.5 mm and 1.0 mm, respectively). The corresponding line =
+sensitivities at 1 km/s resolution are 35 and 80 mJy.
+=20
+For more information about SMA capabilities, visit the SMA Observer =
+Center website <http://sma1.sma.hawaii.edu/status.html> and explore the =
+set of SMA proposing tools <http://sma1.sma.hawaii.edu/tools.html>. =
+Current and archived SMA Newsletters =
+<https://www.cfa.harvard.edu/sma/Newsletters/> provide a sampling of the =
+wide variety of science possible with the SMA.
+=20
+For more details visit the SMA Observer Center Proposal Information =
+Page <http://sma1.sma.hawaii.edu/proposing.html>.
+=20
+IMPORTANT DATES FOR STANDARD OBSERVING PROPOSALS
+=20
+Submissions open: 13 Aug 2020=20
+Submissions close: 10 Sep 2020 20:00 UTC =3D 10 Sep 2020 16:00 EDT =3D =
+11 Sep 2020 04:00 CST (Taiwan)
+Due to current and expected investment in further upgrades to the SMA =
+capabilities, delays due to the coronavirus pandemic, as well as =
+obligations to previous approved programs, the Large Scale Projects =
+program (for projects requesting 100 to 1000 hours) will not be =
+accepting proposals at this time for SAO. The ASIAA Key Projects program =
+is accepting proposals for eligible investigators.
+=20
+Questions or comments regarding the Standard Observing Proposals can =
+be addressed to sma-propose@cfa.harvard.edu =
+<mailto:sma-propose@cfa.harvard.edu>.
+=20
+=20
+ <>Sincerely,
+=20
+Mark Gurwell
+Submillimeter Array TAC Chair
+=20
+=20
+--=20
+Mark Gurwell
+Astrophysicist
+Submillimeter Array
+Center for Astrophysics | Harvard & Smithsonian
+=20
+Office: (617) 495 7292=20
+60 Garden Street | MS 42 | Cambridge, MA 02138
+=20
+=20
+=20
+cfa.harvard.edu <http://cfa.harvard.edu/> | Facebook =
+<http://cfa.harvard.edu/facebook> | Twitter =
+<http://cfa.harvard.edu/twitter> | YouTube =
+<http://cfa.harvard.edu/youtube> | Newsletter =
+<http://cfa.harvard.edu/newsletter>
+=20
+--=20
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to sma-newsletter+unsubscribe@cfa.harvard.edu =
+<mailto:sma-newsletter+unsubscribe@cfa.harvard.edu>.
+
+==============================================================================
+
+Date: Fri, 14 Aug 2020 16:36:23 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: Yueh-Ning Lee <ynlee@ntnu.edu.tw>
+Subject: [CAG seminar] 27/Aug/2020
+
+Dear all,=20
+
+Please find below the announcement for the next CAG seminar. Hau-Yu is
+an expert in observations of star-forming regions and protoplanetary
+disks. The observation of dust particles is one of the important
+challenges in modern star formation research since many observables of
+dust-related physical effects are degenerate. He will share with us
+recent advances on the understanding of the interstellar dust.=20
+
+Best,=20
+
+Yueh-Ning=20
+
+-------------------------------------------------------------------------=
+
+Speaker: Hau-Yu Liu =E5=91=82=E6=B5=A9=E5=AE=87 (Institute of Astronomy a=
+nd Astrophysics,
+Academia Sinica)
+Time: 16:30, 27/Aug/2020
+Venue: S101
+Title: Investigating interstellar dust physics using the Atacama Large
+Millimeter Array
+Abstract:
+Kepler Mission have found that earth-sized planets or super-Earths are
+extremely common around solar-like stars. How the initially sub-micron
+sized interstellar dust particles coagulates to form kilometer-sized
+and/or further bigger solid bodies (e.g., planetesimals, protoplanets),
+is a key open question which is ultimately related to our own origin.
+Experimentally, this topic is challenging since there is no way we can
+physically probe the interstellar dust particles. In this talk, I will
+introduce how we attempt this problem using the high angular resolution
+interferometric observations at 1-10 millimeter bands, towards
+extrasolar protoplanetary disks.
+-------------------------------------------------------------------------=
+
+==============================================================================
+
+Subject: Submissions to TAN mailing list
+From    Jonathan Marshall <jmarshall@asiaa.sinica.edu.tw>
+Date    2020-08-17 17:54
+
+Hi Yi-Jehng,
+
+I would like to submit the following message to the Taiwan Astronomy Network email to solicit speakers for the monthly outreach event "Astronomy on Tap Taipei" from colleagues around Taiwan. Would this be appropriate?
+
+---
+Dear all,
+
+
+We would like to advertise the astronomy/general science outreach event 'Astronomy on Tap Taipei'. These events are held once a month (typically on the last Friday) in Taipei near NTU campus, consisting of a 20 mins talk by a professional on a current science topic, some news items, and a quiz. The event is bilingual, in both English and Chinese (Mandarin), and runs from 8pm to ~ 9:30pm.
+
+
+We are currently looking for speakers willing to present a talk on their own research or a subject of interest to the general public. Talks are generally short (no longer than 20 mins), and accessible with as few graphs and equations as possible.
+
+
+If you would like to give a presentation, or you are interested in more details regarding the event, please contact myself (jmarshall@asiaa.sinica.edu.tw) or Astronomy on Tap directly (astronomy.on.tap.taipei@gmail.com).
+
+Thanks,
+
+Jonathan (on behalf of the AoT Taipei team)
+---
+
+Cheers,
+
+Jonty
+
+------------------------------------------------
+Dr. J. P. Marshall
+Research Scholar
+Institute of Astronomy and Astrophysics, Academia Sinica,
+11F of Astronomy-Mathematics Building, AS/NTU,
+No.1, Sec. 4, Roosevelt Rd, Taipei 10617, Taiwan
+------------------------------------------------
+publications | website | institute |
+------------------------------------------------
+
+==============================================================================
+
+Date: Thu, 20 Aug 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Chow-Choong Ngeow (NCU)
+Topic:         Zwicky Transient Facility and Variable Stars Research at the National Central University
+Time:         8/26 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The Zwicky Transient Facility (ZTF) is an on-going time-domain sky survey with an aim to detect various classes of transients. ZTF utilizes a wide-field 48-inch telescope (the P48 Telescope), located at the Palomar Observatory, and a dedicated mosaic CCD to survey the sky in gri filters. The telescope and CCD combination gives ZTF a stunning 47 degree-squared field-of-view, with a depth of ~20.5mag in the r-band. National Central University has joined the ZTF consortium under the TANGO collaboration, with research topics focused on asteroids (or Solar System small bodies) and variable stars. In the first part of this talk I will give an overview of the ZTF project. In the second part of the talk, I will present our published and on-going work on Be stars and RR Lyrae using the ZTF data.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

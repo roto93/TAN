@@ -1,0 +1,147 @@
+From hkchang@phys.nthu.edu.tw Thu Jan 14 09:23:16 1999
+Return-Path: <hkchang@phys.nthu.edu.tw>
+Received: from lux17.cc.nthu.edu.tw by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA09894; Thu, 14 Jan 1999 09:19:45 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: (qmail 11627 invoked from network); 14 Jan 1999 02:00:04 -0000
+Received: from phux1.phys.nthu.edu.tw (qmailr@140.114.80.5)
+  by lux17.cc.nthu.edu.tw with SMTP; 14 Jan 1999 02:00:04 -0000
+Received: (qmail 430 invoked by uid 108); 14 Jan 1999 01:24:54 -0000
+Date: Thu, 14 Jan 1999 09:24:54 +0800 (CST)
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: hot gas! (fwd)
+Message-Id: <Pine.BSF.4.02A.9901140924430.13297-100000@phux1.phys.nthu.edu.tw>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6271
+Status: RO
+
+
+
+-------------------------------------------------------------
+Hsiang-Kuang Chang                   hkchang@phys.nthu.edu.tw
+
+Department of Physics                      Tel: 886-3-5718688
+National Tsing Hua University                   
+Hsinchu 300                                Fax: 886-3-5723052
+                                                
+Taiwan, ROC          URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------
+
+---------- Forwarded message ----------
+Date: Wed, 13 Jan 1999 16:54:24 -0700
+From: John Gustafson <pogo@lanl.gov>
+To: laastro@mailhost.lanl.gov
+Subject: hot gas!
+
+Date: 13 January 1998 (22.00 GMT)
+For immediate release
+
+Ref. PN 99/02
+Issued by:
+Dr Jacqueline Mitton
+RAS Public Relations Officer
+Office & home phone: Cambridge ((0)1223) 564914
+FAX: Cambridge ((0)1223) 572892
+E-mail: jmitton@dial.pipex.com
+
+CONTACT FOR FURTHER INFORMATION ON THIS RELEASE:
+Dr Trevor Ponman (e-mail tjp@star.sr.bham.ac.uk)
+Tel. (0)121-414-6448 (office hours)   (0)1527-821385  (other times)
+
+Illustrations for this release available at:
+http://www.sr.bham.ac.uk/public (from 10.00 GMT, Thursday 14 January)
+
+GALAXIES CAME BEFORE CLUSTERS
+Astronomers at the University of Birmingham, using observations from the
+orbiting ROSAT X-ray telescope, have discovered evidence that the afterglow
+of galaxy formation can be seen today in the hot gas trapped in groups of
+galaxies. The high temperatures seen in this gas can be explained by the
+energy released from the supernova explosions accompanying galaxy formation,
+but only if galaxies formed *before* they grouped together into galaxy
+clusters. This resolves a long-standing debate in cosmology over whether
+structures in the Universe have formed "bottom-up" (i.e. small objects
+forming first and then clustering) or "top-down" (large objects form first
+and then fragment). The results are published in the Jan.14th issue of
+Nature.
+
+The Universe has a hierarchical structure: stars are grouped into galaxies,
+and most galaxies (including the Milky Way) congregate in small groups or
+large clusters which may contain up to thousands of galaxies. The space
+between the galaxies in these groups and clusters is not empty, but is
+filled with gas at a temperature of many millions of degrees Celsius, which
+radiates X-rays (see Figures).
+
+A team led by Dr. Trevor Ponman of Birmingham University has used the X-ray
+telescope on board the German/UK/US ROSAT satellite to image these X-rays,
+and to compare the hot gas in small groups to that in large clusters. Most
+current cosmological theories predict that as the Universe expands, galaxies
+clump together to form groups, which in turn merge together to form
+clusters. In this picture the hot gas in small groups should look just like
+a scaled-down version of that in large clusters. In practice, the ROSAT
+images show that this is not the case. The gas in galaxy groups is hotter
+than expected, and is spread out more thinly than that in clusters, so that
+they shine less brightly in X-rays than would be expected. These differences
+in the hot gas are almost certainly due to the energy injected into it when
+the galaxies formed.
+
+The formation of galaxies should be a spectacular process. As large numbers
+of stars are formed, the most massive of them live only a short time before
+exploding as supernovae, releasing large bursts of energy. This should heat
+the gas within the young galaxies to tens of millions of degrees, giving it
+enough energy to escape altogether, as high speed `galaxy winds'. These
+stream out of galaxies, heating the gas which surrounds them. This extra
+heat has little effect in large clusters (where the gas gets very hot
+anyway, due to the large amount of energy released as gas falls in the
+strong gravitational field), but in small groups it is very significant, and
+pushes the gas outward, causing the differences in X-ray brightness which
+are seen in the ROSAT images.
+
+Calculations by the team, Drs. Trevor Ponman and Damian Cannon from the
+University of Birmingham, and Dr. Julio Navarro from the University of
+Victoria in Canada, show that energy has a bigger effect if it is released
+into the gas before the galaxy groups formed. (It is harder to push gas out
+of a group than it is to stop it falling in in the first place.) In fact,
+the amount of energy released when galaxies form could only account for the
+observations if it had heated the gas before the group was present. In other
+words, galaxies must have formed before groups and clusters.
+
+This epoch of violent heating also explains why most galaxy formation
+stopped billions of years ago - there is plenty of gas left, but this does
+not generally form more galaxies, since most of it is now too hot to
+collapse under gravity and form stars. Most of the normal matter in the
+Universe has therefore been left in the form of hot gas filling
+intergalactic space.
+
+CAPTIONS TO ILLUSTRATIONS
+(illustrations available on http://www.sr.bham.ac.uk/public
+
+An optical image of a nearby group of galaxies, and the same group seen in
+X-rays with the ROSAT X-ray telescope. The scale of the two images is the
+same. The very hot gas imaged by ROSAT is invisible with optical telescopes,
+but actually contains more material than all the galaxies combined. In this
+very hot (10 million degree) gas, we see the afterglow of the violent events
+which accompanied the birth of the galaxies.
+
+NOTE ON ROSAT
+The ROSAT Observatory is an orbiting satellite carrying telescopes which can
+image the sky in the X-ray and Extreme Ultraviolet bands. It was built by a
+consortium of German, British and American universities. The mission has
+been extremely successful, and since its launch in 1990, has imaged well
+over 100,000 cosmic X-ray sources, many of them for the first time. The
+satellite operated far beyond its nominal two year lifetime, and was finally
+switched off only weeks ago, just before Christmas.
+
+PUBLICATION
+Paper: 'The thermal imprint of galaxy formation on X-ray clusters'
+Appearing in: 'Nature', January 14th 1999
+
+Authors
+Dr. Trevor Ponman & Dr. Damian Cannon
+          School of Physics & Astronomy, University of Birmingham, UK
+Dr. Julio Navarro
+          Department of Physics & Astronomy, University of Victoria, Canada
+
+
+

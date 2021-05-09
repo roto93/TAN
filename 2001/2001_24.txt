@@ -1,0 +1,700 @@
+From kyl@asiaa.sinica.edu.tw Tue Jan 23 21:16 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA09896
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 23 Jan 2001 21:15:59 +0800 (CST)
+Received: from iaa1 (kyl@iaa1 [140.109.177.7])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA00971
+	for <astro@asiaa.sinica.edu.tw>; Tue, 23 Jan 2001 21:18:56 +0800
+Date: Tue, 23 Jan 2001 21:09:43 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: The Evolution of Galaxies. II. Basic Building Blocks (fwd)
+Message-ID: <Pine.SOL.4.10.10101232109390.13084-300000@iaa1>
+MIME-Version: 1.0
+Content-ID: <Pine.SOL.4.10.10101232109391.13084@iaa1>
+Content-Type: MULTIPART/Mixed; BOUNDARY="============_-1231877808==_============"
+Content-Length: 28106
+Status: RO
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+  Send mail to mime@docserver.cac.washington.edu for more info.
+
+--============_-1231877808==_============
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII; FORMAT=flowed
+Content-ID: <Pine.SOL.4.10.10101232109392.13084@iaa1>
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Research Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+Address:				Phone: 886-2-2652-2020 ext 200
+ASIAA, P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Tue, 23 Jan 2001 11:09:31 +0100
+From: Marc Sauvage <msauvage@cea.fr>
+To: Reunion - Mailings:;;;;@cea.fr@discovery.saclay.cea.fr;;;
+Subject: The Evolution of Galaxies. II. Basic Building Blocks
+
+Dear Colleagues,
+
+We wish to bring to your attention (or remind you of) that the 
+pre-registration desk of the second Euroconference
+
+The Evolution of Galaxies. II. Basic Building Blocks
+
+To be held in Reunion Island, Indian Ocean, France, 16-21 October 2001
+
+is now open, and will stay so till April 2nd, 2001.
+
+For those of you who may not be aware of this conference, our first 
+announcement (in HTML format) is included as an attachment. More 
+information on the conference, and access to the pre-registration 
+desk, can be found at
+
+http://webast.ast.obs-mip.fr/eurogal2/
+
+Since our objective is to bring together specialists of star 
+formation, galaxy dynamics, energy flows and stellar evolution, 
+please circulate this anouncement around you.
+
+
+Sincerely yours,
+		The LOC.
+
+--============_-1231877808==_============
+Content-Type: TEXT/HTML; NAME="first_announcement.html"; CHARSET=us-ascii; FORMAT=flowed
+Content-ID: <a05010402b6930898bab9@[132.166.13.85].0.0>
+Content-Description: 
+Content-Disposition: ATTACHMENT; FILENAME="first_announcement.html"; MODIFICATION-DATE="Fri, 12 Jan 2001 17:24:38 +0100"; X-MAC-TYPE=54455854; X-MAC-CREATOR=4D4F5353
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Mozilla/4.74 [fr] (X11; U; Linux 
+2.2.16 i686)[Netscape]">
+</head><body>
+<hr>
+<h1>
+<p align="center">FIRST ANNOUNCEMENT
+<p align="center">EUROCONFERENCE
+<p align="center">THE EVOLUTION OF GALAXIES. II- BASIC BUILDING BLOCKS.
+<p align="center">ISLAND OF LA REUNION (FRANCE)</h1>
+<p>from Tuesday 16 October morning to Sunday 21 October evening 2001
+<p>* The European Commission, Research DG, Human Potential 
+Programme,High-Level Scientific Conferences Contract 
+HPCF-CT-1999-00065
+<hr>
+<p> <h3>CONTACT:</h3>
+<ul>
+<li>e-mail: <a href="mailto:eurogal@cea.fr"> eurogal@cea.fr</a>
+<li><a 
+href="http://webast.ast.obs-mip.fr/eurogal2/">http://webast.ast.obs-mip.fr/eurogal2/</a> 
+official conference site, will be opened after January the 15th
+<li><a 
+href="http://www.daec.obspm.fr/ThreeConf.html">http://www.daec.obspm.fr/ThreeConf.html</a> 
+General galaxy evolution euroconference site.
+</ul>
+
+<p><h3>CONTENTS</h3>
+<ul>
+<li><a href="#imp_dates">Important Dates</a>
+<li><a href="#sci_rat">Scientific Rationale</a>
+<li><a href="#soc">Scientific Organization Committee</a>
+<li><a href="#loc">Local Organizing committee</a>
+<li><a href="#sci_org">Scientific Organization</a>
+<li><a href="#part">Participation</a>
+<li><a href="#fees">Fees</a>
+<li><a href="#conf_loc">Conference Location</a>
+<li><a href="#trans_lodg">Transporation and Lodging</a>
+<li><a href="#support">Support</a>
+<li><a href="#social">Social Events</a>
+<li><a href="#public">Public Outreach Programme</a>
+<li><a href="#overview">Conference Overview and Invited Speakers</a>
+<li><a href="#reg">Pre-registration</a>
+</ul>
+
+<p>
+<h3> <a name="imp_dates"></a>IMPORTANT DATES:</h3>
+<table>
+<tr><td>January 15 2001</td><td>-></td><td>Pre-registration</td></tr>
+<tr><td>2 April 2001</td><td>-></td><td>Deadline for final abstract 
+submission</td></tr>
+<tr><td>2 May 2001</td><td>-></td><td>Final list of participants and 
+second announcement</td></tr>
+<tr><td>16-21 October 2001</td><td>-></td><td>Conference</td></tr>
+</table>
+
+<p>
+<h3><a name="sci_rat"></a>SCIENTIFIC RATIONALE:</h3>
+<p>The evolution of galaxies has become an observational fact mainly 
+after recent sky surveys (e.g. the HST deep field survey, the 
+Canada-France redshift survey, or ISO deep surveys), which have shown 
+that the properties of distant galaxies, formed early in the life of 
+the Universe, differ from those of nearby ones. New observational 
+windows at X-ray, ultraviolet, infrared and millimetric wavelengths 
+(ROSAT, IUE, IRAS, ISO, IRAM) have revealed that galaxies contain a 
+wealth of components (very hot gas, atomic hydrogen, molecules, dust, 
+dark matter).
+
+<p>However, theoretical modeling has not progressed as fast as the 
+census of the content of galaxies. So far, most models are very 
+empirical or semi-empirical. A real understanding of galaxy evolution 
+requires a proper physical description of the galaxy components as 
+well as of the coupling and feedback between them: stars and gas, 
+cold and hot phases of the interstellar medium, large scale and small 
+scale phenomena.
+
+<p>A significant advance is expected in the near future mostly due to 
+the conjunction of two circumstances. On the one hand, the 
+exploration of the most distant Universe will be possible with the 
+new facilities from ground and space (e.g. VLT, FIRST, XMM, etc..). 
+On the other hand, the rapidly developing computing facilities will 
+permit, for the first time, to provide self-consistent models of 
+galaxy evolution. During the next decade, we can expect a 
+breakthrough in galaxy modeling, in which all the relevant large and 
+small scale processes will be taken into account in a coherent way. 
+It will be possible to test this new generation of models against 
+strong observational constraints.
+
+<p>We have started a cycle of three Euroconferences on the evolution 
+of galaxies. The first conference, devoted to the observational 
+clues, took place in May 2000 in Grenada (Spain). The second will 
+take place in October 2001 in the Island of La Reunion (France) in 
+the Indian Ocean and will address the interplay between the different 
+components of a galaxy: interstellar matter, star formation, stellar 
+evolution and death, role of dynamics and environment. The last one 
+will take place in July 2002 in Kiel (Germany) and will address the 
+detailed modeling of galaxy evolution.
+
+<p>Specialists in various fields of Astronomy, observers and 
+theoreticians are expected to participate.
+
+<h3><a name="soc"></a>SCIENTIFIC ORGANIZING COMMITTEE:</h3>
+<ul>
+  <li>Grazyna Stasinska (Project Coordinator)
+  <li>Gerhard Hensler (Chair of the Conference in 2002)
+  <li>Laurent Vigroux (Chair of the Conference in 2001)
+  <li>Jose M. Vilchez (Chair of the Conference in 2000)
+  <li>Chantal Balkowski
+  <li>John Beckman
+  <li>Niels Bergvall
+  <li>Francoise Combes
+  <li>Uta Fritze-von Alvensleben
+  <li>Jay Gallagher
+  <li>Mary Kontizas
+  <li>Andre Maeder
+  <li>Bernard Pagel
+  <li>Jan Palous
+  <li>Juan Perez-Mercader
+  <li>Joe Silk
+  <li>Roberto Terlevich
+  <li>Monica Tosi
+</ul>
+
+<p>
+<p>
+<h3><a name="loc"></a>LOCAL ORGANIZING COMMITTEE: </h3>
+<ul>
+  <li>Chantal Balkowski
+  <li>Suzanne Madden
+  <li>Andre Perault
+  <li>Marc Sauvage
+  <li>Daniel Schaerer
+  <li>Grazyna Stasinska
+  <li>Michel Vignand
+  <li>Laurent Vigroux
+</ul>
+
+<h3><a name="sci_org"></a>SCIENTIFIC ORGANIZATION:</h3>
+<p>The general idea of this conference is to create the appropriate 
+environment for discussions between specialist of different fields, 
+observers and theoreticians, to review the key inputs for galaxy 
+modeling. Star formation, physics of the interstellar matter, 
+relation between stellar evolution and galaxy enrichment, relation 
+between galaxy evolution and environment, primeval galaxy evolution 
+will be the major topics analyzed during the conference. Emphasis 
+will be put on the physics of the different processes, their relative 
+importance and their uncertainties. The conference is composed of a 
+first day devoted to introductory presentations, followed by 5 
+consecutive sessions on the different processes relevant for galaxy 
+evolution. Each of the sessions will be composed of review talks, 
+contributed oral presentations (these may include progress reports as 
+well as critical reviews) and posters. Each session will end with a 
+general discussion on a key issue for galaxy evolution introduced by 
+a specialist. <p>Proceedings of the conference will be published, 
+including reports of the discussions.
+
+<h3><a name="part"></a>PARTICIPATION:</h3>
+<p>Participation of young researchers from European countries is 
+especially encouraged.
+
+<p>According to the rules on Euroconferences, attendance is limited 
+to 100 persons. The SOC will select the participants on the basis of 
+their proposed contribution (or motivation for young researchers). 
+Preference will be given to young researchers participating in all 
+the three conferences of the series.
+
+<p>The SOC will select for oral presentations the contributions 
+dealing explicitly with the topic of this second conference. Posters 
+are welcome, including on the topics related with the themes of the 
+other conferences of the series.
+
+<h3><a name="fees"></a>FEES: </h3>
+<p>The conference fee will be 200 Euros (to be confirmed)
+
+<h3><a name="conf_loc"></a>CONFERENCE LOCATION: </h3>
+<p>The conference will take place in the Island of La R&eacute;union. 
+La R&eacute;union is a French territory in the south of the Indian 
+Ocean. It is located eastward of Madagascar, and very close to 
+Mauritius Island. A large effort is done by the French Government to 
+develop education and interest for science in La R&eacute;union. The 
+heart of the educational system is the Universit&eacute; de 
+l'Oc&eacute;an Indien, located in Saint-Denis, the main town of the 
+island. There are two laboratories of physics, one dealing with the 
+physics of the atmosphere, the second with geology and volcano 
+activities. The venue of an international scientific conference 
+supported by the European Community will have a strong impact on the 
+local students and population in general. It is for this reason that 
+we have proposed to hold this conference in La R&eacute;union. A very 
+visible outreach program is associated with the conference. This 
+program has received an enthusiastic support from the local 
+authorities. The conference will benefit from financial support from 
+the different political authorities of La R&eacute;union.
+
+<p>The conference will take place in the Village Vacances Famille 
+(VVF) located in Saint Gilles, 30 km west of Saint Denis. The VVF is 
+a holiday resort composed a restaurant, a swimming pool, a conference 
+room and of small houses in a park on the sea side. Each house is 
+fully equipped for two persons, with one main room, toilet, bathroom, 
+kitchen and an open air veranda. All houses will be refurbished 
+within the next 9 months. A shopping center, medical care, small 
+beach restaurants and cinemas can be found at walking distances. A 
+nice beach is found just in front of the VVF premises.
+
+<p>The conference presentations and poster sessions will take place 
+in the VVF conference room, with the exception of the inaugural 
+session, which will take place in an auditorium in the Saint Denis 
+University. The sessions in the VVF will be split between morning and 
+late-afternoon meetings. Lunch will be taken in the VVF restaurant 
+and will be followed by a couple of hours for free activities 
+(swimming, snorkeling, sunbathing, etc). Dinner will be served in the 
+VVF restaurant. After dinner, a couple of hours will be devoted to a 
+discussion of the topic of the day while enjoying local beverages. 
+The fact that lodging, meals, and scientific activities are located 
+in a single place benefiting of a beautiful environment should 
+generate a friendly atmosphere and favor informal scientific 
+discussions between the participants.
+
+<p>In October, the weather is mildly hot, with average temperature of 
+26 C in the day. It is usually sunny in the morning, with some 
+possible rains in the afternoon, and a clear sky at night. Tropical 
+storms and hurricanes start later during southern summer, usually not 
+before December or January. The island is very safe, with no endemic 
+tropical diseases. No special vaccination is required, neither 
+specific life cares. Drinkable water is available everywhere. While 
+being part of the high tourist season, October is more quiet than the 
+peak periods of northern summer, or Christmas holidays. La Reunion is 
+one of the most beautiful islands of this region. It offers a large 
+variety of activities, such as trekking in the mountains in the 
+volcano caldera or in deep river canyons, gliding, canoeing, 
+snorkeling or scuba diving. The population of La R&eacute;union is 
+well mixed, with representatives native from India, Africa, 
+Madagascar and France mainland. The very different origins of the La 
+R&eacute;union population give a unique flavor to the local way of 
+life. An overview of La R&eacute;union can be found on the WEB site 
+<a href="http://www.ilereunion.net/">http://www.ilereunion.net/</a> 
+(french, english and german versions of the site are available)
+
+<h3><a name="trans_lodg"></a>TRANSPORTATION AND LODGING:</h3>
+
+<p>Saint Denis can be easily reached by plane from Paris. There are 3 
+direct flights per day, one by Air France, one by AOM, and another by 
+Corsair, the airline belonging to Nouvelles Frontieres. The fares 
+range from 3800 FF (570 Euros) to 6000 FF (900 Euros). British 
+Airways also also operates a regular flight to Saint-Denis. However, 
+it should be noted that the reservations should be made well in 
+advance, possibly early in May since these flights are often very 
+crowded. For participants who do not want to travel through Paris, 
+they might find direct flights to Mauritius Island, and from there 
+reach Saint Denis with a 20 minutes flight. There are several daily 
+flights between Mauritius and La Reunion.
+
+<p>The lodging will be ensured from Monday October 15 night to Monday 
+October 22 morning. We expect that most of the participants will 
+arrive on Monday October 15 morning and leave on Monday October 22 
+night. However, the conference will end on Sunday 21 early enough so 
+that participants may catch the Sunday night flight to Paris (leaving 
+at 9 PM). Participants can extend their stay in the VVF, either 
+before, or after the meeting by a few days, at the same price 
+conditions. Since we must issue a contract with the VVF in order to 
+secure all the rooms, the cost for the lodging and the meals should 
+be paid to the organizers at the same time as the registration fees, 
+3 months before the beginning of the conference. The cost for the 
+full pension is
+<p align="center">2000 FF (305 euros) for a shared room 2700 FF (412 
+euros) for a single room</p>
+
+<p>(These prices may change slightly according to the actual 
+attendance) <p>Transportation from and to the airport will be 
+provided. The cost of this transportation, as well as of the travel 
+to and from Saint-Denis University on the first conference day are 
+included in the conference fees. <p>For those wishing to extend their 
+stay in the island, the arrangement for extension should be done on 
+an individual basis with the VVF, with a mention that the additional 
+stay is linked with the conference. We recommend to rent a car, since 
+travel distances for the main scenic sites are quite long and public 
+transportation is almost non-existent. All main rental car companies 
+have local agencies. Cars may be rented at the airport and returned 
+in Saint Gilles, or vice versa. Reservation should be made in advance 
+to be sure to get a car. During the conference itself, there is no 
+need to have a car, since all the transports linked with the 
+conference will be provided and all the facilities (shops, 
+newspapers, tobacco, doctors, dentists, ...) are within walking 
+distance from the VVF.
+
+<h3><a name="support"></a>SUPPORT:</h3>
+<p>Funds from the European Community are available to provide some 
+support to a number of participants for attending the conference, 
+mainly young researchers from the European Community and invited 
+speakers. A limited amount of extra funds should also be available 
+from other sources. In any case, support will be distributed on a 
+case by case basis, upon request. If needed, please fill in the 
+pre-registration form appropriately.
+
+<h3><a name="social"></a>SOCIAL EVENTS: </h3>
+<ul>
+<li>A welcome drink offered by the Centre de Tourisme de La 
+R&eacute;union during registration at VVF before the Monday 15th lunch
+<li>A conference opening buffet offered by la Region de La 
+R&eacute;union on the Tuesday evening in the Saint Denis University
+<li>A one day excursion to the Piton de la Fournaise or to the Cirque de Cilaos
+<li>A conference closing dinner offered by the Conseil General de la 
+R&eacute;union on Sunday October 22.
+</ul>
+<p>The Tourism Office of La R&eacute;union offers two tickets for a 
+helicopter ride above the island. These will be given to the two 
+winners of the tombola that we will organize during the registration 
+drink.
+
+<h3><a name="public"></a>PUBLIC OUTREACH PROGRAMME:</h3>
+<p>The introductory lectures on the first day of the conference 
+(Tuesday October 16) are meant to provide an up-to-date overview of 
+galaxy evolution not only for the participants of the conference, but 
+also for students and professors of related sciences in the 
+Universite de l'Ocean Indien.
+
+<p>Two open public lectures will be given during the conference, one 
+in the saint Denis University, the second in a place to be defined in 
+the southern part of the island.
+
+<p>An open public lecture on galaxy evolution will take place at the 
+Observatoire des Makes, an observatory for amateur astronomers which 
+is used for children of the La Reunion schools. This conference will 
+be followed by informal discussions between conference participants 
+and the public and by observations of nearby galaxies and Galactic 
+nebulae with the telescopes of the Makes observatory.
+
+<p>Schools with a club of astronomy will have the possibility to 
+invite a participant of the conference for a lecture in the speaker's 
+native language and for a open discussion.
+
+<h3><a name="overview"></a>CONFERENCE OVERVIEW AND INVITED SPEAKERS</h3>
+
+<p align="center">
+<TABLE BORDER CELLSPACING=1 CELLPADDING=3 WIDTH=488>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT FACE="Times" COLOR="#0000ff"><P>&nbsp;</P>
+</FONT><FONT COLOR="#0000ff"><P>Tuesday, October 16, 2001</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><B><FONT COLOR="#0000ff"><P>Invited speakers</B></FONT></TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT COLOR="#ff0000"><P>Review presentations in Saint-Denis de la 
+Reunion</P>
+</B></FONT><FONT FACE="Times">
+</FONT><B><P>Introduction</P>
+
+<P>Galaxy evolution : an overview</P>
+
+<P>Star formation</P>
+
+<P>Nucleosynthesis and stellar evolution</P>
+
+<P>Energetic of Interstellar Medium</P>
+
+<P>Large scale dynamics</P>
+
+<P>Primeval stars and galaxies</P>
+</B><FONT FACE="Times"></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><P>Laurent Vigroux</P>
+
+<P>Sandy Faber* </P>
+
+<P>Francesco Palla*</P>
+
+<P>Friedrich-Karl Thielemann</P>
+
+<P>Guillermo Tenorio-Tagle</P>
+
+<P>Evangelia Athanassoula</P>
+
+<P>Simon White</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><P>Discussion <FONT SIZE=3>(will take place in the VVF in St Gilles)</P>
+</B></FONT><P>What are the main drivers of galaxy formation and evolution?</TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><P>Joseph Silk</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><B><FONT COLOR="#0000ff"><P>Wednesday, October 17, 2001</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT COLOR="#ff0000"><P>Session 1: Star formation</P>
+</B></FONT><FONT FACE="Times">
+</FONT><B><P ALIGN="JUSTIFY">Review Speakers</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">Topics :</P>
+
+<UL>
+</B><P ALIGN="JUSTIFY"><LI>What determines the large-scale star 
+formation rate?</LI></P>
+<P ALIGN="JUSTIFY"><LI>Star formation self regulation</LI></P>
+<P ALIGN="JUSTIFY"><LI>Structure and fragmentation of molecular clouds</LI></P>
+<P ALIGN="JUSTIFY"><LI>Star formation mechanisms, mass segregation, 
+origin of the IMF</LI></P>
+<P ALIGN="JUSTIFY"><LI>Influence of the environment and metallicity 
+on star formation</LI></P>
+<LI>Formation of stellar clusters and super clusters</LI></UL>
+
+<FONT FACE="Times"></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><P>Bruce Elmegreen</P>
+<P>Philippe Andr&eacute;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><P>Discussion </P>
+</B><P>From local phenomena to large scale star formation</TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><P>Hans Zinnecker</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT FACE="Times" COLOR="#0000ff">
+</FONT><FONT COLOR="#0000ff"><P>Thursday, October 18, 2001</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT COLOR="#ff0000"><P>Excursions: Piton de la Fournaise or 
+cirque de Cilaos</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT FACE="Times" COLOR="#0000ff">
+</FONT><FONT COLOR="#0000ff"><P>Friday, October 19, 2001 - 
+Morning</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT COLOR="#ff0000"><P>Session 2: Nucleosynthesis and stellar 
+evolution</P>
+</B></FONT><FONT FACE="Times"><P ALIGN="JUSTIFY"></P>
+</FONT><B><P ALIGN="JUSTIFY">Review Speakers</P>
+</B><FONT FACE="Times">
+</FONT><B><P ALIGN="JUSTIFY">Topics:</P>
+
+<UL>
+</B><P ALIGN="JUSTIFY"><LI>Sources of uncertainties on the yields</LI></P>
+<P ALIGN="JUSTIFY"><LI>The importance of binaries</LI></P>
+<P ALIGN="JUSTIFY"><LI>The origin of type I supernovae</LI></P>
+<P ALIGN="JUSTIFY"><LI>Stellar evolution and quiet production of 
+elements</LI></P>
+<P ALIGN="JUSTIFY"><LI>Explosive nucleosynthesis: novae and supernovae</LI></P>
+<P ALIGN="JUSTIFY"><LI>Element production in the diffuse medium</LI></P>
+<LI>Dust production</LI></UL>
+
+<FONT FACE="Times"></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><P>Corinne Charbonnel</P>
+<P>Wolfgang Hillebrandt</P>
+<FONT FACE="Times"></FONT></TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><P>Discussion </B>(will take place in the evening)</P>
+<P>What is firmly established in stellar evolution, supernova 
+progenitors and stellar yields</TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><P>Andr&eacute; Maeder</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><B><FONT COLOR="#0000ff"><P>Friday, October 19, 2001 &#151; evening</P>
+<P>Saturday, October 20, 2001 - morning</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT COLOR="#ff0000"><P>Session 3: Energy flows in the 
+interstellar medium</P>
+</B></FONT><FONT FACE="Times"><P ALIGN="JUSTIFY"></P>
+</FONT><B><P ALIGN="JUSTIFY">Review Speakers</P>
+<P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+<P ALIGN="JUSTIFY">Topics :</P>
+
+<UL>
+</B><P ALIGN="JUSTIFY"><LI>Radiation transfer in the interstellar 
+medium</LI></P>
+<P ALIGN="JUSTIFY"><LI>Heating of the ISM: stellar winds and shock 
+waves</LI></P>
+<P ALIGN="JUSTIFY"><LI>The dust life cycle</LI></P>
+<P ALIGN="JUSTIFY"><LI>Cosmic rays and magnetic fields</LI></P>
+<P ALIGN="JUSTIFY"><LI>The role of molecules and dust in the energy 
+balance</LI></P></UL>
+
+
+<UL>
+<P ALIGN="JUSTIFY"><LI>Mechanisms and time scales for chemical 
+enrichment of the ISM</LI></P>
+<LI>Galactic winds</LI>
+<LI>The interplay between large scale instabilities and star 
+formation in galaxies (spirals, bars, warps)</LI></UL>
+
+<FONT FACE="Times"></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><P>Jerry Sellwood</P>
+<P>Antonella Natta</P>
+<FONT FACE="Times"></FONT></TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT FACE="Times"><P>Discussion (will take place Saturday 
+evening)</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><B><FONT COLOR="#0000ff"><P>Saturday, October 20, 2001 - 
+evening</B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT COLOR="#ff0000"><P>Session 4: Environmental effects on 
+galaxy evolution</P>
+</B></FONT><FONT FACE="Times"><P ALIGN="JUSTIFY"></P>
+</FONT><B><P ALIGN="JUSTIFY">Review Speakers</P>
+</B><FONT FACE="Times"><P ALIGN="JUSTIFY"></P>
+<P ALIGN="JUSTIFY">&nbsp;</P>
+</FONT><B><P ALIGN="JUSTIFY">Topics:</P>
+
+<UL>
+</B><P ALIGN="JUSTIFY"><LI>Galaxy collisions</LI></P>
+<P ALIGN="JUSTIFY"><LI>The starburst phenomenon</LI></P>
+<P ALIGN="JUSTIFY"><LI>Galaxy harassment in clusters</LI></P>
+<P ALIGN="JUSTIFY"><LI>Interaction between galaxies and intracluster 
+gas</LI></P></UL>
+
+<FONT FACE="Times"></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><P>Ben Moore</P>
+<P>Joshua Barnes*</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><P>Discussion:</P>
+</B><P>Self-regulation mechanisms in the interstellar medium physics</TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><P>Mordecai-Mark Mac Low</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<FONT FACE="Times">
+</FONT><B><FONT COLOR="#0000ff"><P>Sunday, October 21, 2001 </B></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">&nbsp;</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><FONT COLOR="#ff0000"><P>Session 5: Primeval stars and galaxies</P>
+</B></FONT><FONT FACE="Times"><P ALIGN="JUSTIFY"></P>
+</FONT><B><P ALIGN="JUSTIFY">Review Speakers</P>
+</B><FONT FACE="Times"><P ALIGN="JUSTIFY"></P>
+</FONT><B><P>Topics :</P>
+
+<UL>
+</B><P ALIGN="JUSTIFY"><LI>The first generation of stars</LI></P>
+<P ALIGN="JUSTIFY"><LI>The dynamics of galaxy formation</LI></P>
+<P ALIGN="JUSTIFY"><LI>The nature of primeval galaxies</LI></P>
+<P ALIGN="JUSTIFY"><LI>The relation between  QSOs and galaxy formation</LI></P>
+<P ALIGN="JUSTIFY"><LI>Evolution from primeval to present day 
+galaxies</LI></P></UL>
+
+<FONT FACE="Times"></FONT></TD>
+<TD WIDTH="31%" VALIGN="TOP">
+<FONT FACE="Times"><P>&nbsp;</P>
+<P>&nbsp;</P>
+</FONT><P>Andrea Ferrara</P>
+<P>Andreas Burkert*</TD>
+</TR>
+<TR><TD WIDTH="69%" VALIGN="TOP">
+<B><P>Discussion</P>
+</B><P>Early ages in galaxy evolution</TD>
+<TD WIDTH="31%" VALIGN="TOP">
+
+<P>Alvio Renzini</TD>
+</TR>
+</TABLE>
+
+
+(*: speakers not confirmed at the time of this announcement)
+</p>
+
+<h3><a name="reg"></a>PRE-REGISTRATION:</h3>
+<p>if interested in attending the conference, please pre-register 
+using the pre-registration form to be found <a 
+href="http://webast.ast.obs-mip.fr/eurogal2/">on the web</a> (site 
+will be opened after January the 15th).
+<p>The deadline for pre-registering and sending abstracts of 
+presentations is <b>2 April 2001</b>
+<p>
+<p>
+<small>last revision of this announcement: January4 2001</small>
+</body>
+</html> 
+--============_-1231877808==_============
+Content-Type: TEXT/PLAIN; CHARSET=us-ascii; FORMAT=flowed
+Content-ID: <Pine.SOL.4.10.10101232109393.13084@iaa1>
+Content-Description: 
+
+-- 
+----------------------------------------------------------------------------------
+Marc Sauvage			Tel: (0)1-69-08-62-99
+CEA/DSM/DAPNIA/SAp		Fax: (0)1-69-08-65-77
+C.E. Saclay			mail: msauvage@cea.fr
+91191 Gif sur Yvette Cedex	http://marc.sauvage.free.fr
+----------------------------------------------------------------------------------
+--============_-1231877808==_============--
+

@@ -1,0 +1,97 @@
+From kyl@asiaa.sinica.edu.tw Sun Jul 30 15:07 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA08971
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 30 Jul 2000 15:06:34 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA14285
+	for <astro@asiaa.sinica.edu.tw>; Sun, 30 Jul 2000 15:08:35 +0800
+Date: Sun, 30 Jul 2000 15:01:23 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Changes to the Cycle 10 HST Proposal Process (fwd)
+Message-ID: <Pine.SOL.4.10.10007301501210.9399-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2909
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 26 Jul 2000 13:25:43 -0400 (EDT)
+From: AutoBot_Message <STScI-Generic@stsci.edu>
+Reply-To: blacker@stsci.edu
+To: kyl@astro.uiuc.edu
+Subject: Changes to the Cycle 10 HST Proposal Process
+
+Dear Colleagues:
+
+We wish to announce two significant changes to the Cycle 10 proposal
+process.
+
+It now appears that servicing mission SM3B will likely occur as
+late as (or later than) November 1, 2001, well into Cycle 10.
+The earliest possible GO observations on the new instruments
+(ACS and NICMOS) would then be in ~March 2002. We can ensure that ACS
+and NICMOS science will still be scheduled as early as possible by 
+using the Cycle 11 review (notifications expected on or before December
+2001). 
+
+Therefore we have decided, in consultation with the HST Project and the
+Chairs of the Users Committee and the STIC, that while WFPC2, STIS, and
+FGS will continue to be available:
+
+   ***** ACS and NICMOS will not be offered in Cycle 10. *****
+
+We estimate that at most 600 orbits would have been available,
+and that science will be better served by having those ACS and
+NICMOS proposals chosen in late 2001 rather than this coming fall.
+GTO observations in the Cycle 10 catalog will be protected against
+duplication even if ACS deployment is delayed until Cycle 11 (see
+section 5.2 of the CP for details).
+
+Another important change  will be the unavailability of the Aft Shroud
+Cooling System (ASCS) during Cycle 10. Hence, 
+
+   ***** there will be no STIS NUV MAMA low dark current campaigns *****
+
+(this supersedes Section 4.3.4 of the Call for Proposals).
+
+Based on the presently projected SM3B date, we expect Cycle 10
+to start on July 1, 2001 and to include a full year of observations
+minus the ~2-3 month cost of the servicing mission including
+verification. If the present schedule holds, there may be fewer 
+WFPC2/STIS/FGS opportunities toward the end of Cycle 10, as observations 
+with the new instruments, ACS and NICMOS, ramp up and fewer than a 
+full year of orbits may be allocated (depending on information available 
+at the time of the Cycle 10 TAC in November 2000).
+
+We regret we were unable to announce this in the Call for Proposals
+issued last month but the information was (and is) still evolving.
+ACS and NICMOS proposals will be solicited for Cycle 11, which has
+a nominal deadline in September 2001. Meanwhile, proposers can choose
+the best science without resorting to strategic games regarding
+instrument choice.
+
+We will keep you informed should further significant changes occur
+prior to the proposal deadline.
+
+Best wishes,
+Steve Beckwith
+Director, STScI
+
+
+
+

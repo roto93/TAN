@@ -1,0 +1,69 @@
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Tue, 6 Oct 2015 12:02:09 +0900
+> Subject: Call for Proposals of VERA 2016A
+> To: evntech@jb.man.ac.uk, vlbi@nrao.edu, vlbi@listmgr.cv.nrao.edu,
+>         merlin-announce@jb.man.ac.uk, astro@asiaa.sinica.edu.tw
+> Cc: azensus@mpifr-bonn.mpg.de,
+>        =?utf-8?Q?=EC=A1=B0=EC=84=B8=ED=98=95_Cho?= <cho@kasi.re.kr>,
+>        David.Jauncey@csiro.au, jromney@aoc.nrao.edu,
+>        Jongsoo Kim <jskim@kasi.re.kr>, gabuzda@caesar.ucc.ie,
+>        lgurvits@jive.nl, greenhill@cfa.harvard.edu, Philip.Edwards@csiro.au,
+>        moran@cfa.harvard.edu, Robert.A.Preston@jpl.nasa.gov,
+>        julvesta@aoc.nrao.edu, garrett@jive.nl, p222rwp@mpifr-bonn.mpg.de,
+>        r.bachiller@oan.es, f.colomer@oan.es, na.wang@ms.xjb.ac.cn,
+>        roy@oso.chalmers.se, jiyang@pmo.ac.cn,
+>        "H.Kobayashi Hideyuki" <hideyuki.kobayashi@nao.ac.jp>,
+>        atzioumi@atnf.csiro.au, mareki honma <mareki.honma@nao.ac.jp>,
+>        xhong@shao.ac.cn, zshen@shao.ac.cn, wm@ynao.ac.cn,
+>        "antao@shao.ac.cn An" <antao@shao.ac.cn>, xuye@pmo.ac.cn,
+>        Zhang.Ming@xao.ac.cn, =?utf-8?B?6rmA7ZiE6rWs?= <hgkim@kasi.re.kr>,
+>        =?utf-8?Q?=EC=86=90=EB=B4=89=EC=9B=90_Won_Sohn?= <bwsohn@kasi.re.kr>,
+>        =?utf-8?Q?=EB=B3=80=EB=8F=84=EC=98=81_Byun?= <bdy@kasi.re.kr>
+
+Dear Colleagues.
+
+I attached herewith an announcements of the call-for-proposals of
+the VERA for 2016A season.
+Please distribute this announcement to your community and encourage
+people to write proposals.
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+--------------------------------
+
+********************************
+Call for Proposals of VERA
+Deadline;  November 02, 2015, 08:00 UT.
+*********************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.
+Available observation time is up to 200 hours during the observation period
+from January 15th, 2016 to July 15th, 2016.
+Although it is limited to VERA array and  a single-beam mode,
+the 6.7 GHz ( C-band ) is opened on shared-risk basis.
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+                     Mareki Honma
+                     Director of Mizusawa VLBI  Observatory of NAOJ
+                        Email;  mareki.honma (at-mark) nao.ac.jp
+                        Phone; +81-197-22-7128
+
+==============================================================================

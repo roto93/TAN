@@ -1,0 +1,54 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>         web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________
+Speaker:        Eswaraiah Chakali (NCU)
+Topic:          Optical and NIR-polarimetry: a key tool to understand dust grain properties and the importance of magnetic fields in star-formation
+Time:           2/26 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Incoming light from a number of distant astronomical sources get polarized due to several astrophysical processes. Among them, differential extinction or dichroism, according to which un-polarized light get linearly polarized due to an ensemble of aligned, non-spherical and spinning dust grains with respect to the Galactic magnetic field, is a promising tool to understand the properties of dust grains and to map the line of sight averaged, plane of the sky magnetic field orientation. Polarimetry of reddened background stars of starless and star- forming regions will be useful to map the magnetic field geometry in and around these regions. Magnetic fields are one of the important constituents of the ISM, and are believed to play an important, perhaps even crucial, role in the formation and evolution of the molecular clouds, their collapse, star-formation in them, and the feed back processes (formation and evolution of outflows, mid-infrared bubbles, and bright rimmed clouds).
+ Star-clusters/star-forming regions, and molecular clouds (that are distributed at different distances, reddened by different amount extinction values, characterized by different extinction laws, and having different levels of star- formation activity) were studied using optical and NIR-polarimetry. Field stars and the cluster members have been identified using both optical color-color ((U-B) versus (B-V)) and Stokes plane (Q versus U) diagrams. The distribution and properties of dust grains, distribution of the magnetic field orientation, and the polarization efficiency of the dust grains have been studied. In this colloquium, I will present important results on my past and ongoing research work.
+
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________
+Speaker:        Luis Ho (KIAA)
+Topic:          TBA
+Time:           2/25 (Tuesday) 14:20 - 15:20
+Place:           physics 104
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________
+Speaker:        Eiichiro Kokubo (NAOJ)
+Topic:          Formation of Terrestrial Planets: The Basic Dynamical Model
+Time:           2/27 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In the standard scenario for solar system formation, planets forms
+from a protoplanetary disk that consists of gas and dust. The
+formation scenario can be divided into three stages: (1) formation of
+planetesimals from dust, (2) formation of protoplanets from
+planetesimals, and (3) formation of planets from protoplanets. In
+stage (1), planetesimals form from dust through gravitational
+instability of a dust layer or coagulation of dust
+grains. Planetesimals are small building blocks of solid
+planets. Planetesimals grow by mutual collisions to protoplanets or
+planetary embryos through runaway and oligarchic growth in stage
+(2). The final stage (3) depends on a type of planets. For terrestrial
+planets the final stage is giant impacts among protoplanets while
+sweeping residual planetesimals. In the present talk, I review the
+basic elementary processes of terrestrial planet formation, showing
+N-body simulations and discuss the origin of the diversity of
+terrestrial planets.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

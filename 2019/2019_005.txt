@@ -1,0 +1,31 @@
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Announcement of 3mm VLBI in Cycle 7
+> Date: Tue, 8 Jan 2019 15:24:09 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>     riaa <riaa@asiaa.sinica.edu.tw>
+
+FYI
+
+Yu-Nung
+
+-------------------------------------------------------------------
+
+Announcement of 3mm VLBI in Cycle 7
+Jan 07, 2019
+
+It is expected that phased ALMA will participate in some GMVA observations during ALMA Cycle 7 (Oct 2019 - Sept 2020;  see the ALMA Cycle 7 Pre-announcement).   There are likely to be ~43 ALMA antennas available to the ALMA observation; but the phased sum used for VLBI may be constructed only from those that lie within a circle of radius 0.5 km.   GMVA session dates for 2020 are not yet fixed but Session I in 2020, which is traditionally in the period March - May, would provide an opportunity for  GMVA + ALMA observing. 
+
+Any GMVA proposal requesting phased ALMA during Cycle 7 must be submitted via the NRAO PST at the February 1, 2019 deadline.
+
+Proposers should:
+
+        â€¢ specify "ALMA" in the Other Stations text field in the PST
+        â€¢ select the default GMVA 3mm observing mode of 2 Gbps, dual polarization
+        â€¢ specify the amount of time and GST range(s) needed for ALMA separately, either in Session Constraints or Comments, or in the Technical Justification.
+
+More information can be found from
+        https://almascience.nao.ac.jp/news/announcement-of-3mm-vlbi-in-cycle-7
+
+==============================================================================

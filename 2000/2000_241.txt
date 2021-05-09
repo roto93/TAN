@@ -1,0 +1,329 @@
+From kyl@asiaa.sinica.edu.tw Mon Nov  6 16:34 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA06190
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 6 Nov 2000 16:32:48 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA28919
+	for <astro@asiaa.sinica.edu.tw>; Mon, 6 Nov 2000 16:38:11 +0800
+Date: Mon, 6 Nov 2000 16:26:57 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Newsletter of Commsion 28 (fwd)
+Message-ID: <Pine.SOL.4.10.10011061626540.1134-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=X-UNKNOWN
+Content-Length: 13082
+Status: R
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+---------- Forwarded message ----------
+Date: Mon, 6 Nov 2000 16:47:10 +0900
+From: Masumi Nakaya <nakaya@astron.s.u-tokyo.ac.jp>
+To: Keiichi  Kodaira <Sasukekod@aol.com>,
+     Eija Irene  Laurikainen <eija@sun3.oulu.fi>,
+     Hiroshi  Karoji <karoji@optik.mtk.nao.ac.jp>,
+     Peter  Katgert <katgert@strw.leidenuniv.nl>,
+     Michele  Kaufman <rallis@mps.ohio-state.edu>,
+     William Clifford  Keel <keel@bildad.astr.ua.edu>,
+     Kenneth I.  Kellermann <kkellerm@nrao.edu>,
+     "Robert C.  Kennicutt,jr. " <rkennicutt@as.arizona.edu>,
+     Frank J.  Kerr <fkerr@astro.umd.edu>,
+     Edward Yerem  Khachikian <ekhach@bao.sci.am>,
+     Ramon  Khanna <Ramon.Khanna@lsw.uni-heidelberg.de>,
+     Pushpa  Khare <khare@iopb.res.in>, Ivan R.  King <king@glob.berkeley.edu>,
+     Thomas D.  Kinman <kinman@noao.edu>,
+     Robert P.  Kirshner <kirshner@cfa.harvard.edu>,
+     Uli  Klein <uklein@astro.uni-bonn.de>,
+     Johan Hendrik  Knapen <knapen@star.herts.ac.uk>,
+     Gillian R.  Knapp <gk@astro.princeton.edu>,
+     Rajesh  Kochhar <rkk@iiap.ernet.in>,
+     Natela G.  Kogoshvili <nmnt@Yahoo.com>,
+     Wolfram  Kollatschny <wkollat@uni-sw.gwdg.de>,
+     Evangelos  Kontizas  <ekonti@astro.noa.gr>,
+     Victor M.  Kontorovich <vkont@ira.kharkov.ua>,
+     Anuradha Purushottam  Koratkar <koratkar@stsci.edu>,
+     Baerbel Silvia  Koribalski <bkoribal@atnf.csiro.au>,
+     John  Kormendy <kormendy@ifa.hawaii.edu>,
+     Ren'ee Christine  Kraan-Korteweg <kraan@astro.ugto.mx>,
+     Marita  Krause <mkrause@mpifr-bonn.mpg.de>,
+     Gopal  Krishna <krishna@ncra.tifr.res.in>,
+     Richard Gordon  Kron <rich@oddjob.uchicago.edu>,
+     Yasuki  Kumai <kumai@kumagaku.ac.jp>,
+     Peter Zdravkov  Kunchev <valgol@phys.uni-sofia.bg>,
+     Daniel  Kunth <kunth@iap.fr>,
+     Ariane I.  Lancon <lancon@newb6.u-strasbg.fr>,
+     Richard B.  Larson <larson@astro.yale.edu>,
+     David  Layzer <layzer@fas.harvard.edu>,
+     Olivier C.  Le Fevre <Olivier.LeFevre@astrsp-mrs.fr>,
+     Michael James  Ledlow <mledlow@wombat.phys.unm.edu>,
+     Harry J  Lehto <hlehto@oj287.astro.utu.fi>,
+     Bruno  Leibundgut <bleibundgut@eso.org>,
+     James  Lequeux <james.lequeux@obspm.fr>,
+     Xiao-Qing  Li <njxqli@jlonline.com>,
+     Simon John  Lilly <lilly@astro.utoronto.ca>,
+     Chia C.  Lin <cclin@math.mit.edu>, Per Olof  Lindblad <po@astro.su.se>,
+     Kwok Yung  Lo <kyl@asiaa.sinica.edu.tw>,
+     Rosario  Lopez <rosario@mizar.am.ub.es>, Omar  Lopez-Cruz <omar@inaoep.mx>,
+     Steven D.  Lord <lord@ipac.caltech.edu>,
+     David Chin-Yuen  Koo <koo@ucolick.org>
+Subject: Newsletter of Commsion 28
+
+Dear All,
+
+It seems that we had some e-mail trouble in sending the
+IAU Commission 28 Newsletter the other day.
+The mail may not have reached about a half of our members.
+
+Accordingly, I would like to re-send the Newsletter.
+Apologies for those who receive the same thing twice.
+
+With best wishes,
+Sadanori Okamura
+
+President, IAU Commission 28
+
+
+
+
+-----------------------------------------------------------------
+  
+                            　***********************
+                              Newsletter of Commsion 28
+                              ***********************
+
+Dear Members of Commission 28,
+
+This is the first newsletter from the new President, which summarizes
+the information you may want from the 24th General Assembly in
+Manchester. I am very grateful to Virginia Trimble for her tremendous
+help in preparing this newsletter.
+
+With best wishes,
+Sadanori Okamura
+
+---------------------------------------------------------------------
+1. Report of Business Meeting held on 11 August 2000
+(prepared by P. Shaver)
+
+Attendance: F. Bertola, J.R. Bond, R. Davies, R. Ekers, M. Feast, J.
+Felten, L. Gurvits, R. Hunstead, E. Khachikian, P. Lilje, C. Lineweaver,
+M. MacCallum, J. Mould, J. Narlikar, S. Okamura, B. Partridge, J.
+Peacock, S. Refsdal, B. Roukema, P. Shaver, S. Simkin, A. Szalay, V.
+Trimble, B. Tully, M. Wanas, R. Williams
+
+
+This was a joint meeting of Division VIII and its two Commissions, 28
+and 47. The reports and approval of new officers of the two Commissions
+took place first, and are reported separately in this volume.
+
+
+Division VIII Officers, Triennium 2000-2003
+
+The Division VIII Board includes the President, vice President and past
+President of each of the two Commissions, and a Division President who
+is nominated by the Board. These appointments were approved at the
+meeting. In addition, three additional nominations were made and
+approved at the meeting. The new Board of Division VIII is as follows:
+
+PRESIDENT:  V. Trimble
+
+BOARD:  F. Bertola  (Division President-Elect; PP Com 28)
+        M. Birkinshaw (Division webmaster)
+        S. Lilly  (vice President, Commission 47)
+        S. Okamura  (President, Commission 28)
+        J. Peacock  (President, Commission 47)
+   　　 E. Sadler  (vice President, Commission 28)
+ 　　   P. Shaver  (past President, Division VIII)
+        A. Szalay  (past President, Commission 47)
+
+
+Scientific Meetings
+
+A summary was presented of the scientific meetings that had been
+supported/sponsored by Division VIII and its two Commissions over the
+past triennium: 11 Symposia, 5 Colloquia and 3 Joint Discussions. Of
+these, the following took place at the General Assembly in Manchester:
+Symp. 201: New Cosmological Data and the Values of the Fundamental
+           Parameters
+Symp. 204: The Extragalactic Infrared Background and its Cosmological
+           Implications
+Symp. 205: Galaxies and their Constituents at the Highest Angular
+           Resolutions
+JD 8: Oxygen Abundances in Old Stars, Implications to Nucleosynthesis &
+      Cosmology
+JD 9: Cold Gas and Dust at High Redshift
+JD 10: Cluster Mergers and their Connection to Radio Sources
+
+The following four meetings are supported for 2001:
+Extragalactic Star Clusters  (E. Grebel; Pucon, Chile)
+Planetary Nebulae   (M. Dopita; Canberra, Australia)
+Cosmic Masers   (V. Migenes; Rio de Janiero, Brazil)
+AGN Surveys    (A. Mickaelian; Byurakan, Armenia)
+
+
+Discussion
+
+A number of points were raised for general discussion:
+
+a) Communications. A renewed effort will be made to reach all members of
+both Commissions by e-mail, so that regular newsletters can be sent, and
+a new and more comprehensive website will be established.  Susan Simkin
+agreed to act as email coordinator.
+b) Organization of the Division. As in previous years, it was decided to
+leave the Divisional structure unchanged, with no new Commissions
+proposed. The  intention of Div XI to establish a new Commission on
+Astroparticle Physics was supported. The possibility of creating new
+Working Groups was discussed, and will be further explored in upcoming
+newsletters.
+c) Reports on Astronomy. The continuing need for such reports as
+reference sources for both researchers and historians was generally
+agreed, and possible formats were discussed.
+d) Format of the General Assembly. There was a brief discussion about
+the structure of the General Assembly, in particular whether somewhat
+more time should be made available for meetings organized by the
+Divisions and Commissions.
+
+The President thanked the Board members for the pleasant and productive
+collaboration over the past triennium, and welcomed his successor
+Virginia Trimble and the new members of the Board. He also thanked the
+General Secretary, Assistant General Secretary and IAU Secretariat for
+their help on administrative matters. In turn, the participants of the
+meeting thanked the President for his efforts over the past three years.
+
+----------------------------------------------------------------------
+2. Reports of the Business Meeting of Commission 28 held on 11 August 2000
+(prepared by F.Bertola)
+
+The meeting was held jointly with Commission 47 and Division VIII. For
+matters of common interest see the Division VIII report.
+
+The President remembered with sorrow the following members deceased since
+the Kyoto General Assembly: David Emerson, Jean Heidmann, Erik Holmberg,
+Wilhelmina Iwanowska, Vijay Kapahi, Gabriel Kojoian, Paul Kustaanheimo,
+Barry Lasker, Paris Pismis de Recillas, Dennis Sciama, Bjoern Sundelius,
+Richard White.
+
+A list of 86 new members to be admitted to the IAU at the General Assembly,
+who had expressed desire to be members of Commission 28, was approved. To
+this list the name of Areg Mickaelian (Armenia), already an IAU member,
+has to be added following his request to the President.
+
+Members of the Commission before 1997 GA were 668, and 97 new members were
+approved at 1997 GA, totaling to 765. The three-year effort, carried out
+by the Vice President, to update the membership of the commission resulted
+in the following:
+
+Those who want to be members                          642
+Those who no more wish to be members                   46
+Lette and/or e-mail not returned, but no answer        47
+Unable to reach by either letter or e-mail             14
+No entry in the IAU member list                         5
+
+The following officers for the triennium 2000-2003 has been approved:
+
+
+Sadanori Okamura                   Japan,  President
+Elaine Sadler                      Australia, Vice President
+Chantal Balkowski-Mauger           France
+Francesco Bertola                  Italy
+James Binney                       UK
+David Burstein                     USA
+Pieter de Zeeuw                    Netherlands
+Anthony Fairall                    South Africa
+Timothy Heckman                    USA
+Simon Lilly                        Canada
+Zhen-Long Zou                      China PR
+
+The President expressed his appreciation for the outgoing members Sandip
+Chakrabarti (India), Michael Feast (South Africa), John Huchra (USA),
+Virginia Trimble (USA), Richard Wielebinski (Germany) and welcomed the
+new President and the new members of the OC.
+
+A discussion has taken place on how to name newly discovered companions
+to M31. It has been decided to wait for the recommendations from the IAU
+Task Group on Astronomical Designations.
+
+-------------------------------------------------------------------
+3. Venues of next two GAs
+
+25th General Assembly: 13-26 July 2003 in Sydney, Australia
+
+26th General Assembly: 2006 in Prague, Czech Republic, exact dates TBD
+
+-------------------------------------------------------------------
+4. The Gruber Prize - The Executive Committee voted unanimously to
+associate the IAU with this new prize in Cosmology, to be given in
+2000 (to P James E Peebles and Allan Sandage) and each year thereafter
+(normally a single prize of $150,000), accompanied by one or more
+fellowships in cosmology and related sciences to be award to one or
+more young astronomers from developing countries to enable them to
+work with colleagues in more developed countries.  The IAU will,
+in the future, appoint 4 of the 7 members of the committee to select
+winners.  Deadline for applications or nominations for the first
+round of fellowships (to be awarded early in 2001) will be quite
+soon, so be thinking of a young colleague who might be eligible.
+
+--------------------------------------------------------------------
+5. Deadline 15 March 2001.
+
+PROPOSALS for symposia and colloquia requesting IAU sponsorship in
+2002 should reach President of appropriate sponsoring Division by
+this date.
+
+LETTERS OF INTENT for symposia and joint discussions for the Sydney
+GA have the same deadline (the LOC has to pay by the room for
+convention facilities and wants a preliminary decision from the Exec
+Comm meeting of June 2001 on roughly how many of each there will be
+and for how many days).  Symposia can run 3-4 days (3 or 3 1/2 being
+preferred) and JDs 1/2, 1, max 1.5 days at the GA.  Free standing
+symposia and colloquia can run 3-5 days; colloquia tend to be a bit
+shorter than symposia.
+
+--------------------------------------------------------------------
+6. Symposia and colloquia to be sponsored in 2001:
+
+Planetary Nebulae, Canberra, 19-23 Nov
+Extragalactic Star Clusters, Pucon Chile 12-16 March
+Cosmic Masers, Rio de Janiero, 5-10 March
+Stellar Atmospheres, Uppsala Sweden, late June
+Pulsating stars and stellar astrophysics, Leuven BE 26-31 July
+AGN Surveys, Byurakan Armenia, 19-23 June
+
+--------------------------------------------------------------------
+7. New or restructured Working Groups that might be of interest to
+members:
+
+Future Large Scale Facilities (both ground and space) - chair
+is probably Richard Scillizzi.
+
+"new messenger astronomy" (this is not the name - it includes dark
+matter, neutrinos, gravitational radiation, very high energy cosmic
+rays and gamma rays, etc) Initial organizing by G.Srinivasan, the
+new President of Div IX (High Energy Astrophysics & Astronomy from
+Space)
+
+
+
+
+
+
+
+
+
+
+
+

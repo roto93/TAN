@@ -1,0 +1,151 @@
+==============================================================================
+
+In this issue (Sep 30 - Oct 6, 2019)
+
+1. ALMA Users Cycle 7 CASA+pipeline announcement
+2. ASIAA Colloquium/Seminar/Lunchtalk (Oct 09): Yueh-Ning Lee (NTNU)
+3. The first announcement of the 2019 EA ALMA science workshop
+
+==============================================================================
+
+Subject: ALMA Users Cycle 7 CASA+pipeline announcement
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 2 Oct 2019 08:51:34 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+FYI
+
+-----
+
+The ALMA Cycle 7 CASA+pipeline: 5.6.1-8 is available for download
+(https://casa.nrao.edu/casa_obtaining.shtml)
+
+Important things to note:
+
+* CASA versions prior to 5.6.1-8 cannot be used to import raw ALMA Cycle
+7 data due to a change in the data format. CASA 5.6.1-8 and the bundled
+Cycle 7 ALMA pipeline has been validated to calibrate and image raw ALMA
+data from Cycles 3-7.  Restoration of previously calibrated ALMA data is
+recommended to be done in the CASA version originally used for the
+calibration, however, we believe that CASA 5.6.1-8 will restore pipeline
+calibrated data from CASA 5.4.0 or more recent.
+
+* To alleviate CASA tclean memory issues for large mosaics, more
+temporary files are opened on disk than previously when running tclean.
+This requires the number of open files limit to be set to at least
+ulimit > 16384. Note that linux/macOS have both "hard" and "soft" limits
+for open files, a user sees the "soft" limit (only root can change the
+hard limit). BOTH must be increased to at least 16384.
+
+To check the ulimit, in bash type
+ulimit -Hn (hard limit)
+ulimit -Sn (soft limit)
+
+* For full release notes and known issues see
+https://casa.nrao.edu/casadocs/casa-5.6
+
+-----
+
+
+Best wishes,
+Misato
+
+
+
+==============================================================================
+
+Date: Thu, 3 Oct 2019 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Yueh-Ning Lee (NTNU)
+Topic:
+Time:         10/9 (Wednesday) 14:20 - 15:20
+Place:          R1203
+
+==============================================================================
+
+From: Ya-Wen Tang <ywtang@asiaa.sinica.edu.tw>
+Date: Fri, 4 Oct 2019 14:47:28 +0800
+Subject: Fwd: the first announcement of the 2019 EA ALMA science workshop
+To: astro@asiaa.sinica.edu.tw
+
+Dear Prof. Kuan,
+
+Can you help to circulate this announcement to TAN?
+Thanks a lot,
+Tangtang
+
+---------- Forwarded message ---------
+From: Ya-Wen Tang <ywtang@asiaa.sinica.edu.tw>
+Date: Fri, Oct 4, 2019 at 2:43 PM
+Subject: the first announcement of the 2019 EA ALMA science workshop
+To: INOUE Akio <akinoue@aoni.waseda.jp>
+Cc: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>, Tomoka Tosaki <
+tosaki@juen.ac.jp>, Daisuke Iono <d.iono@nao.ac.jp>,
+=EA=B0=95=EC=A7=80=ED==98=84 <jkang@kasi.re.kr>,
+Akimasa Kataoka <akimasa.kataoka@nao.ac.jp>, Yueh-Ning Lee <
+ynlee@ntnu.edu.tw>, Hwang, Ho Seong <hhwang@kasi.re.kr>,
+Woojin Kwon <wkwon@kasi.re.kr>, Hwang, Ho Seong <hwang.ho.seong@gmail.com>,
+ARan Lyo <arl@kasi.re.kr>
+
+
+Dear all,
+
+We are happy to announce that "2019 EA ALMA Science Workshop" will be held
+in ASIAA, Taipei during Feb 19 to 21, 2020.
+The registration is open now through the following link:
+https://events.asiaa.sinica.edu.tw/workshop/20200219/index.php
+
+Announcement:
+The East-Asian ALMA Science Workshop is an annual workshop to promote
+regional collaborations in ALMA science in East Asia. We are pleased to
+announce that the next EA ALMA Science Workshop will be hosted by Academia
+Sinica Institute of Astronomy and Astrophysics on Feb 19 to 21 in Taipei,
+Taiwan. In this three-day workshop, we invite all scientists in East Asia
+to present their ALMA-related studies, to propose new scientific questions,
+and to seek new collaborations. We also welcome astronomers who do not use
+to work in the millimeter/submillimeter to present ideas that may involve
+ALMA in multi-wavelength and multi-messenger studies. We will feature
+invited talks to review the latest progress in various fields, and
+discussion sessions for brainstorming future directions.
+
+Registration deadline:
+  Nov 3, 2019 for PRC passport holders (due to the travel permit
+applications)
+  Nov 27, 2019 for others
+
+Please help to circulate it in your community.
+Thanks,
+
+Ya-Wen on behalf of the SOC and LOC.
+--=20
+Ya-Wen TANG
+Assistant Research Fellow
+Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA)
+Office: ASMAB R1219
+Tel: (886)02 2366 5408
+Email: ywtang@asiaa.sinica.edu.tw
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

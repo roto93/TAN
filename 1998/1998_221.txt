@@ -1,0 +1,80 @@
+From kyl@asiaa.sinica.edu.tw Fri Nov  6 07:16:15 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA16480; Fri, 6 Nov 1998 07:14:55 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA23347; Fri, 6 Nov 1998 07:12:42 +0800
+Date: Fri, 6 Nov 1998 07:12:42 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Job Vacancy (fwd)
+Message-Id: <Pine.GSO.3.96.981106071239.23344A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2658
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Thu, 05 Nov 1998 10:54:42 -0500
+From: Tessy Schlemmer <tschlemm@cv3.cv.nrao.edu>
+To: aips2@polaris.cv.nrao.edu, aips2-workers@polaris.cv.nrao.edu,
+    vlbi@polaris.cv.nrao.edu, aaswomen@vaxsar.vassar.edu
+Subject: Job Vacancy
+
+The National Radio Astronomy Observatory has the following opening at
+its headquarters in Charlottesville, VA:
+
+Systems, Network and Security Administrator 
+
+Under general direction of the senior UNIX system administrator,  will
+assume responsibility for system administration on a variety of
+platforms, with special emphasis on a rapidly growing network of LINUX
+systems.  The position will also assist local users with problems
+relating to system operations and third-party software, including
+installation of such software where required.  Other duties include:
+technical support of software and hardware for local, wide-area and
+Intranet networking;  design and enhancement of network services
+throughout NRAO; and working with system administrators at other NRAO
+sites to co-ordinate computing environments Observatory-wide. In
+addition, the individual will play a key role in computer security for
+Charlottesville and will participate in NRAO-wide security efforts.
+
+B.S. degree or equivalent and at least three years' experience in UNIX
+or LINUX system administration and network support using TCP/IP;
+thorough knowledge of Linux, Sun/Solaris, Digital Unix (OSF1), and/or
+HP-UX; thorough and demonstrable knowledge of Internet and UNIX security
+issues; and familiarity with network programming and utilities in a UNIX
+environment, Perl, shell scripts, INN, SMTP, NIS, DNS, Cisco router
+configuration, and Kickstart.  Experience with any of the following will
+also be an asset: AIX, installation and maintenance of scientific and
+astronomical software such as AIPS or IRAF, LAN/WAN design, and frame
+relay.  Strong communications skills and proven ability to help users
+with a wide range of skills and interests is highly desirable.
+
+NRAO offers competitive salary and excellent fringe benefits.  For more
+information about the NRAO, please visit the NRAO web site at
+http://www.nrao.edu.
+
+Send resume to Personnel Manager, NRAO, 520 Edgemont Road,
+Charlottesville, VA 22903- 2475 or email to: tschlemm@nrao.edu.
+
+EOE/D/V/M/F
+
+

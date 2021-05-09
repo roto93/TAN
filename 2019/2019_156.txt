@@ -1,0 +1,57 @@
+==============================================================================
+
+Date: Thu, 26 Sep 2019 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    James Lattimer (Stony Brook University)
+Topic:         Compact Object Mergers and Properties of Neutron Stars
+Time:         9/30 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+LIGO/Virgo is rapidly finding both binary neutron star merges and black hole-neutron star mergers.  The first of these events, the binary neutron star merger GW170817, gave us rich information about neutron star radii and the neutron star maximum mass, both important for the equation of state of dense matter.  Although the LIGO/Virgo Collaboration hasn't yet provided details of the black hole, it is possible to guess some of their properties from the information released in the GCN Circulars, as I will relate.
+
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________
+Speaker:    Yipeng Jing (Shanghai Jiao Tong University)
+Topic:         Accurate unbiased measurement of the Milky Way's mass in cosmological context
+Time:         10/1 (Tuesday) 14:20 - 15:20
+Place:          CCMS R104
+Abstract:
+I will briefly review recent development of observational cosmology, and outline the importance of determining the mass of the Milky Way. Then I will present the current status of the Milky Way mass measurement and discuss the main uncertainties and shortcomings associated with previous methods.  I will then present our new method in order to overcome most of the drawbacks. The 6D phase space distribution function of satellites is constructed from cosmological simulations based on the similarity implied by the NFW profile. Within the Bayesian statistical framework, we can not only infer the halo mass efficiently, but also handle various observational effects including the selection function, incomplete information (e.g., lack of proper motion), and measurement errors in a rigorous and straightforward manner. Through mock tests, we show that this method is accurate and unbiased, and superior to methods solely based on Jeans theorem. We also demonstrate the satellite galaxies !
+ are better tracers than stars in general. Applying our method to the recent GAIA observations has yielded the most accurate determination of the Milky Way mass.  While the important application of our method is to measure the Milky Way halo mass, it can be extended to any other galaxies or clusters whose member satellites can be reliably identified.
+
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Hongsong Chou (SETH Technologies/U. of Chicago)
+Topic:         Empirical Findings on Global Market Microstructure, and the Science behind a â€œClose-To-Realityâ€ Market Simulator
+Time:         10/1 (Tuesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Traditionally, market microstructure is a subject in finance. In recent years, with the availability of high-frequency trading and economic data, finance professionals have started to employ methodologies developed in physical sciences to conduct research in this area. I will review a few recent trends in market microstructure research using physics thinking from the point of view of a practitioner. In particular, I will discuss the needs for a â€œclose-to-realityâ€ market simulator, and how to build such a simulator with methodologies developed from related disciplines such as mathematics, physics and computer sciences.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Yipeng Jing (Shanghai Jiao Tong University)
+Topic:         Next generation of galaxy redshift surveys: a few issues for clustering analysis
+Time:         10/2 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+I will briefly introduce the current and future galaxy redshift surveys, and discuss a couple of outstanding issues for the clustering analysis, the fiber collision effect and the bias of emission line galaxies (ELGs). I will present a new method for correcting the fiber collision effect, and our ongoing work to determine the bias for ELGs.
+
+==============================================================================

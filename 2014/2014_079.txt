@@ -1,0 +1,37 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Yosuke Mizuno (NTHU)
+Topic:        Magnetic field amplification and saturation in turbulence behind a relativistic shock
+Time:        4/30 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Afterglows of gamma-ray bursts (GRBs) are believed to require magnetic
+fields much stronger than that of the compressed preshock medium. As
+an alternative to microscopic plasma instabilities, amplification of
+the field by macroscopic turbulence has been proposed. We have
+investigated via 2D relativistic magnetohydrodynamic simulations the
+long-term evolution of turbulence created by a relativistic shock
+propagating through an inhomogeneous medium. In the post-shock region,
+magnetic field is strongly amplified by turbulent motions triggered by
+pre-shock density inhomogeneities. The amplified magnetic field
+evolved into a filamentary structure. The magnetic energy spectrum was
+flatter than the Kolmogorov spectrum and indicated that the so-called
+small-scale dynamo was occurring in the postshock region. Using a
+long-simulation box we have followed the magnetic field amplification
+until it is fully developed and saturated. The turbulent velocity is
+sub-relativistic even for a strong shock. Magnetic field amplification
+is controlled by the turbulent motion and saturation occurs when the
+magnetic energy is comparable to the turbulent kinetic energy. We
+found that magnetic field amplification and saturation depend on the
+initial strength and direction of the magnetic field in the pre-shock
+medium, and on the shock strength.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

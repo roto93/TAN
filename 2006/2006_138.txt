@@ -1,0 +1,245 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Fri Aug 25 19:59:11 2006
+Date: Mon, 21 Aug 2006 18:03:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue August 8 - 21, 2006)
+
+==============================================================================
+
+In this issue (August 8 - 21, 2006)
+
+1. Call for proposals for SMA (ASIAA time)
+2. NCU Astronomy Colloquium (Aug 24): I Chun Shih (Univ of Southampton, UK)
+3. ASIAA Colloquium (Aug 18): Yi Chou (NCU) - Sorry for this late announcement 
+4. Call for Proposals for CFHT 2007A
+
+==============================================================================
+
+> Date: Fri, 11 Aug 2006 13:53:57 +0800 (CST)
+> From: Tatsuhiko Hasegawa <hasegawa@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Call for proposals for SMA (ASIAA time)
+
+Call for SMA proposals for 2006B
+
+Dear Colleagues,
+
+Proposals are solicited for the ASIAA time of the Submillimeter
+Array (SMA) for the period from November 6th, 2006, to April 30th,
+2007.  Those who are affiliated to Taiwanese universities or
+Taiwanese research institutes are eligible to apply for the ASIAA
+SMA time as a principal investigator (PI).
+
+The deadline for proposal submission for the ASIAA SMA time
+for the next semester is September 8 (Friday), 2006, 4AM in the
+morning (Taiwan time).  (The deadline corresponds to September 7
+(Thursday), 2006, 10AM HST in Hawaii, USA.)
+
+All SMA proposals must be submitted through the SMA submission
+facility (https://sma1.sma.hawaii.edu/propose.html).
+When submitting your proposal, please make sure to select
+"ASIAA" as your destination TAC in the submission web page.
+Please submit your proposal early.  If you encounter any technical
+problem with the submission facility, please contact TATSUHIKO
+HASEGAWA (hasegawa@asiaa.sinica.edu.tw).
+
+For technical information on the SMA, please visit
+    http://sma1.sma.hawaii.edu/proposing.html .
+For Taiwan and ASIAA specific aspects (including the ASIAA
+proposal selection process and the amount of available
+observing time), please visit
+    http://www.asiaa.sinica.edu.tw/~SMART/ .
+
+The SMA is a complex instrument.  Consultation or collaboration
+with those who are familiar with the SMA is highly recommended.
+Contact points for consultations are also found in the above
+web page.
+
+Additional messages from the ASIAA SMA TAC
+
+In order to encourage PhD students to use the SMA, the ASIAA SMA TAC
+will make some considerations to proposals for PhD thesis projects in
+the coming round of proposal selection.  If a PhD student (as PI) and
+the supervisor (as co-investigator, Co-I) have a definite plan to use
+the proposed SMA observations as a main material for the student's PhD
+thesis, please state so in the proposal (in the Technical Justification
+part of the proposal).  Additional supporting statements [such as the
+total amount of observations planned and the timeline (over a few years)
+for data acquisition, data processing, data analysis, and thesis writing]
+would also help the ASIAA SMA TAC understand the situation for the PhD
+candidate and supervisor.
+
+In order to make efficient use of SMA data, the ASIAA SMA TAC will expect
+Co-Is to follow up the analysis and publication of already executed or
+allocated projects under a PI who becomes unable to do the work for
+various reasons.  Potential co-investigators should be aware of their
+possible responsibilities or obligations.  PIs should make best efforts
+to obtain a consent before putting someone's name on a proposal as a
+Co-I.
+
+Sincerely,
+
+Tatsuhiko Hasegawa
+ASIAA SMA TAC Chair
+-- 
+
+==============================================================================
+
+> Date: Mon, 14 Aug 2006 15:31:15 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Cc: yichou@astro.ncu.edu.tw
+> Subject: Re: colloquium talks
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Please distribute the announcement on the TAN. Thank you. Daisuke
+
+---------------------------------------------------------------------------
+Date and Time: 14:00, 24 August 2006
+
+Speaker: Mr. I Chun Shih (¨H¶h§g), PhD candidate, School of Physics and
+Astronomy, University of Southampton, UK
+ 
+Title:  X-ray Binaries and their long term variations
+
+Abstract: X-ray binaries are luminous and variable X-ray sources.   Apart
+from the regular variations such as eclipses, many of them exhibit irregular
+variability in their X-ray and/or optical fluxes on time scales from seconds
+to months. In particular, the observations from both ground and space, we
+have found long-term variations in a number of luminous X-ray sources that
+cannot be orbital in nature but must be due to the physical properties of
+the accretion discs. In this talk, I will briefly introduce X-ray binaries
+and their long term variation phenomena. I then explain how can we use these
+temporal characteristics to investigate the undergoing physical processes in
+the accretion discs.
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+==============================================================================
+
+> Date: Tue, 15 Aug 2006 12:23:00 +0800 (CST)
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, faculty@phys.ntu.edu.tw, yykeum@phys.ntu.edu.tw
+> Subject: [Colloquium] ASIAA Colloquia This Friday (08/18)
+
+ Dear all,
+
+	This Friday (08/18), Prof. Yi Chou will visit from National 
+ Central University. Prof. Chou has been working on subjects related
+ to high energy astrophysics and close binaries. On Friday, he will
+ give a talk titled "Anomalous Phase Variation & Energy-dependent 
+ Pulse Arrival Time for the Accretion-powered Millisecond Pulsars"
+
+	Please mark your calendar and remember to join!
+
+ Regards,
+
+ sheng-yuan
+
+ --------------------------- ASIAA Colloquium ----------------------
+  Speaker : Prof. Yi Chou (National Central University)
+  Title   : Anomalous Phase Variation & Energy-dependent Pulse Arrival 
+             Time for the Accretion-powered Millisecond Pulsars
+  Time    : 08/18 (Fri) 2:00 PM
+  Location: Rm 716
+ -------------------------------------------------------------------
+  URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+ -------------------------------------------------------------------
+
+==============================================================================
+
+> From: "Shiang-Yu Wang" <sywang@asiaa.sinica.edu.tw>
+> Subject: Fw: Call for Proposals for CFHT 2007A
+> Date: Wed, 16 Aug 2006 14:15:54 +0800
+
+Dear Yi-Jehng:
+
+  Please help to post the announcement in TAN. Thanks for your help.
+
+Cheers
+Shiang-Yu
+---------- Forwarded Message -----------
+> From: "Shiang-Yu Wang" <sywang@asiaa.sinica.edu.tw>
+> To: iaa
+> Sent: Wed, 16 Aug 2006 14:14:16 +0800
+> Subject: Call for Proposals for CFHT 2007A
+
+The 3.6 meter optical/infrared Canadian-France-Hawaii Telescope (CFHT) is 
+now open for proposals from all Taiwan-based researchers for semester 2007A. 
+The deadline for proposal submission is:
+
+             21 September 2006 - 11:00 pm Taiwan time
+
+Detailed information on the telescope, available instrumentation, proposal 
+format, and how to submit proposals is available from the CFHT web page: 
+http://www.cfht.hawaii.edu/ObsInfo/ObservingProposals/
+
+The Taiwan-CFHT Time Assignment Committee (TAC) would like to bring to your 
+attention the Queued Service Observation (QSO) snapshot program.  These are 
+programs that can be executed with either MegaCam or WIRCam in relatively 
+poor seeing conditions when the seeing is >1.2".  More information on this 
+program can be found at: 
+http://www.cfht.hawaii.edu/Instruments/Queue/qso_2007a_MP.html
+
+Projects executed under the QSO program are not charged to the available 
+observing time for Taiwan.  Proposals to the QSO pogram will not be 
+refereed, but will be scrutinized by the TAC for scientific value and 
+feasibilty.
+
+Please note that the infrared camera WIRCam is open for the second time for 
+Large Programs in 2007A.
+
+If your scheduled project from previous semesters was not completed for any 
+reason (including bad weather), you will need to resumbmit your proposal 
+explaining why you need more time.  Your proposal will be stronger if the 
+available data has been analyzed, and you use this data to demonstrate that 
+the stated science goals can be achieved with allocation of the full 
+requested time.
+
+All new proposals, and where deemed necessary resubmitted proposals, are 
+refereed by researchers selected by the Taiwan-CFHT TAC based on their 
+demonstrated expertise in the relevant research fields.  Apart from the 
+referees comments, who are asked to evaluate primarily the scientific 
+strength of the proposal, the Taiwan-CFHT TAC also takes into account 
+technical feasibility.  For those who have previously been scheduled 
+observing time on the CFHT, the Taiwan-CFHT TAC will also take into account 
+the status of previously executed projects and publications, which should 
+therefore be adequtely described in the relevant section of the proposal.
+
+Shiang-Yu 
+On behalf of CFHT TAC committee
+------- End of Forwarded Message -------
+
+
+Shiang-Yu Wang 
+Assistant Research Fellow 
+
+Institute of Astronomy and Astrophysics, Academia Sinica.
+P.O. Box 23-141, Taipei 106, Taiwan. 
+
+Tel: 886-2-33652200 ext 823    Fax: 886-2-23677849
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

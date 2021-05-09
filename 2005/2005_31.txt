@@ -1,0 +1,96 @@
+
+Date: Sat, 5 Mar 2005 01:46:58 +0800 (CST)
+From: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Mar 04, 2005)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (Mar 04, 2005):
+
+1. ASIAA Colloquium (Mar 09): David Montgomery (Dartmouth College, USA)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Fri, 4 Mar 2005 17:36:09 +0800 (CST)
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+cc: astro@asiaa.sinica.edu.tw, faculty@phys.ntu.edu.tw
+Subject: [Colloquium] ASIAA Colloquium Next Wednesday (03/09)
+
+
+  Dear all,
+
+        We will have a special colloquium talk next Wednesday presented
+  by Prof. David Montgomery visiting from Dartmouth College, USA. The title
+  of the talk is "Dynamo Processes at Low Magnetic Prandtl Number"
+
+        Please notice the special time of the talk. Mark your calendar and
+  remember to join!
+
+  Regards,
+
+  sheng-yuan
+
+  ------------------------ ASIAA Colloquium ------------------------
+   Speaker : Prof. David Montgomery
+             (Physics & Astronomy, Dartmouth College, USA)
+   Title   : Dynamo Processes at Low Magnetic Prandtl Number
+   Time    : 03/09 (Wednesday) 2:00 PM
+   Location: ASIAA Room 716
+   Abstract: The spontaneous generation of large-scale magnetic fields by
+             the turbulent motions of an electrically-conducting fluid is
+             still somewhat mysterious. The equations of motion are highly
+             nonlinear and turbulent processes quickly generate smaller
+             and smaller scale spatial excitations, limited only by the
+             onset of dissipation at short wavelengths: dissipation by
+             viscosity for velocity fields, and by resistivity for magnetic
+             fields. A measure of the relative onset of dissipation is the
+             magnetic Prandtl number Pm, the dimensionless ratio of
+             kinematic viscosity to magnetic diffusivity. For some
+             astrophysical objects (e.g., the liquid interiors of some planets)
+             this can be quite small: 10^-5 or less for the Earth. Since
+             the Reynolds number Re (=UL/nu, where U is a typical flow speed,
+             L is its characteristic length scale, and nu is the kinematic
+             viscosity) is large for the Earth's liquid core, the core is
+             expected to be highly turbulent. The smallness of Pm means that
+             even though relatively modest spatial resolution may be required
+             to represent the geo-magnetic field, much greater resolution may
+             be required to represent the velocity field that generates and
+             supports it. The numerical resolution required to see dynamo
+             amplification in the case of the Earth, or in current laboratory
+             experiments in liquid sodium attempting to mimic it, exceeds
+             present computational capacity for direct numerical simulation
+             (DNS). Thus in order to generate plots of critical parameters
+             for magnetic field growth as a function of Pm, some numerical
+             scheme for reducing the required spatial resolution is needed.
+             Here, we report the use of two additional computational
+             schemes for stretching computer resources into new regimes:
+             (1) the Langrangian-averaged "alpha model" of Holm and collaborators
+             (LAMHD), and (2) "large eddy simulation" (LES) involving a
+             "hyperviscosity" to represent the effects of small spatial scales
+             in the velocity field. One end result is a threshold curve of
+             critical magnetic Reynolds number Rm (=UL/eta, where eta is
+             the magnetic diffusivity), as a function of 1/Pm, for dynamo
+             action to occur.
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+  ------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution:   astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan@asiaa.sinica.edu.tw
+                            (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

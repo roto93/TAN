@@ -1,0 +1,168 @@
+From kyl@biaa.sinica.edu.tw Fri Dec 19 09:25 CST 1997
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa3.biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02969; Fri, 19 Dec 1997 09:25:43 +0800
+Received: from localhost (kyl@localhost)
+	by biaa3.biaa.sinica.edu.tw (8.8.7/8.8.7) with SMTP id JAA08939
+	for <astro@biaa17.biaa.sinica.edu.tw>; Fri, 19 Dec 1997 09:35:47 +0800 (CST)
+X-Authentication-Warning: biaa3.biaa.sinica.edu.tw: kyl owned process doing -bs
+Date: Fri, 19 Dec 1997 09:35:46 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa3
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: URSI/USNC News 97.5 (fwd)
+Message-Id: <Pine.GSO.3.96.971219093544.8893G-100000@biaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7796
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Thu, 18 Dec 1997 12:37:38 -0800
+From: don backer 415 campbell 510-642-5128 <dbacker@bkypsr2.berkeley.edu>
+To: 107655.2457@CompuServe.COM, BOB-DIXON@osu.edu,
+    CHeiles@astron.Berkeley.EDU, DBacker@astron.Berkeley.EDU,
+    DCudaback@astron.Berkeley.EDU, HDC3@Cornell.edu,
+    IDepater@astron.Berkeley.EDU, JDreher@astron.Berkeley.EDU,
+    JTarter@astron.Berkeley.EDU, Jwebber@nrao.edu, KLang@Infonet.Tufts.Edu,
+    LBlitz@astron.Berkeley.EDU, MWright@astron.Berkeley.EDU,
+    Mark.Birkinshaw@bristol.ac.uk, Michael.J.Mahoney@jpl.nasa.gov,
+    Peter.G.Wannier@cc2mhb.jpl.nasa.gov,
+    Peter_Backus@SETIGATE.SETI-INST.EDU, RMPRICE@atnf.CSIRO.AU,
+    RPlambeck@astron.Berkeley.EDU, Stephen.C.Unwin@jpl.nasa.gov,
+    Thomas.W.Thompson@jpl.nasa.gov, WWelch@astron.Berkeley.EDU,
+    abridle@nrao.edu, aclegg@comsearch.com, acr@astro.caltech.edu,
+    adh@newton.haystack.edu, aeer@newton.haystack.edu,
+    aen@newton.haystack.edu, afey@alf.usno.navy.mil,
+    agoodman@cfa.harvard.edu, akerr@nrao.edu, arw@newton.haystack.edu,
+    athompso@nrao.edu, awolszczan@astro.psu.edu,
+    balick@astro.washington.edu, balister@CompuServe.COM,
+    bania@inanna.bu.edu, bclark@nrao.edu, bcotton@nrao.edu,
+    betz@spot.colorado.edu, bfburke@mit.edu, bill.erickson@phys.utas.edu.au,
+    biretta@stsci.edu, bracewell@nova.stanford.edu, bturner@nrao.edu,
+    campbell@astrosun.tn.cornell.edu, carr@astro.ufl.edu, ccarilli@nrao.edu,
+    ccc@space.mit.edu, cgwinn@pelican.physics.ucsb.edu,
+    clark@tomcat.gsfc.nasa.gov, coles@ece.ucsd.edu,
+    cordes@astrosun.tn.cornell.edu, crane@susim.nrl.navy.mil,
+    cwalker@nrao.edu, dan@physics.oberlin.edu, davis@cfa.harvard.edu,
+    dayton.l.jones@jpl.nasa.gov, dbacker@bkypsr2.berkeley.edu,
+    dbagri@nrao.edu, dbs@gemini.gsfc.nasa.gov, dcl@medoc.patnet.caltech.edu,
+    ddeyoung@noao.edu, demerson@nrao.edu, dennison@astro.phys.vt.edu,
+    dent@donald.phast.umass.edu, dheesche@nrao.edu, dhogg@nrao.edu,
+    dhr@vlbi.astro.brandeis.edu, dnm@orion.usno.navy.mil,
+    dom@scat.gps.caltech.edu, downs@ll.mit.edu, dpw@tacos.caltech.edu,
+    dsramek@nrao.edu, dtj@astro.as.utexas.edu, dulk@mesiob.obspm.fr,
+    dwilner@cfa.harvard.edu, eeb@astro.caltech.edu, efomalon@nrao.edu,
+    eshleman@nova.stanford.edu, fkerr@astro.umd.edu,
+    fnb@astro.as.utexas.edu, foster@rsd.nrl.navy.mil, ghp@space.mit.edu,
+    ghunt@nrao.edu, glb@venus1.gps.caltech.edu,
+    goldsmit@astrosun.tn.cornell.edu, gott@astro.ufl.edu,
+    gseielst@aero.und.edu, gswenson@uiuc.edu, hann@astrosun.tn.cornell.edu,
+    harris@astro.umd.edu, haynes@astrosun.tn.cornell.edu,
+    hfh@card.haystack.edu, ho@cfa.harvard.edu,
+    hrsmaran@eclair.gsfc.nasa.gov, hugh@astro.lsa.umich.edu,
+    irvine@fcrao1.phast.umass.edu, jay.m.pasachoff@williams.edu,
+    jball@newton.haystack.edu, jbieging@as.arizona.edu, jburns@NMSU.Edu,
+    jc@hyde.uchicago.edu, jcondon@nrao.edu, jhewitt@maggie.mit.edu,
+    jhs@astro.phys.vt.edu, jlamb@ovro.caltech.edu, jmangum@as.arizona.edu,
+    joe@puppsr12.Princeton.EDU, john.broderick@vt.edu,
+    john@titania.jpl.nasa.gov, johnd@astro.uiuc.edu, jpayne@nrao.edu,
+    jromney@nrao.edu, juson@nrao.edu, kjj@astro.usno.navy.mil,
+    kkellerm@nrao.edu, knight@interf.com, ko@ee.eng.ohio-state.edu,
+    kraus.2@osu.edu, kuiper@kuiper.jpl.nasa.gov, kundu@astro.umd.edu,
+    kyl@astro.uiuc.edu, lanie@astro.uiuc.edu, ldaddari@nrao.edu,
+    len@nova.stanford.edu, lincoln@cfa.harvard.edu, lkogan@nrao.edu,
+    martin.ewing@yale.edu, mdavis@naic.edu, mgordon@nrao.edu,
+    mgoss@nrao.edu, mhc@astro.caltech.edu, mholdawa@nrao.edu,
+    michael.a.janssen@jpl.nasa.gov, michael.j.klein@jpl.nasa.gov,
+    mmckinno@nrao.edu, moran@cfa.harvard.edu, mpospies@nrao.edu,
+    mroberts@nrao.edu, myers@cfa.harvard.edu, nje@astro.as.utexas.edu,
+    nrv@bootes.gsfc.nasa.gov, ojs@logos.jpl.nasa.gov,
+    oo7@astro.as.utexas.edu, parrish@fcrao1.phast.umass.edu,
+    paul.steffes@ee.gatech.edu, paulr@spoa.nrl.navy.mil,
+    pbender@jila.colorado.edu, pdiamond@nrao.edu,
+    phillips@tacos.caltech.edu, pjewell@malama.jach.hawaii.edu,
+    pnapier@nrao.edu, ppalmer@oddjob.uchicago.edu,
+    predmore@fcrao1.phast.umass.edu, pvandenb@nrao.edu,
+    raymond.f.jurgens@jpl.nasa.gov, rblundell@cfa.harvard.edu,
+    rbp@newton.haystack.edu, rbradley@nrao.edu, rbrown@nrao.edu,
+    reid@cfa.harvard.edu, rfisher@nrao.edu, rhuguenin@millimetrics.com,
+    richard.m.goldstein@jpl.nasa.gov, richard.woo@jpl.nasa.gov,
+    rickett@ece.ucsd.edu, rjallen@stsci.edu, rlacasse@nrao.edu,
+    rlm@astro.physics.uiowa.edu, rmartin@cfa.harvard.edu, rnorrod@nrao.edu,
+    robert.a.Preston@jpl.nasa.gov, rperley@nrao.edu, rriemer@nas.edu,
+    rsimon@nrao.edu, rsimpson@magellan.stanford.edu,
+    rwilson@cfa.harvard.edu, samuel.gulkis@jpl.nasa.gov,
+    shapiro@cfa.harvard.edu, snyder@astro.uiuc.edu, sp@astro.caltech.edu,
+    spencer@rsd.nrl.navy.mil, srk@astro.caltech.edu,
+    srs@astro.physics.uiowa.edu, ssrikant@nrao.edu, staelin@mit.edu,
+    tbastian@nrao.edu, tbeasley@nrao.edu, tcornwel@nrao.edu,
+    terzian@astrosun.tn.cornell.edu, tgergely@nsf.gov,
+    thaddeus@cfa.harvard.edu, thankins@aoc.nrao.edu, tjp@astro.caltech.edu,
+    tor.hagfors@astro.uio.no, vdhawan@nrao.edu, vogel@astro.umd.edu,
+    vpankoni@nsf.gov, wbaan@naic.edu, wbrundag@nrao.edu,
+    weiler@rsd.nrl.navy.mil, weinrebs@fcrao1.phast.umass.edu,
+    whoward@usra.edu, william.j.wilson@jpl.nasa.gov, wilson@astro.umd.edu,
+    woody@astro.washington.edu, wvbreugel@llnl.gov,
+    zuckerman@bonnie.astro.ucla.edu
+Subject: URSI/USNC News 97.5
+
+97dec18
+D. Backer
+
+===================================
+URSI/USNC Commission J News: 1997.5
+===================================
+
+1. REPEAT from 1997.4 News -- last announcement:
+
+   National Radio Science Meeting meets 1998 January 5-98. The
+   program and registration information are now available at
+
+   http://cires.colorado.edu/ursi/program
+
+   We have an excellent meeting planned and I hope to see you there. 
+   If you have suggestions for new members, please contact Dick 
+   Sramek at dsramek@aoc.nrao.edu. If you have any business meeting 
+   agenda items, please send them to me.
+
+2. Radio Astronomy news from WRC '97 is available on Willem Baan's
+   IUCAF site at NAIC: http://www.naic.edu/iucaf/iucaf.html. See
+   IUCAF documents dated 1997 November. This is wakeup call to 
+   continue strenuous effort in preserving the spectrum "natural 
+   wilderness" for radio astronomy; see Willem's paragraph about 
+   about lavish parties and receptions hosted by spectrum-deprived, 
+   commercial wanna-be's. Also, see list of conference trends
+   with items about "peaceful coexistence" (reminds me of my 
+   cold warrior era youth); "mmwave spectrum" with implicit need
+   for more involvement of mm astronomers in spectrum management
+   issues; and "new allies" Earth Exploration Satellite (EES)
+   community. Don't be put off by alphabet soup of WRC/IUCAF/...
+   as this activity is extremely important to the future of our
+   science.
+
+3. Future meetings of interest:
+
+Fifth International Symposium on Quantum Confinement 
+(Nanostructures) to be held in Boston as part of the 194th meeting of 
+the Electrochemical Society (November 1-6, 1998). 
+ 
+The deadline for submission of the abstract is June 1, 1998. 
+Guidelines to prepare the abstract can be found at the following World 
+Wide Web address:  http://www.electrochem.org. 
+
+COSPAR Scientific Assembly in Nagoya, July 1998
+(in the week preceding the Western Pacific Geophysics Meeting).
+ 
+Abstracts are due by 9 January 1998. Full details of the COSPAR meeting
+can be found in the COSPAR web pages at 
+ 
+         http://www.mpae.gwdg.de/COSPAR/COSPAR.html
+
+4. Season's Greetings to all! I was just observing with the newly
+   upgraded Arecibo telescope which is now coming back into
+   operation.
+
+

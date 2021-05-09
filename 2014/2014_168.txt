@@ -1,0 +1,98 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Kazushi Sakamoto (ASIAA)
+Topic:         Dual Molecular Outflows from the Most Luminous Galaxy in the Local Universe
+Time:         11/3 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+Luminous galaxies have their luminosity from large population of young and massive stars and/or 
+accreting massive black holes at the nuclei. The high luminosity often results in a large-scale outflow 
+of interstellar medium from around the luminosity source. Cold molecular gas is the most important 
+outflow medium in this negative feedback to the luminosity generation because it is the fuel for star 
+formation and can be the material feeding the central massive black hole.  In this lunch talk 
+I will present our ALMA observations of molecular outflow from the most luminous galaxy
+within z=0.01, NGC 3256. We found dual bipolar molecular outflows with distinctive properties from 
+the two merger nuclei. One of them is particularly noteworthy in that it is a well-collimated bipolar
+molecular jet having a ~kpc extent and apparent acceleration; its velocity peaks at ~ 2000 km/s at
+300 pc from the driving nucleus. Both outflows eject tens of solar masses per year from the nuclei. 
+They are as important as star formation in the gas consumption of the system.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Gregg Hallinan (Caltech)
+Topic:         Space Weather Beyond Our Solar System
+Time:         11/5 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Magnetic activity has played a key role in the formation and angular momentum evolution of our Sun and continues to power its radio and high energy output. The associated radiative output and magnetized plasma outflow (solar wind) dominates the local space environment of solar system planets, including Earth, particularly during flares and CMEs. Radio observations are a powerful trace of these phenomena, both through the radio bursts produced during flares and CMEs and the low frequency auroral radio emission produced by magnetized planets experiencing magnetic storms, the latter a key diagnostic for the presence and strength of planetary magnetic fields. I will talk about new experiments at Caltech's Owens Valley Radio Observatory (OVRO), dedicated to the detection of such space weather on nearby stellar and planetary systems. These includes the Starburst program, dedicated to the detection and imaging of coronal mass ejections on nearby stars, and the Owens Valley Long Wave
+length Array, which aims to detect the auroral radio emissions from nearby exoplanets. The latter is particularly innovative, consisting of 288 antennas, combined to image the entire viewable sky every second from 25-85 MHz. This facility recently saw first light and is currently aiming to provide the first measurement of magnetic fields on extrasolar planets. Finally, I will also discuss the recent detection of similar aurorae, both optical and radio, from brown dwarfs, which has allowed us to place the strongest constraints yet achieved on dynamo theory in the substellar regime.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Jason Rhodes (JPL)
+Topic:         WFIRST and Euclid
+Time:         11/6 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Dark energy, the name given to the cause of the accelerating expansion
+of the Universe, is one of the most profound mysteries in modern science.
+Current cosmological models hold that dark energy is currently the dominant
+component of the Universe, but the exact nature of dark energy
+remains poorly understood. There are ambitious ground-based surveys
+underway that seek to understand dark energy and NASA is participating
+in the development of significantly more ambitious space-based surveys
+planned for the next decade. NASA is providing mission-enabling
+technology to the European Space Agency‘s (ESA) Euclid mission in exchange
+for US scientists to participate in the Euclid mission. NASA is
+also developing the Wide Field Infrared Survey Telescope-Astrophysics
+Focused Telescope Asset (WFIRST-AFTA) mission for possible launch
+in ˜2023. WFIRST was the highest ranked space mission in the Astro2010
+Decadal Survey and the AFTA incarnation of the WFIRST design
+uses a 2.4m space telescope to go beyond what the Decadal Survey
+envisioned for WFIRST. Understanding dark energy is one of the primary
+science goals of WFIRST-AFTA. I’ll discuss the status of Euclid
+and WFIRST and comment on the complementarity of the two missions. I’ll also briefly discuss other, exciting science goals for WFIRST, including a search for exoplanets using both microlensing and a dedicated coronagraph.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Alina Kiessling (JPL)
+Topic:         Measuring Dark Energy to 1% Accuracy Using Cosmological Simulations
+Time:         11/7 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The nature of Dark Energy, thought to be driving the accelerating
+expansion of the Universe, is one of the most compelling mysteries in
+all of science. Determining the equation-of-state of Dark Energy to 1%
+accuracy is currently a leading goal for many planned cosmological
+surveys, such as NASA's Wide-Field Infrared Survey Telescope (WFIRST),
+ESA's Euclid and the Large Synoptic Survey Telescope (LSST). Numerical
+simulations of structure formation are required to make predictions for
+these surveys and to help mitigate systematics. My SUNGLASS pipeline
+(Simulated UNiverses for Gravitational Lensing Analysis and Shear
+Surveys) is able to produce Monte Carlo suites of numerical simulations
+and rapidly generates mock weak lensing galaxy shear catalogues. These
+catalogues are being used to investigate astrophysical systematics, to
+generate accurate covariance matrices that account for the non-linear
+nature of the Universe and as an integral part of end-to-end simulation
+pipelines - each element being essential to the measurement of the Dark
+Energy equation-of-state to 1% in future telescope missions. In this
+talk, I will discuss SUNGLASS and its vital role in Dark Energy
+telescope mission development and analysis.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

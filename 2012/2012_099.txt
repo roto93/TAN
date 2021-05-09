@@ -1,0 +1,61 @@
+
+-------------------------------------------------------------------
+    tuCASA - ASIAA
+    ALMA User Workshop 2012
+    2012 June 09 (Saturday)
+    URL: http://www.es.ntnu.edu.tw/tuCASA/ALMAwksp2012/ 
+-------------------------------------------------------------------
+
+Announcement
+------------
+
+The UCAT Center for ALMA Science Advancement (tuCASA) of the University
+Consortium of ALMA-Taiwan (UCAT) and the ALMA Regional Center (Taiwan-ARC)
+of ASIAA are pleased to host jointly the ALMA User Workshop 2012 for potential
+ALMA users in Taiwan.
+
+The ALMA User Workshop 2012 is designed for the preparation of ALMA Cycle 1
+proposals, and is aimed for graduate students, postdocs, faculty members and
+people who have attended our previous ALMA Novice-User Workshop 2010 and have
+some basic knowledge of radio astronomy and interferometer background. This
+workshop will be an informative, slightly more advanced ALMA workshop covering,
+in addition to the basics, new capabilities of ALMA and new features in
+Observing Tool (OT). 
+
+The program of the ALMA User Workshop 2012 includes:
+    * Theory of Interferometry & Calibration of Visibilities
+    * Tools for ALMA : CASA 
+    * ALMA progress report and Cycle 1 capabilities
+    * Atacama Compact Array (ACA)
+    * Suggestions from ALMA science assessor
+    * User portal and Help Desk
+    * Correlator & Splatalogue
+    * ALMA Observing Tool
+    * SIMDATA Simulation
+    * Hand-on Exercise on OT/correlator/SIMDATA
+
+
+Date and Venue
+-----------------
+
+2012 June 09 (Saturday):
+Rm S101, Teaching & Research Bldg (教學研究大樓), NTNU Science Campus (師大分部)
+
+Registration
+----------------
+
+On-line registration is available at the tuCASA home:
+http://www.es.ntnu.edu.tw/tuCASA/ALMAwksp2012/ , or go directly to
+http://140.122.162.144/ALMAwksp2012/registration.php
+
+Registration is free of charge. The registration deadline is at 12 noon on
+June 07 (Thu), 2012.
+
+Inquiry
+----------
+
+For questions and/or more information, please contact
+Ms. Pei-Ju Liu (劉姵汝小姐) at peijuliu@ntnu.edu.tw .
+
+==============================================================================
+

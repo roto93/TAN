@@ -1,0 +1,108 @@
+============================================================================== 
+
+In this issue (Jun 08 - 09, 2014)
+
+1. ASIAA Colloquium/Seminar (Jun 11): Tomotsugu Goto (NTHU)
+                            (Jun 12): Soko Matsumura (Univ of Dundee)
+                                      Defu Bu (SHAO)
+2. 5th Fermi Asian Network (FAN) Workshop (Jun 15)
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun,  8 Jun 2014 08:00:01 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Tomotsugu Goto (NTHU)
+Topic:        Probing cosmic re-ionization with gamma ray burst 130606A at z~5.91
+Time:        6/11 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Understanding the cosmic re-ionization is one of the key goals of the
+modern observational cosmology. The bright UV continuum of
+high-redshift QSOs have been used as a background light source to
+probe the cosmic re-ionization since it is absorbed by neutral
+hydrogen. However, the original QSO continuum were difficult to be
+fit, and thus have been the largest source of uncertainty.
+We present the first gamma ray burst used for Gunn-Peterson
+re-ionization test. With one of the quickest follow-up observation
+using VLT/X-shooter, we obtained high S/N spectrum of a gamma ray
+burst 130606A. Our measurements have much smaller uncertainty than
+QSOs because of relatively flat, and simple synchrotron emission
+continuum of GRB afterglows.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Soko Matsumura (Univ. of Dundee)
+Topic:        Effects of Dynamical Evolution of Giant Planets on Survival of Terrestrial Planets
+Time:        6/12 (Thursday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The orbital distributions of currently observed extrasolar giant planets allow marginally stable orbits for hypothetical, terrestrial planets.  However, many of these giant planets have eccentric orbits that indicate dynamical instability in the past.  If this is the case, many such systems may not have additional planets on the "stable" orbits, since past dynamical evolution could have removed them. We numerically test this hypothesis by simulating the effects of early evolution of multiple giant planets on the orbital stability of the inner, sub-Neptune-like planets.  We find that secular perturbations from giant planets can remove test particles at least down to 10 times smaller than their minimum pericenter distance. Our results indicate that, unless the dynamical instability among giant planets is either absent or quiet like planet-planet collisions, most test particles down to ~0.1 AU within the orbits of giant planets at a few AU may be gone. We find a good agreement b
+etween our numerical results and the secular theory as well as with the observations.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Defu Bu (SHAO)
+Topic:        Numerical simulations of hot accretion flows around black holes
+Time:        6/12 (Thursday) 13:30 - 14:30
+Place:        R1108
+Abstract:
+Numerical simulations of hot accretion flows are talked.  I mainly focus on the dynamics of the flows. For hydrodynamic simulations, I will talk about the convective instability in hot accretion flows and its impact on the flows. For magnetohydrodynamic simulations, I will talk about the magnetorotational instability  and the magnetically driven wind. For hot accretion flows with very low accretion rate (density), the mean free path of electrons can be as large as the scale of the whole flow,  magnetothermal instability in hot accretion flows is talked.
+
+==============================================================================
+
+> Sender: akhkong@gmail.com
+> Date: Mon, 9 Jun 2014 00:26:16 +0200
+> Subject: 5th Fermi Asian Network (FAN) Workshop (deadline June 15)
+> From: Albert Kong <akong@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Cc: =?Big5?B?sk212KTRpOWp0iBudGh1IGFzdHJv?= <astr_all@phys.nthu.edu.tw>
+
+5th Fermi Asian Network (FAN) Workshop
+July 28 - August 1, 2014
+National Center for Traditional Arts, Yilan, Taiwan
+http://crab0.astr.nthu.edu.tw/fan5/
+
+Registration deadline: June 15, 2014
+
+We would like to remind you that the registration deadline of the 5th
+Fermi Asian Network (FAN) Workshop is on June 15. The workshop will be
+held at the National Center for Traditional Arts in Yilan from July 28
+to August 1. The emphasis of this workshop will be on both discussions
+and formal presentations. We will also hold a mini hand-on training
+course to help students and postdoc to analyze Fermi data. Invited
+speakers include Julie McEnery (NASA/GSFC), Colleen Wilson-Hodge
+(NASA/MSFC), You-Hua Chu (UIUC), and Pablo Saz Parkinson (UCSC).
+
+Please visit http://crab0.astr.nthu.edu.tw/fan5/ for more details and
+registration.
+
+We will waive the registration fee for all students.
+
+Albert Kong (Chair, SOC)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

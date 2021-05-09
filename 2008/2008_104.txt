@@ -1,0 +1,125 @@
+From astro@iaa17.asiaa.sinica.edu.tw Thu Jul  3 00:12:35 2008
+Date: Thu, 3 Jul 2008 00:07:49 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 28 - Jul 02, 2008)
+
+==============================================================================
+
+In this issue (Jun 28 - Jul 02, 2008)
+
+1. ASIAA Colloquium (Jul 04): Tzu Ching Chang (ASIAA)
+2. Lulin One-meter Telescope (LOT): Call for Observing Proposals for 
+
+==============================================================================
+
+> From: "Chiang Lung-Yih" <lychiang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> Cc: astro@asiaa.sinica.edu.tw
+> Subject: [Colloquium] ASIAA Colloquium this week
+> Date: Tue, 1 Jul 2008 02:07:04 +0800
+
+Dear all,
+
+This Friday Dr. Tzu Ching Chang is presenting a talk titled
+
+"21 cm cosmology"
+
+Please mark your calendar and remember to join the event. 
+
+Lung-Yih
+
+------------------------ ASIAA Colloquium ------------------------
+   Speaker  : Dr. Tzu Ching Chang (ASIAA)
+   Title    : 21 cm cosmology
+   Time     : 7/4 (Friday) 2:00 PM
+   Location : ASIAA Room 716
+   Broadcast: available at http://www.asiaa.sinica.edu.tw/
+  ------------------------------------------------------------------
+
+==============================================================================
+
+> From: "hclin" <hclin@astro.ncu.edu.tw>
+> Sent: Tue, 1 Jul 2008 20:39:52 +0800
+> Subject: Lulin One-meter Telescope (LOT) ¡X Call for Observing Proposals for 
+2008B
+
+Dear Prof. Kuan,
+
+Would you please circulate this information?  Thanks in advance.
+
+Regards, 
+Hung-Chin Lin
+
+----------------------------------
+
+Lulin One-meter Telescope (LOT) ¡X Call for Observing Proposals for 2008B
+
+Proposal Deadline ¡X July 31st, 2008
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the 
+semester of 2008B.  *** The new semester begins on September 1st, 2008 and 
+ends on January 31st ,2009. ***
+
+Those who are interested in applying for observing time can download the 
+proposal form from the web page:
+
+http://www.lulin.ncu.edu.tw/lot/lot_apply.doc
+
+and submit the proposal to the following email address: 
+(*** Please use the keyword "LOT 2008B" in your E-mail Subject line ***)
+
+tac_lulin@astro.ncu.edu.tw
+
+with a copy to the TAC chair to avoid occasional erroneous delivery:
+
+yichou@astro.ncu.edu.tw
+
+by midnight, July 31st, 2008, Taiwan time (UT+8).  The allocation of 
+observing time will be announced before August 20th, 2008.  In addition to 
+the research proposals, we will also consider educational projects for 
+advanced astronomical observation courses.
+
+Instruments Available:
+
+There are two instruments available, the Lulin CCD Imager (LCI) and the 
+Lulin Compact Spectrograph (LCS).  The LCI is the major observing instrument 
+using the PI-1300B CCD.  The technical information of LCI can be found in 
+the following web page:
+
+http://www.lulin.ncu.edu.tw/lot/1300b.pdf 
+http://www.lulin.ncu.edu.tw/Research/paper/pi1300b_chjaa_200505.pdf
+
+The second instrument, the LCS, has been tested and calibrated during the 
+2007B semester.  The calibration of this instrument has been improving but 
+has not achieved its expected performance.  Thus observers using this 
+instrument are on a shared risk basis.  Users are encouraged to keep in 
+close contact with the technical team to receive the updated information.   
+Below please find the specifications of LCS:
+
+Lulin Compact Spectrograph (LCS)
+
+Dispersion element: 2 gratings (300 lines/mm and 1200 lines/mm) 
+Detector: Apogee AP-8 (SITE chip, 1K¡Ñ1K) Length of slit (projection onto 
+the sky with LOT optics): 8.5 arcmin Width of slit (projection onto the sky 
+with LOT optics): 1.5 arcsec (fixed) Resolving power: 333 @ 500nm (300 
+lines/mm) and 1333 @ 500nm (1200 lines/mm) 
+Wavelength coverage: 380-760nm, and 500-900nm (300 lines/mm)   
+Calibration lamp: Fe-Ar-Ne
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

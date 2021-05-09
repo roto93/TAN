@@ -1,0 +1,149 @@
+From kaiser@po.iams.sinica.edu.tw Fri Feb 25 17:14 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA00876
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 25 Feb 2000 17:14:40 +0800 (CST)
+Received: from po.iams.sinica.edu.tw (po.iams.sinica.edu.tw [140.109.112.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA28453
+	for <astro@asiaa.sinica.edu.tw>; Fri, 25 Feb 2000 17:07:45 +0800
+Received: (from kaiser@localhost)
+	by po.iams.sinica.edu.tw (8.9.1/8.9.1) id RAA20427
+	for astro@asiaa.sinica.edu.tw; Fri, 25 Feb 2000 17:10:36 +0800
+From: Ralf I Kaiser <kaiser@po.iams.sinica.edu.tw>
+Message-Id: <200002250910.RAA20427@po.iams.sinica.edu.tw>
+Subject: International Astrophysics Network
+To: astro@asiaa.sinica.edu.tw
+Date: Fri, 25 Feb 100 17:10:35 +0800 (CST)
+X-Mailer: ELM [version 2.4 PL23]
+Content-Type: text
+Content-Length: 6272
+Status: RO
+
+Dear all
+ 
+we would like to introduce the newly created 
+International Astrophysics Network.
+ 
+http://po.iams.sinica.edu.tw/~kaiser/network.htm
+ 
+                    The prime directives of this network are:
+ 
+    a.to combine the scientific potentials of highly motivated, flexible, 
+ 	and open minded research groups, 
+    b.to establish goals/research lines investigating and unraveling the 
+ 	role of neutral - neutral reactions in the gas phase of the 
+ 	interstellar medium/planetary atmospheres and extraterrestrial ices. 
+    c.exchange ideas what experiments/calculations are necessary and of 
+ 	paramount importance to the chemical processing of the ISM and 
+ 	planetary atmospheres, 
+    d.perform experiments combined with theoretical treatment of these 
+ 	processes in extraterrestrial environments to setup a systematic 
+ 	database on reaction products and involved intermediates, 
+    e.implement these data into chemical models of various interstellar 
+ 	environments and planetary atmospheres, 
+    f.guide the search of hitherto unobserved molecules in the ISM and our 
+ 	solar system. 
+    g.set up a data base to guide future space missions such as cometary 
+ 	matter return probes, Pluto express, Cassini/Huygens in an 
+ 	identification of hitherto unobserved molecules, 
+    h.categorize hitherto observed interstellar/cometary molecules 
+ 	according to their formation route (solid state versus gas phase; 
+ 	ion-molecule reactions versus neutral - neutral reactions; 
+ 	distinct classes of neutral neutral reactions 
+ 	involving atoms, clusters, radicals), 
+    i.encourage exchange of scientists between involved groups. 
+    j.hold periodically informal workshops to advance the 
+ 	science/strategies in this field. 
+    k.bring this research field into popular science and educational 
+ 	programs of schools. 
+ 
+                       The network consists of 6 sections:
+ 
+                              Section 1 (laboratory experiments)
+ 
+    Our group (group 1) performs neutral - neutral reactions relevant to 
+the chemical processing of the interstellar medium and planetary 
+atmospheres. These experiments provide data on the chemical reaction dynamics,
+energy dependent triply differential cross sections, involved intermediates, 
+and reaction products. 
+	In addition, our solid state machine is involved in neutral atom 
+and low energy (< 5 keV) ion bombardments of extraterrestrial ice analogues to 
+investigate the formation of molecules in extraterrestrial ices and on icy 
+surfaces on interstellar grains. C.S. Lee's group at National Central 
+University, Taiwan (group 2) performs ion bombardments of icy systems at 
+higher energies between 5 and 20 keV. The third group ( L. d'Hendecourt et al.) 
+is involved in ultraviolet photon irradiation of extraterrestrial ice analogues.
+  These three groups will setup a systematic data base on the reaction 
+ products and involved intermediates and thus provide all the experimental data. 
+  
+                   Section 2 (electronic structure calculations)
+ 
+     Electronic structure calculations investigate theoretically gas phase 
+and solid state neutral - neutral reactions. These calculations will give 
+information on the involved potential energy surfaces, reaction products, 
+involved intermediates, and rotational constants together with vibrational 
+frequencies of reaction products. These calculations are of fundamental 
+importance in multi-atom systems as studies in groups 1 - 3 . Currently, the 
+following groups are involved in this section: Y. Osamura (reactions of CN 
+radicals with unsaturated hydrocarbons); M. Head-Gordon et al. (reactions of 
+C atoms with small molecules of £ 4 atoms), A. Mebel et al. (reactions of 
+C atoms with intermediate sized molecules of 5 - 10 atoms), H.F. Schaefer/
+P.v.R. Schleyer et al. (reactions of C atoms with large molecules > 10 atoms; 
+reactions of C2D/C2H radicals; reactions of C2/C3 clusters with small molecules
+< 4 atoms; reactions of C6H5 radicals with unsaturated hydrocarbons). 
+ 
+                   section 3 (RRKM studies)
+ 
+    The results of sections 1 and 2 will be complemented and extended by 
+(variational) RRKM calculations. This approach will give unprecedented 
+information on absolute rate constants, theoretical reaction products and 
+branching ratios if more than one product is formed. These investigations are 
+performed by J. Peeters et al (Leuven, Belgium) et al (C/C6H6 system, CN/C2D 
+reactions with unsaturated hydrocarbons, C6H5 reactions, B reactions). 
+ 
+                   Section 4 (modeling)
+ 
+    Results of sections 1 - 3 (absolute rate constants, reaction 
+products, branching ratios) will be implemented by T. Millar (UMIST, UK) into 
+models of molecular clouds, hot cores, and outflows of AGB stars. These models 
+can predict theformation and abundance of observed/hitherto unobserved molecules 
+in these environments.
+ 
+                  Section 5 (observation)
+ 
+    Based on sections 1-4, astronomers will search for hitherto 
+unobserved, but postulated reaction products of neutral - neutral reactions in 
+extraterrestrial environments. The key players in these observations are 
+B. Turner (NRAO, USA), Dr. Y.N. Chih (IAA, Taiwan), T. Lee (IAA, Taiwan), 
+C. Lemme (NCU, Taiwan), Y.J. Kuan (NCNU, Taiwan), and Y. Yung (Caltech, USA). 
+ 
+                   Section 6 (laboratory microwave spectra)
+
+     Based on sections 1-3, McCarthy et al will record microwave spectra 
+of hitherto unobserved astronomical molecules in the laboratory. These data 
+will provide the rest frequencies necessary for the astronomical search.
+ 
+ 
+  	http://po.iams.sinica.edu.tw/~kaiser/network.htm
+
+ 
+Anyone interested is welcome.
+
+
+Lab 509, IAMS
+
+
+
+*****************************************************************************
+*			Ralf I Kaiser					    *
+*			Academia Sinica					    *
+*			Institute of Atomic and Molecular Sciences	    *
+*			1, Section 4 Roosevelt Rd. 			    *
+*		        Taipei107-64					    *
+*			Taiwan, ROC					    *
+*			tel: 886-2-23645370				    *
+*			fax: 886-2-23620200				    *
+*			email: kaiser@po.iams.sinica.edu.tw		    *
+*                       http://po.iams.sinica.edu.tw/~kaiser	            *
+*****************************************************************************
+	
+

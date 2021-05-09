@@ -1,0 +1,199 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Jul 27 02:56:43 2011
+Date: Wed, 27 Jul 2011 02:51:20 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jul 23 - 26, 2011)
+
+============================================================================== 
+
+In this issue (Jul 23 - 26, 2011)
+
+1. ASIAA Colloquium (Jul 29): Feng Yuan (SHAO)
+2. 1st Announcement for Symposium on Cosmology and Particle Astrophysics 2011
+                   (CosPA2011)
+3. next SPICA Taiwan meeting (July 29): correction for time
+
+==============================================================================
+
+> Date: Sun, 24 Jul 2011 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Prof. Feng Yuan (SHAO)
+Topic:		AGNs feedback at pc scale
+Time:		7/29 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+Abstract:
+In a hot accretion flow, the radiation from the innermost region of
+the flow propagates outward and heats the electrons at large radii
+via Compton scattering. It has been shown in previous works that if
+the radiation is strong enough, $Lga 2%L_{rm Edd}$, the electrons
+at the Bondi radius ($r_Bsim 10^5 r_s$) will be heated to be above
+the virial temperature thus the accretion will be stopped. The
+accretion will recover after the gas cools down. This results in the
+oscillation of the black hole activity. In this paper we show that
+this mechanism is the origin of the intermittent activity of some
+compact young radio sources. Such intermittency is required to
+explain the population of these sources. We calculate the timescales
+of the black hole oscillation and find that the durations of active
+and inactive phases are $3times 10^4 (0.1/alpha)(M/10^8msun)
+(L/2%L_{rm Edd})^{-1/2}~{rm yr}$ and
+$10^5(alpha/0.1)(M/10^8msun)~{rm yr}$, respectively, consistent
+with those required to explain observations. Such kind of feedback
+occurring at parsec scale should be common in low-luminosity AGNs
+and should be considered when we consider their matter and energy
+output.
+
+==============================================================================
+
+> Date: Mon, 25 Jul 2011 09:36:49 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: twhepnet@hepmail.phys.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>
+> cc: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> Subject: First Announcement for Symposium on Cosmology and Particle Astrophysics 2011 (CosPA2011) (fwd)
+
+---------- Forwarded message ----------
+> Date: Mon, 25 Jul 2011 09:33:08 +0800
+> From: CosPA2011 <cospa@pku.edu.cn>
+> To: Pauchy W-Y.Hwang <wyhwang@phys.ntu.edu.tw>,
+     > Sang Pyo Kim <sangkim@kunsan.ac.kr>,
+     > Raymond Volkas <raymondv@unimelb.edu.au>,
+     > Jun'ichi Yokoyama <yokoyama@resceu.s.u-tokyo.ac.jp>,
+     > Xiao-Gang He <hexg@phys.ntu.edu.tw>, Pisin Chen <chen@slac.stanford.edu>,
+     > Bo-Qiang Ma <mabq@pku.edu.cn>
+> Cc: cospa <cospa@pku.edu.cn>
+> Subject: First Announcement for Symposium on Cosmology and Particle Astrophysics 2011 (CosPA2011)
+
+Dear Colleagues,
+
+Please distribute the first announcement of CosPA2011 through your mailing lists of previous CosPA Symposims.
+
+With best regards!
+
+Bo-Qiang Ma
+
+***********************************************************
+       Bo-Qiang Ma
+       Changjiang Professor of Theoretical Physics
+       School of Physics
+       Peking University
+       Beijing 100871
+       China
+
+       http://www.phy.pku.edu.cn/~mabq/
+       Tel: 0086-10-62765708
+***********************************************************
+
+First Announcement for Symposium on Cosmology and Particle Astrophysics 2011 (CosPA2011)
+
+There have been many achievements in the area of Cosmology and Particle Astrophysics (CosPA) in the past few years. For researchers dedicated to Cosmology and Particle Astrophysics from the Asia-Pacific region, the Symposium on Cosmology and Particle Astrophysics (CosPA Symposium) provides a platform and opportunity to discuss new issues, exchange new ideas and learn about new techniques from both theoretical and experimental aspects. Starting from 2002, CosPA Symposiums have been successfully held in Taiwan, Korea, Australia, and Japan for seven times, during which improvements of communication and collaboration among researchers are achieved. Right now, CosPA Symposium has grown into a meeting with wide international influence.
+
+CosPA2011 will be held in the campus of Peking University, Beijing, Mainland China, during October 28-31, 2011. The symposium will cover issues in many frontiers of Cosmology and Particle Astrophysics. CosPA2011 is now open to registration for participants. 
+
+International Organization Committee:
+Pisin Chen (NTU, Taipei)
+Xiao-gang He (NTU, Taipei &SJTU, Shanghai)
+W-Y. Pauchy Hwang (NTU, Taipei)   (Chair)
+Sang Pyo Kim (APCTP, Kunsan)
+Bo-Qiang Ma  (PKU, Beijing) 
+Raymond R. Volkas (Univ Melbourne, Melbourne)
+Jun'ichi Yokoyama (Univ Tokyo, Tokyo)
+
+Local Organization Committee:
+Xiaojun Bi (IHEP, Beijing)
+Rong-Gen Cai (ITP, Beijing)
+Zhen Cao (IHEP, Beijing) 
+Bin Chen (PKU, Beijing)
+Xuelei Chen (BAO, Beijing)
+Zuhui Fan (PKU, Beijing)
+Hong-Jian He (Tsinghua Univ, Beijing)
+Miao Li (ITP, Beijing)
+Bo-Qiang Ma (PKU, Beijing) (Chair)
+Bin Wang (SJTU, Shanghai)
+Renxin Xu (PKU, Beijing)
+Xinmin Zhang (IHEP, Beijing)
+Shou-hua Zhu (PKU, Beijing)
+
+Contact Address
+            Bo-Qiang Ma /Professor of Physics,
+            School of Physics, Peking University,
+            Beijing 100871, China
+            Email: cospa@pku.edu.cn 
+
+Board and Lodging
+Participants will be accommodated in the Guest Hotel of Peking University or nearby Hotels. The price will be of about 60-150 USD per day for a standard double room. The fee is paid in cash upon reception at the hotel. Meals may be of around 30 USD or less per day in restaurants inside or near the Campus. The registration fee is of $200 USD for participants and $100 USD for accompanying persons paid in cash. The fee will cover reception, banquet, social activities, coffee break and lunch. The accompanying persons will be free of the registration fee if they do not take part in the above activities.   
+
+Registration Form of CosPA2011
+The registration form should be received before 15 August, 2011, later registration is also acceptable.
+Registration via e-mail is preferred, to cospa@pku.edu.cn 
+Family Name:          Given Name:
+Male:                  Female: 
+Position:           Affiliation:               Country/Region:
+Mailing Address:
+E-mail:
+Phone:                  Fax:                         
+I am interested in attending CosPA2011:            (yes/no)
+Title of the contribution: 
+
+Abstract Submission Form for CosPA2011 (deadline 5 October, 2011) 
+Name:
+Affiliation:
+Title of the contribution:
+Abstract of the contribution: 
+
+==============================================================================
+
+> From: Hiro Takami <hiro@asiaa.sinica.edu.tw>
+> Date: Tue, 26 Jul 2011 10:10:25 +0800
+> Cc: Sebastien Foucaud <foucaud@ntnu.edu.tw>, yh <hashimot@ntnu.edu.tw>,
+>         slai@phys.nthu.edu.tw, Albert Kong <akong@phys.nthu.edu.tw>,
+>         Vivien Chen <hchen@phys.nthu.edu.tw>, cngeow <cngeow@astro.ncu.edu.tw>
+> Subject: next SPICA Taiwan meeting (July 29): correction for time
+
+Dear friends who are interested in SPICA,
+
+The next SPICA Taiwan meeting will be held at July 29 (Fri) 10:30-12:00
+(not until 15:00).
+
+Thank you, Hiro Takami (ASIAA)
+
+
+> Dear friends who are interested in SPICA,
+> 
+> We will organize the next SPICA Taiwan meeting at July 29 (Fri) 10:30-15:00 at R1203,
+> in ASIAA. The agenda will be as follows:-
+> 
+> 1. More detailed discussion for possible contribution we can make:-
+>    As summarized before, these include software, testing the entire instrument, commissioning
+>    and operation, and data center. At the next meeting Yoichi will explain these kinds of things
+>    for the former Japanese IR mission, Akari.
+> 
+> 2. Organizing a workshop for Taiwan and Japan
+> 
+> 3. Possible grant application
+> 
+> Shiang-Yu Wang, Yoichi Ohyama, Hiro Takami (ASIAA)
+> 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

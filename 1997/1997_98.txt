@@ -1,0 +1,1320 @@
+From kyl@biaa.sinica.edu.tw Sat Dec 20 07:31 CST 1997
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa3.biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA03489; Sat, 20 Dec 1997 07:30:51 +0800
+Received: from localhost (kyl@localhost)
+	by biaa3.biaa.sinica.edu.tw (8.8.7/8.8.7) with SMTP id HAA09093
+	for <astro@biaa17.biaa.sinica.edu.tw>; Sat, 20 Dec 1997 07:40:56 +0800 (CST)
+X-Authentication-Warning: biaa3.biaa.sinica.edu.tw: kyl owned process doing -bs
+Date: Sat, 20 Dec 1997 07:40:56 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa3
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: announcement 2 (fwd)
+Message-Id: <Pine.GSO.3.96.971220074053.9082D-100000@biaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 76263
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Fri, 19 Dec 1997 01:01:27 -0600
+From: Wolf-Rayet and Starbursts <iau193@carina.astro.ugto.mx>
+To: HotStar@carina.astro.ugto.mx, announce1@carina.astro.ugto.mx
+Subject: announcement 2
+
+% IAU Symposium No 193: second announcement
+%    CONTENTS: announcement, calendar, scientific programme, 
+%    preliminary list of participants, accommodation form, 
+%    payment form and abstract form (all in one LaTeX file). 
+%
+\documentstyle[11pt]{article} 
+\textwidth=17cm
+\textheight=24cm
+\topmargin=-2.0cm
+\oddsidemargin=-0.5cm
+\evensidemargin=-0.5cm
+\setlength{\parindent}{0.cm}
+\setlength{\parskip}{8pt}
+
+ \def\vs{{\it vs.} }
+ \def\HST{{\sl HST} }
+ \newcommand {\Hii}{H\,{\sc ii} }
+
+\begin{document}
+
+\begin{center}
+{\bf IAU Symposium No. 193} \\
+\vspace{3mm}
+\Large
+{\bf WOLF-RAYET PHENOMENA                     \\
+     IN MASSIVE STARS AND STARBURST GALAXIES}  \\
+\vspace{3mm}
+Puerto Vallarta, Mexico, 3 -- 7 November 1998
+\end{center}
+
+\vspace{3mm}
+\normalsize
+\centerline{\sl Second Announcement}
+
+Following the overwhelming response to our 1st Announcement sent out in
+October 1997 (over 190 indications of interest, see Annex B), we herewith
+inform you of the latest preparations for IAU Symposium No. 193.
+
+{\bf Scope of the symposium}\\
+The physics of Wolf-Rayet stars has major highlights: they are the most
+advanced observed stage of massive star evolution, progenitors of
+supernovae and sources of cosmic rays.  They are the result of massive star
+evaporation, and provide nucleosynthesis tests.  Just as WR stars are a
+particular phase in the evolution of massive stars, WR galaxies are a stage
+in the evolution of the dominant starburst stellar population in dwarf
+irregular galaxies or \Hii galaxies.  During the last decade the major role
+of starbursts in the evolution of the universe has become evident.  Recent
+years have seen avalanches of new observational results in the field of WR
+stars and WR galaxies from space observatories like {\sl IUE, HST, HUT,
+ROSAT, ASCA, GRO} and {\sl ISO}, from the airborne observatory {\sl KAO},
+and from ground-based (adaptive optics) optical, IR, and radio
+observatories.  {\it E.g.}, new observations in the centre of our own
+Galaxy reveal an large number of hot luminous helium-rich stars of WR-type
+and Of/WN-type, whose winds may have a profound influence on the evolution
+of the Galactic Centre.  The spectroscopic WR phenomenon allows massive
+starbursts to be observed out to huge distances, and thus to be studied at
+great variety.  While these observational developments are taking place on
+both the extragalactic and stellar fronts, also on the theoretical and
+modeling side there are important developments in atmosphere modeling
+techniques, galaxy/starburst spectral synthesizing and stellar evolution
+modeling.  Aspects of the astrophysical problems to be discussed at
+the symposium are:
+\vspace*{-3mm}
+\begin{quote}
+1. Basic observational properties of WR stars and other hot massive stars. \\
+2. Models for single star evolution of massive stars:
+   winds + atmospheres + interior.  \\
+3. Interaction of WR stars and other hot massive stars with their environment:
+   colliding winds and ring nebulae.  \\
+4. WR stars and other hot massive stars in the Galactic Center and in Local
+   Group giant \Hii regions (individual stars).  \\
+5. WR stars and other massive stars in starburst galaxies.  The case of WR
+   galaxies (integrated spectra).\\
+6. Starbursts in normal and active galaxies: their effects on the ISM and on chemical evolution.\\
+\end{quote}
+\vspace*{-8mm}
+A preliminary scientific programme is given in Annex A.
+
+We will benefit from the importance of IAU Symposia in bringing together
+specialists in different fields and associated with different Divisions and
+Commissions.  The symposium will join the flourishing fields of hot
+luminous stars with dense supersonic stellar winds, hydrodynamics of
+wind-wind and wind-shell interaction, interstellar matter, high energy
+astrophysics, birth and evolution of massive stars and galactic evolution.
+
+{\bf Science contributions} \\
+The scientific programme of the symposium will consist of invited reviews
+and invited specialty talks.  Poster presentations will be accepted upon
+review by the SOC.  Ample time will be available for discussion.  If you
+wish to display a poster paper, please complete the Abstract Form below.
+All invited speakers and those wishing to present a poster paper are
+requested to submit the abstracts of their papers using the symposium
+style file given at the end of this announcement. Please return the
+Abstract Form to {\tt k.vanderhucht@sron.ruu.nl} before 1 June, 1998
+with a copy to {\tt iau193@carina.astro.ugto.mx}. If you wish to
+present more than one poster paper, please send in one form for each.
+All abstracts of invited and poster papers will be made available on the
+symposium web site {\tt http://www.astro.ugto.mx/$\sim$eenens/hot/pv/}
+\\ mirrored at {\tt http://www.star.ucl.ac.uk/$\sim$hsn/pv/index.html}.
+
+{\bf Invited Review papers (18) by:} \\
+   P.S. Conti              (USA),
+   P.A. Crowther           (UK),
+   R. Diehl                (BRD),
+   J.E. Dyson              (UK),
+   A. Eckart               (BRD),
+   F. Ferrini              (Italia),
+   T.M. Heckman            (USA),
+   D.A. Hunter             (USA),
+   R.D. Joseph             (USA),
+   C. Leitherer            (USA),
+   A. Maeder               (Switzerland),
+   A.P. Marston            (USA),
+   P. Massey               (USA),
+   F. Matteucci            (Italia),
+   V.S. Niemela            (Argentina),
+   S.P. Owocki             (USA),
+   P.M. Williams           (UK), and
+   A.J. Willis             (UK).
+
+{\bf Other invited papers (35) by:} \\
+   I. Aretxaga             (BRD),
+   J. Breysacher           (BRD),
+   E. Brinks               (Mexico),
+   T. Contini              (Israel),
+   M.A. Dopita             (Australia),
+   L. Drissen              (Canada),
+   G. Garcia-Segura        (Mexico),
+   M.L. Garcia-Vargas      (Spain),
+   K.G. Gayley             (USA),
+   W.-R. Hamann            (BRD),
+   S.R. Heap               (USA),
+   D.J. Hillier            (USA),
+   K.A. van der Hucht      (the Netherlands),
+   H.A. Kobulnicky         (USA),
+   G. Koenigsberger        (Mexico),
+   D. Kunth                (France),
+   N. Langer               (BRD),
+   M.D. Lehnert            (the Netherlands),
+   S. Lizano               (Mexico),
+   T.A. Lozinskaya         (Russia),
+   S.V. Marchenko          (Canada),
+   J.M. Mas-Hesse          (Spain),
+   J. Melnick              (Chile),
+   G. Meynet               (Switzerland),
+   A.F.J. Moffat           (Canada),
+   D. Schaerer             (USA),
+   W. Schmutz              (Switzerland),
+   E.D. Skillman           (USA),
+   G. Stasinska            (France),
+   I.R. Stevens            (UK),
+   E. Terlevich            (UK),
+   R.J. Terlevich          (UK),
+   W.D. Vacca              (USA),
+   D. Vanbeveren           (Belgium), and
+   R. Walder               (Switzerland).
+
+For titles of papers, see Annex A.
+
+{\bf Proceedings} \\
+The proceedings of the symposium will be published in the regular IAU
+Symposia series by the IAU publisher: the {\it Astronomical Society of the
+Pacific}.  We will inform you of the style files to be used in due time.
+Style files will be available in our Web-site.  The editors of the
+proceedings will be Karel A. van der Hucht, Gloria Koenigsberger and
+Philippe R.J. Eenens.  You are requested to deliver a hardcopy of your
+manuscript(s) during the symposium, and to e-mail your {\tt .tex} files and
+{\tt .eps} files of figures to the K.A. van der Hucht directly after the
+symposium.  In case of second thoughts, right after the symposium you will
+have 4 (just four) weeks for submitting a revised final version of your
+manuscript, if needed.  All manuscripts will be refereed by members of the
+SOC.  With your help, we wish to submit the proceedings to the publisher
+before February 1, 1999, assuring publication before May 1, 1999.
+
+{\bf Organization}\\
+The symposium is sponsored and supported by IAU Divisions IV (Stars), VI
+(ISM), VIII (Galaxies), and XI (Space and High Energy Astrophysics), and
+IAU Commissions 28, 29, 34, 35, 36, 37 and 44.  \\
+ $\bullet$
+{\em Scientific Organizing Committee:}\\
+P.S. Conti (USA), M.A. Dopita (Australia), F. Ferrini (Italia), T.M. Heckman
+(USA), K.A. van der Hucht (chair, the Netherlands), R.D. Joseph (USA), G.
+Koenigsberger (Mexico), D. Kunth (France), C. Leitherer (USA), A. Maeder
+(Switzerland), F. Matteucci (Italia), J. Melnick (Chile), A.F.J. Moffat
+(Canada), W. Schmutz (Switzerland), W.D. Vacca (USA), P.M. Williams
+(UK), and A.J. Willis (UK). \\
+ $\bullet$
+{\em Local Organizing Committee:}\\
+Jane Arthur (Morelia), Elias Brinks (Guanajuato), Octavio Cardona (Puebla),
+Philippe Eenens (chair, Guanajuato), Jos\'e Franco (Mexico City), Guillermo
+Garcia-Segura (Ensenada), Jos\'e Guichard (Puebla), Gloria Koenigsberger
+(Mexico City), Victor Migenes (Guanajuato), Alfonso Serrano (Puebla) and
+Mauricio Tapia (Ensenada).\\
+
+{\bf Venue} \\
+After three IAU Symposia related to hot massive stars on the American
+continents (No.  49 in 1971 in Argentina, No.  83 in 1978 in Canada, No.
+99 in 1981 in Mexico), two in Europe (No.  116 in 1985 in Greece and No.
+163 in 1994 in Italy), and one in Asia (No.  143 in 1990 in Indonesia), we
+are delighted that IAU Symposium No.  193 brings us to Mexico again, this
+time on the Pacific coast.  We chose Puerto Vallarta, because it is unique
+in offering the beauty of a beach resort in a tropical forest setting
+together with the charm of a colonial town.  For local information, we
+refer to guidebooks such as Lonely Planet and Insight Guide, and to the
+links provided in our Web site.
+
+The Hotel Camino Real in Puerto Vallarta has been selected for its quiet
+and beautiful location, its friendly service and its good food.  All
+symposium participants will stay in that hotel on the basis of full board.
+A block booking for rooms has been made for all participants, who are
+advised to arrive in Puerto Vallarta not later than Monday November 2, and
+to depart from Puerto Vallarta not earlier than Sunday November 8.  Note
+that the working sessions will be from Tuesday through Saturday.
+
+The package-deal price from Monday 2 November, evening, to Sunday 9
+November, morning, is {\em US\$}~780.-- per participant, in case of single
+room occupancy.  If sharing a double room, the cost per participant is
+reduced to {\em US\$}~550.--.  Children between 4 and 12 will pay only {\em
+US\$}~160.--.  These prices include lodging, all meals with beverages, the
+welcome party and the special conference dinner.  They do not include the
+Thursday afternoon excursion and the following supper, to allow
+participants to stroll around town and explore other restaurants on that
+evening.  An accommodation pre-payment of {\em US\$}~100.-- per room is
+required, to be payed together with the registration fee, before April 15,
+1998 (see below).  The enclosed accommodation form should be returned at
+the same time to the chairman of the LOC.
+
+{\bf Participation, registration fee, cancellations}\\
+Registration by all participants, {\it including invited speakers and
+SOC/LOC members}, is mandatory!  Following the Rules for IAU Sponsored
+Meetings ({\tt http://www.intastun.org/}), ``participation in the symposium
+is by invitation of the SOC chairperson.  Invitations may be sought by
+suitably qualified scientists working in the field".  All those who have
+responded to the First Announcement (sent out in October 1997) by
+submitting their Indication-of-Interest form, are most welcome and are
+considered to be registered (unless we are notified otherwise).  They are
+already listed in the attached participants list (ANNEX B) and do not need
+to submit an additional Registration Form.  If you are interested to
+participate in the symposium, and have not yet sent in an
+Indication-of-Interest Form, please fill out the enclosed Registration Form
+and return this, {\it as soon as possible}, to the chairman of the LOC,
+with a copy to the chairman of the SOC.
+
+The registration fee for the symposium is {\em US\$}~150.--, including
+a hard-bound copy of the proceedings, the abstracts booklet and beverages
+during the breaks. The registration closes on April 15, 1998, when payments
+are due.  As of April 15, 1998, the late-registration fee will be
+{\em US\$}~200.--.  The registration fee for accompanying persons is
+{\em US\$}~100.--.  Written or faxed cancellations received before July 1,
+1998, will receive a full refund (minus {\em US\$}~30.-- for bank charges);
+those received before August 15, 1998, will receive only a 50 \% refund;
+after October 1, 1998, no refund is possible.
+
+{\bf Method of Payment}\\
+All payments must be made in US dollars.  The payment of the registration
+fee ({\em US\$}~150.--) and the pre-payment for the hotel accommodation
+({\em US\$}~100.--) are due April 15, 1998.  These funds should be
+transferred to account no.  6797-684495 of Wells Fargo Bank, Mission Hills
+Office, 510 West Washington Avenue, San Diego CA 92103, USA.  The bank
+Routing Number is 121000248.  For Telex transfers, please give code 184904
+Wells.  For SWIFT transfers please give code WFBIUS6S.
+
+Please make sure that all bank costs will be for you (including the
+incoming wire fee of {\em US\$}~10.--), and that the LOC
+receives the correct amount, otherwise you will be charged for the deficit
+at the symposium site.
+At the time of payment please notify the chairman of the LOC (Philippe
+Eenens) by FAX or e-mail. Mexican participants wishing to pay in Mexican
+currency should contact the LOC chairman.
+
+{\bf Exchange rate}\\
+The exchange rate for the Mexican peso is {\em US\$}~1.-- $\simeq$ {\em Mpes}.
+8.20 (as of December 15, 1997).
+The exchange rate is floating and may vary from the above figure.
+
+{\bf Grants}\\
+A limited amount of IAU grants is available for accepted participants
+with proven lack of own funds.  Grant-forms are available on request from
+the chairman of the SOC.
+
+{\bf Visa and travel}\\
+All visitors to Mexico require a passport and some visitors may require a
+visa.  In case of doubt, participants are strongly advised to check early
+with their travel agent or with the nearest Mexican embassy.  It is the
+responsibility of each individual participant to comply with the current
+regulations.  It is recommended that participants from countries requiring
+a visa apply {\it at least five months in advance}.  If this has been done
+and a visa for entry to Mexico has not been granted by September 1, 1998,
+then the LOC should be notified.
+
+Puerto Vallarta has an international airport with direct flights from Europe
+and the USA. From Europe charters leave from, {\it e.g.}, Amsterdam (Martin
+Air), London, Frankfurt. Please check with your local travel agent. From 
+the USA there are regularly scheduled flights from New York, Chicago,
+Dallas, Denver, Houston, Los Angeles, Seattle, San Diego and San Francisco.
+The carriers are American, Delta, Continental, Alaska, Aeromexico and
+Mexicana.  There are, of course, frequent flights to and from Mexico City
+with Aeromexico and Mexicana, nowadays reliable and punctual airlines.
+In any case, participants are advised to book early, as November is high 
+tourist season in Mexico. 
+
+{\bf Climate and clothing}\\
+Early November offers the best climate in Puerto Vallarta, being after the
+rainy season and before the ``cold'' of local winter, with temperatures
+typically between 25 and 30 C (77 -- 86 F), and virtually no precipitation
+(less than 5 mm per week).  With the latest El Ni\~no behind us, no storms
+are expected.  Clothing in Puerto Vallarta is casual.
+
+{\bf Health and insurance}\\
+All participants are strongly recommended to arrange for medical insurance
+for the duration of their stay in Mexico.  The LOC will not accept
+liability for sickness or accidents.
+
+{\bf Social events}\\
+November 2 is a colourful feast day in Mexico. An afternoon excursion
+will be organized on Thursday November 5. The special conference dinner
+will take place on Friday November 6. Other activities will also be
+suggested to accompanying guests. Details will be given in the
+Final-Information-to-the-Participants (to be sent in August 1998) and
+in our Web site.
+
+\newpage
+
+{\bf Calender of events}
+\begin{table}[h]
+\begin{tabular}{ll}
+now               & return the registration form                          \\
+15 April 1998     & deadline for payment and accommodation form           \\
+1 June            & deadline for abstracts and abstract form              \\
+1 August          & final information to participants                     \\
+2 November        & arrival of participants and registration              \\
+3-7 November 1998 & the Symposium; delivery of manuscripts to the editors \\
+1 February 1999   & delivery of proceedings to the publisher              \\
+\end{tabular}
+\end{table}
+
+{\bf Addresses}
+\begin{table}[h]
+\small
+\begin{tabular}{ll}
+Karel A. van der Hucht                 & Philippe Eenens                   \\
+chairman SOC IAU Symposium No. 193     & chairman LOC IAU Symposium No. 193\\
+Space Research Organization Netherlands& Departamento de Astronomia        \\
+Sorbonnelaan 2                         & Universidad de Guanajuato         \\
+NL-3584 CA UTRECHT                     & Apartado 144                      \\
+The Netherlands                        & 36000 GUANAJUATO, Gto             \\
+                                       & Mexico                            \\
+facs: +31--30--2540860                 & facs: +52--473--20253              \\
+e-mail: {\tt k.vanderhucht@sron.ruu.nl}& e-mail: {\tt iau193@carina.astro.ugto.mx}\\
+{\tt http://www.sron.ruu.nl}           & 
+       {\tt http://www.astro.ugto.mx/$\sim$eenens/hot/pv/} \\
+                                       & 
+       {\tt http://www.star.ucl.ac.uk/$\sim$hsn/pv/index.html} \\
+& \\ & \\ 
+Hotel Camino Real                      &                    \\
+Playa Las Estacas S/N                  &                    \\
+48300 PUERTO VALLARTA, Jal.            &                    \\
+Mexico                                 &                    \\
+phone: +52-322-15000                   &                    \\
+facs:  +52-322-16000                   &                    \\
+e-mail: {\tt creal@puerto.net.mx}      &                    \\
+\end{tabular}
+\end{table}
+\normalsize
+
+{\bf Attachments:} \\
+Annex A: Preliminary Scientific Programme \\
+Annex B: Preliminary List of Participants \\
+Registration Form                         \\
+Accommodation Form                        \\
+Abstract Form                             \\
+
+
+{\small\hfill{Utrecht/Guanajuato, December 17, 1997}}
+
+\newpage
+
+\textwidth=18.6cm
+\textheight=24.5cm
+\topmargin=-2.0cm
+\oddsidemargin=-1.0cm
+\evensidemargin=-0.5cm
+
+ANNEX A
+\begin{center}
+{\bf IAU Symposium No. 193}                    \\
+\vspace{3mm}
+\Large
+{\bf WOLF-RAYET PHENOMENA                      \\
+     IN MASSIVE STARS AND STARBURST GALAXIES}  \\
+\vspace{3mm}
+Puerto Vallarta, Mexico, 3 -- 7 November 1998  \\
+\vspace*{5mm}
+PRELIMINARY SCIENTIFIC PROGRAMME               \\
+{\small (up-date 17 December 1997)}
+\end{center}
+
+\footnotesize
+%\small
+\begin{verbatim}
+================================================================================================================
+
+Monday,   2 NOV 1998, 09:00 - 16:00  registration
+                      16:00 - 18:00  welcome reception
+                      18:30 -        dinner
+
+================================================================================================================
+\end{verbatim}
+\newpage
+\begin{verbatim}
+================================================================================================================
+Tuesday,  3 NOV, morning sessions
+----------------------------------------------------------------------------------------------------------------
+
+07:30     ===  breakfast  ===
+
+time        speaker             title
+
+08:30       ...............     Opening ceremony
+
+
+SESSION 1.  BASIC OBSERVATIONAL PROPERTIES OF WR AND OTHER HOT MASSIVE STARS
+
+
+Session 1A. New Results regarding Basic Parameters.
+
+08:45       A.J. Willis         Physical parameters of WR stars from gamma-ray to radio data (review)
+09:15       K.A. van der Hucht  The 7th catalogue of Galactic WR stars and their space distribution
+09:45       J. Breysacher       The 4th catalogue of LMC WR stars
+
+10:15     ===  coffee break  ===  poster viewing  ===
+
+
+Session 1B. Constraints from WR+O Binaries, Observations vs. Models.
+
+11:00       V.S. Niemela        WR binaries: old friends and new acquaintances (review)
+11:30       G. Koenigsberger    Spectroscopy and atmosphere models
+12:00       S.V. Marchenko      Probing WR wind structures: helping hands from WR+O binaries
+
+12:30     ===  lunch  ===
+
+
+----------------------------------------------------------------------------------------------------------------
+Tuesday   3 NOV, afternoon sessions
+----------------------------------------------------------------------------------------------------------------
+
+SESSION 2.  MODELS FOR SINGLE STAR EVOLUTION OF MASSIVE STARS: WINDS + ATMOSPHERES + INTERIOR
+
+
+Session 2A. State of the Art Non-LTE Models.
+
+14:00       P.A. Crowther       Non-LTE line-blanketed model atmospheres for WR stars (review)
+14:30       D.J. Hillier        Line-blanketing in WR stars
+15:00       W.-R. Hamann        Modeling and quantitative analyses of WR spectra: recent progress and results
+
+15:30     ===  tea break  ===  poster viewing  ===
+
+
+Session 2B. Radiatively driven winds, the momentum problem, variability
+
+16:15       W. Schmutz          Revised stellar parameters of WR stars
+16:45       S.P. Owocki         Dynamics and variability of winds from single WR stars (review)
+17:15       K.G. Gayley         Dynamics and variability of winds in WR+O binaries
+
+
+17:45-18:00 POSTER DISCUSSION SESSIONS 1,2 / GENERAL DISCUSSION
+
+18:30     ===  dinner  ===
+
+================================================================================================================
+\end{verbatim}
+\newpage
+\begin{verbatim}
+================================================================================================================
+Wednesday 4 NOV, morning sessions
+----------------------------------------------------------------------------------------------------------------
+
+07:30     ===  breakfast  ===
+
+time        speaker             title
+
+Session 2C. Interior Models: Mass Loss, Mixing, Rotation.
+
+08:30       A. Maeder           New models of massive stars and WR stars with mass loss and rotation (review)
+09:00       N. Langer           Pre-supernova evolution and explosions of WR stars
+09:30       D. Vanbeveren       Observational facts and binary-evolutionary models
+
+10:00     ===  coffee break  ===  poster viewing  ===
+
+
+Session 2D. Isotope, Gamma-Ray, and Cosmic Ray Production by Massive Stars.
+
+10:45       R. Diehl            Observational aspects isotope, gamma-ray, and cosmic ray production by massive
+                                stars (review)
+11:15       G. Meynet           Chemical enrichment from WR stellar winds
+
+
+
+SESSION 3.  INTERACTION OF WR STARS AND OTHER HOT MASSIVE STARS WITH THEIR ENVIRONMENT:
+            COLLIDING WINDS AND RING NEBULAE
+
+
+Session 3A. WR+O Colliding Winds.
+
+11:45       P.M. Williams       Observations of colliding wind effects at long wavelengths: IR to radio (review)
+
+12:15     ===  lunch  ===
+
+
+----------------------------------------------------------------------------------------------------------------
+Wednesday 4 NOV, afternoon sessions
+----------------------------------------------------------------------------------------------------------------
+
+14:00       A.F.J. Moffat       Time-resolved optical/UV spectroscopy of colliding wind effects (review)
+14:30       I.R. Stevens        Colliding stellar winds: modeling the X-ray emission
+15:00       R. Walder           Colliding winds: instabilities, magnetic fields, heat-conduction, and their
+                                consequences for the emission in WR binaries
+
+15:30     ===  tea break  ===  poster viewing  ===
+
+
+Session 3B. Origin and Evolution of Ring Nebulae around Massive Stars by Stellar Winds and Mass Ejection.
+
+16:15       A.P. Marston        Ring nebulae: what they tell us about WR stars (review)
+16:45       T.A. Lozinskaya     Kinematics of superbubbles
+17:15       G. Garcia-Segura    Hydrodynamics of ring nebulae: magnetic vs. non-magnetic hydro-models
+
+
+17:45-18:00 POSTER DISCUSSION SESSION 3 / GENERAL DISCUSSION
+
+18:30     ===  dinner  ===
+
+21:30       ...............     Evening speaker / programme
+
+================================================================================================================
+\end{verbatim}
+\newpage
+\begin{verbatim}
+================================================================================================================
+Thursday  5 NOV, morning sessions
+----------------------------------------------------------------------------------------------------------------
+
+07:30     ===  breakfast  ===
+
+time        speaker             title
+
+
+SESSION 4.  WR STARS AND OTHER HOT MASSIVE STARS IN THE GALACTIC CENTER AND IN LOCAL GROUP GIANT HII REGIONS
+            (individual stars)
+
+
+Session 4A. Dense Nearby "Starburst" Regions as a Fundamental Link Between Stellar and Extragalactic Astrophysics
+
+08:30       L. Drissen          The stellar content of NGC 3603
+09:00       S.R. Heap           R136a and its implications for understanding WR galaxies
+09:30       D.A. Hunter         Properties of nearby giant HII regions (review)
+
+10:00     ===  coffee break  ===  poster viewing  ===
+
+
+Session 4B. Massive Stars and the Interstellar Medium in Local Group Galaxies
+
+10:45       P. Massey           The WR content of the Local Group: what it tells us about massive star evolution
+                                (review)
+11:15       M.A. Dopita         Massive stars and their ISM environment
+
+
+Session 4C. The Galactic Center
+
+11:45       A. Eckart           Hot massive stars in the Galactic Center (review)
+
+
+12:15-12:30 POSTER DISCUSSION SESSION 4 / GENERAL DISCUSSION
+
+12:30     ===  lunch  ===
+
+
+----------------------------------------------------------------------------------------------------------------
+Thursday  5 NOV, afternoon
+----------------------------------------------------------------------------------------------------------------
+
+14:00                           EXCURSION
+
+18:30     ===  dinner  ===
+
+================================================================================================================
+\end{verbatim}
+\newpage
+\begin{verbatim}
+================================================================================================================
+Friday    6 NOV, morning sessions
+----------------------------------------------------------------------------------------------------------------
+
+time        speaker             title
+
+
+SESSION 5.  WR STARS AND OTHER MASSIVE STARS IN STARBURST GALAXIES: THE CASE OF WOLF-RAYET GALAXIES
+            (integrated spectra)
+
+
+Session 5A. Basic Properties of Wolf-Rayet Galaxies.
+
+08:30       P.S. Conti          Properties of Wolf-Rayet galaxies (review)
+09:00       T. Contini          Populations of WC and WN stars in WR galaxies: new constraints on starburst
+                                parameters
+09:30       W.D. Vacca *)       (no title yet)
+
+10:00     ===  coffee break  ===  poster viewing  ===
+
+
+Session 5B. Evolutionary Synthesis Models of Starbursts with WR Stars.
+
+10:45       C. Leitherer        Evolutionary synthesis models: what they tell us and what they don't (review)
+11:15       D. Schaerer         New models for WR and O star populations in young starbursts
+11:45       J.M. Mas-Hesse      Evolutionary population synthesis - the effect of binary systems
+
+12:15     ===  lunch  ===
+
+
+----------------------------------------------------------------------------------------------------------------
+Friday    6 NOV, afternoon sessions
+----------------------------------------------------------------------------------------------------------------
+
+
+Session 5C. The Stellar Content of Starburst and Wolf-Rayet Galaxies.
+
+14:00       S. Lizano           Current status and problems in massive star formation
+14:30       R.D. Joseph         Review (no title yet)
+15:00       J. Melnick          High-redshift HII regions
+
+15:30     ===  tea break  ===  poster viewing  ===
+
+
+SESSION 6.  STARBURSTS IN NORMAL AND ACTIVE GALAXIES: THEIR EFFECTS ON THE ISM AND ON CHEMICAL EVOLUTION
+
+
+Session 6A. Global Energy Balance of the ISM in Starburst Galaxies.
+
+16:15       F. Ferrini          From ISM to stars and back in starburst galaxies (review)
+16:45       E. Brinks           Massive stars shaping the ISM: HI holes and shells in nearby galaxies
+17:15       M.D. Lehnert        Superwinds and the nature of starbursts
+
+
+17:45-18:00 POSTER DISCUSSION SESSIONS 5,6 / GENERAL DISCUSSION
+
+19:00     ===  "formal" conference dinner  ===
+
+================================================================================================================
+\end{verbatim}
+\newpage
+\begin{verbatim}
+================================================================================================================
+Saturday  7 NOV, morning sessions
+----------------------------------------------------------------------------------------------------------------
+
+time        speaker             title
+
+07:30     ===  breakfast  ===
+
+
+Session 6B. Spectra of HII Regions with WR Stars: Constraints on Stellar Content and Chemical Evolution
+
+08:30       G. Stasinska        Photo-ionization models for HII regions with WR stars
+09:00       M.L. Garcia-Vargas  Tools to unveil the stellar content in star-forming regions
+09:30       H.A. Kobulnicky     Localized chemical contamination from WR stars in starburst galaxies
+
+10:00     ===  coffee break  ===  poster viewing  ===
+
+10:45       F. Matteucci        The chemical evolution of starburst galaxies (review)
+11:15       E. Terlevich        The helium and metal content in HII galaxies
+11:45       E.D. Skillman       The ISM carbon abundance as an evolutionary constraint
+
+12:15     ===  lunch  ===
+
+
+----------------------------------------------------------------------------------------------------------------
+Saturday  7 NOV, afternoon sessions
+----------------------------------------------------------------------------------------------------------------
+
+
+Session 6C. The Starburst-AGN Connection
+
+14:00       T.M. Heckman        Energetics of starbursts and AGN  (review)
+14:30       R.J. Terlevich      On starburst models for AGN
+15:00       I. Aretxaga         When SNe explode in starbursts: transition to AGN and transitions among AGN
+15:30       D. Kunth            WR stars as tracing the AGN-starburst connection
+
+16:00     ===  tea break  ===  poster viewing  ===
+
+
+SESSION 7.  SUMMARY OF CONFERENCE
+
+16:45       J.E. Dyson          Summary of the conference
+17:15       ...............     Closing ceremony
+
+18:30     ===  dinner  ===
+
+================================================================================================================
+
+
+================================================================================================================
+
+Sunday    8 NOV 1998
+----------------------------------------------------------------------------------------------------------------
+
+07:30     ===  breakfast  ===
+
+09:00          farewell
+
+================================================================================================================
+*) pending confirmation
+
+\end{verbatim}
+\newpage
+
+\textwidth=21.7cm
+\textheight=24cm
+\topmargin=-2.0cm
+\oddsidemargin=-2.0cm
+\evensidemargin=-1.0cm
+
+ANNEX B
+\begin{center}
+\large
+{\bf IAU Symposium No. 193}                                        \\
+\vspace{1mm}
+{\bf WOLF-RAYET PHENOMENA IN MASSIVE STARS AND STARBURST GALAXIES} \\
+3--7 November 1998, Puerto Vallarta, Mexico                        \\
+\vspace{1mm}
+INDICATIONS OF INTEREST
+\end{center}
+\scriptsize
+\begin{verbatim}
+----------------------------------------------------------------------------------------------------------------------------------------------
+INDICATIONS OF INTEREST (193) as of 17 December 1997                                          country  e-mail
+----------------------------------------------------------------------------------------------------------------------------------------------
+     Elchanan Almoznino        Astronomy Department, Tel-Aviv University, Ramat Aviv           Israel  nan@wise.tau.ac.il
+        Kalju Annuk            Tartu Astrophysical Observatory, Toravere                      Estonia  annuk@aai.ee
+         Igor Antokhin         Sternberg Astronomical Institute, Moscow University, Moscow     Russia  igor@sai.msu.su 
+   Jesus Maiz Apellaniz        LAEFF-INTA, VILSPA, ESA, Villafranca del Castillo, Madrid        Spain  jma@laeff.esa.es
+       Itziar Aretxaga      I  Max-Planck-Institut f. Astrophysik, Garching                       BRD  itziar@mpa-garching.mpg.de
+   E. Marcelo Arnal            Instituto Argentino de Radioastronomia, Villa Elisa          Argentina  arnal@fcaglp.fcaglp.unlp.edu.ar
+      S. Jane Arthur           Instituto de Astronomia, UNAM, Morelia, Michoacan               Mexico  jane@astrosmo.unam.mx
+         Marc Azzopardi        Observatoire de Marseille, Marseille                            France  azzopardi@observatoire.cnrs-mrs.fr
+      Rodolfo Barba            Space Telescope Science Institute, Baltimore                       USA  rbarba@stsci.edu
+      Mike J. Barlow           Department of Physics & Astronomy, University College London        UK  mjb@star.ucl.ac.uk
+         Sara Beck             Astronomy Department, Tel Aviv University, Ramat Aviv           Israel  sara@wise.tau.ac.il
+        Peter Berczik          Main Astronomical Observatory, Ukrainian NAS, Golosiiv, Kiev   Ukraine  berczik@mao.kiev.ua
+      Luciana Bianchi          JHU Center for Astrophysical Sciences, Baltimore, MD               USA  bianchi@stsci.edu
+       Robert Blum             Cerro Tololo Inter-American Observatory, NOAO, La Serena         Chile  rblum@noao.edu
+        Bruce Bohannan         Kitt Peak National Observatory, NOAO, Tucson, AZ                   USA  bruce@noao.edu
+      Jacques Breysacher    I  European Southern Observatory, Garching                            BRD  jbreysac@eso.org
+        Elias Brinks        I  Departamento de Astronomia, Universidad de Guanajuato, GTO      Mexico  ebrinks@coyot1.astro.ugto.mx
+        Lucio Buson            Osservatorio di Capodimonte, Napoli                             Italia  buson@astrna.na.astro
+     Cristina Cappa            Instituto Argentino de Radioastronomia, Villa Elisa, Bs.As.  Argentina  ccappa@fcaglp.fcaglp.unlp.edu.ar
+      Octavio Cardona          Instituto Nacional de Astrofisica, Optica y Electr., Puebla     Mexico  ocardona@inaoep.mx
+    Joseph P. Cassinelli       Astronomy Department, University of Wisconsin, Madison, WI         USA  cassinelli@astro.wisc.edu
+        Almas Chalabaev        Labo of Astrophysics, Observatoire de Grenoble                  France  chalabae@laog.obs.ujf-grenoble.fr
+      Jessica Chapman          Anglo Australian Observatory, Epping, NSW                    Australia  jmc@aaoepp.aao.gov.au
+  Isabelle M. Cherchneff       Department of Physics, UMIST, Manchester                            UK  imc@europa.phy.umist.ac.uk
+    Anatol M. Cherepashchuk    Sternberg Astronomical Institute, Moscow University, Moscow     Russia  cher@sai.msu.su
+    Arthur D. Chernin          Sternberg Astronomical Institute, Moscow University, Moscow     Russia  chernin@sai.msu.su
+      You-Hua Chu              Astronomy Department, University of Illinois, Urbana, IL           USA  chu@astro.uiuc.edu
+         Luis Colina           Space Telescope Science Institute, Baltimore, MD                   USA  colina@stsci.edu
+     Peter S. Conti         IR JILA, University of Colorado, Boulder, CO                          USA  pconti@jila.colorado.edu
+      Thierry Contini       I  School of Physics & Astronomy, Tel-Aviv University, Tel-Aviv    Israel  contini@wise.tau.ac.il
+  Ma. Eugenia Contreras M.     Instituto de Astronomia, UNAM Unidad Morelia, Michoacan,        Mexico  maru@astrosmo.unam.mx
+   Michael F. Corcoran         NASA Goddard Space Flight Center, Greenbelt, MD                    USA  corcoran@barnegat.gsfc.nasa.gov
+         Luis Corral           Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  lcorral@ll.iac.es
+      Paul A. Crowther      IR Department of Physics & Astronomy, University College London        UK  pac@star.ucl.ac.uk
+     Emmanuel Davoust          Observatoire Midi-Pyrenees, Toulouse                            France  davoust@obs-mip.fr
+        Erwin De Donder        Astrophysical Institute, Free University of Brussels           Belgium  ededonde@vub.ac.be
+       Orsola De Marco         Institut fuer Astronomie, ETH Zentrum, Zuerich             Switzerland  orsola@astro.phys.ethz.ch
+       Duilia DeMello          Space Telescope Science Institute, Baltimore, MD                   USA  demello@stsci.edu
+          Luc Dessart          Department of Physics & Astronomy, University College London        UK  ld@star.ucl.ac.uk
+      Roland  Diehl         IR Max-Planck-Institute fuer extraterrestrische Physik, Garching      BRD  rod@mpe-garching.mpg.de
+   Michael A. Dopita        I  Mt. Stromlo & Siding Spring Observatories, Private Bag, ACT  Australia  michael.dopita@anu.edu.au
+      Sean M. Dougherty        University of Calgary, DRAO, Penticton, BC                      Canada  smd@drao.nrc.ca
+        Janet Drew             Astrophysics Group, Blackett Laboratory, Imperial College London    UK  j.drew@ic.ac.uk
+      Laurent Drissen       I  Departement de physique, Universite Laval, Quebec, Qc           Canada  ldrissen@phy.ulaval.ca
+  Reginald J. Dufour           Dept. of Space Physics & Astronomy, Rice University, Houston, TX   USA  rjd@regulus.rice.edu
+      Deborah Dultzin-Hacyan   Instituto de Astronomia, UNAM, Mexico D.F.                      Mexico  deborah@astroscu.unam.mx
+       Vikram Dwarkadas        Astronomy Department, University of Washington, Seattle, WA        USA  vikram@astro.washington.edu
+      John E. Dyson         IR Department of Astronomy, The University of Manchester, Manchester   UK  jed@ast.man.ac.uk
+      Andreas Eckart        IR Max-Planck-Institute fuer Extraterrestrische Physik, Garching      BRD  eckart@mpe-garching.mpg.de
+Philippe R.J. Eenens           Departamento de Astronomia, Universidad de Guanajuato, GTO      Mexico  eenens@carina.astro.ugto.mx
+        Cesar Esteban          Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  cel@ll.iac.es
+       Thomas Eversberg        Departement de Physique, Universite de Montreal, Montreal       Canada  eversberg@astro.umontreal.ca
+     Federico Ferrini       IR Dipartimento di Fisica, Universita di Pisa, Pisa                Italia  federico@astr2pi.difi.unipi.it
+       Don F. Figer            Department of Physics & Astronomy, UCLA, Los Angeles, CA           USA  figer@astro.ucla.edu
+        Aaron Flores           Instituto Nacional de Astrofisica, Optica y Electr., Puebla     Mexico  aflores@inaoep.mx
+        Doris Folini           Institute of Astronomy, ETH-Zentrum, Zuerich               Switzerland  folini@astro.phys.ethz.ch
+         Jose Franco Lopez     Instituto de Astronomia-UNAM, Mexico DF                         Mexico  pepe@astroscu.unam.mx
+     Klaus J. Fricke           Universitaets-Sternwarte Goettingen, Goettingen                    BRD  kfricke@uni-sw.gwdg.de
+    Guillermo Garcia-Segura I  Instituto de Astronomia-UNAM, Ensenada                          Mexico  ggs@bufadora.astrosen.unam.mx
+  Maria Luisa Garcia-Vargas I  Instituto de Astrofisica de Canarias. La Laguna, Tenerife        Spain  mgarcia@ll.iac.es
+          Don Garnett          Astronomy Department, University of Minnesota, Minneapolis, MN     USA  garnett@oldstyle.spa.umn.edu
+   Kenneth G. Gayley        I  Dept. of Physics & Astronomy , University of Iowa, Iowa City, IA   USA  kgg@astro.physics.uiowa.edu
+     Wolfgang Glatzel          Universitaets-Sternwarte Goettingen, Goettingen                    BRD  wglatze@uni-sw.gwdg.de
+      Rosa M. Gonzalez D.      Instituto de Astrofisica de Andalucia, Granada                   Spain  rosa@iaa.es
+         Eric Gosset           Institut d'astrophysique, Universite de Liege, Liege           Belgium  gosset@astro.ulg.ac.be
+         Jose Guichard         Instituto Nacional de Astrofisica, Optica y Electr., Puebla     Mexico  jguich@inaoep.mx
+   Vasilii V. Gvaramadze       Keldysh Inst. of Applied Math., Russian Acad. Sci., Moscow      Russia  vgvaram@mx.iki.rssi.ru
+  Wolf-Rainer Hamann        I  Lehrstuhl Astrophysik, Universitaet Potsdam, Potsdam               BRD  wrh@astro.physik.uni-potsdam.de
+  Margaret M. Hanson           Steward Observatory, The University of Arizona, Tucson, AZ         USA  mhanson@as.arizona.edu
+      Sara R. Heap          I  Lab. for Astronomy and Solar Physics, NASA-GSFC, Greenbelt, MD     USA  hrsheap@stars.gsfc.nasa.gov
+   Timothy M. Heckman       IR Dept. of Physics & Astronomy, Johns Hopkins Univ, Baltimore, MD    USA  heckman@pha.jhu.edu
+       Hector Hernandez T.     Instituto de Astronomia, UNAM, Mexico                           Mexico  hector@astroscu.unam.mx
+      Artemio Herrero          Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  ahd@ll.iac.es
+     Mohammad Heydari-M.       Observatoire de Paris, Paris                                    France  heydari@mesioa.obspm.fr
+        Grant Hill             Hobby-Eberly Telescope, McDonald Observatory, Fort Davis, TX       USA  grant@astro.as.utexas.edu
+      D. John Hillier       I  Department of Physics & Astronomy, University of Pitssburgh, PA    USA  jdh@magpie.phyast.pitt.edu
+      Luis C. Ho               Harvard-Smithsonian Center for Astrophysics, Cambridge, MA         USA  lho@cfa.harvard.edu
+         Paul Hodge            Astronomy, University of Washington, Seattle, WA                   USA  hodge@astro.washington.edu
+      Bas den Hond             Sterrenkundig Instituut Utrecht, Utrecht University    the Netherlands  bdhond@trouw.nl
+       Ian D. Howarth          Department of Physics & Astronomy, University College London        UK  idh@star.ucl.ac.uk
+       JieHao Huang            Astronomy Department, Nanjing University, Nanjing                China  jhh@nju.edu.cn
+     Karel A. van der Hucht I  Space Research Organization Netherlands, Utrecht       the Netherlands  k.vanderhucht@sron.ruu.nl
+   Deidre Ann Hunter        IR Lowell Observatory, Flagstaff, AZ                                  USA  dah@lowell.edu
+       Damien Hutsemekers      Liege Astrophysical Institute, Liege                           Belgium  hutsemek@astro.ulg.ac.be
+      Richard Ignace           Department of Physics & Astronomy, University of Glasgow            UK  rico@astro.gla.ac.uk
+        Garik Israelian        Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  gil@ll.iac.es
+      Yury I. Izotov           Main Astronomical Observatory, Goloseevo, Kiev                 Ukraine  izotov@mao.kiev.ua
+    Robert D. Joseph        IR Institute for Astronomy, University of Hawaii, Honolulu, HI        USA  joseph@hale.ifa.hawaii.edu
+ Alexander F. Kholtygin        Astronomical Institute, St.Petersburg University, St.Petersburg Russia  afk@aispbu.spb.su
+     Henry A. Kobulnicky    I  Lick Observatory, University of  California Santa Cruz, CA         USA  chip@ucolick.org
+       Gloria Koenigsberger I  Instituto de Astronomia, UNAM, Mexico                           Mexico  gloria@astroscu.unam.mx
+         Orly Kovo             School of Physics and Astronomy, Tel-Aviv University, Tel-Aviv  Israel  orly@wise.tau.ac.il
+       Daniel Kunth         I  Institut d'Astrophysique de Paris, Paris                        France  kunth@iap.fr
+      Dietmar Kunze            Max-Planck-Institut fuer extraterrestrische Physik, Garching       BRD  kunze@mpe-garching.mpg.de
+        Henny Lamers           Space Research Organization Netherlands, Utrecht       the Netherlands  hennyl@sron.ruu.nl  
+   Norbert T. Langer        I  Institut fuer Physik, Potsdam University, Potsdam                  BRD  ntl@astro.physik.uni-potsdam.de
+     Francois Legrand          Institut d'Astrophysique de Paris, Paris                        France  legrand@iap.fr
+   Matthew D. Lehnert       I  Sterrewacht Leiden, Universiteit Leiden , Leiden       the Netherlands  lehnert@strw.leidenuniv.nl
+        Claus Leitherer     IR Space Telescope Science Institute, Baltimore, MD                   USA  leitherer@stsci.edu
+    Sebastien Lepine           Departement de physique, Universite de Montreal, Montreal, QC   Canada  lepine@astro.umontreal.ca
+    E. Suzana Lizano S.     I  Instituto de Astronomia, UNAM, Morelia, Michoacan               Mexico  lizano@astrosmo.unam.mx
+        Chris Lloyd            Rutherford Appleton Laboratory, Chilton, Didcot, Oxon               UK  cl@ast.star.rl.ac.uk
+        C. de Loore            Astrophysical Institute, Vrije Universiteit Brussel            Belgium  cdeloore@nets.ruca.ua.ac.be
+   Tatiana A. Lozinskaya       Sternberg Astronomical Institute, Moscow University, Moscow     Russia  lozinsk@sai.msu.su
+   Siegfried  Luehrs           Astronomical Institute (former -), University of Muenster          BRD  spock@cygnus.uni-muenster.de
+      Ingemar Lundstrom        Lund Observatory, Lund                                          Sweden  ingemar@astro.lu.se
+        Andre Maeder        IR Observatoire de Geneve, Sauverny                           Switzerland  andre.maeder@obs.unige.ch
+    Sergey V. Marchenko     I  Departement de Physique, Universite de Montreal, Montreal       Canada  sergey@astro.umontreal.ca
+   Anthony P. Marston       IR Physics & Astronomy Department, Drake University, Des Moines, IA   USA  tm9991r@acad.drake.edu
+       Josefa Masegosa G.      Instituto de Astrofisica de Andalucia, Granada                   Spain  pepa@iaa.es
+         J.M. Mas-Hesse     I  LAEFF-INTA, VILSPA, ESA, Villafranca del Castillo, Madrid        Spain  mm@laeff.esa.es
+       Philip Massey        IR Kitt Peak National Observatory, NOAO, Tucson, AZ                   USA  massey@noao.edu
+    Francesca Matteucci     IR Astronomy Department, University of Trieste,                    Italia  francesc@newton.sissa.it
+        Jorge Melnick       I  European Southern Observatory, Santiago                          Chile  jmelnick@sc.eso.org
+     David I. Mendez A.        Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  dmendez@ll.iac.es
+      Georges Meynet        I  Geneva Observatory, Sauverny                               Switzerland  georges.meynet@obs.unige.ch
+       Victor Migenes          Depto. of Astronomy, University of Guanajuato, Guanajuato       Mexico  vmigenes@astro.ugto.mx
+ Anthony F.J. Moffat        I  Departement de physique, Universite de Montreal, Quebec         Canada  moffat@astro.umontreal.ca
+      Thierry Morel            Departement de physique, Universite de Montreal, Quebec         Canada  morel@astro.umontreal.ca
+     Nidia I. Morrell          Observatorio Astronomico de La Plata, La Plata               Argentina  nidia@fcaglp.fcaglp.unlp.edu.ar
+    Francisco Najarro dlP.     Universitaetssternwarte, Muenchen                                  BRD  paco@usm.uni-muenchen.de
+      Andrzej Niedzielski      Centre for Astronomy, N. Copernicus University, Torun           Poland  aniedzi@astri.uni.torun.pl
+     Virpi S. Niemela       IR Observatorio Astronomico de La Plata, La Plata               Argentina  virpi@fcaglp.fcaglp.unlp.edu.ar
+     Magdalen Normandeau       Astronomy Department, University of California at Berkeley, CA     USA  mnormandeau@astro.berkeley.edu
+          Ray Norris           Australia Telescope National Facility,                       Australia  rnorris@atnf.csiro.au
+    Antonella Nota             Space Telescope Science Institute, Baltimore, MD                   USA  nota@stsci.edu
+         Tiit Nugis            Tartu Astrophysical Observatory, Toravere                      Estonia  nugis@aai.ee
+    Knut J.R. Oedegaard        Institute of Theoretical Astrophysics, University of Oslo       Norway  k.j.r.odegaard@astro.uio.no
+   Stanley P. Owocki        IR Bartol Research Institute, University of Delaware, Newark, DE      USA  owocki@bartol.udel.edu
+     Joel Wm. Parker           SouthWest Reseach Institute, Boulder, CO                           USA  joel@boulder.swri.edu
+         Anna Pasquali         European Coordination Facility, ESO, Garching                      BRD  apasqual@eso.org
+       Miriam Pena             Instituto de Astronomia, UNAM, Mexico D.F.                      Mexico  miriam@astroscu.unam.mx
+     Laura R. Penny            Department of Physics and Astronomy, College of Charleston         USA  pennyl@cofc.edu
+      Antonio Piceno           Privada Universidad Autonoma de Tabasco, Puebla, Pue.           Mexico  apiceno@carina.astro.ugto.mx
+        Serge Pineault         Departement de physique, Universite Laval, Quebec               Canada  pineault@phy.ulaval.ca
+       Julian Pittard          School of Physics and Astronomy, University of Birmingham           UK  jmp@star.sr.bham.ac.uk
+ V. Francesco Polcaro          CNR- Istituto di Astrofisica Spaziale, Roma - Vermicino         Italia  polcaro@saturn.ias.rm.cnr.it
+         Onno Pols             Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  onno@ll.iac.es
+    Sergei B. Popov            Sternberg Astronomical Institute, Moscow                        Russia  polar@xray.sai.msu.su
+     Raman K. Prinja           Department of Physics & Astronomy, University College London        UK  rkp@star.ucl.ac.uk
+       Gregor Rauw             Institut d'Astrophysique et de Geophysique, Liege              Belgium  rauw@astro.ulg.ac.be
+     Carmelle Robert           Departement de physique, Universite Laval, Quebec, Qc           Canada  carobert@phy.ulaval.ca
+       Victor Robledo-Rella    Instituto de Astronomia, UNAM, Mexico                           Mexico  vico@astroscu.unam.mx
+    Krzysztof Rochowicz        Centre for Astronomy, N. Copernicus University, Torun           Poland  kroch@astri.uni.torun.pl
+   Claudia S. Rola             Institute of Astronomy, University of Cambridge, Cambridge          UK  crola@ast.cam.ac.uk
+    Margarita Rosado           Instituto de Astronomia, UNAM, Mexico                           Mexico  margarit@astroscu.unam.mx
+      John J. Salzer           Astronomy Department, Wesleyan University, Middletown, CT          USA  slaz@parcha.astro.wesleyan.edu
+       Daniel Schaerer      I  Observatoire Midi-Pyrenees, Toulouse                            France  schaerer@obs-mip.fr
+          Eva Schinnerer       Max-Planck-Institute fuer Extraterrestrische Physik, Garching      BRD  schinnerer@mpe-garching.mpg.de
+       Werner Schmutz       I  Institut f. Astronomie, ETH-Zentrum, Zuerich               Switzerland  schmutz@astro.phys.ethz.ch
+    Regina E. Schulte-Ladbeck  Department of Physics & Astronomy, University of Pittsburgh, PA    USA  rsl@phyast.pitt.edu
+        Joerg Schweickhardt    Landessternwarte Heidelberg-Koenigstuhl, Heidelberg                BRD  jschweic@lsw.uni-heidelberg.de
+    Margarida Serote Roos      Observatorio Astronomico de Lisboa, Lisboa                    Portugal  serote@oal.cc.fc.ul.pt
+         Mike Shara            Space Telescope Science Institute, Baltimore, MD                   USA  mshara@stsci.edu
+    Sergey A. Silich           Main Astronomical Observatory, NAS Ukraine, Kiev, Golosiiv     Ukraine  silich@mao.kiev.ua
+      Evan D. Skillman      I  Astronomy Department, University of Minnesota, MN                  USA  skillman@astro.spa.umn.edu
+      Stephen Skinner          JILA, University of Colorado, Boulder, CO                          USA  skinner@jila.colorado.edu
+   Lindsey F. Smith            Chatterton Astronomy Department, University of Sydney, NSW   Australia  lsmith@physics.usyd.edu.au
+     Linda J. Smith            Department of Physics & Astronomy, University College London        UK  ljs@star.ucl.ac.uk
+          Uwe Springmann       Institut fuer Astrophysik und Astronomie, Universitaet Muenchen    BRD  uwe@usm.uni-muenchen.de
+         S.R. Sreenivasan      Department of Physics & Astronomy, University of Calgary        Canada  srs@acs.ucalgary.ca
+  Euvgenij I. Staritsin        Astronomical Observatory, Ural State University, Ekaterinburgh  Russia  eugenij.staritsin@usu.ru
+      Grazyna Stasinska     I  DAEC, Observatoire de Meudon, Meudon                            France  grazyna@obspm.fr
+        Chris Sterken          Astrophysical Institute, Free University of Brussels           Belgium  csterken@vub.ac.be
+       Ian R. Stevens       I  School of Physics and Astronomy, University of Birmingham           UK  irs@star.sr.bham.ac.uk
+     David J. Stickland        Rutherford Appleton Laboratory, Chilton, Didcot, Oxon               UK  ds@astro1.bnsc.rl.ac.uk
+       Nicole St-Louis         Departement de physique, Universite de Montreal, Quebec         Canada  stlouis@astro.umontreal.ca
+      Eckhard Sturm            Max-Planck-Institute fuer Extraterrestrische Physik, Garching      BRD  sturm@mpe-garching.mpg.de
+        Peter Tamblyn          SouthWest Research Institute,  Boulder, CO                         USA  ptamblyn@boulder.swri.edu
+      Eduardo Telles           Observatorio Nacional, Depto. de Astrofisica, Rio de Janeiro    Brasil  etelles@obsn.on.br
+        Elena Terlevich     I  Institute of Astronomy, Madingley Road, Cambridge                   UK  et@ast.cam.ac.uk
+   Roberto J. Terlevich     I  Institute of Astronomy, Madingley Road, Cambridge                   UK  rjt@ast.cam.ac.uk
+    Gaghik H. Tovmassian       Observatorio Astronomico de Nacional, IA UNAM, Ensenada, BC     Mexico  gag@bufadora.astrosen.unam.mx
+       Peeter Traat            Tartu Observatory, Toravere, Tartumaa                          Estonia  traat@obs.ee
+         Olga Tsiopa           Pulkovo Observatory, St.Petersburg                              Russia  tsiopa@pulkovo.spb.su
+      Anne B. Underhill        Department of Physics, University of BC, Vancouver, BC          Canada  undhill@astro.ubc.ca
+     Vladimir Usov             Physics Department, Weizmann Institute of Science, Rehovot      Israel  fnusov@wicc.weizmann.ac.il
+   William D. Vacca         I  Institute for Astronomy, University of Hawaii, Honolulu, HI        USA  vacca@athena.ifa.hawaii.edu
+        Joris Van Bever        Astrophysical Institute, Free University of Brussels           Belgium  jvbever@vub.ac.be
+         Dany Vanbeveren    I  Astrophysical Institute, Free University of Brussels           Belgium  wvanrens@vub.ac.be
+    Pieter M. Veen             Leiden Observatory, Leiden University, Leiden          the Netherlands  veen@strw.leidenuniv.nl
+         Jose Vilchez M.       Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  jvm@ll.iac.es
+        Charo Villamariz       Instituto de Astrofisica de Canarias, La Laguna, Tenerife        Spain  ccid@ll.iac.es
+      Roberto Viotti           Istituto di Astrofisica Spaziale, CNR, Frascati (RM)            Italia  uvspace@saturn.ias.rm.cnr.it
+   Jean-Marie Vreux            Institut d'astrophysique, Universite de Liege, Liege           Belgium  vreux@astro.ulg.ac.be
+     Nolan R. Walborn          Space Telescope Science Institute, Baltimore, MD                   USA  walborn@stsci.edu
+        Rolf  Walder        I  Institut fuer Astronomie, ETH-Zentrum, Zuerich             Switzerland  walder@astro.phys.ethz.ch
+    Rene A.M. Walterbos        Astronomy Department, New Mexico State University, Las Cruces, NM  USA  rwalterb@nmsu.edu
+       Ulf U. Wessolowski      Max-Planck-Institute fuer Extraterrestrische Physik, Garching      BRD  uuw@mpe.mpg.de
+   Francis P. Wilkin           Astronomy Department, University of California, Berkeley, CA       USA  fwilkin@astro.berkeley.edu
+   Peredur M. Williams      IR Royal Observatory, Edinburgh                                        UK  pmw@roe.ac.uk
+     Allan J. Willis        IR Department of Physics & Astronomy, University College London        UK  ajw@star.ucl.ac.uk
+        Herve Wozniak          IGRAP, Observatoire de Marseille, Marseille                     France  wozniak@observatoire.cnrs-mrs.fr
+----------------------------------------------------------------------------------------------------------------------------------------------
+  IR: Invited Review speaker   I: Invited speaker
+----------------------------------------------------------------------------------------------------------------------------------------------
+\end{verbatim}
+
+\newpage
+
+\begin{center}
+\large
+{\bf IAU Symposium No. 193}                                        \\
+\vspace{1mm}
+{\bf WOLF-RAYET PHENOMENA IN MASSIVE STARS AND STARBURST GALAXIES} \\
+3--7 November 1998, Puerto Vallarta, Mexico                        \\
+\vspace{1mm}
+PROPOSED CONTRIBUTIONS
+\end{center}
+\scriptsize
+\vspace*{-10mm} % 
+\begin{verbatim}
+-------------------------------------------------------------------------------------------------------------------------------------------------
+                               proposed titles of invited reviews, invited papers and poster papers
+-------------------------------------------------------------------------------------------------------------------------------------------------
+     Elchanan Almoznino
+        Kalju Annuk            Spectroscopic and photometric variations of some northern WR stars.
+         Igor Antokhin         TBD
+   Jesus Maiz Apellaniz        The WR population in NGC 604 using bidimensional spectroscopy
+   E. Marcelo Arnal            The impact of WR stars on its local ISM
+       Itziar Aretxaga      I  Supernovae in starbursts
+      S. Jane Arthur           TBD
+         Marc Azzopardi        Review of observational properties of WR stars in the Large Magellanic Cloud
+      Rodolfo Barba            On HD 5980
+      Mike J. Barlow
+         Sara Beck             WR dwarf galaxies in many wavelengths
+        Peter Berczik          General properties of dwarf galaxy formation from triaxial protogalaxies with massive star formation
+      Luciana Bianchi          Discovery of new WR stars in M33 + NGC6822 from WFPC2 U,B,V,and FUV photometry and follow-up spectroscopy
+         ,,      ,,            HST and ground-based observations of WR stars in M31, M33 and NGC6822
+       Robert Blum             2-micron-narrow-band survey for emission-line stars in the inner Galaxy
+        Bruce Bohannan         TBD
+      Jacques Breysacher    I  The 4th catalogue of LMC WR stars
+         ,,      ,,            High-resolution spectroscopy of the SMC WR binary HD 5980
+        Elias Brinks        I  Massive stars shaping the ISM: HI holes and shell in nearby galaxies
+        Lucio Buson
+     Cristina Cappa            On VLA radio continuum and HI observations of NGC 2359
+      Octavio Cardona          Changes of the HeII 4686 line in binary WR stars
+    Joseph P. Cassinelli       TBD
+        Almas Chalabaev
+      Jessica Chapman          Radio emission from WR stars
+  Isabelle M. Cherchneff       Dust formation in clumpy winds
+    Anatol M. Cherepashchuk    Structure of WR winds derived from analysis of atmospheric eclipses
+    Arthur D. Chernin          Colliding circumstellar shocks: hydrodynamical simulations
+      You-Hua Chu              WR ring nebulae
+         Luis Colina           UV imaging of low-redshift AGNs: the energetics of starbursts
+     Peter S. Conti         IR Properties of WR galaxies
+      Thierry Contini       I  Populations of WC and WN stars in WR galaxies: new constraints on starburst parameters
+  Ma. Eugenia Contreras M.     TBD
+   Michael F. Corcoran         TBD
+         Luis Corral           TBD
+      Paul A. Crowther      IR Non-LTE line-blanketed model atmospheres for WR stars
+     Emmanuel Davoust          Metallicity gradients in young starburst galaxies
+        Erwin De Donder        TBD
+       Orsola De Marco         Photon loss in WC stars
+       Duilia DeMello          Searching for WR stars in galaxies at different environments
+          Luc Dessart          TBD
+   Michael A. Dopita        I  TBD
+      Sean M. Dougherty        Non-thermal emission from WR stars
+      Roland  Diehl         IR Observational aspects of isotope, gamma-ray and cosmic ray production by massive stars
+        Janet Drew             Radiation driven disk winds, and their application to massive stars
+      Laurent Drissen       I  The stellar content of NGC 3603
+         ,,     ,,             The stellar content of the giant HII regions NGC 2363
+  Reginald J. Dufour           Discovery of 40,000 K wind-shocked gas in NGC 6888
+      Deborah Dultzin-Hacyan   Physical properties of low-metallicity star-forming galaxies with WR stars
+       Vikram Dwarkadas        TBD
+      John E. Dyson         IR Summary of the symposium
+      Andreas Eckart        IR Hot massive stars in the Galactic Center
+Philippe R.J. Eenens           TBD
+        Cesar Esteban          The Interplay between ionized gas kinematics and recent star formation in WR galaxies
+       Thomas Eversberg        TBD
+     Federico Ferrini       IR From ISM to stars and back in starburst galaxies
+       Don F. Figer            Massive stars in the Galactic Center
+        Aaron Flores           Line-profile variations at 4686 A in binary WR stars
+        Doris Folini           TBD
+         Jose Franco Lopez     TBD
+     Klaus J. Fricke           TBD
+    Guillermo Garcia-Segura I  Hydrodynamics of ring nebulae: magnetic versus non-magnetic hydro-models
+  Maria Luisa Garcia-Vargas I  Tools to unveil the stellar content in star-forming regions
+          Don Garnett          Properties of the He II-emitting nebulae in the Local Group and their ionizing stars
+   Kenneth G. Gayley        I  Dynamics and variability of winds in WR+OB binaries
+     Wolfgang Glatzel          Strange-mode instabilities and mass loss of WR stars
+      Rosa M. Gonzalez D.      NGC 1569 as a WR galaxy.
+         Eric Gosset           On WR star variability
+         Jose Guichard         TBD 
+   Vasilii V. Gvaramadze       Synchrotron nebulae around Wolf-Rayet stars
+  Wolf-Rainer Hamann        I  Modelling and quantitative analyses of WR spectra: recent progress and results
+  Margaret M. Hanson
+      Sara R. Heap          I  R136a and it implications for understanding WR galaxies
+   Timothy M. Heckman       IR The starburst-AGN connection: energetics of starbursts and AGN
+       Hector Hernandez T.     Starburst and WR interacting galaxies
+      Artemio Herrero          On spectral analyses of massive hot stars
+     Mohammad Heydari-M.       TBD
+        Grant Hill             Modeling the spectra of WR+O colliding wind systems
+      D. John Hillier       I  Line-blanketing in WR stars
+         ,,     ,,             The P-Cygni star HDE 316285
+      Luis C. Ho               The incidence of WR stars in nearby galactic nuclei
+         Paul Hodge            Star formation in the WR-rich starburst galaxy IC 10
+      Bas den Hond
+       Ian D. Howarth
+       JieHao Huang            IMF in some new WR galaxies
+     Karel A. van der Hucht I  The 7th catalogue of Galactic WR stars and their space distribution
+   Deidre Ann Hunter        IR Properties of nearby giant HII regions (review)
+       Damien Hutsemekers
+      Richard Ignace           Probing the winds of WR stars using infrared observations from ISO
+        Garik Israelian        TBD
+      Yury I. Izotov           WR stellar population in extremely metal-deficient blue compact galaxies
+         R.D. Joseph        IR Review section 6A
+ Alexander F. Kholtygin        Stochastic models of the WR winds
+         ,,      ,,            Inhomogeneous WR winds: spectra and scaling relations for line fluxes
+     Henry A. Kobulnicky    I  Localized chemical contamination from WR stars in starburst galaxies
+       Gloria Koenigsberger I  TBD
+         Orly Kovo             WR stars in very young starburst galaxies
+       Daniel Kunth         I  WR stars as tracing the AGN-starburst connection
+      Dietmar Kunze            ISO-SWS observations of starburst galaxies: [OIV] as indication for WR phenomena?
+        Henny Lamers           TBD 
+   Norbert T. Langer        I  Pre-supernova evolution and explosions of WR stars
+     Francois Legrand          WR stars in the metal--poor starburst galaxy IZw 18
+   Matthew D. Lehnert       I  Superwinds and the nature of starbursts
+        Claus Leitherer     IR On photoionization models for starburst regions
+    Sebastien Lepine           The inhomogeneous and dynamical structure of WR winds
+    E. Suzana Lizano S.     I  Current status and problems in massive star formation
+        Chris Lloyd
+      Bert de Loore
+   Tatiana A. Lozinskaya    I  Kinematics of superbubbles
+   Siegfried  Luehrs
+      Ingemar Lundstrom
+        Andre Maeder        IR New models of massive and WR stars with mass loss and rotation
+    Sergey V. Marchenko     I  Probing WR wind structures: helping hands from WR+O binaries
+   Anthony P. Marston       IR Ring nebulae, what they tell us about WR stars
+       Josefa Masegosa G.      Physical properties of low-metallicity star-forming galaxies with WR stars
+         J.M. Mas-Hesse     I  Evolutionary population synthesis - the effect of binary systems
+       Philip Massey        IR The WR content of the Local Group: What it tells us about massive star evolution
+    Francesca Matteucci     IR Chemical evolution of starburst galaxies
+        Jorge Melnick       I  TBD
+     David I. Mendez A.        Gas kinematics in dwarf WR galaxies
+      Georges Meynet        I  Chemical enrichment from WR stellar winds
+       Victor Migenes
+ Anthony F.J. Moffat        I  Time- resolved optical /UV spectroscopy of colliding wind effects
+      Thierry Morel            Near-infrared [Fe II] luminosity function of supernova remnants in M33
+     Nidia I. Morrell          On WR + O binaries
+    Francisco Najarro          TBD
+      Andrzej Niedzielski      TBD
+     Virpi S. Niemela       IR WR binaries: old friends and new acquaintances
+     Magdalen Normandeau       Observations of the ISM environs of WR stars
+          Ray Norris
+    Antonella Nota             Connections between LBV and Ofpe/WN9 nebulae and WR nebulae
+         Tiit Nugis            Clumping corrected mass-loss rates of WR stars
+    Knut J.R. Oedegaard        Evolution and nucleosynthesis of WR stars for several initial metallicities
+   Stanley P. Owocki        IR Dynamics and variability of winds from single WR stars
+     Joel Wm. Parker
+         Anna Pasquali         TBD
+       Miriam Pena             Planetary nebulae with [WR] central stars
+     Laura R. Penny            Fundamental parameters of O-type stars
+      Antonio Piceno           TBD
+        Serge Pineault         TBD
+       Julian Pittard          3D hydrodynamic simulations of colliding winds in WR binaries
+ V. Francesco Polcaro          On  WO stars
+         Onno Pols             Wolf-Rayet stars and population synthesis
+    Sergei B. Popov            Evolution of close binaries after the star-formation bursts
+     Raman K. Prinja           TBD
+       Gregor Rauw             TBD
+     Carmelle Robert           UV spectral library of massive stars at low metallicity: young stellar populations
+       Victor Robledo-Rella    Effects of WR-spectra in the determination of physical parameters in HII regions
+    Krzysztof Rochowicz        Ionization stratification in WR atmospheres
+   Claudia S. Rola             TBD
+    Margarita Rosado           Kinematics of the WR galaxy pair NGC 1569
+      John J. Salzer
+       Daniel Schaerer      I  New models for WR and O star populations in young starbursts
+          Eva Schinnerer       The nuclear starburst in the WR glaxy NGC 6764
+          ,,     ,,            IRAM millimeter interferometry: results on NGC 1068, NGC 3227 and I Zw 1
+       Werner Schmutz       I  Revised stellar parameters of WR stars
+    Regina E. Schulte-Ladbeck  The starburst blue compact dwarf galaxy VII Zw 403 resolved into stars with HST
+        Joerg Schweickhardt    Wind parameters of WR binaries
+    Margarida Serote Roos      Stellar populations in starburt galaxies
+         Mike Shara            Newly discovered galactic WR stars and a clear WC/WN gradient
+    Sergey A. Silich           Gas outflows in starburst galaxies with extended halos.
+      Evan D. Skillman      I  The ISM carbon abundance as an evolutionary constraint
+      Stephen Skinner          ASCA X-ray observations of WR stars
+   Lindsey F. Smith
+     Linda J. Smith            Ring nebulae abundances: probes of massive star evolution
+          Uwe Springmann       Models of radiatively driven WR star winds
+         S.R. Sreenivasan      On rotation, mass-loss and mixing in massive stars
+  Euvgenij I. Staritsin        Evolution of surface rotational velocity due to shear turbulence in the massive main sequence stars
+      Grazyna Stasinska     I  Photoionization models for HII regions with WR stars
+        Chris Sterken          Photometric monitoring of HD 5980
+       Ian R. Stevens       I  Colliding stellar winds: modelling the X-ray emission
+         ,,     ,,             The X-ray properties of WR galaxies
+     David J. Stickland        TBD
+       Nicole St-Louis         Molecular hydrogen in the environment of hot stars
+      Eckhard Sturm            ISO spectroscopy of [OIV] in starburst galaxies
+        Peter Tamblyn          Hot massive stars in the Galactic Center and dense stellar environments
+      Eduardo Telles           HII galaxies
+        Elena Terlevich     I  Precise determinations of the He and metal content in HII galaxies
+   Roberto J. Terlevich     I  On starburst models for AGN
+    Gaghik H. Tovmassian       WR star in M31 with planetary nebula
+       Peeter Traat            Metallicity dependence of starburst spectra
+         Olga Tsiopa           Rings, shells and clumps in pre-supernova winds
+      Anne B. Underhill
+     Vladimir Usov             Gas flow and high-energy phenomena in hot massive binaries
+   William D. Vacca         I  TBD
+        Joris Van Bever        TBD
+         Dany Vanbeveren    I
+    Pieter M. Veen             Peculiar short-periodicity of WR stars understood?
+        Charo Villamariz       CNO abundances in O stars
+         Jose Vilchez M.       WR stars in interaction-triggered starbursts of compact groups of galaxies
+      Roberto Viotti
+   Jean-Marie Vreux
+     Nolan R. Walborn          On HST/NICMOS Observations of Extensive Triggered Star Formation within the 30 Doradus Nebula
+       ,,      ,,              HST/STIS Observations of Extreme High-Velocity Interstellar Absorption-Line Structure within the Carina Nebula
+       ,,      ,,              HST/FOS Spatially Resolved Spectral Classification of Compact WR + OB Groups in the LMC
+        Rolf  Walder        I  Colliding winds: instabilities, magnetic fields, heat-conduction, and consequences for the emission in WR binaries
+    Rene A.M. Walterbos        The interaction of WR stars and other massive stars with the interstellar medium in nearby galaxies
+       Ulf U. Wessolowski      High-energy emission from Galactic WR stars
+   Francis P. Wilkin           On the energetics of colliding winds
+   Peredur M. Williams      IR Observations of colliding wind effects at long wavelengths: IR to radio
+     Allan J. Willis        IR Physical parameters of WR stars from gamma-ray to radio data
+        Herve Wozniak          Wolf-Rayet stars in M 100
+-------------------------------------------------------------------------------------------------------------------------------------------------
+\end{verbatim}
+
+\newpage
+\textwidth=17cm
+\textheight=24cm
+\topmargin=-2.0cm
+\oddsidemargin=-0.5cm
+\evensidemargin=-0.5cm
+\normalsize
+
+     \centerline{\bf REGISTRATION FORM} 
+
+{\it   To be returned as soon as possible, (unless you already sent your 
+indication of interest), preferably by e-mail, to:
+ {\tt      k.vanderhucht@sron.ruu.nl}
+\\ with a copy to:
+ {\tt      iau193@carina.astro.ugto.mx}} 
+\medskip \hrule 
+% ---------------------------------------------------------------
+
+\begin{verbatim}
+ Name: 
+ Institute:
+ Address: 
+
+ Tel: 
+ Fax: 
+ E-mail: 
+ I would like to participate in IAU Symposium 193:  yes/no
+ and intend to present a contributed paper:  yes/no
+ The title of my proposed contribution is: 
+
+ I would like to bring along a number of   .  .   accompanying persons.
+\end{verbatim}
+
+\hrule  
+% ---------------------------------------------------------------
+\vspace*{1cm} 
+
+     \centerline{\bf ACCOMMODATION AND PAYMENT FORM}
+
+{\it  Please return before April 15, 1998, preferably by e-mail, to:
+ {\tt       iau193@carina.astro.ugto.mx} \\
+Please make payments to account no.  6797-684495 of Wells Fargo Bank, Mission Hills
+Office, 510 West Washington Avenue, San Diego CA 92103, USA.  The bank
+Routing Number is 121000248.  For Telex transfers, please give code 184904
+Wells.  For SWIFT transfers please give code WFBIUS6S.}
+\bigskip \hrule  
+% ---------------------------------------------------------------
+\begin{verbatim}
+ IAU Symposium No 193
+ Accommodation requirements:
+  First name and last name: ............ 
+  I shall be accompanied by: ........... 
+  Number of extra beds (max 2 children): 
+
+  I wish to share my room: ..................... yes/no
+  The person with whom I shall share my room is: 
+
+  I have the following dietary requirements: ... 
+  I would like to stay   additional nights: from      to
+
+ Payment information:
+ Date of transfer (year/month/day):.......................... 1998 /     /
+   - registration fee: ...................................... USD 150.--
+   - registration fee (USD 100) for    accompanying guest(s): USD 
+   - accommodation down-payment ............................. USD 100.--
+                                                              ----------
+                                                       Total  USD 
+
+Please make sure that all bank costs will be for you 
+(including the incoming wire fee of USD 10). 
+\end{verbatim}
+\hrule  
+% ---------------------------------------------------------------
+
+\newpage
+
+     \centerline{\bf ABSTRACT FORM} 
+
+{\it Please complete one per paper and return before June 1st, 1998,
+ preferably by e-mail, \\ to:
+ {\tt       k.vanderhucht@sron.ruu.nl}
+\\ with a copy to:
+{\tt       iau193@carina.astro.ugto.mx}
+
+ Please use ASCII or LaTeX and include:
+\\  -- the session number (1 to 6, see first page of the second announcement)
+\\  -- the title of the paper
+\\  -- the names of the authors
+\\  -- their institutes and country
+\\  -- the abstract.} 
+
+\medskip \hrule  
+% ---------------------------------------------------------------
+\begin{verbatim}
+
+                         LATEX TEMPLATE:
+\documentstyle[11pt]{article}
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\begin{document}
+
+Session No ...
+
+\centerline{\large\bf   }
+\medskip \centerline{\tt   }
+\medskip \centerline{\em $^1$   }
+         \centerline{\em $^2$   }
+
+\end{document}
+\end{verbatim}
+\medskip \hrule \medskip
+\begin{verbatim}
+
+                         LATEX EXAMPLE:
+\documentstyle[11pt]{article}
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\begin{document}
+
+Session No 7
+
+\centerline{\large\bf The X-Ray Cluster Dipole}
+\medskip \centerline{\tt M. Plionis$^1$ and V. Kolokotronis$^2$}
+\medskip \centerline{\em $^1$ National Observatory of Athens, Greece}
+         \centerline{\em $^2$ Queen Mary and Westfield College, London, England}
+
+We estimate the dipole of the whole sky X-ray flux-limited sample of Abell/ACO 
+clusters (XBACs) and compare it to the optical cluster dipole which is known 
+to be well aligned with the CMB dipole ...
+
+\end{document}
+\end{verbatim}
+\hrule
+% ---------------------------------------------------------------
+\end{document}
+
+

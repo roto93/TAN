@@ -1,0 +1,82 @@
+From kyl@asiaa.sinica.edu.tw Tue Oct  6 07:50:22 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA04094; Tue, 6 Oct 1998 07:49:45 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA10023; Tue, 6 Oct 1998 07:47:42 +0800
+Date: Tue, 6 Oct 1998 07:47:41 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Job Vacancy (fwd)
+Message-Id: <Pine.GSO.3.96.981006074735.10020A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2265
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 05 Oct 1998 09:47:57 -0400
+From: Tessy Schlemmer <tschlemm@cv3.cv.nrao.edu>
+To: aips2@polaris.cv.nrao.edu, aips2-workers@polaris.cv.nrao.edu,
+    vlbi@polaris.cv.nrao.edu, bananas@polaris.cv.nrao.edu,
+    aaswomen@vaxsar.vassar.edu
+Subject: Job Vacancy
+
+The National Radio Astronomy Observatory (NRAO) has the following job
+vacancy at its Array Operations Center in Socorro, New Mexico.  
+
+The AIPS++ Project is an international collaboration by a consortium of
+radio observatories, managed by the NRAO with the goal of developing a
+software package for the processing of radio astronomical data. 
+Investigation and development of algorithms to run on parallel computers
+is being pursued within the AIPS++ Project by the NRAO and the National
+Center for Supercomputing Applications (NCSA), with funding from the
+NCSA.
+
+Classification:	POST-DOCTORAL RESEARCH FELLOWSHIP
+Requisition No.:	SO2234
+
+DESCRIPTION:  
+Under the supervision of  Dr. T.J. Cornwell, AIPS++ Project Manager, the
+post-doctoral fellow conducts research into wide-field imaging by a
+proposed space-borne microwave interferometer, including theoretical
+analysis, simulation, and development of analysis software. This 
+position is funded for two years.
+
+QUALIFICATIONS:  
+Applicants must have a Ph.D. in Astronomy or related field prior to
+beginning the appointment (typically, within the last four years). 
+Experience in the use of interferometric radio telescopes is required. 
+Some familiarity with object-oriented methods and C++ would be
+advantageous.
+
+Further information is available at the NRAO website address:
+http://www.nrao.edu.  Application materials can be sent to: Personnel
+Office, NRAO, P.O. Box 0, Socorro, NM 87801 or email to:
+tmcbride@nrao.edu.
+
+EOE/D/V/M/F 
+-- 
+Tessy Schlemmer, Personnel Rep.
+NRAO @ 520 Edgemont Road
+Charlottesville, VA  22903-2475
+Phone (804) 296-0312
+
+

@@ -1,0 +1,247 @@
+From hkchang@phys.nthu.edu.tw Wed Oct 25 07:24 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA11779
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 25 Oct 2000 07:24:28 +0800 (CST)
+Received: from nyx.cc.nthu.edu.tw (nyx.cc.nthu.edu.tw [140.114.63.1])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id HAA11720
+	for <astro@asiaa.sinica.edu.tw>; Wed, 25 Oct 2000 07:26:46 +0800
+Received: from phys.nthu.edu.tw (phux1.phys.nthu.edu.tw [140.114.80.5])
+	by nyx.cc.nthu.edu.tw (Postfix) with ESMTP id 6DA2C4CD5
+	for <astro@asiaa.sinica.edu.tw>; Wed, 25 Oct 2000 07:18:41 +0800 (CST)
+Received: from phys.nthu.edu.tw (crab5.phys.nthu.edu.tw [140.114.80.139])
+	by phys.nthu.edu.tw (8.9.3/8.9.3) with ESMTP id HAA68566
+	for <astro@asiaa.sinica.edu.tw>; Wed, 25 Oct 2000 07:29:05 +0800 (CST)
+	(envelope-from hkchang@phys.nthu.edu.tw)
+Message-ID: <39F61858.3BB25D5A@phys.nthu.edu.tw>
+Date: Wed, 25 Oct 2000 07:16:40 +0800
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+X-Mailer: Mozilla 4.72 [en] (Win98; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: astro@asiaa.sinica.edu.tw
+Subject: [Fwd: 1st Eddington workshop announcement]
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 8599
+Status: R
+
+
+
+-------- Original Message --------
+Subject: 1st Eddington workshop announcement
+Date: Tue, 24 Oct 2000 15:27:31 +0200 (MET DST)
+From: Fabio Favata <ffavata@estsa2.estec.esa.nl>
+To: hkchang@phys.nthu.edu.tw
+
+
+	  First announcement for  the 1st Eddington Workshop
+	  ``Stellar-structure and habitable planet finding''
+
+		   Cordoba (Spain), 11-15 June 2001
+
+
+Eddington is a 1.2-metre space  telescope with a wide-field imager for
+extra-solar  planet  hunting   by  transits   and   for  asteroseismic
+observations,  with  ample opportunities  for  parallel and  ancillary
+science.   This workshop  is  an invitation  to  the wider  scientific
+community to  get involved in  the refinement of the  mission concept,
+and  to participate  in the  science and  technology of  the Eddington
+mission.
+
+This workshop follows on the recent ESA decision to adopt Eddington as
+a "reserve mission", for a launch in the 2007-2013 time-frame.
+
+Eddington,  with a  telescope of  nominal 1.2-metre  aperture and  a 3
+degree field of view with  a CCD imager for high-precision photometry,
+and a five-year life, has two primary goals:
+
+  1) to find habitable  planets outside of our solar  system using the
+     transit method
+
+  2) to  provide  data  on  the  evolution  and  age  of  stars  using
+asteroseismic techniques.
+
+There will also be  opportunities for parallel imaging and photometric
+science during  the planet and asteroseismology  observations, as well
+as the  possibility, for  a fraction  of the total  time, to  point at
+different type of targets, in an "observatory-like" fashion.
+
+While building  on the small  national missions COROT, MONS  and MOST,
+the  large  collecting area  of  the  Eddington  telescope allows  the
+detection of  habitable planets around solar-type stars  (out of reach
+for  the  smaller  missions)  and  provides the  data  on  oscillation
+frequencies needed to perform asteroseismic investigations of critical
+phases of stellar  evolution, e.g. stars in open  clusters and Pop. II
+stars, thus allowing for a major quantum step in both disciplines. The
+baseline plan is that these two  main investigations will be done in a
+series of month-long pointings at asteroseismic targets, followed by a
+three-year  pointing  at  the  planet field.   The  general  astronomy
+pointings will be done within this time-frame.
+
+In the  course of  2000 the mission  has been  the subject of  a study
+leading to a  mission concept which was successfully  presented to ESA
+for approval in September 2000. In the next two years detailed studies
+of the whole  mission concept, and in particular  of the payload, will
+be  performed.  This workshop  is  an  open  invitation to  the  wider
+scientific  community  to  provide  input  to  the  Eddington  mission
+concept, and  get involved  in the following  phases of  the Eddington
+mission.
+
+More information on  the Eddington baseline design can  be obtained at
+http://astro.esa.int/SA-general/Projects/Eddington/.   Copies  of  the
+report on the  Eddington study performed in the  course of 2000, where
+the  baseline mission concept  is described  in detail,  are available
+upon    request    from     the    Study    Scientist    F.     Favata
+(ffavata@astro.estec.esa.nl).
+
+The programme  will include a  presentation of the various  aspects of
+the  mission's present  baseline  and scientific  performance, and  an
+overview of the mission's  science goals.  Contributions are solicited
+on all aspects of the mission,  on both the scientific side as well as
+the industrial side.   A formal call for abstracts  will be circulated
+later this year, together with  a preliminary programme with a list of
+invited  speakers.  An "expression  of interest"  form is  appended to
+this     announcement,     which     should     be     returned     to
+eddi2001@astro.estec.esa.nl.  The  same address can  also be contacted
+with any  question regarding  the workshop. Updated  information about
+the    Workshop   will    be   made    available   at    the   address
+http://astro.esa.int/SA-general/Projects/Eddington/Eddi2001
+
+Please feel  free to pass this  message to any colleague  who might be
+interested in  the meeting and who  may not be in  the initial mailing
+list. Note that  the invitation is equally open  to scientists working
+both in ESA- and non-ESA-member states.
+
+====
+
+Scientific Organizing Committee:
+
+C. Aerts (U. Leuven, BE)
+E. Antonello (Obs. Brera, IT)
+M. Badiali (IAS-CNR, IT)
+C. Catala (Obs. Midi-Pyrenees, FR)
+J. Christensen-Dalsgaard (Aarhus Univ., DK)
+H. Deeg (IAA, SP)
+F. Favata (ESA/ESTEC)
+G. Gilmore (IoA, UK)
+A. Gimenez (LAEFF, ES)
+M. Grenon (Obs. Geneve, CH)
+M. Monteiro (CAUP, PT)
+A. Penny (RAL, UK)
+H. Rauer (DLR, DE)
+I. Roxburgh (QM, Univ. of London, UK -- chair)
+J. Schneider (Obs. Paris, FR)
+N. Waltham (RAL, UK)
+
+Local Organizing Committee
+
+V. Costa (IAA, Granada)
+F. Favata (ESA/ESTEC, Noordwijk)
+D. Galadi (CAB, Madrid)
+R. Garrido (IAA, Granada)
+A. Gimenez (LAEFF, Madrid)
+M. Mas-Hesse (LAEFF, Madrid)
+L. Lara (CAB, Madrid)
+M. Saez (Uni. Cordoba, Cordoba)
+
+====
+
+
+Conference venue and information about the city of Cordoba
+
+Cordoba is in the middle  of the Spanish southern region of Andalusia,
+about 120 km northeast of Seville  and 160 km northwest of Granada. It
+has a population of 300,000 and  lies at the foot of the Sierra Morena
+and on the bank of the Guadalquivir River.
+
+Cordoba has a  very rich history. Probably of  Carthaginian in origin,
+was occupied by  the Romans in 152 BC. The  city flourished and became
+the capital of the prosperous province of Baetica. Then declined under
+the rule  of the Visigoths from  the 6th century to  711, when Cordoba
+was largely destroyed by the Muslims. Thy nevertheless made of Cordoba
+their capital  in 756  and Abd al-Rahman  I founded the  Great Mosque,
+while  the  city grew  rapidly.  After  927,  when Abd  al-Rahman  III
+proclaimed himself caliph of the  West, Cordoba became the largest and
+probably the most  cultured city in Europe. It  fell to the Castilians
+in 1236 and became part of Christian Spain.
+
+Cordoba  remains  a typically  Andalusian  city  with narrow  streets,
+especially in the old Jewish quarter (La Juderia). A Moorish bridge on
+Roman   bases   connects  Cordoba   with   its   suburbs  across   the
+river.  Besides,  the Great  Mosque,  many  palaces, monasteries,  and
+churches,  are found  in Cordoba  from different  times  together with
+typical houses with colourful patios.
+
+In addition,  there are  many possibilities in  Cordoba to  taste good
+food, have "tapas" with a large variety of options and drink wine from
+the nearby village of Montilla.
+
+The  workshop will take  place in  the Palacio  de Congresos  which is
+located in a refurbished XVIth century building in the old part of the
+city, very close  to the Mosque, and at walking  distance from most of
+the selected hotels.
+
+To reach Cordoba, the best way is  to fly to Madrid or Sevilla and use
+the fast speed  train (AVE) which runs every  hour from Madrid (Atocha
+AVE  Station)  to  Sevilla  (Santa  Justa  Station)  with  a  stop  in
+Cordoba. The  time from Madrid to  Cordoba is approximately  1 hour 45
+minutes and from  Sevilla to Cordoba is 45 minutes.  The train is also
+very convenient for one day visits to Sevilla while in Cordoba.
+
+====
+
+Expression of interest form (please fill and return to
+eddi2001@astro.estec.esa.nl by 15 Nov. 2000) 
+
+
+------------------------------------------------------------------------
+                       EXPRESSION OF INTEREST FORM
+
+          SEND TO eddi2001@astro.estec.esa.nl
+------------------------------------------------------------------------
+
+                   The 1st Eddington Workshop
+
+              Cordoba (Spain), 11/06 - 15/06 2001
+
+
+Name:              _______________________________________
+
+
+Postal address:    _______________________________________
+
+                   _______________________________________
+ 
+                   _______________________________________
+                   
+
+Telephone:         _______________________________________
+
+FAX:               _______________________________________
+
+e-mail address:    _______________________________________
+
+
+Please mark one response with X:
+
+.... I will definitely attend
+
+.... I will probably attend
+
+.... I may attend
+
+
+I would like to present a paper 
+
+.... contributed talk
+
+.... poster 
+
+Tentative title:
+
+________________________________________________________________________
+
+________________________________________________________________________
+
+________________________________________________________________________
+

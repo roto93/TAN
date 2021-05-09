@@ -1,0 +1,132 @@
+==============================================================================
+
+In this issue (Mar 04 - 09, 2018)
+
+2. ASIAA Colloquium/Seminar/Lunchtalk (Mar 12): Yong Tian (NCU)
+                                      (Mar 12): Andrew Cooper (Univ of Durham)
+                                      (Mar 13): Kashiyama Kazumi (Tokyo U.)
+                                      (Mar 15): Hsi-Yu Schive (UIUC)
+
+==============================================================================
+
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> Date: Wed, 7 Mar 2018 12:30:29 +0800
+> Subject: Announcement: LOT call-for-proposal for 2018B Semester
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof. Kuan, can you announce the following to TAN?
+
+Thanks for the help.
+
+------------------------------------------------------------------
+
+Dear all, the LOT call-for-proposal is announced on Lulin Website:
+
+http://www.lulin.ncu.edu.tw/
+
+Please check and download the templates from the announcement on 2018-03-07,
+under "News" or "Lulin News".
+
+See also:
+http://www.lulin.ncu.edu.tw/lulinnews/files/180307_Announcement_LOT2018B.txt
+
+--------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> Date: Thu, 8 Mar 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Yong Tian (NCU)
+Topic:         Mass Discrepancy-Acceleration Relation in Dark Matter Problem
+Time:         3/12 (Monday) 12:15 - 13:15
+Place:         R1203
+Abstract:
+Mass discrepancy-acceleration relation (MDAR) is a relation in dark matter problem found in spiral galaxies. The mass ratio between observational mass divided by baryonic mass strongly related to baryonic acceleration (or observational acceleration) but unrelated to other physical quantities (ex, radius). Recently, McGaugh et al. 2016 (PRL117.201101) revealed a tight relation between observational acceleration and baryonic acceleration in 153 spiral galaxies from SPARC database which is consistent to the MDAR. It can well explain Tully-Fisher relation, deficient dark matter in ordinary elliptical galaxies, surface densities discrepancy etc. However, our work focus (Tian & Ko 2017) on elliptical galaxies in strong lensing such as Einstein rings. We found the MDAR in 57 elliptical lenses is consistent with spiral galaxies.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Andrew Cooper (University of Durham)
+Topic:         Galactic Archaeology: Simulations and Surveys
+Time:         3/12 (Monday) 11:00 - 12:00
+Place:         R1203
+Abstract:
+Many of the facilities poised to dominate optical and infra-red
+astronomy over the next 20 years have put galactic archaeology (in a
+nutshell, high-redshift science with low-redshift data) at the core of
+their scientific programmes, including Gaia, PFS, HSC, LSST, MOONS,
+JWST, WFIRST, ELT, MSE and TMT. They promise surveys of galactic
+stellar halos, tidal streams and dwarf satellites with ultra-deep
+photometry (exemplified by outstanding deep imaging from HSC) and
+fine-grained spectroscopy of stars in the Local Group (the domain of
+PFS). These data will provide stringent new probes of the evolving
+relationship between star formation and the growth of cosmic structure
+at the heart of the LCDM model, but only if we can successfully
+combine Milky Way and extragalactic data in a sufficiently detailed
+theoretical framework, integrated with results from other wavelengths
+and epochs. In this talk I’ll outline my work to develop efficient
+cosmological simulations (called STINGS) that bridge the gap between
+all these exciting observations and the big picture questions of
+galaxy formation theory. I’ll show quantitative insights these
+simulations give into how the hierarchical disruption of satellites
+contributes to galactic structure across scales ranging from the Milky
+Way to the most massive clusters, and highlight some of the pressing
+problems and priorities for this field. I’ll also give an update on
+the DESI Milky Way Survey, an ambitious wide-area spectroscopy
+programme targeting our own Galaxy’s stellar halo that will be highly
+complementary to the Galactic Archaeology goals of PFS.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Kashiyama Kazumi (Tokyo U.)
+Topic:         Fast radio bursts and the young neutron star model
+Time:         3/13 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+A growing number of fast radio bursts (FRB) has been detected but the source is still unknown. One of the leading models is the young neutron star model, in which a pulsar (or magnetar) of < 100 yrs-old surrounded by a wind nebula and supernova remnant are considered and connections between FRBs and luminous pulsar-driven supernovae are predicted. I will discuss multi-messenger/multi-wavelength approaches for testing the scenario.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Hsi-Yu Schive (UIUC)
+Topic:         Wave Dark Matter Predictions from GPU-accelerated Adaptive Mesh Refinement Simulations
+Time:         3/15 (Thursday) 11:00 - 12:00
+Place:         R1203
+Abstract:
+The conventional particle interpretation of cold dark matter (CDM) still lacks laboratory support and struggles to explain the basic properties of dwarf galaxies. This tension motivates wave dark matter (ψDM) composed of extremely light bosons (m ψ ~10^(-22) eV), which suppresses structure below the kpc scale by the uncertainty principle but retains the large-scale structure predicted by CDM. In the first part of this talk, I will present the first cosmological ψDM simulations that achieve an unprecedented high resolution capable of resolving dwarf galaxies. These simulations reveal that every ψDM halo has a prominent soliton core surrounded by fluctuating density granules. These predictions compare favorably with the observations of galaxy formation, the Lyman-alpha forest and reionization, and also help explain gravitational lensing flux anomalies. The second part of the talk focuses on GAMER, a GPU-accelerated adaptive mesh refinement (AMR) code. A rich set of physics!
+  modules is incorporated and which outperforms other widely-adopted AMR codes by one to two orders of magnitude. The code scales well to thousands of GPUs and achieves a uniform resolution as high as 10,240^3 cells. I will present several ongoing astrophysical projects with GAMER that require substantially higher resolution than previously feasible, including turbulence cascade in galaxy cluster mergers, star formation in isolated disk galaxies, supermassive black hole accretion, and ψDM simulations.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

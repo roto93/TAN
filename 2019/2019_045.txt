@@ -1,0 +1,56 @@
+
+> Subject: TTTT seminar on 1 April at NTHU
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw, astr_undergrad@phys.nthu.edu.tw,
+>     zzzzzzzzzz1111144@gmail.com, Oliver CHEN <369grant2@gmail.com>,
+>     jimmy871201@gmail.com, tinattw0127@yahoo.com.tw,
+>     ho simon <simonsimon259@hotmail.com>, astro@asiaa.sinica.edu.tw
+> Date: Tue, 26 Mar 2019 10:52:29 +0800
+
+Dear all,
+
+TTTT seminar at NTHU is scheduled on 1st April given
+by Chen-Fatt in NTU/ASIAA.
+
+Title:
+SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES):
+Multi-wavelength properties and luminosity function of
+450 Î¼m selected galaxies
+
+Speaker: Chen-Fatt Lim (NTU/ASIAA)
+Time: 12:20-13:00pm 1st April (Monday)
+Venue: R501, IoA, 5th floor in the 2nd General Building
+
+Abstract:
+The majority of star formation in the Universe is obscured
+by dust and produces strong infrared and sub-millimeter
+radiation. Far-infrared or sub-millimeter observations are
+therefore required to fully understand the formation history
+of galaxies. In this talk, I will present the recent progress and
+results of the SCUBA-2 Ultra Deep Imaging EAO Survey (STUDIES)
+project. STUDIES is a JCMT Large Project aiming at obtaining
+confusion limited 450 Î¼m images in the COSMOS and SXDS
+regions, to detect the majority of the dusty galaxy population.
+So far, ~ 60% of the total allocated integration of the COSMOS
+field has been obtained. This leads to by far the deepest 450 Î¼m
+image with an area of ~300 arcmin2 and a noise level of ~ 0.65
+mJy in the map center. We conducted SED fitting on sources with
+multi-wavelength counterparts to estimate their physical
+properties, including photometric redshifts, infrared luminosities,
+star formation rates, dust temperatures, stellar masses, and dust
+attenuations. Because of the unprecedented depth of the
+STUDIES image, these analyses reached ~ 30 Mâ¦¿ yr-1 galaxies
+at z ~ 2. Our data provide new measurements of obscured SFR
+densities at z =0-4, without any assumptions in the faint-end
+slopes of the infrared luminosity function. We are also building a
+450 Î¼m-based machine-learning algorithm to identify the SMG
+candidates in the entire 1.77 deg2 COSMOS region. There will be
+roughly 7500 such machine-learning candidates and they will be
+used for clustering analyses and halo mass estimations for faint
+SMGs. All the above will advance our understanding of the typical
+members in the high-redshift dusty galaxy population.
+
+Best regards,
+Tetsuya Hashimoto
+
+==============================================================================

@@ -1,0 +1,117 @@
+=============================================================================
+
+In this issue (Aug 07 - 13, 2020)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Aug 17): Howard Chen (Northwestern Univ)
+                                      (Aug 19): Ya-Hui Yang (NCU)
+                                      (Aug 19): Hsu, Shu-Fu (ASIAA)
+2. ALMA Imaging Workshop: Sep 1-2 at ASIAA
+
+==============================================================================
+
+Date: Thu, 13 Aug 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+X-Mailer: PHP/5.3.3
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Howard Chen (Northwestern University)
+Topic:         Influence of Stellar Flares and X-ray Radiation on the Atmospheres of Planets Orbiting M-dwarf Stars
+Time:         8/17 (Monday) 12:15 - 13:15
+Place:          R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Ya-Hui Yang (NCU)
+Topic:         Hard X-ray and Radio Signatures Associated with Intense Solar Flares
+Time:         8/19 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Solar flare is one of the most explosive phenomena in the solar system that large amount of energy (1032~1033 ergs) releases within 102-103 seconds, which can accelerate electrons up to few hundreds of MeV and ions up to several tens of GeV. One of the most important issues in solar physics is to investigate the energy release and particle acceleration processes. The flare-accelerated particles generated in the corona can propagate upward along the open magnetic fields into the interplanetary space and move along the closed magnetic fields downward to the lower solar atmosphere. In general, the chromospheric hard X-ray sources occur in the impulsive phase of solar flares and are thought to be the footpoints of newly reconnected magnetic fields mapped to the primary energy release site. The radio emissions are the important diagnostic tool to trace and study the dynamics of flare-accelerated particles. In this talk, I will first introduce the solar flare characteristics in mu!
+ lti-wavelength observations. Then I will present the research works on the estimation of reconnection electric field, asymmetry of chromospheric hard X-ray emissions, fine structures seen in a radio dynamic spectrogram, as well as the pre-flare Type III radio bursts and their solar associations.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* next Tue.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Hsu, Shu-Fu (ASIAA)
+Topic:         Subaru PFS Project : Aquisition & Guiding Camera Data Storage/Load
+Time:         8/19 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+==============================================================================
+
+From    Trejo-Cruz Alfonso <trejo@asiaa.sinica.edu.tw>
+Subject: Fwd: ALMA Imaging Workshop: Sep 1-2 at ASIAA
+Date    2020-08-13 17:39
+
+Dear Yi-Jehng,
+
+Could you help us to circulate this announcement through the TAN mailing list?
+
+Thank you,
+Alfonso
+
+
+---------- Forwarded message ---------
+
+From: Trejo-Cruz Alfonso <trejo@asiaa.sinica.edu.tw>
+Date: Thu, 13 Aug 2020 at 17:36
+Subject: ALMA Imaging Workshop: Sep 1-2 at ASIAA
+To: <riaa@asiaa.sinica.edu.tw>, <alma-taiwan@asiaa.sinica.edu.tw>
+
+
+Dear all,
+The ALMA Regional Center (Taiwan-ARC) at ASIAA is pleased to host the ALMA Imaging Workshop on September 1st and 2nd, 2020.
+
+The workshop will cover relevant information about:
+
+ALMA data structure
+Analysis/imaging tools
+Pipeline calibration and imaging weblog
+Archival services
+The workshop will feature talks and hands-on sessions. Users who are interested in ALMA data and imaging topics, with a practical approach, are encouraged to attend.
+
+Time: September 1st and 2nd, 2020
+Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+Registration Deadline: August 28th, 2020.
+http://events.asiaa.sinica.edu.tw/workshop/20200901/index.php
+
+The full program is available at the link.
+Please register by the deadline to be counted in for free lunch boxes.
+
+At a later date, further information regarding datasets/scripts downloading, and other logistics, will be provided.
+
+
+Alfonso
+on behalf of the Taiwan-ARC
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

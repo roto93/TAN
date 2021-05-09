@@ -1,0 +1,88 @@
+==============================================================================
+
+In this issue (Aug 16 - 18, 2016)
+
+1. Arizona Radio Observatory - Call for Proposals: Fall 2016 (Sep 10, 2016)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Aug 22): Pei-Ying Hsieh (ASIAA)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Fall 2016)
+------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT), located on
+Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
+located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are
+being solicited for the period October 15, 2016 to February 15, 2017. Graduate
+student participation is especially encouraged. The proposal deadline for this
+2016 fall semester is set on September 10, 2016 (Saturday).
+
+The SMT currently supports a dual-polarization 1-mm (211-275 GHz) receiver
+with ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, a 0.4-mm (602-720 GHz) dual-polarization receiver with ALMA
+Band 9 mixers, and a new Band 7 receiver with SBS mixers is also available.
+The SMT control system supports both dual-polarization ("2 IF mode"), and
+dual-polarization, dual-sideband observations ("4 IF mode"), as well as OTF
+mapping. The new 12m supports an ALMA Band-3 dual-polarization SBS receiver
+(84-116 GHz).
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Proposal candidates should consult
+the ARO website, https://www.as.arizona.edu/aro/ , for technical
+specifications. 
+
+Proposal candidates can download the updated Proposal Summary Sheet here:
+https://www.as.arizona.edu/aro/proposal_submission_information.htm . Proposal
+candidates are required to list on the Proposal Summary Sheet their requested
+observing blocks (LST ranges), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (44 degrees at the SMT, 10 degrees at the 12m). Proposal
+candidates are also encouraged to submit up to THREE pages of scientific
+justification (including figures and/or tables) with their Proposal Summary
+Sheet. Electronic submissions will be accepted in PDF format ONLY. Scheduling
+of successful proposals will be done according to availability of the
+receivers requested. The proposal PDF file should be emailed to
+kuan[at]asiaa.sinica.edu.tw by midnight (23:59 CST) September 10, 2016
+(Saturday).
+
+==============================================================================
+
+> Date: Thu, 18 Aug 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Pei-Ying Hsieh (ASIAA)
+Topic:         The Galactic center: Interplay between SgrA* and the molecular gas in the central 20 pc
+Time:         8/22 (Monday) 12:00 - 13:00
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,116 @@
+From astro@.MISSING-HOST-NAME. Fri Feb 20 16:18:04 2004
+Date: Fri, 20 Feb 2004 12:37:04 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue February 11 - 20, 2004)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (February 11 - 20, 2004):
+
+1. NTHU Colloquium (Feb 27): Mike Cai (ASIAA)
+2. Postdoctoral position astrochemistry (Univ of Hawai'i at Manoa)
+3. ASIAA Colloquium (Feb 20): Xingwu Zheng (Nanjing Univ)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+To: astro@asiaa.sinica.edu.tw
+Message-Id: <20040217074217.2A644414AE2@phux1.phys.nthu.edu.tw>
+Date: Tue, 17 Feb 2004 15:42:17 +0800 (CST)
+From: chou@phys.nthu.edu.tw (Dean-Yi Chou)
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title :   How to Raise a Hairy Baby Black Hole
+
+Speaker:  Dr. Mike Cai (IAA, Academia Sinica)
+
+Date:     27 February 2004 (Friday)
+
+Time:    12:10
+
+Place:   Room 620,  Physics Building, NTHU
+         
+Abstract:         
+We present here the first calculation of a spherical self-similar collapse
+that leads to a black hole formation.  The dynamic evolution is triggered by
+the central portion of a singular isothermal sphere in equilibrium
+collapsing to for an infinitesimal black hole.  This perturbation removes
+the pressure support for the layer immediately above, which causes it to
+collapse, and so on.  The influence of gravitational collapse propagates out
+as an expansion wave moving at the speed of sound.  Outside of the expansion
+wave, matter remains in local equilibrium.  We have also examined the
+effects of a weak and uniform magnetic field on the collapse.  Within the
+assumptions of perfect magnetohydrodynamics, the magnetic field lines are
+frozen to the collapsing matter, and arrange themselves in the form of a
+split magnetic monopole on the large scale.  We believe this theoretical
+model can serve to describe monolithic formation of massive black holes, and
+the presence of magnetic fields helps to break self-similarity and to define
+the final black hole mass.
+***************************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Message-ID: <40329233.8050609@gold.chem.hawaii.edu>
+Date: Tue, 17 Feb 2004 12:14:11 -1000
+From: "Ralf I. Kaiser" <kaiser@gold.chem.hawaii.edu>
+To: Astro@asiaa.sinica.edu.tw
+Subject: postdoctoral position astrochemistry
+
+A postdoctoral position in experimental physical chemistry (reaction 
+dynamics, low temperature kinetics on ice surfaces, reactive scattering) 
+is open at the Department of Chemistry, University of Hawai'i at Manoa, 
+for the period of one year, renewable upon mutual agreement. Successful 
+applicants should have a significant background in experimental reaction 
+dynamics, molecular beams, vacuum technology, and laser systems. The 
+prime directive of the experimental research program is to investigate 
+the dynamics of bimolecular gas phase reactions and of reactions on 
+surfaces to form complex molecules in extraterrestrial environments. A 
+description of the current research group and projects can be found at 
+http://www.chem.hawaii.edu/Bil301/welcome.html ; recent examples of our 
+work are published in , for example, Chemical Reviews (102, 1309-1358, 
+2002) and Int. Rev. Physical Chemistry (21, 307-356, 2002). To apply, 
+please send a letter of interest, three letters of recommendation, CV, 
+and publication list to Prof. Ralf I. Kaiser, Department of Chemistry, 
+University of Hawai'i at Manoa, Honolulu, HI 96822-2275, USA, or via 
+email to kaiser@gold.chem.hawaii.edu . Review of applications will start 
+March 1, 2004, and continues until the position is filled.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Fri, 20 Feb 2004 09:24:41 +0800 (CST)
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+cc: astro@asiaa.sinica.edu.tw
+Subject: [Colloquium] ASIAA Colloquium TODAY - Dr. Xingwu Zheng
+
+ 
+ Dear all,
+  
+  	Just to remind you that today's colloquium (02/20 Fri) will be 
+ given by our guest Dr. Xingwu Zheng from Nanjing University. After his
+ introduction to the VLBI network in China at our lunch talk earlier this 
+ week, Dr. Zheng will discuss today about his work on masers near massive 
+ star forming regions.
+
+	More information about ASIAA colloquia can be found below at our
+ web url, "http://www.asiaa.sinica.edu.tw/act/colloquium.php"
+  
+ Regards,
+      
+ sheng-yuan
+      
+ --------------------------- ASIAA Colloquia ---------------------------
+  Speaker : Dr. Xingwu Zheng
+  Title   : Masers in the Bow Shocks of Massive Star Formation Regions
+  Time    : 02/20 (Friday) 2:00 pm
+  Location: ASIAA Room 716
+  URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+ -----------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

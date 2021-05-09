@@ -1,0 +1,414 @@
+Date: Wed, 8 Feb 2012 02:49:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Feb 04 - Feb 07, 2012)
+
+============================================================================== 
+
+In this issue (Feb 04 - 07, 2012)
+
+1. AAO student fellowship announcement
+2. NCUcam-1 training observation
+3. ASIAA Colloquium (Feb 10): Olivier Le Fevre (Lab D'Astrophys de Marseille)
+4. Colloquium at IANCU (Feb 10): Hsiao-Wen Chen (University of Chicago)
+5. Colloquium at IANCU (Feb 24): Noriyuki Namiki (Planetary Exploration Res Center)
+6. Announcement on CFHT LP (2013A-2016B) call for proposal 
+
+==============================================================================
+
+> From: Sebastien Foucaud <foucaud@ntnu.edu.tw>
+> Date: Sat, 4 Feb 2012 09:39:40 +0800
+> Subject: AAO student fellowship announcement
+> To: astro@asiaa.sinica.edu.tw
+
+Dear all,
+
+Please circulate this information amongst your undergraduate students.
+Deadline is very close (15 Feb.).
+
+Cheers
+Seb
+
+__________________________________________
+
+Prof. Sebastien R.A. Foucaud (=E5=82=85=E8=B0=B7=E7=9F=B3)
+
+Department of Earth Sciences, National Taiwan Normal University
+No.88, Sec. 4, Tingzhou Rd., Wenshan District, Taipei 11677, Taiwan R.O.C.
+Tel: +886-(0)2-7734-6402
+email: foucaud@ntnu.edu.tw
+http://www.es.ntnu.edu.tw/Foucaud
+__________________________________________
+
+
+----------------------------------------------------------------------
+Applications for the Jun-Sep 2012 AAO Student Fellowships are now open.
+The deadline for applications is 15 Feb 2012.
+
+http://www.aao.gov.au/AAO/**students/aaosf.html<http://www.aao.gov.au/AAO/s=
+tudents/aaosf.html>
+
+Opportunities exist for undergraduate students who have completed not
+less than 2 years of full time course work in Astronomy, Astrophysics,
+Applied Physics, Engineering, Mathematics or related subjects to work
+at the Australian Astronomical Observatory on research projects under
+the individual supervision of AAO staff astronomers. In addition to
+astronomical research, a major part of the Observatory's core business
+is astronomical instrumentation for optical/infrared telescopes, and
+studentships are available in this area as well.
+
+Student Fellowships are available for 10 to 12 weeks in the period
+mid-June to mid-September. The stipend for 2012 is A$686 per week.
+
+The AAO headquarters is located in Epping, a suburb approximately
+25 km from the centre of Sydney. A field trip is arranged to
+visit the telescopes at Siding Spring Observatory.
+
+Applications should be directed to A. Prof. Andrew Hopkins,
+Head of AAT Science. For further details, including how to apply, see:
+
+http://www.aao.gov.au/AAO/**students/aaosf.html<http://www.aao.gov.au/AAO/s=
+tudents/aaosf.html>
+
+Andrew Hopkins
+--=20
+A.Prof. Andrew Hopkins, Head of AAT Science
+Australian Astronomical Observatory
+P.O. Box 296, Epping
+NSW 1710, Australia
+ph: +61 2 9372 4849  fax: +61 2 9372 4880
+
+==============================================================================
+
+> Date: Sat, 04 Feb 2012 15:05:20 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Cc: kinoshita@astro.ncu.edu.tw, jasonwu@ncu.edu.tw, chyuan@astro.ncu.edu.tw
+> Subject: NCUcam-1 training observation
+> From: KINOSHITA Daisuke <muhsia.dafu@gmail.com>
+
+Please post following announcement on NCUcam-1 training course to TAN
+network.
+
+thank you,
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+=-----------------------------------------------------------------------------
+
+  *** Training Course on NCUcam-1 Operation and Data Reduction ***
+
+This is an announcement for the training course on NCUcam-1 operation
+and data reduction. NCUcam-1 is a new CCD imager that Institute of
+Astronomy at National Central University has developed. NCUcam-1 is
+equipeed with a thick fully depleted CCD and offers a superb
+sensitivity at longer wavelength. It is now open for the astronomical
+community in Taiwan as one of open-use instruments for Lulin One-meter
+Telescope. The main purpose of the training course arranged this time
+is to provide an opportunity for potential users actually to operate
+the imager and obtain some data to deal with. For those who is
+planning an observation using NCUcam-1 is highly encouraged to join
+this program.
+
+The training course consists of 3 parts: (1) 2-hr lecture at NCU main
+campus, (2) training observation at Lulin Observatory, and (3)
+hands-on lecture on data reduction at Tongpu. Participants are
+expected to join all the 3 parts of this program.
+
+Schedule:
+
+  20/Feb/2012:    deadline of application submission
+  25/Feb/2012:    announcement of participants selection
+  02/Mar/2012:    2-hr lecture at NCU
+  10-12/Mar/2012: 2-night observation at Lulin
+  12-13/Mar/2012: hands-on lecture on data reduction
+
+The lecture at NCU provides the basic concept and design of
+NCUcam-1. After the lecture, participants form a group and start to
+plan the observation. The observing time of Lulin One-meter Telescope
+on 10 and 11 March 2012 is secured for this program. Participants
+carry out the observations of photometric standard stars and a few
+targets of their research topics. Calibration frames are obtained as
+well. After the observation, participants will reduced the data at the
+hands-on lecture. Basic CCD data reduction, astrometric calibration,
+and simple aperture photometry are planned for this hands-on lecture.
+
+For more information on NCUcam-1, please check following presentation
+slide which was used for the Annual Meeting of Physics Society of
+Taiwan in January 2012.
+
+  http://s3b.astro.ncu.edu.tw/nc1/ncucam1_phys2012.pdf
+
+For those who is willing to participate the this program, please fill
+in the form below and submit it to <ncucam1@s3b.astro.ncu.edu.tw> by
+23:59 on 20 February 2012.
+
+------------ Application Form for NCUcam-1 Training Observation ------------
+
+Name: 
+
+Affiliation:
+
+E-mail: 
+
+I am a(n) (1) undergraduate student, (2) graduate student, 
+          (3) postdoc, (4) faculty, (5) technician / engineer,
+          (6) others
+
+I will join 2-hr lecture at NCU on 02/Mar:    Yes    No
+
+I will join training observation at Lulin:    Yes    No
+
+I will join data reduction hands-on lecture:  Yes    No
+
+Brief description of your research topic:
+
+
+
+
+Urgency of using NCUcam-1 for your research:
+
+
+
+
+----------------------------------------------------------------------------
+
+Note:
+
+- Due to the limited lodging space at Lulin Observatory, the number
+  of participants is limited to 10 at the maximum.
+- Participants need to find the financial support by themselves for
+  their transportation, accommodation and other expenses for this
+  program.
+- Participants need to arrange their own transportation to/from Lulin
+  Observatory. Participants also need to arrange their own
+  accommodation at Tongpu for joining the hands-on lecture.
+- Participants are expected to bring their own laptop computer with
+  IRAF/SAOimage DS9/WCSTools/Source extractor installed.
+- For the inquiry on the NCUcam-1 training course, please send a
+  message to <ncucam1@s3b.astro.ncu.edu.tw>.
+
+Organizers:
+
+Kinoshita Daisuke
+Wu Ching-Huang
+Chen Tse-Chuan
+
+==============================================================================
+
+> Date: Sun, 5 Feb 2012 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Olivier Le Fevre (Laboratoire D'Astrophysique de Marseille)
+Topic:        Next Generation Observational Facilities and Galaxy Surveys  (this talk is part of the lecture of the high-z school)
+Time:        2/10 (Friday) 13:15 - 14:45
+Place:        R1203
+Abstract:
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Upcoming Colloquium
+> Date: Mon, 6 Feb 2012 10:43:42 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) are:
+
+Title: Gamma-ray Burst Afterglows as Cosmic Probes
+Speaker: Dr. Hsiao-Wen Chen (University of Chicago)
+Date: 2012-02-10
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+
+Gamma-ray bursts are among the most energetic events in the universe. Many bursts are
+followed by extremely luminous optical afterglows that can serve as a sensitive probe of
+"dark", intervening baryonic matter in space. I will review recent progress in our
+understanding of interstellar medium and intergalactic matter in the distant universe,
+through observations of long-duration gamma-ray bursts. 
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201202101400.html
+
+------------------------------------------------------------------------------
+
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Mon, 6 Feb 2012 16:35:00 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, below is the information for upcoming colloquium at IANCU:
+
+Title: Lunar Internal Structure Estimated From Local Admittance Between Gravity and
+Topography
+Speaker:  Dr. Noriyuki Namiki (Deputy director of Planetary Exploration Research Center)
+Date:  2012-02-24
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+
+Gravity measurement by Kaguya main orbiter and subsatellite successfully achieved the
+first direct observation of the gravity field over the farside of the Moon, and enabled
+global gravity field modeling of the Moon. Three versions of the lunar global gravity
+filed model have been publicized at web site of SELENE Data Archive and a new version
+will be released soon. The new spherical harmonic model of the lunar gravity field,
+complete to degree and order 100, reveals a general agreement with a previous lunar
+gravity models on nearside. On farside, in contrast, the new gravity field model shows
+several circular signatures that correspond to topographic structures such as
+Moscoviense, Freundlich-Sharonov, Mendeleev, Hertzsprung, Korolev and Apollo basins.
+Those basins used to be identified as linear signatures in previous models. On the basis
+of new global gravity model, we classify lunar basins into Type I, Type II, and primary
+mascon basins.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201202241400.html
+
+-----------------------------------------------------------------------------
+
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
+> Subject: Re: Announcement on CFHT LP (2013A-2016B) call for proposal 
+> Date: Mon, 6 Feb 2012 19:16:53 +0800
+> To: astro@asiaa.sinica.edu.tw, riaa@asiaa.sinica.edu.tw
+
+Dear all,
+
+I got an additional information on the CFHT LP. Please follow the  
+following link for the information.
+
+Regards,
+  Youichi
+
+---
+
+CFHT Large Program Call [2013A-2016B]
+
+The Large Program Implementation Procedures are now available on the  
+Call web page:
+http://www.cfht.hawaii.edu/en/science/LP_13_16/
+
+Reminder: The deadline for proposal submission is 28 Feb 2012 - 23:59  
+UTC.
+
+---
+
+
+On 2011/12/27, at 22:11, Youichi Ohyama wrote:
+
+> Dear all,
+>
+> We are pleased to announce a call for proposal of CHFT Large  
+> Program (LP) for 2013A-2016B. Dead line for submission is February  
+> 28, 2012 at 23:59 UTC.
+>
+> http://www.cfht.hawaii.edu/en/science/LP_13_16/
+>
+> We encourage all of you to check the above call for proposal page  
+> carefully, but here I note some Taiwan-specific points.
+>
+> Since a LP requires at least 200 hours per program and our  
+> (Taiwan's) resources on CFHT is very limited (roughly 40 hours per  
+> semester, which should be shared also by all PI programs), Taiwan  
+> can not be a PI of a program in practice. However, this does not  
+> prevent us to participate in such programs as a smaller partner in  
+> a multi-agency (Canada, France as well as Brazil, China, and  
+> Taiwan) program. In such a multi-agency collaboration framework,  
+> you can ask CFHT Taiwan (CFHT-T) TAC to add some hours to enhance  
+> the entire LP program.
+>
+> Potential participants need to talk with major partners (either  
+> from Canada or France), discuss in detail how the entire project  
+> team is formed and how Taiwan participants join the team, and then  
+> figure out how many hours you request to the CFHT-T resources.  
+> Careful consideration is requited on how to share the  
+> responsibility, man power contribution to the project, etc., AND  
+> share the nights/hours.
+>
+> Such proposals will go to Large Program Agency Review Committee  
+> (LPARC), a dedicated evaluation committee for LPs, not to CFHT-T  
+> TAC, and all aspects of the proposal evaluation (science merit,  
+> experimental design, technical feasibility, human resources to  
+> conduct the large program, etc.) will be made there. Note, however,  
+> that CFHT-T TAC will also receive the proposal through the LPARC  
+> and will examine the use of Taiwan resources to the program. If the  
+> CFHT-T TAC finds that the program requires too much Taiwan  
+> resources with respect to expected contribution from Taiwan  
+> astronomers to the project or whatever that is judged not  
+> appropriate for the use of CFHT-T resources, we will send a comment  
+> to the LPARC and it will be seriously considered in the LPARC.
+>
+>
+> Here are some additional notes:
+>
+> Due to expected legacy nature of the LPs, we strongly encourage  
+> Taiwan astronomers to form some local group/team to join some multi- 
+> agency LP, not just join it as a single astronomer. This, upon  
+> successful formation of such a Taiwan group, may enhance  
+> justification to ask CFHT-T resources for the LP.
+>
+> Once we spend some hours to any LPs, hours allocatable for regular  
+> PI programs will be reduced by the same amount. Therefore the CFHT- 
+> T TAC will put some upper limit on allocatable hours for the LPs.
+>
+> If Taiwan participants of any LP programs submit yet another PI  
+> program to regular CFHT-T nights in semesters when the LP is  
+> running, the CFHT-T TAC may take this into account in the time  
+> allocation of such PI programs.
+>
+> Since we have not yet experienced any LP nights/hours allocations  
+> in the past, the CFHT-T TAC may need to consider additional issues  
+> in future for better and proper assignment of the LP nights/hours  
+> from CFHT-T resources.
+>
+>
+> Any questions on this issue should be sent to me  
+> (ohyama@asiaa.sinica.edu.tw) as a CFHT-T TAC chair.
+>
+> Best wishes,
+>  Youichi Ohyama
+>  CFHT-T TAC chair, ASIAA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

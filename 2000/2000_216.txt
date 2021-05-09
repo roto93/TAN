@@ -1,0 +1,112 @@
+From kyl@asiaa.sinica.edu.tw Sun Oct  8 22:27 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA10374
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 8 Oct 2000 22:26:51 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA01034
+	for <astro@asiaa.sinica.edu.tw>; Sun, 8 Oct 2000 22:31:52 +0800
+Date: Sun, 8 Oct 2000 22:21:10 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: GBT Early Science Proposals (fwd)
+Message-ID: <Pine.SOL.4.10.10010082220560.27815-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4215
+Status: R
+
+
+
+________________________________________________________________________
+K. Y. Lo
+
+Distinguished Researh Fellow &
+Director, 
+Academia Sinica	Institute of Astronomy & Astrophysics
+
+ASIAA					Phone: 886-2-2652-2020 ext 200
+P. O. Box 1-87, Nankang,		Fax:   886-2-2788-1106
+Taipei 11529, Taiwan, ROC               Website: www.asiaa.sinica.edu.tw
+________________________________________________________________________
+
+
+---------- Forwarded message ----------
+Date: Tue, 3 Oct 2000 10:18:49 -0400 (EDT)
+From: Dana Balser <dbalser@gb.nrao.edu>
+To: dbalser@sadira.gb.nrao.edu
+Subject: GBT Early Science Proposals
+
+
+[This email announces a call for proposals for early science on the new Green
+Bank Telescope.  To receive future email on the GBT, you will need to subscribe
+to the 'gbtnews' email exploder.  Instructions on joining gbtnews will be sent
+in a subsequent email.]
+
+
+Call for Early Science Proposals for the Green Bank Telescope.
+
+Deadline for receipt:  1 December 2000
+
+The Green Bank Telescope saw first light at 403 MHz on August 22.  Commissioning
+will begin soon at low frequencies (< 5 GHz).  The frequency limit will rise
+steadily, and should reach 50 GHz within one year, with plans for 100 GHz
+operation within two years.  The NRAO will schedule a small number of early
+science projects during the commissioning process as the observing capability
+and frequency range permit.  These projects should utilize one of the unique
+capabilities of the GBT -- unblocked optics, large fully-steerable aperture,
+active surface and metrology systems, wide bandwidth spectrometer, and Quiet
+Zone location -- and should offer the possibility of significant and unique
+scientific results.
+
+This special call for proposals is intended for experienced observers willing
+and able to perform observations in a commissioning environment.  Only a very
+few proposals will be chosen to illustrate each new capability, and
+participation in this call carries no implication of future priority or claim-
+staking for an idea, project, or area of research.  Further calls for proposals
+aimed at a wider audience will be made in 2001 as significant classes of
+capabilities are fully commissioned, and all proposals will be considered on an
+equal basis at that time. 
+
+This call offers the opportunity for very early results from the GBT, but
+carries with it a number of important conditions.  As the proposals will be
+executed at the earliest possible time during the commissioning process,
+observing systems will not be mature. The observations may require a lengthy
+on-site visit by the observing team, and will require a high degree of
+participation by the staff.  Observations are likely to be interspersed with
+commissioning tasks. 
+
+Proposals for this call may be for frequencies up to 50 GHz and may include
+spectroscopy, continuum, pulsar, and bi-static radar reception observations. 
+Unique VLBI proposals will be entertained and will be forwarded for
+consideration within the VLBA system at the appropriate deadline.  All proposals
+will be refereed by a peer-review panel, evaluated by a scheduling committee,
+and selected on the basis of appropriateness, feasibility, scientific merit, and
+experience of the observing team.  The proposals will be scheduled as the
+capability becomes available; thus, it may take up to one year before the
+early science queue is completed. 
+
+General information on the call for Early Science proposals may be found at
+	http://www.nrao.edu/GBT/proposals
+
+A description of the observing capabilities of the GBT and a proposal
+preparation guide may be found at
+
+	http://www.nrao.edu/GBT/proposals/short_guide.html
+
+All proposals must be submitted using the NRAO Proposal Submission Tool, which
+may be downloaded from
+
+	http://www.nrao.edu/GBT/proposals/tool.html
+
+The deadline for receipt of proposals is 1 December 2000, with the earliest
+possibility of scheduling in the first quarter of 2001.  Questions concerning
+the logistics of proposal submission and scheduling may be addressed to Carl
+Bignell (cbignell@nrao.edu), and scientific questions relating to GBT observing
+capabilities may be addressed to Ron Maddalena (rmaddale@nrao.edu). 
+
+						P. R. Jewell
+						J. J. Condon
+
+
+

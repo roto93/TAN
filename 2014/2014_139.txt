@@ -1,0 +1,203 @@
+============================================================================== 
+In this issue (Sep 06 - 11, 2014)
+
+1. ASIAA Colloquia/Seminars (Sep 15): Charles Ying-Tung Chen (ASIAA)
+                            (Sep 17): Wei-Ling Tseng (NTNU)
+                            (Sep 17): Chueh-Yi Chou (ASIAA)
+2. HSC-AGN face-to-face meeting: 1st circular (Dec 18-20)
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu, 11 Sep 2014 08:00:01 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Charles Ying-Tung Chen (ASIAA)
+Topic:         Solar System Science with HSC
+Time:         9/15 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Wei-Ling Tseng (NTNU)
+Topic:         Exploring Our Solar System with Mass Spectrometry
+Time:         9/17 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+I would like to introduce my research work, which focuses on exploring 1) the Saturnian system (Cassini mission), 2) Mercury’s exosphere (Bepi-Colombo mission) and 3) Earth’s upper atmosphere (AirCore). 
+
+1) The Saturnian system is immersed in the extended clouds of O2, H2O and their fragments like OH, O and H. Although water vapor ejected from Enceladus’ south pole is the dominant neutral source, photolysis and radiolysis of ices can release H2O, O2, and H2 from the icy ring particles and the icy satellites. In addition, Titan’s exosphere is another major source contributing neutral gas like H2 and H. Once ionized, these neutrals will be fed into the thermal plasma disk in the magnetosphere. Most of my work is focused on the simulations of the structures and compositions of the neutral clouds of different origins with a plasma chemistry model based on the latest measurements from the Cassini INMS (Ion and Neutral Mass Spectrometer), CAPS (Cassini Plasma Spectrometer) and MIMI (Magnetospheric Imaging Instrument) instruments.
+
+2) Strofio is a neutral mass spectrometer utilizing with electron-impact ionization, part of the SERENA neutral and ionizing particle suite onboard BepiColombo mission, to explore Mercury’s exosphere. Strofio can measure the in-situ composition of exosphere yielding the spatial distribution and temporal variability of neutral particles. The structure and composition of Mercury’s exosphere is bounded to its surface interaction (i.e., ion sputtering and photo desorption) and magnetospheric processes (i.e., plasma precipitation profile on surface). Leading by Dr. S. Livi (PI of Strofio) in SwRI, we vary the ion extraction efficiency with voltage change inside the ionization source of Strofio which can help us retrieve the energy distribution of parent molecules and their fragments. 
+
+3) AirCore (developed by Dr. P. Tans in NOAA) is an air collection device that has been used for measuring the vertical profiles of trace gas, such as CO2 and CH4, in Earth’s atmosphere. Molecular diffusion in the tube is slow enough that the collected gas remains ordered, and AirCore can provide a continuous vertical profile of the high-altitude measurements. In SwRI, Dr. M. Mandt’s research group has designed a sample-collection package of the AirCore for high altitude measurements on a variety of platforms (i.e., balloons and sounding rockets etc.), focusing on the possible mass fractionation in the tube due to low air pressure and flight velocity.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chueh-Yi Chou (ASIAA)
+Topic:         Metrology Camera System of Prime Focus Spectrograph for Subaru Telescope
+Time:         9/17 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+==============================================================================
+
+> Subject: HSC-AGN face-to-face meeting: 1st circular
+> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
+> Date: Thu, 11 Sep 2014 16:52:53 +0800
+> To: Network Taiwan Astronomy <astro@asiaa.sinica.edu.tw>,
+>        riaa@asiaa.sinica.edu.tw, sumire@asiaa.sinica.edu.tw
+
+Dear TAN/riaa@ASIAA/sumire@ASIAA colleagues,
+
+Please find below the "First Circular: Evolution of SMBHs with HSC: First results from initial dataset" for the meeting to be held at ASIAA on18th - 20th December 2014.
+
+You can also visit http://events.asiaa.sinica.edu.tw/meeting/20141218/, as well as http://phys.koshigaya.bunkyo.ac.jp/HSC-SMBH2014/, for more information.
+
+The web says "by invitation only", but all of you (Taiwan-based astronomers/students) are invited.
+
+Regards,
+Youichi
+
+> Dear colleagues,
+> 
+> Now we are planning to have the following face-to-face meeting
+> at ASIAA in December, just after the PFS collaboration meeting.
+> This is not only for AGN researchers but also for researchers in
+> closely related fields including galaxy evolution, large-scale structure,
+> IGM physics, and so on. Please take a look at this circular.
+> 
+> Thanks,
+> Tohru Nagao
+> 
+> 
+> 
+> 
+> First Circular:
+> Evolution of SMBHs with HSC: First results from initial dataset
+> 
+> ==============================
+> 18th - 20th December 2014
+> Institute of Astronomy and Astrophysics, Academia Sinica (ASIAA),
+> Taipei, Taiwan
+> http://phys.koshigaya.bunkyo.ac.jp/HSC-SMBH2014/
+> ==============================
+> 
+> 
+> The formation and evolution of supermassive black holes (SMBHs) are
+> among the most exciting and challenging topics in astronomy and
+> astrophysics. New wide-field deep surveys are required to tackle
+> these issues, and Subaru's new wide-field camera (Hyper Suprime-Cam;
+> HSC) will bring promising opportunities to make breakthroughs in
+> this research field. The HSC-SSP (Subaru Strategic Program) survey
+> obtained its first data in March 2014, and is now delivering
+> outstanding data. In this workshop, we will have intensive
+> face-to-face discussion among HSC collaboration astronomers (from
+> Taiwan, Japan, and Princeton) about scientific opportunities from
+> the first-year data. Note that this workshop is a closed meeting,
+> only for the HSC collaborators from Taiwan, Japan, and Princeton.
+> 
+> We will focus on doing science and writing papers based on the
+> first-year data of the HSC-SSP survey. Specifically we will focus
+> on the following topics:
+>  -- Current status of the HSC hardware
+>  -- HSC reduction pipeline, database, and the internal data release
+>  -- Outcomes of the S14A and S14B runs
+>  -- Quasar selection methods
+>  -- AGN photometric redshifts
+>  -- Statistics of quasars and SMBHs from the HSC data
+>  -- Co-evolution studies of SMBHs and galaxies with the HSC data
+>  -- Synergies of HSC and multi-wavelength data for SMBH studies
+>  -- Strategies for spectroscopic follow-up and the relation with PFS
+>  -- Theoretical preparations for HSC quasar surveys
+>  -- Discussion for publications and the S15A runs
+>  -- Action items for the HSC-SSP 2nd year and beyond that
+> 
+> The meeting will take place at Academia Sinica, Institute of Astronomy
+> and Astrophysics (ASIAA). The institute is located in the city of
+> Taipei, the capital of Taiwan, on the grounds of National Taiwan
+> University (*not* in the Academia Sinica Campus near Nan-Kang). The
+> weather in Taipei is typically fine and warm in December, and visitors
+> can enjoy nearby night markets (the nearest one is within walking
+> distance), historical places within the city, excellent museums, one
+> of the tallest skyscrapers in the world, and superb cuisine, all
+> accessible with a very convenient subway system.
+> 
+> Details of registration, abstract submission, travel info, and so on
+> will be announced in the second circular, which will be distributed
+> in the late September. Though the total available budget is limited,
+> we will be able to support travel expenses for some of the
+> participants. More details on this travel support will be announced
+> in the second circular. If you have any questions, please feel free
+> to contact us (see below).
+> 
+> We plan to arrange your hotel reservations after gathering
+> information about your stay, which will be announced in the 2nd
+> circular. We can also help with visas, and therefore please let the
+> LOC know as soon as possible if you need the travel visa.
+> 
+> We are looking forward to seeing you in Taipei!
+> 
+> 
+> 
+> Important Dates:
+>  -- 10 Sep. 2014: First circular distribution
+>  -- 23 Sep. 2014: Second circular distribution
+>  -- 09 Oct. 2014: Registration deadline
+>  -- 23 Oct. 2014: Third circular distribution
+>  -- 21 Nov. 2014: Deadline for the abstract and travel support request
+>  -- 09 Dec. 2014: Final circular distribution
+>  -- 18-20 Dec. 2014: This workshop
+> 
+> SOC & LOC:
+>  Masayuki Akiyama (Tohoku)
+>  Nobunari Kashikawa (NAOJ)
+>  Tomoki Morokuma (Tokyo)
+>  Tohru Nagao (Ehime)
+>  Masahiro Nagashima (Bunkyo)
+>  Youichi Ohyama (ASIAA)
+>  Michael Strauss (Princeton)
+>  Keiichi Wada (Kagoshima)
+> 
+> Contact:
+>  Tohru Nagao (Ehime): tohru@cosmos.ehime-u.ac.jp
+> 
+> 
+> 
+> Tohru Nagao
+> Research Center for Space and Cosmic Evolution (RCSCE)
+> Ehime University
+> Bunkyo-cho 2-5, Matsuyama, Ehime 790-8577, Japan
+> tel: +81-89-927-9965    /    fax: +81-89-927-8430
+> mail: tohru@cosmos.phys.sci.ehime-u.ac.jp
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

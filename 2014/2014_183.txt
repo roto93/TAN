@@ -1,0 +1,96 @@
+> Date: Thu, 13 Nov 2014 15:42:36 -1000
+> Subject: open letter to potential CFHT users
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear Prof Kuan,
+
+Could you help to forward the following letter to TAN?
+
+Cheers,
+Wei-Hao
+
+
+
+
+Dear CFHT-T PIs and OIR Community,
+
+I am writing this message on behalf of the CFHT-T time allocation committee.
+
+The 2015A semester has seen a high demand for CFHT observing time from
+the Taiwanese community, with an oversubscription rate of nearly 4.
+While it is not possible to fully satisfy everbody's needs, the CFHT-T
+TAC had worked hard to give most of the programs at least some
+observing time to obtain data that can be used to further develop
+the science cases for better future proposals.  With the great help
+from external referees, the TAC will also provide comprehensive reports
+to PIs to help them improve their proposals.
+
+During the review processes, the TAC identified several common
+problems in our CFHT proposals.  We list them here so the PIs can
+avoid them in the future.
+
+1. No justification or no mention of sample sizes.
+How many targets/candidates do you expect to observe/discover?
+Why do you need this many?  Lack of justification of these issues usually
+leads to reduced time allocation or even the rejection of the proposal.
+
+2. No justification of sensitivity.  What's the limiting magnitude
+(AB or Vega mag?) or flux you need to reach?  At how many sigma?
+How is this sensitivity requirement connected to your science goals?
+
+3. Unclear sensitivity estimate.  Please state the required seeing
+condition, airmass, sky background, spectral resolution, integration
+time, and all other important instrumental setup parameters used for your
+sensitivity estimate.  Without these details, the CFHT technical
+reviewers may not be able to reproduce the required observing time estimate,
+and this will reduce the credibility of the proposal.  From semester 15B,
+CFHT is very likely to require attachments of ETC screenshots in the
+proposal form, which should help a lot.  In case this does not happen,
+please provide sufficient details about the time estimates in the
+technical justification section.
+
+4. Inaccurate estimate of overheads. For most MegaCam and WIRCam
+observations, CFHT only charges the readout overheads. They are
+10 sec per exposure for WIRCam and 40 sec per exposure for
+MegaCam.  CFHT does NOT charge filter exchange time to PIs.
+Only when nodding is used with WIRCam, there is an additional 60-sec
+overhead charged to PIs each time when the telescope moves to
+and from the offset sky position.  With Espadons, the overheads
+charged to the PI are 40, 60, and 85 sec, for fast, normal, and slow
+readout modes, respectively.  These include both the readout and
+operational overheads.  Therefore, for all the above observations,
+PIs need to figure out how many exposures are needed by taking into
+account the total integration time, and the integration time for
+each single exposure (which strongly depends on instrumental setup,
+filter band, and sky condition).
+
+5. Inappropriate proposal length.  CFHT only has simple page limits
+(3 page science plus 2 page technique), with no further requirements
+on font size and format.  However, PIs should not fill the pages
+will small text and crowded figures.  This often confuses/irritates
+readers.  On the other hand, please also make good use of the pages to
+provide sufficient scientific arguments and technical details.  Short
+proposals are easy to read, but lack of necessary details also irritates
+readers especially when there is still plenty of available space.
+Please use your own judgement on what length will be appropriate.
+
+Finally, the TAC requires PIs who resubmit previous proposals to
+revise their proposals addressing the referee reports as well as comments
+from the TAC, and to include a brief progress update or preliminary
+results if possible. It is hard to predict the oversubscription rates
+in future semesters, and only the quality of a proposal can guarantee
+a success in obtaining observing time.
+
+Please feel free to contac the TAC should you have questions about the
+review process or about how to improve your proposal.
+
+Sincerely yours,
+Wei-Hao Wang
+
+Chairman, Taiwanese TAC for CFHT
+Institute of Astronomy and Astrophysics, Academia Sinica
+
+==============================================================================
+

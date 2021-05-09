@@ -1,0 +1,88 @@
+From takakuwa@asiaa.sinica.edu.tw Thu Jun 18 17:24:48 2009
+Date: Thu, 18 Jun 2009 18:27:31 +0900
+From: "[ISO-2022-JP] ¹â·¬ ÈËµ×" <takakuwa@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: astro@asiaa.sinica.edu.tw, morita@nro.nao.ac.jp
+Subject: ADASS 2009
+
+ Dear All,
+
+Following announcement is for ADASS 2009 held in Sapporo, Japan,
+in October.  This conference is held every year and
+many astronomers or developers who are working on software
+project or data achive science attnend this meeting.
+
+ Sincerely,
+ Shigehisa Takakuwa
+
+-------- Original Message --------
+Subject: [Adass-announce] Registration for ADASS 2009 is open
+Date: Wed, 27 May 2009 12:55:41 -0400 (EDT)
+From: Arnold Rots <arots@head.cfa.harvard.edu>
+To: adass-announce@adass.org
+
+Announcement of ADASS 2009 SAPPORO
+
+We are pleased to announce the opening of registration for the
+19th annual conference on Astronomical Data Analysis Software
+and Systems (ADASS).  The conference will be held in Sapporo,
+Japan at the Renaissance Sapporo Hotel during 4-8 October
+2009.
+
+The ADASS conference is held each year at a different hosting
+astronomical institution. The conference provides a forum for
+scientists and programmers concerned with algorithms, software
+and software systems employed in the acquisition, reduction,
+analysis, and dissemination of astronomical data.  The program
+includes invited talks, contributed papers, display sessions,
+tutorials, and computer demonstrations, as well as special
+interest ("Birds of a Feather" or BOF) meetings.  These
+activities aim to encourage communication between software
+specialists, scientists, and also to stimulate further development
+of astronomical software and systems.  We encourage you to
+participate in this exciting conference by submitting an oral or
+poster abstract, a demonstration, or a BoF proposal.
+
+Key topics for this year's conference include but are not
+limited to:
+
+* Time domain astronomy
+* "Most dangerous" process, design & implementation errors
+* Virtual Astronomical Observatory (VAO) and the Virtual Obsevatory
+* Reusable archive technologies
+* Commonly available development environments & tools
+
+As this is the first ADASS in Asia, we encourage proposals that
+deal with topics of special interest to Asia.
+
+Details on the submission process can be found on the Conference
+website at http://www.adass.org/.
+
+Important Dates:
+-----------------
+Registration/Abstract Submission Opens: May 27, 2009
+Deadline for Oral and Poster Abstract Submission: July 15, 2009
+Deadline for Demo Submission: July 15, 2009
+End of Early (discounted) Registration: July 31, 2009
+Deadline for BoF Submission: August 31, 2009
+
+The Conference website will be updated regularly during the next
+few months to include information about the program, the current
+list of attendees, and the submitted abstracts.  Please review
+the calendar of important events and deadlines.
+
+We look forward to seeing you in Sapporo!
+
+Sincerely,
+
+Yoshihiko Mizumoto (Astronomical Data Center, NAOJ)
+Chair, Local Organizing Committee
+LOC email: info@adass2009.jp
+
+Arnold Rots
+Chair, Program Organizing Committee
+_______________________________________________
+Adass-announce mailing list
+Adass-announce@adass.org
+http://adass.org/mailman/listinfo/adass-announce
+

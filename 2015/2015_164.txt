@@ -1,0 +1,40 @@
+> Date: Thu, 17 Sep 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Cynthia Chiang (University of KwaZulu‑Natal)
+Topic:          Searching for the Echoes of Inflation with SPIDER
+Time:           9/23 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The cosmic microwave background (CMB) is a powerful tool for cosmology, encoding a wealth of information about the universe's history and structure.  In particular, precision CMB polarimetry has long held the promise of revealing the physics of inflation through a minuscule "B-mode" imprint that is imparted by primordial gravitational waves.  I will discuss our current knowledge of CMB polarization, and I will describe a new instrument, SPIDER, that aims to characterize the inflationary B-mode signal with high sensitivity and fidelity.  SPIDER is a balloon-borne telescope that launched from McMurdo Station, Antarctica on January 1, 2015, and successfully observed for 16 days.  I will discuss the preliminary in-flight performance and prospects for the science analysis.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Jonathan Sievers (University of KwaZulu‑Natal)
+Topic:          HIRAX and the Search for Fast Radio Bursts
+Time:           9/24 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The Hydrogen Intensity and Real-time Analysis eXperiment (HIRAX) is a
+proposed array of 1024 cheap 6m dishes that has received preliminary
+approval from the South African NRF.  The main goals of HIRAX include
+measurements of Baryon Acoustic Oscillations at redshift 0.8-2.5,
+searching for new pulsars and radio transients, and discovery of new
+neutral hydrogen absorbers.  Preparations for HIRAX include the
+development of a new pipeline to search for Fast Radio Bursts (FRBs),
+which are some of the most enigmatic things in the sky.  They burst
+incredibly brightly (~10 Jy) for a millisecond, never to be seen
+again, and their origin and even distance (and hence energy scale) is
+completely unknown.  We have run the trial pipeline on 650 hours of
+suitable GBT data looking for FRBs.  We present an overview of HIRAX
+and preliminary results from the FRB search.
+
+==============================================================================

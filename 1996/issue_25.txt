@@ -1,0 +1,99 @@
+From minho@biaa19 Sat Sep 14 22:27 CST 1996
+Return-Path: <minho@biaa19>
+Received: from biaa19 (biaa19.biaa.sinica.edu.tw) by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA04160; Sat, 14 Sep 1996 22:26:19 +0800
+Received: by biaa19 (5.x/SMI-SVR4)
+	id AA21021; Sat, 14 Sep 1996 22:27:37 +0800
+Date: Sat, 14 Sep 1996 22:27:37 +0800
+From: minho@biaa19 (Choi MinHo)
+Message-Id: <9609141427.AA21021@biaa19>
+To: astro@biaa17
+Subject: Radio Freq. Management for Astronomy
+Content-Type: text
+Content-Length: 3366
+Status: R
+
+Dear fellow astronomers in Taiwan,
+
+In the last IAU Regional Meeting held in Pusan, Korea, there was a small
+session for the 'Radio Frequency Allocation in Asian-Pacific Region'.
+In this meeting, we discussed about how to keep the sky radio-quiet
+so that radio astronomers can keep working in the future.
+I think this issue is of interest not only for radio astronomers
+but also astronomers in other fields, so I will make a brief summary
+of the meeting.
+
+* Radio Frequency Allocation
+   - Why:      for safety, for better propagation,
+               to prevent crowding, and to prevent interference.
+   - Problems: national sovereignty - radio signal does not stop at the border.
+               economic value - industry people want it to make money.
+   - Users:    AM, FM, TV (VHF, UHF, satellite, ...), cellular phone, pager,
+               radar, satellite navigation system, etc.
+               adn radio astronomers (they only listen).
+
+* Problems to Radio Astronomy
+   Serious problems to radio astronomy seems to come from global broadcasting
+   systems such as navigation systems. For example:
+   - For long wavelength astronomy, there is a Soviet satellite
+     broadcasting signals at around 1600 MHz, which is very close to OH band.
+     After this satellite started operation, OH observations became very
+     difficult.
+   - In the near future, Motorolar plans to launch 66 satellites
+     broadcasting at around 1630 MHz. It will be very difficult to avoid
+     66 satellites buzzing around the sky!
+   - Short wavelength astronomy is not safe either, there are plans
+     of satellites using frequency of about 100 GHz.
+
+* Management Organizations
+   - International level: ITU (International Telecommunication Union)
+   - Regional level: CEPT, etc.
+   - Frequency allocation table is managed in 3 regions over the world:
+        N-S America, Europe-Africa, and Asia-Pacific.
+   - In the global level, Radio astronomer's interest may be represented
+     by IUCAF (Inter-Union Committee on Allocation of Frequency).
+     In the regional level, N-S America and Europe-Africa regions have
+     their own organizations working to protect frequency bands important
+     to radio astronomy, but we, Asia-Pacific region, do not.
+   - So we would like to know if astronomers in this region want to make one.
+     For now, let's call this as PACRAF (Pacific-Asia Committee on Radio
+     Astronomy Frequency).
+     Questions we want to ask astronomers:
+        + Is this a good idea?
+        + How to make it?
+        + When/how to meet?
+        + How to give input to national governments?
+        + Should we ask support from bigger organizations such as APEC?
+
+* What can we do in the meanwhile?
+   - Tell other astronomers about the importance of protecting radio frequency.
+   - Tell scientists in other fields. They are relatively easier to persuade.
+   - Tell other people (including people in commercial industry)
+     that we are doing something important though we don't make money
+     out of radio frequency spectrum.
+
+* If you have suggestions/comments/questions/ideas, send it to
+     Dr. R. Marcus Price at CSIRO, ATNF, Parkes Observatory, Australia:
+                            rmprice@atnf.csiro.au
+  He have a mailing list of people concerned about this issue.
+
+Best wishes.
+           - Minho Choi
+< http://biaa1.biaa.sinica.edu.tw/minho/ >
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+Please pass the words of the existence of TAN to people who you think should 
+be included.
+
+To send a message to entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		      (or +02-789-9818 ext 224, fax +02-788-1106)
+To check archives:		<http://biaa1.biaa.sinica.edu.tw:80/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+----------------------------------------------------------------------------
+

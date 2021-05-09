@@ -1,0 +1,58 @@
+> Date: Sun, 18 Nov 2012 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>    web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Martin Kilbinger (CEA)
+Topic:        Constraints on dark energy and modified gravity models from CFHTLenS
+weak lensing
+Time:        11/23 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I present results from weak gravitational lensing by the large-scale structure
+from CFHTLenS (Canada-France-Hawaii Lensing Survey). Using multi-band optical
+data over 155 square degrees, we measure the weak lensing correlation of
+high-redshift galaxies from small out to very large, linear scales. We
+reconstruct the largest maps of dark matter ever made, and infer information on
+cosmological parameters for flat and curved Lambda and dark-energy CDM models,
+and modified gravity (the latter together with redshift-space distortions from
+Wiggle-Z). In addition, by comparing the lensing observations with the light
+distribution from galaxies, we measure the relation (bias and
+cross-correlation) between total and luminous matter.
+
+I will give an introduction to weak gravitational lensing and its use
+in cosmology. I will present an overview over the CFHTLenS lensing analysis and
+the likelihood and sampling methods (Population Monte Carlo, PMC). These
+results will be put in a larger context of large on-going and planned ground-
+and space-based galaxy surveys such as DES and Euclid.
+
+See www.cfhtlens.org for links to the released data and more details.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Jinhua He (Yunnan Astronomical Observatory)
+Topic:        1.1-mm spectral line survey of EGOs -- similarity and randomness
+Time:        11/20 (Tuesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+We have performed a 1.1-mm spectral line survey to a sample of 89 GLIMPSE
+extended green objects (EGOs) by using the SMT 10m. The survey covers
+molecular line tracers of dense gas, hot gas and shocks. The indications
+of the results will be discussed. Further combining this with our previous
+observation of low density tracers, isotopic CO 1-0 lines toward the same
+sample of EGOs, I will discuss the ubiquitous log-linear line luminosity
+correlations among all the tracer lines and the data scatter.
+I will try conclude that most of the EGO associated molecular clouds have
+similarity in thermal and density structures and shock properties.
+I will also try to demonstrate that the randomness in the cloud structure
+and turbulence velocity field increases over larger ranges of cloud substructure
+size scales or whole-cloud size scales.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

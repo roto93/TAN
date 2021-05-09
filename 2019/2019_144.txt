@@ -1,0 +1,37 @@
+==============================================================================
+
+> Date: Thu, 5 Sep 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Haifeng Yang (Tsinghua University)
+Topic:          Origins of (sub)millimeter disk polarization
+Time:           9/11 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Polarized (sub)millimeter dust thermal emission has been established as an
+important tool to probe magnetic fields. Its application to the protoplanetary
+disk, however, hasn't been successful. The first resolved polarization map in
+a classical T Tauri system, HL Tau, yields a uniform magnetic fields,
+which is a rather unphysical configuration. We were then motivated to search for
+alternatives and find that the scattering of dust thermal emission by dust
+grains themselves can naturally produce the observed uniform pattern.
+I will first review how scattering-induced polarization works and why it has the
+potential to study the grain growth, as well as to probe dust settling, which is
+hard to do otherwise. I will then focus on the best studied system, the HL Tau
+system. This shows a transition from scattering to a complete different picture
+as we move from ALMA Band 7 (0.87 mm) to ALMA Band 3 (3 mm). The azimuthal
+pattern at Band 3 was initially proposed to come from a third mechanism,
+radiative alignment, which is different from either scattering or magnetic
+alignment. I will argue that this explanation fails to explain some of the
+important features and cannot be the whole story. At the end, I will discuss
+the growing tension between scattering-induced polarization and beta-index
+method in probing grain sizes.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

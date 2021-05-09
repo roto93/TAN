@@ -1,0 +1,131 @@
+==============================================================================
+
+In this issue (Apr 04 - 07, 2017)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Apr 12): Hayato Shimabukuro (Obs de Paris)
+                                      (Apr 12): Chiang, Po-Han (ASIAA)
+2. Supplemental Call for Proposals to use the 7-m Array in Cycle 4
+3. NTHU Astronomy Colloquium/Seminar Series (Apr 14): Sheng-Feng Chung (NTHU)
+                                           Pattana Chintarungruangchai (NTHU)
+
+==============================================================================
+
+> Date: Thu, 6 Apr 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Hayato Shimabukuro (Observatoire de Paris)
+Topic:          21cm cosmology meets artificial neural networks
+Time:           4/12 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The 21 cm signal from the Epoch of Reionization should be observed within the next decade. To extract from the observed data constraints on the parameters describing the underlying astrophysical processes, inversion methods must be developed. Here we test possible inversion method for EoR parameter reconstruction: artificial neural networks (ANN). We find that the quality of the parameter reconstruction depends on the sensitivity of the power spectrum to the different parameters at a given redshift, that including thermal noise and sample variance decreases the quality of the reconstruction and that using the power spectrum at several redshifts as an input to the ANN improves the quality of the reconstruction.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chiang, Po-Han (ASIAA)
+Topic:
+Time:           4/12 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Supplemental Call for Proposals to use the 7-m Array in Cycle 4
+> Date: Thu, 6 Apr 2017 15:04:43 +0800
+> Cc: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+
+Yu-Nung
+------------------------------------------------------------------
+
+https://almascience.nao.ac.jp/news/supplemental-call-for-proposals-to-use-the-7-m-array-in-cycle-4
+
+Supplemental Call for Proposals to use the 7-m Array in Cycle 4
+
+The ALMA Director announces that the Joint ALMA Observatory (JAO) will accept
+observing proposals that request to use the 7-m Array in the remainder
+of Cycle 4, which ends on September 30, 2017. This proposal call enables
+the community to propose projects that will fill in undersubscribed
+regions of the observing queue for the 7-m Array. Up to 800 hours on the
+7-m Array will be allocated through this opportunity.
+
+Proposals must be compatible with the capabilities listed in the ALMA Cycle 4
+Call for Proposals, with the following restrictions:
+
+Proposals for this special call will be accepted only for the 7-m Array in stand-alone mode.
+Proposals that request the Total Power (TP) Array or the 12-m Array will be declined.
+A proposal may request up to 50 hours of observing time on the 7-m Array. We encourage
+large time requests within this limit.
+Proposals will be accepted in Bands 3, 4, 6, and 7 for any LST, except between LST of 15 h
+and 20 h in Bands 6 and 7. The largest amount of time available in any
+band is at an LST of > 22 h and < 13 h.
+Only proposals that request standard modes are permitted, as defined in the
+ALMA Cycle 4 Proposer・s Guide.
+
+
+Proposals can be submitted starting April 21, 2017 and will be reviewed as they are
+received. Instructions on how to submit a proposal through the ALMA
+Observing Tool (OT) will be made available on the ALMA Science Portal on
+April 21. Proposals can be submitted at any time up until the end of
+Cycle 4 or until the available time has been fully allocated. An
+announcement will be posted on the ALMA Science Portal when this
+opportunity closes.
+
+==============================================================================
+
+> Date: Fri, 7 Apr 2017 18:13:04 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> CC: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 14th April 2017 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker A: Sheng-Feng Chung (NTHU)
+
+Title: High-frequency quasi-periodic oscillations
+       in black hole binaries
+
+================================================
+Speaker B: Pattana Chintarungruangchai (NTHU)
+
+Title: The Hot Exo-Neptune GJ3470b
+
+               All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

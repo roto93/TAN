@@ -1,0 +1,340 @@
+From kyl@biaa.sinica.edu.tw Wed Dec  3 11:24 CST 1997
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA23271; Wed, 3 Dec 1997 11:22:15 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id LAA26193; Wed, 3 Dec 1997 11:21:26 +0800
+Date: Wed, 3 Dec 1997 11:21:26 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: IAU Symp. 190 on the Mgellanic Clouds - First Announcement (fwd)
+Message-Id: <Pine.GSO.3.96.971203112114.25701F-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 12753
+
+
+
+---------- Forwarded message ----------
+Date: Mon, 24 Nov 1997 23:16:48 -0600 (CST)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: IAU Symp. 190 on the Mgellanic Clouds - First Announcement
+Resent-Date: Mon, 24 Nov 1997 23:17:04 -0600 (CST)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+
+
+                     IAU SYMPOSIUM 190
+
+             NEW VIEWS OF THE MAGELLANIC CLOUDS
+
+             Victoria, Canada; 13 - 17 July 1998
+
+
+                     First Announcement
+
+
+This first announcement is being sent to the subscribers of Magellanic
+Clouds Newsletter:  please forward it to other astronomers who might 
+be interested in this symposium.
+
+The meeting will be held in Victoria, the beautiful capital of British
+Columbia, on the campus of the University of Victoria, and is
+co-sponsored by the IAU, the National Research Council (Canada),
+the University of Victoria and the Canadian Institute of Theoretical
+Astrophysics (CITA).
+
+Further information on this symposium can be found at the WWW URL:
+http://cadcwww.hia.nrc.ca/iau190/iau190.html
+
+Please note that the SOC will use the responses given to this First
+Announcement to choose many of the speakers.  If you are interested 
+in attending this conference and giving a talk, please fill out and
+return promptly the form below or on the above Web page.
+
+
+Content of This Announcement
+============================
+
+I.    Scientific Rationale
+II.   Outline of Scientific Program
+III.  Scientific and Local Organizing Committees
+IV.   Venue
+V.    Visa and Travel
+VI.   Funding
+VII.  Tentative Timetable
+VIII. Indication of Interest Form
+
+
+I. Scientific Rationale
+=======================
+
+The Magellanic Clouds (MCs) provide an excellent laboratory to study
+astrophysical processes because of their proximity, nearly face-on
+viewing angle, and small internal and foreground extinction.  They are
+the only galaxies for which it is possible to observe individual stars
+and interstellar structures in great detail for the entire system.
+
+The last IAU Symposium on the MCs was held in Sydney, Australia, in
+1990.  Since that meeting significant advances have been made in many
+areas as a result of new instrumentation, such as the Hubble Space
+Telescope, the ROSAT and ASCA X-ray satellites, the UV Imaging
+Telescope and ORFEUS-Spas shuttle missions, the IR Space Observatory,
+the Australia Telescope Compact Array, the Swedish-ESO Submillimeter
+Telescope, and large-format CCD and IR array detectors at major
+southern observatories.
+
+These new instruments have made possible large-scale surveys of
+different phases of the ISM and of the stars in the MCs.  Examples
+include the ROSAT surveys of the hot (10^6 K) ISM, the Curtis Schmidt
+emission-line survey of the warm (10^4 K) ISM, the ATCA HI survey of
+the neutral atomic ISM, the MACHO and EROS surveys of variable stars,
+and the Scanning-CCD broad-band survey of stars.
+
+These new instruments provide us with an opportunity to probe 
+physical parameters/properties that were previously inaccessible.  
+Consequently, the scientific frontier has been pushed to an 
+unprecedented realm.
+
+For the ISM, the ROSAT and ASCA satellites enable the determination 
+of temperatures and abundances of the hot (10^6-10^7 K) ISM, HST UV 
+spectroscopy shows the existence and physical conditions of 10^5 K 
+gas, and ATCA reveals the HI distribution at 1' resolution.  It is 
+now possible not only to study the physical conditions of individual 
+structures, such as SNRs and supershells, but also to investigate 
+comprehensively the multi-phase structure and evolution of the ISM 
+over the entire galaxy.
+
+For stars, the HST allows stellar populations to be studied with
+higher spatial resolution so that the basic cluster characteristics
+such as age, metallicity, and the IMF can be deduced with greater
+accuracy.  With the large format detectors on ground-based telescopes,
+studies involving millions of field stars have allowed the star
+formation histories of the Clouds to be delineated in much greater
+detail.  Recent space-based and ground-based high-resolution
+spectroscopic studies of stars have revealed new insights about their
+fundamental properties, mass loss, winds, and chemical evolution.
+These findings supplement the improved grids of stellar evolutionary
+models and model atmospheres that became available in the past years.
+
+New views of the MCs are beginning to emerge from these recent
+observations and theories.  It is thus an opportune time to hold an
+international meeting on studies of the MCs.  It is our wish to
+organize the meeting to emphasize the following topics:
+
+(1) review recent advances in studies of stellar and interstellar 
+    components of the MCs
+(2) emphasize the interplay between the stellar and interstellar 
+    components in the evolution of the MCs
+(3) examine the detailed physical and dynamical structures, stellar 
+    populations, and star formation histories of the MCs, so that
+    this knowledge can be used as foundations to understand the 
+    Galaxy as well as more distant galaxies
+(4) plan future work utilizing the forthcoming IR/UV/X-ray satellite
+    facilities and large ground-based telescopes
+
+
+II. Outline of Scientific Program
+=================================
+
+ 1. Recent observations of stars and the ISM of the Magellanic Clouds.
+ 2. The physical properties and structure of the multiple-phase ISM.
+ 3. Interactions between stars/OB association/clusters and the ISM.
+ 4. Stellar evolution - observations vs theoretical models.
+ 5. Stellar systems - IMFs, abundances, ages, dynamics, populations.
+ 6. Star formation history and evolution of the Magellanic Clouds.
+ 7. The global structure of the Magellanic Clouds - populations,
+    distributions of matter, and dynamics.
+ 8. The Distance to the Magellanic Clouds.
+ 9. Connections to other Magellanic irregulars and the distant universe.
+
+The scientific program of the meeting will consist of invited reviews
+and contributed talks that are of general interest.  Other
+contributions will be presented in posters.  Ample time will be
+reserved for discussion and poster viewing.
+
+
+III. Scientific Organizing Committee and Local Organizing Committee
+===================================================================
+
+ Scientific Organizing Committee:
+    E. Brocato (Italy), Y.-H. Chu (co-chair, USA), A. Cowley (USA),
+    K. Freeman (Australia), D. Welch (Canada), P. Hodge (USA),
+    M. Rubio (Chile), M. Spite (France), L. Staveley-Smith (Australia),
+    N. Suntzeff (co-chair, Chile), N. Walborn (USA), 
+    H. Zinnecker (Germany)
+
+ Local Organizing Committee:
+    D. Bohlender (Victoria), D. Crampton (Victoria), J. Gallagher (Madison,USA),
+    D. Hartwick (Victoria), J. Hesser (chair, Victoria), S. Morris (Victoria),
+    B. Parrish (Victoria), D. VandenBerg (Victoria)
+
+ Contacts:
+    You-Hua Chu,       co-chair SOC,      e-mail: chu@astro.uiuc.edu
+    Nicholas Suntzeff, co-chair SOC,      e-mail: nsuntzeff@noao.edu
+    James Hesser,      chair LOC,         e-mail: Jim.Hesser@hia.nrc.ca
+
+
+IV. Venue
+=========
+
+The meeting will be held on the campus of the University of Victoria,
+which is located in suburban Victoria.  Bed and Breakfast style
+accommodations will be available in student housing on campus, which
+offers private rooms and shared bathrooms for very reasonable prices.
+No block of rooms has been reserved in downtown hotels; participants
+preferring hotel accommodations will be provided contact information in
+the second announcement and on our Web page.  This will be high season
+in Victoria, so hotel accommodations should be made well in advance of
+arrival.
+
+Victoria is situated on the Strait of Juan de Fuca near the Pacific
+Coast, and provides easy access to many scenic National, Provincial 
+and City parks in both Canada and the U.S. All are accessible by car 
+(and possibly a ferry ride) within a day. They include the Pacific 
+Rim National Park and Strathcona Provincial Park on Vancouver Island,
+Garibaldi Provincial Park north of Vancouver, and the Olympic National
+Park, North Cascades National Park and Mount Rainier National Park in
+Washington State, as well as numerous State Parks and resorts along the
+coasts of Washington and Oregon.  Temperate rain forests, mountains,
+glaciers and vibrant aboriginal cultures are only part of the sights
+available to visitors.  Family members accompanying participants will
+find much to do in Victoria!
+
+Temperatures in July typically range from a high of about 25 C to a 
+low of 11 C. Probability of rain is low, except during international
+conferences....
+
+Our Web site provides many links to information about the area. 
+
+
+V. Visa and Travel
+==================
+
+Participants are advised to check with their local Canadian consulate
+or their travel agent regarding current visa requirements to enter
+Canada. 
+
+Frequent short flights connect Victoria to both Seattle and Vancouver
+International Airports.  Non-stop flights are also available from
+Calgary, Alberta.  Victoria's airport is about a 25 minute taxi ride
+distant from the University or downtown.
+
+An alternative, more leisurely route would be by rental car and the
+B.C.  Ferry from Tswassen (south of Vancouver, Canada); from SeaTac this
+connection requires about five hours, while from Vancouver's Airport it
+requires about three.  There are additional ferry routes, for which
+information will be found on our Web pages.
+
+All participants are strongly recommended to check their medical
+insurance for coverage during their stay in Canada.  The LOC will
+not accept liability for sickness or accidents.
+
+
+VI. Funding
+===========
+
+Limited funding is available to assist those who otherwise cannot
+attend the conference due to financial constraints.  Generally only
+partial support for the travel can be offered.  An application form
+for the Travel Grant will be included in the registration form to be
+sent in the Second Announcement.
+
+
+VII. Tentative Timetable   
+========================
+
+The SOC plans to invite many speakers based on the topics provided in
+this Indication-of-Interest Form.  If you are interested in attending
+and giving a talk, please take the time now to fill out the form
+promptly.  We will consider topics up until 20 December 1997.
+
+   15 December  1997    Deadline for Indication-of-Interest Form
+   20 December  1997    Second Announcement, registration form
+   30 January   1998    Deadline for Travel Grant Application
+   1  March     1998    Announce outcome of Travel Grant Applications
+   1  April     1998    Third Announcement, Preliminary Program
+   15 April     1998    DEADLINE for early registration & payment, and abstracts
+   1  June      1998    Final Announcement to participants
+   12 July      1998    Opening reception for the Symposium at Victoria
+   13-17 July   1998    IAU Symposium 190 at Victoria, Canada
+   30 September 1998    Deadline for submission of meeting proceeding papers
+
+
+VIII. Indication of Interest Form
+=================================
+
+If you are interested to participate in the symposium, please fill out the 
+attached form and e-mail it to iau190@hia.nrc.ca before 1997 December 15.
+
+
+                    IAU SYMPOSIUM 190
+             NEW VIEWS OF THE MAGELLANIC CLOUDS
+             Victoria, Canada; 13 - 17 July 1998
+
+
+               Indication-of-Interest Form
+ 
+
+
+   Last name: ________________________________________
+
+   First name: _______________________________________
+
+   Institute: ________________________________________
+
+   Department: _______________________________________
+
+   Street: ___________________________________________
+
+   City: _____________________________________________
+
+   Postal (Zip) Code: ________________________________
+
+   Country: __________________________________________
+
+   Telephone: ________________________________________
+
+   Fax: ______________________________________________
+
+   E-mail ____________________________________________
+
+   I am interested in:
+
+   [ ] Attending the conference
+         My attendance is  [ ] highly probable
+                           [ ] probable
+                           [ ] possible
+
+   [ ] Presenting a contributed paper.
+          [ ] oral preferred.
+          [ ] poster preferred.
+          [ ] no preference.
+
+        The title of my proposed contribution is:
+    
+
+        ______________________________________________
+
+
+
+   Please complete this form and e-mail it, before 15 December 1997, to:
+               iau190@hia.nrc.ca
+
+   If you have no access to e-mail, fax this form to: 
+               (250) 363-8483 c/o Ms Brenda Parrish 
+
+   This form is also available from the URL:
+               http://cadcwww.hia.nrc.ca/iau190/iau190.html
+
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+

@@ -1,0 +1,159 @@
+From kyl@asiaa.sinica.edu.tw Fri Mar  3 10:20 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA10966
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 3 Mar 2000 10:20:14 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA23220
+	for <astro@asiaa.sinica.edu.tw>; Fri, 3 Mar 2000 10:21:41 +0800
+Date: Fri, 3 Mar 2000 10:15:35 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: [Fwd: [12mnews] 12 Meter Poll] (fwd)
+Message-ID: <Pine.SOL.4.10.10003031015330.1359-110000@iaa3>
+MIME-Version: 1.0
+Content-ID: <Pine.SOL.4.10.10003031015331.1359@iaa3>
+Content-Type: MULTIPART/Mixed; BOUNDARY=------------E1DEA857D37C79332B593718
+Content-Length: 5304
+Status: RO
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+  Send mail to mime@docserver.cac.washington.edu for more info.
+
+--------------E1DEA857D37C79332B593718
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-ID: <Pine.SOL.4.10.10003031015332.1359@iaa3>
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 02 Mar 2000 15:24:54 -0700
+From: Simon Radford <sradford@nrao.edu>
+To: Simon Radford <sradford@nrao.edu>
+Subject: [Fwd: [12mnews] 12 Meter Poll]
+
+ 
+
+--------------E1DEA857D37C79332B593718
+Content-Type: MESSAGE/RFC822; NAME="nsmailEU.TMP"
+Content-ID: <Pine.SOL.4.10.10003031015333.1359@iaa3>
+Content-Description: 
+Content-Disposition: INLINE; FILENAME="nsmailEU.TMP"
+
+Received: from cv3.cv.nrao.edu (cv3.cv.nrao.edu [192.33.115.2])
+	by heineken.tuc.nrao.edu (8.9.3/8.9.3) with ESMTP id OAA10026;
+	Thu, 2 Mar 2000 14:17:46 -0700 (MST)
+Received: from kochab.cv.nrao.edu (kochab.cv.nrao.edu [192.33.115.108])
+	by cv3.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) with ESMTP id QAA24773;
+	Thu, 2 Mar 2000 16:17:44 -0500 (EST)
+Received: (from majordom@localhost)
+	by kochab.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) id QAA09365
+	for 12mnews-spinner; Thu, 2 Mar 2000 16:16:48 -0500 (EST)
+Received: from cv3.cv.nrao.edu (cv3.cv.nrao.edu [192.33.115.2])
+	by kochab.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) with ESMTP id QAA09360
+	for <12mnews@kochab.cv.nrao.edu>; Thu, 2 Mar 2000 16:16:44 -0500 (EST)
+Received: from polaris.cv.nrao.edu (polaris.cv.nrao.edu [192.33.115.101])
+	by cv3.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) with ESMTP id QAA24757
+	for <12mnews@nrao.edu>; Thu, 2 Mar 2000 16:16:43 -0500 (EST)
+Received: (from brodrigu@localhost)
+	by polaris.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) id QAA01067;
+	Thu, 2 Mar 2000 16:16:42 -0500 (EST)
+Date: Thu, 2 Mar 2000 16:16:42 -0500 (EST)
+From: Billie Rodriguez <brodrigu@nrao.edu>
+To: 12mnews@nrao.edu
+Subject: [12mnews] 12 Meter Poll
+Message-ID: <Pine.SOL.3.91.1000302160540.789A-100000@polaris.cv.nrao.edu>
+MIME-Version: 1.0
+Sender: owner-12mnews@kochab.cv.nrao.edu
+Precedence: bulk
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Mozilla-Status2: 00000000
+
+March 2, 2000
+
+
+MEMORANDUM
+
+
+To: 	   12 Meter Users
+
+From:  	   P. Vanden Bout
+
+Subject:   12 Meter Poll
+
+
+The NRAO is attempting to do what it can to help current users of the 
+12 Meter utilize other millimeter/sub-millimeter telescopes following the 
+closure of the 12 Meter at the end of the current observing season, July 
+2000.  
+
+We do plan to investigate the possibility that some organization or group 
+wishes to operate the 12 Meter as an astronomical facility.  At the 
+present time we are unaware of any such organization or group, but it is 
+important to confirm this before proceeding further.  The next step would 
+be to call for proposals from the operators of other millimeter/sub-millimeter
+telescopes for the use of 12 Meter instrumentation.  Items of 12 Meter
+instrumentation could be placed by the NRAO on indefinite loan to telescopes
+that were judged to make the most advantageous use from the perspective of 
+current 12 Meter users who might then go to that telescope for their 
+observations.
+
+In addition, we are considering establishing a program of support for 
+outside users of university millimeter/sub-millimeter telescopes similar 
+to that for users of the 12 Meter, that is, partial support of travel and 
+page charges.
+
+To help guide us in our decisions, your participation in the following 
+poll would be appreciated.  Please answer by return email to 
+brodrigu@nrao.edu, adding any comments or suggestions you feel would be 
+helpful.  The results of the poll will be available for further comment 
+and discussion when it is complete. 
+
+1.  Which capabilities of the 12 Meter are unique to your requirements, 
+    compared to other telescopes?
+
+2.  Which of the following comes closest to satisfying those requirements: 
+    FCRAO 14m, SMT 10m, CSO 10m, OVRO array, BIMA array; JCMT 15m,
+    Onsala 20m, IRAM 30m, SEST 15m?
+
+3.  Which, if any, of the capabilities you need are lacking for this 
+    telescope (answer to Question 4)?
+
+4.  Could this capability be provided by an item of equipment from 
+    the 12 Meter?
+
+5.  Was the 12 Meter program of partial support of travel and page 
+    charges important to your ability to conduct your research program?  
+    Would a program like it be necessary if you were to continue your 
+    program at another telescope?
+
+6.  What is your position (faculty, postdoc, student, . . .)?  
+    Institution?  
+
+7.  If faculty, are you supervising a student whose research depended 
+    on the availability of the 12 Meter?  If so, what is the stage of the 
+    student's research? 
+ 
+8.  What are the funding sources for your research (NSF or NASA 
+    grant, university, . . .)?
+
+9.  Were a summer course to be offered on the use of mm interferometers, 
+    would you be interested?
+
+10. Additional comments and suggestions?	
+
+
+--------------E1DEA857D37C79332B593718--
+

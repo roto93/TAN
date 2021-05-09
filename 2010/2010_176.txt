@@ -1,0 +1,85 @@
+Date: Fri, 5 Nov 2010 22:02:41 +0800 (CST)
+From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: First Announcement of the 2nd ALMA User Workshop
+
+Dear Yi-Jehng,
+
+   Please circulate the following annoucement in TAN.
+
+Thanks,
+Chin-Fei
+
+----------------------------------------------------------------
+                    ALMA User Workshop
+      Early 2010 (probably in Feb, to be announced in the 2nd announcement)
+
+    Institute of Astronomy and Astrophysics, Academia Sinica
+
+http://events.asiaa.sinica.edu.tw/workshop/201101/index.php
+----------------------------------------------------------------
+Announcement
+
+The Institute of Astronomy and Astrophysics at Academia Sinica (ASIAA)
+announces its second workshop for Taiwanese ALMA users. The workshop is
+oriented for all astronomers, regardless of specialty.
+
+The ALMA observatory is in construction at the present, with 8 antennas
+already at the Array Operations Site (AOS). The first call for proposals
+will be issued soon, either at the end of 2010 or in the beginning of 2011,
+for the Early Science (ES). This ALMA workshop will provide users with the
+tools to prepare, submit, and track their scientific proposals. Additional
+workshop(s) will be organized later for the observing preparation and data
+reduction, once the users are required to provide the detailed information
+for the execution of the observations.
+
+The organizing committee encourages all the Taiwanese astronomers and
+scholars interested in observing with ALMA to take part in this workshop.
+For students coming from outside Taipei City/County can apply for travel
+support from ASIAA for the transportation and accommodation, and this
+support is sponsored by tuCASA (http://www.es.ntnu.edu.tw/tuCASA/). Due to
+limited space and the hands-on nature of this workshop, participation will
+be limited to 80 people.
+
+The program of the workshop will include:
+(1) Fundamentals of (sub)millimeter interferometry (very briefly)
+(2) ALMA capabilities in Early Science and Full Operation phases
+(3) Observing with ALMA and user supports from ARCs, Taiwan-ARC node, & tuCASA
+(4) ALMA softwares for preparing, submitting, and tracking proposals:
+     User Portal, Help-Desk, Observing Tool, Splatalogue
+(5) CASA SIMDATA imaging simulation for observation planning
+(6) Hands-on exercise on proposal preparation and submission
+(7) Contributed proposal talks in Design Reference Science Plan (DSRP)
+     (http://www.eso.org/sci/facilities/alma/science/drsp/)
+     format or even in a ready format.
+
+Actions:
+1. For the participants with less experience in Radio Interferometry, please
+    attend the ALMA Novice-User Workshop 2010
+    (http://www.es.ntnu.edu.tw/tuCASA/novice-wksp/) in advance.
+2. Each participant should have browsed through the presentation files in our
+    first ALMA user workshop (http://www.asiaa.sinica.edu.tw/act/workshop/20100208/program.php)
+3. Each participant should have read the ALMA Primer
+    (http://alma.asiaa.sinica.edu.tw/taw2/ALMAPrimer2.pdf)
+    and looked through the Science Web pages
+    (http://alma.asiaa.sinica.edu.tw/science.php)
+4. Everyone who is coming to the workshop should try preparing their
+    own favorite proposal BEFORE coming to the workshop.
+5. Each participant is encouraged to have worked through a ES SIMDATA example
+    (to be provided later)
+
+LOC
+     * Chin-Fei Lee
+     * Sheng-Yuan Liu
+     * Shigehisa Takakuwa
+     * Yu-Nung Su
+     * Masaaki Hiramatsu
+     * Alfonso Trejo Cruz
+     * Linda Shao
+     * Suh-Lian Lin
+
+E-mail contact: cflee@asiaa.sinica.edu.tw
+
+Registration:
+Will be open later with the 2nd Announcement.
+

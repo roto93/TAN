@@ -1,0 +1,148 @@
+From kyl@asiaa.sinica.edu.tw Thu Mar 30 23:07 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id XAA18723
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 30 Mar 2000 23:06:36 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id XAA04396
+	for <astro@asiaa.sinica.edu.tw>; Thu, 30 Mar 2000 23:03:37 +0800
+Date: Thu, 30 Mar 2000 23:03:37 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: PDRA (fwd)
+Message-ID: <Pine.LNX.4.10.10003302303330.4393-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7079
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 30 Mar 2000 12:13:32 +0100 (BST)
+From: Jonathan Davies <Jonathan.Davies@astro.cf.ac.uk>
+To: armand@noao.edu, armando@cuevano.ugto.mx, nisse@astro.uu.se,
+     binggeli2@urz.unibas.ch, bomans@astro.uiuc.edu, nuts@moo.uoregon.edu,
+     noah@wise1.tau.ac.il, gbruzual@cida.ve, martin@mso.anu.edu.au,
+     burkert@mpia-hd.mpg.de, claude@astro.umontreal.ca, jcn@ll.iac.es,
+     gdc@mso.anu.edu.au, Jonathan.Davies@astro.cf.ac.uk, hdeeg@ll.iac.es,
+     dettmar@astro.ruhr-uni-bochum.de, john@hal.astro.umn.edu,
+     spd@edwin.phys.unsw.edu.au, pduc@eso.org, ferguson@stsci.edu,
+     ferrara@arcetri.astro.it, fica@st.nepean.uws.edu.au, kcf@mso.anu.edu.au,
+     kfricke@uni-sw.gwdg.de, ufritze@uni-sw.gwdg.de, jsg@tiger.astro.wisc.edu,
+     bianca@ifctr.mi.cnr.it, doug@noao.edu, pmg@astro1.bnsc.rl.ac.uk,
+     grebel@astro.uiuc.edu, bg@astro.uu.se, rguzman@ucolick.org,
+     hhanami@yeelen.hss.iwate-u.ac.jp, hasegawa@kiso.mtk.ioa.s.u-tokyo.ac.jp,
+     HELD@astbo3.bo.astro.it, cheller@uni-sw.gwdg.de,
+     hensler@astrophysik.uni-kiel.d400.de, supas030@astrophysik.uni-kiel.de,
+     hodge@astro.washington.edu, hoffman@nova.phys.lafayette.edu,
+     hopp@usm.uni-muenchen.de, p083huc@mpifr-bonn.mpg.de, izotov@mao.kiev.ua,
+     kawatad@mito.ipc.ibaraki.ac.jp, p213ukl@astro.uni-bonn.de,
+     komiyama@silmaril.astron.s.u-tokyo.ac.jp, koo@helios.ucolick.org,
+     krueger@orion.mpia-hd.mpg.de, kunth@iap.fr, mglee@astrog.snu.ac.kr,
+     leitherer@stsci.edu, lilly@morgaine.astro.utoronto.ca,
+     lin@helios.ucolick.org, peter@astro.lu.se, ulindner@walhall.uni-sw.gwdg.de,
+     ute@goliat.ugr.es, kyl@astro.uiuc.edu, dario@ifctr.mi.cnr.it,
+     cmartin@as.arizona.edu, pepa@iaa.es, mateo@astro.lsa.umich.edu,
+     ssm@dtm.ciw.edu, vmcintyr@atnf.csiro.au, mebold@astro.uni-bonn.de,
+     jmelnick@eso.org, meurer@pha.jhu.edu, bmiller@dtm.ciw.edu,
+     dminniti@igpp.ucllnl.org, mirabel@ariane.saclay.cea.fr, moles@oan.es,
+     mori@astron.s.u-tokyo.ac.jp, mochi@fugu.as.utexas.edu, CMT@ll.iac.es,
+     murakami@dpkato.nifs.ac.jp, akko@avalon.sci.hokudai.ac.jp,
+     sco@starburst.la.asu.edu, oey@ast.cam.ac.uk, ohta@kusastro.kyoto-u.ac.jp,
+     eva@astro.uu.se, east@astro.uu.se, PAGEL@nbivms.nbi.dk,
+     bpartrid@haverford.edu, S.Phillipps@bristol.ac.uk, sap@sao.stavropol.su,
+     gmrichter@aip.de, jrroy@phy.ulaval.ca, l.sage@naturedc.com,
+     sasaki-m@shimonoseki-cu.ac.jp, schaerer@stsci.edu,
+     slaz@parcha.astro.wesleyan.edu, jschombert@gm.ossa.hq.nasa.gov,
+     simpsonc@galaxy.fiu.edu, skillman@hal.astro.umn.edu,
+     smecker@carina.ps.uci.edu, sorai@nro.nao.ac.jp, ralph@astro.lu.se,
+     lstavele@atnf.csiro.au, tajiri@het.ph.tsukuba.ac.jp,
+     taylorc@azalea.physics.mcmaster.ca, gtt@ll.iac.es,
+     txt@astsun.astro.virginia.edu, etolstoy@eso.org,
+     atomita@milano.mtk.nao.ac.jp, Tosi@astbo3.bo.astro.it,
+     vtrimble@orion.oac.uci.edu, chicag@astro.ucla.edu, urb@oa.uj.edu.pl,
+     vandyk@astro.ucla.edu, vanzee@astrosun.tn.cornell.edu,
+     vacca@athena.ifa.hawaii.edu, hugo@astro.rug.nl, wwalsh@astro.uni-bonn.de,
+     walter@astro.uni-bonn.de, Ronald.Weinberger@uibk.ac.at,
+     dwestpfa@aoc.nrao.edu, JWHITEOA@rp.csiro.au, ewilcots@uwast.astro.wisc.edu,
+     RAW@cosmos.la.asu.edu, lyoung@aoc.nrao.edu, hzinnecker@aip.de,
+     karen@moo.uoregon.edu, R.S.deJong@durham.ac.uk, dspray@ing.iac.esf,
+     briggs@pitt.edu, f.briggs@astro.rug.nl, schneide@fcrao1.astro.umass.edu,
+     piet@star.herts.ac.uk, vdhulst@astro.rug.nl, w.j.g.blok@astro.rug.nl,
+     c.s.frenk@durham.ac.uk, nsk@astro.washington.edu,
+     lake@astro.washington.edu, binggeli2@ubaclu.unibas.ch, txt@virginia.edu,
+     jd@ociw.edu, treyer@ast.cam.ac.uk, mike@ast.cam.ac.uk, rse@ast.cam.ac.uk,
+     tully@hale.IfA.Hawaii.Edu, dns@astro.princeton.edu,
+     prugniel@cumulus.univ-lyon1.fr, held@bo.astro.it, tarmandroff@noao.edu,
+     spaans@strw.strw.leidenuniv.nl, lacey@tac.dk, jgallagher@noao.edu,
+     kormandy@hale.IfA.Hawaii.Edu, dvb@roe.ac.uk, rgm@ast.cam.ac.uk,
+     bergeron@eso.org, don@oddjob.uchicago.edu, awolfe@ucsd.edu, lsl@ucsd.edu,
+     rse@ast.cam.ac.uk, c.s.frenk@durham.ac.uk, lake@astro.washington.edu,
+     ebrinks@andromeda.cimat.mx, kcf@mso.anu.edu.au, impey@as.arizona.edu,
+     burkert@mpia-hd.mpg.de, noah@wise1.tau.ac.il, kalevi.mattila@helsinki.fi,
+     izotov@mao.kiev.ua, vdhulst@astro.rug.nl, Rodney.Smith@astro.cf.ac.uk,
+     S.Phillipps@bristol.ac.uk, qap@aaocbn3.aao.gov.au, pmk@astro.lsa.umich.edu,
+     loveday@sdss.fnal.gov, huchra@cfa.harvard.edu, rekers@atnf.csiro.au,
+     rwebster@physics.unimelb.edu.au, rjw@ociw.edu, bergeron@iap.fr,
+     rwo@virgina.edu, vandenbergh@dao.nrc.ca, ars@ociw.edu,
+     w.j.g.de.blok@astro.rug.nl, ewilcot@rainier.astro.wisc.edu,
+     berczik@mao.kiev.ua, taylor@alpha1.astro.ruhr-uni-bochum.de,
+     karen@moo.uoregon.edu, Stephanie.Cote@hia.nrc.ca,
+     edeblok@physics.unimelb.edu.au, antonucc@tacsg1.tac.dk,
+     Mike.Edmunds@astro.cf.ac.uk, jschombert@gm.ossa.hq.nasa.gov,
+     Binggeli@astro.unibas.ch, pmcc@astro.uiuc.edu, swater@astro.rug.nl
+Cc: Jonathan Davies <jid@astro.cf.ac.uk>
+Subject: PDRA
+
+Dear Everyone,
+   A PDRA position is available in Cardiff. If you know anyone who 
+might be interested could you please let them know.
+Many thanks
+Jon Davies
+
+The Post
+
+PDRA fixed term contract for 3 years. 
+Closing date for applications 
+19th May 2000
+Start date as soon as possible.
+For informal discussion contact:
+Dr. Jon Davies
+Tel: 44 (0) 29 2087 4144 or
+email jid@astro.cf.ac.uk
+For application form quote reference 0116 and
+Tel: 44 (0) 29 2087 4017 or
+email Persad@cf.ac.uk
+
+You will be working with Dr. Jon Davies on galaxy populations in the 
+nearby Universe. From previous work by the Cardiff group it seems 
+clear that there are large numbers of very low surface brightness 
+low luminosity galaxies in nearby clusters. This leads to a very 
+steep luminosity function consistent with numerical simulations of 
+structure formation. If these galaxies have large (M/L) they may 
+represent the major mass component of the cluster. Given that 
+clusters only represent about 10% of the galaxy population we now 
+wish to study these low luminosity galaxies in other environments 
+i.e. groups and the general field. We have been awarded large 
+amounts of observing time to use large CCD arays and 21cm multi-beam 
+instruments and we are actively pursuing more observational data. 
+The research group currently consistes of 5 researchers (3 postdoctoral 
+and 2 postgraduate). You should hold a PhD in Astronomy or related 
+topics, or have submitted your thesis before starting the appointment.
+
+The Cardiff astronomy group consists of 12 academic members of staff 
+and totals about 45 researchers. Interests range from extra-galactic 
+astronomy, to gravity waves and star formation.
+
+

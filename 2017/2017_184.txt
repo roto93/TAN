@@ -1,0 +1,44 @@
+> Date: Thu, 9 Nov 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Jakub Ripa (Formerly NTU)
+Topic:         Testing Isotropic Universe via Properties of Gamma-Ray Bursts Detected by Fermi / GBM
+Time:         11/13 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+The sky distribution of Gamma-Ray Bursts (GRBs) has been intensively studied for more than two decades. Most of these studies, test the isotropy of GRBs based on the sky number density distribution. We propose a new method which inspects the isotropy of the properties of GRBs such as their duration, fluences and peak fluxes at various energy bands and different time scales. The method was applied on the Fermi / Gamma-ray Burst Monitor data. We found a relatively significant feature near the Galactic coordinates approximately l = 30 deg, b = 15 deg and radius r = 20 - 40 deg with the inferred probability for the occurrence of such signal (in a random isotropic sample) to be less than a percent. However, more comprehensive analysis using different statistical tests and different samples show that the detected feature can be due to statistical fluctuations. Investigations on the updated Fermi / GBM sample as well as on the data sets of other instruments can clarify on the issue.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Chia-Yu Hu (Center for Computational Astrophysics)
+Topic:         Resolving supernova-driven outflows in full-disk simulations
+Time:         11/14 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Current large-scale cosmological simulations began to reproduce realistic galaxy populations, where strong galactic outflows driven by supernovae have been identified as one of the key ingredients to this success. However, the origin of galactic outflows remains poorly understood, and the phenomenological recipes of outflows adopted in cosmological simulations render their predictive power somewhat ambiguous. In this talk, I will argue that the way to move forward is to utilize high-resolution simulations of galaxies in an idealized setup where supernova feedback and the multi-phase interstellar medium can be properly resolved. I will show that converged outflow properties can be obtained at the resolution of ~ 5 solar masses. Outflows are driven by the hot and over-pressurized gas which breaks the disk during the formation of superbubbles. Injecting the terminal momentum of individual supernova blastwaves, a common remedy adopted in the literature to compensate unresolved s!
+upernova events, fails to drive outflows due to its incapability to thermalize the gas.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Iain Mcdonald (University of Manchester)
+Topic:         The fate of stars: stellar death and new life
+Time:         11/15 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+We are stardust, made from the insides of stars. To understand where we come from, we need to understand how material made in the cores of stars is released into the interstellar medium. A key factor in this is the timing of stellar mass loss. In this talk, I will argue that the mass-loss formulisms we currently use for low-mass stars are not fit for purpose, and that a new one needs to be constructed. I'll discuss the work we are doing to calibrate the mass-loss prescription for evolved stars, particularly in the early Universe, where the mechanisms of stellar mass are not well calibrated.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

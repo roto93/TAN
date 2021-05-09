@@ -1,0 +1,68 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 12 Jan 2014 08:00:03 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Tohru Nagao (Ehime Univ.)
+Topic:        Subaru Wide-Field AGN Survey with HSC
+Time:        1/15 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+Searching for quasars at various redshifts is the most fundamental 
+approach to investigate the cosmological evolution of supermassive black 
+holes (SMBHs). Recent reports suggest a strong evolutionary link between 
+SMBHs and galaxies, telling us that the understandings of SMBHs and 
+their evolution are crucial to reveal the total picture of the formation and 
+evolution of galaxies, not only of quasars. In addition, high-z quasars are 
+quite useful to investigate the evolution of the IGM, by providing the light 
+behind the inter-galactic absorbing materials. These topics have been
+extensively studied after the data release of the SDSS, that discovered
+a dozens of z~6 quasars and reported the significant evolution of the
+neutral fraction of the IGM at high-z. However due to the limited sensitivity
+and wavelength coverage, the SDSS quasar survey could reach only up to
+z~6.4 and study only very luminous population of quasars, that prevents us
+from understanding the whole evolutionary picture of SMBHs and quasars.
+Recent NIR surveys such as UKIDSS and VIKING is reporting a few z~7
+quasars, but the resulting sample size is still insufficient for any statistical
+analysis.
+        For breaking this problematic situation, we are now promoting a new 
+quasar survey with the new prime-focus camera for the Subaru Telescope, 
+Hyper Suprime Cam (HSC). This quasar survey is a part of the HSC legacy 
+survey, that is an international collaborative project among Taiwan, Japan,
+and Princeton University. This HSC legacy survey has been already 
+approved, and 300 nights will be dedicated in the coming 5 years. In this
+colloquium, I would like to review the background, motivation, and the 
+expected outcomes of this HSC quasar survey. Especially I would focus 
+on the potential contribution from the Taiwanese community, which has 
+access to CFHT, SMA, and ALMA. I would also briefly mention on the 
+possible importance of future ALMA Band 1 for follow-up observations of 
+HSC-selected high-z low-luminosity quasars.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Adam Amara (ETH Zurich)
+Topic:        The LCDM Model: Successes and Future Challenges
+Time:        1/17 (Friday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The LCDM model has had remarkable successes in explaining a wide array of observational evidence coming from recent cosmology experiments. Though the natures of many of the key ingredients are still largely unknown, the model is built on a small number of parameters (roughly six). In this talk, I will give a quick summary of recent progress. As part of this, I highlight some of the potentials for new discoveries in on-going surveys, with a focus on dark matter, gravitational lensing and the Dark Energy Survey (DES). One of the features of current and future surveys (such as the LSST) is that the large volume of data that these surveys will generate, combined with the stringent requirements that need to be met in order to reach our science goals, pose serious computational challenges. For these missions to be successful, these computational challenges need to be tackled.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Ruobing Dong (ASIAA/Berkeley)
+Topic:        The Earliest Stage of Planet Formation: Disk-Planet Interactions in Protoplanetary Disks and Observations of Transitional Disks
+Time:        1/16 (Thursday) 13:30 - 14:30
+Place:        R1108
+Abstract:
+Signposts of planets in protoplanetary disks produced by disk-planet interactions may provide us a unique way to probe and study the earliest stages of planet formation. In the first part of the talk, I will introduce the concept of disk-planet interactions, then present some numerical simulations of this interaction in protoplanetary disks. Particularly, I will show gap opening in low viscosity disks by low mass planets due to the damping of the waves caused by the wave nonlinearity. In the second part, I will move on to observations of transitional disks, which are protoplanetary disks with central depleted regions (cavities), possibly been cleared out by the forming planets. Recently, Subaru directly imaged a number of such disks at near infrared (NIR) wavelengths (the SEEDS project) with high spatial resolution and small inner working angles. Using radiative transfer simulations, we study the structure of these objects by modeling observations at different bands simultane
+ously. The complexity of transitional disks is reviewed by the variety of features captured in their observations, such as cavities, spiral arms, and other non-smooth/asymmetric structures in the disks, which indicates fundamentally different underlying disk structure, possibly implying different origins of these objects.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

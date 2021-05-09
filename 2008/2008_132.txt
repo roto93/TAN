@@ -1,0 +1,133 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Sep  5 16:23:23 2008
+Date: Fri, 5 Sep 2008 16:18:03 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Sep 04 - 05, 2008)
+
+==============================================================================
+
+In this issue (Sep 04 - 05, 2008)
+
+1. Reminder: ARO proposal deadline (Sep 16)
+2. Reminder: SMA proposal deadline (Sep 12)
+
+==============================================================================
+
+Subject: Call for ARO Proposals - Fall 2008
+
+ARO: Call for Proposals (Fall 2008)
+------------------------------------
+
+Dear all,
+
+ASIAA's ARO proposal deadline for Fall 2008 (October 01 - January 31)
+is set on September 16, 2008 (Tuesday).
+
+The Arizona Radio Observatory operates the Sub-Millimeter Telescope (SMT)
+and the Kitt Peak 12 Meter.  The SMT currently supports a dual-polarization,
+ALMA Band-6 1 mm receiver, a dual-polarization 0.8 mm receiver, and a new
+ALMA Band-9 (602-720 GHz) dual-polarization receiver.   The 12 m supports
+2 mm and 3 mm (65-176 GHz) dual-polarization receivers.  A new ALMA Band-3
+receiver will be available at the 12 m for the 85-116 GHz band (3 mm HI),
+also dual-polarization. Remote observing is available at both ARO telescopes.
+
+Please refer to http://aro.as.arizona.edu/ for more information on
+observations and for the latest system status of the telescopes.
+People are required to use the KP12M and SMT proposal cover/summary
+sheets for their proposals:
+(under "Proposal Submission Information" at
+  http://aro.as.arizona.edu/proposal_submission_information.htm
+for the SMT -
+  http://aro.as.arizona.edu/proposals/smt_prop_sub.htm
+and for the 12m -
+  http://aro.as.arizona.edu/proposals/12m_prop_sub.htm )
+
+Proposals should consist of the standard proposal cover sheet and
+a scientific and technical justification. The justification may be
+up to two pages of text, and should not exceed three pages including
+tables, figures and references.  For electronic submission, ASIAA
+only accepts proposals in either PS or PDF format.
+
+Please submit your proposals by 24:00 midnight September 16, 2008 to
+kuan@asiaa.sinica.edu.tw ; no late proposals will be accepted.
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of the ASIAA ARO TAC
+
+==============================================================================
+
+> Date: Fri, 5 Sep 2008 11:03:04 +0800 (CST)
+> From: Tatsuhiko Hasegawa <hasegawa@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Reminder: SMA proposal deadline
+
+Reminder: Closing date for SMA proposal submission for 2008B
+
+Dear Colleagues,
+
+This is a reminder that the closing date and time for SMA proposals
+is September 12 (Friday), 2008, 4AM (Taiwan time) in the morning for the
+2008B semester.  [The closing date corresponds to September 11 (Thursday),
+10AM Hawaii time.]  Those who are affiliated to a Taiwanese university
+or a Taiwanese research institute are eligible to apply for the ASIAA
+SMA time as a principal investigator (PI).
+
+All Taiwanese SMA proposals must be submitted through the SMA
+submission facility (http://sma1.sma.hawaii.edu/proposing.html,
+then click "SMA Project Account").
+New proposers in particular need to get registered (through the
+submission web site) before submitting a proposal.  All potential
+proposers are encouraged to visit the submission facility well
+in advance.
+
+When submitting your proposal, please make sure to select
+"ASIAA" as your destination TAC in the submission web page.
+Please submit your proposal early.  If you encounter any technical
+problem with the submission facility, please contact TATSUHIKO
+HASEGAWA (hasegawa@asiaa.sinica.edu.tw).
+
+For technical information on the SMA, please visit
+    http://sma1.sma.hawaii.edu/proposing.html .
+For Taiwan and ASIAA specific aspects (including the ASIAA
+proposal selection process and the amount of available
+observing time), please visit
+    http://www.asiaa.sinica.edu.tw/~SMART/ .
+
+The SMA is a complex instrument.  Consultation or collaboration
+with those who are familiar with the SMA is highly recommended.
+Contact points for consultations are also found in the ASIAA
+web page listed above.
+
+The ASIAA SMA TAC is offering to help SMA users improve their
+SMA proposals.  If you would like to get advices on your proposal,
+please send your draft (before submission) to
+  hasegawa@asiaa.sinica.edu.tw .
+
+Sincerely,
+
+Tatsuhiko Hasegawa
+ASIAA SMA TAC Chair
+
+-- 
+Tatsuhiko I. Hasegawa (Associate Fellow) www.asiaa.sinica.edu.tw
+Institute of Astronomy and Astrophysics, Academia Sinica
+hasegawa@asiaa.sinica.edu.tw, Tel:+886-2-3365-2200 ex722
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

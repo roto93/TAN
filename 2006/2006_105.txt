@@ -1,0 +1,94 @@
+
+> Date: Mon, 19 Jun 2006 00:05:42 +0800
+> From: Chi Yuan <yuan@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: [Fwd: 2ND EAST-ASIA NUMERICAL ASTROPHYSICS MEETING]
+
+-------- Original Message --------
+Subject:        2ND EAST-ASIA NUMERICAL ASTROPHYSICS MEETING
+Date:   Sun, 18 Jun 2006 21:52:32 +0900
+From:   Dongsu Ryu <ryu@canopus.cnu.ac.kr>
+Organization:   Chungnam National University
+To:     Chiueh, Tzi-Hong <chiuehth@phys.ntu.edu.tw>, Cho, Jungyeon 
+<cho@canopus.cnu.ac.kr>, Feng, LongLong <fengll@pmo.ac.cn>, Hanawa, 
+Tomoyuki <hanawa@cfs.chiba-u.ac.jp>, Jing, Yipeng 
+<ypjing@center.shao.ac.cn>, Matsumoto, Ryoji 
+<matumoto@astro.s.chiba-u.ac.jp>, Shibata, Kazunari 
+<shibata@kwasan.kyoto-u.ac.jp>, Suto, Yasushi 
+<suto@phys.s.u-tokyo.ac.jp>, Tomisaka, Kohji 
+<tomisaka@yso.mtk.nao.ac.jp>, Umemura, Masayuki 
+<umemura@rccp.tsukuba.ac.jp>, Wada, Keiichi <wada@yso.mtk.nao.ac.jp>, 
+Yuan, Chi <yuan@asiaa.sinica.edu.tw>, Kang, Hyesung 
+<kang@uju.es.pusan.ac.kr>, Kim, Jongsoo <jskim@kasi.re.kr>, Ryu, Dongsu 
+<ryu@canopus.cnu.ac.kr>, inutsuka@tap.scphys.kyoto-u.ac.jp, 
+hoshino@eps.s.u-tokyo.ac.jp, koidesin@sci.kumamoto-u.ac.jp, 
+machidam@scphys.kyoto-u.ac.jp, mami@yso.mtk.nao.ac.jp, 
+matsu@i.hosei.ac.jp, mmori@isc.senshu-u.ac.jp, 
+fnakamur@ed.niigata-u.ac.jp, susa@rikkyo.ac.jp, 
+stakeru@provence.c.u-tokyo.ac.jp, pjzhang@shao.ac.cn, 
+sungsoo.kim@khu.ac.kr, wkim@astro.snu.ac.kr, premadi@as.itb.ac.id, 
+kjahn@astro.as.utexas.edu, cen@astro.Princeton.edu, mlnorman@ucsd.edu, 
+pen@cita.utoronto.ca, Mineshige, Shin <minesige@yukawa.kyoto-u.ac.jp>
+
+
+
+Dear colleagues,
+
+we are pleased to announce
+
+Title: 2ND EAST-ASIA NUMERICAL ASTROPHYSICS MEETING (EANAM2006)
+When:  November 1-3 (Wednesday-Friday), 2006
+Where: Korea Astronomy and Space Science Institute (KASI)
+       Daejeon, Korea
+Homepage: http://sirius.cnu.ac.kr/eanam2006/
+
+Scientific Rationale:
+
+   In the astronomy/astrophysics community of the East Asian region,
+   there are growing common interests in the blooming field of
+   numerical astrophysics.
+   In order to exchange new ideas and learn new results among each
+   other, the biennial EAST-ASIA NUMERICAL ASTROPHYSICS MEETING
+   (EANAM), was set up in December, 2003 in Taipei, Taiwan, and the
+   1st meeting was held in November, 2004 in Tokyo, Japan. This
+   meeting will be the 2nd of the series.
+
+   In this meeting, we would like to focus on astrophysical fluids.
+   Topics will include numerical astrophysics of
+   - hydrodynamics including smoothed particle hydrodynamics
+   - magnetohydrodynamics
+   - radiative transfer
+   - particle acceleration (shock and turbulence)
+   - visualization
+
+   Researchers from the East Asia region as well as other parts of the
+   world will discuss
+   - how to learn more physics and take more initiatives in the field
+     of numerical astrophysics,
+   - how to enhance the interactions between all of us.
+
+Organizing Committee:
+
+   Chiueh, Tzi-Hong (National Taiwan University, Taiwan)
+   Cho, Jungyeon (Chungnam National University, Korea)
+   Feng, Longlong (Purple Mountain Observatory, China)
+   Hanawa, Tomiyuku (Chiba University, Japan)
+   Jing, Yipeng (Shanghai Astronomical Observatory, China)
+   Kang, Hyesung (Pusan National University, Korea)
+   Kim, Jongsoo (Korea Astronomy and Space Science Institute, Korea)
+   Matsumoto, Ryoji (Chiba University, Japan)
+   Ryu, Dongsu (Chungnam National University, Korea)
+   Shibata, Kazunari (Kyoto University, Japan)
+   Suto, Yasushi (University of Tokyo, Japan)
+   Tomisaka, Kohji (National Astronomical Observatory, Japan)
+   Umemura, Masayuku (University of Tsukuba, Japan)
+   Wada, Keiichi (National Astronomical Observatory, Japan)
+   Yuan, Chi (Institute of Astronomy and Astrophysics, Taiwan)
+
+Organizing Institutes and Sponsors:
+   KASI (Korea Astronomy and Space Science Institute)
+
+For further information or questions, please visit the homepage, or
+contact ryu@canopus.cnu.ac.kr
+
+

@@ -1,0 +1,68 @@
+==============================================================================
+
+Subject: Extension to all the cycles for calibrated MS delivery
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Tue, 19 Jan 2021 17:34:38 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+        riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear ALMA users,
+
+We would like to let you know that you can now request calibrated =
+measurements sets for all the Cycles. Please request via the Helpdesk =
+following the instruction below.
+Please also note that this service is offered on a best effort basis. If =
+multiple requests overlap, or if there is a request for large data, it =
+may not be possible to delivery the calibrated MS immediately and you =
+may have to wait.=20
+We would appreciate your understanding in advance.
+
+Hope that this service will be useful for your archival research. Please =
+also forward this information to your colleagues who have difficulties =
+to calibrated the raw data.
+
+-----------------------------------------------
+- The delivery service is offered for interferometric data (the service =
+is not offered for single-dish data).
+- Calibrated MS for up to 5 Scheduling Blocks can be requested at one =
+time.
+- The product that we will deliver is the outcome of running =
+"scriptForPI.py".
+- Notification will be sent as soon as the calibrated MS is ready. Then =
+you will need to download the calibrated MS in 15 days.
+
+=E3=80=90How to request=E3=80=91
+1. Log in to Helpdesk https://help.almascience.org/ =
+<https://help.almascience.org/>
+2. Create a new ticket by clicking "Submit Helpdesk Ticket"
+3. Choose "Archive and Data Retrieval (EA)" as Department
+4. Put "Request of calibrated MS" as Subject
+4. Choose "Data request (calibrated MS, stale data, calibrator data, or =
+suggestions)" as Sub-category, provide the following information in the =
+box of "Message", then "Submit" the ticket
+
+***************
+Message
+***************
+a. Your affiliation
+[example: University of Tokyo]
+
+
+b. Project Code and SB name of the data
+[example: please split Project Code and SB name with a space.
+2013.1.00010.S NGC253_a_04_TM1
+2013.1.00010.S NGC253_a_07_TM1
+2014.1.00020.S NGC1068_a_06_TM1
+]
+
+
+***************
+
+If you have any questions, please ask via Helpdesk =
+(https://help.almascience.org/ <https://help.almascience.org/>).
+
+best,
+Yu-Nung=
+
+==============================================================================

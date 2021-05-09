@@ -1,0 +1,175 @@
+==============================================================================
+
+In this issue (Apr 23 - 29, 2016)
+
+1. 1st circular on "East-Asia AGN Workshop 2016"
+2. ASIAA Colloquium/Seminar/Lunchtalk (May 03): Chao-Ling Hung (Univ of Texas)
+                                      (May 04): Juntai Shen (SHAO)
+                                      (May 05): Keiichi Wada (Kagoshima Univ)
+
+==============================================================================
+
+> Subject: Fwd: [tennet:13998] 1st circular on "East-Asia AGN Workshop 2016"
+> Cc: satoki@asiaa.sinica.edu.tw
+> From: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Date: Wed, 27 Apr 2016 16:13:59 +0800
+
+Dear AGN researchers in Taiwan,
+
+There will be the East-Asia AGN Workshop 2016 in Seoul, Korea.
+If you are studying whatever AGN related topic, please consider
+to join.  In the last workshop, there was only one researcher
+from Taiwan, so they are hoping more researchers attend from
+Taiwan.  If you are interested in, please join the meeting.
+
+Cheers,
+Satoki
+
+-------- Forwarded Message --------
+
+*************************************************
+1st circular on "East-Asia AGN Workshop 2016"
+22-24 September 2016, Seoul, Korea
+http://astro.snu.ac.kr/eaagn
+*************************************************
+
+
+It is our pleasure to announce 'East-Asia AGN Workshop 2016’, which will be
+held on 22-24 September 2016 in Seoul, Korea. Since the first kick-off
+workshop
+in 2012, we annually hosted the EA-AGN workshop, which is intended to
+encourage close collaborations among AGN researchers in East Asia.
+Fostering collaborations and developing the network at the current stage is
+important as we enter the era of large international projects, including GMT
+and TMT, not to mention the current EA effort on the ALMA and JCMT.
+
+The conference will be on the Seoul National University campus, which can be
+easily reached from either Seoul-Incheon airport or Gimpo airport. We
+reserved a block of rooms at the Hoam Guest House, which is conveniently
+located on SNU campus.
+
+We would strongly encourage you to participate. Please feel free to ask
+about the workshop.
+
+On behalf of the SOC,
+Jong-Hak Woo
+
+Date:
+30 June : registration deadline
+22-23 September: formal meeting
+24 September: informal discussions
+
+Venu:
+International Conference Room, Building 25-1, Seoul National University.
+
+Registration fee:
+100 USD (50 USD for students)
+
+Accommodation:
+Hoam Guest House (price for regular double or twin rooms  < 100 USD).
+http://www.hoam.ac.kr/eng/
+
+NOTE:
+If you need a visa to enter Korea, please start your required preparations
+earlier than the registration deadline.
+
+Science Organizing Committee:
+Min-Feng Gu (SHAO)
+Minjin Kim (KASI)
+Tohru Nagao (Ehime U.)
+Ken Ohsuga (NAOJ)
+Sascha Trippe (Seoul National U.)
+Jong-Hak Woo (Seoul National U.)
+Xue-Bing Wu (Peking U.)
+
+Local Organizing Committee:
+Jong-Hak Woo (SNU)
+Hyun-Jin Bae (SNU)
+Jong-Ho Park (SNU)
+Songyoun Park (SNU)
+Jaejin Shin (SNU)
+
+Contact:
+Jong-Hak Woo (woo@astro.snu.ac.kr) : LOC chair
+
+==============================================================================
+
+> Date: Thu, 28 Apr 2016 08:00:02 +0800
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:     Chao-Ling Hung (University of Texas)
+Topic:          Connecting dusty starburst galaxies and proto galaxy clusters: a case study at z=2
+Time:          5/3 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The most prodigious starburst galaxies are absent in massive galaxy clusters today, but their connection with large scale environments is less clear at z>2. I present our search of dusty star-forming galaxies (DSFGs; SFR>100 Msun/yr) within and around a protocluster at z~2.1 in the COSMOS field. Both DSFGs and color-selected SFGs show significant overdensities around the protocluster, and this structure spans across several tens of cMpc, considerably larger than previously observed. The cluster core and the extended DSFG- and SFG-rich structure together demonstrate an active cluster formation phase, in which the cluster is accreting a significant amount of material from large scale structure while the more mature core may begin to virialize. The finding of this DSFG-rich structure, along with a number of other protoclusters with excess DSFGs and AGNs found to date, suggest that the overdensities of these rare galaxies indeed trace significant mass overdensities. However, it !
+ !
+remains puzzling how these intense star formers are triggered concurrently. Although an increased probability of galaxy interactions and/or enhanced gas supply can trigger the excess of DSFGs, our stacking analysis based on 850 micron images and morphological analysis based on rest-frame optical imaging do not show such enhancements of merger fraction and gas content in this structure.
+
+*** Colloquium ***
+____________________________________________________
+Speaker:     Juntai Shen (SHAO)
+Topic:          Gas inflow patterns and nuclear rings in barred galaxies
+Time:          5/4 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Nuclear rings, dust lanes, and nuclear spirals are common structures in the inner region of barred galaxies, with their shapes and properties linked to the physical parameters of the galaxies. We use high-resolution hydrodynamical simulations to study gas inflow patterns in barred galaxies, with special attention on the nuclear rings. The location and thickness of nuclear rings are tightly correlated with galactic properties, such as the bar pattern speed and bulge central density, within certain ranges. We identify the backbone of nuclear rings with a major orbital family of bars. The rings form exactly at the radius where the residual angular momentum of inflowing gas balances the centrifugal force. We propose a new simple method to predict the bar pattern speed for barred galaxies possessing a nuclear ring, without actually doing simulations. We apply this method to some real galaxies and find that our predicted bar pattern speed compare reasonably well with other estimat!
+ !
+es. Our study may have important implications for using nuclear rings to measure the parameters of real barred galaxies with detailed gas kinematics. I will also discuss the latest results of extending current work to model the gas features in the Milky Way.
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:     Keiichi Wada (Kagoshima University)
+Topic:          A new dynamical picture of AGNs
+Time:          5/5 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Multi-wavelength observations of Active Galactic Nuclei (AGNs) have
+suggested that their internal structures are consisted of various
+components, such as an accretion disk, broad line regions, an
+obscuring dusty torus, and narrow line regions, over an extensive
+spatial scales. However, their origin and mutual relations have not
+been understood, andit is also unclear whether these structures are
+universal among AGNs.
+/>/>
+
+In this seminar, I will review recent progress in theoretical modeling
+of circumnuclear gas structures in AGNs, mainly based on our
+radiation-hydrodynamic simulations. In a serious of our studies, we
+found dynamic behavior of the gas around the SMBH due to the effect of
+the radiation feedback, in contrast to the classic
+picture. Spectroscopic properties in typical Seyfert galaxies are well
+reproduced in these models. Some characteristic features suggested by
+recent infrared and X-ray observations can be also explained.
+/>/>
+
+I will also show preliminary results of modeling the multi-phase ISM
+affected by an AGN and nuclear starburst for a nearby AGN. These
+numerical approach with radiative transfer calculations could be a
+powerful tool for understanding observations of molecular/atomic gases
+by ALMA.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

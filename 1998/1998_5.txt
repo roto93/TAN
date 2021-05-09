@@ -1,0 +1,286 @@
+From kyl@biaa.sinica.edu.tw Thu Jan  8 10:08 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA05653; Thu, 8 Jan 1998 10:06:42 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA26519; Thu, 8 Jan 1998 10:05:12 +0800
+Date: Thu, 8 Jan 1998 10:05:12 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: ATNF Observing Applications (fwd)
+Message-Id: <Pine.GSO.3.96.980108100509.25694C-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5963
+
+
+
+---------- Forwarded message ----------
+Date: Thu, 08 Jan 1998 11:10:48 +1000
+From: Betty Siegman <bsiegman@atnf.CSIRO.AU>
+To: "ATNF USERS":;@atnf.CSIRO.AU
+Subject: ATNF Observing Applications
+
+<center>***       AUSTRALIA TELESCOPE NATIONAL FACILITY       ***
+
+
+Applications for observing time are now invited
+
+for the following telescopes:
+
+
+Compact Array, Narrabri
+
+Parkes Radiotelescope
+
+Mopra Antenna, Coonabarabran
+
+and for VLBI Observations using any or all of the above.
+
+
+
+*****************************************************************
+
+*     CLOSING DATE for applications is 15th February 1998       *
+
+*     4 MONTH Observing term MAY to AUGUST 98 (98MAYT)          *
+
+*****************************************************************
+
+
+IF THE CLOSING DATE FALLS AT THE WEEKEND OR ON A PUBLIC HOLIDAY
+
+IT IS EXTENDED TO 1700 AEST ON THE NEXT WORKING DAY
+
+
+Application forms are available in WWW
+
+<underline><color><param>0000,0000,fefe</param>http://www.atnf.csiro.au/Observe/Apply/forms.html
+
+</color></underline>
+
+
+</center> 
+
+NEW COMPACT ARRAY CONFIGURATIONS 
+
+The 98MAYT period will begin on 30 April 1998 
+
+when the Array will be in the 750A configuration. 
+
+
+Normally the standard configurations available for 98MAYT would be 6C,
+1.5B, 1.5C, 750B & 750C.  However, two projects that affect the operation
+of the Array will be commenced during the 98MAYT period.  These are
+
+
+*	the construction of the NS-spur and four new stations on the EW-track
+and
+
+*
+
+*	the installation of solid panels on the surface of one CA antenna.
+
+*
+
+Both these projects aim to improve Array performance at short
+wavelengths. 
+
+Information on the Array upgrade project can be found at
+<underline><color><param>0000,0000,fefe</param>http://www.atnf.csiro.au/mnrf/mnrf.html
+
+</color></underline>
+
+It is anticipated that as much as two months of the observing term will
+be affected by these projects.  During the construction work the Array
+will be offered for astronomy on a "shared risk" basis. During that time
+there may be loss of time on part or all of the Array with only short
+notice given.   To optimise Array usage during this period two new
+temporary configurations will be offered.  These are 750E and 750F
+(described below) which use only the western part of the EW-track and so
+minimise conflict with the NS-spur construction.  
+
+They will replace 750B and 750C which were scheduled for 98MAYT. 
+
+ 
+
+To summarise, observers are invited to propose projects using
+configurations 750A, 6C, 1.5B, 1.5C, 750E & 750F. 
+
+
+New Compact Array configurations 
+
+
+The new configurations are defined below.  These can be compared with
+other configurations by referring to The Guide for Observing with the
+Compact Array 
+
+(<underline><color><param>0000,0000,fefe</param>http://www.atnf.csiro.au/Documentation/ca_obs_guide/ca_obs_guide.html</color></underline>). 
+
+ 
+
+Name	750E
+
+Stations	24   25   28   29   31
+
+Positions #* 140  147  168  172  182
+
+Baselines *    4    7   10   14   21   25   28   32   35   42
+
+
+Name	750F
+
+Stations      26   29   31   33   34
+
+Positions #* 148  172  182  190  195
+
+Baselines *    5    8   10   13   18   23   24   34   42   47
+
+
+# Positions are measured westwards from station number 1. 
+
+* Positions and baselines given in units of 15.306m. 
+
+
+
+INTERFERENCE AT NARRABRI NEAR 13-CM WAVELENGTH
+
+
+Since the beginning of April 1997, intense radio interference has been
+experienced in the frequency band 2300 - 2400 MHz.  This has been in the
+form of  several 'spikes' occurring at intervals of 14 MHz across the
+band.  This unexpected interference appears to be transmitted from Mt
+Dowe, east of the Compact Array.  Investigations are continuing;  it is
+suspected that the signals result from tests associated with future
+Pay-TV channels in bands set up as Multipoint Distribution Stations (MDS)
+by the Spectrum Management Agency in Canberra.  
+
+
+The consequence of this is that interference-free continuum observations
+are no longer possible in the 'recommended' Compact Array 13-cm band
+centred on 2368 MHz.  A band centred at a higher frequency of 2495 MHz
+appears to be a suitable  alternative.
+
+
+
+MOPRA
+
+There may be some restrictions to usage of Mopra during 98MAYT, but
+proposers should assume that the standard systems at Mopra (including the
+3mm receiver) will be available for much of the term. 
+
+ 
+
+Further details are available on the Web at
+<underline><color><param>0000,0000,fefe</param>http://wwwatnf.atnf.csiro.au/
+
+</color></underline>
+
+PARKES
+
+The Parkes Radiotelescope will be available for the entire 98MAYTerm. 
+
+
+Refer to:
+
+<underline><color><param>0000,0000,fefe</param>http://www.atnf.csiro.au/Observe/Apply/availability.html</color></underline>
+OR
+
+<underline><color><param>0000,0000,fefe</param>http://wwwpks.atnf.csiro.au/today/long_term_schedule/pks_details.html
+
+</color></underline>
+
+Other documentation is located in:
+
+
+<underline><color><param>0000,0000,fefe</param>http://www.atnf.csiro.au/Documentation/ca_obs_guide/
+
+http://www.atnf.csiro.au/Documentation/vlbi/vlbi_guide/
+
+http://www.atnf.csiro.au/Observe/Apply/pks_receiver.html
+
+</color></underline>
+
+WE ARE NOW ACCEPTING ELECTRONIC SUBMISSION OF PROPOSALS.
+
+(PLEASE REFER TO WWW FOR GUIDELINES)
+
+
+Proposals should be sent to:
+
+
+Electronic:
+
+          proposals@atnf.csiro.au
+
+
+Mail:
+
+          The Director
+
+          ATNF/CSIRO
+
+          PO Box 76
+
+          Epping   NSW   2121
+
+          Australia
+
+
+
+
+Courier:
+
+          The Director
+
+          ATNF/CSIRO
+
+          Cnr Vimiera Rd & Pembroke St
+
+          Marsfield   NSW   2122
+
+          Australia
+
+
+
+
+
+_________________________________________________
+
+
+Betty Siegman
+
+Secretary
+
+ATNF Time Assignment Committee
+
+
+Email: bsiegman@atnf.csiro.au
+
+Tel: +61 (0)2 9372 4407
+
+Fax: +61 (0)2 9372 4310
+
+
+
+
+
+
+_________________________________________________
+
+
+Betty Siegman
+
+Secretary
+
+ATNF Time Assignment Committee
+
+
+Email: bsiegman@atnf.csiro.au
+
+Tel: +61 (0)2 9372 4407
+
+Fax: +61 (0)2 9372 4310
+
+

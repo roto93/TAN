@@ -1,0 +1,237 @@
+Date: Mon, 01 Oct 2012 01:45:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Sep 25 - 30, 2012)
+
+============================================================================== 
+
+In this issue (Sep 25 - 30, 2012)
+
+1. FAST Science Symposium (Oct 29 - Nov 03)
+2. Advanced Radio Astronomy Workshop - Commissioning Skills and Preparation
+  for the SKA (Nov 13-16)
+3. NTHU Astronomy Colloquium (Oct 05): Masanori Nakamura (ASIAA)
+4. ASIAA Colloquium (Oct 05): Anthony Gonzalez (University of Florida)
+
+==============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Subject: Fwd: FAST Science Symposium
+> Date: Tue, 25 Sep 2012 11:49:13 +0800
+> Cc: riaa@asiaa.sinica.edu.tw
+> To: astro@asiaa.sinica.edu.tw
+
+FYI, information about the science symposium on FAST to be held in =
+Guiyang, China.
+
+Begin forwarded message:
+
+> From: Di Li <ithaca.li@gmail.com>
+> Date: September 24, 2012 9:48:38 AM GMT+08:00
+> To: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Subject: Re: FAST Science Symposium
+>=20
+> International Symposium on Frontiers in Radio Astronomy 2012
+>     (http://fra2012.csp.escience.cn)
+>=20
+> We are excited to announce the first international science symposium =
+"Frontiers in Radio Astronomy" to be held in Guiyang,=20
+> China between Oct 29th and Nov 3rd.  This meeting will focus on recent =
+development in radio astronomy and to explore the=20
+> promises of FAST early science operation.=20
+>=20
+> The Five-hundred-meter Aperture Spherical radio Telescope (FAST) is a =
+Chinese "mega-science" project (arXiv:1105.3794)=20
+> funded by the National Development and Reform Commission (NDRC) and =
+managed by the National Astronomical Observatories (NAO)=20
+> of Chinese Academy of Sciences (CAS). Incorporating a series of =
+innovative engineering concepts and designs,=20
+> FAST will be the largest radio antenna upon the finishing of its =
+construction. FAST also represents Chinese=20
+> contribution to the international efforts to build the square =
+kilometer array (SKA).=20
+> Being the largest single dish radio telescope, FAST will enable =
+astronomers to make significant strides=20
+> toward many science goals, such as surveying the neutral hydrogen in =
+the Milky Way and other galaxies,=20
+> detecting faint pulsars, searching for the most distant masers, =
+hearing the possible signals from other=20
+> civilizations, etc. The building of FAST has attracted worldwide =
+attention and been widely reported in international media,=20
+> such as the Nature magazine, the Sky & Telescope magazine, and the New =
+York Times.
+>=20
+> Sited in the Guizhou province in southwestern part of China, FAST is =
+expected to produce first light toward the end of 2016. =20
+> To support science preparation and train young radio astronomers with =
+first hand experience, the Ministry of Science=20
+> and Technology granted a fundamental science program (program 973) =
+titled "Frontiers in=20
+> Radio Astronomy and FAST Early Science" between 2012 and 2016. Based =
+on the capacity and science drivers of FAST,=20
+> the 973 program aims to integrate six interdependent and complementary =
+subjects with the observational techniques of FAST.=20
+> The six subjects are
+>=20
+> 1. Radio observations and theoretical studies of Pulsars;
+> 2.  =46rom atoms to stars:  radio studies of the interstellar medium =
+and the star formation;
+> 3. Galaxy structure and evolution;
+> 4. Cosmology and dark mater;
+> 5. Radio spectroscopy and Masers;
+> 6. Low-frequency multi-beam receivers and the design of VLBI systems.
+>=20
+> With the first FAST science symposium, we hope to bring together =
+international experts in these and=20
+> related fields to foster frank discussion and help refine the science =
+goals of FAST.=20
+
+==============================================================================
+
+> Date: Wed, 26 Sep 2012 15:20:08 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Announcement - Advanced Radio Astronomy Workshop - Commissioning
+>  Skills and Preparation for the SKA (fwd)
+
+---------- Forwarded message ----------
+> Date: Wed, 26 Sep 2012 07:27:03 +0100 (BST)
+> From: Roshene McCool <mccool@skatelescope.org>
+> To: ska@skatelescope.org
+> Subject: Announcement - Advanced Radio Astronomy Workshop - Commissioning
+>    Skills and Preparation for the SKA
+
+Please pass this on to those of your aquaintance who may be interested in the worskshop below.
+Apologies if you have received this mail from multiple mail exploders.
+
+==========================================================================
+
+              RadioNet workshop
+          ADVANCED RADIO ASTRONOMY
+Commissioning Skills and Preparation for the SKA
+
+13 November morning to 16 November lunchtime 2012
+          JBCA, University of Manchester, UK
+
+http://www.alma.ac.uk/events/radionet-advanced-radio-astronomy
+
+The upgraded and new radio arrays (ALMA, e-MERLIN, JVLA, KAT7, LOFAR , ASCAP,
+MeerKAT, NOEMA, SKA etc.) aim to make their data accessible to all astronomers.
+Nonetheless, there is still a need for a core of experts to lead ambitious
+science projects and to test, operate and develop radio instruments.
+
+This workshop will communicate skills that you need to help comission a radio
+interferometry array or work on early science data. Talks and discussion
+sessions will share best practices between people working on the arrays,
+lessons from comissioning scientists and the experiences of working on early
+science data. Real issues which have arisen at individual arrays will be used
+as examples for problem-solving group sessions.
+
+Sessions will be led by expert astronomers and engineers from these arrays; so
+far confirmed:
+
+    Robert Laing (ALMA),
+    Simon Garrington (e-MERLIN/VLBI),
+    Rick Perley (JVLA),
+    Michiel Brentjens (LOFAR)
+    Anita Richards (RadioNet),
+    Roshene McCool (SKA)
+
+There is no registration fee but please register as soon as possible at since
+capacity is limited.
+http://www.alma.ac.uk/events/RegisterAdvancedRadioInterferometry
+
+email: RadioNetARICSNov2012@jb.man.ac.uk
+
+
+"Exploring the Universe with the world's largest radio telescope"
+
+Roshene McCool
+Element System Engineer: Signal Transport and Networks
+Tel: +44 161 275 4092
+Fax: +44 161 275 4049
+Mob: +44 7730 528 228
+Email: mccool@skatelescope.org
+Web: www.skatelescope.org
+
+Registered Address:
+
+SKA Organisation
+
+Jodrell Bank Centre for Astrophysics
+
+Rm 3.116, Alan Turing Building
+
+The University of Manchester
+
+Manchester, M13 9PL, UK
+
+
+Registered in England & Wales
+
+Company Number: 07881918
+
+==============================================================================
+
+> Date: Fri, 28 Sep 2012 18:33:20 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+-------------------------------------------------
+                NTHU
+        Astronomy Colloquium
+-------------------------------------------------
+
+    2:20 p.m. 5 Oct. 2012 (Friday)
+    NTHU Physics Building, Rm620
+
+  Speaker: Dr. Masanori Nakamura
+            (ASIAA)
+
+  Title: M87: THE "ROSETTA STONE'' OF AGN JETS
+
+  Tea/Discussion Time is followed,
+  the food would be on the table all the way
+  from the beginning of the talk at 2:20 p.m.
+  We will see if AGN Jets can scatter your
+  attention from the food !  All Welcome !
+-------------------------------------------------
+
+==============================================================================
+
+> Date: Sun, 30 Sep 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Anthony Gonzalez (University of Florida)
+Topic:        Galaxy Clusters at z=1-2: An Infrared View
+Time:        10/5 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+While the galaxy cluster population at z<1 has long been accessible, only in recent years has it become possible to identify and study statistical cluster samples in the redshift regime z=1-2. This era is of particular interest because it is expected to be the formation epoch for the first massive galaxy clusters and also provides a direct view of the cluster galaxy population during a period of significant star formation and mass assembly. In this talk I will describe a series of surveys based upon Spitzer and WISE data that are designed to identify large samples of clusters at these redshifts, complementing the new generation of Sunyaev-Zel'dovich surveys. I will also present recent results, including a few surprises, from detailed follow-up studies of a subset of these clusters with HST, Spitzer, and ground-based facilities.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

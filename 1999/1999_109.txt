@@ -1,0 +1,101 @@
+From kyl@asiaa.sinica.edu.tw Sat May 15 13:07:10 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA23516; Sat, 15 May 1999 11:15:37 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id LAA17954; Sat, 15 May 1999 11:12:15 +0800
+Date: Sat, 15 May 1999 11:12:15 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: GCNEWS - Vol. 9, May 1999 - Advance Notice (fwd)
+Message-Id: <Pine.GSO.3.96.990515111213.18908E-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3101
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Fri, 14 May 1999 15:00:01 +0200
+From: Galactic Center Newsletter <gcnews@mpifr-bonn.mpg.de>
+To: gcnews_exploder@sun184.mpifr-bonn.mpg.de
+Subject: GCNEWS - Vol. 9, May 1999 - Advance Notice
+
+                         ADVANCE NOTIFICATION
+                      GCNEWS Vol. 9, May 1999
+ -----------------------------------------------------------------------
+|Contents:                                                              |
+|=======================================================================|
+|* Article "2MASS and the Galactic Center" by Van Dyk et al.            |
+|* Editorial: GC98 is over, GCNEWS is back                              |
+|* 27 new GC Abstracts                                                  |
+|* And Finally .... ! (Creative transcription errors)                   |
+ -----------------------------------------------------------------------
+
+Dear GCNEWS subscriber,
+
+Volume 9 of GCNEWS is now ready. We are sending you the PostScript
+version in a subsequent mail (1.5Mb). The HTML version of the
+Newsletter, which you can read with your browser is available now at
+http://www.mpifr-bonn.mpg.de/gcnews/gcnews/Recent/
+
+You will receive one PS file within the next hours:
+
+gcnews.ps - the uncompressed PostScript file (roughly 1.5Mb)
+
+We would greatly appreciate if you could print a second copy for your
+library, unless they have already subscribed to GCNEWS.
+
+We hope you enjoy this new issue!
+
+The GCNEWS Team
+Angela Cotera & Heino Falcke
+
+P.S.: Please inform us if you did not receive the newsletter within a
+day. Your cooperation is appreciated.
+
+........................................................................
+                              INSTRUCTIONS
+........................................................................
+
+You can get the Newsletter in less than 2 minutes if you follow the
+instructions:
+
+------------------------------------------------------------------------
+How to get it
+------------------------------------------------------------------------
+I) Use the "mail2ps" script we sent to you with the first distribution
+   (if you still have it), select the GCNEWS Vol. 6 PS file from
+   the menu and save or print it
+
+   mail2ps can also be downloaded from our Web-page and can be very useful
+   if you often receive PS files by email.
+------------------------------------------------------------------------
+
+OR
+
+------------------------------------------------------------------------
+
+II) If you did not install mail2ps or you don't have UNIX:
+
+a) Save the gcnews.ps mail and manually ...
+b) ... delete everything before the first line beginning with 
+   %!PS-Adobe-2.0
+c) Send the edited file to the PostScript printer or PS viewer
+------------------------------------------------------------------------
+
+

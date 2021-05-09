@@ -1,0 +1,141 @@
+From kyl@astro.uiuc.edu Fri Dec 28 16:49 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA00776
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 28 Dec 2001 16:49:40 +0800 (CST)
+Received: from sirius.astro.uiuc.edu (sirius.astro.uiuc.edu [128.174.51.24])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA01837
+	for <astro@asiaa.sinica.edu.tw>; Fri, 28 Dec 2001 16:49:24 +0800 (CST)
+Received: from lai250.astro.uiuc.edu (lai250.astro.uiuc.edu [128.174.51.6])
+	by sirius.astro.uiuc.edu (8.11.0/8.11.0) with ESMTP id fBQHhaR13563
+	for <astro@asiaa.sinica.edu.tw>; Wed, 26 Dec 2001 11:43:36 -0600 (CST)
+Date: Wed, 26 Dec 2001 11:43:36 -0600 (CST)
+From: "K. Y. Lo" <kyl@astro.uiuc.edu>
+To: astro@asiaa.sinica.edu.tw
+Subject: Global e-VLBI Workshop - First Announcement (fwd)
+Message-ID: <Pine.GSO.4.20.0112261142590.22451-100000@lai250.astro.uiuc.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4667
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Tue, 04 Dec 2001 09:56:01 -0500
+From: Alan R. Whitney <awhitney@haystack.mit.edu>
+To: ddc@lcs.mit.edu, Jim Calvin <jcalvin@ll.mit.edu>,
+     lorraine prior <lprior@ll.mit.edu>, Leslie Weiner <lweiner@ll.mit.edu>,
+     Herbert Durbeck <Herbert.R.Durbeck.1@gsfc.nasa.gov>,
+     Bill Fink <William.E.Fink.1@gsfc.nasa.gov>,
+     Charles.Kodak@Honeywell-TSI.com, Paul Lang <lang@eiger.nasa.atd.net>,
+     Aruna Muppalla <Aruna.Muppalla.1@gsfc.nasa.gov>,
+     Dan Magorian <magorian@nts.umd.edu>, Tom Lehman <tlehman@isi.edu>,
+     Jerry Sobieski <jerrys@maxgigapop.net>, heggestad@ll.mit.edu,
+     robey@ll.mit.edu, kupiec@ll.mit.edu, williams@iu.edu, jhicks@indiana.edu,
+     Antonio Rius <rius@laeff.esa.es>, jbreckin@nsf.gov,
+     kkellerm@cv3.cv.nrao.edu, jr@bigbang.hut.fi, marscher@bu.edu,
+     Lyle Skjerve <lskjerve@jpl.nasa.gov>, vlbi@cv3.cv.nrao.edu
+Subject: Global e-VLBI Workshop - First Announcement
+
+
+Connecting the Global VLBI Array in the New Era of High-Speed Networks
+-
+MIT Haystack Observatory
+Westford, MA, USA
+-
+8-9 April 2002
+-
+a workshop sponsored by
+-
+International VLBI Service (IVS) <ivscc.gsfc.nasa.gov>
+Global VLBI Working Group (GVWG)
+MIT Haystack Observatory <http://www.haystack.edu/>
+-
+-----------------------
+1st ANNOUNCEMENT (please distribute further as desired)
+-----------------------
+-
+---------------
+Objectives
+---------------
+With the world increasingly wired for high-speed data communications, the 
+prospects for routine global electronic transmission of VLBI data (dubbed 
+'e-VLBI') become brighter every day. Not only will e-VLBI help to eliminate 
+costly and complex recording equipment, but it should eventually lead to 
+data rates and volumes unattainable by traditional recording equipment. 
+This will lead to improved sensitivity, allowing new science to be explored 
+at lower costs.
+-
+This international two-day meeting at MIT Haystack Observatory is being 
+organized to explore the current state of high-speed astronomy data 
+transmission, concentrating on e-VLBI, but recognizing the synergy with 
+other astronomy applications requiring real-time or near-real-time 
+high-speed data transmissions. Among the topics to be discussed:
+-
+- International networking facilities - now and future
+- User requirements for high-speed networking
+- Reports on current and projected e-VLBI and related efforts
+- Networking protocols for real-time data transmission
+- Public vs. dedicated networks
+..- Establishing international standards for e-VLBI data transfer
+-
+Contribution of oral and poster presentations is encouraged. We expect most 
+presentations to be of a technical nature, but encourage potential users to 
+make their needs and wishes known as well. In addition, we plan to invite 
+key networking specialists and providers to present their view and 
+projections for meeting the challenges presented by e-VLBI and to provide a 
+forum for interaction with the VLBI/astronomy community.
+-
+Information on this meeting is available at 
+http://web.haystack.mit.edu/e-vlbi/meeting.html
+-
+----------------------
+Important Dates
+----------------------
+-
+3 December 2001 - First announcement
+1 February 2002 - Second announcement
+24 February 2002 - Deadline for abstract submission
+1 March 2002 - Final announcement
+10 March 2002 - Deadline for registration
+22 March 2002 - Deadline for hotel reservations
+-
+-------------
+Location
+-------------
+The workshop will be hosted by MIT Haystack Observatory in Westford, 
+Massachusetts, USA. Haystack Observatory is situated amid rolling hills on 
+1300 forested acres of MIT land 35 miles northwest of Boston. The meeting 
+will take place at the Observatory, which offers comfortable and spacious 
+surroundings with modern conference facilities. Early April is the very 
+beginning of spring in central New England, typified by cool sunny days and 
+crisp clear nights, though the weather can be quite unpredictable during 
+this time of year.
+-
+-------------
+Schedule
+-------------
+-
+Welcoming Reception: Sunday, 7 April 2002, 1800 EST
+Sessions: Monday & Tuesday, 8-9 April 2002, 0830-1800 EST
+-
+----------------
+Registration
+----------------
+-
+Registration is now open. There is no registration fee. However, due to the 
+capacity of Haystack Observatory conference facilities, attendance will be 
+limited to about 80, so register early! Please register on-line at 
+http://web.haystack.mit.edu/e-vlbi/meeting.html
+-
+------------------------
+Transportation and Accommodations
+------------------------
+-
+Information on local transportation and accommodations is available on the 
+web site at http://web.haystack.mit.edu/e-vlbi/meeting.html
+
+
+
+
+

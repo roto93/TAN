@@ -1,0 +1,207 @@
+==============================================================================
+
+In this issue (Jan 10 - 14, 2016)
+
+1. NAASC Workshop on Molecular Gas in Galactic Environments
+2. ASIAA Colloquium/Seminar/Lunchtalk (Jan 18): Hyosun Kim (ASIAA)
+                                      (Jan 18): Andrew Cooper (Durham Univ)
+                                      (Jan 20): Jean Coupon (Univ of Geneva)
+3. ALMA 3-mm VLBI call for proposals
+
+==============================================================================
+
+> From: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> Subject: NAASC Workshop on Molecular Gas in Galactic Environments
+> Cc: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+Dear all,
+
+Here I send you the Call for Abstracts of the North American
+ALMA Science Center (NAASC) Workshop on "Molecular Gas in
+Galactic Environments."  If you are studying molecular gas
+in nearby galaxies, please consider presenting your results.
+
+Support for students are particularly good, so if students
+have good results (and supervisors have enough budget to
+support), please consider sending students, too.
+
+Cheers,
+Satoki
+on behalf of SOC
+
+
+-------
+
+NAASC Workshop on Molecular Gas in Galactic Environments
+
+
+--- Call for Abstracts ---
+
+We are delighted to announce a Call for Abstracts for the 2016 NAASC
+Workshop on Molecular Gas in Galactic Environments to be held April 4 –
+7, 2016, in Charlottesville, VA.
+
+https://science.nrao.edu/science/meetings/2016/molecular-gas-in-galactic-environments/home
+
+ALMA’s line sensitivity and spectral grasp has resulted in the
+identification and imaging of more than forty molecules outside the
+Milky Way.  The workshop focuses on the character of the molecular gas
+in the varied environments in which these molecules are found beyond our
+Galaxy.  This international conference will bring together ALMA, VLA and
+GBT users and potential users of other upcoming facilities, such as
+ngVLA, JWST, and TMT to consider what capabilities or upgrades to these
+instruments might facilitate the study of extragalactic molecules most.
+
+Major Topics of Discussion Include:
+
+•Exploring the relationship between molecular distributions and physical
+processes in those galaxies
+•Investigating the roles of molecular variation in extreme metallicity
+environments
+•Examining the existence and cause of isotopic gradients within galaxies
+•Scrutinizing variations in molecular excitation, both rotational and
+vibrational
+•Seeking evidence for and causes of molecular abundance gradients
+•Identifying molecules useful as probes of nuclear infall and outflow
+•Determining the prospects of molecules as probes of black hole masses.
+
+Confirmed Invited Speakers:
+
+•       Francesco Costagliola
+•       Nanase Harada
+•       Christian Henkel
+•       Leslie Hunt
+•       Takuma Izumi
+•       Adam Leroy
+•       Sergio Martin
+•       Gergö Popping
+•       Dominik Riechers
+•       Nick Scoville
+•       Jean Turner
+
+This 4-day NAASC workshop will consist of a number of invited talks to
+guide the discussions of relevant questions to be addressed. Contributed
+abstracts will be solicited, and the SOC will select a subset for oral
+presentations, with the rest accepted as posters. Registration will
+include workshop materials, daily breakfast, breaks, and a welcome
+reception. An optional conference dinner will also be available.
+Submissions by students and early-career researchers are especially
+encouraged.
+
+To promote their attendance, students are offered a discounted
+registration rate and a free double-occupancy room in the conference
+hotel for the duration of the conference.
+
+Abstract submission is now available via the conference website – the
+deadline is February 7th.  Registration will open the week of January
+11, and Early Bird registration rates will be available until the
+abstract deadline
+
+We look forward to seeing everyone in Charlottesville in April!
+-------
+
+==============================================================================
+
+> Date: Thu, 14 Jan 2016 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Hyosun Kim (ASIAA)
+Topic:          My first lover: an active star forming region W51B
+Time:           1/18 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Andrew Cooper (Durham University)
+Topic:          TBA
+Time:           1/18 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Jean Coupon (University of Geneva)
+Topic:          Probing the relationship between Galaxies and Dark Matter with Lensing and Clustering in CFHTLenS/VIPERS
+Time:           1/20 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+I will present recent results on the connection between galaxies and dark matter haloes up to z=1, measured from a combined lensing and clustering analysis in the CFHTLS/VIPERS field. We obtained 30 deg2 of deep NIR data over the entire VIPERS area: whereas this program was initially designed to get robust stellar masses for the spectroscopic targets, we have shown that when properly calibrating photo-z's with spectro-z's and accounting for photo-z error in the modelling, one is able to get accurate constraints from projected clustering and galaxy-galaxy lensing from a photometric sample. This significant increase in survey area for such depths and good lensing data allowed us to consistently probe the Mstar-Mh relation from the peak of the stellar-to-halo mass ratio (SHMR) up to the most massive clusters, a key asset to bring new insights on galaxy evolution.
+
+==============================================================================
+
+> From: Shigehisa Takakuwa <takakuwa@asiaa.sinica.edu.tw>
+> Subject: ALMA 3-mm VLBI call for proposals
+> Date: Thu, 14 Jan 2016 12:54:31 +0900
+> To: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+ Dear ALMA Taiwan people,
+
+ Proposal call for the GMVA with the phased ALMA is issued.
+Note the deadline is very soon, Feb. 1. Please see below
+and the links for details. In the EA region, Nagai-san
+(hiroshi,nagai at nao.ac.jp) can answer your inquiries on this.
+
+ Sincerely,
+ Shigehisa Takakuwa, on behalf of ALMA Taiwan
+
+
+-----
+
+=
+https://almascience.nao.ac.jp/news/participation-of-alma-in-gmva-observati=
+ons-in-alma-cycle-4
+
+Participation of ALMA in GMVA observations in ALMA Cycle 4=20
+
+It is expected that phased ALMA will participate in some GMVA =
+observations during=20
+ALMA Cycle 4 at 3mm wavelengths (Oct 1 2016 - Sept 30 2017; see the ALMA
+Cycle 4 Pre-announcement
+(https://almascience.nao.ac.jp/news/alma-cycle-4-pre-announcement)). The
+number of ALMA dishes in the phased array is likely to be 30 - 40. ALMA
+will not be in a configuration suitable for VLBI during GMVA Session II
+2016. GMVA session dates during Cycle 4 are not yet fixed but Session I
+in 2017, which is likely to be in March or April, should provide an
+opportunity for GMVA + ALMA observing. (GMVA Session II in 2017 is
+unlikely to overlap in Cycle 4 with ALMA in a configuration suitable for
+VLBI.)
+
+Any GMVA proposal requesting phased ALMA during Cycle 4 must be =
+submitted via=20
+the NRAO Proposal Submission Tool (PST) at the February 1, 2016 deadline
+at NRAO Interactive Services. Use of the PST requires registration in
+the NRAO User Database.
+
+For details, please see the link at the top.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

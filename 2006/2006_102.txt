@@ -1,0 +1,74 @@
+
+> Date: Tue, 13 Jun 2006 20:31:29 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Subject: colloquium talks
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Please distribute the announcement on the TAN. Thank you. Daisuke
+
+---------------------------------------------------------------------------
+                               Colloquium
+                      at the Institute of Astronomy,
+                       National Central University
+
+Date: 14:00, 16/Jun/2006
+Loc.: Room 1013, Science Building IV, National Central University
+Speaker: Liu Cheng-Chien (NCKU, Disaster Prevention Research Center)
+Title: Modelling the radiative transfer in aquatic environments
+Abstract:
+The quantitative study of the interactions of light with the aquatic
+environment on earth, such as oceans, estuaries, lakes, rivers and
+other water bodies, plays an essential role in hydrologic optics. For
+a body of water with a constant index of refraction, the radiative
+transfer equation (RTE) can be derived from more fundamental
+equations, such as Maxwell's electromagnetic equation, quantum
+mechanics and the Boltzmann equation. In the past two decades,
+advances in radiative transfer theory have enabled a realistic
+simulation of the underwater light field based on the numerical
+approach. However, the computation requirement of these numerical
+models is too high to apply in modelling the oceanic system. The
+progress of modeling the oceanic system is impeded somewhat in that
+while we know that error exists, and have the tool to correct the
+error, we simply cannot afford to use that tool. As a result, we all
+tolerate and live with error in simpler but faster models. This talk
+summarizes a series of works conducted in the past eight years, with
+the intention to develop a fast and accurate model of underwater
+scalar irradiance for applications in modelling the oceanic
+system. The same approach might be applicable to the realm of
+astronomy to study the radiative transfer in stellar atmospheres.
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+                               Colloquium
+                      at the Institute of Astronomy,
+                       National Central University
+
+Date: 11:30, 21/Jun/2006
+Loc.: Room 1013, Science Building IV, National Central University
+Speaker: Andrea Richichi (European Southern Observatory)
+Title: The Giant with 8 Eyes: latest news from the ESO Very Large
+       Telescope Interferometer
+Abstract: 
+The ESO VLTI is arguably the most powerful optical interferometer
+currently in operation. It is based on the four 8.2 meter telescopes
+of the VLT, as well as four movable 1.8 meter telescopes of which
+three are currently in operation. Equipped with two facility
+instruments for the near- and mid-infrared which are available to the
+international community, the VLTI can be used in visitor or service
+mode in a user-friendly approach not dissimilar from any other
+instrument offered by ESO.
+I will give an overview of the current status of the VLTI and its
+near-future developments, and present some of the main scientific
+highlights which span subjects as diverse as stellar astrophysics,
+AGNs, stellar physics and star formation.
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

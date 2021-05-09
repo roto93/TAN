@@ -1,0 +1,83 @@
+> Date: Fri, 2 Oct 2015 12:40:23 +0900
+> Subject: KVN call for proposals
+> From: Bong Won Sohn <bwsohn@kasi.re.kr>
+> To: evntech <evntech@jb.man.ac.uk>, "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>         vlbi@listmgr.cv.nrao.edu, merlin-announce@jb.man.ac.uk,
+>         astro@asiaa.sinica.edu.tw
+> Cc: Anton Zensus <azensus@mpifr-bonn.mpg.de>,
+>         "David.Jauncey@csiro.au" <David.Jauncey@csiro.au>,
+>         Jon Romney <jromney@aoc.nrao.edu>, gabuzda@caesar.ucc.ie,
+>         Leonid Gurvits <lgurvits@jive.nl>, greenhill@cfa.harvard.edu,
+>         Phil Edwards <Philip.Edwards@csiro.au>, moran@cfa.harvard.edu,
+>         Robert.A.Preston@jpl.nasa.gov, julvesta@aoc.nrao.edu,
+>         Mike Garrett <garrett@jive.nl>,
+>         Richard Porcas <p222rwp@mpifr-bonn.mpg.de>,
+>         Raphael Bachiller <r.bachiller@oan.es>,
+>         Francisco Colomer <f.colomer@oan.es>, roy@oso.chalmers.se,
+
+
+*******************************************
+Call for Proposals 2016A (KVN VLBI)
+*******************************************
+
+Dear colleagues,
+
+The Korean VLBI Network (KVN, http://kvn.kasi.re.kr/) invites scientific
+proposals
+for VLBI observations during the 2016A season from Astronomers over the
+world.
+Observations of successful proposals will be scheduled between 15th January
+2016 and 15th June 2016.
+Proposals should be emailed to kvnprop@kasi.re.kr before the deadline of UT
+08:00 (KST17:00)
+on 2nd November 2015.
+
+Korean VLBI Network (KVN)
+
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network,
+operated by Korea Astronomy and Space Science Institute (KASI,
+http://www.kasi.re.kr).
+Its three 21m radio telescopes are located in Seoul, Ulsan and Jeju Island
+around South Korea.
+The baseline lengths ranges from 305km to 476 km. Its 4-channel receiving
+system allows
+simultaneous observation at 22, 43, 86, and 129 GHz. For 2016A season, 22,
+43, and 86 GHz are available.
+Risk-share Observation at 129 GHz is available. Total machine time of 300
+hours are planned for this call.
+The maximum observation time of a proposal will be limited to 100 hours. If
+requested in the proposals,
+the observation time can be allocated over a year, until January 15, 2017,
+for this call.
+But the maximum observation time will be NOT increased.
+Details of the information and current status of the KVN can be found in
+the KVN VLBI Status Report
+(http://kvn.kasi.re.kr/status_report_2014/).
+Proposer should fill the KVN VLBI proposal form (tex file can be found
+at http://kvn.kasi.re.kr/index.html/obs_proposal.php). Please carefully
+follow
+the instruction of the proposal form. A separate scientific and technical
+justification is mandatory.
+This Justification should be submitted together with the proposal form and
+not exceed 3 pages.
+
+
+Hyun-Goo Kim
+Director of Radio Astronomy Division, KASI
+
+
+
+--
+-------------------------
+Sohn, Bong Won
+Korean VLBI Network, KASI
+bwsohn@kasi.re.kr
+
+Tel.+82-(0)42-865-2173
+Fax.+82-(0)42-865-2050
+
+--001a1137b048737fa3052116ec0d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

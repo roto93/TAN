@@ -1,0 +1,119 @@
+=============================================================================
+
+In this issue (May 02 - 09, 2020)
+
+1. NTNU Astronomy Colloquium (May 12): Wei-Hao Wang (ASIAA)
+2. [KVN2020B] Call for Proposals for KVN for the 2020B semester
+
+==============================================================================
+
+Subject: NTNUES colloquium 12/May/2020: Adventure in the Dark Universe Dusty
+                                       Galaxies: from small sample to BIG DATA
+From    chenlw <chenlw@ntnu.edu.tw>
+Date    2020-05-08 19:08
+
+   Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         12/May/2020 14:20
+  Room S101, 1F, Research Building
+
+
+TITLE: Adventure in the Dark Universe Dusty Galaxies: from small sample to BIG DATA
+
+SPEAKER: Dr Wei-Hao Wangï¼ˆInstitute of Astronomy and Astrophysics, Academia Sinicaï¼‰
+
+
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+==============================================================================
+
+From: Kiyoaki Wajima <wajima@kasi.re.kr>
+To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+    > <vlbi@nrao.edu>,
+    > <merlin-announce@jb.man.ac.uk>,
+    > <astro@asiaa.sinica.edu.tw>
+Subject: [KVN2020B] Call for Proposals for KVN for the 2020B semester
+Date: Wed, 6 May 2020 14:47:31 +0000
+
+Dear colleagues,
+
+This e-mail is to announce 'Call for Proposals (CfP) for the Korean VLBI Network' (KVN)
+for the 2020B semester. Please refer to the following KVN website for more details about
+the array's specification, available observation modes, and how to submit proposals.
+
+https://kvn.kasi.re.kr/
+
+Best regards,
+
+
+Kiyoaki Wajima
+(KASI; in place of KVN director)
+
+-----------------------------------------------
+
+________________________________________________________
+
+Call for Proposals 2020B (KVN VLBI)
+Proposal submission deadline: 15th June, 2020, 08:00 UT
+KVN website: http://kvn.kasi.re.kr
+________________________________________________________
+
+
+The Korean VLBI Network (KVN) invites scientific proposals for VLBI observations during
+the 2020B season from astronomers around the world. Observations of successful proposals
+will be scheduled between 1st September 2020 and 15th January 2021. Proposals should be
+submitted via the KVN website (http://kvn.kasi.re.kr) before the deadline of UT 08:00
+(KST 17:00) on 15th June 2020.
+ 
+ 
+** Korean VLBI Network (KVN) **
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by the Korea
+Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr). Its three 21m
+radio telescopes are located around South Korea in Seoul, Ulsan, and Jeju Island.
+The baseline length ranges from 305km to 476 km.
+
+The simultaneous multi-frequency (22/43/86/129 GHz) observing mode in a dual-polarization
+is available. Available data rates are 1, 2, 4, and 8 Gbps. Total time of 300 hours are
+planned for this call. If requested in the proposals, the observation time can be allocated
+over a year, until June 15, 2021, but the observation time will not be increased. Proposers
+should use the KVN VLBI observing application form and carefully follow the instructions
+on the KVN website. The scientific and technical justification must be provided within
+3 pages. Details of the information and current status of the KVN can be found in the KVN
+status report on the KVN website (http://kvn.kasi.re.kr). Proposals should be submitted
+via the KVN website.
+
+
+** Note on the EATING VLBI observations**
+According to the MoA between INAF and KASI up to 30 hours of observing time in VLBI mode
+are allocated to approved EATING VLBI projects. These projects have to be submitted both
+to the Italian and Korean TACs with the standard form selecting "EATING VLBI" mode in the
+project type. Approved projects will be observed up to 30 hours/semester. Projects exceeding
+30 hours will be scheduled together with all other projects according to their relative
+grades. PIs of these proposals must be associated with INAF or KASI.
+
+
+Kee-Tae Kim
+Director of Radio Astronomy Division, KASI
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

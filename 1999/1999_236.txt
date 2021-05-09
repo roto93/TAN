@@ -1,0 +1,244 @@
+From kyl@asiaa.sinica.edu.tw Thu Nov 11 08:41 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA01003
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 11 Nov 1999 08:41:23 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA24663
+	for <astro@asiaa.sinica.edu.tw>; Thu, 11 Nov 1999 08:40:44 +0800
+Date: Thu, 11 Nov 1999 08:37:19 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Leap Second Questionnaire (fwd)
+Message-ID: <Pine.SOL.4.10.9911110836481.1681-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6117
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Sun, 7 Nov 1999 17:18:41 GMT
+From: Demetrios N Matsakis <dnm@orion.usno.navy.mil>
+To: kyl@astro.uiuc.edu
+Subject: Leap Second Questionnaire
+
+Dear Project Manager or Scientist,
+ 
+It is beeing proposed to change the definition of Coordinated Universal
+Time (UTC) regarding the insertion of leap-seconds, possibly even
+eliminating their use.  Leap seconds are introduced so as to keep UTC
+synchronized (within 0.9 s) to the time scale determined from the
+Earth's rotation.
+ 
+Should no new leap seconds be inserted, solar time will diverge from
+atomic time at the rate of about 2 seconds every 3 years, and after
+about a century |UT1-UTC| would exceed 1 minute.  Although no
+fundamental problems are anticipated, it is very likely that Y2K-like
+problems may result in software that assumes UT1=UTC, or |UT1-UTC|< some
+value, or whose input/output records use a field size that can only 
+accommodate |UT1-UTC| values up to one second.
+ 
+To gather information, an URSI Commission J Working Group was formed,
+consisting of Don Backer, Wim. N. Brouw, Barry Clark, Irwin Shapiro,
+Ir. E. Van Lil, and myself.
+ 
+We would like to ask you to consult with the members of your institute
+who currently deal with UT1-UTC, and give us a considered response to
+the following two questions:
+ 
+A. If the appropriate international bodies decide to eliminate the
+insertion of new leap seconds, would you foresee any practical problems
+for your institution/instrument/observations?
+ 
+     yes ___
+ 
+  *  no  ____
+ 
+  *  possibly ____
+ 
+     (* please explain any known or possible problems)
+ 
+B. Would you be in favor of such a proposal?
+ 
+     yes ____
+ 
+     no  ____
+ 
+     indifferent ___
+
+     have better idea ___
+ 
+     (feel free to comment)
+
+C. Is there anyone else you would recommend we contact?
+    (feel free to forward this eamil directly)
+ 
+I would appreciate your assistance, and a response by January 15 to
+dnm@orion.usno.navy.mil.
+ 
+I am attaching a list of institutions and persons contacted, except
+for 931 institutions whose emails were obtained from the AAS. I would
+like to apologize to anyone contacted twice, but also appreciate it if
+you would forward this email to anyone we have missed.  Also, if you
+are an URSI Commission J national chair, we would appreciate your
+forwarding this email to your complete membership and in particular to
+the directors of observatories.
+
+Sincerely,
+ 
+Demetrios Matsakis
+________________________________________________________________________
+Dr. Demetrios N. Matsakis            Director, Time Service Department
+(202) 762-1587  DSN 762-1587         U. S. Naval Observatory
+FAX (202) 762-1511                   3450 Massachusetts Avenue NW 
+dnm@orion.usno.navy.mil              Washington DC, USA  20392-5420
+________________________________________________________________________
+
+List of Recipient Email Addresses
+
+a.green@physics.usyd.edu.au
+afs@astro.caltech.edu
+agl@jb.man.ac.uk
+ajk@astro.uni.torun.pl
+anders@oso.chalmers.se
+ardenne@nfra.nl
+arrajehi@kacst.edu.sa 
+asmagal@oa.fc.up.pt
+astro@uibk.ac.at 
+azensus@mpifr-bonn.mpg.de
+baan@nfra.nl
+baudry@observ.u-bordeaux.fr
+bclark@aoc.nrao.edu
+benz@astro.phys.ethz.ch 
+berv@acad.latnet.lv
+bfburke@space.mit.edu
+blitz@astro.umd.edu
+blitz@gmc.berkeley.edu
+butcher@nfra.nl
+cho@apissa.issa.re.kr
+c.oliver@uws.edu.au
+dbacker@astro.berkeley.edu
+demerson@nrao.edu
+dixon-r@osu-20.ircc.ohio-state.edu
+djauncey@atnf.csiro.au
+dmanches@atnf.csiro.au
+dmcconne@atnf.csiro.au
+don.morton@hia.nrc.ca
+eir@jach.hawaii.edu
+emmanuel.vanlil@esat.kuleuven.ac.be
+ems@smyles.jpl.nasa.gov
+Frank_Drake@seti.org
+fukui@a.phys.nagoya-u.ac.jp
+george.resh@jpl.nasa.gov
+george@bootes.hartrao.ac.za
+gerard@obspm.fr 
+goldsmit@astrosun.tn.cornell.edu
+gomez@cay.es
+gomez@oan.es
+grewing@iram.fr
+gswarup@ncra.tifr.res.in
+halvarez@das.uchile.cl 
+hans@astro.su.se
+hirax@vsop.isas.ac.jp
+i.robson@jach.hawaii.edu
+inatani@nro.nao.ac.jp
+indus@astro.ku.dk
+inoue@nao.ac.jp 
+inoue@nro.nao.ac.jp
+ishiguro@nro.nao.ac.jp
+jbaars@phast.umass.edu
+jes@wells.haystack.edu
+jhs@astro.auth.gr 
+jlockman@nrao.edu
+jlzhao@center.shao.ac.cn
+jreynold@atnf.csiro.au
+jromney@nrao.edu
+jsalah@HAYSTACK.MIT.EDU
+jwhiteoa@atnf.csiro.au
+kaufmann@craae.mackenzie.br 
+ken.tapping@hia.nrc.ca
+ken@spica.usno.navy.mil
+kgolap@aoc.nrao.edu
+kjj@astro.usno.navy.mil
+kmenten@mpifr-bonn.mpg.de
+kuiper@jpl.nasa.gov
+kweiler@SNe.nrl.navy.mil
+kyl@astro.uiuc.edu
+leo@das.uchile.cl
+lestrade@obspm.fr
+lizg@ms.sxso.ac.cn
+lmatveen@iki.rssi.ru
+lnl@ira.kharkov.ua
+mattila@cc.helsinki.fi
+mbailes@swin.edu.au
+mcalabre@atnf.csiro.au
+mgoss@aoc.nrao.edu
+moran@cfa.harvard.edu
+myers@cfa.harvard.edu
+nkardash@dpc.asc.rssi.ru
+noah@wise.tau.ac.il
+NRD@bao01.bao.ac.cn
+ohishi@nro.nao.ac.jp
+ozel@mam.gov.tr
+p073twi@mpifr-bonn.mpg.de
+padrielli@astbo1.bo.cnr.it
+par@sao.stavropol.su
+ped@drao.nrc.ca
+per.maltby@astro.uio.no
+peter.dewdney@hia.nrc.ca
+Peter.McCulloch@utas.edu.au
+pfg@astosun.tn.cornell.edu
+phjj@hippo.ru.ac.za 
+phys051@canterbury.ac.nz 
+pjewell@nrao.edu
+pmcc@physvax.phys.utas.edu.au
+pnapier@nrao.edu
+pnw@jb.man.ac.uk
+ps11@prism.gatech.edu
+pvandenb@nrao.edu
+rao@ncra.tifr.res.in 
+rdd@jb.man.ac.uk
+rekers@atnf.csiro.au
+rgiaccon@eso.org
+richard@mrao.cam.ac.uk
+rjc@jb.man.ac.uk
+rkandali@bao.sci.am
+rnorris@atnf.csiro.au 
+rogerg@oma.be
+roy@oso.chalmers.se
+rts@jive.nfra.nl
+rwielebinski@mpifr-bonn.mpg.de
+seppo.urpo@hut.fi
+ishapiro@cfa.harvard.edu
+snyder@prairie.astro.uiuc.edu
+stefan.michalowski@oecd.org
+sur@vipunen.hut.fi
+tarter@astron.berkeley.edu
+tll@drao.nrc.ca
+tofani@arcetri.astro.it 
+tom.landecker@HIA.NRC.CA
+Toshio.Fukushima@nao.ac.jp
+uao@public.wl.xj.cn
+ukr-ursi@guukr.freenet.kiev.ua
+vandriel@mesioq.obspm.fr
+wbrouw@atnf.csiro.au
+wreich@mpifr-bonn.mpg.de
+wsy@bao01.bao.ac.cn 
+
+(In addition to the above, 931 institutions which have provided
+email contacts to the AAS are being contacted.)
+
+

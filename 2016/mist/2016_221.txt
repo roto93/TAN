@@ -1,0 +1,132 @@
+==============================================================================
+
+In this issue (Dec 24, 2016 - Jan 03, 2017)
+
+1. Arizona Radio Observatory - Call for Proposals: Spring 2017 (Jan 20)
+2. Gravitational Wave Activities in Taiwan (GWTW 2017) on Jan 15
+3. NTHU Astronomy Colloquium/Seminar Series (Jan 06): Li-Wen Liao & Lu Yin(NTHU)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2017)
+------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT) located on
+Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
+located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period February 15 to June 15, 2017. Graduate student
+participation is especially encouraged. The proposal deadline for this 2017
+spring semester is set on January 20, 2017 (Friday).
+
+The new 12m antenna supports an ALMA Band-3 (84-116 GHz) dual-polarization SBS
+(sideband-separating) receiver. The SMT currently supports a dual-polarization
+ALMA Band-6 1-mm (211-275 GHz) receiver with SBS mixers, a dual-polarization
+Band-7 (320-370 GHz) receiver, and a Band-9 (602-720 GHz) dual-polarization
+receiver with ALMA Band-9 mixers. The SMT control system supports both
+dual-polarization ("2 IF mode"), and dual-polarization, dual-sideband
+observations ("4 IF mode"), as well as OTF mapping. Proposal candidates should
+consult the ARO website for technical specifications:
+  https://www.as.arizona.edu/arizona-radio-observatory
+
+Proposal candidates should download the updated Proposal Summary Sheet here:
+  https://www.as.arizona.edu/proposals-0
+Proposal candidates are required to list on the Proposal Summary Sheet their
+requested observing blocks (LST ranges), dates (MST=UTC-7hrs) on which they are
+NOT available to observe, and dates in which sources in those observing blocks
+are within the Sun-avoidance zone (44 degrees at the SMT, 10 degrees at the
+12m). Proposal candidates are also encouraged to submit up to THREE pages of
+scientific and technical justification (including figures and/or tables) with
+their Proposal Summary Sheet.
+
+Operator-assisted remote observing is available. Observers who plan to observe
+remotely must supply fixed IP address(es) of the computer(s) that will be used
+during observing on their Proposal Summary Sheet. Information about remote
+observing can be viewed at: http://aro.as.arizona.edu/remote/remote.htm .
+
+Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by
+midnight (23:59 CST) January 20, 2017 (Friday).
+
+==============================================================================
+
+> From: Albert Kong <akong@phys.nthu.edu.tw>
+> Date: Sat, 24 Dec 2016 00:32:13 +0000
+> Subject: Gravitational Wave Activities in Taiwan (GWTW 2017) on Jan 15, 2017
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+We are going to organize a one-day workshop on gravitational wave at
+AS on Jan 15. Could you please circulate the following announcement in
+TAN? Thanks and wish you a merry X'mas.
+
+Cheers,
+Albert
+
+**************************************
+Dear All,
+
+We are going to have a one-day workshop at Academia Sinica on the
+Gravitational Wave activities in Taiwan (GWTW 2017) on Jan 15, 2017.
+
+http://grqc.ncts.ncku.edu.tw/GW2017/
+
+We will invite special guests:
+Prof. Takaaki Kajita (ICRR director and KAGRA PI)
+Prof. Rick Savage (LIGO Hanford Observatory)
+
+as well as many other speakers on experimental and theoretical GW activities.
+
+If you are interested in this workshop, please feel free to contact:
+Sadakazu.Haino(AT)cern.ch
+or kindly make a registration on the web page by Jan 7, 2017:
+http://grqc.ncts.ncku.edu.tw/GW2017/regi.html
+
+Best Regards,
+Sadakazu Haino
+Institute of Physics, Academia Sinica
+
+==============================================================================
+
+> Date: Fri, 30 Dec 2016 17:42:28 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 6th Jan. 2017 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker A: Li-Wen Liao (NTHU)
+
+Title: SiO Shocks of the Protostellar Jet HH 212
+================================================
+Speaker B: Lu Yin (NTHU)
+
+Title: B-mode Polarization of the CMB
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

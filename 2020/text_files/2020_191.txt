@@ -1,0 +1,341 @@
+=============================================================================
+
+In this issue (Dec 04 - 12, 2020)
+
+1. Announcement of SOKENDAI Asia Winter School 2021
+2. [Shida CAG seminar] (Dec 11 - late): Avani Patel (NTNU)
+3. NTNU Phys Colloquium (Dec 09 - late): YANG, Hsiang-Yi Karen (NTHU)
+4. [Shida CAG seminar] (Dec 18): : Joshua Yao-Yu Lin (UIUC)
+5. First announcement for the Galaxy Evolution Workshop 2020
+6. NTNUES astronomy Colloquium (Dec 15): Lapo Fanciullo (ASIAA)
+
+==============================================================================
+
+From: Shoko Koyama <skoyama@asiaa.sinica.edu.tw>
+Date: Sat, 5 Dec 2020 09:21:54 +0800
+Subject: Fwd: Announcement of SOKENDAI Asia Winter School 2021
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof. Kuan,
+Could you help forward this to TAN?
+Thank you,
+Shoko
+-----------
+Dear all,
+
+I am forwarding the email about the winter school of SOKENDAI, the Graduate
+University for Advanced Studies, at the department of astronomical science,
+Japan.
+The school this time will be held online in February, 2021, and no
+registration fee is required.
+The title of each lecture will be announced soon.
+The school expects to have many students attending from overseas.
+
+If you know any undergrad/grad students who are interested, please feel
+free to forward this.
+
+Thank you,
+Shoko
+
+---------- Forwarded message ---------
+From: <hideyuki.kobayashi@nao.ac.jp>
+Date: Fri, Dec 4, 2020 at 5:07 PM
+Subject: Announcement of SOKENDAI Asia Winter School 2021
+To: Shoko Koyama <skoyama@asiaa.sinica.edu.tw>
+
+SOKENDAI Asia Winter School 2021
+
+The Department of Astronomical Science, SOKENDAI, invites young researchers
+from Asia to join the SOKENDAI Asia Winter School 2021. The aim of the
+school is to offer high-level educational experience to both undergraduate
+and graduate students as well as to demonstrate the department's
+cutting-edge research activities. The school consists of two parts;
+intensive lecture series and hands-on sessions. The lectures cover a wide
+area of astronomy and are given by world-leading researchers. The hands-on
+sessions offer an opportunity for students to experience astronomy
+research. This year's school is an online school. No registration fee is
+needed. Interested students are encouraged to register at the website:
+https://www.soken.ac.jp/event/6870/.  The registration deadline is December
+25th.
+
+==============================================================================
+
+Date: Tue, 08 Dec 2020 14:42:31 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: [CAG seminar] 2020 Dec. 11 room B101
+
+Dear all,
+
+This Friday we will have Avani Patel, new postdoctoral researcher who
+joined the physics department a month ago, to share with us her work on
+gravitational waves.
+Lunchbox will be offered. Please reserve the before Thursday noon
+through the following link:
+https://forms.gle/cHfvVsBDZRpG73za8
+
+Best,
+Yueh-Ning
+
+Speaker: Avani Patel
+
+Time: 12:20 Dec. 11
+
+Venue: room B101 NTNU GongGuan campus
+
+Title : Gravitational Self-force in the context of Extreme Mass Ratio
+Inspirals
+
+Abstract : When a stellar mass object is captured into an inspiral orbit
+of a supermassive blackhole having mass around 10^6-10^9 M_0 then the
+gravitational waves emitted are called extreme mass ratio
+inspirals(EMRIs). These inspirals are slow and gradual and hence the
+frequency of EMRIs ranges between 10^(-3) to 1 Hz. Since the
+inspiralling object is very small compared to the central  object their
+dynamics are dominated by the spacetime metric of the central blackhole
+as a result the gravitational waves from EMRIs can encode the spacetime
+structure of a central object with a high accuracy. In this talk, I will
+discuss the properties of EMRIs and the basic concept of the
+gravitational self force(GSF) in the context of EMRI waveform modeling.
+
+-- 
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+==============================================================================
+
+From: Yueh-Ning Lee <ynlee@ntnu.edu.tw>
+Date: Tue, 8 Dec 2020 16:00:59 +0800
+Subject: Dec/09 NTNUPHY colloquium
+To: TAN <astro@asiaa.sinica.edu.tw>
+
+http://www2.phy.ntnu.edu.tw/news/news.php?Sn=1859
+
+--=20
+Yueh-Ning Lee
+Assistant professor
+Department of Earth Sciences, National Taiwan Normal University
+<http://www.es.ntnu.edu.tw/main.php>
+Center of Astronomy and Gravitation <http://iweb.ntnu.edu.tw/cag/>
+Tel: +886-2-7749-6417
+=E6=9D=8E=E6=82=85=E5=AF=A7
+=E5=9C=8B=E7=AB=8B=E5=8F=B0=E7=81=A3=E5=B8=AB=E7=AF=84=E5=A4=A7=E5=AD=B8 =
+=E5=9C=B0=E7=90=83=E7=A7=91=E5=AD=B8=E7=B3=BB =E5=8A=A9=E7=90=86=E6=95=99=
+=E6=8E=88
+
+==============================================================================
+
+Date: Fri, 11 Dec 2020 20:52:41 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: [CAG seminar] 18/Dec/2020 12:20 B101
+
+Dear all,
+
+Next Friday (Dec 18) our CAG seminar will be given by Joshua Yao-Yu Lin.
+He will share with us how to apply machine learning technique to black
+hole imaging. If you wish to order lunchbox, please reserve [1] before
+Thursday noon.
+
+Best,
+
+Yueh-Ning
+
+-----------------------------------------------------------------------------
+Speaker: Joshua Yao-Yu Lin (UIUC)
+Time: 12:20 pm, 2020 Dec. 18
+Venue: B101
+
+Title: Feature Extraction on Synthetic Black Hole Images with Neural
+Networks
+
+Abstract: The Event Horizon Telescope (EHT) recently released the first
+horizon-scale images of the black hole in M87. Combined with other
+astronomical data, these images constrain the mass and spin of the black
+hole as well as the accretion rate and magnetic flux trapped on the
+black hole. An important question for EHT is how well key parameters
+such as spin and trapped magnetic flux can be extracted from present and
+future EHT data alone. Here we explore parameter extraction using a
+neural network trained on high resolution synthetic images drawn from
+state-of-the-art simulations. We find that the neural network is able to
+recover spin and flux with high accuracy. We are particularly interested
+in interpreting the neural network output and understanding which
+features are used to identify, e.g., black hole spin. Using feature
+maps, we find that the network keys on low surface brightness features
+in particular.
+
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+Links:
+------
+[1] https://forms.gle/XHFgXVPaYKSfLbqT6
+
+==============================================================================
+
+SUBJECT: Fwd: first announcement for the Galaxy Evolution Workshop 2020
+DATE: 2020-12-10 15:37
+FROM: Li-Hwai Lin <lihwailin@asiaa.sinica.edu.tw>
+CC: Yen-Ting Lin <ytl@asiaa.sinica.edu.tw>, Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+
+Dear Prof. Kuan,
+
+Could you help circulate the following announcement through TAN? Thank
+you in advance for your help!=20
+
+best,=20
+Lihwai
+
+---------- Forwarded message ---------
+=E5=AF=84=E4=BB=B6=E8=80=85=EF=BC=9A LI-HWAI LIN <lihwailin@asiaa.sinica.=
+edu.tw>
+Date: 2020=E5=B9=B412=E6=9C=8810=E6=97=A5 =E9=80=B1=E5=9B=9B =E4=B8=8B=E5=
+=8D=883:35
+Subject: first announcement for the Galaxy Evolution Workshop 2020
+To: riaa <riaa@asiaa.sinica.edu.tw>
+Cc: Li-Hwai Lin <lihwailin@asiaa.sinica.edu.tw>=20
+
+Dear colleagues,
+
+It is our pleasure to announce the Galaxy Evolution Workshop 2020,
+jointly hosted by astronomers in Japan, Korea, and Taiwan. Please use
+the meeting website
+(https://events.asiaa.sinica.edu.tw/workshop/20210202/index.php) for
+registration. The details are also appended below. We look forward to
+your participation.=20
+
+Best Regards,=20
+Hiroyuki Hirashita, Yen-Ting Lin, and Lihwai Lin
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D GALAXY EVOLUTION WORKSHOP 2020
+[DATE] 2021 February 2 (Tue) - 5 (Fri)
+Online=20
+
+Meetin website:
+https://events.asiaa.sinica.edu.tw/workshop/20210202/index.php=20
+
+[SCIENTIFIC RATIONALE]
+The field of galaxy evolution covers a wide range of astrophysical
+scales: from the cosmic large-scale structure to a central black hole of
+the Milky Way Galaxy. This is a rapidly evolving field and thus it is
+important to understand astrophysical processes operating on various
+physical scales to draw a complete picture of the galaxy evolution.
+While a workshop focused on some specific aspects of galaxies is useful,
+a workshop with a broader scope essentially on everything about galaxies
+is highly complementary. Motivated by this, we hold a galaxy evolution
+workshop every year to improve our understanding of the complex nature
+of galaxies and their evolution over time. This fiscal year in 2020,
+this workshop will be virtual.
+
+The spirit of the workshop is;
+(1) to present and discuss recent (and new!) results, and
+(2) to discuss what the next steps will be.
+We very much appreciate presentations by young scientists. We hope this
+workshop will make the galaxy community stronger on a long run.
+
+In the past workshops, we had talks and discussions in Japanese, but we
+adopted English as an official language of the last workshop, in order
+to further 'educate' young people.
+This fiscal year, to foster the exchange between East-Asia astronomical
+community, this workshop is jointly hosted by Japan, Taiwan and Korea.
+Any presentations related to galaxies (from the Milky Way to the most
+distant galaxies) are welcome. In addition to general science sessions,
+we have a focus session. We focus on the 'Black holes and co-evolution'.
+This topic is one of the main streams of galaxy evolution science from
+both theoretical and observational perspectives. We will invite a few
+key people from this topic and discuss it deeply. We also welcome
+oral/poster contributions about Black holes and co-evolution science. We
+look forward to seeing you at the workshop!
+
+[KEYNOTE SPEAKERS]
+- Keiichi Asada (ASIAA; TBC)                           Event Horizon
+Telescope
+- Karen Yang (National Tsing Hua University)     Galactic Scale AGN
+feedback
+- Jong-Hak Woo (Seoul NationalUniversity, Astronomy) Local-to-mid
+redshift AGN feedback
+- Ji-Hoon Kim (Seoul National University, Physics)   Cosmological
+simulation of AGN feedback
+- Kohei Inayoshi (Peking University)                   SMBH formation
+- Yoshiki Matsuoka (Ehime University)                 High redshift AGN
+and co-evolution
+
+[Registration deadline]
+Abstract submission: January 22
+Registration: January 29 (no registration fee)
+
+[Organizing Committee]
+Kohei Hayashi (Tohoku Univ., chair)
+Takuma Izumi (NAOJ)
+Taiki Kawamuro (NAOJ/UDP)
+Hidenobu Yajima (Tsukuba Univ.)
+Junko Ueda (NAOJ)
+Fumie Tazaki (NAOJ)
+Yen-Ting Lin (ASIAA)
+Lihwai Lin (ASIAA)
+Myungshin Im (Seoul National Univ.)
+Myung-Kook Jee (Yonsei Univ.)
+Ho Seong Hwang (KASI)
+Hiroyuki Hirashita (ASIAA)
+
+[CONTACT]
+Please contact:
+gew2020 (add @googlegroups.com [1])
+
+[CODE OF CONDUCT]
+The organizers strongly oppose any discrimination or harassment based on
+gender, sexual orientation, ethnic origin, language, religion, political
+or other opinion, physical appearance, disability, or age. If you
+experience, see, or hear any speech or acts violating our policy above,
+do not hesitate to let us know.=20
+
+Links:
+------
+[1] http://googlegroups.com
+
+==============================================================================
+
+SUBJECT: [ES Colloquium] Dec. 15 14:20 S101
+DATE: 2020-12-11 21:50
+FROM: CAG <cag@deps.ntnu.edu.tw>
+
+    Department of Earth Sciences
+  National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+         C O L L O Q U I U M
+        =====================
+          15/Dec/2020 14:20
+   Room S101, 1F, Research Building
+
+TITLE: Interstellar Dust and Magnetic Fields: The Importance of
+Multi-Wavelength Polarization in the Future of Astronomical Research
+
+SPEAKER: Dr Lapo Fanciullo (ASIAA)
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20201215.pdf [1]
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+-- 
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+Links:
+------
+[1] http://140.122.144.95/colloq/abs/20201215.pdf
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

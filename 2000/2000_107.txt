@@ -1,0 +1,1456 @@
+From kyl@asiaa.sinica.edu.tw Mon Apr 17 10:58 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA00791
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 17 Apr 2000 10:56:08 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA32275
+	for <astro@asiaa.sinica.edu.tw>; Mon, 17 Apr 2000 09:09:24 +0800
+Date: Mon, 17 Apr 2000 09:10:23 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: MCNews #43 (LaTeX file) (fwd)
+Message-ID: <Pine.SOL.4.10.10004170910200.28170-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 54538
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Sat, 15 Apr 2000 15:14:12 -0500 (CDT)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: MCNews #43 (LaTeX file)
+Resent-Date: Sat, 15 Apr 2000 15:14:19 -0500 (CDT)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+\documentstyle[11pt]{article}
+\textheight=23cm
+\headheight=0pt
+\headsep=0pt
+\fboxsep=4.5pt
+\topmargin=0in
+\footheight=0.5in
+\textwidth=17cm
+\oddsidemargin=-0.5cm
+\pagenumbering{arabic}
+
+\def\vinfty{$v_{\infty}$}
+\def\spose#1{\hbox to 0pt{#1\hss}}
+\def\mdot{\.M}
+\def\msunyr{($M_{\odot}\,{\rm yr}^{-1}$)}
+\def\fm{\hbox{$.\!\!^{\rm m}$}}
+\def\fdg{\hbox{$.\!\!^\circ$}}
+\def\farcm{\hbox{$.\mkern-4mu^\prime$}}
+\def\farcs{\hbox{$.\!\!^{\prime\prime}$}}
+\def\gta{\mathrel{\spose{\lower 3pt\hbox{$\mathchar"218$}}
+     \raise 2.0pt\hbox{$\mathchar"13E$}}}
+
+% "less than or approximately"
+\def \la{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+<\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+<\cr\sim\cr}}}}}
+
+% "greater than or approximately" 
+\def \ga{\mathrel{\mathchoice   {\vcenter{\offinterlineskip\halign{\hfil
+$\displaystyle##$\hfil\cr>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\textstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptstyle##$\hfil\cr
+>\cr\sim\cr}}}
+{\vcenter{\offinterlineskip\halign{\hfil$\scriptscriptstyle##$\hfil\cr
+>\cr\sim\cr}}}}}
+
+% Alternative def for \ga:
+% \def\simgt{\hbox{ \rlap{\raise 0.425ex\hbox{$>$}}\lower 0.65ex\hbox{$\sim$} }}% Alternative def for \la:
+% \def\simlt{\hbox{ \rlap{\raise 0.425ex\hbox{$<$}}\lower 0.65ex\hbox{$\sim$} }}
+
+\def\arcdeg{\hbox{$^\circ$}}
+
+
+\begin{document}
+
+{\fbox{{\fbox{\parbox[]{17cm}{
+\bigskip
+\smallskip
+\centerline{\Huge{\sc The Magellanic Clouds Newsletter}}
+\bigskip
+\centerline{\Large \bf An electronic exchange on Magellanic Clouds research}
+\bigskip
+\smallskip
+\centerline{\bf Edited by\, Eva K.\ Grebel and You-Hua Chu}
+\smallskip
+\centerline{{\tt mcnews@astro.uiuc.edu}}
+\medskip    
+\centerline{{\tt http://www.astro.uiuc.edu/projects/mcnews/MCNews.html}}
+\centerline{{\tt http://www.astro.uni-bonn.de/\~{}mcnews/}}
+% THAT IS http://www.astro.uni-bonn.de/~mcnews/
+\bigskip
+\smallskip
+\hspace{0.5cm} {\Large\it{No.\ 43}} \hspace{10cm} {\Large\it{April 16, 2000}}
+}}}}
+
+
+\bigskip\noindent
+
+
+\begin{center}
+
+\bigskip
+{\LARGE\sc{Contents}} 
+\bigskip
+
+\begin{tabular}{lr}
+News                                & 1 \\
+Abstracts of 16 refereed papers     & 3 \\
+3 job opportunities                  & 14\\
+\end{tabular}
+\end{center}
+
+%\hrulefill
+\bigskip
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{1.7cm}{
+{\LARGE\bf{News}}
+}}}}
+
+\bigskip
+\bigskip
+
+
+\begin{center}
+{\Large\bf Release of the INES Archive 
+}\\ \bigskip\end{center}
+
+The International Ultraviolet Explorer (IUE) Archives have been delivered
+to the world scientific community on 21st March. ESA, in collaboration with
+the Spanish Laboratory of Space Astrophysics and Theoretical Physics
+(LAEFF) belonging to INTA (National Institute of Air and Space Technology),
+has developed and set up the INES system to access IUE Data.
+
+INES (IUE Newly Extracted Spectra) is a complete astronomical archive and
+data-distribution system. Its release to the community represents the final
+activity by ESA in the context of the IUE project. From now LAEFF, on
+behalf of the international astronomical community, will be responsible of
+maintaining INES, making it available and providing world-wide support to
+scientists using IUE data.
+
+The IUE Archive contains more than 110,000 spectra of more that 11,000
+astronomical objects. All data are fully reduced and calibrated.  The INES
+archive consists of:
+
+\begin{itemize}
+\item an access catalog containing the parameters required to query the 
+   archive and evaluate the observations,
+\item a publications catalog which links each spectrum to the publications in 
+   which it has been used via the ADS, 
+\item and the data themselves (low dispersion spectra, high dispersion
+   spectra rebinned to the low resolution wavelength step, full high
+   dispersion concatenated spectra, and bi-dimensional low dispersion images).
+\end{itemize}
+
+The INES Archive can be accessed at {\tt http://ines.vilspa.esa.es}.  Users can
+consult the catalogue, preview the spectra and download the data with a
+standard browser from the Principal Centre at LAEFF, its Mirror Centre
+located at the Canadian Astronomical Data Centre or any of the National
+Centres spread in all continents. This distributed system guarantees the
+availability and efficient access to the data.
+
+Questions about the INES archive can be directed to the INES Help Desk at
+
+\centerline{{\tt ineshelp@iuearc.vilspa.esa.es}\,\, or at} 
+
+\centerline{{\tt http://iuearc.vilspa.esa.es/ines\_jb/HelpDesk/}}  
+% THAT IS  http://iuearc.vilspa.esa.es/ines_jb/HelpDesk/
+
+\bigskip
+\noindent
+{\it Antonio Talavera}\\
+{\it INES Project Scientist}
+\\
+
+\bigskip
+\bigskip
+
+\begin{center}
+{\Large\bf Release of the DENIS Point Source Catalogue 
+}\\ \bigskip\end{center}
+
+The  DENIS consortium  is pleased  to  announce that  the DENIS  point
+source catalogue towards the Magellanic Clouds (DCMC) is now available
+at:
+
+\centerline{{\tt http://vizier.u-strasbg.fr/viz-bin/VizieR}}
+
+or via ftp at:
+
+\centerline{{\tt ftp ftp.strw.leidenuniv.nl}}
+
+\centerline{{\tt cd /pub/ldac/dcmc}}
+
+\centerline{{\tt mget *.gz}}
+\medskip
+
+The catalogue 
+contains about $1\,300\,000$ sources towards the LMC and $300\,000$
+sources towards  the SMC detected in  at least two of  the three DENIS
+bands ($I$, $J$, $K_s$).
+
+\bigskip
+\noindent
+{\it Maria-Rosa Cioni}\\
+\\
+
+
+\newpage
+\bigskip
+\bigskip
+
+
+\bigskip
+\centerline{
+{\fbox{\parbox[]{8.9cm}{
+{\LARGE\bf{Abstracts of Refereed Papers}}
+}}}}
+
+\bigskip
+\bigskip
+\bigskip
+
+
+
+
+
+\newcommand{\spp}{\mbox {S$^{++}$}}
+\newcommand{\op}{\mbox {O$^+$}}
+\newcommand{\opp}{\mbox {O$^{++}$}}
+\newcommand{\teff}{\mbox {$T_{\!\!\em eff}$}}
+\newcommand{\tstar}{\mbox {$T_*$}}
+\newcommand{\qh}{\mbox {$Q_{H^0}$}}
+\newcommand{\x}{\mbox {$R_{23}$}}
+\newcommand{\stt}{\mbox {$S_{23}$}}
+\newcommand{\etap}{$\eta^\prime$}
+\newcommand{\ariii}{\mbox {[Ar III]\thinspace $\lambda$7135}}
+\newcommand{\sii}{\mbox {[S II]\thinspace $\lambda\lambda$6716,\thinspace 6731}}
+\newcommand{\oii}{\mbox {[O II]\thinspace $\lambda$3727}}
+\newcommand{\siii}{\mbox {[S III]\thinspace $\lambda\lambda$9069,\thinspace 9532
+}}
+\newcommand{\oiii}{\mbox {[O III]\thinspace $\lambda\lambda$4959,\thinspace 5007
+}}
+\newcommand{\nii}{\mbox {[N II]\thinspace $\lambda\lambda$6548,\thinspace 6583}}
+\newcommand{\neiii}{\mbox {[Ne III]\thinspace $\lambda$3869}}
+\newcommand{\msun}{\mbox {${\rm M_\odot}$}}
+\newcommand{\zsun}{\mbox {${\rm Z_{\odot}}$}}
+\newcommand{\lsun}{\mbox {${\rm L_\odot}$}}
+\newcommand{\angs}{\mbox{~\AA}}
+%\newcommand{\line}{\mbox {$\lambda$}}
+\newcommand{\lines}{\mbox {$\lambda\lambda$}}
+\newcommand{\hii}{H\thinspace II}
+\newcommand{\ew}{EW(H$\beta$)}
+\newcommand{\halpha}{H$\alpha$}
+\newcommand{\ha}{\mbox {H$\alpha$}}
+\newcommand{\hbeta}{H$\beta$}
+\newcommand{\hb}{\mbox {H$\beta$}}
+%\def\ion#1#2{#1$\;${\small\rm\@Roman{#2}}\relax}
+
+\begin{center}
+{\Large\bf  An Empirical Test and Calibration of H\,{\sc ii} Region Diagnostics
+}\\ \bigskip
+{\bf       R.C. Kennicutt$^1$, F. Bresolin$^{2,3}$, H.B. French$^{4,5}$, 
+and P. Martin$^6$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Steward Observatory, University of Arizona, Tucson, AZ, USA
+         \\     $^2$  European Southern Observatory,
+	 Karl-Schwarzschild-Str. 2, D-85748 Garching b. M\"{u}nchen, Germany
+	 \\     $^3$  Present address: Institut fur Physik und Astronomie,
+	 Scheinerstr. 1, D-81679, Munich, Germany
+	 \\     $^4$  Department of Astronomy, University of
+	 Minnesota, 116 Church Street SE, Minneapolis, MN, USA
+	 \\     $^5$  Honeywell Technology Center, 3660 Technology Drive,
+	 Minneapolis, MN, USA
+	 \\     $^6$  CFHT, P.O. Box 1597, Kamuela, HI, USA
+}\\
+
+   We present spectrophotometry in the 3600--9700 \AA\ region for a
+   sample of 39 H\,{\sc ii} regions in the Galaxy and Magellanic Clouds,
+   for which independent information is available on the spectral
+   types and effective temperatures of the ionizing stars.  The
+   spectra have been used to evaluate nebular diagnostics
+   of stellar temperature, metal abundance, and ionization parameter,
+   and compare the observed behavior of the line indices with predictions
+   of nebular photoionization models.  We observe a strong degeneracy
+   between forbidden-line sequences produced by changes in stellar 
+   $T_{\!\em eff}$
+   and metal abundance, which severely complicates the application of
+   many forbidden-line diagnostics to extragalactic H\,{\sc ii} regions.  Our
+   data confirm however that the Edmunds \& Pagel 
+   [O\,{\sc ii}]$+$[O\,{\sc iii}]
+   abundance index and the V\'{\i}lchez \& Pagel \etap\ index provide
+   more robust diagnostics
+   of metal abundance and stellar effective temperature, respectively.
+   A comparison of the fractional helium ionization of the H\,{\sc ii} regions
+   with stellar temperature confirms the reliability of the spectral
+   type vs $T_{\!\em eff}$\  calibration for the relevant temperature range
+   $T_{\!\em eff} \le$ 38000 K.  We use empirical relations between the nebular
+   hardness indices and $T_{\!\em eff}$ to reinvestigate the case for systematic
+   variations in the stellar effective temperatures and the upper IMFs of
+   massive stars in extragalactic H\,{\sc ii} regions.  The data are consistent
+   with a significant softening of the ionizing spectra (consistent with
+   cooler stellar temperatures) with increasing metal abundance, especially
+   for $Z \le$ \zsun.  However unresolved degeneracies between $Z$ and 
+   $T_{\!\em eff}$\ still complicate the interpretation of this result.
+\\
+
+{\bf   
+       Accepted by:\,   The Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       
+   {\tt   robk@as.arizona.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt    http://xxx.lanl.gov/abs/astro-ph/0002180    }\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf          Resolving SNR 0540$-$6944 from LMC X-1 with Chandra
+}\\ \bigskip
+{\bf    Rosa Murphy Williams$^1$, Robert Petre$^1$, 
+        You-Hua Chu$^2$, and C.-H. Rosie Chen$^2$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  NASA's GSFC, code 662, Greenbelt, MD 20771, USA
+         \\     $^2$  Astronomy Department, University of Illinois, 
+                     1002 W. Green Street, Urbana, IL 61801, USA
+}\\
+
+We examine the supernova remnant (SNR)  0540$-$697 in the Large Magellanic
+Cloud (LMC) using data from the {\it Chandra\ } ACIS.  The X-ray emission from
+this SNR had previously been hidden in the bright emission of nearby X-ray
+binary LMC X-1;  however, new observations with {\it Chandra\ } can finally
+reveal the SNR's structure and spectrum. We find the SNR to be a
+thick-shelled structure about 19 pc in diameter, with a brightened
+northeast region.  Spectral results suggest a temperature of 0.31 keV and
+an X-ray luminosity (0.3--3.0 keV) of 8.4 $\times 10^{33}$ erg s$^{-1}$.  
+We estimate an age of 12,000--20,000 yr for this SNR, but note that this
+estimate does not take into account the possibility of cavity expansion or
+other environmental effects.
+\\
+
+{\bf   
+      Submitted to:\,  Astrophysical Journal Letters
+}\\
+{\it For preprints, contact\, }       
+   {\tt   rosanina@lhea1.gsfc.nasa.gov  }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf            {\it ASCA} Observation of the New Transient X-ray 
+Pulsar\\ \medskip XTE~J0111.2$-$7317 in the Small Magellanic Cloud
+}\\ \bigskip
+{\bf       Jun Yokogawa$^1$, Biswajit Paul$^{2,3}$, Masanobu Ozaki$^2$, 
+Fumiaki Nagase$^2$, \\
+Deepto Chakrabarty$^4$, and Toshiaki Takeshima$^{5,6}$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Department of Physics, Graduate School of Science,
+Kyoto University, Sakyo-ku, Kyoto 606-8502, Japan
+         \\     $^2$  Institute of Space and Astronautical Science, 
+3-1-1 Yoshinodai, Sagamihara, Kanagawa 229-8510, Japan
+         \\     $^3$  On leave from the Tata Institute of Fundamental Research,
+Homi Bhabha Road, Mumbai, 400005, India
+         \\     $^4$  Department of Physics and Center for Space Research, 
+Massachusetts Institute of Technology, Cambridge, MA 02139, USA
+         \\     $^5$  Laboratory for High Energy Astrophysics, NASA, Goddard 
+Space Flight Center, Greenbelt, MD 20771, USA
+         \\     $^6$  Universities Space Research Association, Seabrook, 
+MD 20706, USA
+}\\
+
+The new transient X-ray pulsar XTE~J0111.2--7317 was observed with 
+{\it Advanced Satellite for Cosmology and Astrophysics} ({\it ASCA})
+on 1998 November 18, a few days after its discovery with the Proportional
+Counter Array onboard the {\it Rossi X-ray Timing Explorer}. The source 
+was detected at a flux level of $3.6\times10^{-10}$~erg~cm$^{-2}$~s$^{-1}$ 
+in the 0.7--10.0~keV band, which corresponds to the X-ray luminosity of 
+$1.8\times10^{38}$~erg~s$^{-1}$, if a distance of 65 kpc for this pulsar 
+in the Small Magellanic Cloud is assumed.  Nearly sinusoidal pulsations 
+with a period of $30.9497 \pm 0.0004$~s were unambiguously detected during 
+the {\it ASCA} observation. The pulsed fraction is low and slightly energy 
+dependent with average value of $\sim27$\%.  The energy spectrum shows a 
+large soft excess below $\sim 2$~keV when fitted to a simple power-law type 
+model. The soft excess is eliminated if the spectrum is fitted to an 
+``inversely broken power-law'' model, in which photon indices below and 
+above a break energy of 1.5~keV are 2.3 and 0.8, respectively.
+The soft excess can also be described by a blackbody or a thermal 
+bremsstrahlung when the spectrum above $\sim 2$~keV is modeled by a 
+power-law.  In these models, however, the thermal soft component requires 
+a very large emission zone, and hence it is difficult to explain the observed 
+pulsations at energies below 2~keV. A bright state of the source enables
+us to identify a weak iron line feature at 6.4~keV with an equivalent width 
+of $50\pm14$~eV. Pulse phase resolved spectroscopy revealed a slight 
+hardening of the spectrum and marginal indication of an increase 
+in the iron line strength during the pulse maximum. \\
+
+{\bf   
+       Accepted by:\,   The Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       
+   {\tt   jun@cr.scphys.kyoto-u.ac.jp}\\
+{\it Also available from the URL\, }  
+   {\tt   http://www-cr.scphys.kyoto-u.ac.jp/member/jun/job/}\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf The Ultraviolet and Optical Spectra of Metal-Deficient O Stars\\
+\medskip in the Small Magellanic Cloud
+}\\ \bigskip
+{\bf Nolan R. Walborn$^1$, Daniel J. Lennon$^2$, Sara R. Heap$^3$,
+Don J. Lindler$^4$,\\ Linda J. Smith$^5$, Christopher J. Evans$^5$, and
+Joel Wm. Parker$^6$ 
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Space Telescope Science Institute, 3700 San Martin
+Drive, Baltimore, MD 21218, USA
+         \\     $^2$  Isaac Newton Group, Apartado 321, 38700 Santa Cruz
+de La Palma, Canary Islands, Spain
+         \\     $^3$  Laboratory for Astronomy and Solar Physics, Code 681, 
+Goddard Space Flight Center, Greenbelt, MD 20771, USA
+         \\     $^4$  Advanced Computer Concepts, Code 681, 
+Goddard Space Flight Center, Greenbelt, MD 20771, USA
+         \\     $^5$  Department of Physics and Astronomy, University
+College London, Gower Street, London WC1E 6BT, UK
+         \\     $^6$  Southwest Research Institute, 1050 Walnut Street,
+Suite 426, Boulder, CO 80302, USA
+}\\
+
+An ultraviolet and optical spectral atlas of 15 O stars in the SMC is
+presented and described.  The echelle data have resolving powers of order
+$10^4$; they were obtained with HST/STIS in the UV, and at the AAT or the
+ESO 3.6~m in the optical.  The ultimate objective is to develop
+metal-deficient templates for the interpretation of distant starbursts, 
+but here we discuss interesting new properties of the SMC stars themselves, 
+revealed by the high quality of these data.  The SMC metal deficiency 
+produces anomalously weak stellar-wind profiles along the entire O main 
+sequence, as well as at intermediate luminosities; the first intermediate 
+Si~IV $\lambda1400$ wind profile in the SMC is shown.  The second known Of 
+star in the SMC displays wind peculiarities that are identical to those of 
+its spectral classmate, again likely due to the low systemic metallicity.  
+Several objects display marked CNO anomalies, including the first cases of 
+C~III $\lambda4650$ emission without N~III $\lambda4640$ in O-type spectra.
+The N/C ratio appears to increase with mass, extent of evolution away from 
+the ZAMS, and/or rotational velocity in the young cluster NGC~346.  In 
+addition, the first examples of Onfp (Oef) and Of?p spectra in the SMC have 
+been found (the latter being only the fourth member of its peculiar shell 
+category known anywhere).  The UV wind characteristics of these objects 
+correlate with their optical peculiarities.  All of these spectroscopic 
+phenomena provide diagnostics of the evolutionary status of metal-deficient 
+massive stars. 
+\\
+
+{\bf   Submitted to:\,  Publications of the Astronomical Society of the
+Pacific
+}\\
+{\it For preprints, contact\, Nolan Walborn,}       
+   {\tt     walborn@stsci.edu}\\
+{\it Also available from the URL\, }  
+   {\tt   http://www.boulder.swri.edu/\~{}joel/papers.html}\\
+% THAT IS  http://www.boulder.swri.edu/~joel/papers.html
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\begin{center}
+{\Large\bf            
+Age and metallicity for six LMC clusters\\
+\medskip and their surrounding field population
+}\\ \bigskip
+{\bf       B. Dirsch$^1$,  T. Richtler$^2$, W.P. Gieren $^2$, M. Hilker $^3$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Sternwarte der Universit\"at Bonn,
+			Auf dem H\"ugel 71, 53121 Bonn, Germany
+         \\     $^2$ Universidad de Concepci\'on, Departamento de F\'{\i}sica,
+	 		Concepci\'on, Chile
+	 \\ 	$^3$  P. Universidad Cat\'olica, Departamento de 
+Astronom\'{\i}a y Astrof\'{\i}sica, Casilla 104, Santiago 22, Chile}\\
+
+
+We investigate, on the basis of CCD Str\"omgren photometry, the ages
+and metallicities of six LMC clusters together with their
+surrounding field population. The clusters and metallicities are:
+NGC 1651 (in the range $[Fe/H]=-0.65$ dex to $-0.41$ dex), NGC 1711
+($-0.57\pm0.17$ dex), NGC 1806 ($-0.71\pm0.23$ dex), NGC 2031
+($-0.52\pm0.21$ dex) and NGC 2136/37 ($-0.55\pm0.23$ dex) and
+NGC 2257 ($-1.63\pm0.21$ dex).  The metallicities for NGC 1651,
+NGC 1711, NGC 1806 and NGC 2031 have been determined for the first
+time (NGC 2031 and NGC 2136/37 are interesting for the Cepheid
+distance scale). 
+
+In the cluster surroundings, we found about 650 field stars that
+were suitable to be used for a determination of an age-metallicity
+relation (AMR).  Our method is to estimate ages for individual
+stars on the basis of Str\"omgren isochrones with individually
+measured metallicities.  With this method we are able to sample the
+AMR of the field population up to 8 Gyr.
+
+Our metallicity data are incompatible with models predicting many
+metal-poor stars (G-dwarf problem). The metallicity of the field
+population increased by a factor of six, starting around 2 Gyr ago.
+The proposed AMR is consistent with the AMR of the LMC cluster
+system (including ESO 121 SC03 and three clusters with an age of 4
+Gyr). 
+
+The proposed AMR is incompatible with the
+recently proposed AMR by Pagel \& Tautvai\u{s}vien\.e
+(1998).
+\\
+
+{\bf   
+       Accepted by:\,  Astronomy \& Astrophysics 
+}\\
+{\it For preprints, contact\, }       
+   {\tt   bdirsch@astro.uni-bonn.de}\\
+{\it Also available from the URL\, }  
+   {\tt http://xxx.uni-augsburg.de/abs/astro-ph/0004009}\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf Studies of Binary Star Cluster Candidates in the Bar of the
+LMC.\\ \medskip I: SL\,353 \& SL\,349
+}\\ \bigskip
+{\bf Andrea Dieball$^1$, Eva K. Grebel $^2$, Christian Theis $^3$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Sternwarte der Universit\"at Bonn, Auf dem H\"ugel
+71, D--53121 Bonn, F.R. Germany   \\
+                $^2$  University of Washington, Department of Astronomy,
+Box 351580, Seattle, WA 98195-1580, USA \\
+                $^3$  Institut f\"ur Theoretische Physik und Astrophysik
+der Universit\"at Kiel, D-24098 Kiel, F.R. Germany
+}\\
+
+We present a detailed study of the cluster pair SL\,353 \& SL\,349. This
+candidate binary cluster is located at the northwestern rim of the LMC
+bar. Based on photometric data we find that both clusters are coeval
+with an age of 550$\pm$100 Myr. We use the Ca\,II triplet in the spectra of
+individual red giants to derive radial velocities. Both components of the 
+binary cluster candidate show very similar mean velocities ($\approx274\pm10$
+km\,$\mbox{s}^{-1}$ for SL\,349 and $\approx279\pm4$ km\,$\mbox{s}^{-1}$ for
+SL\,353) while the field stars show lower velocities ($\approx240\pm19$
+km\,$\mbox{s}^{-1}$). These findings suggest a common origin of the two
+clusters from the same GMC. In this sense the cluster pair may constitute a
+true binary cluster. We furthermore investigate the stellar densities in and
+around the star clusters and compare them with isopleths created from
+artificial, interacting as well as non-interacting star
+clusters. Gravitational interaction leads to a distortion which can also be
+found in the observed pair.
+\\
+
+{\bf
+       Accepted by:\, Astronomy \& Astrophysics Main Journal
+}\\
+{\it For preprints, contact\, }
+   {\tt adieball@astro.uni-bonn.de }\\
+{\it Also available from the URL\, }
+   {\tt  http://xxx.lanl.gov/abs/astro-ph/0004119}\\
+
+\bigskip
+
+
+\newpage
+
+
+
+\begin{center}
+{\Large\bf Studies of binary star cluster candidates in the bar of the
+LMC. II.
+}\\ \bigskip
+{\bf Andrea Dieball$^1$ and Eva K. Grebel$^2$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Sternwarte der Universit\"at Bonn, Auf dem H\"ugel
+71, D--53121 Bonn, F.R. Germany\\
+                $^2$  University of Washington, Department of Astronomy,
+                      Box 351580, Seattle, WA 98195-1580, USA
+}\\
+
+Binary clusters account for more than 10\% of the cluster population in the
+Magellanic Clouds.  Statistically fewer than 50\% of the found pairs are
+expected to be chance superpositions. We estimated the cluster encounter rate
+and suggest that tidal capture is an unlikely formation scenario for the
+formation of binary clusters. Thus, most {\it true} binary clusters can be
+expected to have formed together.
+
+Here we present a study of three binary cluster candidates which are
+located in the bar of the LMC.
+NGC\,1971 \& NGC\,1972 are situated in the association LH\,59 in the eastern
+part of the bar. A third star cluster, NGC\,1969, is close enough to this pair
+that all three objects may constitute a triple system. We present the first age
+determination that is based on CMDs for these star clusters. Our findings
+suggest that all three clusters are young (40-70 Myr) and may have been formed
+in the same GMC. It cannot clearly decided whether the clusters are physically
+interacting or not.
+
+NGC\,1894 \& SL\,341 are located at the south-western rim of the LMC bar. This
+pair is studied in detail for the first time: The isopleths of both clusters
+reveal an elliptical shape. Whether this might be interpreted as a sign of
+interaction or is a peculiarity which is shared with a large amount of LMC
+star clusters which show higher ellipticities than their counterparts in the
+Milky Way remains unclear. From our age determination we find that both
+clusters are coeval with an age of $55\pm5$ Myr. This makes a formation from
+the same GMC a likely scenario.
+
+SL\,385 \& SL\,387 are a close pair in the western part of the LMC bar.  We
+derived ages of $170\pm30$ Myr for SL\,385 and $\ge250$ for SL\,387. The large
+age difference makes it unlikely that these two clusters formed in the same
+GMC.
+\\
+
+{\bf
+       Accepted by:\, Astronomy \& Astrophysics Main Journal
+}\\
+{\it For preprints, contact\, }
+   {\tt adieball@astro.uni-bonn.de  }\\
+%{\it Also available from the URL\, }
+%   {\tt   your http address    }\\
+
+\bigskip
+
+
+
+
+
+
+\begin{center}
+{\Large\bf The Tip of the Red Giant Branch\\ \medskip
+ and Distance of the Magellanic Clouds}\\ \bigskip
+{\bf Maria-Rosa L. Cioni$^1$, Roeland P. van der Marel$^2$, Cecile Loup$^3$,
+ and Harm J. Habing$^1$} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Sterrewacht Leiden, Postbus 9513, 2300 RA Leiden, 
+The Netherlands 
+         \\     $^2$  Space Telescope Science Institute, 3700 San Martin 
+Drive, Baltimore, MD 21218, USA
+         \\     $^3$  Institute d'Astrophysique de Paris, CNRS, 98 bis Bd. 
+Arago, 75014 Paris, France
+}\\
+
+We present a precise determination of the apparent
+magnitude of the tip of the red giant branch (TRGB) in the $I$ ($0.8
+\mu$m), $J$ ($1.25 \mu$m), and $K_S$ ($2.15 \mu$m) bands from the
+luminosity function of a sample of data extracted from the DENIS
+catalogue towards the Magellanic Clouds (Cioni et
+al.\ 2000). From the $J$ and $K_S$ magnitudes we derive
+bolometric magnitudes $m_{bol}$. We present a new algorithm for the
+determination of the TRGB magnitude, which we describe in detail and
+test extensively using Monte-Carlo simulations. We note that any
+method that searches for a peak in the first derivative (used by most
+authors) or the second derivative (used by us) of the observed
+luminosity function does not yield an unbiased estimate for the actual
+magnitude of the TRGB discontinuity. We stress the importance of
+correcting for this bias, which is not generally done. We combine the
+results of our algorithm with theoretical predictions to derive the
+distance modulus of the Magellanic Clouds. We obtain $m-M = 18.55 \pm
+0.04$ (formal) $\pm 0.08$ (systematic) for the Large Magellanic Cloud
+(LMC), and $m-M = 18.99 \pm 0.03$ (formal) $\pm 0.08$ (systematic) for
+the Small Magellanic Cloud (SMC). These are among the most accurate
+determinations of these quantities currently available, which is a
+direct consequence of the large size of our sample and the
+insensitivity of near infrared observations to dust extinction.
+\\
+
+{\bf   Submitted to:\,   Astronomy \& Astrophysics
+}\\
+{\it For preprints, contact\, }       
+   {\tt  mrcioni@strw.leidenuniv.nl  }\\
+{\it Also available from the URL\, }  
+   {\tt http://arXiv.org/abs/astro-ph/3223}\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf          Pulsational $M_V$ versus $[Fe/H]$ relation(s)\\
+\medskip for globular cluster RR Lyrae variables
+}\\ \bigskip
+{\bf       F. Caputo$^1$, V. Castellani$^2$, M. Marconi$^3$, V. Ripepi$^3$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Osservatorio Astronomico di Roma, via di Frascati 33,
+00040 Monte Porzio Catone, Italy\\
+             $^2$   Dipartimento di Fisica, Piaza Torricelli 2, 56100 Pisa,
+Italy\\
+             $^3$ Osservatorio Astronomico di Capodimonte,
+Via Moiariello 16, 80131 Napoli, Italy
+}\\
+
+We  use the results from recent computations of
+updated non-linear convective pulsating models to constrain
+the distance modulus of Galactic globular clusters through
+the observed periods of first overtone ($RR_c$) pulsators.
+The resulting  relation between the mean absolute magnitude of
+RR Lyrae stars $<M_V(RR)>$ and the heavy element content $[Fe/H]$
+appears well in the
+range of several previous empirical calibrations, but with
+a non linear dependence on $[Fe/H]$ so that the slope of
+the relation increases when moving towards larger metallicities.
+On this ground, our results suggest that metal-poor ($[Fe/H]<$-1.5) and
+metal-rich ($[Fe/H]>$-1.5) variables follow two
+different linear $<M_V(RR)>-[Fe/H]$ relations.
+Application to RR Lyrae stars in the metal-poor globular clusters
+of the Large Magellanic Cloud provides a LMC distance modulus of the
+order of 18.6 mag, thus supporting  the ``long" distance scale.
+The comparison with recent predictions based on updated stellar evolution
+theory is shortly presented and discussed.\\
+
+
+{\bf   
+       Accepted by:\,   Monthly Notices of the Royal Astronomical Society
+}\\
+{\it For preprints, contact\, }       
+   {\tt   marcella@na.astro.it  }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+
+
+% If you use any special macros, please include them here: 
+\def\simlt{\hbox{ \rlap{\raise 0.425ex\hbox{$<$}}\lower 0.65ex\hbox{$\sim$} }}
+
+
+\begin{center}
+{\Large\bf Structure of the Large Magellanic Cloud from 2MASS 
+}\\ \bigskip
+{\bf       Martin D. Weinberg and Sergei Nikolaev
+} \end{center} \vskip -0.4cm
+{\footnotesize  Department of Physics \& Astronomy, University of 
+Massachusetts, Amherst, MA 01003, USA 
+}\\
+
+We derive structural parameters and evidence for extended tidal debris
+from star count and preliminary standard candle analyses of the Large
+Magellanic Cloud based on Two Micron All Sky Survey (2MASS)
+data.  The full-sky coverage and low extinction in $K_s$ presents an
+ideal sample for structural analysis of the LMC.
+
+The star count surface densities and deprojected inclination for both
+young and older populations are consistent with previous work.  We use
+the full areal coverage and large LMC diameter to Galactocentric
+distance ratio to infer the same value for the disk inclination based
+on perspective.
+
+A standard candle analysis based on a sample of carbon long-period
+variables (LPV) in a narrow color range, $1.6<J-K_s<1.7$ allows us to
+probe the three-dimensional structure of the LMC along the line of
+sight.  The intrinsic brightness distribution of carbon LPVs in
+selected fields implies that $\sigma_M\simlt 0.2^m$ for this color
+cut.  The sample provides a {\it direct} determination of the LMC disk
+inclination: $42.3^\circ\pm 7.2^\circ$.
+
+Distinct features in the
+photometric distribution suggest several distinct populations.  We
+interpret this as the presence of an extended stellar component of the
+LMC, which may be as thick as $14$~kpc, and intervening tidal debris
+at roughly 15 kpc from the LMC.
+\\
+
+{\bf   Submitted to:\,  The Astrophysical Journal 
+}\\
+{\it For preprints, contact\, }       
+   {\tt   nikolaev@redtail.astro.umass.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt   http://xxx.lanl.gov/abs/astro-ph/0003204    }\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf    The Morphologies of the Small Magellanic Cloud
+}\\ \bigskip
+{\bf   Dennis Zaritsky$^1$, Jason Harris$^2$,
+Eva K. Grebel$^3$, and Ian B. Thompson$^4$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Steward Observatory, University of Arizona, Tucson, USA
+         \\     $^2$  Lick Observatory, UCSC, Santa Cruz, USA
+         \\     $^3$  University of Washington, Seattle, USA
+         \\     $^4$  Observatories of the Carnegie Institution of Washington,
+                      Pasadena, USA
+}\\
+
+  We compare the distribution of stars of different spectral types, and hence
+mean age, within the central SMC and find that the asymmetric structures are
+almost exclusively composed of young main sequence stars. Because of the
+relative lack of older stars in these features, and the extremely regular
+distribution of red giant and clump stars in the SMC central body, we conclude
+that tides alone are not responsible for the irregular appearance of the
+central SMC. The dominant physical mechanism in determining the current-day
+appearance of the SMC must be star formation triggered by a hydrodynamic
+interaction between gaseous components. These results extend the results of
+population studies (cf. Gardiner and Hatzidimitriou) inward in radius and also
+confirm the suggestion of the spheroidal nature of the central SMC based on
+kinematic arguments (Dopita et al; Hardy, Suntzeff \& Azzopardi). Finally, we
+find no evidence in the underlying older stellar population for a ``bar'' or
+``outer arm'', again supporting our classification of the central SMC as a
+spheroidal body with highly irregular recent star formation.
+\\
+
+{\bf   
+       Accepted by:\,   The Astrophysical Journal Letters
+}\\
+{\it For preprints, contact\, }       
+   {\tt  dennis@ngala.as.arizona.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt  http://arXiv.org/abs/astro-ph/0003155   }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+\newpage
+
+ \begin{center}
+ {\Large\bf The morphology of the Magellanic Clouds revealed by stars\\
+\medskip of different age: results from the DENIS survey
+ }\\ \bigskip
+ {\bf Maria-Rosa L. Cioni$^1$, Harm J. Habing$^1$ and Frank P. Israel$^1$
+ } \end{center} \vskip -0.4cm
+ {\footnotesize  $^1$ Sterrenwacht Leiden, Postbus 9513, 
+                      2300 RA Leiden, The Netherlands 
+ }\\
+ 
+   The spatial  distribution  of sources  populating
+   different  regions  of the  colour--magnitude  diagram ($I-J$, $I$)
+   extracted from  the DENIS  catalogue towards the  Magellanic Clouds
+   (DCMC  -- Cioni et  al.\ 2000) reveal  significantly different
+   morphologies.  The  Large Magellanic Cloud (LMC)  shows an extended
+   circular  shape with  a  prominent, off center  bar,  a nucleus  and
+   irregular  spiral  arms.   The   Small  Magellanic  Cloud  shows  a
+   perturbated  structure with  a prominent  central  concentration of
+   stars. Old and young populations are offset from one another.
+ \\
+ 
+ {\bf   
+       Submitted to:\, Astronomy \& Astrophysics Journal Letters
+ }\\
+ {\it For preprints, contact\, }       
+    {\tt mrcioni@strw.leidenuniv.nl  }\\
+ 
+ \bigskip
+ 
+
+ 
+
+
+
+
+\def\that{{\hat t}}
+\def\ten#1{\times 10^{#1}}
+\def\msun{M_\odot}
+
+\begin{center}
+{\Large\bf  The MACHO Project: Microlensing Results\\ \medskip
+from 5.7 Years of LMC Observations
+}\\ \bigskip
+{\bf C.~Alcock$^{1,2}$,
+     R.A.~Allsman$^{3}$,
+     D.R.~Alves$^{12}$,
+     T.S.~Axelrod$^{4}$,
+     A.C.~Becker$^{6}$,
+     D.P.~Bennett$^{10,1}$,
+     K.H.~Cook$^{1,2}$,
+     N.~Dalal$^{2,5}$,
+     A.J.~Drake$^{2,5}$,
+     K.C.~Freeman$^{4}$,
+     M.~Geha$^{1}$,
+     K.~Griest$^{2,5}$,
+     M.J.~Lehner$^{11}$,
+     S.L.~Marshall$^{1,2}$,
+     D.~Minniti$^{1,13}$,
+     C.A.~Nelson$^{1,15}$,
+     B.A.~Peterson$^{4}$,
+     P.~Popowski$^{1}$,
+     M.R.~Pratt$^{6}$,
+     P.J.~Quinn$^{14}$,
+     C.W.~Stubbs$^{2,4,6,9}$,
+     W.~Sutherland$^{7}$,
+     A.B.~Tomaney$^{6}$,
+     T.~Vandehei$^{2,5}$,
+     D.~Welch$^{8}$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$ Lawrence Livermore National Laboratory,
+                     Livermore, CA 94550, USA
+         \\     $^2$ Center for Particle Astrophysics,
+		             University of California, Berkeley, CA 94720, USA
+         \\     $^3$ Supercomputing Facility, Australian National University,
+		             Canberra, ACT 0200, Australia
+         \\     $^4$ Research School of Astronomy and Astrophysics,
+		             Canberra, Weston Creek, ACT 2611, Australia
+         \\     $^5$ Department of Physics, University of California,
+		             San Diego, CA 92039, USA
+         \\     $^6$ Departments of Astronomy and Physics,
+		             University of Washington, Seattle, WA 98195, USA
+         \\     $^7$ Department of Physics, University of Oxford,
+		             Oxford OX1 3RH, U.K.
+         \\     $^8$ McMaster University, Hamilton, Ontario Canada L8S 4M1 
+         \\     $^9$ Visiting Astronomer, Cerro Tololo Inter-American
+             		 Observatory
+         \\     $^{10}$ Department of Physics, University of Notre Dame, 
+                              IN 46556, USA
+         \\     $^{11}$ Department of Physics, University of Sheffield,
+		              Sheffield S3 7RH, UK
+         \\     $^{12}$ Space Telescope Science Institute, 3700 San Martin Dr.,
+		              Baltimore, MD 21218, USA
+         \\     $^{13}$ Depto. de Astronomia, P. Universidad Catolica, Casilla
+		              104, Santiago 22, Chile
+         \\     $^{14}$ European Southern Observatory, Karl Schwarzschild Str.\ 
+                              2, D-8574 8 G\"{a}rching bel M\"{u}nchen, Germany
+         \\     $^{15}$ Department of Physics, University of California,
+                	  Berkeley, CA 94720, USA
+}\\
+
+We report on our search for microlensing towards the Large Magellanic
+Cloud (LMC).  Analysis of 5.7 years of photometry on 11.9 million stars 
+in the LMC reveals 13 -- 17 microlensing events.  A detailed treatment 
+of our detection efficiency shows that this is significantly more than 
+the $\sim$ 2 to 4 events expected from lensing by known stellar populations.
+The timescales ($\that$) of the events range from 34 to 230 days.  We 
+estimate the microlensing optical depth towards the LMC from events with 
+$2 < \that < 400$ days to be $\tau_2^{400} = 1.2 ^{+0.4}_{-0.3} \ten{-7}$, 
+with an additional 20\% to 30\% of systematic error.  The spatial 
+distribution of events is mildly inconsistent with LMC/LMC disk self-lensing, 
+but is consistent with an extended lens distribution such as a Milky Way or 
+LMC halo.  Interpreted in the context of a Galactic dark matter halo, 
+consisting partially of compact objects, a maximum likelihood analysis 
+gives a MACHO halo fraction of 20\% for a typical halo model with a 95\% 
+confidence interval of 8\% to 50\%.  A 100\% MACHO halo is ruled out at 
+the 95\% C.L. for all except our most extreme halo model.  Interpreted as 
+a Galactic halo population, the most likely MACHO mass is between $ 0.15 
+\msun$ and $ 0.9 \msun$, depending on the halo model, and the total mass 
+in MACHOs out to 50 kpc is found to be $9^{+4}_{-3} \ten{10}\msun$,
+independent of the halo model.  These results are marginally consistent 
+with our previous results, but are lower by about a factor of two. This 
+is mostly due to Poisson noise because with 3.4 times more exposure and 
+increased sensitivity to long timescale events, we did not find the 
+expected factor of $\sim 4$ more events.  Besides a larger data set, this 
+work also includes an improved efficiency determination, improved likelihood 
+analysis, and more thorough testing of systematic errors, especially with 
+respect to the treatment of potential backgrounds to microlensing.
+We note that an important source of background are supernovae (SNe) in
+galaxies behind the LMC.  \\
+
+{\bf   
+       Accepted by:\, The Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       
+   {\tt   griest@astrophys.ucsd.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt   http://xxx.lanl.gov/abs/astro-ph/0001272    }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+\def\that{{\hat t}}
+
+\begin{center}
+{\Large\bf  The MACHO Project: Microlensing Detection Efficiency
+}\\ \bigskip
+{\bf    C.~Alcock$^{1,2}$,
+        R.A.~Allsman$^{3}$,
+	    D.R.~Alves$^{12}$,
+	    T.S.~Axelrod$^{4}$,
+	    A.C.~Becker$^{6}$,
+	    D.P.~Bennett$^{10,1}$,
+	    K.H.~Cook$^{1,2}$,
+        A.J.~Drake$^{2,5}$,
+        K.C.~Freeman$^{4}$,
+        M.~Geha$^{1}$,
+        K.~Griest$^{2,5}$,
+        M.J.~Lehner$^{11}$,
+        S.L.~Marshall$^{1,2}$,
+        D.~Minniti$^{1,13}$,
+        C.A.~Nelson$^{1,15}$,
+        B.A.~Peterson$^{4}$,
+        P.~Popowski$^{1}$,
+        M.R.~Pratt$^{6}$,
+        P.J.~Quinn$^{14}$,
+        C.W.~Stubbs$^{2,4,6,9}$,
+        W.~Sutherland$^{7}$,
+        A.B.~Tomaney$^{6}$,
+        T.~Vandehei$^{2,5}$,
+        D.~Welch$^{8}$
+
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$ Lawrence Livermore National Laboratory,
+                     Livermore, CA 94550, USA
+         \\     $^2$ Center for Particle Astrophysics,
+		             University of California, Berkeley, CA 94720, USA
+         \\     $^3$ Supercomputing Facility, Australian National University,
+		             Canberra, ACT 0200, Australia
+         \\     $^4$ Research School of Astronomy and Astrophysics,
+		             Canberra, Weston Creek, ACT 2611, Australia
+         \\     $^5$ Department of Physics, University of California,
+		             San Diego, CA 92039, USA
+         \\     $^6$ Departments of Astronomy and Physics,
+		             University of Washington, Seattle, WA 98195, USA
+         \\     $^7$ Department of Physics, University of Oxford,
+		             Oxford OX1 3RH, U.K.
+         \\     $^8$ McMaster University, Hamilton, Ontario Canada L8S 4M1 
+         \\     $^9$ Visiting Astronomer, Cerro Tololo Inter-American
+             		      Observatory
+         \\     $^{10}$ Department of Physics, University of Notre Dame, 
+                              IN 46556, USA
+         \\     $^{11}$ Department of Physics, University of Sheffield,
+		              Sheffield S3 7RH, UK
+         \\     $^{12}$ Space Telescope Science Institute, 3700 San Martin Dr.,
+		              Baltimore, MD 21218, USA
+         \\     $^{13}$ Depto. de Astronomia, P. Universidad Catolica, Casilla
+		              104, Santiago 22, Chile
+         \\     $^{14}$ European Southern Observatory, Karl Schwarzschild Str.\ 
+                              2, D-8574 8 G\"{a}rching bel M\"{u}nchen, Germany
+         \\     $^{15}$ Department of Physics, University of California,
+                	      Berkeley, CA 94720, USA
+}\\
+
+The MACHO project is a search for dark matter in the form of massive compact
+halo objects (MACHOs).  The project has photometrically monitored tens of
+millions of stars in the Large Magellanic Cloud (LMC), Small Magellanic Cloud
+(SMC), and Galactic bulge in search of rare gravitational microlensing events
+caused by these otherwise invisible objects.  In 5.7 years of
+observations toward the LMC some 13--17 microlensing events have
+been observed by the MACHO survey, allowing powerful statements to be made
+about the nature of the dark population in the halo of our Galaxy.
+A critical component of these statements is an accurate determination of the
+survey's detection efficiency.  The detection efficiency is a complicated
+function of temporal sampling, stellar crowding (the luminosity function),
+image quality, photometry, time-series analysis, and criteria used to
+select the microlensing candidates.  Such a complex interdependence is
+most naturally solved using a Monte Carlo approach.
+Here we describe the details of the Monte Carlo used to calculate the
+efficiency presented in the MACHO 5.7-year LMC results.  A similar
+calculation was performed for MACHO's 1-year and 2-year results.  Here we
+correct several shortcomings of these past determinations,
+including (1) adding fainter source stars (2.5 magnitudes below our faintest
+detected ``stars''), (2) an up-to-date luminosity function for the LMC,
+(3) better sampling of real images in both stellar density and observing
+conditions, (4) an improved scheme for adding artificial microlensing
+onto a random sample of real lightcurves, and many other improvements.
+The Monte Carlo technique presented here realistically
+simulates the negative effects of severe crowding (blending) that
+is a fact of microlensing surveys.  \\
+
+{\bf   
+       Submitted to:\,   The Astrophysical Journal Supplement
+}\\
+{\it For preprints, contact\, }       
+   {\tt   vandehei@astrophys.ucsd.edu  }\\
+{\it Also available from the URL\, }  
+   {\tt   http://xxx.lanl.gov/abs/astro-ph/0003392    }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+
+
+\begin{center}
+{\Large\bf  Constraining the Location of Microlensing Objects\\ \medskip by 
+using the Finite Source Effect in EAGLE events 
+}\\ \bigskip
+{\bf       Takahiro Sumi$^1$ and Mareki Honma$^2$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Solar-Terrestrial Environment Laboratory, 
+                   Nagoya University, Nagoya 464-8601, Japan
+         \\     $^2$ VERA Project Office, National Astronomical Observatory,
+      2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan
+}\\
+
+We propose a new method to constrain the location of microlensing objects
+using EAGLE (Extremely Amplified Gravitational LEnsing) events.  We have 
+estimated the rate of EAGLE events by taking the finite-source effect in
+to account. We found that the EAGLE event rate for using a 1-m class 
+telescope whose limiting magnitude is $V \sim 21$ is the same as or higher 
+than that of the ordinary microlensing events which have been found to date.
+We have also found that the fraction of transit EAGLE events is large enough 
+to detect: between $4 \sim 80 \% $ depending on the lens location.
+Since the lens proper motion can be measured for a transit event, one can
+distinguish whether the lens is a MACHO (MAssive Compact Halo Object) in 
+our halo or one of the known stars in the Large Magellanic Cloud (LMC) 
+from the proper motion measurement for each transit EAGLE event.  Moreover, 
+we show that the fraction of transit EAGLEs in all EAGLE events significantly 
+depends on the lensing locations: the transit EAGLE fraction for the 
+self-lensing case is $2 \sim 15$ times larger than that for halo MACHOs.
+Thus, one can constrain the location of lens objects by the statistics of the 
+transit events fraction.  We show that we can reasonably expect $0 \sim 6$ 
+transit events out of 21 EAGLE events in 3 years. We can also constrain the 
+lens population properties at a greater than $99 \%$  confidence level 
+depending on the number of transit events detected.  We also present the 
+duration of EAGLE events, and show how an hourly observational mode is more 
+suitable for an EAGLE event search program.  \\
+
+{\bf   
+       Accepted by:\,  The Astrophysical Journal
+}\\
+{\it For preprints, contact\, }       
+   {\tt   tsumi@stelab.nagoya-u.ac.jp  }\\
+
+\bigskip
+
+%========================================================================
+
+
+
+
+\bigskip
+\bigskip
+
+
+% MACRO DEFINITIONS
+\def\mag{{$\,$mag}}
+
+{\em While the following paper does not deal with the Magellanic
+Clouds specifically, I invited its submission due to its importance 
+for calibrating photometric observations including those of
+the Magellanic Clouds.
+In particular I expect this paper to be invaluable for anyone doing 
+photometry of regions in the Magellanic Clouds using the new large southern 
+telescopes.\medskip
+
+\noindent
+Eva Grebel}
+\bigskip
+\bigskip
+
+
+\begin{center}
+{\Large\bf Homogeneous Photometry for Star Clusters and Resolved Galaxies.\\
+\medskip II.  Photometric Standard Stars
+}\\ \bigskip
+{\bf       Peter B. Stetson$^1$
+} \end{center} \vskip -0.4cm
+{\footnotesize  $^1$  Dominion Astrophysical Observatory, Herzberg Institute of
+Astrophysics, National Research Council, 5071 West Saanich Road, Victoria,
+British Columbia V8X 4M6, Canada
+}\\
+
+Stars appearing in CCD images obtained over 224 nights during the course
+of 69 observing runs have been calibrated to the Johnson/Kron-Cousins {\it
+BVRI\/} photometric system defined by the equatorial standards of Landolt
+(1992, AJ, 104, 340).  More than 15,000 stars suitable for use as
+photometric standards have been identified, where ``suitable'' means that
+the star has been observed five or more times during photometric
+conditions and has a standard error of the mean magnitude less than
+0.02\mag\ in at least two of the four bandpasses, and shows no significant
+evidence of intrinsic variability.  Many of these stars are in the same
+fields as Landolt's equatorial standards or Graham's (1982, PASP, 94,
+244) southern E-region standards, but are considerably fainter.  This
+enhances the value of those fields for the calibration of photometry
+obtained with large telescopes.  Other standards have been defined in
+fields containing popular objects of astrophysical interest, such as star
+clusters and famous galaxies, extending Landolt-system calibrators to
+declinations far from the equator and to stars of sub-Solar chemical
+abundances.  I intend to continue to improve and enlarge this set of
+photometric standard stars as more observing runs are reduced.  The full
+current database of photometric indices is being made freely available via
+a site on the World-Wide Web, or by direct request to the author.
+Although the contents of the database will evolve in detail, at any given
+time it should represent the largest sample of precise {\it BVRI\/}
+broad-band photometric standards available anywhere.
+\\
+
+{\bf   
+       Accepted by:\, Publications of the Astronomical Society of the Pacific
+}\\
+{\it For preprints, contact\, }       
+   {\tt   Peter.Stetson@nrc.ca  }\\
+
+
+\bigskip
+
+%========================================================================
+
+
+
+
+
+\bigskip
+
+
+%\bigskip
+%\centerline{  
+%{\fbox{\parbox[]{10.3cm}{
+%{\LARGE\bf{Abstracts of Non-Refereed Papers}}
+%}}}}
+%\bigskip
+%
+%\bigskip
+
+\newpage
+
+%========================================================================
+
+
+\bigskip
+\bigskip
+
+
+\bigskip\noindent
+\centerline{
+{\fbox{\parbox[]{5.4cm}{
+{\LARGE\bf{Job Opportunities}}
+}}}}
+\smallskip
+
+\bigskip
+\bigskip
+
+
+
+
+\centerline{\Large \bf Postdoctoral Research Appointment}
+\medskip
+\centerline{\Large \bf at the University of Virginia, Charlottesville}
+\bigskip
+\medskip
+
+
+Applications are invited for a postdoctoral research appointment
+with some flexibility in starting date, but with a starting date
+as soon as June 2000 possible and preferable.  The appointment
+would be for one year, with possibility of renewal for one more
+year, subject to favorable half-year review, and for continuing
+years subject to favorable reviews and funding availability.  The
+emphasis of the research is on stellar populations in the Milky Way,
+and science related to the Space Interferometry Mission (SIM) and
+the SIM Astrometric Grid.  Observational astronomers are especially
+encouraged to apply.\\
+
+Applicants should submit a vita, a statement of research interests
+and experience, and their bibliography.  They should also arrange
+to have three letters of recommendation sent.  The University of
+Virginia is an Affirmative Action/Equal Opportunity employer.  Full
+consideration will be given to completed applications received no
+later than {\em 12 May 2000}, or until the position is filled. 
+Please send all documents to:\\
+
+Dr. Steven R.\ Majewski 
+
+University of Virginia    
+
+Department of Astronomy
+
+P.O. Box 3818
+
+Charlottesville, VA  22903-0818, USA
+
+E-mail: {\tt srm4n@didjeridu.astro.virginia.edu}\\
+
+
+\bigskip
+\bigskip
+\bigskip
+
+\centerline{\Large \bf Data Analyst / Research Assistant}
+\medskip
+\centerline{\Large \bf at the University of Virginia, Charlottesville}
+\bigskip
+\medskip
+
+Applications are invited for a full time research support position
+for applicants at the BA/BS degree level.  There is some flexibility
+in starting date, but a starting date as soon as June 2000 is preferred.
+The appointment would be for one year, with possibility of renewal for
+continuing years subject to favorable reviews and funding availability.
+The position will involve analysis of data relating to research on stellar
+populations in the Milky Way, and survey data related to the Space
+Interferometry Mission (SIM) and the SIM Astrometric Grid.  Applicants
+should have a BA/BS degree in Physics or Astronomy as well as basic
+computer skills, including programming ability (C, C++ or Fortran) and
+familiarity with the UNIX environment and IRAF.  Previous experience
+with CCD reductions, either imaging or spectroscopy, would be especially
+useful.\\
+
+Applicants should submit a vita, a statement of research experience,
+and their bibliography.  They should also arrange to have three letters
+of recommendation sent.  The University of Virginia is an Affirmative
+Action/Equal Opportunity Employer.  Full consideration will be given to
+completed applications received no later than {\em 12 May 2000}, 
+or until the position is filled.  Please send all documents to:\\
+
+Dr. Steven R.\ Majewski
+
+University of Virginia
+
+Department of Astronomy
+
+P.O. Box 3818
+
+Charlottesville, VA  22903-0818, USA
+
+E-mail: {\tt srm4n@didjeridu.astro.virginia.edu}\\
+
+
+\bigskip
+\bigskip
+\bigskip
+
+
+
+\centerline{\Large \bf Postdoctoral Research Associate}
+\medskip
+\centerline{\Large \bf at the University of Cardiff, U.K.}
+\bigskip
+\medskip
+
+The Department of Physics and Astronomy at the University of Cardiff 
+invites applications for a postdoctoral research associate position
+on a fixed-term contract limited to three years.\\ 
+
+You will be working with Dr.\ Jon Davies on galaxy populations in the 
+nearby Universe. From previous work by the Cardiff group it seems 
+clear that there are large numbers of very low surface brightness 
+low luminosity galaxies in nearby clusters. This leads to a very 
+steep luminosity function consistent with numerical simulations of 
+structure formation. If these galaxies have large (M/L) they may 
+represent the major mass component of the cluster. Given that 
+clusters only represent about 10% of the galaxy population we now 
+wish to study these low luminosity galaxies in other environments, 
+i.e., groups and the general field. We have been awarded large 
+amounts of observing time to use large CCD arrays and 21cm multi-beam 
+instruments and we are actively pursuing more observational data. 
+The research group currently consists of 5 researchers (3 postdoctoral 
+and 2 postgraduate). You should hold a PhD in Astronomy or related 
+topics, or have submitted your thesis before starting the appointment.\\
+
+The Cardiff astronomy group consists of 12 academic members of staff 
+and totals about 45 researchers. Interests range from extra-galactic 
+astronomy, to gravity waves and star formation.\\
+
+
+Closing date for applications is {\em May 19, 2000}.
+The start date is as soon as possible.
+For informal discussion contact\, Dr. Jon Davies
+at the phone number of e-mail address given below.\\
+
+Dr. Jon Davies
+
+Department of Physics and Astronomy
+
+University of Wales, Cardiff
+
+5, The Parade
+
+P.O. Box 913
+
+Cardiff, CF24 3YB
+
+Wales, UK
+
+Phone:\, 44 (0) 29 2087 4144 or
+
+E-mail:\, {\tt jid@astro.cf.ac.uk}\\
+
+\noindent
+For an application form quote reference 0116 and
+call\, {\tt 44 (0) 29 2087 4017}\, or
+e-mail\, {\tt Persad@cf.ac.uk}.
+
+
+
+\end{document}
+
+

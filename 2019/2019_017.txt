@@ -1,0 +1,75 @@
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Fri, 15 Feb 2019 09:52:14 +0800
+> Subject: Colloquium talks at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+Please circulate these NCU colloquium talks; thanks.
+
+*** NCU Colloquium Talk ***
+
+*by* Yen-Chen Pan
+*on* Understanding Type Ia Supernova with UV Spectroscopy
+*at*  Feb/15 (F) 14:00 - 15:00 NCU S4-1013
+*Abstract* Ultraviolet (UV) observations of Type Ia supernovae (SNe Ia) are
+useful tools for understanding progenitor systems and explosion physics. In
+particular, UV spectra of SNe Ia, which probe the outermost layers, are
+strongly affected by the progenitor metallicity. Theory suggests that SN Ia
+progenitor metallicity is correlated with its peak luminosity, but not its
+light-curve shape. This effect should lead to an increased Hubble scatter,
+reducing the precision with which we measure distances. If the mean
+progenitor metallicity changes with redshift, cosmological measurements
+could be biased. Models also indicate that changing progenitor metallicity
+will have little effect on the appearance of optical SN data, but
+significantly alter UV spectra. To address this problem, we reduced and
+published the largest UV spectroscopic sample of SNe Ia to date. With this
+sample, we confirm theoretical predictions that SN Ia UV spectra are strong
+metallicity indicators. Our findings show that UV spectra are promising
+tools to further our understanding of SN Ia while directly improving the
+utility of SN Ia for cosmology.
+
+_______________________________________
+
+*by* Wei-Hao Wang
+*on* Faint Submillimeter Galaxies
+*at* Feb 22 (F) 14:00 to 15:00
+*Abstract* Submillimeter galaxies (SMGs) are high-redshift dust obscured
+star-forming galaxies with extremely high star formation rate (10^2 to
+>10^3 Msun/yr). They are widely regarded as progenitors of present-day
+massive elliptical galaxies. They were first discovered in the late 90=E2=
+=80=99s.
+Since then, we have slowly accumulated knowledge about this special
+population of galaxies. In the first decade since their discovery, most
+observations focused on the brightest members in this population, because
+of the limited sensitivities of submillimeter instruments. Such bright SMGs
+are extremely luminous, but are not representative in the dusty galaxy
+population. Thanks to the advent of sensitive interferometers and
+wide-field cameras, we are now pushing our studies to much fainter SMGs,
+i.e., more typical members in the dusty galaxy population. In this talk, I
+will introduce our recent works on understanding the faint SMGs and their
+relationship to normal galaxies.
+
+_______________________________________
+
+*by* Hsiang-Yi Karen Yang
+*on* The Microphysics of AGN Feedback
+*at* Feb 25 (M) 4:00 pm (*special date/time*) NCU S4 Room 1013
+*Abstract* Feedback from active galactic nuclei (AGN) is one of the most
+important processes governing the formation and evolution of galaxies and
+galaxy clusters. It is believed to be responsible for inhibiting the
+formation of massive galaxies and for solving the long-standing
+"cooling-flow problem" in galaxy clusters. A lot of understanding of AGN
+feedback has been gained using hydrodynamic simulations; however, some of
+the relevant physical processes are unresolvable or not captured by pure
+hydrodynamics, such as plasma effects and cosmic-ray (CR) physics. In this
+talk, I will present how we use simulations that incorporate this
+"microphysics" to understand how AGN jets feedback on galactic and cluster
+scales. Specifically, I will discuss our recent progress on the
+understanding of AGN heating in clusters, and how the heating processes
+depends on the AGN jet composition. I will also talk about how we could use
+multi-messenger observations of the Fermi bubbles as a nearby laboratory
+for studying AGN feedback. Finally, I will conclude with open questions and
+future prospects of applying simulations beyond hydrodynamics to various
+interesting astrophysical systems.
+
+==============================================================================

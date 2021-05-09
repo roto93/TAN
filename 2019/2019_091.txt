@@ -1,0 +1,320 @@
+
+In this issue (May 24 - Jun 02, 2019)
+
+1. Call for Proposals for KaVA and EAVN for the 2019B semester
+2. 3rd announcement: 'Future Science with Multi-Wavelength Data' at NTHU 
+3. Colloquia at NCU (Jun 12): Devendra Ojha (TIFR)
+                    (Jun 14): Chao-Lin Kuo  (Stanford U)
+                    (Jun 21): Devendra Ojha (TIFR)
+4. ASIAA Colloquium/Seminar/Lunchtalk (Jun 03): Ue-Li Pen (CITA)
+                                 (Jun 06): Bo Reipurth (University of Hawaii)
+
+==============================================================================
+
+> From: Kiyoaki Wajima <wajima@kasi.re.kr>
+> To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+>     "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>     "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+>     "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+> Subject: [REMINDER] [KaVA/EAVN2019B] Call for Proposals for KaVA and EAVN for the 2019B semester
+> Date: Fri, 24 May 2019 00:03:50 +0000
+
+Dear colleagues,
+
+This is a reminder that the proposal submission deadline for KaVA (KVN and VERA
+Array) and EAVN (East Asian VLBI Network) is approaching to June 3, 8:00 UT.
+Please visit the following website for KaVA/EAVN proposal submission since there
+is an additional notification to EAVN proposers appeared on May 8.
+
+https://radio.kasi.re.kr/kava/proposal_info.php
+
+Please refer also to the following KaVA and EAVN websites for more details about
+each array.
+
+** KaVA: http://kava.kasi.re.kr/
+** EAVN: http://eavn.kasi.re.kr/
+
+
+Best regards,
+
+Kiyoaki Wajima
+(KASI; in place of KaVA/EAVN directors)
+
+--------------------------------------------------
+
+
+***************************************************
+Call for Proposals for KaVA (KVN and VERA Array) and EAVN (East Asian VLBI Network)
+for the 2019B semester
+Proposal submission deadline: 3rd June, 2019, 08:00 UT
+***************************************************
+
+*** Overview ***
+  We invite proposals for open-use observations on KaVA (KVN and VERA Array)
+and EAVN (East Asian VLBI Network), which is the international collaborative
+VLBI array between China, Korea, and Japan. In the 2019B semester, 10 telescopes
+(KaVA 7 telescopes (KVN 3 x 21 m and VERA 4 x 20 m), Nobeyama 45 m, Tianma
+65 m, and Nanshan 26 m) will participate in the KaVA/EAVN open-use program.
+
+
+*** Observing mode ***
+  This open use call provides the opportunity of VLBI observations at 22 and
+43 GHz. Basic VLBI observations with single polarization (LHCP) and a data
+recording rate of 1 Gbps (total bandwidth of 256 MHz) is available for both
+KaVA and EAVN, while additional observing modes are available for KaVA.
+Especially, KaVA has a new observing mode, "astrometry mode", available
+for the 2019B semester. Please refer to the KaVA/EAVN status report on KaVA/
+EAVN websites for more details.
+
+
+*** Telescope time ***
+  The total available observation time for KaVA is up to 250 hours. Up to
+100 hours out of KaVA's observation time of 250 hours is allocated to EAVN
+observations. KaVA/EAVN observations will be scheduled between 1st September
+2019 and 15th January 2020. Note that the total allocatable time and available
+observing frequencies are different between each telescope. Please refer to
+the KaVA/EAVN status report for more details.
+
+
+*** Target of opportunity ***
+  KaVA/EAVN accepts target of opportunity (ToO) proposals. Although proposers
+can request the participation of Tianma and Nanshan as well as KaVA for ToO
+observations, both Tianma and Nanshan will join only on a best effort basis.
+Note that Nobeyama cannot be included for ToO proposals. It is strongly
+recommended that ToO proposals (especially expected ToO) are submitted during
+the regular Call for Proposals. Unexpected or urgent ToO can be submitted as
+Director's Discretionary Time (DDT) proposals at any time. ToO proposals must
+include clear triggering criteria to initiate an observation. ToOs are valid
+for one year after it is approved. ToO proposals for DDT should follow the same
+format of regular call and should be sent to eavnprop(at mark)kasi.re.kr.
+
+
+*** Proposal submission ***
+  The maximum observation time for a KaVA proposal is limited to 100 hours.
+If requested, the observation time can be allocated over a year until 15th
+June 2020, however the total observation time is still limited to 100 hours
+even in this case. Note that the above-mentioned conditions are applicable
+only to the KaVA's observing time, i.e., the maximum observing time for an
+EAVN proposal is limited to 24 hours and the observation will be allocated
+within a period in the 2019B semester. 
+  Please refer to the KaVA/EAVN status report for detailed information about
+the proposal format. The designated coversheet form can be downloaded via
+KaVA/EAVN websites. Proposals should be submitted via EAVN website. Proposal
+submission deadline is 3rd June 2019, 08:00 UT.
+
+
+*** Special condition for selecting proposals ***
+  All submitted proposals for KaVA/EAVN are reviewed by referees and the combined
+KaVA/EAVN Time Allocation Committee (TAC) allocates the observing time based
+on the referee's ratings. A proposal submitted for EAVN observations could be
+allocated as KaVA observations depending on its rating and decisions made by
+TAC. Proposers thus should specify the necessity of including Tianma, Nanshan,
+and Nobeyama in your
+observations.
+
+
+*** KaVA/EAVN websites ***
+  Please refer to the following KaVA and EAVN websites for more information
+about the array capabilities and detailed conditions for proposal submission.
+
+KaVA website: http://kava.kasi.re.kr/
+EAVN website: http://eavn.kasi.re.kr/
+
+
+Sincerely,
+
+Mareki Honma
+Director of Mizusawa VLBI Observatory, NAOJ
+
+Jongsoo Kim
+Director of Radio Astronomy Division, KASI
+
+Zhi-Qiang Shen
+Director of Shanghai Astronomical Observatory, CAS
+
+and
+Na Wang
+Director of Xinjiang Astronomical Observatory, CAS
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> Subject: 3rd announcement: 'Future Science with Multi-Wavelength Data' at NTHU in Taiwan
+> Date: Mon, 27 May 2019 17:09:11 +0800
+
+Dear all,
+
+This is the 3rd announcement of the international conference,
+'Future Science with Multi-Wavelength Data:
+North Ecliptic Pole Meeting 2019'
+during 24-26 June at National Tsing Hua University in Taiwan.
+Homepage
+https://seongini.wixsite.com/nepconf2
+
+We have four announcements.
+
+1. Registration deadline is approaching (by 31 May)
+The conference will cover diversity of galaxy researches including
+local/high-z galaxies, IR galaxies, AGN, and cosmic star-formation
+history. We also welcome any sciences based on multi-wavelength
+data, not limited to AKARI.
+The deadline of registration and abstract submission is 31 May.
+Please create your account and login to register.
+
+2. Free banquets
+Two free banquets are scheduled on the first (24 June) and second
+(25 June) days. First one is 'Loft' that is the best restaurant
+in NTHU campus. The second one, é¼Žæ³°è±  (din tai fung), is one of
+the most famous Chinese restaurants in Taiwan.
+
+3. Free conference T-shirt
+We prepare free conference T-shirts for all participants.
+The T-shirt design is on the conference homepage.
+
+4. Excursion
+A short trip to beautiful Beipu is scheduled on the last date, 26 June.
+We plan to go to lunch, shopping/cold spring, and DIY lei cha in Beipu.
+Sandals are fine to enjoy cold spring, while you can prepare your-own
+swimming wear if you want to jump into the cold spring. At the cold
+spring you can also buy sandals at a small shop beside.
+
+Best regards,
+Seong Jin Kim on behalf of LOC at NTHU
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Sun, 2 Jun 2019 14:29:21 +0800
+> Subject: Re: colloquium at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+ *** NCU Colloquium ***
+
+Speaker:    Dr Devendra Ojha (TIFR)
+Date/Tim*e*:   June 12 (F), 16:00 (special date/time)
+Room:   NCU, S4 Room 1013
+Title:     Near Earth and Space Science Research using Balloon Platforms
+Abstract:    The Balloon Facility of Tata Institute of Fundamental Research
+(TIFR-BF) was established in December 1970 at Hyderabad. This is the only
+major balloon facility in the world close to the geomagnetic equator. Since
+its inception, the TIFR-BF has been launching zero pressure scientific
+balloons every year for the study of various scientific applications
+especially in the field of X-ray &amp; Infrared Astronomy, Astrobiology,
+High Energy Physics and Atmospheric Science. The large variety of science
+disciplines studied using scientific balloons include the study of the Sun,
+the near Earth space environment - ionosphere, magnetosphere, aerosol
+research, space plasma and its physics &amp; chemistry, interstellar dust
+and cosmic ray particles. A unique feature of the TIFR-BF is that it has
+all aspects of Scientific Ballooning, i.e., Balloon Design, Fabrication,
+Payload Integration with Telemetry, Telecommand and other instrumentation,
+and finally Balloon Launch, Tracking, Data Collection, Balloon Flight
+Control, as also Payload Recovery, under one roof. The balloon production
+at the facility is completely indigenous, i.e. balloon material, load
+tapes, end fittings, bonding tape have been developed in-house. In recent
+times, the TIFR-BF also designed and fabricated a balloon with carrying
+capacity of 3 tons with 4 layers of 25 microns, and also oblate spheroids
+of volume ranging from 10 m 3 to 100 m 3 for testing of newly developed
+satellite payloads in laboratory at different conditions. The balloon
+flight support instrumentation at the TIFR-BF has been regularly updated
+with several innovations and advanced instrumentation for safe and highly
+reliable flights. A continuous improvement in balloon flight support
+instrumentation by the Control Instrumentation Group to keep in pace with
+the growing complexities of the scientific payloads have contributed to the
+total success of balloon flights conducted recently. In this talk, I will
+present the details of the above mentioned developments and the future upgr=
+ade
+plans.
+
+
+
+*** NCU-Delta Colloquium ***
+
+Speaker:    Dr Chao-Lin Kuo  (Stanford U.)
+Date/Tim*e*:   June 14 (F), 14:00
+Room:   NCU, S4 Room 1013
+Title:     Gravitational Waves from Big Bang
+Abstract:    Inflation is a compelling theory that describes the process of
+Big Bang. Many predictions of the inflation theory have been confirmed by
+observations of cosmic microwave background (CMB) over the last decade. A
+most exciting, yet unobserved prediction of inflation is the production of
+a scale-invariant gravitational wave background, which would leave a
+distinct imprint of =E2=80=9CB-mode=E2=80=9D polarization in the CMB. I wil=
+l describe the
+physics behind this prediction, the ongoing effort to search for this
+signal, and the outlook for the next decade.
+
+
+
+*** NCU Colloquium ***
+
+Speaker:    Dr Devendra Ojha (TIFR)
+Date/Tim*e*:   June 21 (F), 14:00
+Room:   NCU, S4 Room 1013
+Title:     Observational Signatures of Cloud-Cloud Collision in Galactic
+Star-Forming Regions
+Abstract:   The formation processes of massive OB stars and young stellar
+clusters are still poorly understood. In recent years, the study of the
+triggered star formation through the cloud-cloud collision (CCC) process
+has become an interesting and important topic in the star formation
+research. It has been suggested that the CCC process can form massive OB
+stars and young stellar clusters at the junction of molecular clouds. The
+onset of the CCC process in a given star-forming region could be
+observationally inferred through the detection of a bridge feature
+connecting the two clouds in velocity space, the broad CO line wing in the
+intersection of the two clouds, and the complementary distribution of the
+two colliding clouds. However, the investigation of observational
+signatures of star formation (including massive stars) via the CCC
+mechanism is still rare and very challenging. A multi-wavelength approach
+has been effectively used as a promising observational tool for
+understanding the ongoing physical processes in Galactic star-forming
+regions. In this talk, new observational results of an analysis of some
+promising Galactic star-forming regions will be presented, where the star
+formation activities (including massive stars) appear to be influenced by
+the CCC mechanism at the junction of molecular clouds.
+
+==============================================================================
+
+> Date: Thu, 30 May 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Ue-Li Pen (CITA)
+Topic:          Probing cosmic initial conditions with galaxy spin vectors
+Time:           6/3 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Disk galaxies exhibit prominent rotation axis. We present recent results to predict the spin vector of galaxies.  Previously, the sign of the spin vector was thought random, with the direction correlated along the primordial tidal field.  New numerical studies show how the initial inertia tensor can be predicted, enabling the use of the signed galaxy spin vector field to probe the early universe, including effects of neutrinos, and testing cosmic parity violation. We discuss observables and future prospects.
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Bo Reipurth (University of Hawaii)
+Topic:          The Dynamical Evolution of Newborn Triple Systems
+Time:           6/6 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Observational evidence increasingly supports that most, if not all, stars are formed in small multiple systems, which through internal instabilities and external perturbations decay to produce the separation distribution function and multiplicity statistics of the field. I will summarize observations of newborn stars that document their enhanced multiplicity fraction and discuss them in terms of dynamical evolution during the earliest evolutionary stages based on extensive numerical simulations.  Various poorly understood phenomena in early stellar evolution find an explanation as a result of the dynamical evolution of multiple systems, including Herbig-Haro jets and FU Orionis eruptions, as well as the formation of spectroscopic binaries and the widest binaries.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,347 @@
+From kyl@asiaa.sinica.edu.tw Sun Mar 14 12:22:36 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA16361; Sun, 14 Mar 1999 12:17:51 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id MAA07671; Sun, 14 Mar 1999 12:15:00 +0800
+Date: Sun, 14 Mar 1999 12:15:00 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: [Fwd: windsor park] (fwd)
+Message-Id: <Pine.GSO.3.96.990314121458.5726C-110000@asiaa>
+Mime-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY=------------B756ADC91B458E616750874C
+Content-Id: <Pine.GSO.3.96.990314121458.5726D@asiaa>
+Content-Length: 12926
+Status: RO
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+  Send mail to mime@docserver.cac.washington.edu for more info.
+
+--------------B756ADC91B458E616750874C
+Content-Type: TEXT/PLAIN; CHARSET=us-ascii
+Content-ID: <Pine.GSO.3.96.990314121458.5726E@asiaa>
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 12 Mar 1999 09:31:39 +0100
+From: Thijs de Graauw <Th.de.Graauw@sron.rug.nl>
+To: gert de lange <gert@sron.rug.nl>, teun klapwijk <klapwijk@phys.rug.nl>,
+    "j.r. gao" <j.r.gao@phys.rug.nl>, carlo rosolen <rosolen@obspm.fr>,
+    Ewine van Dishoeck <ewine@strw.leidenuniv.nl>,
+    herman jacobs <h.jacobs@sron.nl>, Peter Roelfsema <pjotr@sron.rug.nl>,
+    alain lecacheux <alx@obspm.fr>, Steve Torchinsky <steve@ep.chalmers.se>,
+    Stafford Withington <stafford@mrao.cam.ac.uk>,
+    Karl Jacobs <jacobs@ph1.uni-koeln.de>,
+    Tom Phillips <phillips@tacos.submm.caltech.edu>,
+    Juan Daniel Gallego <gallego@cay.oan.es>,
+    Richard MRAO Hills <richard@mrao.cam.ac.uk>,
+    Gerard Beaudin <beaudin@mesiob.obspm.fr>,
+    Netty Honingh <honingh@ph1.uni-koeln.de>,
+    Gianni Tofani <tofani@arcetri.astro.it>, Henri Aarts <h.aarts@sron.nl>,
+    Urban Frisk <ufr@ssc.se>, Paul Hartogh <paul@chirp.mpae.gwdg.de>,
+    Lennart Nordh <nordh@astro.su.se>, Alain Cros <cros@cesr.fr>,
+    Rudolf Schieder <schieder@ph1.uni-koeln.de>,
+    Piotr Starski <piotr@nt.chalmers.se>,
+    Alain Baudry <baudry@observ.u-bordeaux.fr>,
+    Enzo Natale <natale@arcetri.astro.it>,
+    "Morvan salez@obspm.fr Salez" <salez@obspm.fr>,
+    Juergen Stutzki <stutzki@newton.ph1.uni-koeln.de>,
+    Maryvonne Gerin <maryvonne.gerin@ensapa.ens.fr>,
+    Xander Tielens <tielens@astro.rug.nl>,
+    Stephane Claude <stephane.claude@hia.nrc.ca>,
+    Jesus Martin Pintado <martin@oan.es>, Emmanuel Caux <caux@cesr.fr>,
+    Christine Joblin <joblin@cesr.fr>,
+    Todd Gaier <gaier@merlin.jpl.nasa.gov>,
+    Ryszard Szczerba <szczerba@ncac.torun.pl>,
+    herman van de Stadt <h.van.de.stadt@sron.rug.nl>,
+    Victor Belitsky <belitsky@oso.chalmers.se>,
+    Geoffrey Blake <gab@gps.caltech.edu>,
+    Douwe Beintema <d.a.beintema@sron.rug.nl>,
+    "John C. Pearson" <jcp@spec.jpl.nasa.gov>,
+    Philippe Cais <cais@observ.u-bordeaux.fr>,
+    Peter Siegel <peter.h.siegel@jpl.nasa.gov>,
+    Charles Cunningham <charles.cunningham@hia.nrc.ca>,
+    Jean-Michel Krieg <krieg@obspm.fr>,
+    Francois Boulanger <boulanger@ias.fr>,
+    Neal Erickson <neal@fcrao1.phast.umass.edu>, Do Kester <do@sron.rug.nl>,
+    Huei Wang <hueiwang@ew.ee.ntu.edu.tw>,
+    Jonas Zmuidzinas <jonas@socrates.submm.caltech.edu>,
+    Eckhard Steinmetz <steinmetz@linax1.mpae.gwdg.de>,
+    "William B. Gray" <william.b.gray@jpl.nasa.gov>,
+    William Rob McGrath <william.r.mcgrath@jpl.nasa.gov>,
+    Magne Hagstrom <magne@oso.chalmers.se>,
+    Karl Schuster <schuster@iram.fr>,
+    "Henry G. LeDuc" <henry.g.leduc@jpl.nasa.gov>,
+    Denis Lagrange <lagrange@cesr.cnes.fr>,
+    Pasquale Cerulli-Irelli <cerulli@ifsi.rm.cnr.it>,
+    "P. Planesas" <planesas@oan.es>,
+    Manfred Hagelschuer <manfred.hagelschuer@dlr.de>,
+    Daniel Michet <michet@obspm.fr>,
+    "Nick D. Whyborn" <n.d.whyborn@sron.rug.nl>,
+    Willem Luinge <w.luinge@sron.rug.nl>,
+    Bert-Joost van Leeuwen <b.vanleeuwen@sron.nl>,
+    Terry Cafferty <tctech@earthlink.net>,
+    Gary Parks <gparks@mail1.jpl.nasa.gov>,
+    Rolf Guesten <guesten@mpifr-bonn.mpg.de>, Gunnar Florin <gf@ssc.se>,
+    Karel vd Hucht <karelh@sron.nl>,
+    Thijs van der Hulst <vdhulst@kapteyn.astro.rug.nl>,
+    guy serra <serra@cesr.fr>, Therese Encrenaz <therese.encrenaz@obspm.fr>,
+    Roy onsala Booth <roy@oso.chalmers.se>,
+    Emmanuel Lellouch <lellouch%meudon@mesiob.obspm.fr>,
+    Martin Giard <giard@cesr.cnes.fr>, Gary Davis <G.R.Davis@usask.ca>,
+    Valentin Bujarrabal <valentin@oan.es>,
+    Brunella Nisini <bruni@taurus.ifsi.rm.cnr.it>,
+    Rafael Bachiller <bachiller@conga.oan.es>,
+    michel perault <perault@ensapa.ens.fr>,
+    jacques crovisier <crovisie@mesiob.obspm.fr>,
+    Bill Langer <langer@nimba.jpl.nasa.gov>,
+    hans bloemen <h.bloemen@sron.nl>,
+    paul van der Werf <pvdwerf@strw.leidenuniv.nl>,
+    Edith Falgarone <edith.falgarone@ensapa.ens.fr>,
+    Rene Liseau <rene@astro.su.se>,
+    Klaus Scherer <scherer@lindust.mpae.gwdg.de>,
+    jonathan braine <jonathan.braine@observ.u-bordeaux.fr>,
+    Fred Lo <kyl@asiaa.sinica.edu.tw>,
+    Mark Halpern <halpern@physics.ubc.ca>,
+    Paola Caselli <pcaselli@arcetri.astro.it>,
+    "David A. Naylor" <naylor@hg.uleth.ca>,
+    Mats Larsson <mats.larsson@physto.se>,
+    "Marek J. Sarna" <sarna@camk.edu.pl>,
+    Christopher Jarchow <chris@wasp4.mpae.gwdg.de>,
+    "Andrew I. Harris" <harris@astro.umd.edu>,
+    Romuald Tylenda <tylenda@ncac.torun.pl>,
+    Nicolas Mauron <mauron@graal.univ-montp2.fr>,
+    Malcolm Walmsley <mwalmsley@arcetri.astro.it>,
+    Sun Kwok <kwok@iras.ucalgary.ca>,
+    Dominique Bockelee-Morvan <domi@mesioa.obspm.fr>,
+    Miroslav Rataj <rataj@cbk.waw.pl>,
+    "Dariuz C. Lis" <dcl@tacos.submm.caltech.edu>,
+    Cecile Gry <cecile@astrsp-mrs.fr>,
+    Eric Herbst <herbst@phyas1.mps.OHIO-STATE.EDU>,
+    "Paul A. Feldman" <paul.feldman@hia.nrc.ca>,
+    Karl Menten <kmenten@mpifr-bonn.mpg.de>, Louis DHendecourt <ldh@ias.fr>,
+    Peter Schilke <schilke@mpifr-bonn.mpg.de>,
+    "John H. Black" <jblack@oso.chalmers.se>,
+    Wojtek Markiewitz <marko@linax1.mpae.gwdg.de>,
+    Urs Graf <graf@ph1.uni-koeln.de>,
+    Jocelyn Keene <jbk@tacos.submm.caltech.edu>,
+    Wing Ip <ip@linax1.mpae.gwdg.de>,
+    Nathalie Brouillet <nathalie@observ.u-bordeaux.fr>
+Subject: [Fwd: windsor park]
+
+ 
+
+--------------B756ADC91B458E616750874C
+Content-Type: MESSAGE/RFC822
+Content-ID: <Pine.GSO.3.96.990314121458.5726F@asiaa>
+Content-Description: 
+
+Received: from zuaxp0.star.ucl.ac.uk (rji@star.ucl.ac.uk [128.40.1.10]) by hermes.sron.rug.nl (8.9.1/8.7.3) with ESMTP id UAA05304 for <thijsdg@sron.rug.nl>; Thu, 11 Mar 1999 20:57:37 +0100 (MET)
+Received: from localhost (rji@localhost)
+	by zuaxp0.star.ucl.ac.uk (8.8.8/8.8.8) with SMTP id TAA26603
+	for <thijsdg@sron.rug.nl>; Thu, 11 Mar 1999 19:54:23 GMT
+Date: Thu, 11 Mar 1999 19:54:23 +0000 (GMT)
+From: rob ivison <rji@star.ucl.ac.uk>
+Reply-To: rob ivison <rji@star.ucl.ac.uk>
+To: thijsdg@sron.rug.nl
+Subject: windsor park
+Message-ID: <Pine.OSF.3.96.990311195138.10986Y-100000@zuaxp0.star.ucl.ac.uk>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+
+Dear Thijs,
+
+Apologies if you've already received this, but I thought it might be new to
+you - it's the announcement for this year's UCL Astronomy Colloqium, to be
+held at Windsor Great Park in July. It would be great if you could make it.
+
+I'd also be grateful if you could send the ad to the other people involved
+in your instrument for FIRST (I've asked Matt Griffin and Albrecht
+Poglitsch to circulate it to the SPIRE and PACS teams).=20
+
+Cheers,
+
+Rob
+
+
+THE 14th UCL ASTRONOMY COLLOQUIUM
+EXTRAGALACTIC ASTROPHYSICS AT MILLIMETRE AND INFRARED WAVELENGTHS
+19 - 22 July 1999
+
+Colloquium Director: Professor Roy Booth, Onsala Space Observatory, Sweden
+
+
+Dear Colleague
+
+You may have already received information concerning the 14th UCL
+Colloquium, to be held at Cumberland Lodge, Windsor Great Park, 19-22 July
+1999.  I am writing with further information about the exciting scientific
+programme, which has now been completed.  The invited reviews at this
+Colloquium will be as follows:
+
+J Conway (Onsala)=09Millimetre wavelength VLBI of quasars and AGN
+L Blitz (Berkeley)=09BIMA observations of extragalactic molecules
+R Genzel (Garching)=09Spectroscopy of extragalactic molecules with ISO
+R Weymann (Carnegie)=09NICMOS observations of the Hubble Deep Field
+M Guelin (IRAM)=09=09CO and dust in normal galaxies
+A Omont (Paris)=09=09Molecules and dust at high redshift
+R Ivison (UCL)=09=09Extragalactic observations with SCUBA
+M Rowan-Robinson (IC)=09Deep surveys with ISO
+M Longair (Cambridge)=09Cosmological implications
+
+I hope very much that you will be able to come to this topical and
+important meeting.  It promises to be a very enjoyable occasion.  However,
+please note that accommodation is limited, so DO SEND YOUR RESPONSE AS SOON
+AS POSSIBLE TO MRS CAROL BROAD.
+
+I attach the remainder of the announcement, as previously distributed.
+
+I look forward to seeing you in July.
+
+Yours sincerely
+
+David Williams
+
+
+
+BACKGROUND
+
+The current colloquium is the 14th in a series organised by UCL and held at
+Cumberland Lodge.  Previous Colloquia and Directors have been:
+
+1. =091980:=09Atomic and Molecular Processes in Astrophysics (M J Seaton)
+2.=091981:=09Solar and Stellar Magnetism and Rotation (L Goldberg)
+3.=091983:=09The Role of Ultraviolet Observations in Astronomy (R Wilson)
+4.=091984:=09Infrared Sources - Asteroids to Galaxies (R E Jennings)
+5.=091986:=09The Determination of Primordial Abundances (R Wilson)
+6.=091988:=09Millimetre-Wave Astronomy (M S Longair)
+7.=091989:=09Molecules in External Galaxies (A Dalgarno)
+8.=091990:=09X-ray Astronomy: present and future (K A Pounds)
+9.=091991:=09Recent highlights & future developments in Astronomy (A J Will=
+is)
+10.=091993:=09Future Programmes in Astronomy and Astrophysics (R Wilson)
+11.=091996:=09Winds and the Bubbles they blow (J E Dyson)
+12.=091997:=09Hot Stars: Boulder-Munich Workshop (I D Howarth)
+13.=091998:=09Atomic & Molecular physics, applications to Aeronomy and
+=09=09Astrophysics - the Alex Dalgarno 70th Birthday Celebration
+                (K Kirby)
+
+SCIENTIFIC PROGRAMME
+
+In addition to the invited review lectures, a number of shorter contributed
+talks will be included in the programme, and poster sessions will be held.=
+=20
+Review lectures will be scheduled for 60 minutes, and contributed papers
+about 15-20 minutes.  Participants wishing to contribute a paper should
+identify a preliminary title of their talk or poster on the attached reply
+form.=20
+
+The residential nature of the meeting, coupled with the superb
+accommodation provided by the Lodge, allows for further, stimulating
+discussion between formal sessions.=20
+
+Participants wishing to attend this timely meeting should complete and
+return the attached Reply Form by 31 March 1999.  However, accommodation in
+the Lodge is limited, and therefore applications will be accepted on a
+first come, first served basis.=20
+
+VENUE
+
+Cumberland Lodge is a large 17th century country house situated in Windsor
+Great Park and is used by the King George VI and Queen Elizabeth Foundation
+of St Catherines - a body whose work to provide courses and facilities for
+those concerned with higher education.=20
+
+The colloquium is residential in nature, providing ample opportunity for
+discussion outside formal meeting sessions.  Cumberland Lodge provides
+first class accommodation and excellent cuisine.  Its setting in Windsor
+Great Park offers splendid walks in a historical setting with a long
+association with the Royal Family, including Windsor Castle.
+
+There is an all-inclusive charge of =A3350 per person for the Colloquium an=
+d
+a reduced rate may be available for students.  Hospitality provided by the
+UCL organisers includes a full, complementary bar, together with wine with
+the evening meals throughout the colloquium.  Thus the above charges will
+cover all the living expenses of participants during the three nights stay
+at the Lodge for this residential meeting.   Unfortunately the organisers
+are unable to defray the expenses of participants.
+
+There is no registration fee for this meeting.
+
+Coach transport between Cumberland Lodge and Central London at the start
+and the end of the meeting will be provided gratis.
+
+The meeting will start with lunch on Monday 19 July, and conclude after
+breakfast on Thursday 22 July.  A special conference dinner will be
+arranged for the night of Wednesday 21 July.=20
+
+CONTACT ADDRESS
+
+The address for reply is:
+
+Mrs Carol Broad
+Department of Physics and Astronomy
+University College London
+Gower Street
+London WC1E 6BT
+UK
+
+email: c.broad@ucl.ac.uk
+
+
+DEADLINE FOR REPLIES TO FIRST ANNOUNCEMENT: 31 MARCH 1999
+
+
+REPLY FORM 1
+
+14th UCL Astronomy Colloquium 19-22 July, 1999
+
+Please check where applicable:
+
+1.=09I wish to attend the Colloquium=09YES=09=09NO=09
+=09I will be accompanied =09=09YES=09=09NO=09
+
+2.=09I wish to make a presentation=09YES=09=09NO=09
+
+3.=09The title of my presentation will be:
+
+=09
+4.=09I wish to offer a poster paper=09=09YES=09=09NO=09
+
+
+SURNAME:
+
+FIRST NAME(S):
+
+TITLE:
+
+ADDRESS:
+
+TELEPHONE:
+
+FAX:
+
+
+
+--------------B756ADC91B458E616750874C--
+

@@ -1,0 +1,51 @@
+==============================================================================
+
+Subject: CARTA news for TAN
+From    KS Wang <kswang@asiaa.sinica.edu.tw>
+Cc    Kuo-Song Wang <kswang@asiaa.sinica.edu.tw>, CF Lee <cflee@asiaa.sinica.edu.tw>
+Date    2020-09-18 10:43
+
+Dear Prof. Kuan,
+
+Could you please help us to share the CARTA release news via TAN? Thank you very much~
+
+cheers
+Kuo-Song
+
+------
+
+Dear Astronomers in Taiwan,
+
+ACDC and the CARTA development team is excited to announce that the CARTA v1.4 release is now ready to download for the community! The packages can be retrieved at
+
+    https://cartavis.github.io
+
+with user manual available at
+
+    https://carta.readthedocs.io/en/1.4/
+
+The installation and configuration guide is available here.
+
+Key features in this release are:
+Catalogue support
+Shared region analytics
+Profile smoothing
+Moment map generator
+Spectral line query
+Server authentication and deployment improvements
+File browser improvements
+Animation playback improvement of raster and contour images
+
+There are some known issues which the CARTA development team has planned to solve in the future releases.
+
+Should there be any problems with the v1.4 release, please feel free to contact the CARTA helpdesk (carta_helpdesk@asiaa.sinica.edu.tw) or file an issue on Github (https://github.com/CARTAvis/carta/issues)
+
+Please use the following DOI as a citation when using CARTA for publications.
+DOI 10.5281/zenodo.3377984
+
+CARTA is developed by a consortium of the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), the South African Inter-University Institute for Data Intensive Astronomy (IDIA), the National Radio Astronomy Observatory (NRAO), and the Department of Physics, University of Alberta.
+
+Best regards,
+Kuo-Song, on behalf of ACDC and the CARTA development team
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

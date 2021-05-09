@@ -1,0 +1,28 @@
+> Date: Thu, 31 Dec 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Erwin Lau (Yale)
+Topic:          TBA
+Time:           1/5 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Dae-Won Kim (ASIAA)
+Topic:          Gaia and Data Intensive Astronomy
+Time:           1/6 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Gaia is an ESA satellite project launched at Dec. 2013. It will map our Galaxy in 3D by measuring six astrometric parameters (i.e. two positions, two proper motions, parallax, and radial velocity) of one billion stars over the whole sky. Astrometric accuracy of Gaia for G type star is 5-16 μas for bright stars, 24 μas at V = 15 mag and 540 μas at V = 20 mag, which is the highest accuracy that has ever been achieved. Gaia simultaneously obtains low-resolution spectrum of each star using Blue and Red Photometer (BP and RP: 330-680nm and 640-1000nm, respectively). By the nature of Gaia, it will produce enormous amount of complex data. Analyzing Gaia data is thus a challenging and huge task requiring Big Data experts and dedicated computing powers as well. In this talk, I will give an overview of the Gaia mission and efforts for Gaia data analysis in DPAC (Data Processing and Analysis Consortium).
+
+==============================================================================

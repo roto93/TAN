@@ -1,0 +1,53 @@
+
+> From: Pei-Ying Hsieh <pyhsieh@asiaa.sinica.edu.tw>
+> Date: Fri, 15 Mar 2019 11:36:02 +0800
+> Subject: Re: ALMA Cycle 7 Users Workshop 2019
+> To: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw,
+> astro@asiaa.sinica.edu.tw, Vivien Chen <hchen@phys.nthu.edu.tw>,
+
+Dear all,
+
+A reminder to register the Cycle 7 user workshop if you are interested
+to submit ALMA proposals. Today is the deadline.
+
+regards,
+Pei-Ying
+
+On Tue, Feb 19, 2019 at 11:29 AM Pei-Ying Hsieh
+<pyhsieh@asiaa.sinica.edu.tw> wrote:
+>
+> Dear potential ALMA users,
+>
+> ALMA will issue its Cycle 7 Proposal Call on March 19, 2019. In
+> response to that, the ALMA Regional Center (Taiwan-ARC) of ASIAA and
+> the University Consortium of ALMA-Taiwan (UCAT) will hold one day ALMA
+> Users Workshop on March 22 (Friday), 2019. Below is the announcement:
+>
+> ALMA Users Workshop 2019
+> Time: March 22, 2019
+> Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+> https://events.asiaa.sinica.edu.tw/workshop/20190322/
+> Registration Deadline: March 12, 2019.
+>
+> The ALMA Cycle 7 Users Workshop is designed for preparing ALMA Cycle 7
+> proposals. It is intended for graduate students, postdocs, faculty
+> members and people who are interested in using ALMA.
+>
+> The program of the ALMA Users Workshop includes:
+>
+> ALMA Cycle 7 capability
+> Suggestions of ALMA proposal preparation
+> ALMA science portal
+> Observing Tool (OT)
+> CASA image simulation
+>
+> Please install the latest version of CASA and OT BEFORE the workshop.
+> Feel free to ask ARC members for help if there is any difficulty
+> during the installation.
+>
+>
+> Best regards,
+> Pei-Ying Hsieh
+> On behalf of Taiwan ARC node
+
+==============================================================================

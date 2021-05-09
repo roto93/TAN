@@ -1,0 +1,113 @@
+==============================================================================
+
+In this issue (Nov 15 - 22, 2015)
+
+1. Call for Proposals with the Nobeyama 45-m telescope
+2. ASIAA Colloquium/Seminar/Lunchtalk (Nov 23): Joseph Mohr
+                                        (Ludwig-Maximilians-Universitat Munchen)
+                                      (Nov 24): Olivier Dore (JPL/Caltech)
+                                      (Nov 25): Bing-Ming Chen
+                                          (National Synchrotron Center)
+                                      (Nov 25): Yen-Sang Hu (ASIAA)
+
+==============================================================================
+
+> Date: Tue, 17 Nov 2015 22:15:03 +0900
+> From: 高桑 繁久 <takakuwa@asiaa.sinica.edu.tw>
+> Subject: Fwd: Call for Proposals with the Nobeyama 45-m telescope
+
+Dear Yi-Jehng,
+
+ Could you please add this in TAN ?
+
+ Sincerely,
+ Shigehisa Takakuwa
+
+
+> 差出人: 高桑 繁久 <takakuwa@asiaa.sinica.edu.tw>
+> 件名: Call for Proposals with the Nobeyama 45-m telescope
+> 日付: 2015年11月17日 22:13:34 JST
+> 宛先: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw
+> CC: Masao Saito <Masao.Saito@nao.ac.jp>
+
+ Dear All,
+
+ On behalf of Prof. Masao Saito, the director of the Nobeyama Radio Observatory,
+I am forwarding this information of the proposal call of the Nobeyama 45-m telescope.
+The deadline is Dec.1. New 4-beam, 3-mm multi-beam receiver FOREST is offered
+for this open use in a shared-risk mode with some limitations. The Nobeyama Radio
+Observatory will also support domestic travel and accommodation costs for foreign PIs.
+Please visit;
+
+http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index-e.html
+
+ Sincerely,
+ Shigehisa Takakuwa
+
+==============================================================================
+
+> Date: Thu, 19 Nov 2015 08:00:02 +0800
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:     Joseph Mohr (Ludwig-Maximilians-Universitat Munchen)
+Topic:          Studies of Galaxy Clusters and Cosmology with the South Pole Telescope and the Dark Energy Survey
+Time:          11/23 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The South Pole Telescope survey of 2500 deg^2 in the southern sky has enabled the selection of a large sample of massive galaxy clusters extending to z~1.5 through their Sunyaev-Zel'dovich effect.  Dark Energy Survey deep, optical multiband imaging is enabling studies of the galaxy populations within those clusters and constraints on the masses of the systems through weak lensing. Analyses of the population of SZE selected clusters from SPT indicates cosmological constraints that are in good agreement with other cosmological probes and that together with other probes provide among the most precise constraints yet on the growth rate of cosmic structure and the equation of state of the dark energy. Improved mass constraints from weak lensing and new cluster finding experiments in the X-ray through eROSITA promise to open the window on new studies of cosmology and structure evolution.
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________
+Speaker:     Olivier Dore (JPL/Caltech)
+Topic:          From Planck to SPHEREx: Adding the 3rd Dimension to a Full-sky Map to Probe Inflation
+Time:          11/24 (Tuesday) 14:20 - 15:20
+Place:           Physics 104
+Abstract:
+The Planck success leaves cosmology with impressively well established questions and... few answers. Amongst them, the nature of the initial conditions that led to the large-scale structure we observe today is one of the most salient. I will briefly review Planck latest results, and motivate the need for the 3D mapping of an ultra-large volume to directly observe the nature of inflation. From a theoretical point of view, measuring the largest scales promises a powerful and clean probe of the initial conditions. The modeling of these large scales yields interesting (solvable) physics problems.  The measurement of these large scales is also feasible: I will present a proposed satellite mission, SPHEREx, that promises to accomplish such a mapping, and much more. By constructing the first all-sky near-infrared spectral survey, SPHEREx will not only constrain the physics of inflation with unprecedented accuracy but also offer new insights on the origin and history of galaxies and!
+ !
+ build a spectral catalog of 100s of millions of objects for the astronomy community to use.
+
+*** Colloquium ***
+____________________________________________________
+Speaker:     Bing-Ming Chen (National Synchrotron Center of Taiwan)
+Topic:          Looking into Space with Far-UV Spectroscopy and Photochemistry
+Time:          11/25 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Far-UV (FUV) spectroscopies and photochemical processes of interstellar molecules attract interest because the information yields detailed knowledge about chemical transformations in extraterrestrial environments. Synchrotron radiation (SR) provides an intense and continuous source of FUV light. The high quality of FUV from SR gives the chances for scientists to investigate the spectroscopy and photochemistry of interstellar molecule in this region. Using the FUV beam lines from the 1.5 GeV storage ring at National Synchrotron Radiation Research Center (NSRRC) in Taiwan, we are currently conducting the experiments of photoabsorption, photodissociation, and photoluminescence researches applied to astro-science. Taking the advantage of  synchrotron, we explore the FUV astro-science with exciting prospects. For example, to understand the atmosphere and climate of an extraterrestrial body and their variation, a key issue is the extent of isotopic fractionation, such as D/H. A me!
+ !
+chanism proposed to explain variations in isotopic fractionation on planets is called the photo-induced fractionation effect (PHIFE). The crucial idea is that the rate of photolysis differs greatly for various isotopomers/isotopologues near the absorption threshold region. To assess the potential for photochemically induced changes in stellar and upper atmosphere, we thus study the FUV absolute absorption cross sections of pertinent planetary species and their isotopomers/isotopologues. These FUV data are keys to understand the extent of isotopic fractionations in our planets.  Other examples of FUV astro-science will also be discussed in the presentation.
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:     Yen-Sang Hu (ASIAA)
+Topic:          Software for EE design in OIR
+Time:          11/25 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

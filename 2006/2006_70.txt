@@ -1,0 +1,154 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Wed Apr 19 19:41:18 2006
+Date: Fri, 14 Apr 2006 00:39:24 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue April 12 - 14, 2006)
+
+==============================================================================
+
+In this issue (April 12 - 14, 2006)
+
+1. ASIAA Colloquium (Apr 14): Tapas Kumar Das (Harish-Chandra Res Inst, India)
+2. Rescheduled - NCU Astronomy Colloquium (Apr 17): Pavlos Protopapas (CfA)
+3. ALMA-TAIWAN TOWN MEETING in CAST2006 (Apr 29)
+
+==============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, faculty@phys.ntu.edu.tw, ybyun@yonsei.ac.kr,
+>     yykeum@phys.ntu.edu.tw
+> Subject: [Colloquium] ASIAA Colloquia This Friday (04/14)
+
+  Dear all,
+
+ 	Dr. Tapas Kumar Das from Harish-Chandra Research Institute in
+  India and currently a visiting scholar at TIARA, is visiting IAA this
+  week. Dr. Das works on the theoretical aspects particularly in the field
+  of relativistic and high energy astrophysics. On Friday (04/14) afternoon,
+  he will give a talk titled "Transonic properties of black hole accretion".
+
+ 	Please mark your calendar and remember to join!
+
+  Regards,
+
+  sheng-yuan
+
+  --------------------------- ASIAA Colloquium ----------------------
+   Speaker : Dr. Tapas Kumar Das (TIARA/Harish-Chandra Research Institute)
+   Title   : Transonic properties of black hole accretion
+   Time    : 04/14 (Fri)  2:00 PM
+   Location: Rm 716
+  -------------------------------------------------------------------
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+  -------------------------------------------------------------------
+
+==============================================================================
+
+> Date: Wed, 12 Apr 2006 17:28:28 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Subject: rescheduled
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+We have re-scheduled the colloquium talk next week. Dr. Pavlos
+Protopapas will give a talk on 17 April.
+
+Thanks,
+
+Daisuke
+
+---------------------------------------------------------------------------
+                               Colloquium
+                      at the Institute of Astronomy,
+                       National Central University
+
+Date: 11:00, 17/April/2006
+Loc.: Room 1013, Science Building IV, National Central University
+Speaker: Dr. Pavlos Protopapas (CfA, USA)
+Title: Fast identification of transits from light-curves in TAOS
+Abstract:
+I will present an algorithm that allows fast and efficient detection
+of transits, including planetary transits, from light-curves. The
+method is based on building an ensemble of fiducial models and
+compressing the data. I will describe the method and demonstrate its
+efficiency by finding planet-like transits in simulated TAOS
+light-curves. We show that that our method is independent of the size
+of the search space of transit parameters.
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+==============================================================================
+
+> From: "Paul Shaw" <pshaw@asiaa.sinica.edu.tw>
+> To: kuan
+> Cc: "'N. Ohashi'" <ohashi@asiaa.sinica.edu.tw>, "'Dr. Paul Ho'" <pho@asiaa.sinica.edu.tw>
+> Subject: ALMA-TAIWAN TOWN MEETING in Taichung, April 29.htm
+> Date: Thu, 13 Apr 2006 10:47:08 +0800
+
+Dear Prof. Kuan,
+We plan to hold the ALMA-Taiwan Town Meeting on April 29 in Taichung.
+For detial, please have a look at the announcement as below.
+ Could you please post it on the TAN as well?  Thanks.
+Best regards,
+Paul
+  
+  _____  
+
+
+ALMA-TAIWAN TOWN MEETING in Taichung, April 29
+
+
+ALMA-Taiwan team would like to invite all the CAST members to an ALMA town
+meeting, where we will brief the latest status of the ALMA-Taiwan Project.
+The meeting will be held on April 29, 2006 at the Splendor Hotel, right next
+to the NationalMuseum of Natural Science, Taichung, where the CAST meeting
+will be held. 
+
+After the last town meeting at the National Central University in the last
+September, there has been several progress with the ALMA-Taiwan Project. At
+this meeting, we will brief the latest status of the project, including the
+collaboration with ALMA-Japan and the NSC proposal for the collaboration
+with ALMA-NA. After the briefing, we will hold a reception to continue our
+discussion.
+
+Date and Time: April 29, 2006 6:00 pm	
+
+Venue: Splendor Hotel, 14 Fl. Shanghai Room
+
+ <http://alma.asiaa.sinica.edu.tw/activities/CAST/2006/registration/>
+Registration on line before April 26, 2006, 5:00pm
+
+For more details, send email to Linda Shao (lshao@asiaa.sinica.edu.tw) or
+Paul Ho (pho@asiaa.sinica.edu.tw)
+
+
+Splendor hotel (http://www.splendor-taichung.com.tw)
+
+A map to the hotel (http://www.cast.org.tw/cas95/accomodation.html)
+
+CAST website: http://www.cast.org.tw/cas95/index.html
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

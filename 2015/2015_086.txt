@@ -1,0 +1,21 @@
+> Date: Thu, 16 Apr 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Masashi Hazumi (High Energy Accelerator Research Organization (KEK), Japan)
+Topic:         Roadmap for CMB Polarization Measurements with POLARBEAR, Simons Array and LiteBIRD
+Time:         4/22 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Cosmological inflation, which is the leading hypothesis to resolve the problems in the Big Bang theory, predicts that primordial gravitational waves were created during the inflationary era.  Measurements of polarization of the cosmic microwave background (CMB) are known as the best probe to detect the primordial gravitational waves. POLARBEAR is designed to measure CMB polarization with an array of TES bolometers.  It has been in operation since 2012 in the Atacama desert in northern Chile. The main scientific objective of POLARBEAR is to search for primordial gravitational waves imprinted as the “B-mode” in the CMB polarization maps. Another important goal is to measure a spatial distortion of the CMB polarization maps due to gravitational lensing, which is a very sensitive probe for the large-scale distribution of matter in the early universe and will constrain the sum of neutrino masses. The Simons Array is an expansion of the POLARBEAR. It will consist of an array o!
+f three 3.5m telescopes each coupled to a multichroic TES bolometer pixel, so that it will provide very powerful foreground rejection capability and much deeper observation. Finally, LiteBIRD is a satellite project to map CMB polarization over the full sky at large angular scales with ultimate precision. The LiteBIRD proposal was submitted to JAXA in February 2015 with the target launch in Japanese fiscal year 2022. The scientific objective of LiteBIRD is to test all the representative inflation models that satisfy single-field slow-roll conditions and lie in the large-field regime. To this end, the requirement on the precision of the tensor-to-scalar ratio, r, at LiteBIRD is equal to or less than 0.001, a hundred times better than the current constraint.
+
+
+===============================================================================

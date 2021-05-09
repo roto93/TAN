@@ -1,0 +1,35 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Kuan-Yu Liu (ASIAA)
+Topic:         Integrated Dual Polarization SIS Mixer at 350 GHz
+Time:         10/20 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+To improve the efficiency and survey speed of a radio telescope, an integrated dual polarization (IDP) receiver for a large format multi-pixel array has been designed by integrating superconductor-insulator-superconductor (SIS) junction mixers with a planar orthomode transducer (OMT) at 350 GHz. The incoming signals from a circular waveguide are separated into two polarizations via orthogonal waveguide probes, and then transmitted to the junctions through the tuning circuit. To suppress resonance, metallic blocks confine the RF signals within the circular waveguide, and a 2μm thick silicon nitride membrane, on which all devices were implemented, was suspended across the circular waveguide. 
+IDP mixers with junction quality factor (Rsg/Rn) of 10 have been fabricated by using standard Nb-based SIS junction technology and SiN/Si membrane process. The double-side-band (DSB) receiver noise temperature (Trx) of both polarizations, measured simultaneously in a 4K cryostat, is approximately 100K at between 332GHz and 372GHz. The isolation of cross polarization is approximately 20dB.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Larry Denneau (University of Hawaii)
+Topic:         Observational constraints on the catastrophic disruption rate of main belt asteroids using data from the Pan-STARRS all-sky survey
+Time:         10/22 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The current rate of catastrophic disruptions in the Solar System can be used to constrain models of its formation and evolution. Employing a simple model for an observed catastrophic disruption of an asteroid, we present the results of a search for catastrophic disruptions in the Pan-STARRS all-sky survey. We find that the size of objects disrupting at a rate of once per year in the main belt due to impact is no larger than ~7 m diameter, much smaller (and therefore less frequent) than predicted by contemporary models such as Bottke et al. (2005), who predicted one impact-generated disruption per year at 100 m diameter.  We suggest that this discrepancy can be accounted for by rotational disruption of asteroids, found by Jacobson et al. (2014) to be much more frequent that impact-generated disruptions.  We estimate that in the near-future, Pan-STARRS and other all-sky surveys may detect as many as 10 disruption events per year.  We characterize the efficacy of the PS1 survey 
+in detecting moving objects and other transients, and briefly summarize the capability of current and upcoming surveys to detect similar phenomena. We expand our discussion of future surveys to present an overview of the challenges for data processing of transient events in the era of Pan-STARRS, ATLAS, ZTF and LSST.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

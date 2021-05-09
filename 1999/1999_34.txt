@@ -1,0 +1,113 @@
+From jlim@asiaa.sinica.edu.tw Fri Feb 26 15:19:45 1999
+Return-Path: <jlim@asiaa.sinica.edu.tw>
+Received: from biaa33.biaa.sinica.edu.tw (iaa11) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA05454; Fri, 26 Feb 1999 15:19:36 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id PAA21636; Fri, 26 Feb 1999 15:16:32 +0800
+Date: Fri, 26 Feb 1999 15:16:32 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199902260716.PAA21636@biaa33.biaa.sinica.edu.tw>
+Subject: ASIAA-NCU Colloquium
+To: iaa@iaa1, astro@asiaa.sinica.edu.tw
+Cc: takakuwa@nrosv1.nro.nao.ac.jp, qian@qmc.lanl.gov
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Md5: G9KsIPopSHESjYkxaWHNDg==
+Content-Length: 4959
+Status: RO
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                 I     Graduate Institute of Astronomy     I
+                 I        NATIONAL CENTRAL UNIVERSITY      I
+                 * --------------------------------------- *
+         
+                    *     J O i N T    S E M i N A R    *
+
+
+                            5 Mar 1999 (Friday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+Session 1:  Colloquium (2:30 - 3:30 pm)
+
+            SPEAKER: Dr. Yong-Zhong Qian 
+                     (Los Alamos National Laboratory)
+	    TITLE:   "Synthesis of heavy elements via rapid neutron capture. 
+	              II. Probing properties of neutrino dark matter"
+	    ABSTRACT:
+Essentially all of the gravitational binding energy of the neutron star
+produced in a supernova explosion is carried away by neutrinos and 
+antineutrinos of all flavors. Neutrinos with masses of several eV have been
+proposed as the hot dark matter important for structure formation in the
+Universe. These massive neutrinos would oscillate between different flavors
+in supernovae. I discuss the effect of such flavor oscillations on the
+supernova r-process and derive constraints on the oscillation parameters
+assuming supernovae to be the r-process site. These constraints are compared
+with the results from laboratory neutrino oscillation experiments. 
+
+
+
+
+Session 2:  Colloquium (3:45 -- 4:45 pm)
+
+            SPEAKER: Dr. Shigehisa Takakuwa 
+                     (University of Tokyo & 
+                      Nobeyama Radio Observatory, NAO)
+	    TITLE:   "Physical & Chemical Evolution of Pre-stellar Dense  
+	              Molecular Cloud Cores Probed by the H13CO+ and CH3OH 
+	              Lines in the TMC-1C Region
+	    ABSTRACT:
+In order to understand the evolutionary processes of dense molecular cloud 
+cores before the onset of the initial collapse to form stars, that is, 
+the evolution of pre-stellar dense cores, we have carried out 
+observational studies of pre-stellar dense cores using the 45 m telescope at 
+Nobeyama Radio Observatory and the Nobeyama Millimeter Array (NMA).
+
+We have made mapping observations for the TMC-1C region 
+in Taurus Molecular Cloud with H$^{13}$CO$^{+}$ (J=1-0), and CH$_{3}$OH 
+(J$_{K}$=2$_{0}$-1$_{0}$ A$^{+}$) lines using the NRO 45 m telescope. 
+Since TMC-1C contains no proto-stellar sources and is close to 
+the Sun (140 pc), it is suitable for the study pre-stellar cores. 
+Both H$^{13}$CO$^{+}$ and CH$_{3}$OH lines trace high density molecular gas 
+above 10$^{5}$ cm$^{-3}$, and are optically thin in typical dark cloud 
+conditions. Thus, these two molecular probes are useful for the study of the 
+internal structures of pre-stellar cores. 
+
+We found that the spatial distributions of cores seen in H$^{13}$CO$^{+}$ 
+emission are quite different from those seen in CH$_{3}$OH emission, although 
+their overall physical properties are similar (size $\sim$ 0.07 pc, 
+line width $\sim$ 0.3 km s$^{-1}$, and mass $\sim$ 2 M$_{\odot}$). 
+The excitation analyses based on a LVG model have revealed that 
+the difference must be attributed to the variation in the relative abundance 
+between these two molecular species by about one order of magnitude. 
+Chemical evolutional models in molecular clouds have suggested that the 
+abundance of CH$_{3}$OH takes its maximum in the earlier evolutionary stages and 
+decreases grealty toward the later stages, while the abundance of 
+H$^{13}$CO$^{+}$ increases toward the later stages.
+
+Our observations demonstrated that two molecular emissions, each of which may 
+trace a different evolutionary stage of pre-stellar cores, actually show
+different spatial distribution of pre-stellar cores in TMC-1C.
+In addition to these observations of TMC-1C, we made an extensive survey of 
+H$^{13}$CO$^{+}$ and CH$_{3}$OH in the Heiles Cloud 2, finding that 
+the H$^{13}$CO$^{+}$ line is well associated with protostars, while the 
+CH$_{3}$OH line is not associated with them. Taking these results into 
+consideration, we suggest that observations with two molecular emissions, 
+each of which traces a different evolutionary stage in the pre-stellar cores,
+may be important to study the physical evolution of the pre-stellar cores.
+
+Subsequently, in order to clarify the detailed internal structures of these 
+pre-stellar cores at different evolutionary stages, 
+we have carried out interferometric observations with the NMA for the 
+representative 
+H$^{13}$CO$^{+}$ and CH$_{3}$OH cores. we have discovered several ``clumps'' 
+($\leq$ 1000 AU, $\sim$ 0.04 M$_{\odot}$) inside these pre-stellar cores.
+Such clumps must be important to understand how to initiate star formation
+in the pre-stellar cores.
+

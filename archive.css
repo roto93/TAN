@@ -1,0 +1,18 @@
+@media all and (max-width: 1000px) {
+    .issue {
+        width: 10vw;
+    }
+    .date {
+        width: 15vw;
+    }
+    .subject {
+        width: 70vw;
+    }
+    td{
+        height: inherit;
+    }
+    table{
+        font-size: 1.2rem;
+    }
+    
+}

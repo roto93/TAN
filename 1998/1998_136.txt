@@ -1,0 +1,74 @@
+From kyl@asiaa.sinica.edu.tw Tue Jun 30 06:40:23 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA04028; Tue, 30 Jun 1998 06:38:41 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id GAA12150; Tue, 30 Jun 1998 06:37:07 +0800
+Date: Tue, 30 Jun 1998 06:37:07 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: AIPS++ Newsletter for June 1998  (fwd)
+Message-Id: <Pine.GSO.3.96.980630063703.12057G-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1669
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 29 Jun 1998 15:28:49 -0600
+From: Tim Cornwell <tcornwel@aoc.nrao.edu>
+To: tcornwel@estella.aoc.nrao.edu
+Subject: AIPS++ Newsletter for June 1998 
+
+
+			AIPS++ Newsletter for June 1998
+
+We are pleased to announce the publication of the June 1998 edition
+of the AIPS++ Newsletter at URL:
+
+http://aips2.nrao.edu/aips++/docs/newsletters/jun98/junenews/junenews.html
+
+Older copies of the newsletter are available at:
+
+http://aips2.nrao.edu/aips++/docs/newsletters/frontpage.html
+
+To alert those interested to each new issue of the AIPS++ Newsletter,
+we have inaugurated a newsletter mailing list. When a new edition is
+published, we will send an announcement to this mailing list. To
+subscribe to the mailing list, send mail to
+majordomo@majordomo.cv.nrao.edu with the following command in the body
+of your email message:
+
+	subscribe aips2news
+
+If you ever want to remove yourself from this mailing list, you can
+send mail to majordomo@majordomo.cv.nrao.edu with the following
+command in the body of your email message: 
+
+	unsubscribe aips2news 
+
+If you ever need to get in contact with the owner of this mailing
+list, have trouble unsubscribing, or questions about the list
+itself, send email to owner-aips2news@majordomo.cv.nrao.edu. 
+
+Tim Cornwell, NRAO
+June 29 1998
+
+

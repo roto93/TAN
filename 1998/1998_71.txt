@@ -1,0 +1,188 @@
+From kyl@biaa.sinica.edu.tw Mon Apr 13 23:01 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02958; Mon, 13 Apr 1998 23:00:58 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id WAA01088; Mon, 13 Apr 1998 22:57:32 +0800
+Date: Mon, 13 Apr 1998 22:57:32 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: no subject (file transmission) (fwd)
+Message-Id: <Pine.GSO.3.96.980413225729.1067A-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7538
+Status: RO
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 13 Apr 1998 15:52:48 +0200 (MET DST)
+From: Mail account for Helpdesk <helpdesk@iso.vilspa.esa.es>
+To: kyl@astro.uiuc.edu
+Subject: no subject (file transmission)
+
+
+To:         All ISO Observers
+From:       M.F. Kessler
+Date:       13 April 1998
+
+Subject:    Depletion of ISO's LHe Supply
+
+
+I am sorry to have to inform you that ISO's supply of liquid helium ran out
+on Wednesday 8 April; this is nearly one year more than specified and we
+have been able to make a total of over 26000 observations, including two
+visits to the Taurus/Orion region.  I attach for your information, the
+announcement that was released to the Press on 9 April; this has also been
+posted on our WWW server, 'isowww.estec.esa.nl'.
+
+We will soon start a short phase of calibrations and technology tests with
+the satellite.  At the end of this -in mid May- we plan to use the
+remaining hydrazine to lower the perigee so that ISO will re-enter the
+Earth's atmosphere some time in the first few decades of the next
+century.  
+
+Last September, the ISO OTAC approved a programme, led by Rens Waters NL, 
+of 2.4 - 4 um (band 1) SWS observations to be carried out if (and whenever)
+possible during this phase.  The goal is to extend the MK spectral
+classification scheme to the infrared by obtaining 2.4 - 4 um scans at
+full grating resolution (approx. 2000) of as many stars as is possible in
+the time available. In effect, it is planned to fill gaps in the
+technology test phase timeline with these observations.  As special
+settings are needed, these observations will be carried out via the
+'Calibration Uplink System'. 
+
+In preparation, over the Easter weekend, the SWS team at VILSPA has been
+monitoring the behaviour of its instrument, mainly by manual commanding. 
+However, additionally for test purposes, half a dozen planned SWS
+observations on bright targets in revolutions 876-879 were executed.  The
+band 1 data look reasonable, thus, confirming the feasibility of the
+spectral classification programme.  As of noon on 13 April, the SWS
+temperature is around 20K.
+
+When the technology test and calibration phase is over, the focus at
+VILSPA will shift fully to the post operations phase.  We plan to
+re-process all observations with a new pipeline (version 7), starting in
+mid-May.  When this re-processing is complete, we plan to open the ISO
+archive some time in early autumn.  Some 25% of the ISO data will be in
+the public domain at that time and will be retrievable.
+
+Further information will be posted as usual on the ISO WWW server at:
+    isowww.estec.esa.nl
+
+Best regards,
+Martin F. Kessler,
+ISO Project Scientist.
+
+
+------------------------------------------------------------
+
+
+                Nr 15-98, Paris, 9 April 1998
+
+
+
+ISO completes its observations of the Universe by infrared light
+
+
+
+ESA's Infrared Space Observatory, ISO, has ended its observational phase,
+long after the expiry date of the end of May 1997 foreseen in the
+specifications for the mission. Instead of the required 18 months, the
+astronomers have been able to use ISO for more than 28 months, and as a
+result have gathered a wealth of additional information about the
+Universe. Altogether ISO has made over 26,000 observations of cosmic
+objects.
+
+At 07:00 on 8 April 1998, engineers at ESA's ground station at Villafranca
+near Madrid reported that ISO's telescope was beginning to warm up, above
+its nominal operating temperature close to absolute zero. This was the
+sign that ISO had exhausted the superfluid helium used to achieve the very
+low temperatures necessary for infrared astronomy.
+
+Observations ceased at 23h07 when the temperature of the instruments had
+risen above -269 degrees C. At that time, ISO was observing the galaxy NGC
+1808 with the camera (ISOCAM) for Prof. J. Hough (UK). The astronomers
+then handed ISO over to the engineering team for  check-outs and
+decommissioning. The spacecraft will be switched off in about 28 days'
+time.
+
+Infrared rays come from cool places in the sky, and ISO would have  been
+dazzled by its own heat unless its optical system were extremely cold. At
+its launch in November 1995, ISO carried a supply of 2000 litres of
+superfluid helium, which boils at -271 degrees C. Slow venting of the
+helium into space maintained the low temperature of the optical system.
+
+How did ISO achieve its extended life? Three months came from a prudent
+safety margin in the engineering calculations of the rate of loss of
+helium. Two months were the result of favourable circumstances in the
+launch campaign at Kourou in French Guiana. During a technical check of
+the Ariane 44P launcher, ISO's engineers seized the chance to recharge the
+helium, and the quick launch that followed meant that the outer parts of
+the cryogenic system of the spacecraft had little time to warm up in
+Kourou's tropical climate.
+
+Finally, the daily loss of helium turned out to be 17% less than expected,
+at the lower end of a range of possibilities considered by the engineers.
+That gave ISO an estimated five months of additional life.
+
+The date for the helium to run out remained somewhat uncertain, and
+astronomers and engineers have been alert to the possibility of its
+exhaustion for the past few weeks. The huge bonus to astronomers, from
+ISO's long operating life, is only one of their reasons to be grateful for
+the highly successful engineering and operations of ISO. The pointing
+accuracy of ISO's telescope was ten times better than required by the
+specification, and its jitter was one-fifth of what would have been
+considered tolerable. Smooth, well-planned operations were extended on a
+daily basis by a US ground station supporting ESA's Villafranca station.
+
+ISO was observing selected targets in the sky for 90-95% of the time
+available.
+
+Even in between the planned observations a "serendipity" programme 
+with the ISOPHOT instrument charted cool objects as ISO slewed from one 
+target to the next.
+
+Although ISO's observations are now completed, astronomers will be
+analysing them for years to come, assisted by a team of mission experts
+who will continue their work at Villafranca and other centres worldwide
+until 2001.
+
+Commenting on the completion of ISO's observational phase, ESA's director
+of science, Roger Bonnet, says: "We always knew that ISO's helium would
+run out one day, and we can be grateful that it has lasted for so long.
+This is a time for celebration, not sorrow, and I congratulate the
+VILSPA, ESTEC and ESOC staff who have operated so efficiently the
+spacecraft as well as European industry which developed such an excellent
+mission and our scientists who built such an outstanding payload. I wish
+European astronomers as well as their colleagues from the USA and Japan
+to now fully exploit the image data acquired by ISO".
+
+
+For further information, please contact:
+ESA Public Relations Division          Martin Kessler
+Tel: +33(0)1.53.69.71.55               ISO Project Scientist
+Fax: +33(0)1.53.69.76.90               Tel :+34 (9)1.813.1253
+                                       e-mail: mkessler@iso.vilspa.esa.es
+
+For background information, consult ISO's www pages at :
+             isowww.estec.esa.nl
+
+
+

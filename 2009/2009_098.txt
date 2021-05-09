@@ -1,0 +1,241 @@
+From astro@iaa17.asiaa.sinica.edu.tw Thu Aug 27 16:14:53 2009
+Date: Thu, 27 Aug 2009 16:16:04 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Aug 14 - 27, 2009)
+
+============================================================================== 
+
+In this issue (Aug 14 - 27, 2009)
+
+1. ASIAA Call for ARO Proposals - Fall 2009 (Sep 25)
+2. ASIAA Call for SMA proposals for 2009B (Sep 17)
+3. POST-DOC AT ARCETRI OBSERVATORY
+
+============================================================================== 
+
+Arizona Radio Observatory: Call for Proposals (Fall 2009)
+------------------------------------------------------------
+
+Dear all,
+
+ASIAA's ARO proposal deadline for Fall 2009 (October 2009 - January 2010)
+is set on September 25, 2009 (Friday).
+
+The Arizona Radio Observatory operates the Sub-Millimeter Telescope (SMT)
+and the Kitt Peak 12 Meter.  The SMT currently supports a dual-polarization,
+ALMA Band-6 1 mm receiver, a dual-polarization 0.8 mm receiver, and a new
+ALMA Band-9 (602-720 GHz) dual-polarization receiver.   The 12 m supports
+2 mm and 3 mm (65-176 GHz) dual-polarization receivers.  A new ALMA Band-3
+receiver is now available at the 12 m for the 85-116 GHz band (3 mm HI),
+also dual-polarization. Remote observing is available at both ARO telescopes.
+
+Please refer to http://aro.as.arizona.edu/ for more details.
+
+Information about Remote Observing can be viewed at:
+http://aro.as.arizona.edu/remote/remote.htm.
+For further information about remote observing and other operational questions,
+please contact Tom Folkers, Operations Manager: tfolkers@as.arizona.edu.
+
+People are required to use the KP12M and SMT proposal cover/summary
+sheets for their proposals:
+(under "Proposal Submission Information" at
+  http://aro.as.arizona.edu/proposal_submission_information.htm
+for the SMT -
+  http://aro.as.arizona.edu/proposals/smt_prop_sub.htm
+and for the 12m -
+  http://aro.as.arizona.edu/proposals/12m_prop_sub.htm )
+
+Proposals should consist of a proposal Cover Sheet, obtainable at
+  http://aro.as.arizona.edu/proposals/ ,
+and a brief scientific and technical justification. The justification
+may be up to two pages of text, and should not exceed three pages including
+tables, figures, references and a source list with observing time requirements.
+For electronic submission, ASIAA only accepts proposals in either PS or PDF
+format.
+
+Please submit your proposals by 24:00 midnight September 25, 2009 to
+kuan @ asiaa.sinica.edu.tw ; no late proposals will be accepted.
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of the ASIAA ARO TAC
+
+============================================================================== 
+
+> Date: Sun, 23 Aug 2009 02:37:46 +0800 (CST)
+> From: Tatsuhiko Hasegawa <hasegawa@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: TAN distribution - call for SMA proposals
+
+ASIAA Call for SMA proposals for 2009B
+
+Dear Colleagues,
+
+The ASIAA SMA TAC invites proposals for the ASIAA time
+of the Submillimeter Array (SMA) for the period from
+2009 October 16th to 2010 May 15th (2009B semester).
+The ASIAA SMA time is open to those who are affiliated to
+a Taiwanese university or a Taiwanese research institute.
+
+The deadline for proposal submission for the ASIAA SMA time
+for the 2009B semester is September 18, 2009, 4AM in the
+morning (Taiwan time).  [The deadline corresponds to
+September 17 (Thursday), 10AM in Hawaii, USA, and 4PM EDT
+in Cambridge, USA.]
+
+All Taiwanese SMA proposals must be submitted through the SMA
+submission facility (http://sma1.sma.hawaii.edu/proposing.html).
+New proposers in particular need to get registered (through
+the submission web site) before submitting a proposal.
+Taiwanese proposers should select "ASIAA" as their destination
+TAC in the submission web page.  Please direct your inquiries
+(in particular PI eligibility) to TATSUHIKO HASEGAWA
+(hasegawa AT asiaa.sinica.edu.tw).
+
+For technical information on the SMA, please visit
+    http://sma1.sma.hawaii.edu/proposing.html   .
+The SAO SMA information page has been updated for 2009B.
+For Taiwan and ASIAA specific aspects (including the PI
+eligibility, the ASIAA proposal selection process, and the
+amount of available observing time), please visit
+    http://www.asiaa.sinica.edu.tw/~SMART/  .
+
+A few cautions about proposal format and writing merit reiterating.
+- In addition to the page limit, there are limits to the font size
+   (11 point or larger) and layout (two pages for text only and two
+   pages for figures, tables, and references).
+- A request for a good weather without a compelling reason tends to
+   get a lower rating from reviewers.
+
+Additional messages from the ASIAA SMA TAC :
+
+A PI (Principal Investigator) should lead the proposed project, and
+is expected to be the first author of the resulting papers.  If a PI
+will not be able to do these, the PI should provide the reason in the
+proposal.  For example, in a multi-wavelength, international campaign,
+the PI for an SMA proposal may not be leading the entire project or
+going to be the first author.  In such a case, the PI should provide
+the background or circumstance in the proposal.
+
+Should a PI become unable to do the work, Co-Is (Co-Investigators)
+are expected to follow up the analysis and publication of already
+executed or allocated projects under the PI.  Co-investigators should
+be aware of their responsibilities or obligations.  PIs should make
+best efforts to obtain a consent before putting someone's name on a
+proposal as a Co-I.
+
+The PI of a successful proposal will be encouraged to provide an
+observer at the summit of Mauna Kea.  For more details, please
+consult the ASIAA web page listed above.
+
+In order to encourage PhD students to use the SMA, the ASIAA SMA TAC
+will make some considerations to proposals for PhD thesis projects.
+Please visit the ASIAA web site for details.
+
+The SMA is a complex instrument.  Consultation or collaboration
+with those who are familiar with the SMA is recommended.  Contact
+points for consultation are also found in the ASIAA web page
+listed above.
+
+Sincerely,
+
+Tatsuhiko Hasegawa
+ASIAA SMA TAC Chair
+
+-- 
+Tatsuhiko I. Hasegawa (Associate Fellow) www.asiaa.sinica.edu.tw
+Institute of Astronomy and Astrophysics, Academia Sinica
+hasegawa AT asiaa.sinica.edu.tw, Tel:+886-2-3365-2200 ex722
+
+============================================================================== 
+
+> Cc: astro@asiaa.sinica.edu.tw
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: riaa@asiaa.sinica.edu.tw
+> Subject: Fwd: POST-DOC AT ARCETRI OBSERVATORY
+> Date: Thu, 27 Aug 2009 10:50:45 +0800
+
+FYI
+
+best,
+sheng-yuan
+
+=B6}=A9l=C2=E0=B1H=B6l=A5=F3=A1G
+
+> =B1H=A5=F3=A4H: Riccardo Cesaroni <cesa@arcetri.astro.it>
+> =A4=E9=B4=C1: August 3, 2009 7:54:16 PM GMT+08:00
+> =A6=AC=A5=F3=A4H: Riccardo Cesaroni <cesa@arcetri.astro.it>
+> =BC=D0=C3D: POST-DOC AT ARCETRI OBSERVATORY
+>
+>
+> Dear Colleague,
+> in attachment please find the announcement for a post-doc position =20
+> on high-mass
+> star formation at the Arcetri Astrophysical Observatory. It would be =20=
+
+> very much
+> appreciated if you could post it at your institute and point it out to
+> potential candidates.
+>
+> Kind regards
+>
+> Riccardo Cesaroni=
+
+INAF ¡V ARCETRI ASTROPHYSICAL OBSERVATORY
+Florence (ITALY)
+International Post-Doctoral Fellowship
+Phone: +39 055 2752217
+Fax: +39 055 220039
+e-mail inquiries: cesa@arcetri.astro.it
+URL: http://www.arcetri.astro.it/
+SUBMISSION ADDRESS:
+cesa@arcetri.astro.it
+Riccardo Cesaroni
+INAF ¡V Osservatorio Astrofisico di Arcetri
+Largo Fermi, 5
+I-50125 Firenze
+Italy
+The INAF ¡V Arcetri Astrophysical Observatory (Florence) intends to award a post-doctoral fellow-
+ship in the field of star formation. The fellow is expected to focus his/her activity on observations of
+OB star forming regions. In particular, he/she will participate in the investigation of high-mass star
+formation in the Galaxy by means of large scale surveys at (sub)mm and IR wavelengths, comple-
+mented by more focused, higher angular resolution observations of selected regions. Experience with
+radio single-dish and interferometric observations and data analysis is requested, from centimeter to
+sub-millimeter wavelengths.
+Applicants must have a Ph.D. or equivalent at the starting date of the fellowship. The gross yearly
+salary will be 33,000 Euro. The fellowship will be granted for two years, conditional to a positive
+evaluation of the research activity carried out during the first year, and will not entail social benefits
+or medical insurance. No special application forms are required. The applicants should send a CV
+and a list of publications to the above submission address and should arrange for two letters of rec-
+ommendation to be sent separately to the same address. E-mail submission is accepted. Applications
+should arrive in Arcetri no later than October 15, 2009. The starting date will be as early as possible
+but is negotiable.
+Application deadline: October 15, 2009
+Contact person:
+Riccardo Cesaroni
+INAF ¡V Osservatorio Astrofisico di Arcetri
+phone: +39 055 2752217
+fax: +39 055 220039
+e-mail: cesa@arcetri.astro.it
+Firenze, August 3, 2009
+Prot. 829 Tit. III Cl. 5 3/08/2009
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

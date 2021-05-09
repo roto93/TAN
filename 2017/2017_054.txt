@@ -1,0 +1,47 @@
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Supplemental Call for Proposals to use the 7-m Array in Cycle 4
+> Date: Thu, 6 Apr 2017 15:04:43 +0800
+> Cc: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+
+Yu-Nung
+------------------------------------------------------------------
+
+https://almascience.nao.ac.jp/news/supplemental-call-for-proposals-to-use-the-7-m-array-in-cycle-4
+
+Supplemental Call for Proposals to use the 7-m Array in Cycle 4
+
+The ALMA Director announces that the Joint ALMA Observatory (JAO) will accept
+observing proposals that request to use the 7-m Array in the remainder
+of Cycle 4, which ends on September 30, 2017. This proposal call enables
+the community to propose projects that will fill in undersubscribed
+regions of the observing queue for the 7-m Array. Up to 800 hours on the
+7-m Array will be allocated through this opportunity.
+
+Proposals must be compatible with the capabilities listed in the ALMA Cycle 4
+Call for Proposals, with the following restrictions:
+
+Proposals for this special call will be accepted only for the 7-m Array in stand-alone mode.
+Proposals that request the Total Power (TP) Array or the 12-m Array will be declined.
+A proposal may request up to 50 hours of observing time on the 7-m Array. We encourage
+large time requests within this limit.
+Proposals will be accepted in Bands 3, 4, 6, and 7 for any LST, except between LST of 15 h
+and 20 h in Bands 6 and 7. The largest amount of time available in any
+band is at an LST of > 22 h and < 13 h.
+Only proposals that request standard modes are permitted, as defined in the
+ALMA Cycle 4 Proposer・s Guide.
+
+
+Proposals can be submitted starting April 21, 2017 and will be reviewed as they are
+received. Instructions on how to submit a proposal through the ALMA
+Observing Tool (OT) will be made available on the ALMA Science Portal on
+April 21. Proposals can be submitted at any time up until the end of
+Cycle 4 or until the available time has been fully allocated. An
+announcement will be posted on the ALMA Science Portal when this
+opportunity closes.
+
+==============================================================================

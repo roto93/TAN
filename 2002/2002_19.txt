@@ -1,0 +1,97 @@
+From wshou@phys.ntu.edu.tw Mon Jan 21 12:56 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA16407
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 21 Jan 2002 12:56:04 +0800 (CST)
+Received: from hep18.phys.ntu.edu.tw (hep18.phys.ntu.edu.tw [140.112.101.56])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA02328;
+	Mon, 21 Jan 2002 12:55:28 +0800 (CST)
+Received: from localhost (wshou@localhost)
+	by hep18.phys.ntu.edu.tw (8.11.6/8.11.6) with ESMTP id g0L4fQI02658;
+	Mon, 21 Jan 2002 12:41:26 +0800
+From: wshou@phys.ntu.edu.tw
+X-Authentication-Warning: hep18.phys.ntu.edu.tw: wshou owned process doing -bs
+Date: Mon, 21 Jan 2002 12:41:26 +0800 (CST)
+To: K-W Ng <nkw@phys.sinica.edu.tw>
+cc: CosPA Mailing List <65202053@ms.cc.ntu.edu.tw>,
+        <astro@asiaa.sinica.edu.tw>, <b5202023@ms.cc.ntu.edu.tw>,
+        <bonwood@ms24.hinet.net>, Darwin Chang <chang@phys.nthu.edu.tw>,
+        <chengjiun@yahoo.com.tw>, <chiueh1@phys.ntu.edu.tw>,
+        Tzihong Chiueh <chiuehth@phys.ntu.edu.tw>, <clw@asiaa.sinica.edu.tw>,
+        <clw@phys.ntu.edu.tw>, <cmchen@phys.ntu.edu.tw>,
+        <cpsoo@mail.ncku.edu.tw>, <cwwang@phys.ntu.edu.tw>,
+        <d89222003@ms89.ntu.edu.tw>, <deutsch@stella.astro.ncu.edu.tw>,
+        Dilip Ghosh <dghosh@phys.ntu.edu.tw>, <dslee@cc.ndhu.edu.tw>,
+        <fan@asiaa.sinica.edu.tw>, <g883305@oz.nthu.edu.tw>,
+        <gcliu@asiaa.sinica.edu.tw>, Guey-Lin Lin <glin@cc.nctu.edu.tw>,
+        <hexg1@phys.ntu.edu.tw>, <hexg2@phys.ntu.edu.tw>,
+        <hexg3@phys.ntu.edu.tw>, Yu-Kuo Hsiao <hexg4@phys.ntu.edu.tw>,
+        Chan-Peng Kao <hexg6@phys.ntu.edu.tw>,
+        Xiao-Gang He <hexg@phys.ntu.edu.tw>, <hkchang@phys.nthu.edu.tw>,
+        <hsyang@phys.ntu.edu.tw>, <htcho@mail.tku.edu.tw>,
+        <huanhsin@ms5.hinet.net>, <hwangcy@astro.ncu.edu.tw>,
+        <kager@pchome.com.tw>, <kclai@phys.ntu.edu.tw>,
+        <keifer@tosh.phys.ntu.edu.tw>, <keiichi@asiaa.sinica.edu.tw>,
+        <klem@ethome.net.tw>, <ktwang@phys.ntu.edu.tw>,
+        "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>, <leewl@phys.sinica.edu.tw>,
+        <lihb@phys.sinica.edu.tw>, <lihwai@sinamail.com>,
+        <lin1099@ms9.hinet.net>, <lou@asiaa.sinica.edu.tw>,
+        <lupin@asiaa.sinica.edu.tw>, <meowshun@ms28.url.com.tw>,
+        <millieyao@phys.ntu.edu.tw>, Miao Li <mli@phys.ntu.edu.tw>,
+        <mwang@phys.ntu.edu.tw>, <nnp1@phys.ntu.edu.tw>,
+        <parkc@astro.snu.ac.kr>, Paoti Chang <pchang@phys.ntu.edu.tw>,
+        Pei-Ming Ho <pmho@phys.ntu.edu.tw>, <r8222001@dove.cc.ntu.edu.tw>,
+        <r8222007@dove.cc.ntu.edu.tw>, <r8222013@dove.cc.ntu.edu.tw>,
+        <r8222050@dove.cc.ntu.edu.tw>, <r88222001@ms88.ntu.edu.tw>,
+        <ray@analog.ee.ntu.edu.tw>, <rrhsu@mail.ncku.edu.tw>,
+        <sftsai4@phys.ntu.edu.tw>, amy <shchang@phys.ntu.edu.tw>,
+        BAEK Seungwon <swbaek@phys.ntu.edu.tw>, <sylin@phys.sinica.edu.tw>,
+        <taiji@sora.asiaa.sinica.edu.tw>, <tony@asiaa.sinica.edu.tw>,
+        <tseng327@ms7.hinet.net>,
+        Taiwan HEP Friends <twhepnet@hepmail.phys.sinica.edu.tw>,
+        Typhoon Lee <typhoon@asiaa.sinica.edu.tw>, <ueno@phys.ntu.edu.tw>,
+        <wcchen@phys.ntu.edu.tw>, <wcmtw@yahoo.com>,
+        <wenlin@phy03.phy.ntnu.edu.tw>, wfgore <wfgore@cc.nctu.edu.tw>,
+        <wtni@phys.nthu.edu.tw>, "Pauchy W.Y. Hwang" <wyhwang@phys.ntu.edu.tw>,
+        <wyhwange@phys.ntu.edu.tw>, <wyhwangr@phys.ntu.edu.tw>,
+        <yen@asiaa.sinica.edu.tw>, <yuan@asiaa.sinica.edu.tw>,
+        <yuanru@phys.ntu.edu.tw>,
+        BELLE Taiwan Group <belle@hep1.phys.ntu.edu.tw>,
+        Wei-Shu Hou <wshou@phys.ntu.edu.tw>
+Subject: POSTPONED:  1/24 CosPA Thursday Special Seminars
+In-Reply-To: <Pine.GSO.4.21.0201181314420.16005-100000@phys15>
+Message-ID: <Pine.LNX.4.33.0201211237370.2468-100000@hep18.phys.ntu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1634
+Status: R
+
+On Fri, 18 Jan 2002, K-W Ng wrote:
+
+> 
+> *** Please be noted that the seminars start at 12:10 and the 
+>     location is in ROOM 104
+>   _____________________________________________________________________
+>  |                                                                     |
+>  |                          C o s P A                                  |
+>  |                    Thursday Special Seminars                        |
+>  |                                                                     |
+>  |  Speaker: Prof. Tuneyoshi Kamae (SLAC)                              |
+>  |  Title:   Traditional Gamma-ray Astronomy with GLAST                |
+>  |  Time:    12:10-13:00, January 24, 2002                             |
+>  |  Place:   Rm 104, Taida New Physics Building                        |
+>  |                                                                     |
+>  |  Speaker: Prof. Elliott Bloom (SLAC)                                |
+>  |  Title:   Particle Astrophysics Aspects of GLAST                    |
+>  |  Time:    13:10-14:00, January 24, 2002                             |
+>  |  Place:   Rm 104, Taida New Physics Building                        |
+>  |_____________________________________________________________________|
+>                                                                                
+Hi,
+   The above CosPA Special Seminars will be postponed. The speakers found 
+out at last minute that their trip could not be approved in time by DOE.
+Kin-Wang will make announcements when it becomes settled.
+   Sorry for inconvenience. Best wishes.
+					   Wei-Shu
+					   CosPA-2 Subproject
+
+

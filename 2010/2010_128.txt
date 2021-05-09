@@ -1,0 +1,51 @@
+Arizona Radio Observatory: Call for Proposals (Spring 2010)
+------------------------------------------------------------
+
+Dear all,
+
+UCAT-ASIAA's ARO proposals deadline for the 2010 fall semester
+(October 15, 2010 - February 1, 2011) is set on September 26, 2010 (Sunday).
+
+The Arizona Radio Observatory operates the Sub-Millimeter Telescope (SMT)
+and the Kitt Peak 12 Meter (12m). The SMT currently supports a
+dual-polarization, ALMA Band-6 1 mm receiver, a dual-polarization 0.8 mm
+receiver, and an ALMA Band-9 (602-720 GHz) dual-polarization receiver.
+The SMT control system has been updated to allow for dual polarization,
+dual sideband observations (so-called "4 IF mode").  The 12m supports 2 mm
+and 3 mm (65-176 GHz) dual-polarization receivers.  A new ALMA Band-3 receiver
+is now available at the 12 m for the 85-116 GHz band (3 mm HI), also
+dual-polarization. Remote observing is available at both ARO telescopes.
+
+Please refer to http://aro.as.arizona.edu/ for more details.
+
+Information about Remote Observing can be viewed at:
+http://aro.as.arizona.edu/remote/remote.htm.
+
+For further information about remote observing and other operational
+questions, please contact Tom Folkers, Operations Manager:
+tfolkers@as.arizona.edu.
+
+People are required to use the 12m and SMT proposal cover/summary
+sheets for their proposals:
+(obtainable under "Proposal Submission Information" at
+  http://aro.as.arizona.edu/proposal_submission_information.htm
+for the SMT -
+  http://aro.as.arizona.edu/proposals/smt_prop_sub.htm
+and for the 12m -
+  http://aro.as.arizona.edu/proposals/12m_prop_sub.htm )
+
+Proposals should consist of a proposal Cover Sheet, obtainable at
+  http://aro.as.arizona.edu/proposals/ ,
+and a brief scientific and technical justification. The justification
+may be up to two pages of text, and should NOT exceed three pages in
+total including tables, figures, references and a source list with observing
+time requirements. For electronic submission, UCAT-ASIAA only accepts
+proposals in either PS/EPS or PDF formats.
+
+Please submit your proposals by midnight (23:59 pm CST) September 26, 2010
+to kuan @ asiaa.sinica.edu.tw .
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of the UCAT-ASIAA ARO TAC
+

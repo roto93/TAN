@@ -1,0 +1,269 @@
+From kyl@asiaa.sinica.edu.tw Mon Nov  1 13:24 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA05861
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 1 Nov 1999 13:23:17 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA25892
+	for <astro@asiaa.sinica.edu.tw>; Mon, 1 Nov 1999 13:18:40 +0800
+Date: Mon, 1 Nov 1999 13:19:16 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: TANet2 NewsBriefs, Vol. 1, Issue 4, 1999 (fwd)
+Message-ID: <Pine.SOL.4.10.9911011319140.15590-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 9782
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 01 Nov 1999 11:39:14 +0800
+From: Fay Sheu <c00yzs00@nchc.gov.tw>
+To: newsbriefs@tanet2.net.tw
+Subject: TANet2 NewsBriefs, Vol. 1, Issue 4, 1999
+
+
+TANet2 NewsBriefs
+
+>From the National Center for High-performance Computing
+   http://www.tanet2.net.tw
+_________________________________________________________
+Hello NewsBriefs Readers;
+
+We bring to you, friends of the vBNS community, whose 
+paths may cross at STAR TAP, this newsletter to tell you 
+the news and events, plans and accomplishments in Taiwan.  
+
+   Best wishes from the editor
+_________________________________________________________
+
+                                     Volume 1, Issue 4, October 1999
+In this issue:
+
+Killer Quake Hit Taiwan and Slammed Its Tele-
+   communications Infrastructure in Disarray
+TANet/I2 Re-named TANet2
+Among Peers and in Good Company
+Summer Institute in Taiwan
+TANet99 a Success
+TaiGer: A Joint Taiwanese-German Project of Coastal 
+   Engineering on the Web
+_________________________________________________________
+
+Killer Quake Hit Taiwan and Slammed Its Telecommunications
+   Infrastructure in Disarray
+
+A cataclysmic quake registering 7.3 on the Richter 
+scale hit the Island in the darkness hour of 1:47 
+a.m. local time on September 21.  The earthquake and 
+its aftershocks slammed much of the infrastructure 
+in disarray.  Telecommunications services were down.  
+An estimated 35 million cellular phones, roughly 32% 
+of the total, were out of service.  Field deployable 
+communications systems were flown in for the rescue 
+operation.  Landline services near the epi-center 
+were down and at least a submarine cable was down.  
+The latter caused telecommunications between Taiwan 
+and Japan, Korea, Hong Kong and the US to be 
+temporarily out of service.  Power outages affected 
+much of the north and included the capital city of 
+Taipei.  Power did return to normal a couple weeks 
+after the quake but not for towns and villages where 
+the most devastation took place.  All resources 
+needed for the rescue operation were shifted to the 
+quake sites.  The government promptly issued 
+disaster alerts and called for conservation of 
+electricity and water.  We at the NCHC, blessed to 
+have our own generator, voluntarily cut back on power 
+consumption and were functioning in half capacity 
+for central air conditioning.  We apologize for the 
+delay in sending out this issue of the newsletter.
+
+_________________________________________________________
+
+TANet/I2 Re-named TANet2
+
+The Policy Committee of Taiwan's advanced research 
+network unanimously endorsed the renaming of 
+TANet/I2 to "TANet2."  TANet2 is funded by the 
+National Science Council, under which the NCHC is 
+charged with its planning and deployment. TANet, by 
+birth, is a separate network.  It is funded and 
+managed by the Department of Education.  Its acronym 
+stands for Taiwan Academic Network, which was first 
+connected to the Internet at Princeton, New Jersey 
+in 1981.  In the last two years, TANet has expanded 
+its services enormously to include high schools and 
+elementary schools.  TANet2, by contrast, will 
+continue to serve the research community.  Hence, 
+TANet and TANet2 will remain to be separate networks 
+and the two government agencies will continue to pool 
+financial resources in co-funding the networks.  A 
+third institution, the Academia Sinica, also lends 
+its financial support to TANet2.  
+
+_________________________________________________________
+
+Among Peers and in Good Company
+
+TANet2 has been actively seeking partners with 
+similar goals to peer with.  Following the two 
+peering events with CAnet2 and SingAREN in July 1999, 
+we gained three more international partners in 
+August.  We are happy to have established peering 
+with ESnet, the National Library of Medicine in 
+NIHnet and IUCC of Israel.  An MOU with Internet2 
+was signed during the Internet2 Members Fall Meeting 
+in Seattle, Washington, October 1999.  We are 
+looking forward to peering with Abilene such that 
+our scientists gain another powerhouse of a network 
+as a vehicle for research collaboration.  By popular 
+demand, the technical staffs at the Network 
+Operation Center had been working hard to implement 
+multicast functions.  Mbone was made available 
+September 3.  Collaborating scientists can now 
+conduct transnational video conferences.
+
+_________________________________________________________
+
+Summer Institute in Taiwan
+
+Under the bilateral research cooperative agreement, 
+the NSF (US) and the NSC (Taiwan) will jointly launch 
+the "Summer Institute in Taiwan" program next summer.  
+This is a program for US graduate students in science 
+and engineering to do research in Taiwan during the 
+summer months.  Joint approval by both institutions 
+is required.  Interested applicants in the US should 
+consult NSF web pages for the programs and contact 
+information at:
+  http://www.nsf.gov/pubs/1999/nsf99152/nsf99152.htm
+
+Information for hosting Taiwan institutions and 
+contacts are at:
+  http://www.tanet2.net.tw/english/news_&_events
+  or
+  http://www.nsc.gov.tw/int/
+
+The NCHC is one of the major host institutions ready 
+to accept applicants.
+
+_________________________________________________________
+
+TANet99 a Success
+
+The annual gathering for TANet users convened down south 
+this year at the beautiful campus of the National Sun 
+Yat-sen University.  It was held October 21-23.  The 
+Plenary session began with a webcast between the NCHC 
+and the NSYSU.  Some of the contributors are from POPs 
+and GigaPOPs.  Much of the discussions on technical 
+issues centered on network management.  Diffserv, QoS, 
+broadband communications are the hot topics.  For the 
+educators, distance learning, delivered on-campus or 
+disseminated cross-campus through collaborative 
+efforts, is an area actively pursued. Dr. Ruey-beei Wu, 
+Director of the NCHC also delivered a talk on the 
+"Next Generation Research Networks in Taiwan."  
+
+Student participations were down this year because 
+of the earthquake.  While the conference was in 
+session, on October 22, another quake registered at 
+6.8 on the Richter scale took place near the epi-
+center of one-month previous.  There was much debate
+about whether this seismic event was an aftershock or
+a new event.
+ 
+_________________________________________________________
+
+TaiGer: A Joint Taiwanese-German Project of Coastal 
+   Engineering on the Web
+
+This joint project was initiated and conducted 
+jointly by Dr. Frank Molkenthin and Dr. Shin-Jye 
+Liang.  Dr. Molkenthin of the Institut fuer 
+Bauinformatik, Brandenburg University of 
+Technology at Cottbus, Germany is a visiting scholar 
+at the National Center for High-Performance 
+Computing, Taiwan.  Dr. Liang of the NCHC had just 
+spent the summer at Cottbus.  More effective 
+communications between the two groups await further 
+enhancement when peering between TANet2 and the 
+German research network can be established.  Below 
+is a brief description of the joint project, 
+contributed by Dr. Molkenthin. 
+
+Coastal engineering and management contain operation 
+and control systems with natural and artificial 
+components.  A pre-requisite for such tasks is the
+access to the right information at the right time in
+the right place -- hence a need for efficient coastal 
+information systems.  These information systems can 
+only be operated with close collaboration among 
+experts from various disciplines at organizations 
+located all over the world.  Such collaboration 
+demands high-performance networks in order to have 
+a distributed environment--to share application and 
+information as well as to communicate, coordinate 
+and cooperate over the Internet.
+
+The introduction of web-based collaboration to coastal 
+engineering is an important element of the ongoing joint 
+Taiwanese-German (TaiGer) project.  Initial experience 
+in Internet application between Taiwan and Germany 
+revealed that a new level of Internet bandwidth was 
+required. The exchange of virtual 3D Worlds (VRML and 
+OpenGL), interactive dynamic web documents (HTML, 
+JavaScript and Java) and GIS models (ARC/INFO) was 
+possible but sometimes too slow for practical application.  
+Advanced Internet connections linking all parts of the 
+world are essential to web applications described above.
+
+More information on the TaiGer project is available at:
+
+   http://www.bauinf.tu-cottbus.de/taiger
+    
+              Contributed by Dr. Frank Molkenthin
+   Faculty for Architecture and Civil Engineering 
+             Brandenburg University of Technology 
+                                 Cottbus, Germany
+_________________________________________________________
+
+  Fay Sheu
+  TANet2 Task Group 
+  National Center for High-performance Computing
+_________________________________________________________
+
+If you wish to continue to be notified of announcements,  
+news and events about TANet2, you don't need to do anything.  
+If you wish to be removed from the mailing list, however,  
+please UNSUBSCRIBE as follows:
+
+   Send email to majordomo@tanet2.net.tw, leave the subject 
+   line blank, type UNSUBSCRIBE newsbriefs in the body.
+
+If you fail to unsubscribe, you most likely are using an 
+email address that is different from the one we have.  
+Please write or call us.
+   email to c00yzs00@nchc.gov.tw, or
+   call 03-577-6085 ext. 345.
+
+To subscribe, 
+   Send email to majordomo@tanet2.net.tw, leave the subject 
+   line blank, type SUBSCRIBE newsbriefs in the body.
+
+
+

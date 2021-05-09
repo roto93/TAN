@@ -1,0 +1,73 @@
+
+> from:    Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> to: riaa@asiaa.sinica.edu.tw,
+>    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> date:    Mon, Jul 9, 2018 at 9:29 AM
+> subject: IAU Symposium #341 Challenges in Panchromatic Galaxy Modelling with
+>          Next Generation Facilities
+
+Dear colleagues,
+
+The deadline of abstract submission and early registration for the conference below has been extended to 15 July (this week).
+
+Regards,
+Hiro
+
+---------------------------------------
+IAU Symposium #341:
+
+¡§Challenges in Panchromatic Galaxy Modelling with Next Generation Facilities¡¨
+
+November 12 to 16, 2018 at Osaka University Hall
+
+https://panmodel2018.sciencesconf.org/
+
+Topics:
+State-of-the-art panchromatic galaxy models and studies
+Pushing the redshift frontier: modeling the first galaxies
+Pushing the wavelength frontier: extending models towards X-rays and radio
+Pushing the technical frontier: from overwhelmingly large datasets to machine learning
+
+Rationale:
+How galaxies form and evolve across cosmic times is one of the fundamental questions in modern astrophysics. In this endeavor, the panchromatic modeling of galaxies is one of the key tools. As new and next-generation facilities progressively open a new era in astronomy we enter a new era where our current approach at modeling the emission galaxies faces a triple frontier.
+
+The redshift frontier. 
+The first galaxies in the universe are still largely terra incognita. How did the first stellar generations form? What are the properties of population III stars and their effect on their environment? How are their evolution and spectra affected by rotation and binarity? What can we tell about their physical conditions (gas density, temperature, metallicity, etc.) from the recombination line spectra? How did the dust form in such extreme objects? Since its inception, ALMA has been providing excellent opportunities for probing dust to high redshift (z~7 or higher). Surprisingly, it revealed a large variety in dust content already established at high redshift: some galaxies are rich in dust but others are extremely poor. This suggests that the early stages of galaxy evolution present a large variety of physical conditions, driving galaxies along different paths. The variety should also be related to the stellar populations that we will observe with JWST, since metals, of which!
+  dust grains are composed, originate from stars. Therefore, in order to comprehend the evolution of the first galaxies, we need to undertake a large panchromatic effort to fully understand the stellar, the gas, and the dust content in high-redshift galaxies, rather than develop the models separately as is often the case. This conference is suitable for these aims because of the attendance of observers working at various wavelengths and theoreticians working on the most advanced models of dust evolution and SEDs.
+
+The wavelength frontier. 
+The new X-ray missions e-ROSITA and Athena will bring far-reaching changes to our understanding of black hole physics and AGN evolution over cosmic time. In parallel the CTA is expanding our window on cosmic rays. At the same time, MeerKAT is starting operations, VLASS will start soon all the while the EVLA and LOFAR show excellent capabilities for deep fields. These instruments will open new and unique opportunities to tackle the physics of galaxies from star formation to quasars and active nuclei, while opening a new window on the epoch of reionization. However, one of the main challenges in order to tackle all these points will be to determine the physical properties of galaxies through accurate SED modeling. Historically, panchromatic models have only covered reliably the electromagnetic spectrum from the ultraviolet to the sub-millimeter. The loss of information in foregoing X-rays and radio wavelengths is damaging to measure reliably the respective properties of host g!
+alaxies and AGN, as nuclear activity and star formation can be difficult to disentangle reliably. This conference will allow us to discuss state-of-the-art X-ray and radio modeling of galaxies and the prospects of combining them with standard panchromatic models.
+
+The technical frontier. 
+LSST, Euclid, WFIRST and SKA will produce imaging and spectroscopic surveys with observations of billions of galaxies, observed multiple times over periods in excess of a decade, dwarfing the largest extragalactic surveys to date that have been used in developing and applying modeling techniques. The size and dimensionality of these data, combined with their limited wavelength coverage, creates the need to rethink our panchromatic modeling methods. This will require the community to focus its efforts on developing new methods and techniques, such as machine learning, that utilize the volume and diversity of the data rather than high signal-to-noise measurements of small numbers of galaxies. In order to maximize the information that can be extracted from these imaging surveys, experts in the panchromatic modeling of galaxies need to engage with statisticians and observers. This meeting will be an ideal platform from which to identify the steps that need to be undertaken in th!
+is direction and to develop a path towards the exploitation of this new generation of multispectral and temporal surveys.
+
+The meeting is will take place from 12 to 16 November 2018 at the ?saka University Conference Hall in Japan. ?saka, is a large historic city of Japan with a rich intellectual life. It is tightly connected to the rest of the world with direct flights from Asia, Europe, the Middle East, North America, and Oceania. It it connected with T?ky? through a fast train, offering even broader connections to the world.
+
+Review talks
+State-of-the-art panchromatic galaxy models and studies
+a. The history of panchromatic surveys (Sadanori Okamura)
+b. The physical ingredients for panchromatic modeling (Stephane Charlot)
+c. Panchromatic codes and modeling techniques from £q2 minimization to Bayesian inference (Maarten Baes)
+
+Pushing the redshift frontier: modeling the first galaxies
+a. Pushing the redshift frontier with future ground-based and space-borne facilities (Toru Yamada)
+b. Pushing the redshift frontier modeling the UV-optical domain of high-z galaxies (Erik Zackrisson)
+
+Pushing the wavelength frontier: extending models towards X-rays and radio
+a. Pushing the panchromatic modeling frontier towards the X-Rays (Andrea Merloni)
+b. Pushing the panchromatic modeling frontier towards the radio (Eric Murphy)
+
+Pushing the technical frontier: from overwhelming large datasets to machine learning
+a. Pushing the technical frontier from large datasets to machine learning (Viviana Acquaviva)
+
+Organizing committee: 
+SOC chair: Mederic Boquien (University of Antofagasta, Chile)
+
+SOC members: Veronique Buat (Aix-Marseille University, France), Laure Ciesla (Laboratory of Astrophysics of Marseille, France), Andrew Connolly (University of Washington, USA), Daniel Dale (University of Wyoming, USA), Ilse De Looze (University College London, UK), Maud Galametz (CEA Saclay, France), Carlotta Gruppioni (Astrophysics and Space Science Observatory of Bologna - INAF, Italy), Hiroyuki Hirashita (ASIAA, Taiwan), Akio Inoue (Osaka Sangyo University, Japan), Elisabeta Lusso (Durham University, UK), Kentaro Nagamine (Osaka University, Japan), Giulia Rodighiero (University of Padova, Italy), Daniel Schaerer (University of Geneva, Switzerland), Renske Smit (University of Cambridge, UK), Patricia Tissera ( Andres Bello University, Chile)
+
+LOC chair: Akio Inoue (Osaka Sangyo University, Japan)
+LOC members: Denis Burgarella (Laboratory of Astrophysics of Marseille, France), Takuya Hashimoto (Osaka Sangyo University, Japan), Ken Mawatari (Osaka Sangyo University, Japan), Tohru Nagao (Ehime University, Japan), Hiroshi Shibai (Osaka University, Japan)
+
+==============================================================================

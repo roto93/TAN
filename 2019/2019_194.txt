@@ -1,0 +1,43 @@
+==============================================================================
+
+Date: Thu, 19 Dec 2019 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Ngoc Minh Le (ASIAA / Vietnam National University Ho Chi Minh City)
+Topic:         Velocity correlation function: discrepancy between simulation and theory prediction
+Time:         12/23 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+In future galaxy surveys such as the PFS survey using the Subaru Telescope, we will be able to measure not only the density fluctuation but also the velocity field up to very large scales. In order to see if the velocity information can be used to extract cosmological information, we measure the velocity correlation function of halos from N-body simulations compare it to the theoretical prediction. We find non-negligible discrepancies between them even on baryon acoustic oscillation scales due to the finite observational volume effect. We are now in the process to fit this discrepancy to understand the observational result and explain its physical meaning.
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Hao-Yi Wu (Ohio State University)
+Topic:         Probing Cosmic Acceleration with Galaxy Clusters
+Time:         12/26 (Thursday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The acceleration of the Universe is one of the biggest puzzles in
+physics: is it due to a cosmological constant, dynamical dark energy,
+or modification of gravity?  Galaxy clusters provide a unique
+opportunity to answer this question.  In this talk, I will first
+discuss how we use cluster abundances to constrain cosmic
+acceleration, and how weak gravitational lensing effects play a key
+role in cluster surveys.  I will then present my research on using
+simulations to understand cluster weak lensing signals and to
+accurately model covariance matrices.  These results not only mitigate
+the systematic errors in current cluster surveys but also help the
+optimization of future ground- and space-based missions.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

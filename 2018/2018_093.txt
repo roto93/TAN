@@ -1,0 +1,536 @@
+==============================================================================
+
+In this issue (Jun 13 - 15, 2018)
+
+1. [EAVW2018] East Asian VLBI Workshop 2018 (2nd Circular)
+2. IAU Symposium #341 Challenges in Panchromatic Galaxy Modelling with Next
+      Generation Facilities
+3. ASIAA Colloquium/Seminar/Lunchtalk (Jun 19): Atsushi Taruya (Kyoto Univ)
+                                      (Jun 20): Atsushi Taruya (Kyoto Univ)
+4. Call for Proposals (2018-2019 term): TRAO 14m telescope, Korea
+5. ALMA Science and Development Workshops
+
+==============================================================================
+
+> From: Bong Won Sohn <bwsohn@kasi.re.kr>
+> Date: Tue, 12 Jun 2018 16:58:32 +0900
+> Subject: [EAVW2018] East Asian VLBI Workshop 2018 (2nd Circular)
+> To: evntech <evntech@jb.man.ac.uk>, "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>        vlbi@listmgr.cv.nrao.edu, merlin-announce@jb.man.ac.uk,
+>        astro@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+On behalf of the workshop LOC and SOC, I forward the  East Asian VLBI
+Workshop 2018 announcement (2nd circular).
+
+kind regards,
+
+Bong Won Sohn
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+[EAVW 2018] East Asian VLBI Workshop Details and Registration (2nd Circular=
+)
+
+*** PLEASE CIRCULATE TO YOUR COLLEAGUES ***
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+East Asian VLBI Workshop 2018
+4-7 September 2018
+PyeongChang, Korea
+
+Homepage: http://radio.kasi.re.kr/event/eavn2018
+Contact: eavw2018@kasi.re.kr
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+
+Dear Colleagues,
+
+We are pleased to announce the 11th East Asia VLBI Workshop (EAVW) 2018 in
+Korea, hosted by the Korea Astronomy and Space Science Institute. The venue
+is Yong Pyong Resort in PyeongChang where the 2018 Olympic Winter Games was
+held and it is also one of the candidate sites for the Extended-KVN.
+
+Since the 1st East Asia VLBI Workshop (EAVW2008) held at Shanghai
+Astronomical Observatory (SHAO), China, the EAVW2018 is the 11th workshop.
+In particular, this time will be a special meaningful workshop for actual
+scientific discussions and collaborations. It is because the First Call for
+Proposal for the East Asia VLBI Network (EAVN) was announced in April and
+its official operation starts from September 2018.
+
+The EAVW2018 will include recent progress and status of EAVN and focus on
+various VLBI science topics in the fields of AGN, evolved stars,
+star-forming regions, and Galactic astrometry etc. In addition, Extended
+KVN project has been promoted based on the successful operational results
+of the 1st step KVN project. The Shanghai 65m Tianma telescope has started
+full operation and the 110m telescope (QiTai radio telescope: QTT) by
+Xinjiang Astronomical Observatory will begin construction. Furthermore, the
+Thailand 40m telescope by NARIT begins to be built and the Greenland
+telescope by ASIAA starts to enhance the capability of Submillimeter VLBI.
+
+These rapid developments of East Asian radio astronomy will lead to close
+VLBI collaborations in both science and instrumentation at the EAVW2018 and
+we hope that many of you will participate.
+
+The registration is now available at the webpage (http://radio.kasi.re.kr/
+event/eavn2018) including the detailed information.
+*For Chinese participants, we strongly recommend to register as early as
+possible so that we can provide necessary documents for your visa process
+by post in time.*
+
+=E2=80=A21st announcement : 04 May 2018
+=E2=80=A22nd announcement : 01 June 2018 (registration start)
+=E2=80=A23rd announcement : 01 July 2018
+=E2=80=A2Abstract Deadline : 20 July 2018
+=E2=80=A2Registration & Hotel Reservation Deadline : 31 July 2018
+=E2=80=A2Final Announcement : TBD
+
+Best regards,
+
+Kiyoaki wajima (EAVN Coordinator)
+Se-Hyung Cho (EAVW SOC Chair)
+Taehyun Jung (EAVW LOC Chair)
+On behalf of the SOC/LOC
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Sohn, Bong Won
+Korean VLBI Network, KASI
+bwsohn@kasi.re.kr
+
+Tel.+82-(0)42-865-2173
+Fax.+82-(0)42-865-2050
+
+==============================================================================
+
+> From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> Date: Tue, 12 Jun 2018 18:30:59 +0800
+> Subject: IAU Symposium #341 Challenges in Panchromatic Galaxy Modelling with Next Generation Facilities
+> To: riaa@asiaa.sinica.edu.tw,
+        > Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear colleagues,
+
+
+The deadline of early registration for the conference below is the end of
+this month. It would be nice if a lot of astronomers in Taiwan could show
+that we are working on frontiers of galaxy evolution (both observationally
+and theoretically). Also, it is a perfect period for red-colored leaves.
+
+
+Regards,
+
+Hiro
+
+--------------------------------------------
+
+IAU Symposium #341:
+
+=E2=80=9CChallenges in Panchromatic Galaxy Modelling with Next Generation
+Facilities=E2=80=9D
+
+November 12 to 16, 2018 at Osaka University Hall
+
+https://panmodel2018.sciencesconf.org/
+
+Registration is now open!
+
+Important dates: [June 30 2018]
+
+  -
+
+  Early registration/payment deadline
+  -
+
+  Abstract submission deadline
+  -
+
+  IAU travel grant application deadline
+
+
+Later: [September 15 2018]
+
+  -
+
+  Late registration/payment deadline
+
+
+
+Topics:
+
+  -
+
+  State-of-the-art panchromatic galaxy models and studies
+  -
+
+  Pushing the redshift frontier: modeling the first galaxies
+  -
+
+  Pushing the wavelength frontier: extending models towards X-rays and
+  radio
+  -
+
+  Pushing the technical frontier: from overwhelmingly large datasets to
+  machine learning
+
+
+Rationale:
+
+How galaxies form and evolve across cosmic times is one of the fundamental
+questions in modern astrophysics. In this endeavor, the panchromatic
+modeling of galaxies is one of the key tools. As new and next-generation
+facilities progressively open a new era in astronomy we enter a new era
+where our current approach at modeling the emission galaxies faces a triple
+frontier.
+
+The redshift frontier.
+
+The first galaxies in the universe are still largely terra incognita. How
+did the first stellar generations form? What are the properties of
+population III stars and their effect on their environment? How are their
+evolution and spectra affected by rotation and binarity? What can we tell
+about their physical conditions (gas density, temperature, metallicity,
+etc.) from the recombination line spectra? How did the dust form in such
+extreme objects? Since its inception, ALMA has been providing excellent
+opportunities for probing dust to high redshift (z~7 or higher).
+Surprisingly, it revealed a large variety in dust content already
+established at high redshift: some galaxies are rich in dust but others are
+extremely poor. This suggests that the early stages of galaxy evolution
+present a large variety of physical conditions, driving galaxies along
+different paths. The variety should also be related to the stellar
+populations that we will observe with JWST, since metals, of which dust
+grains are composed, originate from stars. Therefore, in order to
+comprehend the evolution of the first galaxies, we need to undertake a
+large panchromatic effort to fully understand the stellar, the gas, and the
+dust content in high-redshift galaxies, rather than develop the models
+separately as is often the case. This conference is suitable for these aims
+because of the attendance of observers working at various wavelengths and
+theoreticians working on the most advanced models of dust evolution and
+SEDs.
+
+The wavelength frontier.
+
+The new X-ray missions e-ROSITA and Athena will bring far-reaching changes
+to our understanding of black hole physics and AGN evolution over cosmic
+time. In parallel the CTA is expanding our window on cosmic rays. At the
+same time, MeerKAT is starting operations, VLASS will start soon all the
+while the EVLA and LOFAR show excellent capabilities for deep fields. These
+instruments will open new and unique opportunities to tackle the physics of
+galaxies from star formation to quasars and active nuclei, while opening a
+new window on the epoch of reionization. However, one of the main
+challenges in order to tackle all these points will be to determine the
+physical properties of galaxies through accurate SED modeling.
+Historically, panchromatic models have only covered reliably the
+electromagnetic spectrum from the ultraviolet to the sub-millimeter. The
+loss of information in foregoing X-rays and radio wavelengths is damaging
+to measure reliably the respective properties of host galaxies and AGN, as
+nuclear activity and star formation can be difficult to disentangle
+reliably. This conference will allow us to discuss state-of-the-art X-ray
+and radio modeling of galaxies and the prospects of combining them with
+standard panchromatic models.
+
+The technical frontier.
+
+LSST, Euclid, WFIRST and SKA will produce imaging and spectroscopic surveys
+with observations of billions of galaxies, observed multiple times over
+periods in excess of a decade, dwarfing the largest extragalactic surveys
+to date that have been used in developing and applying modeling techniques.
+The size and dimensionality of these data, combined with their limited
+wavelength coverage, creates the need to rethink our panchromatic modeling
+methods. This will require the community to focus its efforts on developing
+new methods and techniques, such as machine learning, that utilize the
+volume and diversity of the data rather than high signal-to-noise
+measurements of small numbers of galaxies. In order to maximize the
+information that can be extracted from these imaging surveys, experts in
+the panchromatic modeling of galaxies need to engage with statisticians and
+observers. This meeting will be an ideal platform from which to identify
+the steps that need to be undertaken in this direction and to develop a
+path towards the exploitation of this new generation of multispectral and
+temporal surveys.
+
+The meeting is will take place from 12 to 16 November 2018 at the =C5=8Csak=
+a
+University Conference Hall in Japan. =C5=8Csaka, is a large historic city o=
+f
+Japan with a rich intellectual life. It is tightly connected to the rest of
+the world with direct flights from Asia, Europe, the Middle East, North
+America, and Oceania. It it connected with T=C5=8Dky=C5=8D through a fast t=
+rain,
+offering even broader connections to the world.
+
+Review talks
+
+State-of-the-art panchromatic galaxy models and studies
+
+a. The history of panchromatic surveys (Sadanori Okamura)
+
+b. The physical ingredients for panchromatic modeling (St=C3=A9phane Charlo=
+t)
+
+c. Panchromatic codes and modeling techniques from =CF=87=C2=B2 minimizatio=
+n to
+Bayesian inference (Maarten Baes)
+
+Pushing the redshift frontier: modeling the first galaxies
+
+a. Pushing the redshift frontier with future ground-based and space-borne
+facilities (Toru Yamada)
+
+b. Pushing the redshift frontier modeling the UV-optical domain of high-z
+galaxies (Erik Zackrisson)
+
+Pushing the wavelength frontier: extending models towards X-rays and radio
+
+a. Pushing the panchromatic modeling frontier towards the X-Rays (Andrea
+Merloni)
+
+b. Pushing the panchromatic modeling frontier towards the radio (Eric Murph=
+y
+)
+
+Pushing the technical frontier: from overwhelming large datasets to machine
+learning
+
+a. Pushing the technical frontier from large datasets to machine
+learning (Viviana
+Acquaviva)
+
+Organizing committee:
+
+SOC chair: M=C3=A9d=C3=A9ric Boquien (University of Antofagasta, Chile)
+
+SOC members: V=C3=A9ronique Buat (Aix-Marseille University, France), Laure =
+Ciesla
+(Laboratory of Astrophysics of Marseille, France), Andrew Connolly
+(University of Washington, USA), Daniel Dale (University of Wyoming, USA), =
+Ilse
+De Looze (University College London, UK), Maud Galametz (CEA Saclay,
+France), Carlotta Gruppioni (Astrophysics and Space Science Observatory of
+Bologna - INAF, Italy), Hiroyuki Hirashita (ASIAA, Taiwan), Akio Inoue (Osa=
+ka
+Sangyo University, Japan), Elisabeta Lusso (Durham University, UK), Kentaro
+Nagamine (Osaka University, Japan), Giulia Rodighiero (University of
+Padova, Italy), Daniel Schaerer (University of Geneva, Switzerland), Renske
+Smit (University of Cambridge, UK), Patricia Tissera ( Andr=C3=A9s Bello
+University, Chile)
+
+LOC chair: Akio Inoue (Osaka Sangyo University, Japan)
+LOC members: Denis Burgarella (Laboratory of Astrophysics of Marseille,
+France), Takuya Hashimoto (Osaka Sangyo University, Japan), Ken Mawatari
+(Osaka Sangyo University, Japan), Tohru Nagao (Ehime University,
+Japan), Hiroshi
+Shibai (Osaka University, Japan)
+
+==============================================================================
+
+> Date: Thu, 14 Jun 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________ 
+Speaker:    Atsushi Taruya (YITP, Kyoto University)
+Topic:         Relativistic effects on observed large-scale structure of the Universe
+Time:         6/19 (Tuesday) 14:20 - 15:20
+Place:         CCMS R104
+Abstract:
+The large-scale structure of the Universe observed via galaxy redshift surveys contains valuable cosmological information, and it has been playing a major role to improve our understanding of the Universe. However, ​the observed large-scale structure ​​appears distorted due to the observed ​​systematics in ​​the redshift determination, known as redshift-space distortions (RSD). Recently, the measurement of RSD is renewed with great interest as a probe of gravity on cosmological scales. In this talk, after reviewing the 'standard' RSD caused by the peculiar velocity of galaxies, I w​ill ​discuss yet another distortion arising from general relativistic effects. ​U​​nique feature of the​​ n​ew ​distortion e​ffects ​is demonstrated b​​​​ased on the simulated catalog taking a​ proper ​account of the relativistic effects,​ ​and detectability and implications to cosmology will be also discussed.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Atsushi Taruya (YITP, Kyoto University)
+Topic:         Nonlinear structure formation in cold dark matter cosmology:  shell crossing and multi-stream flows
+Time:         6/20 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Invisible matter component called cold dark matter (CDM) is now widely accepted in cosmology as an essential building block of the cosmic structure formation. One important feature of CDM is that the phase-space velocity distribution was virtually null at very early time. This leads to, at later time, several interesting phenomena in nonlinear stage of gravitational dynamics: shell-crossing and multi-stream flow. In this talk, I will focus on these two phenomena, and discuss a way to describe quantitatively their phase-space structures, which is compared with state-of-the-art Vlasov-Poisson and cosmological N-body simulations.
+
+==============================================================================
+
+> Subject: Call for Proposals (2018-2019 term) TRAO 14m telescope, Korea
+> From: Youngung Lee <yulee@kasi.re.kr>
+> Date: Fri, 15 Jun 2018 00:47:29 +0000
+> Cc: =?utf-8?B?6rCV7ZiE7Jqw?= <orionkhw@kasi.re.kr>
+> To: "hirano@asiaa.sinica.edu.tw" <hirano@asiaa.sinica.edu.tw>
+
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the CfP of the TRAO 14m =
+telescope
+to TAN.
+
+Thank you,
+Naomi
+
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+Call for Proposal (2018-2019 term)
+
+=20
+We would like to call for proposals using TRAO (Taeduk Radio Astronomy =
+Observatory) 14m telescope for the term of 2018 autumn to 2019 spring. =
+Recently we successfully installed a multi-beam receiver system, =
+SEQUOIA-TRAO, and renovated most part of the telescope system. The new =
+receiver system is now equipped with high-performing 16-pixel MMIC =
+preamplifiers in a 4x4 array, operating within 85-115.6 GHz frequency =
+range. System temperature ranges from 170 K (86~110 GHz) to 400 K (115 =
+GHz; 12CO). The 2nd IF modules with the narrow band and the 8 channels =
+with 4 FFT spectrometers allow to observe 2 frequencies simultaneously =
+within the 85~100 or 100~115 GHz bands for all 16 pixels of the =
+receiver. OTF (On-The-Fly) mapping mode is the main observing mode, and =
+a simple position switching mode is also available. OTF test observation =
+shows that it takes 27 min for 6=E2=80=99x6=E2=80=99 region, and 37 min =
+for 10=E2=80=99x10=E2=80=99. You may decide a regrid size and =
+convolution parameter after completion of your observation. Pointing =
+accuracy is about 6 acrsec. The backend system (FFT spectrometer) =
+provides the 4096x2 channels with a fine velocity resolution of better =
+than 0.05 km/s (15 kHz) per channel. Its effective spectra bandwidth is =
+60 MHz.
+
+There are three Key Science Programs (KSP) =
+<http://radio.kasi.re.kr/trao/schedule.php> running for three years, =
+abstracts of which are accessible at the TRAO home page.  Proposals =
+which are not overlapped with KSPs are encouraged. Please refer the TRAO =
+homepage for KSPs and other information. There are lots of telescope =
+time avaliable between LST 10 and 15hrs, thus proposals using this time =
+slots would have more privilege. Scientists, who did not have an =
+observing experience at TRAO, are encouraged to have an internal =
+collaborator(s) of KASI (Korea Astronomy and Space Science). The upper =
+limit of telescope time per proposal is suggested as 100 hours. Two =
+bedrooms and kitchen are available for outside observers. Deadline for =
+proposal submission is August 31st 2018 (KST 23:59; UT+9). =20
+
+=20
+homepage: http://trao.kasi.re.k <http://trao.kasi.re.kr/>r
+
+
+=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D
+Youngung Lee
+Ph.D.
+Principal Scientist
+Radio Astronomy Research Center
+KOREA ASTRONOMY AND SPACE SCIENCE INSTITUTE/
+Tel: 82-42-865-3281
+Mobile: 82-10-3935-3281
+Fax: 82-42-865-3272
+https://www.facebook.com/youngung.lee.35 =
+<https://www.facebook.com/youngung.lee.35>=
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Date: Fri, 15 Jun 2018 06:29:00 -1000
+> Subject: Fwd: Science and Development Workshops
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>        riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+Here are the announcements for twoALMA related
+workshops in December in Osaka.
+
+Cheers,
+Wei-Hao
+
+---
+
+The Chile Observatory of the National Astronomical Observatory of Japan
+(NAOJ) and the Osaka Prefecture University are pleased to announce two ALMA
+workshops to be held in December, 2018 =E2=80=94 the =E2=80=9CEast Asian AL=
+MA Development
+Workshop 2018=E2=80=9D to be held on December 14 - 15 (at Osaka Prefecture
+University), and the =E2=80=9CEast Asian ALMA Science Workshop 2018=E2=80=
+=9D to be held on
+December 17 - 19 (at the I-site Namba in Osaka). This is the annual joint
+ALMA science/development workshop that involves all three East Asian ALMA
+partners (Japan, Taiwan and Korea).
+
+Registration will begin in early September, 2018.
+
+
+************************************************************
+** East Asian ALMA Development Workshop 2018 **
+************************************************************
+Date: December 14 - 15, 2018
+Venue: Osaka Prefecture University
+
+The main goal of the workshop is to discuss and identify development items
+that are critical in the long term development and operation of the ALMA
+telescope.  The topic of this year's workshop is =E2=80=9Cwide IF=E2=80=9D.=
+  Since the
+hardware/software development is intimately connected to future science
+requirements, active participation by scientists is highly encouraged.
+
+We note that the annual =E2=80=9CEast Asia Sub-millimeter-wave Receiver Tec=
+hnology
+Workshop=E2=80=9D will be held on December 11-13 in the Kanasai area.
+
+Program Organising Committee:
+Ming-Tang Chen (ASIAA)
+Alvaro Gonzalez (NAOJ, Chair)
+Daisuke Iono (NAOJ)
+Jongsoo Kim (KASI)
+Hiroyuki Maezawa (Nagoya University)
+Toshikazu Onishi (Osaka Prefecture University)
+Nami Sakai (Riken)
+Yoshinori Uzawa (NAOJ)
+
+******************************************************
+** East Asian ALMA Science Workshop 2018 **
+******************************************************
+Date: December 17 - 19, 2018
+Venue: I-site Namba (Osaka Prefecture University)
+
+The main aim of this workshop is to continue to promote and stimulate
+international collaboration among the researchers in the EA partners, by
+reviewing and sharing the most recent ALMA science results in all relevant
+fields of astronomy.  We plan to hold discussion sessions to promote closer
+communication among the researchers in related fields.
+
+Program Organising Committee:
+Misato Fukagawa (Nagoya University/NAOJ)
+Daisuke Iono (NAOJ)
+Aran Lyo (KASI)
+Yuichi Matsuda (NAOJ, Chair)
+Hideko Nomura (Tokyo Institute of Technology)
+Hiroko Shinnaga (Kagoshima University)
+Toshikazu Onishi (Osaka Prefecture University)
+Wei-Hao Wang (ASIAA)
+--=20
+Cheers, Wei-Hao
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

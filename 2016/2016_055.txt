@@ -1,0 +1,155 @@
+==============================================================================
+
+In this issue (Mar 20 - 27, 2016)
+
+1. NCU 2016 Summer Astro-Camp
+2. ALMA Cycle 4 Call for Proposals
+3. CFHT users survey
+4. ASIAA Colloquium/Seminar/Lunchtalk (Mar 28): Chihway Chang (ETH Zurich)
+                                   (Mar 29): Ana Duarte-Cabral (Univ of Exeter)
+                                   (Mar 30): Nicolas Peretto (Cardiff Univ)
+
+==============================================================================
+
+> Date: Mon, 21 Mar 2016 11:42:39 +0800
+> Subject: NCU 2016 Summer Astro-Camp
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Prof Kuan, please announce the following to TAN.
+
+Dear all, this year NCU will organize a 5-days Summer Astro-Camp, with main
+theme on Asteroids. The link is following:
+
+http://lidodo.astro.ncu.edu.tw/PIRE2016SCamp/index.php
+
+Please help to advertise/announce within your students.
+
+Thanks a lot.
+
+--
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: ALMA Cycle 4 Call for Proposals
+> Date: Tue, 22 Mar 2016 23:54:55 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>         alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+
+Dear Prospective ALMA Users,
+
+ALMA Cycle 4 call for proposals has been issued:
+
+The Atacama Large Millimeter/submillimeter Array (ALMA) Director, on
+behalf of the Joint ALMA Observatory and the partner organizations in East
+Asia, Europe, and North America, is pleased to announce the ALMA Cycle 4
+Call for Proposals for scientific observations to be scheduled from
+October 2016 to September 2017:
+
+  https://almascience.nrao.edu/proposing/call-for-proposals
+
+It is anticipated that up to 3000 hours of the 12-m Array and up to 1800
+hours of the Atacama Compact Array (ACA), also known as the Morita Array,
+will be available for successful proposals from Principal Investigators in
+Cycle 4. Proposals must be prepared and submitted using the ALMA Observing
+Tool (OT), which is available for download from the ALMA Science Portal
+(http://www.almascience.org). Proposals will be assessed by competitive
+peer review by a single international review committee.
+
+ALMA Cycle 4 proposal submission opened at 15:00 UT on Tuesday, 22 March
+2016.
+
+The ALMA Cycle 4 proposal submission deadline is 15:00 UT on Thursday, 21
+April 2016.
+
+Please see the ALMA Science Portal for other important Cycle 4 milestones
+and for the complete set of documents supporting this Call.
+
+
+best,
+Yu-Nung
+On behalf of Taiwan ARC node
+
+==============================================================================
+
+> From: Yen-Ting Lin <ytl@asiaa.sinica.edu.tw>
+> Date: Wed, 23 Mar 2016 09:41:32 +0800
+> Subject: CFHT users survey
+> To: astro@asiaa.sinica.edu.tw
+
+Dear colleagues,
+
+The CFHT staff has prepared a survey designed to help them understand
+the needs of CFHT users.
+
+You will find the survey here:
+https://www.surveymonkey.com/r/cfhtum2016
+
+The deadline to fill the survey is April 15.  Thanks for your cooperation.
+
+best,
+yen-ting
+
+==============================================================================
+
+> Date: Thu, 24 Mar 2016 08:00:03 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Chihway Chang (ETH Zurich)
+Topic:          Mapping the Invisible Landscape — the Dark Energy Survey and Beyond
+Time:           3/28 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The effect of gravitational lensing has left traces of cosmological information in the Universe for us to pick up. The full information is encoded in the 3D map of dark matter. As a first step to building up this map, I will describe our recent work using the Dark Energy Survey (DES) Science Verification data to make a weak lensing mass map on a large slice of our Universe. I then discuss a few topics where we combine this map and information from the CMB and galaxies. Looking forward to the completion of DES and several ongoing and future optical surveys, these explorations would allow us to take a new look at the invisible landscape of our Universe.
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Ana Duarte-Cabral (University of Exeter)
+Topic:          Observing simulations: Molecular clouds and their journey in the Galaxy.
+Time:           3/29 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In order to have a global picture of the cycle of matter in galaxies, we need to understand the interplay of large-scale galactic phenomena with the formation of giant molecular clouds and, ultimately, their subsequent star formation. In this context, we ran a set of SPH numerical simulations of spiral galaxies structurally resembling our own Milky Way, where we can track the formation and evolution of molecular clouds in detail. In this talk, I will present my recent study of such simulations, where I investigate the link between the molecular cloud properties and position with respect to spiral arms, both directly from the simulation (with the 3D densities of H2 and CO) and from an observer’s perspective (with CO emission in PPV space), providing predictions and tests for observations of molecular clouds and star formation in both the Milky Way, and external galaxies.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Nicolas Peretto (Cardiff University)
+Topic:          The timescale of star formation: Clues from the gas dynamics of infrared dark clouds
+Time:           3/30 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In order to form stars, matter has to transfer from large and diffuse interstellar clouds, to compact and dense protostellar cores. The physical conditions under which this transformation occurs are still highly debated. One particular sticking point is the timescale over which interstellar clouds contract to form cores: Is it rapid (a couple of free-fall times)? or is it slow (tens of free-fall times)? In this talk, I will present recent observational studies of Galactic plane infrared dark clouds (IRDCs). As a result of their infrared quietness IRDCs are ideal laboratories for the study of the earliest stages of star formation. I will focus on the analysis of the gas dynamics of IRDCs with the objective to evaluate their dynamical states (collapsing/expanding/pressure confined) and timescales. The latter will be then compared to the IRDC free-fall times providing some new elements to the debate on the star formation timescale.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

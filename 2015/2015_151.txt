@@ -1,0 +1,58 @@
+> Date: Thu, 20 Aug 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Thomas Greve (University College London)
+Topic:          Dense molecular gas in local ULIRGs
+Time:           8/24 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+The population of nearby of gas-rich and highly dust-obscured Ultra Luminous
+Infrared Galaxies (ULIRGs) provides us with a unique opportunity to study the
+physical processes governing star formation in kinematically violent and
+radiation-harsh environments.
+
+As part of the Herschel Comprehensive (U)LIRG Emission Survey (HerCULES) we
+have obtained the full CO rotational ladder for a sample of 26 (U)LIRGs.  In
+addition, we have compiled our ground-based spectral line observations of this
+sample, as well as all available data from the literature, of crucial dense gas
+tracers such as CS, HCN, and HCO+ (and in some cases their isotopologues).
+
+I will discuss some of the first results coming out of this unique data-set,
+from simple star formation relations to multi-phased Large Velocity Gradient
+(LVG) radiative transfer models that allow us to disentangle different
+molecular gas phases and possibly different molecular gas heating mechanisms in
+these galaxies.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Anupreeta More (Kavli IPMU)
+Topic:          Space Warps - crowd sourcing the discovery of gravitational lenses
+Time:           8/26 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Strong gravitational lenses are useful for probing dark matter and
+cosmology. Gravitational lenses are rare and present significant
+challenges to find.  Current algorithms are not efficient enough in
+finding lenses automatically. Better techniques are critical for
+discovering lenses from ongoing and planned large imaging surveys.
+Understanding the selection function of the lens samples is required
+for doing statistical studies.
+
+I will talk about Space Warps, a citizen science project to find
+strong gravitational lenses. I will discuss how the system works and
+how we determine the completeness and purity of our lens samples. The
+first lens search in Space Warps was done with the CFHT Legacy Survey
+(CFHTLS) data. I will present the results from this search.
+
+==============================================================================

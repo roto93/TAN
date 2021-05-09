@@ -1,0 +1,153 @@
+From kuan Fri Sep  6 01:16 CST 1996
+Return-Path: <kuan>
+Received: by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02028; Fri, 6 Sep 1996 01:15:21 +0800
+Date: Fri, 6 Sep 1996 01:15:21 +0800
+From: kuan (Yi-Jehng Kuan)
+Message-Id: <9609051715.AA02028@biaa17.biaa.sinica.edu.tw>
+To: astro
+Subject: Taiwan Astronomy Network: Issue 24
+Content-Type: text
+Content-Length: 5675
+Status: RO
+
+----------------------------------------------------------------------------
+Dear TANists,
+
+I am sorry that if you had difficulties in sending messages to TAN in 
+the past week.  The host machine of TAN, biaa17, had experienced
+two consecutive disk failures (one internal and one external:-) in the 
+past 7 days.  Hope the machine will be stablized very soon.  Sorry again.
+
+Yi-Jehng
+----------------------------------------------------------------------------
+
+Table of Contents
+Item    Subject
+===================
+  #1    Farewell Parties to Chi
+  #2    Video Taped Colloquia from Berkeley, Illinois and Maryland
+  #3    Technology transfer
+  #4    (forwarded) Space Astronomy & Astrophysics
+
+----------------------------------------------------------------------------
+Subject: #1 Farewell Parties to Chi
+
+We had two WONDERFUL farewell parties for Dr. Chi Yuan, the former 
+director of ASIAA, on the 26th last month.
+
+The more formal party was held at the Institute in the afternoon.
+President Yuan Lee of Academia Sinica also attended this party.
+Dr. Typhoon Lee presented a 'synthesized image' of Chi.  
+For those curious minds, you can find it at ASIAA's web site very soon:-)
+An oil painting of spiral galaxies was dedicated to Chi
+to thank for Chi's great contribution to ASIAA.  The painting is now
+hung on the wall in the conference room of ASIAA.
+
+In the evening, a wilder party was held at a tea house on a hillside near
+MaoKun.  On average, more than two bottles of Taiwan beers were consumed
+per person that night.  Chi almost failed our drinking test as we had 
+many more (wo)man power than ever before (even though Chi claimed his
+drinking speed is 13.5 glasses/hr ~ 13.5 km/s of the pattern speed of
+spiral arms:-).  The party lasted till midnight.
+
+Y-J
+
+----------------------------------------------------------------------------
+Subject: #2 Video Taped Colloquia from Berkeley, Illinois and Maryland
+
+As mentioned in the last issue, astronomers in Taiwan often feel isolated
+from outside world.  It was first suggested by Dr. Typhoon Lee; an effort 
+to overcome such isolation has been made, through the support of Drs. Frank 
+Shu at Berkeley, Fred Lo at Illinois and Stuart Vogel at Maryland.
+Very soon we will be receiving video tapes of weekly colloquia given at
+these three schools regularly.  A tentative plan is to show these tapes 
+on every Saturday at ASIAA (however, this can be changed according to
+you people's feedback). All astronomers in Taiwan are welcome. The 
+exact titles of the talks will be announced in advance.
+
+We should all appreciate the invaluable help provided from the 3 
+BIMA fellows, Shang Hsien, Lai Shih-Ping and Lee Chin-Fei, at Berkeley, 
+Illinois and Maryland, respectively.  Thank you all!
+
+----------------------------------------------------------------------------
+Subject: #3 Technology transfer
+ 
+I came across an article on YSN regarding technology transfer and feel 
+it might interest some of you (SMART and TOT people in particular:-).
+Here is an excerpt from it.
+ 
+Y-J
+-----------
+... technology transfer between universities and industry.
+ 
+Astronomy had a need for large format detectors at both the visible and
+infrared wavelengths.  The visible end developed largely (I think) because
+of video cameras used for surveilance, making TV shows, and the home
+video useages.  The IR end was really only for military uses and those
+devices were not particularly suited for astronomy because the conditions
+under which they would be operated was very different.  So, the astronomy
+community took their requirements to various IR array manufacturers and
+asked if they could meet them.  The result today is reasonably large format
+IR array detectors.  Now, a collaborative project is underway between
+industry and universities (with some government help) to develop even
+bigger devices.  There are two such projects going on with the two main
+IR array providers to Astronomy: Santa Barbara Research Center (a branch
+of Hughes) and Rockwell.  A good chunk of the money was put up by research
+grants since the applications of these devices would be more or less
+limited to astronomy, though some of the things they learn would obviously
+be applicable to their other projects.
+ 
+That's at least one example of technology transfer.  Having not been
+directly involved in any of it, I can only say that I *believe* the format
+of these particular interactions has been that the scientists have provided
+the specs and have provided some of the manpower to test the devices while
+the industrial partner has provided all the actual manufacture and research
+associated with it. ...
+-----------
+ 
+----------------------------------------------------------------------------
+Subject: #4 (forwarded) Space Astronomy & Astrophysics
+
+Date: Thu, 5 Sep 1996 16:27:14 +0800
+From: raffin@biaa3 (Philippe Raffin)
+Subject: info
+
+hi all
+I forward a mail from the CfA that might interest you
+ph
+-----
+
+Martin V. Zombeck's "Handbook of Space Astronomy & Astrophysics" is
+on-line. Published by Cambridge University Press, this handbook has 
+become a significant reference for space astronomy and astrophysics
+(selected by Heidi Hammel as one of the astronomy books she would
+want with her, if stranded on a desert island - Sky & Tel September 1996) 
+The complete 2nd edition is available at your electronic desktop.
+ 
+Many chapters now have links to related WWW resources containing extensive
+tabulations, images, interactive programs, etc.. Look for the link at the top of the table of
+contents for the given chapter.
+ 
+URL: http://adswww.harvard.edu/books/hsaa/
+
+----------------------------------------------------------------------------
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+Please pass the words of the existence of TAN to people who you think should 
+be included.
+
+To send a message to entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		      (or +02-789-9818 ext 224, fax +02-788-1106)
+To check archives:		<http://biaa1.biaa.sinica.edu.tw:80/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+----------------------------------------------------------------------------
+
+

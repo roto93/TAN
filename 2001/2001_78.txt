@@ -1,0 +1,79 @@
+From ingguey@gate.sinica.edu.tw Thu Mar 29 10:55 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA08305
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 29 Mar 2001 10:55:19 +0800 (CST)
+Received: from gate.sinica.edu.tw (gate.sinica.edu.tw [140.109.4.130] (may be forged))
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA02677;
+	Thu, 29 Mar 2001 11:09:12 +0800
+Received: from localhost (ingguey@localhost)
+	by gate.sinica.edu.tw (8.11.3/8.11.3) with ESMTP id f2T2rAH06855;
+	Thu, 29 Mar 2001 10:53:10 +0800 (CST)
+Date: Thu, 29 Mar 2001 10:53:10 +0800 (CST)
+From: Ing-Guey Jiang <ingguey@gate.sinica.edu.tw>
+X-Sender: ingguey@gate
+To: iaa@asiaa.sinica.edu.tw
+cc: astro@asiaa.sinica.edu.tw
+Subject: ASIAA-NCU Joint Colloquium/Journal Club 
+Message-ID: <Pine.GSO.4.21.0103291012420.28491-100000@gate>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2144
+Status: R
+
+
+               * --------------------------------------- *
+               I  Institute of Astronomy & Astrophysics  I
+               I             ACADEMIA SINICA             I
+               I- ------------------------------------- -I
+               I     Graduate Institute of Astronomy     I
+               I        NATIONAL CENTRAL UNIVERSITY      I
+               * --------------------------------------- *
+               *          C O L L O Q U I U M            *
+               *                   &                     *
+               *        J O U R N A L   C L U B          *
+               *******************************************
+
+
+                        30 March 2001 (Friday)
+     Room 716, 7F, Center of Condensed Matter Sciences, Taida Campus
+       (Close to the Corner of Hsin-Hi Rd. & Hsin-Sun South Rd.)
+                        ASIAA Conference Room          
+            ==================================================
+
+            Colloquium (2:00 pm)
+                                                                       
+            SPEAKER : Dr. Huan Lin
+                      (Steward Observatory)   
+
+            Title: Evolution of Galaxy Populations
+                          in the CNOC2 Redshift Survey
+
+
+            Abstract:
+
+   I will present results on the evolution of different galaxy
+   populations at intermediate redshifts 0.1 < z < 0.6, 
+   as determined from a large sample of 5000 galaxies taken from 
+   the CNOC2 Field Galaxy Redshift Survey.
+
+   I will describe the CNOC2 data set, as well as the methods used
+   to classify different CNOC2 populations from UBVRI photometry.
+   Results will be presented on the redshift evolution of the
+   luminosity functions of early-, intermediate-, and late-type 
+   CNOC2 galaxy populations, and the observations will be
+   cast in the context of simple galaxy evolution models.
+
+   Finally, some preliminary results will be shown on the evolution
+   of the star formation rate and stellar mass functions of
+   CNOC2 galaxies.
+
+
+
+            Journal Club (3:20 pm)
+
+            SPEAKER: Dr. S.Y. Wang   
+              
+            TITLE:  TBA
+
+
+

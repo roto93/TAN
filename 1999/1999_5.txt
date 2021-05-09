@@ -1,0 +1,270 @@
+From kyl@asiaa.sinica.edu.tw Sat Jan  9 08:42:01 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA07118; Sat, 9 Jan 1999 08:33:37 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA22895; Sat, 9 Jan 1999 08:31:05 +0800
+Date: Sat, 9 Jan 1999 08:31:05 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: EVN Call for Proposals/Submission Guide (fwd)
+Message-Id: <Pine.GSO.3.96.990109083103.22893A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 13331
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 8 Jan 99 11:03:48 +0100
+From: Richard Porcas <p222rwp@mpifr-bonn.mpg.de>
+To: vlbi@cv3.cv.nrao.edu
+Subject: EVN Call for Proposals/Submission Guide
+
+           EUROPEAN  VLBI  NETWORK   -   CALL  FOR  PROPOSALS
+
+  *************************************************************************
+  *        THE  EUROPEAN  VLBI  NETWORK  (EVN)  INVITES  OBSERVING        *
+  *        PROPOSALS FOR  THE  FEBRUARY  1ST,  1999   DEADLINE.  A        *
+  *        GUIDE  FOR  SUBMITTING  APPLICATIONS  IS  GIVEN  OVERLEAF.     *
+  *************************************************************************
+
+      The EVN consists of a VLBI network of radio telescopes in Europe and 
+Asia operated by an international Consortium of institutes.    Consult the
+EVN USER GUIDE at: http://www.nfra.nl/jive/evn/evn.html for the following:
+
+   EVN STATUS TABLE                 -  gives current antenna capabilites
+
+   HOW TO APPLY FOR OBSERVING TIME  -  includes an  ON-LINE VLBI CATALOGUE 
+                                       of all past EVN observations
+
+   SCHEDULING EVN OBSERVATIONS      -  includes list of programs observed
+                                       in recent EVN sessions
+
+Future EVN Calls for Proposals and other VLBI news can be received from the
+VLBI e-mail exploder. To subscribe, send the message "subscribe vlbi" in 
+the body (not the subject line) of an e-mail to: Majordomo@zia.aoc.nrao.edu
+
+ ****************************************************************************
+ * The EVN encourages use of the Network by astronomers not specialised in  *
+ * the VLBI technique.   The Joint Institute for VLBI in Europe (JIVE) can  * 
+ * provide support for  schedule making,  correlation and data analysis of  * 
+ * EVN projects, as well as advice during proposal preparation.  Proposers  *
+ * affiliated to non-EVN institutes within the European Union may also take * 
+ * advantage of the EC's TMR programme "Access to Large-Scale Facilities",  * 
+ * which can provide financial support for PIs (and their co-Is) to visit   *
+ * JIVE or an EVN observatory for correlation or data analysis.   Contact   *
+ * Michael Garrett (mag@jive.nfra.nl) for support and further TMR details.  *
+ ****************************************************************************
+
+                   EVN OBSERVING SESSIONS IN 1999   (* Provisional plan)
+
+   Session 1  Feb 11 - Mar 04     6 cm (+MERLIN),  18/21 cm,   7 mm    
+ * Session 2  May 27 - Jun 17     6 cm,  18/21 cm (+MERLIN),   3.6/13 cm     
+ * Session 3  Sep 09 - Sep 30     6 or 5 cm,  18/21 cm,  30 cm (UHF band)
+ * Session 4  Nov 12 - Dec 03     6 or 5 cm,  18/21 cm (+MERLIN),  1.3 cm   
+
+Proposals received by 1st February 1999 will be considered for scheduling in
+Session 2 or later. Finalisation of the planned observing wavelengths will
+depend on proposal pressure. Projects will only be scheduled during sessions.
+
+  ************************************************************************
+  *           NOTE TWO NEW FEATURES PLANNED FOR 1999 SESSIONS            *
+  *  21 cm - will be available during 18cm sessions at 7 EVN antennas    *
+  *  30 cm - New UHF band (750-1300 MHz) for red-shifted HI line work    *
+  *         (consult EVN STATUS TABLE for frequency ranges available)    *
+  ************************************************************************
+
+        EVN JOINT OBSERVATIONS WITH OTHER ANTENNAS AND ARRAYS
+
+Proposers may request EVN antennas together with other telescopes and arrays.
+Combined EVN+MERLIN projects add the short MERLIN array baselines, as well as
+providing VLBI baselines to the CAMBRIDGE antenna. Antennas of the NASA DSN, 
+especially Robledo (Madrid), are available for a few projects each session
+requiring very high sensitivity. GLOBAL projects add the NRAO VLBA and/or
+other US antennas, creating an array of up to 20 elements, ideal for very 
+high dynamic range imaging, and "snap-shot" observations of many sources. 
+==============================================================================
+
+                    SUBMITTING  EVN  PROPOSALS
+                    ==========================
+
+WHEN TO SUBMIT - AND AFTERWARDS
+===============================
+Proposals must be received by 1st Feb, June or Oct. A list of Project Codes
+and Principle Investigators for all proposals received will be posted on the
+EVN WWW Home Page under "EVN Program Committee" shortly after the deadline.
+All communication between the Proposer(s), and the EVN Program Committee
+or Scheduler will be via the Contact Author designated in the proposal. The
+results from proposal review will be communicated after the next meeting of
+the EVN Program Committee, and will be SENT BY EMAIL unless otherwise 
+requested in the proposal Abstract.
+
+WHERE TO SUBMIT
+===============
+a) An EVN proposal is any request for 2 or more EVN antennas for observations 
+   to be scheduled during an EVN observing session. All EVN proposals, 
+   including EVN-alone, EVN+MERLIN, EVN+DSN, EVN+VLBA, etc, must be sent to:
+            Dr. R. Schwartz, EVN Scheduler, MPIfR, 
+            Auf dem Huegel 69, D 53121, Bonn, GERMANY.
+   Proposals submitted by FAX cannot be accepted. Proposals may be submitted
+   by e-mail - see below.
+
+b) EVN "Global" proposals which also request VLBA antennas, or which request
+   the VLA, GB-140ft or a single VLBA antenna, must ALSO be sent to:
+            The Director, NRAO, Edgemont Road,
+            Charlottesville, VA 22903-2475, USA
+
+c) Requests for THE VLBA+EFFELSBERG ALONE must be sent to both NRAO AND MPIfR.
+
+d) Requests for any other antennas NOT affiliated with the EVN or NRAO should
+   be indicated in the proposal but the PROPOSER MUST SEND A COPY to the
+   Director/Scheduler of the observatory involved, and will be responsible for
+   arranging all aspects of their participation, including observing support,
+   tape supply and acquiring telescope time for the EVN time allocated.
+
+e) Requests for EVN antennas outside the times of the advertised sessions must
+   be sent to the individual observatories involved.
+
+SUBMISSION BY E-MAIL
+====================
+Proposals may be submitted by email. They must be in Adobe post-script format,
+concatenated into a single file, and sent as the main body of the email, NOT
+AS A MAIL ATTACHMENT. All EVN proposals must be sent to: 
+           proposevn@HP.mpifr-bonn.mpg.de
+An automatic machine reply will be returned if the email has arrived.
+For EVN-Global and other NRAO antennas, send also to:
+           propsoc@nrao.edu
+
+ > Do not submit by email if this is at the expense of including essential
+      diagrams and other material
+ > Send proposals A FEW DAYS BEFORE the deadline; only in this case can
+      proposers be notified if the file fails to print !!
+ > Write a 3-4 word title as the subject line for proposal identification
+ > Avoid grey-scale plots, which can create very lengthy files.
+ > Avoid sending proposals in duplicate
+ > DO NOT send the file as a MAIL ATTACHMENT !
+ > IF you specify paper size for printing, only use size A4 for "proposevn"
+      (but do NOT specify A4 size for "propsoc")
+
+WHAT TO INCLUDE
+===============
+All proposals should include the VLBI proposal cover sheet (see below) and a
+text NOT EXCEEDING 2 SIDES. This should contain both a scientific and
+a technical justification for the resources requested. It should include a 
+brief summary of any related EVN proposals which have already been observed
+or scheduled. Proposers should indicate if it is a resubmission of an earlier
+proposal. Up to 2 additional sides with diagrams may be included; the total,
+including cover sheet, should not exceed 6 sides. 
+
+ > Proposers should identify any individual antenna(s) whose inclusion is
+    considered ESSENTIAL for achieving their goals
+ > Only a limited amount of time is available for observations requiring
+    rapid source changes (e.g. phase-referencing) using the Lovell 
+    Telescope at Jodrell Bank. A special justification must be presented.
+ > Special justification is needed for requesting MERLIN or DSN antennas
+ > Requests for use of the CAMBRIDGE antenna without MERLIN must have
+    additional justification, and will be granted at the discretion of the
+    Director, MERLIN/VLBI National Facility (UK) for highly rated proposals.
+
+THE VLBI PROPOSAL COVERSHEET
+============================
+The VLBI Proposal Coversheet must be used for all proposals. The up-to-date
+version should be obtained via the EVN USER GUIDE at the EVN WWW Home Page
+or directly from:    http://www.nfra.nl/jive/evn/proposals/prop.html
+File  covervlbi.tex  contains instructions for filling in the cover sheet.
+
+ > Select a wavelength band (also specify frequencies for line proposals)
+ > Select a recording format compatible with the requested correlator
+      (select "VLBA" for VLBA-compatible MKIV modes)
+ > Specify the (baseband) channel bandwidth for all line proposals
+ > Select EVN antennas using the 2-character codes given in the EVN STATUS
+      TABLE. (For EVN+MERLIN proposals, add "MERLIN" to the EVN antenna list)
+ > Specify the GST ranges for Asian antennas separately, if appropriate
+
+>> MAKE A CAREFUL SELECTION OF PROCESSOR (CORRELATOR). This is related to
+      the chosen observing format - consult the CORRELATION section below.
+      Correlator availability and capabilities may change throughout 1999.
+      The EVNPC may suggest a different correlator from that requested.
+
+CORRELATION OF EVN OBSERVATIONS
+===============================
+The EVN MkIV data processor at JIVE is going through a commissioning phase, 
+which should lead to an operational, albeit basic, MkIV correlator by the end
+of session 2, 1999. The data processor is open for a limited number of
+proposals employing basic VLBA/MKIV observing modes (excluding eg MK3, pulsar
+gating and oversampling). As a guideline, proposers should restrict themselves
+to a total data rate of 128 MB/s, EVN only (max 8 stations) and the observing
+time equivalent of 2 thick tapes per station. Spectral line capabilities are
+currently limited to bandwidths of 2 MHz and wider, which can be processed
+with a total of 1024 spectral points per baseline. Technical details can be
+obtained from:    H.J. van Langevelde at huib@jive.nfra.nl
+
+The MPIfR correlator in Bonn is available for EVN continuum observations 
+recorded in Mk3 modes. Such proposals must be limited in size to 6 correlator
+"passes". For normal (no cross-polarisation) correlation this translates to
+a telescope limit of 12 for modes B,C and E, and 9 for mode A. For full
+polarisation correlation, the limit is 9 for mode C and 5 for mode A.
+
+The VLBA correlator in Socorro is available for a limited number of "EVN-only"
+experiments recorded in VLBA/MK4-compatible modes. Priority for its use
+will be decided by the EVN Program Committee and will be given to spectral
+line proposals and those where the combination EVN + VLBA-correlator promises 
+unique science. Proposers must first consult the "List of validated VLBA or
+VLBA-compatible MKIV recording modes", available in the EVN User Guide under 
+"Scheduling EVN Observations".
+
+Proposers of Global projects should normally request use of the VLBA 
+correlator and use VLBA/MK4-compatible modes.
+
+SHORT OBSERVATIONS
+==================
+"Short" observations (< 4 hours) may be proposed up to 6 weeks before an
+observing session begins, by means of a brief justification to the 
+Chairman of the EVN PC, who will, at his discretion, authorise scheduling
+in any gaps in the session plan. They are intended to allow the EVN to
+respond to urgent "targets of opportunity", or to facilitate short, pilot
+observations, if needed in preparation for a full proposal. They can only
+be granted limited resources (number of telescopes, tapes, correlator time)
+and must use MK3 recording modes. They should not involve any special
+observing set-ups.  The present EVNPC Chairman is:  Richard Porcas, MPIfR, 
+Auf dem Huegel 69, D 53121, Bonn, Germany.  FAX: +49 (0)228-525229 ;
+TELEPHONE: +49 (0)228-525288 ;       E-mail: porcas@mpifr-bonn.mpg.de
+
+ACCESS TO PROPOSAL INFORMATION
+==============================
+Note that the following data from the proposal will be stored in machine-
+readable form:  PI name and email, wavelength, observing mode, program title,
+requested telescopes, EVNPC rating. The data will be distributed to the EVN
+Scheduler, VLBA scheduler and to members of the EVNPC. For proposals supported
+under the TMR program "Access to Large-Scale Facilities", the title, author
+list, and amount of time granted (or a brief reason for rejection) will be
+made available to the EU Commission in Brussels.  Copies of all EVN+MERLIN
+proposals will be made available to the MERLIN TAC Chairman, together with
+the EVNPC rating. Coversheets of proposals requesting use of the VLBA
+correlator will be forwarded to NRAO for checking technical feasibility.
+
+Rolf Schwartz, EVN Scheduler            January 1999
+
+MPIfR, Auf dem Huegel 69,
+D 53121 Bonn,
+GERMANY
+
+
+

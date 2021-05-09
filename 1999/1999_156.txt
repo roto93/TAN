@@ -1,0 +1,356 @@
+From ohashi@asiaa.sinica.edu.tw Tue Aug 10 10:06 CST 1999
+Received: from biaa19.biaa.sinica.edu.tw (iaa19 [140.109.177.107])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id KAA08267
+	for <astro@iaa17>; Tue, 10 Aug 1999 10:05:58 +0800 (CST)
+Received: by biaa19.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA09806; Tue, 10 Aug 1999 10:02:22 +0800
+Date: Tue, 10 Aug 1999 10:02:22 +0800
+From: ohashi@asiaa.sinica.edu.tw (N. Ohashi)
+Message-Id: <199908100202.KAA09806@biaa19.biaa.sinica.edu.tw>
+Subject: Second Announcement
+To: astro@asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: tToO1KHanIYdtPaVSIELag==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 17549
+Status: RO
+
+------------- Begin Forwarded Message -------------
+
+>From kweather@cv3.cv.nrao.edu  Tue Aug 10 08:44:41 1999
+Date: Mon, 09 Aug 1999 15:29:36 -0600
+From: Kate Weatherall <kweather@cv3.cv.nrao.edu>
+X-Accept-Language: en
+MIME-Version: 1.0
+To: afs <afs@astro.caltech.edu>, agg <agg@ast.leeds.ac.uk>,
+        agoodman <agoodman@cfa.harvard.edu>,
+        "Alain.Castets" <Alain.Castets@obs.ujf-grenoble.fr>,
+        roy <roy@oso.chalmers.se>, afs <afs@astro.caltech.edu>,
+        boss <boss@dtm.ciw.edu>, brodrigu <brodrigu@cv3.cv.nrao.edu>,
+        chyba <chyba@seti.org>, dhs <dhs@astro.princeton.edu>,
+        dutrey <dutrey@iram.fr>, fshu <fshu@astron.Berkeley.EDU>,
+        genzel <genzel@mpe.mpg.de>, ishiguro <ishiguro@nrosv1.nro.nao.ac.jp>,
+        jewitt <jewitt@murk.ifa.hawaii.edu>, joe <joe@puppsr13.princeton.edu>,
+        lgm <lgm@astro.umd.edu>, lilly <lilly@merlin.astro.utoronto.ca>,
+        marvel <marvel@aas.org>, ncalvet <ncalvet@cfa.harvard.edu>,
+        neufeld <neufeld@pha.jhu.edu>, nzs <nzs@radio.caltech.edu>,
+        pandre <pandre@cea.fr>, plambeck <plambeck@astron.Berkeley.EDU>,
+        rwilson <rwilson@cfa.harvard.edu>, tielens <tielens@astro.rug.nl>,
+        tjm <tjm@saturn.phy.umist.ac.uk>,
+        turner <turner@bonnie.astro.ucla.edu>, wild <wild@astro.rug.nl>,
+        wwelch <wwelch@astron.Berkeley.EDU>, kyl <kyl@asiaa.sinica.edu.tw>,
+        "tarja.liljestrom" <tarja.liljestrom@hut.fi>, hans <hans@astro.su.se>,
+        awalmsley <awalmsley@arcetri.astro.it>,
+        awootten <awootten@cv3.cv.nrao.edu>, bania <bania@ninkasi.bu.edu>,
+        baudry <baudry@observ.u-bordeaux.fr>,
+        bbutler <bbutler@cv3.cv.nrao.edu>, bieging <bieging@as.arizona.edu>,
+        boss <boss@dtm.ciw.edu>, brodrigu <brodrigu@cv3.cv.nrao.edu>,
+        churchwell <churchwell@astro.wisc.edu>, chyba <chyba@seti.org>,
+        cimatti <cimatti@arcetri.astro.it>, crutcher <crutcher@astro.uiuc.edu>,
+        darling <darling@astrosun.tn.cornell.edu>,
+        dezotti <dezotti@pd.astro.it>, dhs <dhs@astro.princeton.edu>,
+        dlp <dlp@ipac.caltech.edu>, "don.morton" <don.morton@hia.nrc.ca>,
+        dtf <dtf@astro.caltech.edu>, dutrey <dutrey@iram.fr>,
+        dwilner <dwilner@cfa.harvard.edu>, erichard <erichard@cv3.cv.nrao.edu>,
+        ewilcots <ewilcots@astro.wisc.edu>,
+        ewine <ewine@deuterium.strw.leidenuniv.nl>,
+        "fabienne.casoli" <fabienne.casoli@obspm.fr>,
+        felli <felli@arcetri.astro.it>, fshu <fshu@astron.Berkeley.EDU>,
+        fukui <fukui@a.phys.nagoya-u.ac.jp>, gab <gab@gps.caltech.edu>,
+        genzel <genzel@mpe.mpg.de>, gk <gk@astro.princeton.edu>,
+        guillote <guillote@iram.fr>, hans <hans@astro.su.se>,
+        haynes <haynes@astrosun.tn.cornell.edu>,
+        hliszt <hliszt@cv3.cv.nrao.edu>, huib <huib@jive.nfra.nl>,
+        ishiguro <ishiguro@nrosv1.nro.nao.ac.jp>,
+        jbaars <jbaars@phast.umass.edu>, jbieging <jbieging@as.arizona.eud>,
+        jblack <jblack@oso.chalmers.se>, jc <jc@hyde.uchicago.edu>,
+        jdifran <jdifran@cfa.harvard.edu>, jewitt <jewitt@murk.ifa.hawaii.edu>,
+        jmangum <jmangum@cv3.cv.nrao.edu>, joe <joe@puppsr13.princeton.edu>,
+        jpwilliams <jpwilliams@cv3.cv.nrao.edu>, jsr <jsr@mrao.cam.ac.uk>,
+        jwebber <jwebber@cv3.cv.nrao.edu>, kawabe <kawabe@nro.nao.ac.jp>,
+        kmenten <kmenten@mpifr-bonn.mpg.de>,
+        kneib <kneib@astro.ast.obs-mip.fr>, krs <krs@bb2.jpl.nasa.gov>,
+        kweather <kweather@cv3.cv.nrao.edu>, kyl <kyl@asiaa.sinica.edu.tw>,
+        larry <larry@tc.umn.edu>, lblitz <lblitz@astron.Berkeley.EDU>,
+        leo <leo@das.uchile.cl>, lgm <lgm@astro.umd.edu>,
+        lilly <lilly@merlin.astro.utoronto.ca>,
+        "lorne.avery" <lorne.avery@hia.nrc.ca>, lt <lt@arcetri.astro.it>,
+        lucas <lucas@iram.fr>, luisfr <luisfr@astrosmo.unam.mx>,
+        marvel <marvel@aas.org>, mclaussen <mclaussen@cv3.cv.nrao.edu>,
+        mgurwell <mgurwell@cfa.harvard.edu>, moran <moran@cfa.harvard.edu>,
+        mrupen <mrupen@cv3.cv.nrao.edu>, mthornle <mthornle@cv3.cv.nrao.edu>,
+        mwalmsley <mwalmsley@arcetri.astro.it>,
+        myers <myers@cosmo.physics.upenn.edu>, myun <myun@cv3.cv.nrao.edu>,
+        nakai <nakai@nro.nao.ac.jp>, ncalvet <ncalvet@cfa.harvard.edu>,
+        neal <neal@fcrao1.phast.umass.edu>, neufeld <neufeld@pha.jhu.edu>,
+        nje <nje@astro.as.utexas.edu>, nzs <nzs@radio.caltech.edu>,
+        ohashi <ohashi@asiaa.sinica.edu.tw>, pandre <pandre@cea.fr>,
+        pho <pho@cfa.harvard.edu>, plambeck <plambeck@astron.Berkeley.EDU>,
+        pshaver <pshaver@eso.org>, psolomon <psolomon@astro.sunysb.edu>,
+        pvandenb <pvandenb@cv3.cv.nrao.edu>, "r.wade" <r.wade@rl.ac.uk>,
+        ray <ray@nro.nao.ac.jp>, rbrown <rbrown@cv3.cv.nrao.edu>,
+        rdickman <rdickman@nsf.gov>, rene <rene@astro.su.se>,
+        riccardo <riccardo@astrosun.tn.cornell.edu>,
+        richard <richard@mrao.cam.ac.uk>, roy <roy@oso.chalmers.se>,
+        rwarmels <rwarmels@eso.org>, rwilson <rwilson@cfa.harvard.edu>,
+        schilke <schilke@mpifr-bonn.mpg.de>,
+        schloerb <schloerb@donald.phast.umass.edu>, sj <sj@astro.caltech.edu>,
+        snyder <snyder@prairie.astro.uiuc.edu>,
+        sradford <sradford@cv3.cv.nrao.edu>, staguhn <staguhn@astro.umd.edu>,
+        "tarja.liljestrom" <tarja.liljestrom@hut.fi>,
+        tbeasley <tbeasley@cv3.cv.nrao.edu>, tcontini <tcontini@eso.org>,
+        tetsuo <tetsuo@ghz.mtk.ioa.s.u-tokyo.ac.jp>,
+        tielens <tielens@astro.rug.nl>, tjm <tjm@saturn.phy.umist.ac.uk>,
+        tommy <tommy@oso.chalmers.se>, turner <turner@bonnie.astro.ucla.edu>,
+        twilson <twilson@as.arizona.edu>, vogel <vogel@astro.umd.edu>,
+        vpankoni <vpankoni@nsf.gov>, whitley <whitley@aui.org>,
+        wild <wild@astro.rug.nl>, wilson <wilson@physics.mcmaster.ca>,
+        wwelch <wwelch@astron.Berkeley.EDU>, wyrowski <wyrowski@astro.umd.edu>,
+        yamamoto <yamamoto@phys.s.u-tokyo.ac.jp>
+Subject: Second Announcement
+Content-Transfer-Encoding: 7bit
+
+
+
+
+                Science with the Atacama Large Millimeter Array
+                            6-8 October 1999
+                            Washington, D. C.
+
+
+WWW Site http://www.mma.nrao.edu/science/science99.html
+----------------------------------------------------------------------
+
+                     SECOND ANNOUNCEMENT
+
+----------------------------------------------------------------------
+DEADLINE DATES to REMEMBER
+
+20 August    Deadline for EARLY registration.
+10 September Deadline for reservations at the Omni-Shoreham.
+12 September Deadline for submission of abstracts.
+6  October   Congressional reception at the House Science Committee Room.
+7  October   Meeting begins (8 am), press conference, at CIW.
+             Banquet at Omni-Shoreham.
+8  October   Meeting ends (7 pm)
+21 December  Deadline for submission of manuscripts 
+
+The meeting 'Science with the Atacama Large Millimeter Array'
+will take place on 6-8 October 1999 at the Carnegie Institution of
+Washington at 16th and P Streets, NW, Washington, D.C.
+under sponsorship of Associated Universities, Inc. (AUI) and the National
+Radio Astronomy Observatory (NRAO).
+This historic neo-classical auditorium is across the street from the
+AUI offices, just a few blocks from the White House and DuPont Circle.
+
+Nearly 100 persons have registered for the meeting at this time.
+We are planning for a meeting of 150-200 people.  The
+auditorium will hold 400 people; the banquet is planned to seat 200.
+ Note that for security reasons, entry to the building is through a 
+side entrance on the right of the building as one faces it. not via the 
+columned portico on 16th Street,
+
+If you have not yet registered, please do so, as fees will increase after
+20 August, 1999.  You may do this over the Web at the site whose URL is
+given above.
+
+Conference posters will be distributed next week.  
+
+In this announcement we include information on registration, the format
+of the meeting, information on abstracts and the Proceedings, the
+hotel and banquet arrangements, some travel information, and a summary of
+important deadlines.  This announcement will be available at the WWW site,
+with updated information as available.
+http://www.mma.nrao.edu/science/science99.html
+
+This email is addressed to all of those who have registered, who are on one
+of the organizing committees,  who have been invited to present a paper
+at the conference, or who have requested to be kept informed of the
+conference progress.
+
+----------------------------------------------------------------------
+
+                            REGISTRATION
+
+The registration fee is $75 before 20 August, rising to $95 after that date.
+You may register at the URL
+http://www.mma.nrao.edu/science/register.html
+Please do so if you have not already.  The list of participants
+is updated weekly and is available for review at:
+http://www.mma.nrao.edu/science/registration/participant_list.html
+
+On Thursday evening, 7 October, there will be a banquet at the Omni
+Shoreham hotel.  Although AUI is underwriting much of the cost of this
+banquet, there is a $40 charge for attendance.
+You may pay this with your registration fee.  Guests
+wishing to attend the banquet should be indicated and the fee
+adjusted accordingly.
+
+Information on payment of fees may be found at:
+http://www.mma.nrao.edu/science/payment.html
+You may pay by bankcard, check, or wire transfer.
+
+----------------------------------------------------------------------
+  
+                          MEETING FORMAT
+
+The meeting will consist of invited talks on the main topics, which comprise
+a hefty portion of the science which ALMA will address:
+ Investigation of galaxies near the time of their formation at very 
+        high redshift; 
+ Detection and study of planets around nearby stars; 
+ Study of star formation by, for example, high-resolution submillimeter 
+        observations of protostars, protoplanetary disks, and outflows; and 
+ Study of the origin, distribution and evolution of the elements and 
+        their isotopes; 
+
+Posters will be displayed on boards in the reception hall outside the auditorium
+and remain up for the duration of the meeting, 8:00 am, 7 October through
+7:00 pm, 8 October.  Coffee and snacks will be provided in this area in the
+mornings and the afternoons.  A list of poster paper titles is available at:
+http://www.mma.nrao.edu/science/poster_sessions.html
+which is also updated regularly.
+
+Confirmed invited talks (30 minutes including questions) include:
+       * Science with Millimeter Arrays -- A. Sargent, Caltech
+       * Protogalactic Dawn -- David Spergel, Princeton
+       * Galactic Morning -- Andrew Blain, Cambridge
+       * Molecular Emission from Young Galaxies -- Stephane Guilloteau, IRAM
+       * The Central Regions of Active Galaxies -- N. Scoville, Caltech
+       * The Central Region of the Milky Way -- R. Genzel MPIfEP
+       * Nearby Galaxies -- M. Thornley, NRAO
+       * Molecular Disks -- A. Dutrey, Grenoble
+       * The Formation of Planets -- A. Boss, DTM Carnegie
+       * Near-Stellar Gas and Dust -- Lee Mundy, U. Maryland
+       * Planetary Signatures -- Nuria Calvet, Harvard-Smithsonian CfA
+       * Primitive Solar System Objects -- D. Jewitt, U. Hawaii
+       * Astrochemical Evolution of Star-Forming Regions -- E. van Dishoeck, 
+              Leiden University
+       * High Mass Star Formation -- Karl Menten, MPIfR
+       * Star Formation at High Resolution -- Neal Evans, U. Texas
+       * New Molecular Views of Southern Star Forming Regions -- Y. Fukui, 
+              Nagoya
+       * Interferometric Views of Star Formation -- R. Plambeck, Berkeley
+       * Clusters Forming Low Mass Stars -- Philippe Andre, Saclay
+       * Jets and Flows from Young Stars -- Frank Shu,  Berkeley
+       * Interferometric Imaging of Molecular Envelopes with and without YSOs
+              -- N. Ohashi, ASIAA
+       * Dispersal, Winds, Shocks, Dust Destruction -- David Neufeld, Johns
+              Hopkins
+       * Magnetic Fields -- R. Crutcher, U. of Illinois
+       * Formation and Structure of Molecular Clouds as Revealed by Sub-mm 
+              Line Observations -- S. Yamamoto, University of Tokyo
+       * Stellar Mass Loss -- H. Olofsson, Stockholm Observatory
+       * Formation of Dust -- Xander Tielens, Groningen
+       * Molecules -- T. Millar, UMIST
+
+
+----------------------------------------------------------------------
+                        Abstracts and Proceedings
+
+Please provide an abstract for your poster.  These will be available on-line
+and referenced at the ADS astronomy electronic literature service. LaTeX
+style forms are available at the WWW site; a booklet of posters will be made
+available at the meeting.
+
+REMINDER: Abstracts of your talks or posters are DUE NO LATER THAN:
+*************************************** 
+September 12th
+***************************************
+for publication in the booklet.   The booklet which will be 
+made available to participants at the Conference and electronically on the Web 
+site of the Conference about one week in advance. A copy of the Conference 
+Abstracts will be provided to the Astrophysics Data System (ADS).  These
+will have to be prepared in LaTeX following instructions that are on the
+WWW.
+
+We have proposed to PASP that they publish the Proceedings.  This will include
+ten pages for invited articles and four pages for poster contributions.
+The deadline for submitting manuscripts is 21 December 1999.
+To help the editors with the preparation of the Object index, it is asked 
+that the authors provide separately the list of individual astronomical 
+sources discussed in their paper.
+
+In order for these proceedings to appear as soon as possible
+to reflect the current status of the field,  the deadline for 
+reception of all electronic files will be :
+*************************************
+
+21 December 1999
+
+*************************************
+ 
+In order to
+keep the registration fee low, we have not included a copy of the book in
+the registration fee.  We will, however, take orders for the Proceedings
+once we have acceptance of our proposal from the PASP.
+The cost per volume is $46.80 for each participant, plus 
+$6.00 shipping/handling for US or foreign SURFACE MAIL;
+or $9.00 Canada/Mexico AIR MAIL; or $15.00 Foreign AIR
+MAIL.  Please note that volumes mailed SURFACE MAIL 
+take 2 to 8 weeks to arrive, depending on destination.  
+Typically, volumes are mailed out approximately 70 days 
+after we receive the camera-ready hard copy.  Further, the 
+cost of the book to each participant is the same regardless 
+of the number of pages contained therein.   If a person is a 
+nonparticipant and is not a member of the ASP, the cost of 
+the book is $52.00. 
+
+----------------------------------------------------------------------
+                      Accommodations
+
+The hotel for the conference is the Omni Shoreham Hotel, located
+off Connecticut Avenue in Rock Creek Park.  This is situated about 1.3
+miles from the Carnegie Institution.  One can either
+walk, or take the Metro subway one stop from Woodley Park to Dupont 
+Circle followed by a short walk, or ride a bus.
+Parking near the conference center is extremely limited, while parking at the
+hotel is available for guests at $14 per day.
+
+A special rate, 2/3 the normal rate,  has been negotiated by AUI with 
+the hotel.  When reserving a room, please be sure to mention that you 
+want a room within the AUI block.  You may contact the hotel at 
+Telephone: (202) 234-0700
+or Facsimile: (202) 756-5145
+The number of rooms at this special rate is limited in number and subject
+to availability.  BE SURE TO RESERVE A ROOM BEFORE 10 September 1999!
+Washington is very popular during October and rooms can be difficult to find.
+
+A map is available at the meeting WWW site.  The hotel is denoted by the flagged
+address; the conference site by the orange number '1.'  
+
+Washington D.C. is served by three major airports.  Dulles International
+Airport to the west handles many international flights, with convenient
+ground connections to the city.  National Airport lies just across the
+Potomac from the Mall, with convenient Metro access to the city.
+Baltimore-Washington International (BWI) Airport lies to the north, and has
+convenient rail access to the city.  BWI is served by Icelandic Airways
+and by Southwest Airlines, along with most major airlines, and 
+frequently boasts the most reasonably priced
+fares.  More details will be sent in a final announcement.
+----------------------------------------------------------------------
+                      Social Events
+
+Members of Congress, their staffers, and constituents will be invited to
+a reception in the House Science Committee Room at the U. S. Capitol
+from 5:30 to 7:30 pm on 6 October.  Owing to the size of the room, this
+will be by invitation only.  If you would like to introduce your
+representative in Congress to the ALMA project, please invite your
+representative and accompany him/her to the reception.  Please let us
+know that you have done this.  A list of Representatives on appropriate
+committees may be found at:
+http://www.mma.nrao.edu/science/congress.html
+The Representatives and/or their staff are, of course, most welcome at the
+meeting.
+
+A press conference will be held at the Carnegie Institution on the morning
+of 7 October to introduce the ALMA project to the media.  The subjects
+to be covered are under development.
+
+A reception and banquet for meeting participants will be held at the
+Omni-Shoreham Hotel on the evening of 7 October.
+
+------------- End Forwarded Message -------------
+
+

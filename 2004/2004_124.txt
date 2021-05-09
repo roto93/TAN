@@ -1,0 +1,182 @@
+
+Date: Mon, 6 Sep 2004 16:30:29 +0800 (CST)
+From: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Cc: iaa@asiaa.sinica.edu.tw
+Subject: TAN (Issue Sept 01 - 06, 2004)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (Sept 01 - 06, 2004):
+
+1. IMPORTANT -- please assist TAN to update its mailing list
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2. CFHT Semester 2005A open for proposals
+3. ASIAA Job Openings -- Hilo Site: Microwave Receiver Engineer and
+                                    Microwave Technician
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Dear TANists,
+
+As Taiwan's (ROC:-) astronomy increasing its size in such a fast pace since
+1996 when TAN was first established with fewer than 30 members, TAN has had
+a hard time to keep track of every individual -- especially those newly
+minted PhDs and oversea graduate students.
+
+Currently there are 175 entries maintained by TAN, including group alias
+such as asall@astro.ncu.edu.tw of NCU. It would be great if NTHU, NTU and
+NCKU could create similar group mailing aliases for their graduate students.
+Anyway, it's just a plea.
+
+So if you know anyone who should be but is not included in TAN, please kindly
+inform TAN for a timely mailing list update.
+
+Really appreciate all your help and time.
+
+Best Regards,
+Yi-Jehng Kuan
+TAN administrator
+
+ps: For the purpose of "reaching out", this particular issue is also directed
+    to "iaa@asiaa", so if you received more than one copy, please don't panic;
+    by the mean time, if you are associated with ASIAA but this is the first
+    time you receive TAN, it means you are NOT in the TAN list currently.
+    If you'd like to be included, please let TAN know as well, TAN will be
+    happy to add you in.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From kwok@asiaa.sinica.edu.tw Fri Sep  3 05:07 CST 2004
+Date: Fri, 3 Sep 2004 05:13:08 +0800 (CST)
+From: Sun Kwok <kwok@asiaa.sinica.edu.tw>
+To: Yi-Jehng Kuan <kuan@sgrb2.geos.ntnu.edu.tw>
+Subject: Semester 2005A open for proposals (fwd)
+
+Dear Yi Jehng:
+
+Please distribute this message to TAN.
+
+Thanks,
+
+Sun
+==========================================================================
+Sun Kwok, Director                       email:  kwok@asiaa.sinica.edu.tw
+Institute of Astronomy & Astrophysics    Phone:  886-2-3365-2200 ext. 700
+Academia Sinica                          Fax:    886-2-2367-7849
+P.O. Box 23-141                          Cell:   886-932-152942
+Taipei 106, Taiwan                       URL:    http://www.asiaa.sinica.edu.tw
+
+
+CFHT semester 2005A is open for proposals.
+
+You will find all the relevant information at
+http://www.cfht.hawaii.edu/ObsInfo/ObservingProposals/
+
+Please note that the proposal will use POOPSY, a new web-based format.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ [The following announcement is a slightly modified version of the earlier
+  job announcement in TAN (Issue Aug 31) but with a better defined job
+  description for *TWO* position openings -- YJK ]
+
+
+Microwave Receiver Engineer
+
+Regular, Full-Time position w/ the Academia Sinica Institute of Astronomy
+& Astrophysics (ASIAA), Hawaii Operations Group, located in Hilo, HI.
+Duties: Design, fabricate, install, & maintain electronic detector &
+auxiliary electronics for ASIAA equipment in the SubMillimeter Array (SMA)
+project & the Array for Microwave Background Anisotropy (AMiBA) project.
+Involved in design & maintenance of components utilizing quasi-optics,
+microwave electronics, analog support electronics, & digital control
+electronics.  Supervise technician to aid in his/her engineering tasks.
+Construct specific electronics systems, purchase affiliated system
+components, & supervise assembly & testing.  Participate in testing final
+electronics & detectors systems in antenna systems, & verify that they are
+brought to final specification on site.
+
+Requires: Bachelor's degree in Electrical Engineering or equivalent.
+(Associate's Degree & at least 4 years experience working at the level of
+engineer may substitute for Bachelor\222s Degree.)  At least 3 years of
+experience at the level of an engineer.  Experience in design &
+construction of detector electronics, & in servo loop electronics.
+Experience in deployment & field testing of sensitive electronic
+instrumentation.  Experience in RF electronics & microwave electronics.
+Experience in use of cryogenic systems.  Good communication skills &
+experience in working w/ vendors while constructing precision components
+is required.  Good working knowledge of heterodyne detector systems at
+millimeter wavelengths.  Knowledge of theories, principles, & practices of
+electronics engineering, & standards used in electronics construction.
+Experience w/ millimeter wavelength microwave or radio physics equipment.
+Ability to diagnose critically & test electronics circuits.  Frequent
+international travel is expected & required.  Must be able to work at
+14,000 feet, & pass a high-altitude medical exam.
+
+Inquiries: Dr. Ming-Tang Chen 961-2931 (Hilo),
+           e-mail: mchen@asiaa.sinica.edu.tw.
+
+Closing: Oct. 31, 2004.  Salary commensurate with qualifications.
+
+-------------------------------------------------------------------------------
+
+Job Title: Microwave Technician
+
+Regular, Full-Time position w/ the Academia Sinica Institute of
+Astronomy & Astrophysics (ASIAA), Hawaii Operations, located in Hilo, HI.
+Duties: Support the works & upkeep of existing instruments for the
+SubMillimeter Array (SMA) & Array for Microwave Background Anisotrophy
+(AMiBA) projects.  Provide design, testing, installation, & maintenance
+support to the IF/LO system during development, commissioning, & operation
+phases of various projects of ASIAA.  Lead the microwave-related programs
+at site.  Inventory maintenance of supplies, documenting modifications to
+systems, & construction of new receiver components & systems.
+
+Job Location: Big Island, Hawaii
+
+Requirement: BS or equivalent degree in Electronic/Electrical Engineering,
+or formal training program in Microwave Technology (i.e. apprenticeship
+program) w/ demonstrated ability to perform the essential job functions.
+At least 5 years postgraduate experience as a microwave technician.
+Experience w/ operations on a remote site.  Previous experience or
+familiarity w/ workplace safety.  Previous experience working w/ minimal
+supervision.  Demonstrated theoretical & practical knowledge of concepts,
+principles, techniques & practices of electronic theory, w/ particular
+emphasis on complex microwave instrumentation.  Knowledge of modem,
+computer-based instrumentation such as VME, VXI & GPIB. Knowledge of at
+least 1 high-level computer programming language, preferably C & its
+application to control & data acquisition systems.  Ability to work from
+schematics, sketches, prints, & verbal instructions to fabricate prototype
+&/or final electronic systems. Ability to read & utilize schematic drawings,
+mechanical assembly drawings & parts lists & the ability to operate basic
+hand & power tools, including soldering irons, drill presses, etc., safely
+& efficiently.  Excellent communication skills - verbal & written.  Must
+hold a valid current driving license & be able to drive 4-wheel drive
+vehicles w/ manual transmission.  Must be able to work at 14,000 feet, &
+pass a high-altitude medical exam.
+
+Inquiries:_Ming-Tang Chen 961-2931 (Hilo) or mchen@asiaa.sinica.edu.tw.
+Closing: Oct. 15, 2004.
+
+Salary commensurate with qualifications.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution:   astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan@asiaa.sinica.edu.tw
+                            (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

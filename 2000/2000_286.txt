@@ -1,0 +1,99 @@
+From cmko@fermi.phy.ncu.edu.tw Wed Dec 27 22:22 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA22073
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 27 Dec 2000 22:21:28 +0800 (CST)
+Received: from fermi.phy.ncu.edu.tw (IDENT:root@fermi.phy.ncu.edu.tw [140.115.30.10])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id WAA06779
+	for <astro@asiaa.sinica.edu.tw>; Wed, 27 Dec 2000 22:28:37 +0800
+Received: (from cmko@localhost)
+	by fermi.phy.ncu.edu.tw (8.9.3/8.9.3) id WAA21807
+	for astro@asiaa.sinica.edu.tw; Wed, 27 Dec 2000 22:14:16 +0800
+Date: Wed, 27 Dec 2000 22:14:16 +0800
+From: Chung-Ming Ko <cmko@fermi.phy.ncu.edu.tw>
+Message-Id: <200012271414.WAA21807@fermi.phy.ncu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: The 1st Korean Astrophysics Workshop
+Content-Type: text
+Content-Length: 3348
+Status: R
+
+
+Dear Colleague,
+
+Please circulate the following announcement.
+Thank you.
+
+Chung-Ming Ko
+
+-------------------------------------------------------------------------------
+-----------------First Circular ------------------------------------------
+We would like to invite you to participate in
+ 
+1st Korean Astrophysics Workshop on 
+"Numerical Methods for Astrophysical Flows"
+June 26-29, 2001,  Pusan, Korea 
+
+Venue: In-Duk Hall, Pusan National University, Pusan, Korea
+
+Goals: The purpose of this workshop is to review basic understandings 
+and recent developments in numerical techniques of hydrodynamics, 
+magneto-hydrodynamics, relativistic hydrodynamics, relativistic 
+magneto-hydrodynamics, and cosmic-ray modified hydrodynamics in
+Astrophysical flows.  They will provide an introduction as well as 
+the most up-to-date developments in numerical methods for graduate
+students, post-docs and researchers who work or plan to work in these
+subjects. It is planned that the codes introduced in the lectures will
+be posted in the web page so that others in the field of astrophysics
+can retrieve the codes for their research.
+
+* List of Invited Lecturers:
+Dinshaw Balsara (NCSA, USA): AMR and application 
+Joes-Maria Ibanez (U. of Valencia, Spain): Relativistic hydrodynamics
+Tom Jones (U. of Minnesota, USA) : Cosmic-ray modified flows
+Shinji Koide (Toyama Univ., Japan): Relativistic magneto-hydrodynamics
+Joe Monaghan (Monash, Austrailia): Smooth particle hydrodynamics code 
+Mike Norman (UC San Diego) : Hydrodynamics basics and application
+Dongsu Ryu (Chungnam National U., Korea): Magneto-hydrodynamics basics
+K. Shibata (Kyoto Univ., Japan)) : Magneto-hydrodynamics application
+
+* List of Invited Speakers:
+Hong Bae Ann (Pusan National U., Korea) : SPH simulations
+Jungyeon Cho (U. of Wisconsin, USA): Incompressible magneto-hydrodynamics
+Roger Fux (Mt. Stromlo Obs., Austrailia): SPH simulations
+Hyesung Kang (Pusan National U., Korea): Cosmic ray shocks
+Jongsoo Kim (U. of Illinois, NCSA, USA): Isothermal magneto-hydrodynamics
+Chung-Ming Ko (National Central Univ. Taiwan): Diffusive shock acceleration 
+Hyung Mok Lee (Seoul National U., Korea) : Stellar dynamics
+Hyun Kyu Lee (Hanyang U., Korea): Magneto-hydrodynamics around black holes
+Myung-Gu Park (Kyungbuk National U., Korea): Accretion disk around black
+                                                 holes
+Keh-Ming Shyue (National Taiwan Univ): Wave propagation method and
+                                           front-tracking
+
+* Organizing Institute and Sponsors:
+  Pusan National University
+  Korea Science and Engineering Foundation (TBD)
+  Asia-Pacific Center for Theoretical Physics (TBD)
+  Korea Supercomputer Center (TBD) 
+
+* SOC:
+  S. S. Hong (Seoul National University)
+  T. W. Jones (Univ. of Minnesota)
+  H. K. Lee (Hanyang University)
+  H. M. Lee (Seoul National University)
+  D. Ryu (Chungnam National University, Chair)
+
+* LOC:
+  H. B. Ann (Pusan National University, Chair)
+  C. Han (Chungbuk National University)
+  S. Hyung (Korea Astronomical Observatory)
+  H. Kang (Pusan National University, Co-Chair)
+  M.-G. Park (Kyungbuk National University)
+  C. Park (Seoul Natioanl Univeristy)
+
+For further information please visit our website at
+http://earth.es.pusan.ac.kr/workshop
+
+------------------------------------------------------------------------------
+
+

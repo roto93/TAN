@@ -1,0 +1,22 @@
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: ARC-Taiwan ALMA Archive is available
+> Date: Tue, 13 Jan 2015 21:26:00 +0800
+> Cc: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>    riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear Potential ALMA users,
+
+  Here is an announcement that ARC-Taiwan ALMA Archive is now available at the following link:
+    
+    http://www.asiaa.sinica.edu.tw/~kswang/ALMA/index.html
+
+  ARC-Taiwan ALMA Archive - a website providing preview images and spectra of ALMA archival data
+
+  Using the official ALMA archive system, we have built up an ARC-Taiwan ALMA archive with enhanced functions. Unlike the official archive which provides calibrated visibilities only, we provide direct images and spectra of the data. Our ALMA archive categorizes the data into five research fields which ALMA defines for proposal submission. There are 117 cycle 0 projects in the official ALMA archive and we have processed 46 projects (as of 2015-01-13) which are ready to be explored for archival science. Cycle 1 and future cycle data will also be included once released. People are strongly encouraged to surf the website if you want to do ALMA science from now (archive science) and in the future (cycle 3+ proposal submission). Comments, suggestions, and questions are welcome.
+
+Best Wishes,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+===============================================================================

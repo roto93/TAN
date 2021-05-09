@@ -1,0 +1,16 @@
+
+Dear TAN subscribers,
+
+Because the main server machine of TAN at ASIAA crashed sometime last week
+(Feb 26-27), we will be using the TAN backup host machine at Shida
+(castor.scc.ntnu.edu.tw) from now on until the server at ASIAA is fixed.
+And messages sent to TAN during this time (Feb 26 - Mar 01) may have lost.
+However, this may take a while to resolve the problem.  By the mean time,
+submission of news or annuncement to TAN can still be sent to
+astro@asiaa.sinica.edu.tw as before.
+
+Sorry for any inconvenience may have caused.
+
+Yi-Jehng Kuan
+TAN administrator
+

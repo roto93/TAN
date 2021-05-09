@@ -1,0 +1,226 @@
+From kyl@asiaa.sinica.edu.tw Wed May 26 08:39:20 1999
+Return-Path: <astro@asiaa.sinica.edu.tw>
+Received: from iaa17.asiaa.sinica.edu.tw by sgrb2.geos.ntnu.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA24556; Wed, 26 May 1999 08:39:08 +0800
+Received: by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA10649; Wed, 26 May 1999 08:27:33 +0800
+Errors-To: kuan@sgrb2.geos.ntnu.edu.tw,\kuan@asiaa.sinica.edu.tw
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA10630; Wed, 26 May 1999 08:27:30 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA19170; Wed, 26 May 1999 08:24:14 +0800
+Date: Wed, 26 May 1999 08:24:13 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: URSI/USNC News 99.3 (fwd)
+Message-Id: <Pine.GSO.3.96.990526082409.6391C-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 8627
+Status: RO
+X-Status: 
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 12 May 1999 10:46:13 -0700 (PDT)
+From: don backer 415 campbell 510-642-5128 <dbacker@bkypsr2.berkeley.EdU>
+To: dbacker@bkypsr2.berkeley.EdU
+Subject: URSI/USNC News 99.3
+
+===================================
+URSI/USNC Commission J News: 1999.3
+===================================
+99may12
+
+1. URSI General Assembly - Toronto
+2. URSI/USNC Meeting - Jan 5-8, 2000 - Announcement from Julie McKie
+3. URSI/USNC Meeting - DRAFT URSI Comm J Sessions, Jan 5-8, 2000, Boulder 
+
+A few upcoming meetings: 
+4. International workshop on radio methods for studying turbulence
+5. Decade Study - Radio and Submillimeter Panel meeting - Chicago, AAS
+6. IAU Colloquium 177: PULSAR ASTRONOMY - 2000 and Beyond  
+7. IAU Symposium 199: "THE UNIVERSE AT LOW RADIO FREQUENCIES"  
+8. Science with the Atacama Large Millimeter Array
+
+1111111111111111111111111111111111111111111111111111111111111111111111
+1. URSI General Assembly - Toronto
+
+If you are attending register at 
+http://www.nrc.ca/confserv/ursi99/reg_info_e.htm
+before June 15 to save $35. The program is available at 
+http://www.nrc.ca/confserv/ursi99/sessio_e.htm and general information at
+http://www.nrc.ca/confserv/ursi99/welcome.html. Commission J will sponsor:
+
+J-Tutorial: RADIO STARS - A. R. Taylor (Canada)
+
+J1 - The Future Large Scale Facilities: Progress and Prospects 
+J2 - Very High Resolution Imaging In VLBI 
+J3 - Sub-millimetre Astronomy 
+J4 - Large Radio Surveys 
+J5 - Observatory Reports 
+J6 - Recent Scientific Developments
+
+JBC- Adaptive Antenna Technologies for Decametric Radio Telescopes 
+JCEG-Interference Protection Measures 
+JDC- Future Millimetre Receivers 
+JF - Tropospheric Path Delay Correction
+
+WSJ-The Large Millimetre Arrays - Engineering Progress and Scientific Prospects 
+
+2222222222222222222222222222222222222222222222222222222222222222
+2. URSI/USNC Meeting - Jan 5-8, 2000 - Announcement from Julie McKie
+
+The Web Page for the 2000 URSI meeting in Boulder, Colorado, is now available 
+on the web. Unlike in preceding years, the Radar Techniques Workshop will be 
+held BEFORE the meeting on Tuesday, January 4.  The regular meeting will begin 
+on Wednesday, January 5 and continue through Saturday, January 8.  The 
+Call-for-Papers has been mailed but if you are not on the mailing list you can 
+still get the Call by downloading the PDF file from the web page. (You will 
+need Adobe Acrobat Reader to download it). The Call this year is considerably
+briefer than in past years since the web page has become our primary tool for 
+communication.  The web page at http://cires.colorado.edu/ursi contains much 
+greater information than the Call-for-Papers.
+
+This e-mail went to those people who submitted papers as the author of contact 
+for URSI 1999. If you know of colleagues who may not have received this e-mail, 
+or who may not have web access, please print off a copy of the Call-for-Papers 
+for them. I don't know at this time if we will have on-line registration.  We 
+are working on it, but at this time it is not up and running.  We'll communicate 
+about this in later e-mails, on the website, and in the technical program, which 
+goes out in November.
+
+Please remember: The deadline for receipt of abstract is SEPTEMBER 3, 1999.  
+No papers will be accepted after that date. 
+
+As always, if you have any questions, please write to us at ursi@cires.colorado.edu.
+
+33333333333333333333333333333333333333333333333333333333333333333
+3. URSI/USNC Meeting - DRAFT URSI Comm J Sessions, Jan 5-8, 2000, Boulder 
+
+Joint B/J:   Advances in Reflector Antenna and Radio Telescope Design
+am Wed,5 Jan  J. Baars, jbaars@phast.umass.edu (J)
+              Y. Rahmat-Samii, rahmat@ee.ucla.edu (B)
+
+Joint C/J (+ other?): Physical Properties and Dynamics of Solar Corona
+and Solar Wind
+pm Wed,5 Jan  S. Spangler, spangler@iowa.edu (J)
+              D. Thompson, djt@research.bell-labs.com (C)
+
+Plenary Session:
+am Thu,6 Jan
+
+Joint A/J (+ other?):  Novel Applications of GPS 
+pm Thu,6 Jan  J. Romney, jromney@nrao.edu (J)
+              ?M. Kanda, mkanda@boulder.nist.gov (A)
+
+Joint D/J:   New Technology for Array Telescopes 
+am Fri,7 Jan J. Dreher, jdreher@astro.berkeley.edu (J)
+              Z. Popovic, zoya@colorado.edu (D)
+
+J1:          Advances in Cryogenic Cooling Systems
+pm Fri,7 Jan L. D'Addario, ldaddari@nrao.edu
+
+J2:          High Sensitivity Radiometer Design
+am Sat,8 Jan M. Pospieszalski, mpospies@nrao.edu
+
+Joint E/J:   Spectrum Management
+pm Sat,8 Jan M. McKinnon, mmckinno@nrao.edu (J)
+             J. Murray, Phone:303-444-4871 (D)
+
+Peter Napier
+email:		pnapier@aoc.nrao.edu
+phone:          505 835 7218
+fax:            505 835 7027
+address:    NRAO, PO Box 0, Socorro, NM 87801
+
+12 May:  Session chairmen start contacting prospective speakers.
+12 June: Session chairmen give Backer/Napier a preliminary schedule of speakers
+12 July: Session chairmen give Backer/Napier a final schedule of speakers
+12 August: Session chairmen start expediting speakers to submit abstracts
+03 Sept: HARD DEADLINE FOR SUBMISSION OF 250 WORD MINIMUM ABSTRACT
+25 Sept: Napier attends meeting in Boulder for final detailed organization 
+         of sessions
+November: Final program information and meeting registration available
+
+444444444444444444444444444444444444444444444444444444444444444444
+4. International workshop on radio methods for studying turbulence
+University of Illinois, Urbana-Champaign,     August 9-12, 1999
+
+Turbulence in geophysical and astrophysical, neutral and ionized, 
+media will be the subject of this workshop. It is intended to 
+meet the general need for an exchange of information and ideas 
+between scientists working on turbulence in the atmosphere, 
+ionosphere, solar wind and interstellar medium, with emphasis on 
+radio probing methods. 
+
+There will be Invited presentations on ISM and IPM turbulence.
+Contributed talks are encouraged on these and related topics.
+
+Deadline for Abstracts is JUNE 1, 1999 - in the USNC/URSI format 
+(example on the web site), limited to 2 pages and 
+emailed to Prof. A. W. Wernik:  aww@cbk.waw.pl   
+with a copy to Joyce Mast: jmast@uiwpls.ece.uiuc.edu 
+
+For complete up-to-date Workshop information visit
+www.ece.uiuc.edu/news/ursi/ursi1.html on the WEB.
+
+555555555555555555555555555555555555555555555555555555555555
+5. Decade Study - Radio and Submillimeter Panel meeting - Chicago, AAS
+
+The next public meeting will be held on June 1 at the AAS Meeting
+in Chicago. For further information check AAS web pages and the
+National Academy page: http://www.nas.edu/bpa/projects/astrosurvey/radio/.
+Comments may be sent to radio@nas.edu.
+
+6666666666666666666666666666666666666666666666666666666666666
+6. IAU Colloquium 177: PULSAR ASTRONOMY - 2000 and Beyond  
+
+http://www.mpifr-bonn.mpg.de/div/pulsar/IAU177/
+
+IAU Colloquium No. 177               LOC: M.Kramer N.Wex R.Wielebinski
+Aug. 30th - Sept. 3rd  1999          email:  psr2000@mpifr-bonn.mpg.de
+
+77777777777777777777777777777777777777777777777777777777777777
+7. IAU Symposium 199: "THE UNIVERSE AT LOW RADIO FREQUENCIES"  
+
+This will be  held  during 30 November- 4 December 1999 at Pune, India.
+For further information and program see: 
+http://www.ncra.tifr.res.in/~iau199/
+
+8888888888888888888888888888888888888888888888888888888888888888
+8. Science with the Atacama Large Millimeter Array
+                                                                                 This will be held on October 6-8, 1999 at the Carnegie Institution of 
+Washington. For more information see: 
+http://www.mma.nrao.edu/science/science99.html
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: 	astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		    (or +02-2652-2020 ext 224, fax +02-2788-1106)
+To check the back issues:	   	 <http://asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
+

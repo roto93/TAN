@@ -1,0 +1,219 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Mar 28 13:24:20 2008
+Date: Fri, 28 Mar 2008 13:19:06 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Mar 26 - 28, 2008)
+
+==============================================================================
+
+In this issue (Mar 26 - 28, 2008)
+
+1. Second Asian Radio Astronomy School (Aug 18-22)
+2. NCU Astronomy colloquia (Mar 28): Chung-Sang Ng & Sujan Sengupta
+3. CFHT-Taiwan User's Meeting (Apr 11)
+
+==============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Subject: The Second Asian Radio Astronomy School (1st Announcement)
+> Date: Wed, 26 Mar 2008 15:43:20 +0800
+> To: astro@asiaa.sinica.edu.tw, riaa@asiaa.sinica.edu.tw
+
+                     Second Asian Radio Astronomy School
+                       Aug 18-22, 2008 at ASIAA, Taipei
+
+                             First Announcement
+
+Dear colleagues,
+
+	We are pleased to announce the Second Asian Radio Astronomy
+  School to be held on August 18-22, 2008 at Academia Sinica, Institute
+  of Astronomy and Astrophysics (ASIAA) in Taipei, Taiwan.
+
+	With the advance and growing number of both ground- and space-
+  based interferometric array facilities at radio, millimeter, and
+  submillimeter wavelengths, observational radio astronomy, particularly
+  at high angular resolution, has become increasingly important.  
+Sponsored
+  by ASIAA, this school is intended for students and scientists with  
+strong
+  interests in carrying out research with radio interferometric  
+facilities.
+  Basic knowledge in radio astronomy is preferred but not required  
+for the
+  attendants. The program will include lectures on the fundamentals  
+of radio
+  interferometry and a number of selected facilities such as VERA,  
+VSOP-2,
+  SMA, and ALMA, as well as hands-on exercises with real observational
+  data. All sessions will be conducted in English.
+
+	Due to the lecture hall and lodging capacity, the number of
+  attendant is limited to 100 people. Should there be too many  
+applicants,
+  priority will be given to applicants from Taiwan, Japan, and the East
+  Asian region.
+
+	ASIAA will provide shared accommodation for participants (except
+  those from Taipei city/county) during the school period from Aug  
+17th to
+  Aug 22th. Lunches and a banquet will also be arranged. Overseas
+  participants are expected to meet their own travel and other expenses.
+
+	Related information can be found on the school web page at
+  https://www.asiaa.sinica.edu.tw/act/radio_school/2008/.
+  Iquiries regarding the school can be made to the following e-mail
+  address, radio_school@asiaa.sinica.edu.tw
+	On-line registration will open on April 15th, 2007.
+
+  Important Dates :
+
+   March 26, 2007   : First Circular
+   April 15, 2007   : Second Circular; Tentative lecture program;
+                    : Online registration opens
+   June 15, 2007    : Registration Deadline
+   June 30, 2007    : Selection and announement of attendees (if  
+necessary)
+   August 01, 2007  : Final circular; Lecture material online
+   August 18, 2007  : School begins
+
+  Organizing Committee (in alphabetic order) :
+
+   Vivien Chen (NTHU)
+   Yoshiaki Hagiwara (Space VLBI, NAOJ)
+   Tomoya Hirota (VERA, NAOJ)
+   Daisuke Iono (U of Tokyo/NAOJ)
+   Ryohei, Kawabe (NRO, NAOJ)
+   Patrick Koch (ASIAA)
+   Chin-Fei Lee (ASIAA)
+   Sheng-Yuan Liu (ASIAA)
+   Shigehisa Takakuwa (ASIAA)
+
+==============================================================================
+
+> From: "Yu-Huei Wu" <yhwu@astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw, asall@canis.astro.ncu.edu.tw,
+> asall@astro.ncu.edu.tw, twhepnet@hepmail.phys.sinica.edu.tw
+> Subject: Colloquium this Friday (3/28)
+> Date: Wed, 26 Mar 2008 19:03:36 +0800
+
+Dear All,
+
+We are going to have two talks (One about brown dwarfs and another about plasma) this Fri.  Anyone 
+who is interested on talking with speakers can join our refreshment section (after 15.00) or lunch 
+(say, 12.00 wait outside the elevators, 10 F).
+
+*******************  Astronomy Colloquium  ************************
+***************  Institute of Astronomy, NCU  ***********************  
+03,28,2008 11:00-12:00 
+Speaker: Dr. Chung-Sang Ng
+The million-degree solar corona: How can it get so hot?		
+S4-1013
+The solar corona is basically the atmosphere of the sun, only that it is made out of plasma 
+(hightemperature ionized gas). One of the greatest mysteries in solar physics is how the solar corona 
+can be heated up to millions of degrees (Kelvins) while the photosphere (surface of the sun) is only 
+about six thousands degrees. Since the photosphere is much denser than the corona, its fluid motion 
+carries enough free energy to account for the heating rate. The problem becomes how to convert the 
+free energy of the photosphere to heat the corona. Over the years, there have been many coronal 
+heating theories. Many of them make use of the observed magnetic field as a medium for such 
+energy conversion. In this talk, I will give a brief introduction of this problem, and describe some 
+results from our theoretical investigation of this problem.
+
+03,28,2008 14:00-15:00 
+Speaker: Dr. Sujan Sengupta
+Polarization probes the dusty atmosphere of brown dwarfs			
+S4-1013
+Brown dwarfs enhabits the realm intermediate to less massive stars and giant planets. Depending on 
+their spectra, they are divided into two classes, the relatively hotter brown dwarfs belong to L dwarfs 
+and the brown dwarfs with clear signature of methane belong to T dwarfs. Due to incomplete 
+gravitational settling, the atmosphere of L dwarfs contains condensates of various species with grain 
+size ranging from sub-micron to a few tens of micron. In the present talk, I'll discuss how scattering 
+of radiation by dust particles gives rise to linear polarization in the optical and the observed 
+polarization data constrains the physical properties of dust as well as the oblateness of the 
+photosphere of L dwarfs.
+
+**********************************************************************
+
+Cheers,
+Yu-Huei
+
+-------------------------------------------------------------
+吳育慧 國立中央大學天文研究所 博士後
+
+Yu-Huei Wu, Post doc, Institute of Astronomy,NCU
+
+NCU Astro colloquium page:
+
+http://www.astro.ncu.edu.tw/contents/seminar/colloquium/sub.php?more=all
+
+Tel: 03-4227151-65953
+
+-------------------------------------------------------------
+
+--
+Open WebMail Project (http://openwebmail.org)
+
+==============================================================================
+
+> From: "Jeremy Lim" <jlim@asiaa.sinica.edu.tw>
+> To: kuan@asiaa.sinica.edu.tw
+> Cc: jlim@asiaa.sinica.edu.tw
+> Subject: please post in TAN
+> Date: Wed, 26 Mar 2008 16:41:21 +0800
+
+              CFHT-Taiwan User's Meeting, 11 April 2008
+
+
+Dear Taiwan CFHT Users,
+
+Since 2004, Taiwan's access to the Canadian-France-Hawaii Telescope (CFHT) has
+been open to Taiwan's astronomical community.  Since then and up to the end of
+2007, more than 60 proposals have been granted observing time, and a large
+fraction of these proposals
+successfully executed.  To date, there are only 2 publications based on these
+observations with the CFHT.
+
+To stimulate the community to first look at and then publish their data, and
+to identify problems that may stand in the way of doing this, we are calling a
+CFHT User's meeting on 11 April 2008, from 10 am to 12:30 pm (the time may be
+adjusted slightly if necessary), in Room 718 (conference room) at the ASIAA. 
+We anticipate that the format of this meeting will comprise primarily 15-20
+min talks, followed by an open forum to discuss issues that Taiwan's CFHT
+User's community would like to raise.
+
+We strongly encourage all Taiwan astronomers with useful CFHT data to present
+talks.  Even if the scientific interpretation is in its very early stages,
+show your results and explain what else needs to be done.  Prompt analyses and
+publication of previous CFHT observations is one criteria that the Taiwan CFHT
+TAC will increasingly use to grant
+observing time.  Please let Paul Hsieh (bchsieh@asiaa.sinica.edu.tw) known if
+you would like to attend, and the title of your talk, by 5 pm on 3 April.
+
+sincerely,
+Jeremy Lim (PI, Taiwan CFHT Program)
+Shiang-Yu Wang(co-PI, Taiwan CFHT Program)
+Paul Bau-Ching Hsieh (Chair, Taiwan CFHT User's Committee) 
+
+--------------------------------------------------------------
+Jeremy Lim
+Associate Research Fellow
+Institute of Astronomy & Astrophysics, Academia Sinica (ASIAA)
+Phone: 886-2-3365 2200 x727
+FAX: 886-2-2367 7849
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

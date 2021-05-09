@@ -1,0 +1,164 @@
+==============================================================================
+
+In this issue (Oct 03 - 08, 2015)
+
+1. Call for Proposals of VERA 2016A
+2. ASIAA Colloquium/Seminar/Lunchtalk (Oct 14): Chien-Feng Lee (ASIAA)
+                                      (Oct 15): Philipp Moesta (UC Berkeley)
+                                      (Oct 15): Ming-yi Lin (MPE)
+3. NTNU Astronomy Colloquium (Oct 13): Shing-Wen Lin (NCU)
+
+==============================================================================
+
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Tue, 6 Oct 2015 12:02:09 +0900
+> Subject: Call for Proposals of VERA 2016A
+> To: evntech@jb.man.ac.uk, vlbi@nrao.edu, vlbi@listmgr.cv.nrao.edu,
+>         merlin-announce@jb.man.ac.uk, astro@asiaa.sinica.edu.tw
+> Cc: azensus@mpifr-bonn.mpg.de,
+>        =?utf-8?Q?=EC=A1=B0=EC=84=B8=ED=98=95_Cho?= <cho@kasi.re.kr>,
+>        David.Jauncey@csiro.au, jromney@aoc.nrao.edu,
+>        Jongsoo Kim <jskim@kasi.re.kr>, gabuzda@caesar.ucc.ie,
+>        lgurvits@jive.nl, greenhill@cfa.harvard.edu, Philip.Edwards@csiro.au,
+>        moran@cfa.harvard.edu, Robert.A.Preston@jpl.nasa.gov,
+>        julvesta@aoc.nrao.edu, garrett@jive.nl, p222rwp@mpifr-bonn.mpg.de,
+>        r.bachiller@oan.es, f.colomer@oan.es, na.wang@ms.xjb.ac.cn,
+>        roy@oso.chalmers.se, jiyang@pmo.ac.cn,
+>        "H.Kobayashi Hideyuki" <hideyuki.kobayashi@nao.ac.jp>,
+>        atzioumi@atnf.csiro.au, mareki honma <mareki.honma@nao.ac.jp>,
+>        xhong@shao.ac.cn, zshen@shao.ac.cn, wm@ynao.ac.cn,
+>        "antao@shao.ac.cn An" <antao@shao.ac.cn>, xuye@pmo.ac.cn,
+>        Zhang.Ming@xao.ac.cn, =?utf-8?B?6rmA7ZiE6rWs?= <hgkim@kasi.re.kr>,
+>        =?utf-8?Q?=EC=86=90=EB=B4=89=EC=9B=90_Won_Sohn?= <bwsohn@kasi.re.kr>,
+>        =?utf-8?Q?=EB=B3=80=EB=8F=84=EC=98=81_Byun?= <bdy@kasi.re.kr>
+
+Dear Colleagues.
+
+I attached herewith an announcements of the call-for-proposals of
+the VERA for 2016A season.
+Please distribute this announcement to your community and encourage
+people to write proposals.
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+--------------------------------
+
+********************************
+Call for Proposals of VERA
+Deadline;  November 02, 2015, 08:00 UT.
+*********************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.
+Available observation time is up to 200 hours during the observation period
+from January 15th, 2016 to July 15th, 2016.
+Although it is limited to VERA array and  a single-beam mode,
+the 6.7 GHz ( C-band ) is opened on shared-risk basis.
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+                     Mareki Honma
+                     Director of Mizusawa VLBI  Observatory of NAOJ
+                        Email;  mareki.honma (at-mark) nao.ac.jp
+                        Phone; +81-197-22-7128
+
+==============================================================================
+
+> Date: Thu, 8 Oct 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chien-Feng Lee (ASIAA)
+Topic:          ALMA Band 1 Vacuum Leak Test
+Time:           10/14 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+
+*** CompAS Seminar ***
+____________________________________________________
+Speaker:        Dr. Philipp Moesta (UC Berkeley)
+Topic:          MHD-driven Supernovae in Three Dimensions
+Time:           10/15 (Thursday) 13:30 - 14:30
+Place:           R1108
+Abstract:
+Core-collapse in rapidly rotating, strongly magnetized progenitors may power some of the most luminous supernovae we observe and possibly set the stage for a subsequent long gamma-ray burst. I will present results from new three-dimensional (3D) general-relativistic magnetohydrodynamic (MHD) simulations. First, I will discuss how an m=1 kink instability of the ultra-strong toroidal magnetic field affects jet stability and the dynamics, geometry and nucleosynthetic signature of MHD-driven explosions. In the second part, I will discuss how MHD turbulence in rapidly rotating protoneutron stars can generate magnetar-strength magnetic fields that may help power hyper-energetic and super-luminous supernovae.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Ming-yi Lin (MPE)
+Topic:          Thick Disks of Dense Gas around the Nuclei of Nearby Seyfert Galaxies
+Time:           10/15 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+We will present the dense molecular gas in the central regions of nearby Seyfert galaxies, focusing on the HCN(1-0) and HCO+(1-0) molecules which have been observed by Plateau de Bure Interferometer (PdBI). In one remarkable case, NGC 3079, we will discuss the origins and implications for the double blue-shifted absorption lines. We combine our new data with similar observations in the literature to create a sample of 8 Seyferts with comparable data. In 7 of these, the emission line kinematics implies thick disk structures of 50-100pc scales, suggesting such structures are a common occurrence. We find a relation between the circumnuclear HCN luminosity and dynamical mass that can be explained by a gas fraction of ~10% and a conversion factor of ~10. Adopting a different perspective to probe the physical properties of the gas close around AGN, we report on an analysis of molecular line ratios which indicates that the clouds in this region are not self-gravitating. Finally (if!
+  it still has time), we will briefly introduce the current status of Swift-BAT AGN large program.
+
+==============================================================================
+
+> Date: Fri, 9 Oct 2015 03:53:09 +0800
+> From: "chenlw" <chenlw@ntnu.edu.tw>
+> Subject: NTNUES colloquium 13/Oct/2015: Colors and Rotation periods studies of main-belt asteroids
+
+* Teatime at S801-2 after the colloquium
+
+   Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         13/Oct/2015 14:20
+  Room S101, 1F, Research Building
+
+
+
+TITLE: Colors and Rotation periods studies of main-belt  asteroids
+
+SPEAKER: Shing-Wen Lin (NCU)
+         林省文 博士（中央大學天文所）
+
+
+ NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,59 @@
+From jlim@iaa11.asiaa.sinica.edu.tw Mon Aug 27 13:44 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA01100
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 27 Aug 2001 13:43:02 +0800 (CST)
+Received: from iaa11.asiaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by asiaa.sinica.edu.tw (8.9.3+Sun/8.9.3) with ESMTP id NAA26557;
+	Mon, 27 Aug 2001 13:34:49 +0800 (CST)
+Received: by iaa11.asiaa.sinica.edu.tw (8.9.3/8.9.3) id NAA26306;
+	Mon, 27 Aug 2001 13:42:10 +0800 (CST)
+Date: Mon, 27 Aug 2001 13:42:10 +0800 (CST)
+From: Dr Jeremy Lim <jlim@asiaa.sinica.edu.tw>
+Message-Id: <200108270542.NAA26306@iaa11.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw,
+        summer_students@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Cc: cydong@phys.ntu.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: HxbXYTFIoojDMq5LPhuMtQ==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 1650
+Status: R
+
+
+
+               * --------------------------------------- *
+               I  Institute of Astronomy & Astrophysics  I
+               I             ACADEMIA SINICA             I
+               I- ------------------------------------- -I
+               *          C O L L O Q U I U M            *
+               *                                         *
+               *******************************************
+
+
+                         31 August 2001 (Friday)
+         Room 716, Condensed Matter Science and Physics Building
+                              Taida Campus
+               (Corner of Hsin-Hi Rd. & Hsin-Sun South Rd.)
+
+
+            Colloquium (2:00 pm)
+
+            SPEAKER : Prof. Chen Yuan Dong
+                      (Dept. of Physics, NTU)
+                      
+            Title: Multiphoton Fluoresence Microscopy - 
+                     Bioimaging Deeper and Better
+                     
+            Abstract:  Since its introduction in 1990, multiphoton fluorescence 
+microscopy has developed into a major branch of modern optical microscopy. Based 
+on non-linear molecular excitation, multiphoton microscopy induces simultaneous 
+absorption of two or more near-infrared photons from fluorescent molecules. The 
+subsequent fluorescence emission from these molecules may be detected for 
+bioimaging applications. In this presentation, I will discuss the principles and 
+advantages of this technique along with applications in autofluorescent skin 
+imaging, transdermal drug delivery, and tissue engineering. I will conclude with 
+a description of future technical development of this technology in National 
+Taiwan University.
+

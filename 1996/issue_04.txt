@@ -1,0 +1,63 @@
+Issue 04 -- Date: Wed, 3 Jul 1996
+*********************************
+
+[Another demonstration of a PROPER usage of the TAN]
+
+Research Note: A (controversial) result of my recent study on astrology
+
+Believe it or not, or call it pseudo-science, here I have some 'hard'
+evidence supporting astrology:-)  Below I will present some statistics
+on the birthdays of the members of Chinese Astronomical Society:
+
+Month		number of people
+================================
+March		21
+April		20
+May		21
+June		20
+July		15
+August		20			mean+_sigma = 22.17+_5.38
+September	20
+October		20
+November	26
+December	29
+January		36
+February	18
+
+
+The statistics on 'professional' astronomers (admittedly the sample is 
+selected subjectively and is a subset of the parent sample used above):
+
+Month           number of people
+================================
+March           2      
+April           2
+May             1
+June            1
+July            2
+August          1              		mean+_sigma = 2.08+_1.44
+September       1
+October         2
+November        6
+December        4
+January         1
+February        2
+
+
+So will you come to the same conclusion as I did? :-)
+
+
+Cheers,
+Yi-Jehng Kuan
+
+
+ps: Warning:  the data presented are not normalized with the average birth 
+rates of the whole population.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+----------------------------------------------------------------------------
+

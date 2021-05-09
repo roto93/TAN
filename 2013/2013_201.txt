@@ -1,0 +1,375 @@
+============================================================================== 
+
+In this issue (Nov 04 - 12, 2013)
+
+1. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Collqm (Nov 12): Ue-Li Pen (CITA)
+2. ALMA: Call for Proposals for Cycle 2 (additional info)
+3. NTHU Astronomy Colloquium (Nov 15): Janet Ting-Wan Chen (Queen's U, Belfast)
+4. ASIAA Colloquium (Nov 13): Martha Boyer (GSFC)
+5. ALMA Proposal Writing Camp (Nov 14-15, 18) and Mock Proposal Review (Nov 19)
+
+==============================================================================
+
+> Date: Wed, 6 Nov 2013 12:59:17 +0800
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, November 12
+> From: "J.-P. Wu" <jpw750811@gmail.com>
+> To: swallow <swallow@phys.ntu.edu.tw>, whchen <whchen@gate.sinica.edu.tw>,
+>      astro <astro@asiaa.sinica.edu.tw>,
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held
+on November 12 (
+http://web.phys.ntu.edu.tw/jwc/2013_Fall_colloquia/Joint%20colloquia%20fall=
+%202013.html
+,backup
+site:
+http://homepage.ntu.edu.tw/~d01222003/Seminar3/Joint%20colloquia%20fall%202=
+013.html
+).
+
+The Joint Colloquium Series is organized by the NTU Physics Department,
+Center for Condensed Matter Science (CCMS), Leung Center for Cosmology and
+Particle Astrophysics (LeCosPA), Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA), and the Institute of Atomic and Molecular Sciences
+(IAMS).
+
+The idea is to have excellent speakers to give inspiring, informative, but
+non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on November 12.
+
+Best regards,
+
+Yen-Ting Lin (ASIAA)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Jiwoo Nam (LeCosPA)
+Juinn-Wei Chen (NTU-Phys)
+
+---------------------------------------------------------------------------=
+
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+
+Speaker: Ue-Li Pen (=B4^=AB=C2=C2=A7 =B1=D0=B1=C2)
+
+            (Associate Director, Canadian Institute for Theoretical
+Astrophysics)
+
+Topic : Astrophysical Tests of Quantum Gravity
+
+Time  : 11/12 (Tue.) 14:20 - 15:20
+
+Place : Room 104, CCMS-New Physics Building
+
+Abstract:
+I discuss possible observational consequences of quantum black holes. This
+year, the first pulsar in orbit about a black hole was discovered. We argue
+that some solutions to Hawking's information loss problem, for example
+fuzzballs, may result in changes of lensed pulsar coherence, analogous to
+the Aharonov-Bohm effect. We speculate on future experimental technologies
+which may improve the observational prospects.
+
+Brief Bio:
+Prof. Pen is a world renown cosmologist, working on a wide variety of
+topics ranging from cosmic string and topological defects,
+Sunyaev-Zel'dovich simulations, gravitational lensing, cosmic reionization
+and MHD simulations. He is also an expert on numerical simulation
+techniques and parallel computing. He was a NTU undergrad in math, obtained
+his PhD from Princeton University in 1995, and was a Harvard University
+Junior Fellow before joining the faculty at the University of Toronto and
+the Canadian Institute of Theoretical Astrophysics (CITA) in 1998. He is
+currently a Canadian Institute for Advanced Research senior fellow and the
+associate director of CITA. Recently his research is focused on
+cosmological applications of the hydrogen hyperfine transition 21-cm line,
+and pulsar scattering phenomena.
+
+------------------------------------------------------------
+
+==============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: ALMA: Call for Proposals for Cycle 2 (additional info)
+> Date: Wed, 6 Nov 2013 23:35:46 +0800
+> Cc: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>, riaa@asiaa.sinica.edu.tw,
+>    UCAT <almau@sgrb2.geos.ntnu.edu.tw>
+
+Dear Prospective Users,
+
+
+> Call for Proposals for ALMA Cycle 2
+>=20
+> The ALMA Director, on behalf of the Joint ALMA Observatory (JAO) and =
+the=20
+> partner organizations in East Asia, Europe, and North America, is
+> pleased to announce the Early Science Cycle 2 Call for Proposals =
+(CfP).
+> Members of the astronomical community are invited to propose for
+> scientific observations that will be scheduled from June 2014 to =
+October
+> 2015.
+
+Please use EA portal for Cycle 2 information.
+=
+http://almascience.nao.ac.jp/news/alma-cycle-2-call-for-proposals-is-now-o=
+pen
+
+ADDITIONAL INFO!!
+
+(1) Cycle 1 Duplication Checklist (added on Nov 6)
+http://almascience.nao.ac.jp/proposing/call-for-proposals/duplications
+
+Cycle 2 proposals will be checked for duplication against successful =
+Cycle 1=20
+(though not Cycle 0) projects. The duplication criteria are given in
+Section 7.2.2 of the Proposer's Guide:
+<http://almascience.org/proposing/call-for-proposals/proposers-guide#PG
+Sect7.2.2>.
+
+Cycle 2 PIs should avoid proposing the same targets with similar =
+observational=20
+parameters in their Cycle 2 proposals, or should explain clearly why the
+proposed observations would not constitute a duplication.
+
+(2) Observations of monitoring or predictable events with ACA.
+The ACA restriction listed in Section 9 of the=20
+"ALMA Capabilities page"
+http://almascience.nao.ac.jp/proposing/call-for-proposals/capabilities
+does not apply to observations of phenomena with predictable times and =
+for
+monitoring projects...
+Please check Knowledgebase article titled
+"If I observe a predictable phenomenon, is my project considered time =
+constrained?"
+on the science portal
+http://almascience.nao.ac.jp
+=
+https://help.almascience.org/index.php?/Knowledgebase/Article/View/224/0/i=
+f-i-observe-a-predictable-phenomenon-is-my-project-considered-time-constra=
+ined
+
+
+Best,
+Chin-Fei
+On behalf of the Taiwan ARC node
+
+==============================================================================
+
+> Date: Fri, 8 Nov 2013 17:48:24 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+############################################
+                  NTHU
+          Astronomy Colloquium
+############################################
+
+      2:20 p.m. 15 Nov. 2013 (Friday)
+      NTHU Physics Building, Rm620
+
+      Speaker: Janet Ting-Wan Chen
+              (Astrophysics Research Centre,
+                Queen's University Belfast)
+
+      Title: Super-Luminous Supernovae:
+            Giant Supernovae in Dwarf Hosts
+
+      Abstract:
+In this talk, I will introduce the supernova studies at QUB, our basic
+understanding of super-luminous supernovae and their host galaxies
+from several precious events, such as SN2010gx and PTF-12dam. We
+have found the host of SN2010gx to have a remarkably low
+metallicity (equal to 0.06 solar metallicity) as determined from
+the detection of the [OIII] f4363 line.
+
+We keep collecting more host galaxy samples, if the low
+metallicity is a common factor among them, it will be a major
+constraint on the progenitor channel of super-luminous supernovae,
+and also helps to explain the low intrinsic rates (~10^-4 of the
+core-collapse population) of the super-luminous supernovae detected
+so far.
+
+    Tea/Discussion Time is followed in the same room.
+
+                  All Welcome !!
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Martha Boyer (GSFC)
+Topic:        Towards Characterizing AGB Stars in the Magellanic Clouds
+Time:        11/13 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+When low- to intermediate-mass stars (0.8 < M < 8 M_sun) begin to
+ascend the asymptotic giant branch (AGB), pulsations levitate material
+from the stellar surface and provide density enhancements and shocks,
+encouraging dust formation and re-processing. This dust is
+subsequently released to the interstellar medium via a strong stellar
+wind driven mainly by radiation pressure on the grains. This dusty
+stellar wind causes AGB stars to radiate strongly in the near- to
+mid-infrared, potentially affecting measurements of star-formation
+histories of distant galaxies at these wavelengths.  The Spitzer
+Surveying the Agents of Galaxy Evolution (SAGE) survey of the
+Magellanic Clouds produced the first large-scale unbiased infrared
+observations of a large sample of AGB stars, enablng investigations
+into the dust production, the stellar evolution, and the luminosity
+contribution from these important stars. I will discuss some of the
+the SAGE AGB findings, and how the lessons from SAGE are being applied
+to investigations of AGB stars in other galaxies.
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________ 
+Speaker:    Ue-Li Pen (CITA)
+Topic:        astrophysical tests of quantum gravity
+Time:        11/12 (Tuesday) 14:20 - 15:10
+Place:        Room 104, CCMS-New Physics Building
+Abstract:
+I discuss possible observational consequences of quantum black holes.  This year, the first pulsar in orbit about a black hole was discovered.  We argue that some solutions to Hawking's information loss problem, for example fuzzballs, may result in changes of lensed pulsar coherence, analogous to the Aharonov-Bohm effect.  We speculate on future experimental technologies which may improve the observational prospects.
+
+==============================================================================
+
+> Subject: Reminder: ALMA Proposal Writing Camp and Mock Proposal Review
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Date: Tue, 12 Nov 2013 18:25:00 +0800
+> Cc: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>        UCAT <almau@sgrb2.geos.ntnu.edu.tw>, riaa@asiaa.sinica.edu.tw
+
+Dear All,
+
+        We would like to remind you the following 2 ALMA-T activities =
+this week and next week:
+
+      1) Proposal Writing Camp
+
+    The Taiwan ARC node will host an ALMA Proposal Writing Camp at =
+ASIAA. The purpose is to help users sharpen and polish the proposals =
+well before the deadline for the mock review as well as the final =
+submission. The camp will be held on Nov 14, 15, and 18 from 9am to 5pm =
+on each day in room 1107. One to two ARC members will be one-site for =
+providing technical advices, and an English editor will be around for =
+grammatical suggestions.
+
+    2) Mock Proposal Review
+
+    As in previous cycles, a mock proposal review for Taiwan users =
+will be held to encourage prospective users get the proposals prepared =
+early.  All Taiwanese users are welcome to submit their proposals. Full =
+proposal, including scientific and technical justification, figures and =
+tables, is required for the review; technical and scientific comments =
+will feedback to the PIs afterwards so that PIs can incorporate the =
+comments into proposal revision before their final submission.
+    The proposal submission deadline for the mock review will be on =
+Nov 19th, and feedbacks to the PIs will be provided on Nov 26th.
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC node
+  =20
+On Oct 25, 2013, at 11:50 AM, CF Lee wrote:
+
+> Dear colleagues,
+>=20
+>     As the ALMA Cycle 2 call for proposal has just been announced, =
+ALMA Taiwan ARC node will make  efforts in helping users submit their =
+best proposals. In doing so, the following steps will be taken: (1) Call =
+for ALMA Taiwan Notice of Intent, (2) ALMA-T User Workshop, (3) Proposal =
+Writing Camp, and (4) Mock Proposal Review.=20
+>=20
+>     1) *** Call for ALMA Taiwan Notice of Intent (NoI) ***
+>=20
+>     Prospective users are STRONGLY advised to submit a Notice of =
+Intent to Taiwan ARC about your proposal plan. We appreciate those =
+colleagues who have already copied to us their earlier NoI submissions =
+to JAO. For colleagues who plan to submit ALMA proposals but have not =
+notified Taiwan ARC, please send in your proposal information as the =
+following to "arc@asiaa.sinica.edu.tw" by November 1st (Friday).
+>=20
+>     ALMA-T Notice of Intent:
+>     PI : (e.g. Carl)
+>     Proposal title : (e.g. The Search of ET)
+>     Brief proposal objective and plan : (e.g. Target Vega at H2O =
+maser bands)
+>     Submission Path : (e.g. North America)
+>=20
+>     2) *** ALMA-T User Workshop ***
+>=20
+>     The Taiwan ARC node will organize jointly with UCAT an user =
+workshop to be held on Nov 8th (Friday), in which updates about the ALMA =
+project status, cycle 2 capabilities and CASA software will be provided. =
+Further details and registration information will be announced =
+separately very soon.
+>=20
+>     3) *** Proposal Writing Camp ***
+>=20
+>     The Taiwan ARC node will host an ALMA Proposal Writing Camp at =
+ASIAA. The purpose is to help users sharpen and polish the proposals =
+well before the deadline for the mock review (see item 3) as well as the =
+final submission. The camp will be held on Nov 14, 15, and 18 from 9am =
+to 5pm on each day in room 1107. One to two ARC members will be one-site =
+for providing technical advices, and an English editor will be around =
+for grammatical suggestions.
+>=20
+>     4) Mock Proposal Review :
+>=20
+>     As in previous cycles, a mock proposal review for Taiwan users =
+will be held to encourage prospective users get the proposals prepared =
+early.  All Taiwanese users are welcome to submit their proposals. Full =
+proposal, including scientific and technical justification, figures and =
+tables, is required for the review; technical and scientific comments =
+will feedback to the PIs afterwards so that PIs can incorporate the =
+comments into proposal revision before their final submission.
+>     The proposal submission deadline for the mock review will be on =
+Nov 19th, and feedbacks to the PIs will be provided on Nov 26th.
+>=20
+>     5) Important Dates=20
+>=20
+>     Nov  1 : Deadline for ALMA Taiwan Notice of Intent
+>     Nov  8 : ALMA-T User Workshop
+>     Nov 14 : Proposal Writing Camp
+>     Nov 15 : Proposal Writing Camp
+>     Nov 18 : Proposal Writing Camp
+>     Nov 19 : Mock Proposal Review Submission Deadline
+>     Nov 26 : Mock Proposal Review Feedbacks to PIs
+>     Dec  5 : ALMA Cycle 2 Proposal Submission Deadline
+>=20
+>     Again, the steps are to encourage users to get the proposals =
+prepared as early as possible. Please note down the related dates and =
+participate the events. Contact ARC members at arc@asiaa.sinica.edu.tw =
+if you have any question.
+>=20
+> Best,
+> Chin-Fei
+> On behalf of Taiwan ARC node.
+>=20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

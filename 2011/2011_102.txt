@@ -1,0 +1,131 @@
+Date: Fri, 01 Jul 2011 04:20:30 +0800
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 15 - 30, 2011)
+
+==============================================================================
+
+In this issue (Jun 15 - 30, 2011)
+
+Sorry ... all late news in this issue. Just for TAN record. -- YJK
+1. ALMA Tutorial Talk on Splatalogue (Jun 22): Anthony Remijan,
+                            North American ALMA Science Center
+(NAASC)/NRAO
+2. ASIAA Special Seminar (Jun 27): Greg Herczeg (MPE)
+
+==============================================================================
+
+      Date: Mon, 20 Jun 2011 15:56:55 +0800 (CST)
+
+      From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+
+      To: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+
+      Subject: ALMA Tutorial Talk on Splatalogue (Jun 22, 12:30pm)
+
+
+Dear ALMA Potential Proposers,
+
+   We will have a tutorial talk on Splatalogue, which is the ALMA Spectral
+Line Catalogue, given on this Wednesday noon by Anthony Remijan from NRAO.
+See below for the details. Please join!
+
+   Thank you very much!
+
+Chin-Fei
+On behalf of ARC-T Node
+
+-------------------------------------------------------------------------
+Title: Splatalogue as a tool for diagnosing the physical and chemical
+       environments
+
+Speaker: Anthony Remijan, North American ALMA Science Center (NAASC)/NRAO
+
+Date: Wednesday (6/22)
+Time: 12:30pm to 1:15pm
+Place: ASIAA Room 1203
+
+The next generation of powerful radio and millimeter/submillimeter
+observatories (e.g. EVLA, GBT, ALMA, SOFIA, Herschel, etc...) require
+extensive resources to help identify spectral line transitions. We
+describe
+the compilation of the most complete spectral line database currently
+assembled for this purpose. The Splatalogue is an attempt to collate,
+rationalize and extend existing spectroscopic resources for use by the
+astronomical community. Splatalogue is a transition-resolved compilation
+of
+the publically available spectral line catalogs as well as individual
+contributions from spectroscopists worldwide. To these databases we have
+run
+diagnostics for overlaps on transitions, frequencies, formulae and
+chemical
+names and have come up with a common way to display and designate each
+individual species. Splatalogue also contains atomic and recombination
+lines, template spectra, and is completely VO-compliant, queryable under
+the
+IVOA SLAP standard. It also recommends one frequency for use by the
+astronomical community for each observed transition of known astronomical
+molecules. The question that remains is how this database, or any other
+spectral line catalog, can be utilized to determine the fundamental
+questions still unanswered in star formation and galaxy evolution? In
+addition to describing the details of the database and how users can get
+access to the database, this presentation will also highlight some recent
+observations that may violate the standards of identifying molecular
+species
+in astronomical environments and what lies ahead for determining the
+overall
+molecular complexity of the universe.
+
+==============================================================================
+
+      Date: Sun, 26 Jun 2011 08:00:01 +0800
+
+Message-Id: <201106260000.p5Q001ZY012609@cloudy1.asiaa.sinica.edu.tw>
+      To: iaa@asiaa.sinica.edu.tw
+
+      Subject: Colloquium/special seminar this week
+
+      From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+
+      cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________
+Speaker: No colloquium this week (Due to summer student program kick-off)
+Topic:
+Time: 7/1 (Friday) 14:00 - 15:00
+Place: ASMAB R1203
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________
+Speaker: Dr. Greg Herczeg (MPE)
+Topic: Observational diagnostics of accretion onto young low-mass stars
+Time: 6/27 (Monday) 14:00 - 15:00
+Place: ASMAB R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in
+Taiwan.
+      Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:       kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia
+Sinica.
+-----------------------------------------------------------------------------
+
+
+

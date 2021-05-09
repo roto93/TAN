@@ -1,0 +1,46 @@
+> Date: Mon, 3 Dec 2012 10:50:56 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+#############################################
+                    NTHU
+            Astronomy Colloquium
+#############################################
+
+      2:20 p.m. 7th Dec. 2012 (Friday)
+        NTHU Physics Building, Rm 620
+
+      Speaker: Tao-Chung Ching
+                (NTHU)
+
+  Title: Modeling Magnetic Fields in Protostellar Cores
+        from Interferometeric Polarization Measurements
+
+      Tea/Discussion Time is followed in the same room.
+                  All Welcome !!
+
+Abstract:
+We compare high-angular resolution observations of submillimeter
+dust polarization of NGC1333 IRAS 4A with empirical density and
+magnetic field models in protostellar cores. With the assumptions of
+constant dust property and small dust alignment efficiency, we compute
+the Stokes I,Q, and U maps of the empirical models and convolve them with 
+interferometer responses to generate polarization maps. The best-fit
+density model is obtained with comparisons of modeled and observed Stokes 
+I visibilities, and the goodness of magnetic field models is evaluated by 
+the residuals between the polarization angles on the modeled and
+observed maps. The effects of viewing angle are also tested in our 
+simulations. Our results show that hourglass structures alone
+cannot reproduce the depolarization effect in NGC1333 IRAS 4A if the 
+inclination angle is indeed as small as what have been inferred
+from the outflow line-of-sight velocity and proper motions. Our analysis 
+suggests that the magnetic fields of NGC1333 IRAS 4A might have
+an hourglass structure at scales of few hundred AU along with a smaller 
+toroidal component around the protostars. The modified field geometry is 
+in agreement with the theoretical expectation of rotating magnetized
+collapsing cores.
+
+==============================================================================
+

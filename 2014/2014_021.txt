@@ -1,0 +1,31 @@
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 16 Feb 2014 08:00:02 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Misato Fukagawa (Osaka University)
+Topic:        Protoplanetary disks around intermediate-mass stars at high angular resolution
+Time:        2/18 (Tuesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+I present our recent results of imaging of circumstellar disks around Herbig Fe/Ae stars with Subaru and ALMA. Observations of such young disks are critically important to understand how disks evolve possibly under the mutual interaction with new-born planets. One of the observational approaches is direct imaging in scattered light. In our Subaru observations, the technique of polarization differential imaging enabled us to look into the inner region as close as 0.2 arcsec (30 AU) in radius with the typical angular resolution of 0.06 arcsec (8 AU). The imagery has newly uncovered rich structures such as spiral arms, inner holes, and gaps for (pre-)transitional disks while suggested the variably illuminated disks for primordial systems. On the other hand, submillimeter observations are powerful to constrain disk density structure. In our ALMA observations of a Herbig Fe star at 340 GHz, the outer disk was readily resolved in dust continuum and molecular lines of 13CO(3-2) and 
+C18O(3-2), with an angular resolution of about 0.4 arcsec (60 AU). The dust continuum shows strong azimuthal asymmetry and the inferred surface density at the brightness peak suggests gravitational instability if a gas-to-dust mass ratio is 100. Alternatively, a lower gas-to-dust ratio is possible, and in this case, grain accumulation is expected, which may lead to efficient formation of rocky bodies.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Dr. Mario Pasquato (Yonsei University)
+Topic:        A stellar encounter model for RGB mass loss
+Time:        2/20 (Thursday) 13:15 - 14:15
+Place:        R1108
+Abstract:
+I review Horizontal Branch (HB) morphology data that suggest a relation between hot horizontal branches and the dynamical state of Globular Cluster (GC) cores in the Milky Way, and elaborate on how this is related to the so called second-parameter problem. Based on this I introduce a simple model where stellar interactions during the RGB phase are partly responsible for enhancing mass-loss, shaping the resulting HB morphology. I summarize my group's efforts towards quantifying this effect, including hydrodynamic simulations as well as impulsive-mass-loss stellar evolutionary models.
+
+==============================================================================

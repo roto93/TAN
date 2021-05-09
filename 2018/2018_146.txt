@@ -1,0 +1,43 @@
+
+> Date: Thu, 27 Sep 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Jia-Yu Ou (NCU)
+Topic:          Refining period of a Mira in M33 with OGLE data analysis.
+Time:           10/1 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+[HBS 2006] 40671 is a confirmed long period Mira found in M33.Using observed light curves from Hartmann et al (2006) data, Barsukova et al. (2011) found a period of 665 day for this Mira. In addition to Hartmann's data (2005~2006), we also collected PTF (Palomar Transient Factory) data taken from 2009 to 2016. Combining these two datasets that spanned ~10 years can be used to refine the period of this Mira. Based on the combined light curve, we found that this Mira could exhibit a long secondary variation. To aid in our investigation, we collected known Mira light curves data from the OGLE and LAMOST/ASAS database. According to the OGLE Mira, we found majority of Mira light curves are composed with a short pulsation period and a long secondary variation. We also use machine learning to classify these OGLE Mira target. Hence we also tried to look for additional features in Mira light curves using our method, and compared to the light curve of [HBS 2006]40671 to refine its pul!
+ sation period and to determine its long secondary period, hence we also tried to look for additional features using our method,and compared to the light curve of [HBS 2006]40671. Therefore, we can use those information to refine the short period and find out the long term variation. In this work, we present our latest investigation on the period refinement of this Mira.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Misao Sasaki (IPMU/YITP/NTU)
+Topic:          Gravitational wave cosmology
+Time:           10/3 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Since the first detection of gravitational waves from coalescing
+binary black holes by LIGO on 14 September, 2015, we have
+entered a new ear of gravitational wave astronomy.  In addition to
+this tremendous success in the direct detection of gravitational waves,
+there is also impressive progress toward the detection of primordial
+gravitational waves through the B-modes polarization of cosmic microwave
+background anisotropies. These developments will upgrade the current
+level of cosmology to an unprecedented level, where gravitational waves
+play the central role, which I call "gravitational wave cosmology".
+In this lecture, I discuss the current status and future prospects
+of gravitational wave cosmology.
+
+==============================================================================

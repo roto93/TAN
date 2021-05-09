@@ -1,0 +1,212 @@
+From kyl@biaa.sinica.edu.tw Wed Nov 26 16:02 CST 1997
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA19568; Wed, 26 Nov 1997 16:00:23 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id PAA06402; Wed, 26 Nov 1997 15:59:42 +0800
+Date: Wed, 26 Nov 1997 15:59:42 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: Announcement of COSPAR Meeting in Nagoya, Japan (fwd)
+Message-Id: <Pine.GSO.3.96.971126155938.6387B-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 10993
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Mon, 24 Nov 1997 15:18:33 -0500
+From: Luis Ho <lho@coyote.harvard.edu>
+To: lho@cfa.harvard.edu
+Subject: Announcement of COSPAR Meeting in Nagoya, Japan
+
+Dear Colleague,
+     
+     We would like to announce an exciting session that
+we are organizing as part of the 32nd COSPAR meeting next July (12-18)
+in Nagoya, Japan on "The Connection Between Normal and Active Galaxies."
+We believe that this session will provide a rare opportunity for
+rich scientific interactions between the researchers in both normal and 
+active galaxies.  This message is being sent to potentially interested 
+astronomers; please circulate it among your colleagues in case we have 
+neglected to include them in the mailing list.
+
+     The meeting currently has been allocated only one and a half days.  In 
+light of the preliminary agenda (see below) and the interest so far expressed 
+by some of you, we are hoping to extend the meeting to three full days.
+
+     We encourage the submission of abstracts both for contributed
+talks and for posters.  Abstracts are due by January 9th, and
+should be sent simultaneously to kinney@stsci.edu (or fax number
+410-338-4579) and to the COSPAR central office (cospar@copernicus.org,
+or fax number 49-5556-4709).  The tex form and style file can be
+retrieved from the web address given above.  All participants 
+who want to present results must submit abstracts.  
+      
+     A description of the meeting is given below, along with
+a preliminary agenda.  Full details of the meeting can be found
+at the web site http://www.copernicus.org/COSPAR/.   
+ 
+                                  Sincerely,   
+                                  Organizing Committee,
+                                  Luis Ho, 
+                                  Satoru Ikeuchi, 
+                                  Anne Kinney,
+                                  Henrique Schmitt, 
+                                  Yutaka Uchida
+------------------------------------------------------------------
+                The AGN/Normal Galaxy Connection
+               Session E1.2, 32nd COSPAR Meeting
+
+ 
+Goals and Motivation for the Meeting
+-------------------------------------
+   The main goal of this meeting is to build a framework for discourse on the 
+connection between "normal" and "active" galaxy populations and the role of 
+black holes in that connection.  This will set the stage for future 
+discussions on the cosmological and physical evolution of both active galactic 
+nuclei (AGNs) and normal galaxies, fields that are anticipated to undergo 
+rapid progress with the current and near-future generation of space-based and 
+large ground-based telescopes.
+
+Evidence for Accretion-Powered Activity in Galaxies
+---------------------------------------------------
+    Two recent, parallel developments independently point to the prevalence of 
+supermassive black holes (SMBHs) in the centers of nearby galaxies.  On the one 
+hand, evidence has been slowly accumulating through high-resolution kinematic
+observations that massive dark objects, most likely black holes, appear to 
+be quite common, at least in the relatively small samples studied so far. 
+The kinematic evidence has been bolstered by photometric studies of 
+early-type galaxies using the HST that suggest that perhaps most or all 
+bulge-dominated systems contain SMBHs. One of the most remarkable findings 
+of these studies is that the SMBH mass appears to be correlated with the 
+mass of the bulge of the host galaxy.  On the other hand, ground-based surveys 
+of nearby galaxies at optical and radio wavelengths have increasingly 
+furnished evidence that a large fraction of galaxy nuclei, especially those 
+in bulge-dominated systems, contain low-level nuclear activity qualitatively 
+resembling much more powerful active galactic nuclei (AGNs) such as those 
+found in "classical" Seyfert galaxies, radio galaxies, and quasars.  Within 
+the conventional AGN paradigm, the observed widespread nuclear activity 
+implies that SMBHs are a generic component of many present-day massive
+galaxies, consistent with the picture emerging from the kinematic studies.
+We aim to provide a comprehensive update of the status of AGN surveys 
+both at low and high redshifts.  
+
+Properties of the Host Galaxy and Clues to the Formation of SMBHs
+-----------------------------------------------------------------
+    The apparent prevalence of SMBHs in nearby galaxies opens up a suite of 
+fascinating problems.  Do *all* galactic bulges, large and small, contain 
+SMBHs?  If only some do, why are some galaxies so endowed and others not?   
+Are SMBHs an inevitable by product of the formation or evolution of bulges?  
+The suggested correlation between the masses of SMBHs and the masses of 
+the spheroidal component of the host galaxies, if borne out by additional 
+observations that are soon to become available from the Space Telescope 
+Imaging Spectrograph on HST, will represent a truly astounding breakthrough 
+in our understanding of nuclear activity.  
+
+     How are SMBHs formed?  The dependence of the detection rate of AGNs
+on the morphological type of galaxies, as well as the possible existence of 
+a correlation between black hole mass and bulge mass, strongly suggest that 
+significant clues may be found in examining the properties of bulges.
+Evidence has been mounting that the central regions of galaxies which 
+clearly have bulges exhibit light profiles that broadly fall into one of 
+two families. These data suggest that the spheroidal components in 
+galaxies may arise via different paths during the process of galaxy formation 
+(e.g., dissipative vs. non-dissipative mergers), and it is therefore 
+reasonable to postulate that the properties of the SMBH (e.g., its mass), or, 
+indeed, its very presence, might depend on the galaxy's evolutionary history.  
+Progress in these issues will require the participation of theorists 
+expert in galaxy formation and in the physics of very dense stellar clusters.  
+SMBHs might be seeded and ultimately grow from the normal formation and 
+evolution of galactic bulges.  
+
+     We will encourage a critical discussion of the latest photometric studies 
+of the structure of nearby galactic bulges, of the properties of our own 
+Galactic Center, of Seyfert galaxies, and of more distant quasars. The 
+kinematic searches for SMBHs will be introduced to shed light on the 
+connection between the presence of massive dark objects and the structure of 
+the central regions of galaxies.  We will congregate theorists interested in 
+the building galaxy bulges and in the formation and evolution of dense stellar 
+systems.
+
+Feeding the Central Engine
+--------------------------
+    This meeting will also provide a forum to address another longstanding, 
+related issue in AGN research, namely how the SMBH is fueled.  The most 
+promising ideas will be reviewed in light of the recent observations emerging 
+from high-resolution studies of the gas content in nearby galaxies.  
+
+    The standard optically thick, geometrically thin disk has provided a fairly
+successful framework for describing the accretion process in AGNs.  It has 
+recently been realized, however, that this paradigm is probably inappropriate 
+for most nearby, low-luminosity, low-accretion rate systems.  AGNs such as 
+those in M81, NGC 4258, and M87 emit markedly different spectral energy 
+distributions compared to those in luminous AGNs.  This departure possibly 
+signals a different regime in accretion physics, one that has received 
+relatively little in the context of AGNs.  The most promising models so far 
+advanced are those pertaining to "advection-dominated" accretion flows, and 
+we intend to incorporate these timely developments into the overall program.  
+
+
+                           PRELIMINARY AGENDA
+
+Activity in the Context of Normal Galaxies:
+____________________________________________________________________________
+Tim Heckman*      JHU        Review of Standard Picture on Mergers
+Luis Ho           Harvard    Evidence for Activity in Galaxies in the 
+                             Local Universe
+Elaine Sadler     U Sydney   Activity in Elliptical Galaxies
+H. Awaki          U Kyoto    X-ray Properties of AGN Compared to Those
+                             of Normal Galaxies
+John Mackenty     STScI      Seyferts With and Without Activity
+Satoru Ikeuchi    U Osaka    Feedback of AGN Turn-on in Galaxies
+Dani Maoz*        U Tel Aviv Are LINERs Starbursts, or AGNs?
+Zoltan Haiman*    Harvard    The First Objects in the Universe
+
+The Role of Black Holes:
+__________________________________________________________________________
+Sandy Faber       UCSC       Demographics of Black holes
+George Lake       U Wash     Bulges and Black holes
+Mark Morris*      UCLA       Our Galactic Center: The Best Candidate for
+                             a Black Hole
+
+The Role of Mergers and Fueling:
+____________________________________________________________________________
+Sumio Ishizuki    NAO Tokyo  Cold Gas Content of Galaxies and its 
+                             Relation to Fueling
+Yoshiaki Sofue*   U Tokyo    Dynamics and Kinematics of Inner Regions of Spirals
+                             and its Relation to Mass in the Inner Bulge
+TBA                          On the fueling of nuclei & especially the effect
+                             of Bars on this Process
+Shin Mineshige   U Kyoto     Advection-Dominated Accretion; Low Luminosity
+                             Objects Can Contain Supermassive Black Holes!
+Yutaka Uchida Dept.Physics, Science U of Tokyo
+                             Magnetodynamical Mechanism for Jet Formation from
+                             the Interaction of Large Scale Magnetic Field
+                             with Accretion Disk
+Masafumi Noguchi  U Tohoku   The effects of Mergers on Galaxies
+TBA                          Formation of Compact Star Clusters
+                             and Their Evolution into Black Holes
+Mitch Begelman*   JILA, CO   Fueling and Cycle Time of Black Holes
+                                        
+Galaxies Hosting Activity:
+________________________________________________________________________
+Kim McLeod*       Wellesley  Review of Recent Developments in Host
+                             Galaxy Imaging
+James Dunlop      IfA, Edin. Host Galaxies in the Near IR
+Meg Urry*         STScI      Blazar Host Galaxies
+Buel Jannuzi*     NOAO       Blazar Host Galaxies
+Don Schneider*    U Penn     Quasar Host Galaxies
+Mike Disney*      U Wales    Quasar Host Galaxies
+Ski Antonucci*    UCSB       MM-wave Line and Continuum Images of
+                             Quasar Hosts
+Joe Miller*       UCSC       Spectroscopic Results on Host Galaxies
+_________________________________________________________________________
+Andy Lawrence     IfA, Edin. Summing up: Active Versus Normal
+_________________________________________________________________________
+* Not yet committed to speak.
+
+

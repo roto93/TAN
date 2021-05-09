@@ -1,0 +1,147 @@
+From kyl@asiaa.sinica.edu.tw Thu Aug  5 09:43 CST 1999
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA09557
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 5 Aug 1999 09:43:17 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA21161
+	for <astro@asiaa.sinica.edu.tw>; Thu, 5 Aug 1999 09:41:10 +0800
+Date: Thu, 5 Aug 1999 09:39:40 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: [Fwd: IAP2000MEETING] (fwd)
+Message-ID: <Pine.SOL.4.10.9908050939380.24077-110000@iaa3>
+MIME-Version: 1.0
+Content-ID: <Pine.SOL.4.10.9908050939381.24077@iaa3>
+Content-Type: MULTIPART/Mixed; BOUNDARY=------------9B817EE5786E76CA622CE64C
+Content-Length: 4287
+Status: RO
+
+  This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+  Send mail to mime@docserver.cac.washington.edu for more info.
+
+--------------9B817EE5786E76CA622CE64C
+Content-Type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-ID: <Pine.SOL.4.10.9908050939382.24077@iaa3>
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 05 Aug 1999 09:12:35 +0800
+From: Stephane Leon <sleon@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Subject: [Fwd: IAP2000MEETING]
+
+ 
+
+--------------9B817EE5786E76CA622CE64C
+Content-Type: MESSAGE/RFC822; CHARSET=US-ASCII
+Content-ID: <Pine.SOL.4.10.9908050939383.24077@iaa3>
+Content-Description: 
+Content-Disposition: INLINE
+
+Return-Path: <"MESIOB::IN%\"warin@iap.fr\""@mesioa.obspm.fr>
+Received: from mesiob.obspm.fr (mesiob.obspm.fr [145.238.2.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id EAA20646
+	for <sleon@asiaa.sinica.edu.tw>; Thu, 5 Aug 1999 04:28:15 +0800
+From: "MESIOB::IN%\"warin@iap.fr\""@mesioa.obspm.fr
+Received: from mesunb.obspm.fr by MESIOB.OBSPM.FR (PMDF V4.2-14 #2584) id
+ <01JEDWBMI5R400D18T@MESIOB.OBSPM.FR>; Wed, 4 Aug 1999 22:29:42 +2
+Received: from mesiob.obspm.fr by mesunb.obspm.fr (SMI-8.6/SMI-SVR4) id
+ WAA08389; Wed, 4 Aug 1999 22:26:38 +0200
+Received: from DECNET-MAIL (DECNET_MAIL@MESIOA) by MESIOB.OBSPM.FR (PMDF
+ V4.2-14 #2584) id <01JEDWBFAOKW00CFII@MESIOB.OBSPM.FR>; Wed,
+ 4 Aug 1999 22:29:33 +2
+Date: Wed, 04 Aug 1999 22:29:33 +0002
+Subject: IAP2000MEETING
+To: sleon@mesunb.obspm.fr
+Message-id: <01JEDWBFB6HE00CFII@MESIOB.OBSPM.FR>
+X-VMS-To: IN%"sleon@mesioa.obspm.fr"
+MIME-version: 1.0
+Content-type: TEXT/PLAIN; CHARSET=US-ASCII
+Content-transfer-encoding: 7BIT
+X-Mozilla-Status2: 00000000
+
+Return-path: <warin@iap.fr>
+Received: from cairanne.iap.fr by MESIOB.OBSPM.FR (PMDF V4.2-14 #2584) id
+ <01JEDWB7NI1C00CGAV@MESIOB.OBSPM.FR>; Wed, 4 Aug 1999 22:29:22 +2
+Received: from graves.iap.fr (graves [194.167.0.5]) by cairanne.iap.fr
+ (8.8.8/jtpda-5.2.9.2) with ESMTP id WAA01119 for <sleon@mesioa.obspm.fr>; Wed,
+ 4 Aug 1999 22:26:17 +0200 (MET DST)
+Received: from (warin@localhost) by graves.iap.fr (8.8.8/jtpda-5.2.9.1) id
+ WAA15054 for sleon@mesioa.obspm.fr; Wed, 4 Aug 1999 22:26:10 +0200 (MET DST)
+Date: Wed, 04 Aug 1999 22:26:10 +0200 (MET DST)
+From: warin@iap.fr (Francoise Warin)
+Subject: IAP2000MEETING
+To: sleon@mesioa.obspm.fr
+Message-id: <199908042026.WAA15054@graves.iap.fr>
+MIME-version: 1.0
+Content-type: TEXT/PLAIN
+Content-transfer-encoding: 7BIT
+
+
+Dear Colleague,
+
+We believe that it is now the time to organise an `unspecialized' meeting
+devoted to groups and clusters in relation with cosmology.
+
+
+We therefore have the pleasure of announcing the XVIth IAP meeting
+
+
+        CONSTRUCTING THE UNIVERSE WITH CLUSTERS OF GALAXIES
+
+
+Planned on the week of July 3, 2000 at the Institut d'Astrophysique,
+Paris France
+
+
+The various topics to be covered are:
+
+        Cluster formation
+        Physics and observations of the intra-cluster medium:
+                cooling flows, multiphase models, temperature gradients,
+                cooling and heating processes, magnetic field,
+                cosmic rays
+        Dark matter: simulations and observations (X-rays,
+                     Sunyaev-Zel'dovich effect)
+        Galaxies in clusters: luminosity functions, segregation,
+                differences with field galaxies
+        The future: instruments, numerical simulations,
+        et coetera.
+
+
+The Scientific Organizing Committee members are:
+
+M. Arnaud, R. de Carvalho, G. Evrard, A. Fabian, W. Forman, M. Geller, 
+I. Gioia, N. Kaiser, Y. Rephaeli, E. Salvador Sole, J. Silk, Y.Tanaka, S.White
+
+
+The Technical Organizing Committee members are :
+
+B. Raban (secretariat), X. Nathan, L. Provost, N. Royer, F. Warin
+
+
+Information will be available on http://www.iap.fr/Conferences
+
+
+Looking forward to seeing you in Paris next year
+
+Daniel Gerbal (organizer)
+Florence Durret (co-organizer)
+
+
+--------------9B817EE5786E76CA622CE64C--
+

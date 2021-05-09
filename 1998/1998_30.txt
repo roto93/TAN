@@ -1,0 +1,825 @@
+From kyl@biaa.sinica.edu.tw Thu Feb 12 05:47 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA27419; Thu, 12 Feb 1998 05:45:54 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id FAA27821; Thu, 12 Feb 1998 05:43:44 +0800
+Date: Thu, 12 Feb 1998 05:43:44 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: IAU Symp 190 - 2nd Announcement (fwd)
+Message-Id: <Pine.GSO.3.96.980212054340.27807C-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 33873
+
+
+
+---------- Forwarded message ----------
+Date: Tue, 10 Feb 1998 12:30:21 -0600 (CST)
+From: MC News <mcnews@astro.uiuc.edu>
+To: mcnews-l@astro.uiuc.edu
+Subject: IAU Symp 190 - 2nd Announcement
+Resent-Date: Tue, 10 Feb 1998 12:30:47 -0600 (CST)
+Resent-From: mcnews-l@astro.uiuc.edu
+
+
+                            IAU SYMPOSIUM 190
+
+                    NEW VIEWS OF THE MAGELLANIC CLOUDS
+
+                    Victoria, Canada; 12 - 17 July 1998
+
+
+                     http://cadcwww.hia.nrc.ca/iau190/
+
+=============================================================================
+
+                           SECOND ANNOUNCEMENT
+
+Greetings!  We are pleased with the large number (~200) of prospective
+participants in our symposium.  This second announcement includes some details 
+of the meeting venue, travel to Victoria, special events we have planned, and 
+accommodation arrangements.  Also included are registration, abstract 
+submission, and travel grant application forms.  Please return the forms to 
+the indicated addresses before the deadlines given in the timetable below.
+
+We encourage you to view our web page at http://cadcwww.hia.nrc.ca/iau190/.
+Here you will find more local information and somewhat more convenient WWW 
+versions of each of the forms reproduced below.  This site will also be 
+updated regularly with details of the scientific program as they become 
+available.
+
+Unless otherwise noted, all currency values discussed in this text are 
+in Canadian dollars (CDN$).  As of 8 February CDN$1.00 is approximately 
+equivalent to US$0.69.
+
+If you have any questions please don't hesitate to contact us at 
+iau190@hia.nrc.ca
+
+=============================================================================
+
+INTRODUCTION:
+
+Seven years have passed since the last IAU Symposium on the Magellanic
+Clouds (MCs) was held in Sydney, Australia.  During this time, HST, ROSAT, 
+ASCA, ISO, ATCA, ESO-SEST, and other observing and computing facilities 
+became available.  These facilities allow us to study the MCs with 
+unprecedented resolution and sensitivity.  Consequently, significant advances 
+in MC studies were made in recent years.  Moreover, the VLT and Gemini South 
+will soon be available.  Another IAU Symposium on the MCs is overdue!
+
+In anticipation of Dr. Sidney van den Bergh's retirement in 1998, the
+Herzberg Institute of Astrophysics and the Department of Physics and Astronomy
+of the University of Victoria are pleased to co-sponsor the meeting 
+"New Views of the Magellanic Clouds." Approved by the International
+Astronomical Union as Symposium 190, the meeting will be held on the campus 
+of the University of Victoria between 12 and 17 July, 1998.
+
+The Proceedings of the Symposium will be published by the Astronomical
+Society of the Pacific and are included as part of the registration fee.
+
+A tentative timetable of important dates is given below:
+
+Date		 	Event
+-----------------------------------------------------------------------------
+28 February 1998	Deadline for Travel Grant Application
+15 March 1998 		Announcement of outcome of Travel Grant Applications
+1 April 1998 		Third Announcement, Tentative Scientific Program 
+			available
+15 April 1998		Deadline for early registration and payment
+15 April 1998		Abstract Deadline
+15 April 1998 		Accommodation Reservation Deadline
+1 June 1998		Final Announcement sent to participants
+12 July 1998 		Opening Reception for the Symposium at Victoria
+13-17 July 1998		Scientific Sessions for IAU Symposium 190 at Victoria
+30 September 1998	Deadline for submission of meeting proceeding papers
+-----------------------------------------------------------------------------
+
+We would also like to draw your attention to three other astronomy-related 
+meetings to be held in Victoria this summer:
+
+	IAU Colloquium 170: Precise Stellar Radial Velocities
+		(http://astrowww.phys.uvic.ca/prvs/prvs.html)
+
+	Atomic Spectra and Oscillator Strengths
+		(http://WWW.UVCS.UVIC.CA/conferce/asos6/)
+
+	The 1998 General Assembly of the Royal Astronomical Society of Canada
+		(http://victoria.tc.ca/~rasc/ga98/)
+
+=============================================================================
+
+SCIENTIFIC RATIONALE:
+
+The Magellanic Clouds (MCs) provide an excellent laboratory to study
+astrophysical processes because of their proximity, nearly face-on
+viewing angle, and small internal and foreground extinction.  They are
+the only galaxies for which it is possible to observe individual stars
+and interstellar structures in great detail for the entire system.
+
+The last IAU Symposium on the MCs was held in Sydney, Australia, in
+1990.  Since that meeting significant advances have been made in many
+areas as a result of new instrumentation, such as the Hubble Space
+Telescope, the ROSAT and ASCA X-ray satellites, the UV Imaging
+Telescope and ORFEUS-Spas shuttle missions, the IR Space Observatory,
+the Australia Telescope Compact Array, the Swedish-ESO Submillimeter
+Telescope, and large-format CCD and IR array detectors at major
+southern observatories.
+
+These new instruments have made possible large-scale surveys of
+different phases of the ISM and of the stars in the MCs.  Examples
+include the ROSAT surveys of the hot (10^6 K) ISM, the Curtis Schmidt
+emission-line survey of the warm (10^4 K) ISM, the ATCA HI survey of
+the neutral atomic ISM, the MACHO and EROS surveys of variable stars,
+and the Scanning-CCD broad-band survey of stars.
+
+These new instruments provide us with an opportunity to probe 
+physical parameters/properties that were previously inaccessible.  
+Consequently, the scientific frontier has been pushed to an 
+unprecedented realm.
+
+For the ISM, the ROSAT and ASCA satellites enable the determination 
+of temperatures and abundances of the hot (10^6-10^7 K) ISM, HST UV 
+spectroscopy shows the existence and physical conditions of 10^5 K 
+gas, and ATCA reveals the HI distribution at 1' resolution.  It is 
+now possible not only to study the physical conditions of individual 
+structures, such as SNRs and supershells, but also to investigate 
+comprehensively the multi-phase structure and evolution of the ISM 
+over the entire galaxy.
+
+For stars, the HST allows stellar populations to be studied with
+higher spatial resolution so that the basic cluster characteristics
+such as age, metallicity, and the IMF can be deduced with greater
+accuracy.  With the large format detectors on ground-based telescopes,
+studies involving millions of field stars have allowed the star
+formation histories of the Clouds to be delineated in much greater
+detail.  Recent space-based and ground-based high-resolution
+spectroscopic studies of stars have revealed new insights about their
+fundamental properties, mass loss, winds, and chemical evolution.
+These findings supplement the improved grids of stellar evolutionary
+models and model atmospheres that became available in the past years.
+
+New views of the MCs are beginning to emerge from these recent
+observations and theories.  It is thus an opportune time to hold an
+international meeting on studies of the MCs.  It is our wish to
+organize the meeting to emphasize the following topics:
+
+(1) review recent advances in studies of stellar and interstellar 
+    components of the MCs
+(2) emphasize the interplay between the stellar and interstellar 
+    components in the evolution of the MCs
+(3) examine the detailed physical and dynamical structures, stellar 
+    populations, and star formation histories of the MCs, so that
+    this knowledge can be used as foundations to understand the 
+    Galaxy as well as more distant galaxies
+(4) plan future work utilizing the forthcoming IR/UV/X-ray satellite
+    facilities and large ground-based telescopes
+
+=============================================================================
+
+PRELIMINARY PROGRAM:
+
+Note: The SOC is actively working on the program. Our web site will be 
+updated as that material becomes available.  The program is being structured 
+so as to allow ample time for discussion and for poster viewing.  Special 
+efforts to incorporate the poster papers into the program are being planned.
+
+The general areas we expect to include are:
+
+ 1. Recent observations of stars and the ISM of the Magellanic Clouds.
+ 2. The physical properties and structure of the multiple-phase ISM.
+ 3. Interactions between stars/OB association/clusters and the ISM.
+ 4. Stellar evolution - observations vs theoretical models.
+ 5. Stellar systems - IMFs, abundances, ages, dynamics, populations.
+ 6. Star formation history and evolution of the Magellanic Clouds.
+ 7. The global structure of the Magellanic Clouds - populations,
+    distributions of matter, and dynamics.
+ 8. The Distance to the Magellanic Clouds.
+ 9. Connections to other Magellanic irregulars and the distant universe.
+
+The scientific program of the meeting will consist of invited reviews and 
+contributed talks that are of general interest.  Other contributions will 
+be presented in posters.  Ample time will be reserved for discussion and 
+poster viewing.
+
+=============================================================================
+
+SCIENTIFIC ORGANIZING COMMITTEE AND LOCAL ORGANIZING COMMITTEE:
+
+Scientific Organizing Committee:
+
+	Name			Country
+	----------------------------------------------------
+	You-Hua Chu		USA, co-Chair
+	Nicholas Suntzeff	Chile/USA, co-Chair
+	Enzo Brocato		Italy
+	Anne Cowley		USA
+	Kenneth Freeman		Australia
+	Paul Hodge		USA
+	Monica Rubio		Chile
+	Monique Spite		France
+	Lister Staveley-Smith	Australia
+	Nolan Walborn		USA
+	Douglas Welch		Canada
+	Hans Zinnecker		Germany
+   
+Local Organizing Committee:
+
+	Name			Country
+	----------------------------------------------------
+	James Hesser		NRC/HIA/DAO, Victoria, Chair
+	David Bohlender		NRC/HIA/DAO, Victoria
+	Stephanie Cote		NRC/HIA/DAO, Victoria
+	David Crampton		NRC/HIA/DAO, Victoria
+	Jay Gallagher		U. of Wisconsin, USA
+	David Hartwick		U. of Victoria, Victoria
+	Simon Morris		NRC/HIA/DAO, Victoria
+	Brenda Parrish		NRC/HIA/DAO, Victoria
+	Donald Vandenberg	U. of Victoria, Victoria
+
+Contacts:
+
+    You-Hua Chu,       co-chair SOC,      e-mail: chu@astro.uiuc.edu
+    Nicholas Suntzeff, co-chair SOC,      e-mail: nsuntzeff@noao.edu
+    James Hesser,      chair LOC,         e-mail: Jim.Hesser@hia.nrc.ca
+
+    or:  iau190@hia.nrc.ca
+
+=============================================================================
+
+IAU SUPPORT:
+
+"New Views of the Magellanic Clouds" is supported by the following 
+IAU Divisions:
+
+IV	Stars
+V	Variable Stars
+VI	Interstellar Matter
+VIII	Galaxies and the Universe
+
+and the following IAU Commissions:
+
+25	Stellar Photometry and Polarimetry
+27	Variable Stars
+28	Galaxies
+29	Stellar Spectra
+33	Structure and Dynamics of the Galactic System
+34	Interstellar Matter
+40	Radio Astronomy
+44	Space and High Energy Astrophysics
+45	Stellar Classification
+47	Cosmology
+
+
+The IAU has also provided us with a grant for travel support to assist those 
+who otherwise cannot attend the conference due to financial constraints.
+Generally only partial support for the travel can be offered.  If you want 
+to apply for such assistance please fill out the appropriate form below
+or on our web page at http://cadcwww.hia.nrc.ca/iau190/.
+
+=============================================================================
+
+VENUE:
+
+The meeting will be held on the campus of the University of Victoria, which 
+is located in suburban Victoria.  All scientific presentations will be in 
+the David Lam Auditorium (MacLaurin 144).  Posters and coffee breaks will be 
+in the spacious foyer and hallway adjacent to the Lam Auditorium.
+
+Accommodation details can be found below. The meeting date coincides with 
+high season in Victoria, so accommodation arrangements should be made well 
+in advance of arrival.
+
+Victoria is the capital of British Columbia and, with a metropolitan 
+population of approximately 300,000, is the second-largest city in the 
+province.  The city is situated on the Strait of Juan de Fuca near the 
+Pacific Coast, and provides easy access to many scenic National, Provincial
+and City parks in both Canada and the U.S. All are accessible by car (and 
+possibly a ferry ride) within a day. They include the Pacific Rim National 
+Park and Strathcona Provincial Park on Vancouver Island, Garibaldi Provincial 
+Park north of Vancouver, and the Olympic National Park, Cascades National Park
+and Mount Rainier National Park in Washington State, as well as numerous 
+State Parks and resorts along the coasts of Washington and Oregon.  Temperate 
+rain forests, mountains, glaciers and vibrant aboriginal cultures are only 
+part of the sights available to visitors. Family members accompanying 
+participants will find much to do in Victoria!
+
+Temperatures in July typically range from a high of about 25 C to a low of 
+11 C. Probability of rain is low, except during international conferences.  
+To be prepared, bring along light rain gear and layered clothing so that you 
+are ready for anything.
+
+Links to many web pages that will let you explore just a few of the sights 
+in and around Victoria, British Columbia, and the Pacific Northwest are
+available on our web page: http://cadcwww.hia.nrc.ca/iau190/.
+
+=============================================================================
+
+TRAVEL AND MISCELLANEOUS INFORMATION:
+
+Getting to Victoria:
+
+Frequent short flights connect Victoria International Airport to both 
+Seattle (SeaTac) and Vancouver International Airports.  Non-stop flights 
+are also available from Calgary, Alberta.  Victoria's airport is about a 
+25 minute taxi ride from the University or downtown.
+
+An alternative, more leisurely route would be by rental car or motorcoach
+and the B.C. Ferry from Tsewwassen (south of Vancouver, Canada) to Swartz Bay 
+(north of Victoria); the trip from SeaTac to downtown Victoria requires about 
+five hours, while travel time from Vancouver's Airport to downtown Victoria 
+is approximately three hours.  Other routes include Port Angeles, WA to 
+Victoria on the Coho Ferry, direct service between Seattle and Victoria 
+harbours via the high-speed Victoria Clipper catamaran (foot passengers only),
+or the Victoria Ferry Ltd. car ferry, and the Washington State Ferry from 
+Anacortes, WA, to Sidney, BC, just north of Victoria.
+
+Visa and Passport requirements:
+
+Most visitors to Canada will require a passport.  Participants are also 
+advised to check with their local Canadian consulate or their travel agent 
+regarding current visa requirements to enter Canada. 
+
+Medical Insurance:
+
+All participants are strongly recommended to check their medical insurance 
+for coverage during their stay in Canada.  The LOC will not accept liability 
+for sickness or accidents.
+ 
+Travel Support:
+
+The IAU and the Canadian Institute for Theoretical Astrophysics (CITA) have 
+provided us with grants for travel support to assist those who otherwise 
+cannot attend the conference due to financial constraints.  Generally only 
+partial support for the travel can be offered.  If you want to apply for 
+such assistance please fill out the appropriate form below, or on our
+web page.
+
+GST/PST:
+
+The Goods and Services Tax (GST) is a 7% tax charged for most goods and
+services sold or provided in Canada. If you are a visitor to Canada, save
+your receipts and submit the proper forms, and you will be able to obtain a
+refund of the GST. GST rebate forms and information brochures will be
+available at the conference registration desk. Provincial Sales Tax (PST 7%) 
+is applicable on most retail sales and is not refundable.
+
+Daycare:
+
+There is no childcare service on the University of Victoria campus for 
+children accompanying delegates to the conference.
+
+Athletics and Recreation:
+
+Delegates are invited to take advantage of the athletic and recreational
+facilities on the University of Victoria campus. Chip trails surround UVic 
+and are excellent for walking and jogging. An exercise companion is advisable.
+Within walking distance is a sandy beach and playground for children.
+The McKinnon Building and the UVic Gordon Head Complex provide an extensive
+range of recreational facilities and services. The McKinnon Building
+includes a gymnasium, dance studio, weight training room, 25m L-shaped
+pool, squash courts, fitness testing area, running track, playing fields
+and change and shower facilities. Racquets are available for rent. A day pass
+is $4.00. Proof of conference attendance is required (your conference
+registration receipt).  The UVic Gordon Head Complex includes a fieldhouse, 
+gymnasium, fitness/weight center, hydra-gym, 25m outdoor pool, courts 
+(squash, racquetball & badminton), an ice rink as well as change and shower
+facilities. Cost is $4.00 and $4.00 for weight room use. Proof of conference 
+attendance is required (your conference registration receipt).
+
+Parking at the University OF Victoria:
+
+All University of Victoria campus guests are required to purchase a daily 
+parking permit to park during the day Monday to Friday.  Parking is 
+restricted to the lots located outside the Ring Road (parking in the lots 
+inside the Ring is restricted to Staff).  After 6:00 pm and on weekends, 
+parking is free in all lots except Lot B, Elliott Building (inside Ring Road) 
+and the University Centre Building underground lot. The $4 daily parking 
+permits can be obtained at parking meters situated just after you enter the 
+university grounds and in all parking lots. You will need exact coin change 
+or a credit card, depending upon the machine. If you have a Handicapped 
+Parking permit, sticker, or designation, please bring this with you to use 
+in the designated parking spaces on campus. If you need such a permit, 
+indicate this in the Special Needs section of the registration form.
+
+=============================================================================
+
+SPECIAL EVENTS:
+
+Victoria is consistently ranked as one of the ten top tourist destinations 
+in the world. Participants will find a wealth of activities in which they 
+can participate before, during, and after the conference. Activities range 
+from the justifiably famous Royal British Columbia Museum and Butchart 
+Gardens, whale watching and adventure tours, to shopping for art from the 
+vibrant artistic community in the region. Abundant information is available 
+on the WWW and will also be available at registration.
+ 
+We are hoping that the ambience of the University of Victoria campus will 
+lead to many opportunities for informal and stimulating scientific discussions.
+To encourage interactions, we are planning three special events.
+
+Opening Reception: 
+
+The National Research Council of Canada and its Herzberg Institute of 
+Astrophysics are hosting an Opening Reception to which they invite all
+participants.  It will be held between 6 and 9 pm on Sunday, 12 July at 
+the University of Victoria. A variety of canapes and light fare will be 
+provided in a setting that will enable persons to renew old acquaintances 
+and to make new ones. A no-host bar will be available.  Please indicate
+on the registration form if you (and any possible guests) will attend the
+reception.
+
+Tour of the Dominion Astrophysical Observatory: 
+ 
+Eighty years ago, on 6 May 1918, the first observation was obtained with 
+the 1.8-m Plaskett Telescope on Little Saanich Mountain some 17 km from 
+the UVic campus.  Early work at DAO focussed on fundamental problems of 
+stellar and Galactic astrophysics, with results that have been subsumed 
+into modern textbooks.  Today the Observatory is an active research centre 
+with emphasis on primitive solar system bodies, stellar astrophysics, 
+stellar populations in the Milky Way and relatively nearby galaxies, the 
+interstellar medium, extragalactic astrophysics including AGN's, and 
+observational cosmology.  It is also home to the Director General of the
+Herzberg Institute of Astrophysics; to the groups supporting Canadian 
+involvement in off-shore projects such as the Gemini 8-m Telescopes, the 
+James Clerk Maxwell Telescope, the Canada-France-Hawaii Telescope, and the 
+FUSE spacecraft; to active development of inovative instrumentation in the 
+UV, optical, near-IR and sub-mm; as well as to the Canadian Astronomy Data 
+Centre with its archives of HST, CFHT, and JCMT data, and other on-line 
+research tools.
+
+At the close of the Wednesday morning (15 July) sessions, meeting
+participants will be able to board buses that will bring them to DAO, where 
+they will be able to enjoy a box lunch with the staff (in picnic style on 
+the lawn, weather permitting), followed by a tour of the facilities.  At 
+the close of the tour, people will have the choice of being returned to the 
+UVic campus or to downtown Victoria, where they may pursue leisure activities 
+of their choice.  The transportation is provided by NRC, but participants 
+are asked to pay for their meal.  If you are interested in joining the tour
+please fill out the appropriate space on the registration form below or
+on the WWW.
+
+Banquet:
+ 
+The meeting banquet will be held at the University of Victoria Faculty Club
+on Thursday, 16 July. The meal will be buffet style with a wide variety of 
+foods with a regional emphasis (including Pacific salmon and vegetarian
+fare), and a no-host bar will be available. The LOC is working on special 
+touches to make the evening unusually memorable. Do plan on joining your 
+colleagues in this lovely setting for a pleasant evening!
+
+Lunch Package:
+
+For your convenience, we have arranged for a special lunch option for
+conference delegates.  This option provides for a pre-paid lunch for four
+days of the conference (Monday, Tuesday, Thursday, and Friday).  Because
+the campus dining locations may be busy with staff and other visitors to
+campus, we want to ensure that you will be served lunch promptly and thus,
+assist in keeping the meeting's schedule on time.  Menus will include
+BBQ's, pizzas and salads, and buffets.  Vegetarian options will be 
+available for those who indicate this requirement on the registration form.
+The lunch package is available on a first come, first served basis, and a
+limited number of tickets are available.  To choose this option, please
+complete the appropriate section of the registration form.
+
+=============================================================================
+
+ACCOMMODATION:
+
+The University of Victoria Office of Conference Management (CM) has a 
+limited number of rooms available for "New Views of the Magellanic Clouds" 
+participants at the new University of Victoria Cluster Housing complex, 
+Commonwealth Village, that was built for the 1994 Commonwealth Games athletes.
+These units are furnished housekeeping units with four separate (single bed) 
+bedrooms, each with individual locks.  Each unit has a living room, dining 
+area, 1.5 bathrooms, and a fully equipped kitchen.  This accommodation is 
+rented by the unit only, not by individual reservations, so that CM must 
+assign individuals to each bedroom.  Continental breakfast is included with 
+the accommodation rate of CDN$45/day (about US$31) for each bedroom.  A 
+grocery store is located in a nearby shopping centre. 
+
+CM will endeavor to put groups of participants together to fill a cluster 
+unit.  CM will also attempt to put participants of the same gender together 
+but cannot guarantee that this will occur in every instance.  Additionally, 
+CM will be unable to make on-site changes, based on personality differences, 
+etc.
+
+If you want CM to reserve a room for you in the Commonwealth Village please 
+include this information on your Registration Form.  The deadline for room 
+reservations is 15 April 1998.  Because of the limited number of rooms 
+available, reservations are on a "first come, first served" basis.  
+Reservations will be made only if fees are fully paid in advance.  Keys to 
+accommodations are obtained directly from the Housing Office, which is open 
+24 hours.  If you arrive prior to the conference dates, you may be 
+temporarily assigned to one unit and then relocated to another unit effective 
+11 or 12 July.
+
+Alternatively, if you would prefer off-campus hotel or bed and breakfast 
+accommodation, you will need to make your own reservations.  The meeting 
+date coincides with high season in Victoria, so hotel accommodations should 
+be arranged well in advance of arrival.  There are many excellent hotels 
+and B & B's in Victoria, most within an easy commute by city bus to the 
+University of Victoria Campus.  We have held small blocks of rooms 
+(at reduced rates with reservation deadlines of 15 May 1998) at three 
+locations (note: these are not in downtown Victoria):
+
+	Stay 'n Save Motor Inn
+	3233 Maple St., Victoria, BC, V8X 4Y9
+	Phone: (250) 474-7500
+	Fax: (250) 475-7599
+	$99/night Single/Double + 17% taxes
+	Kitchens available for $10 extra
+
+	Mount Douglas Resort
+	4550 Cordova Bay Rd., Victoria, BC, V8X 3V5
+	Phone: (250) 658-2171 or 1-888-303-2133
+	Fax: (250) 658-4596
+	$159/night Single/Double + 17% taxes
+	Kitchens available for $10 extra
+
+	Holiday Inn
+	3020 Blanshard St., Victoria, BC, V8T 5B5
+	Phone: (250) 382-4400 or 1-800-465-4329
+	Fax: (250) 382-4053
+	$119/night Single/Double + 17% taxes
+
+Popular downtown hotels include Swans Hotel (and micro brewery pub!), 
+Chateau Victoria, the Queen Victoria Inn, the Ocean Pointe Resort, and, 
+of course, The Empress Hotel.
+
+Tourism Victoria operates a reservation system for Victoria hotels, motels, 
+and bed and breakfast establishments.  You can reach them by phone at 
+1-800-663-3883 (North America only) or 1-250-953-2033.  Their Fax number 
+is 1-250-382-6539 and you can also e-mail them to obtain information at
+info@travel.victoria.bc.ca.  The British Columbia Tourist Bureau can also 
+be reached toll-free at 1-800-663-6000.  See our web site for additional
+information and links: http://cadcwww.hia.nrc.ca/iau190/.
+
+=============================================================================
+
+APPLICATION FORMS:
+
+Note:  If possible, we would encourage you to use the application forms 
+       available on our web site at http://cadcwww.hia.nrc.ca/iau190/.
+
+=============================================================================
+
+TRAVEL GRANT APPLICATION FORM:
+
+The IAU and CITA have provided us with grants for travel support to assist 
+those who otherwise cannot attend the conference due to financial constraints.
+Generally only partial support for the travel can be offered.  The CITA 
+grant is to provide partial support for participation by graduate students 
+in the meeting.  Funds from both sources are quite limited, and it is 
+important that persons requesting support explain clearly their request 
+in the context of other funding to which they have access.
+
+If you want to apply for such assistance please fill out the form below and
+e-mail it to iau190@hia.nrc.ca by the deadline of 28 February 1998.  
+Please include "Travel Grant Application" in the subject line.  We expect 
+to announce the outcome of the competition on or before 15 March 1998.  
+Travel grants will be paid on arrival in Victoria.
+
+-------------------------------cut here--------------------------------------
+
+Last Name:        
+First Name:      
+Institute:      
+Department:    
+Street:       
+City:        
+State/Province:   
+Country:         
+Zip Code:       
+Phone:         
+Fax:          
+E-Mail Address:   
+
+Current position: 
+Highest Degree:  
+Year Granted:
+
+
+Justification for attending the meeting:
+
+
+
+Cost of return air fare to Victoria (US$):
+             Travel Grant requested (US$):
+
+
+Other sources of funding and rationale for the requested amount:
+
+
+
+-------------------------------cut here--------------------------------------
+
+=============================================================================
+
+ABSTRACT SUBMISSION FORM:
+
+Your abstract must be submitted in LaTeX format using the PASP Conference 
+Proceedings style file.  Download the paspconf.sty file and download and 
+complete the abstract.tex file before proceeding with the form below.  
+Please ensure that your abstract "LaTeX's" properly before submitting it.
+
+To download the above files ftp to ftp.hia.nrc.ca as shown below:
+
+	ftp ftp.hia.nrc.ca
+	Name:  anonymous
+	Password: enter your e-mail address
+	ftp> cd /pub/CADC/outgoing/iau190
+	ftp> get abstract.tex
+	ftp> get paspconf.sty
+	ftp> quit
+
+
+Please e-mail the abstract to iau190@hia.nrc.ca and include "Abstract Form"
+in the subject line.  Note: submission of an abstract does NOT guarantee 
+acceptance.  The SOC will inform each person about the status of their 
+proposed contribution.
+
+-------------------------------cut here--------------------------------------
+
+Presenting Author: 
+Affiliation: 
+E-mail Address: 
+Paper Format (oral or poster preferred): 
+Special A/V requirements: 
+
+Title:
+
+
+Abstract:
+
+
+
+
+-------------------------------cut here--------------------------------------
+
+=============================================================================
+
+REGISTRATION/ACCOMMODATION FORM:
+
+
+If you wish to submit your registration/accommodation form by e-mail,
+complete the requested credit card information and then send the form
+to register@uvcs.uvic.ca (you may also want to send a copy, i.e. cc to 
+iau190@hia.nrc.ca).  Include "New Views of the Magellanic Clouds" in the 
+subject line if possible.  Otherwise, fax or mail the form to the number or 
+address given below.
+
+-------------------------------cut here--------------------------------------
+
+
+               NEW VIEWS OF THE MAGELLANIC CLOUDS
+                       July 12-17, 1998
+          University of Victoria, Victoria, BC, Canada
+
+
+                        REGISTRATION FORM
+  (One form per person. Please retain a copy for your records.)
+          (Early Registration Deadline: 15 April 1998.)
+
+
+Name:
+(for namebadge)     (first)  (last)
+
+Address:
+Institute (for namebadge):
+Department:
+Street:
+
+(City)  (Province or State)  (Country)  (zip or postal code)
+
+Phone: Residence:              Business: 
+
+Fax:                E-Mail: 
+
+
+The University wishes to publish a listing of the conference attendees to 
+hand out at the conference. As well, delegate names may be used for future
+promotional mailings.  With your consent, your name will be included
+on the list.
+
+[   ]  I CONSENT to have my name and address published in the delegate list.
+[   ]  I CONSENT to receive future promotional mailings.
+
+
+I have SPECIAL NEEDS, DIETARY NEEDS (provide details here)
+
+
+
+Conference Registration includes Opening Reception, conference sessions and
+materials, all coffee breaks, and one copy of the conference proceedings to
+be published by the Astronomical Society of the Pacific.  All fees include
+GST and are quoted in CANADIAN DOLLARS.
+
+COMC331-1998K1-R01
+  Early regular registration (before 15 April 1998):               ________
+  ($233.64 + $16.36GST = $250.00)
+
+  Late regular registration (after 15 April 1998):                 ________
+  ($280.37 + $19.63GST = $300.00)
+
+  Early student registration:                                      ________
+  ($140.19 + $9.81$GST = $150.00)
+
+  Late student registration:                                       ________
+  ($186.92 + $13.08GST = $200.00)
+
+COMC331-1998K1-R02
+  Name(s) of Accompanying Person(s): 
+
+COMC331-1998K1-R03
+  Number attending the opening reception on 12 July (6-9PM): ____
+
+COMC331-1998K1-R04
+  [   ]  I WILL contribute a paper.
+
+COMC331-DINNER-N01
+  Banquet Ticket(s):				 ____  x  $45.00:  ________
+  ($42.06 + $ 2.94GST = $45.00)
+
+COMC331-LUNCH-N01
+  Lunch Package Ticket(s):                       ____  x  $40.00:  ________
+  ($37.38 + $ 2.62GST = $40.00)
+
+COMC331-FLDTRP-N01
+  DAO tour ticket(s) for 15 July:                ____  x  $10.00:  ________
+  ($9.35 + $ 0.65GST = $10.00)
+
+COMC331-ACCOM-N01
+  Arrival Date: _______________    Departure Date: _______________
+
+  GENDER: [   ] FEMALE    [   ] MALE
+
+  Housing Fee:           ____ person(s) x ____ nights  x  $45.00:  ________
+  (includes $5 breakfast voucher)
+  ($42.05 + $2.95GST/night/person)
+                                                         
+
+                                          TOTAL PAYMENT ENCLOSED:  ________
+
+
+
+Method of Payment:   CHEQUE [   ]     CASH [   ]     CREDIT CARD [   ]
+
+The Division of Continuing Studies reserves the right to cancel/reschedule
+courses or other offerings without notice.  If a program or trip is
+cancelled/rescheduled, the liability of the Division of Continuing Studies is
+limited to a refund of your course fee, or, if you so desire, transfer
+to another offering.
+
+Credit Card Information:
+In order to use a credit card as payment for these fees, please check [ X ]
+the name of the card you are using.  Faxed registrations are payable only
+by credit card.
+
+MASTERCARD  [   ]          VISA  [   ]          AMERICAN EXPRESS  [   ]
+
+
+Number: _________________________________     Expiry date: _______________
+
+
+
+Authorized Signature: ____________________________________________________
+
+
+
+                Date: _______________
+
+
+All registrations must be accompanied by complete credit card information
+or full payment by cheque or money order in CANADIAN FUNDS, made payable to
+the UNIVERSITY OF VICTORIA. No post dated cheques are accepted.  There is
+a $15.00 fee for nonsufficient fund cheques.  Faxed registrations are
+payable only by credit card.  GST is exempt on BC government paid
+registrations only.  FEES ARE NON-REFUNDABLE AFTER 15 JUNE 1998.
+
+
+Return the completed form with full payment to:
+
+
+          New Views of the Magellanic Clouds
+          c/o Conference Management
+          Division of Continuing Studies
+          University of Victoria
+          PO Box 3030 STN CSC
+          Victoria, BC
+          Canada  V8W 3N6
+
+          Phone: (250) 721-8703
+          FAX:   (250) 721-8774
+          E-mail: register@uvcs.uvic.ca
+
+
+You will receive a receipt from University of Victoria Conference Management 
+in the regular mail.
+
+=============================================================================
+
+
+

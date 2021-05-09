@@ -1,0 +1,206 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Mar 12 00:23:48 2008
+Date: Wed, 12 Mar 2008 00:18:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Mar 03 - 11, 2008)
+
+==============================================================================
+
+In this issue (Mar 03 - 11, 2008)
+
+1. NCU Astronomy colloquium (Mar 14): Chien-Jen Alf Tang (Imperial College, UK)
+2. Reminder: 2008a sma proposal closing date (4 am, Mar 14)
+3. ASIAA colloquium (Mar 14): Yuji Urata (Saitama Univ)
+
+==============================================================================
+
+> From: "Yu-Huei Wu" <yhwu@astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Colloquia in IANCU
+> Date: Mon, 10 Mar 2008 14:18:50 +0800
+
+Hi there, 
+
+Please join us for our regular colloquium in IANCU. This week we'll have Alf
+Tang talking about his PhD research on LISA in Imperial College, London. We
+will have some refreshment after the talk. Anyone who is interested on the
+topic with our speaker can also join our refreshment section.
+
+
+*******************  Astronomy Colloquium  **************************
+***************  Institute of Astronomy, NCU  ***********************  
+This Friday (03,14,2008), 14:00-15:00.
+Speaker:
+湯健仁 Chien-Jen Alf Tang (Imperial College, London)
+
+Title:
+Detecting Cosmic Gravitational-wave Backgrounds with LISA
+
+Abstract:
+The current technique to detect gravitational waves is using interferometer to
+measure induced length differences along two directions. The frontier
+space-borne interferometer is Laser Interferometer Space Antenna (LISA), which
+is an NASA/EAS joint project. LISA consists of three spacecraft 5 million km
+away from each other. During orbiting the Sun, three spacecraft transmit laser
+pulses back and forth to construct two huge independent Michelson
+interferometers in the space. LISA aims to measure the variation of
+arm-lengths to one part of 10^23 to detect weak signals of gravitational
+waves. It plans to launch in late 2017 time frame. LISA targets on four kinds
+of sources: compact binaries, super-massive black holes in the centre of
+galaxies, extreme mass ratio binaries, and cosmic gravitational-wave
+backgrounds (CGBs) produced in the very early universe. The detectable
+candidates of CGBs by LISA are vacuum-bubbles colliding during cosmological
+phase transition, and catastrophic burst events produced by cosmic strings.?
+In order to recover CGBs in a spectrum, we need to determine how many types of
+CGBs exist in the spectrum in the first place. Along with the study on
+fundamental physics, we can obtain models to formalise CGBs. Model selection
+method in Bayesian statistics is applied to determine which scenario among all
+models at hand is the best description of data. As long as the model has been
+suggested, the parameters involved in the model are then estimated through
+Markov Chain Monte Carlo method, which can reduce consuming time from
+exponential cost to linear scale as the number of parameters increases. In
+addition, simulated annealing and Gelman & Rubin methods are adapted to speed
+up the searching and test the convergence of the chains, respectively. ?The
+entire study intends to discover some unseen aspects of fundamental physics.
+**********************************************************************
+**********************************************************************
+Next Friday, Prof. Tung Roh-Suan will talk on something about dynamical black
+hole.
+
+Cheers,
+Yu-Huei
+
+--------------------------------------------------------------
+吳育慧 國立中央大學天文研究所 博士後 
+
+Yu-Huei Wu, Post doc, Institute of Astronomy,NCU
+
+NCU Astro colloquium page:
+
+http://www.astro.ncu.edu.tw/contents/seminar/colloquium/sub.php?more=all
+
+Tel: 03-4227151-65953
+
+--------------------------------------------------------------
+
+--
+Open WebMail Project (http://openwebmail.org)
+
+==============================================================================
+
+> Date: Mon, 10 Mar 2008 16:26:58 +0800 (CST)
+> From: Tatsuhiko Hasegawa <hasegawa@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Reminder: 2008a sma proposal closing date
+Message-ID: <Pine.LNX.4.64.0803101624380.28023@garuda.asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII; format=flowed
+X-Greylist: Sender e-mail whitelisted, not delayed by milter-greylist-4.0 (asiaa.sinica.edu.tw [140.109.177.5]); Mon, 10 Mar 2008 16:26:49 +0800 (CST)
+X-Virus-Scanned: by amavisd-new
+Content-Length: 1868
+Status: RO
+
+Reminder: Closing date for SMA proposal submission for 2008A
+
+Dear Colleagues,
+
+This is a reminder that the closing date and time for SMA proposals
+is March 14 (Friday), 2008, 4AM (Taiwan time) in the morning for the
+2008A semester.  [The closing date corresponds to March 13 (Thursday),
+10AM Hawaii time.]  Those who are affiliated to a Taiwanese university
+or a Taiwanese research institute are eligible to apply for the ASIAA
+SMA time as a principal investigator (PI).
+
+All Taiwanese SMA proposals must be submitted through the SMA
+submission facility (http://sma1.sma.hawaii.edu/proposing.html,
+then click "SMA Project Account").
+New proposers in particular need to get registered (through the
+submission web site) before submitting a proposal.  All potential
+proposers are encouraged to visit the submission facility well
+in advance.
+
+When submitting your proposal, please make sure to select
+"ASIAA" as your destination TAC in the submission web page.
+Please submit your proposal early.  If you encounter any technical
+problem with the submission facility, please contact TATSUHIKO
+HASEGAWA (hasegawa@asiaa.sinica.edu.tw).
+
+For technical information on the SMA, please visit
+    http://sma1.sma.hawaii.edu/proposing.html .
+For Taiwan and ASIAA specific aspects (including the ASIAA
+proposal selection process and the amount of available
+observing time), please visit
+    http://www.asiaa.sinica.edu.tw/~SMART/ .
+
+The SMA is a complex instrument.  Consultation or collaboration
+with those who are familiar with the SMA is highly recommended.
+Contact points for consultations are also found in the ASIAA
+web page listed above.
+
+
+Sincerely,
+
+Tatsuhiko Hasegawa
+ASIAA SMA TAC Chair
+
+-- 
+Tatsuhiko I. Hasegawa (Associate Fellow) www.asiaa.sinica.edu.tw
+Institute of Astronomy and Astrophysics, Academia Sinica
+hasegawa@asiaa.sinica.edu.tw, Tel:+886-2-3365-2200 ex722
+
+==============================================================================
+
+> Date: Tue, 11 Mar 2008 15:58:35 +0800
+> From: lychiang <lychiang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> CC: astro@asiaa.sinica.edu.tw
+> Subject: [Colloquium] ASIAA Colloquium talk this week
+
+Dear All,
+
+This week's colloquium speaker is Dr Yuji Urata of Saitama University, 
+who we are not unfamiliar with. Dr Urata is leading the EAFON (East-Asia 
+GRB Follow-up Observation Network) and the WIDe-field telescope for GRB 
+Early Time (WIDGET) and on Friday (3/14) he will tell us
+
+"Crisis of the GRB standard fire ball model".
+
+Please mark your calendar and remember to join the event!
+
+
+Lung-Yih
+
+------------------------ASIAA Colloquium---------------------------
+Speaker : Dr. Yuji Urata
+Title : Crisis of the GRB standard fire ball model
+Time : 3/14 (Friday) 2pm
+Place : Room 716
+Broadcast : available at http://www.asiaa.sinica.edu.tw
+-----------------------------------------------------------------------------
+
+-- 
+Lung-Yih Chiang
+Institute of Astronomy and Astrophysics
+Academia Sinica
+P.O.Box 23-141
+Taipei 10617
+Taiwan R.O.C.
+tel: +886 2 33 65 22 00 ext 786 
+http://www.asiaa.sinica.edu.tw/~lychiang/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

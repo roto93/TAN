@@ -1,0 +1,471 @@
+From kyl@asiaa.sinica.edu.tw Sun Jan 17 13:56:44 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA12431; Sun, 17 Jan 1999 13:56:39 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id NAA29474; Sun, 17 Jan 1999 13:54:03 +0800
+Date: Sun, 17 Jan 1999 13:54:03 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Star Formation 1999 (second circular) (fwd)
+Message-Id: <Pine.GSO.3.96.990117135400.29254B-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 20703
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Sat, 16 Jan 1999 19:04:34 +0900
+From: Ryoichi NISHI <sf99@tap.scphys.kyoto-u.ac.jp>
+To: ohashi@asiaa.sinica.edu.tw, sunada@nro.nao.ac.jp,
+    Cecilia.Ceccarelli@obs.ujf-grenoble.fr, jpw@infall.harvard.edu,
+    pwl@astro.ox.ac.uk, fuente@oan.es, hanawa@a.phys.nagoya-u.ac.jp,
+    barsony@earthlink.net, imamura@herb.uoregon.edu, saeko@naoj.org,
+    wada@th.nao.ac.jp, wardle@physics.usyd.edu.au, tatematsu@nro.nao.ac.jp,
+    stecklum@tls-tautenburg.de, hofner@naic.edu, mnakano@cc.oita-u.ac.jp,
+    zin@appl.sci-nnov.ru, rsiebenm@iso.vilspa.esa.es,
+    afs@phobos.caltech.edu, michiel@astro.berkeley.edu, ct@ucolick.org,
+    nar@astro.livjm.ac.uk, lery@astro.queensu.ca, jcn@iac.es, lho@ociw.edu,
+    figer@astro.ucla.edu, lt@astro.caltech.edu, jat@ast.leeds.ac.uk,
+    jkotilai@stardust.astro.utu.fi, delgado@iaa.csic.es, vcosta@astro.up.pt,
+    M.Burton@unsw.edu.au, antonio@argus.iagusp.usp.br,
+    Ray.Norris@atnf.csiro.au, zlatan@pha.jhu.edu, efremov@sai.msu.su,
+    persi@saturn.ias.rm.cnr.it, xkong@mail.ustc.edu.cn,
+    jvb@bootes.phy.umist.ac.uk, klessen@strw.leidenuniv.nl,
+    rhajjar@ndu.edu.lb, Simon.Ellingsen@utas.edu.au, pandey@upso.ernet.in,
+    anilk_pandey@hotmail.com, acc@jach.hawaii.edu, V.Agapitou@qmw.ac.uk,
+    IrvWms@gte.com, valerys@orc.ru, mpetr@eso.org, bce@ll.iac.es,
+    ligori@mpia-hd.mpg.de, sclark@star.herts.ac.uk, aquirrenbach@ucsd.edu,
+    tmg@star.herts.ac.uk, desmurs@oan.es, ferguson@ast.cam.ac.uk,
+    itoh@radix.h.kobe-u.ac.jp, tjtm@staru1.livjm.ac.uk, ebrats@astro.noa.gr,
+    jhh@star.herts.ac.uk, nuria@orion.mat.ucm.es, mf@orion.mat.ucm.es,
+    dlp@ipac.caltech.edu, krs@bb2.jpl.nasa.gov, jli@nova.bao.ac.cn,
+    laurent.cambresy@obspm.fr, lgm@astro.umd.edu, ljz@nova.bao.ac.cn,
+    shirose@astro5.yy.kagu.sut.ac.jp, colina@stsci.edu, qzhang@stsci.edu,
+    joanno@ipac.caltech.edu, mt@bufadora.astrosen.unam.mx,
+    sekiya@geo.kyushu-u.ac.jp, ishitsu@geo.kyushu-u.ac.jp,
+    yuri@geo.titech.ac.jp, maurey@bufadora.astrosen.unam.mx,
+    gmitchell@ap.stmarys.ca, tlb@aaoepp.aao.gov.au, ashish@tifr.res.in,
+    omukai@tap.scphys.kyoto-u.ac.jp, dloren@coma.mporzio.astro.it,
+    teresa@coma.mporzio.astro.it, rosenthal@mpe.mpg.de, stepanov@csu.ac.ru,
+    jalves@eso.org, brandl@astrosun.tn.cornell.edu, cdavis@jach.hawaii.edu,
+    nakamoto@rccp.tsukuba.ac.jp, E.F.Bell@Durham.ac.uk,
+    jklee@roen.phys.unsw.edu.au, kbrooks@atnf.csiro.au,
+    audard@astro.phys.ethz.ch, guedel@astro.phys.ethz.ch,
+    mercedes@oac.uncor.edi, michel.tagger@cea.fr, tagger@cea.fr,
+    sano@th.nao.ac.jp, Glenenning@lbl.gov, jlim@asiaa.sinica.edu.tw,
+    jsilber@star.herts.ac.uk, jsr@mrao.cam.ac.uk, sj@phobos.caltech.edu,
+    mds@star.arm.ac.uk, lwl@mpe.mpg.de, purni@iiap.ernet.in,
+    zhanghm@ecs.toyama-u.ac.jp, thomas.preibisch@mail.uni-wuerzburg.de,
+    jwiseman@pha.jhu.edu, lamzin@sai.msu.su, helou@ipac.caltech.edu,
+    abelikov@inasan.rssi.ru, yokamoto@mtk.ioa.s.u-tokyo.ac.jp,
+    tmatsuda@kobe-u.ac.jp, dudorov@csu.ac.ru, shibata@solar.mtk.nao.ac.jp,
+    moiseenko@mx.iki.rssi.ru, freddy@sron.rug.nl, agg@ast.leeds.ac.uk,
+    jhora@cfa.harvard.edu, snarita@mail.doshisha.ac.jp,
+    stefano.pezzuto@ifsi.rm.cnr.it, lizano@astrosmo.unam.mx,
+    andy@mpia-hd.mpg.de, kessel@mpia-hd.mpglde, adriano@iagusp.usp.br,
+    jaque@iagusp.usp.br, miyawaki@fukuoka-edu.ac.jp,
+    hethp.mpe-garching.mpg.de@tap.scphys.kyoto-u.ac.jp,
+    conga.oan.es@tap.scphys.kyoto-u.ac.jp, jbw@yac.bao.ac.cn,
+    bensch@ph1.uni-koeln.de
+Cc: nishi@tap.scphys.kyoto-u.ac.jp
+Subject: Star Formation 1999 (second circular)
+
+Dear Colleagues,
+
+       this is the second circular of an international conference 
+  `Star Formation 1999'.  
+
+Best Regards
+***************************************************************************
+
+                         Star Formation 1999
+
+                       June 21 -- June 25, 1999
+
+                   Nagoya University, Nagoya, Japan
+         
+                             sponsored by
+                                
+                 National Astronomical Observatory of Japan,
+                                
+       JSPS Grant-in-Aid for `A Thorough Study of the Magellanic Clouds'
+                                  and
+                           Nagoya University
+
+                         ***********************    
+                         **  Second Circular  **
+                         ***********************
+
+        The aim of this conference is to summarize our present 
+        knowledge on star formation and foresee future directions.
+        This conference will cover all the topics related to star 
+        formation, e.g., molecular clouds and cores, protostars
+        and their associated disks, jets and other activities from
+        YSOs, binary and cluster formation, and star formation in nearby
+        and young galaxies. The conference consists of invited talks 
+        by the researchers in the forefront of the study of star 
+        formation. We also prepare a large hall for poster presentations.
+
+This circular contains the following items.
+
+     I. Scientific Program
+    II. Social Event
+   III. Transportation
+    IV. Abstract book and proceedings
+     V. Registration 
+    VI. Call for Contributed Papers
+   VII. Financial Support
+  VIII. Accommodation
+    IX. Key Dates
+     X. Useful resources in WWW 
+    XI. Contact addresses 
+   XII. Organization
+
+I. Scientific Program
+
+   We will discuss the following topics.
+
+        1.  Physical Nature of Molecular Clouds and Interstellar Medium 
+        2.  From Cloud Cores to Ptorostars
+        3.  Outflows and Stellar Activities
+        4.  Circumstellar Disks and Envelopes 
+        5.  Formation of Brown Dwarfs and Very Low Mass Stars
+        6.  Formation of High Mass Stars
+        7.  Mass Spectrum and Star Formation Rates
+        8.  Multiple Stellar System and Cluster Formation
+        9.  Large Scale Structure of Star Forming Regions
+       10.  Star Formation in Metal-poor Environment and Early Universe
+
+   We have asked the people listed below to give invited talks
+   at Star Formation 1999.
+
+        P. Andre (Saclay, France) 
+                ``The initial conditions of star formation: 
+                Observations of pre-stellar cores and young protostars''
+        S. Beckwith (STScI, USA):  
+                ``Circumstellar Disks''*
+        C. Beichmann (IPAC, USA): 
+                ``Very Low Mass Stars''*
+        A. P. Boss (Carnegie Inst. Wash., USA):  
+                ``Collapse and Fragmentation of Magnetic Molecular 
+                  Cloud Cores''
+        B. Elmegreen (IBM, USA): 
+                ``Star formation in galaxies''*
+        R. B. Larson (Yale U., USA): 
+                ``Initial Mass function''
+        C. F. McKee (UC Berkeley, USA): 
+                ``The Formation of Clusters of Low Mass Stars''
+        T. Montmerle (Saclay, France): 
+                ``X-rays from Young Stellar Objects: 
+                Magnetic structures, Irradiation effects, and Accretion''
+        P. C. Myers (CfA, USA):  
+                ``Physical properties of dense cores in dark clouds''*
+        T. Nakano (NAO, Japan): 
+                ``Star formation in magnetic clouds''
+        C. A. Norman (STScI, USA):  
+                ``The influence of star formation on the interstellar 
+                medium.''*
+        F. Palla (Arcetri, Italy):
+                 ``Primordial star formation''
+        L. F. Rodriguez (UNAM, Mexico)
+                ``Jets and Outflows from YSOs''
+        H. Zinnecker (Potsdam, Germany):  TBA
+
+                (*: tentative title)
+
+   In addition to the above listed people we will have invited speakers 
+   from Japan. They are announced in a later circular.  
+
+   All the oral presentations are given by invited speakers.
+   We have also a poster session from the afternoon of June 21 to
+   the morning of June 25.  All the poster papers are open for 
+   discussion for full four days.
+ 
+II. Social Event
+
+      On the occasion of the conference, we celebrate the retirement
+      of Professor Takenori Nakano from Nobeyama Radio Observatory
+      of National Astronomical Observatory, Japan at the age of 60.
+      The party will be held on Thursday, June 24, 18:00 at Daiichi 
+      Hotel Nishiki. The party is included in registration fee. 
+
+III. Transportation
+
+      Nagoya is located between Tokyo and Osaka and has its own
+      international airport. 
+        From Nagoya International Airport (NGO): 
+             Express buses to downtown Nagoya 30min.
+        From Osaka Kansai International Airport (KIX): 
+             JR line limited express ``Haruka'' (48min.) to Shin-Osaka 
+             station and JR Shinkansen bullet train ``NOZOMI'' (52min.) 
+             or ``HIKARI'' (61min.) from Shin-Osaka station to Nagoya 
+             station
+             (approximately 2h.30min. from KIX to Nagoya station) 
+        From Narita (New Tokyo) International Airport (NRT):
+             JR line limited express ``Narita EX'' (60min.) to Tokyo 
+             station and JR Shinkansen bullet train ``NOZOMI'' (1h36min.) 
+             or ``HIKARI'' (1h.52min.) from Tokyo station to Nagoya 
+             station 
+             (approximately 3h.30min. from NRT to Nagoya station)
+
+      From Nagoya station: 
+        Take the Subway Higashiyama Line from Nagoya station to 
+        Motoyama station (15 min.). At Motoyama station, take 
+        the municipal bus to Nagoya Daigaku Mae (5min.), or walk south 
+        along Yotsuya-dori Street to Nagoya University (15min.).
+
+IV. Abstract book and proceedings
+
+        Abstract book and proceedings of the Star Formation 1999 will
+        be published and distributed to conference participants.
+        Also the proceedings will appear at ADS (NASA's Astrophysics
+        Data System, http://adswww.harvard.edu/) and become readable
+        through WWW.
+
+        Authors of poster and oral presentations are asked to observe
+        deadlines and instructions. Deadline for the abstract is May 20,
+        1999 and that for the proceedings is July 31, 1999. But notice
+        that when you want to apply to financial support from the
+        conference, you should submit your abstract by February 15 if
+        you do not live in Japan, or by March 31 if you live in Japan.
+        Manuscripts should be submitted to
+           sf99submit@rccp.tsukuba.ac.jp
+        via e-mail.  Instructions, LaTeX format style files, and some
+        sample files for the Star Formation 1999 are available from
+        our WWW Home Page.
+
+V. Registration 
+
+        The registration fee is 14,000 Japanese Yen for early 
+        registration before March 31, 1999 and 16,000 Japanese Yen 
+        after April 1, 1999. It is reduced to 10,000 Japanese Yen 
+        for a student who has registered himself before March 31, 
+        and to 14,000 Japanese Yen for a student who has registered
+        himself after April 1, 1999. The registration fee for an
+        accompanying person is 10,000 Yen. The registration fee covers
+        an abstract book, a copy of the proceedings, party, and
+        refreshments during the conference. Registered acompanying
+        persons are invited to the party. 
+
+        If you live in Japan, the reduction for early registration 
+        is applied only when you send us the fee through the postal 
+        transfer (No. 00990-4-137606, Star Formation 1999 Jimukyoku) 
+        by March 30. If you live outside Japan, you can pay the
+        registration fee at the registration desk. We accept only  
+        Japanese Yen cash at the registration desk. 
+
+        You can register yourself 1) at our WWW home page, 2) by E-mail,
+        or 3) by fax. You can choose only one out of the three ways to
+        register. However, we strongly recommend the registration through 
+        the WWW page because your form will be processed automatically 
+        by our computer. Please input your full name, department,
+        institution, address, country, position (student or not),
+        telephone and fax numbers, E-mail address (necessary), 
+        title of poster (if you wish to present a poster),
+        and wish of financial support. 
+
+             WWW: http://www-tap.scphys.kyoto-u.ac.jp/~sf99/conf.html 
+             E-mail: sf99@tap.schpys.kyoto-u.ac.jp
+             Fax: +81-75-753-3886, to Secretariat of Star Formation 1999 
+
+VI. Call for Contributed Papers
+
+        All the participants except for invited speakers are encouraged
+        to submit a poster paper. Poster space available is 90cm (width)
+        x 120 cm (height) for each participant. We assume that the first
+        author is the participant who subimts the poster paper. 
+        The first author of a poster paper should not be duplicate 
+        with that of another poster or oral paper. 
+        Those who wish to present contributed papers are requested
+        to write the title in the Registration Form. The deadline of
+        application will be March 31, 1999. The contributed papers
+        are presented in the poster format only.
+
+        Authors of poster and oral presentations are asked to observe
+        deadlines and instructions. Deadline of the abstract is May 20,
+        1999 and that of the proceedings is July 31, 1999.
+  
+
+VII. Financial Support
+
+        We have a limited amount of travel support for participants
+        and are still applying for another grant. Those who need
+        the support should 
+           1.  register yourself through WWW or by E-mail,
+           2.  send abstract before the deadline to
+                    sf99submit@rccp.tsukuba.ac.jp
+           3.  and send the financial support application form
+                    by e-mail to
+                    sf99@tap.scphys.kyoto-u.ac.jp
+        Note that the deadlines for registration and abstract
+        are earlier for those who apply to financial support.
+        For participants from overseas who apply for the
+        support, the deadline is February 15, 1999. Otherwise, the
+        deadline is March 31, 1999. We select applications taking
+        account of the age and poster paper abstract. Preference
+        is given to younger participants who have rare chances to
+        obtain financial support. The result will be informed to each 
+        applicant by the end of April to those from overseas and 
+        by the end of May to those from Japan.
+
+VIII. Accommodation 
+
+        We have booked single and twin rooms for participants at 
+        Daiichi Hotel Nishiki. The room charge is 8,835 Yen and 
+        14,726 Yen per night per room for single and twin rooms, 
+        respectively. This includes service charge and tax but 
+        not any meal. This rate is reduced 15% from the normal price 
+        listed on WWW. 
+
+        You can request the rooms 1) at our WWW home page, 2) by E-mail.
+        You can choose only two out of the two ways. 
+        However, we strongly recommend the registration through the WWW
+        page because your form will be processed automatically by our
+        computer. Please input your full name, gender, affiliation,
+        E-mail address, number of single/double room(s), arrival (the
+        first night), departure (the last morning), expected arrival time.
+        If you order twin room or more than 1 single room, specify all
+        the accompanying person(s) (Full Name) and their gender(s) (m/f). 
+
+             WWW: http://www-tap.scphys.kyoto-u.ac.jp/~sf99/conf.html 
+             E-mail: sf99@tap.schpys.kyoto-u.ac.jp 
+
+        Location of Daiichi Hotel Nishiki: 
+             3-18-21 NISHIKI NAKA-KU NAGOYA-SHI, AICHI 460-0003 
+        To the Hotel: 
+             by taxi from JR Nagoya Station 7min. 
+             walk from Sakae Station (Subway Higashiyama Line) 2min. 
+                                (Exit No.1 is convenient)
+        From the hotel to Nagoya University: 
+             You can access to Nagoya University by bus (direct, 30min.)
+             or by subway (10min.) and bus (5min.). 
+
+        You will find further information on WWW. 
+             URL: http://www.daiichi-hotel.co.jp/nishiki/index-e.html
+
+IX. Key Dates
+
+        Deadline for Financial Support: February 15, 1999
+                (only for participants from Japan: March 31, 1999)
+                Note that the applicants are required to register
+                themselves and send their abstracts before the
+                deadline for financial support.
+        Deadline for Early Registration and Poster Presentation: 
+                             March 31, 1999 
+        Deadline for Hotel Reservation: April 30, 1999
+        Deadline for Abstract: May 20, 1999 
+        Final Circular: May, 1999
+        Deadline for proceedings: July 31, 1999
+
+X. Useful resources in WWW 
+
+        Star Formation 1999: 
+                http://www-tap.scphys.kyoto-u.ac.jp/~sf99/conf.html
+        Nagoya U.:  http://www.nagoya-u.ac.jp/ 
+        Transportation guide to Nagoya U.: 
+                http://www.nul.nagoya-u.ac.jp/about/about_e.html
+        Nagoya:  http://www.u-net.city.nagoya.jp/ncvb/index_e.htm 
+        Daiichi Hotel Nishiki: 
+                http://www.daiichi-hotel.co.jp/nishiki/index-e.html
+        Travel in Japan:  http://www.jnto.go.jp/
+        Kansai Airport:  http://www.kansai-airport.or.jp/index-e.html
+
+XI. Contact addresses 
+
+        Registration: 
+           WWW: http://www-tap.scphys.kyoto-u.ac.jp/~sf99/register.html 
+           E-mail: sf99@tap.schpys.kyoto-u.ac.jp
+           Fax: +81-75-753-3886, to Secretariat of Star Formation 1999 
+        Financial Support: 
+           E-mail: sf99@tap.schpys.kyoto-u.ac.jp
+           Fax: +81-75-753-3886, to Secretariat of Star Formation 1999 
+        Accommodation: 
+           WWW: http://www-tap.scphys.kyoto-u.ac.jp/~sf99/hotel.html 
+           E-mail: sf99@tap.schpys.kyoto-u.ac.jp
+        Abstract and Proceedings
+        (Instructions, LaTeX format style files, and some sample files): 
+           WWW: http://www-tap.scphys.kyoto-u.ac.jp/~sf99/conf.html 
+        (Submit) 
+           E-mail: sf99submit@rccp.tsukuba.ac.jp
+
+XII. Organization
+
+     1. Advisory Committee
+          Y. Fukui (Nagoya U.), T. Hasegawa (U. Tokyo),
+          M. Hayashi (NAO), S. Ikeuchi (Nagoya U.), N. Kaifu (NAO), 
+          K. Koyama (Kyoto U.), S. M. Miyama (NAO, chair), 
+          N. Nakai (NAO), S. Sato (Nagoya U.), K. Sato (U. Tokyo), 
+          H. Shibai (Nagoya U.)
+
+     2. Organizing Committee
+          T. Hanawa (Nagoya U., chair), M. Momose (NAO), 
+          T. Nagata (Nagoya U.), T. Nakamoto (U. Tsukuba), 
+          R. Nishi (Kyoto U.), K. Tatematsu (NAO)
+          T. Umebayashi (Yamagata U.)
+
+Prof. Shoken M. Miyama (AC chair) 
+Theoretical Astronomy Division 
+National Astronomical Observatory 
+Mitaka, Tokyo 181-8588, Japan 
+tel: +81-422-34-3738 
+fax: +81-422-34-3746 
+
+Dr. Tomoyuki Hanawa (LOC chair) 
+Theoretical Astrophysics Group 
+Nagoya University
+Nagoya 464-8602, Japan 
+tel: +81-52-789-2841
+fax: +81-52-789-2845
+
+We are looking forward to seeing you at SF99. 
+
+**************************************************************************
+*        Financial support application form
+*        (Those who need the support should send this form to 
+*         sf99@tap.schpys.kyoto-u.ac.jp)
+Name: 
+Age: 
+Affiliation: 
+Job status (position): 
+Home town (airport or JR line station) from which she/he departs:
+ 
+Poster title: 
+**************************************************************************
+*   Please do not forget registration and sending abstract.
+------------- End Forwarded Message -------------
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: 	astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		    (or +02-2652-2020 ext 224, fax +02-2788-1106)
+To check the back issues:	   	 <http://asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
+
+

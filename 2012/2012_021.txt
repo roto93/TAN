@@ -1,0 +1,190 @@
+Date: Sat, 4 Feb 2012 03:56:02 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jan 31 - Feb 03, 2012)
+
+============================================================================== 
+
+In this issue (Jan 31 - Feb 03, 2012)
+
+1. TIARA talks (Feb 13): Tsvi Piran (Hebrew University)
+2. ALMA Cycle 0 status and SV data
+3. Veneziano's talk and LeCosPA symposium (Feb 10)
+
+==============================================================================
+
+> Date: Wed, 01 Feb 2012 18:07:00 +0800  
+> From: Kouichi Hirotani <hirotani@tiara.sinica.edu.tw>        
+> Subject: TAN AD request
+
+Dear Prof. Kuan, 
+
+I should appreciate it if you could advertise the following seminars 
+on TAN. 
+
+Thank you very much. 
+
+Kouichi Hirotani (ASIAA/TIARA, NTHU) 
+
+--------------------  (Please cut here.)  -------------------------- 
+
+Prof. Tsvi Piran (Racah Institute for Physics, Hebrew University), 
+a leading gamma-ray burst physicist, will give two lectures at 
+National Tsing Hua University (NTHU). 
+Everybody is cordially invited to participate the lectures. 
+
+Feb 13 (Mon)  11:00-12:00, Room 620, Physics Building, NTHU 
+
+  Introductory talk: 
+  "Gamma-Ray Bursts - the strongest explosions in the Universe" 
+
+Feb 13 (Mon)  13:30-14:30, Room 620, Physics Building, NTHU 
+
+  Advanced talk: 
+  "Progenitors of long and short GRBs" 
+
+Since Prof. Piran will be staying in NTHU during Feb 9-13, 
+please feel free to visit ASIAA/TIARA in NTHU campus also on 
+Feb 9 (afternoon) and 10 (all day) to meet him. 
+
+
+  Contact: 
+
+  Kouichi Hirotani (ASIAA/TIARA) 
+  
+  Address: 8F, General bldg 2, 
+            Dept of Physics, NTHU 
+            101, Sec. 2, Kuang Fu Rd., Hsinchu, Taiwan 300 
+
+  Phone:  03-571-5131 ext. 33281 
+  Email:  hirotani@tiara.sinica.edu.tw 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+==============================================================================
+
+> Date: Thu, 2 Feb 2012 17:29:52 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> cc: alma-t@asiaa.sinica.edu.tw
+> Subject: ALMA Cycle 0 status and SV data
+
+Dear ALMA users,
+
+There are two pieces of information in this message.
+
+1. Cycle 0 status and the timeline for Cycle 1.
+
+ALMA started scientific operations on 30 September 2011. While the quality
+of the data being collected is excellent, the completion rate of projects is
+lower than planned.  To increase the likelihood that most PIs of the highest
+priority Cycle 0 projects will receive scientifically valuable data sets,
+the Cycle 0 observing period will be extended until the end of 2012.  This
+extension will not delay completion of the array.
+
+The observatory plans to release information regarding the capabilities and
+timeline for ALMA Early Science Cycle 1 in April 2012.  The proposal
+deadline is expected to be in July 2012 with the start of Cycle 1
+observations at the beginning of 2013.
+
+For more details, please check the following link:
+http://almascience.nao.ac.jp/news/alma-early-science-cycle-0-status-report
+
+
+2. Science Verification Data
+
+The ALMA Observatory uses Science Verification (SV) to demonstrate
+that ALMA data is valid, as compared to other existing similar data
+taken by millimeter and submillimeter observatories, like the
+Submillimeter Array (SMA).  ALMA has released SV data to the world
+community already, and it will continue to do so.
+
+Available released SV data and related information:
+http://almascience.nao.ac.jp/alma-data/science-verification
+
+Some of these data includes guidelines for the calibration and imaging parts.
+
+The Taiwan ARC node reminds the Taiwanese community that is totally valid to
+publish scientific results originated from the analysis of released SV data. 
+The ARC strongly encourages the Taiwanese community to do so.
+
+The following is an extract from the ALMA Observatory, please check the above 
+link to get more information, as well as to download the data.
+
+Using the data for publication
+
+The following statement should be included in the acknowledgment of
+papers using the datasets listed above: "The Atacama Large
+Millimeter/submillimeter Array (ALMA), an international astronomy
+facility, is a partnership of Europe, North America and East Asia in
+cooperation with the Republic of Chile. This paper makes use of the
+following ALMA Science Verification data:
+ADS/JAO.ALMA#2011.0.0000X.SV", where X=1 for the TW Hya dataset, X=2
+for the NGC3256 dataset, X=3 for the Antennae mosaics, X=4 for M100
+and X=5 for the SgrA* data.
+
+Best Regards,
+Chin-Fei
+On behalf of the Taiwan ARC Node
+
+==============================================================================
+
+> Date: Fri, 3 Feb 2012 11:46:26 +0800
+> Subject: Prof. Veneziano's talk and LeCosPA symposium
+> From: Jiunn-Wei Chen <jwc@phys.ntu.edu.tw>
+> To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+> Cc: Pisin Chen <pisinchen@phys.ntu.edu.tw>
+
+Dear all,
+
+Per Prof. Pisin Chen's request, please announce the following talk by
+Prof. Veneziano through the joint colloquium mailing list. Prof.
+Veneziano is also an invited speaker in the coming LeCosPA symposium:
+http://lecospa.ntu.edu.tw/LeCosPA2012/program.php
+
+A pre-talk lunch will be organized. Please come to the 4F mail room of
+the CCMS-Phys building at 12:20 pm on Feb.10 if you are interested.
+
+Cheers,
+
+Jiunn-Wei Chen
+
+--------------------------------------------------------
+Time:
+2/10(Friday)  2:20pm -3:10pm
+Place:
+R810 Math & Astro-phys building (TBC)
+Speaker:
+Prof. Gabriele Veneziano
+(College of France in Paris, France)
+see http://en.wikipedia.org/wiki/Gabriele_Veneziano
+Title:
+Transplanckian scattering of particles, strings, and branes
+Abstract:
+I will review some 25 years of work on transplanckian-energy
+collisions in string theory, a "gedanken" experiment addressing some
+fundamental theoretical issues in quantum/string gravity. Its goals
+include an information-preserving description of black-hole formation
+and evaporation,  understanding the nature of string-induced
+short-distance modifications of gravity, and formulating the AdS/CFT
+correspondence within a strict S-matrix framework. The talk will be as
+little technical as possible.
+--------------------------------------------------------
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

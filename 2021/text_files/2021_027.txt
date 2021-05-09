@@ -1,0 +1,102 @@
+=============================================================================
+
+In this issue (Feb 19 - 20, 2021)
+
+1. Arizona Radio Observatory - Call for Proposals: 2021A (Feb 22)
+2. [Shida] NTNUES Astronomy Colloquium (Feb 23): Dipen Sahu (ASIAA)
+3. CFHT 2021B call for proposals
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2021A)
+[NB: Proposals which request observing time greater than 24 hours are permissible.]
+------------------------------------------------------------------------------
+
+To Astronomers and Astrophysicists of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the 10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for the period March 15, 2021 - June 15, 2021. No new proposals for the ALMA Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona will be accepted for this current call as proposals from the 2020A call for proposals are being observed during the 2021A proposal period. Proposal candidates from members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should submit up to THREE pages of scientific and technical justification (including figures, tables, and references) in addition to their Proposal Summary Sheet (form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the Proposal Summary Sheet their requested observing blocks (the exact LST ranges to be scheduled and number of times to be repeated), dates on which they are NOT available to observe, and dates in which sources in those observing blocks are within the Sun-avoidance zone (45 degrees at the SMT).
+
+The 10m SMT currently supports dual-polarization sideband-separating (SBS) observations at 1mm (211 - 280 GHz) and dual-polarization double-sideband observations at 0.8mm (325 - 370 GHz). The SMT control system supports both dual-polarization ("2 IF mode") and dual-polarization + dual-sideband observations ("4 IF mode") with tunable IF from 4.5-7.5 GHz, for position-switched, beam-switched, and OTF observations.  Proposal candidates should consult the ARO Equipment Summary and Status sheet for additional technical specifications:
+https://www.as.arizona.edu/arizona-radio-observatory .
+
+The SMT is currently restricted to remote observing. Observers must supply fixed IP address(es) of the computer(s) that will be used during observing on their Proposal Summary Sheet. For further information about remote observing and other operational questions, please contact the ARO Software Engineer Natalie Gandilo ngandilo@email.arizona.edu
+
+Scheduling of successful proposals will be done according to availability of the receivers requested. Proposals which request observing time greater than 24 hours will be considered based on scientific merit. Participation of graduate students is especially encouraged. Proposals should be emailed as a single file in PDF format to: kuan[at]asiaa.sinica.edu.tw by 23:59 CST on February 22, 2021 (Monday).
+
+==============================================================================
+
+Subject: NTNUES colloquium 23/Feb/2021: The earliest stage of stellar-multiples? - millimeter studies on evolution of molecular cores
+From    chenlw <chenlw@ntnu.edu.tw>
+Date    2021-02-19 21:05
+
+  Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         23/Feb/2021 14:20
+  Room S101, 1F, Research Building
+
+
+TITLE: The earliest stage of stellar-multiples? - millimeter studies on evolution of molecular cores
+
+SPEAKER: Dr Dipen Sahu (ASIAA)
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20210223.txt
+
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+==============================================================================
+
+Subject: Fwd: CFHT 2021B call for proposals
+From    Li-Hwai Lin <lihwailin@asiaa.sinica.edu.tw>
+Date    2021-02-19 15:41
+
+Dear Prof. Kuan,
+
+Could you help circulate the following message to TAN? Thank you in advance!
+
+best,
+Lihwai
+
+---------- Forwarded message ---------
+From: Li-Hwai Lin <lihwailin@asiaa.sinica.edu.tw>
+Date: 2021å¹´2æœˆ19æ—¥ é€±äº” ä¸‹å￾ˆ3:39
+Subject: CFHT 2021B call for proposals
+To: riaa <riaa@asiaa.sinica.edu.tw>, sumire <sumire@asiaa.sinica.edu.tw>
+
+
+Dear colleagues,
+
+The CFHT 2021B call for proposals is now open. The deadline for proposal submission through Taiwan TAC is 2021 Mar. 18 at 23:59. More details can be found here:
+
+http://cfht.hawaii.edu/en/science/Proposals/
+
+Some general guidelines for the proposal preparation are given on our CFHT website:
+http://oir.asiaa.sinica.edu.tw/cfht/observations.php
+
+
+best,
+Lihwai
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

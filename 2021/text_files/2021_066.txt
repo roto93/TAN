@@ -1,0 +1,67 @@
+==============================================================================
+
+From: Chia-Lung Lin <m1059006@gm.astro.ncu.edu.tw>
+Date: Fri, 9 Apr 2021 17:30:54 +0800
+Subject: The announcement of open online lectures on numerical simulation with "PLUTO" code
+To: astro@asiaa.sinica.edu.tw
+Cc: Ip Wing-Huen <wingip@astro.ncu.edu.tw>
+
+
+Dear members,
+
+Greetings.
+IANCU will be running a series of zoom online lectures on numerical
+simulation with the "PLUTO" code in May.
+Could you announce the following information about the event via TAN,
+please?  Thank you very much.
+
+-----------Information is below------------
+
+We are pleased to invite you to join us for a series of online lectures
+given by Dr. Milijenko Cemeljic on numerical simulations using the "PLUTO"
+code.
+The event is organized by the Institute of Astronomy, NCU.
+
+*Date*: May 4, May 6, May 11, May 13, and May 18, 2021 (Five classes in
+total.)
+*Time*: 4 pm to 6 pm (TW time, UTC+8) each class.
+
+***Lecturer***: Miljenko Cemeljic, NCAC, Poland & ASIAA, Taiwan
+https://web.tiara.sinica.edu.tw/~miki/
+<https://www.google.com/url?q=3Dhttps://web.tiara.sinica.edu.tw/~miki/&sa=
+=3DD&source=3Deditors&ust=3D1617963069798000&usg=3DAFQjCNErSXBTdsX4bZqYjgNn=
+42iWmepsfA>
+***Title***: Numerical simulations with PLUTO code
+***Place*** : Online
+***Abstract***:
+Aim of the lectures is to guide attendants to active using of the PLUTO
+code. We will work in 5x2 hrs blocks: each hour of theoretical exposition
+will be followed by an hour of hands-on work with the code. We will start
+with a brief introduction to numerical simulations in astrophysics and the
+position of the PLUTO code with respect to other codes. After a short
+description of numerical methods employed in the code, we will proceed with
+the code installation, testing of the installation, and initial
+visualization of the results with gnuplot. Next, we will set a purely
+hydrodynamic accretion disk in 2D, and learn to use more advanced
+visualization tools like Paraview and VisIt. I will also show the use of
+Python for visualization. On the example of adding the magnetic field in
+the accretion disk simulation, we will next learn the basics of the
+magneto-hydrodynamic simulations, both in ideal and non-ideal (viscous and
+resistive) approaches. I will show how to use a Linux cluster for
+simulations, and how to plot the magnetic field lines. In the last lecture,
+we will learn the setting of the full 3D magnetic accretion disk and
+visualization of the results.
+
+*More details and registration form:*
+https://docs.google.com/forms/d/e/1FAIpQLScTgr4NL63rT4GklMKWnIXykXPaqApxWN9=
+RcCvb09QQHbWYNA/viewform
+
+[image: =E5=9C=96=E7=89=87.png]
+----------Information is above----------
+
+Thanks and Best Regards,
+Chia-Lung Lin, Ph.D.
+Institute of Astronomy,
+National Central University
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

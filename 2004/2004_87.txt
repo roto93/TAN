@@ -1,0 +1,206 @@
+From astro@.MISSING-HOST-NAME. Thu May 20 22:45:12 2004
+Date: Wed, 19 May 2004 23:44:13 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue May 14 - 19, 2004)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (May 14 - 19, 2004):
+
+1. SMA Call for Proposals
+2. NCU Special Astronomy Colloquium (May 21): Xu Zhou (NAO, China)
+3. NCU Astronomy Colloquium (May 21): Luo, In-Yi (IANCU)
+4. CosPA/ASIAA Joint Journal Club (May 20): Guey-Lin Lin (NCTU)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Subject: SMA Call for Proposals
+
+ 
+ASIAA invites the astronomical community of Taiwan to submit proposals to 
+use our share of SMA's observing time.  The deadline for next proposal
+period is June 8.  A guideline for preparation of proposals is attached 
+below.
+
+
+A guideline for submitting SMA proposals
+
+The Submillimeter Array (SMA), consisting of eight 6 m radio telescopes 
+located at the top of Mauna Kea, Hawaii, USA, has been dedicated in 
+November 2003. Since then, we have been increasing the use of the SMA for 
+scientific observations, although we still spend significant of our time 
+to test, improve, or upgrade the instruments. Since the SMA is a 
+state-of-the-art observational tool and the first imaging array working at 
+submillimeter wavelengths, ASIAA would like to call for proposals or ideas 
+for the SMA observations extensively from the Taiwan community. While we 
+welcome proposals from the community, we should note that
+
+1.   Although the SMA has started producing good scientific results, 
+various features of the array are still being tested or remain to be 
+implemented: we will install 6 more Rx bands in addition to the 2 RX bands 
+(230 GHz and 345 GHz) working on the 8 antennas at this moment; simultaneous
+observations with two RX bands are still under planning; we also need to 
+improve the performance of the array, such as pointing of the telescopes. 
+We therefore spend two nights per week to work on various testing. Until 
+necessary tests are completed and outstanding features are implemented, it 
+is important for each SMA user to seek a proper understanding of the 
+present capabilities of the array and its limitations.
+
+2.   The share of the ASIAA is 13% of the whole SMA time. In the 1st 
+semester (Dec., 2003-Mar., 2004), the ASIAA got 8 successful tracks (each 
+track lasts a full night or a half night, e.g., 5-10 hours, depending on 
+the source availability.). ASIAA's share is not obviously big enough for 
+us to have many programs in each semester. 
+
+Taking into consideration of these constraints, ASIAA has decided to 
+undertake a separate time allocation committee (TAC) from SAO to allocate 
+our share of the SMA time.  We also established the mechanism of having
+
+three science groups (galaxies, star-formation, and evolved stars) to 
+prepare and rank proposals.  Through this mechanism, we hope to achieve 
+the following objectives: (i) to involve as many people as possible in SMA 
+than it is possible through individual proposals; (ii) maximize the 
+scientific return from our limited share of observing time through a 
+thorough discussion of the science and technical feasibility; and (iii) to 
+ensure that Taiwan plays a leading (not a subordinate) role in SMA science.  
+
+The same principles will apply for proposals from outside of ASIAA.  We 
+would like to suggest the following procedures:
+
+A.   Whenever you have an idea of SMA observations, talk to the contact 
+person of one of the 3 science groups above mentioned as soon as possible, 
+according to the category of your proposal (e.g., extragalactic, star 
+formation, or evolved stars). We strongly encourage you to have a close 
+collaboration with people in the ASIAA-SMA team. The contact person will 
+help you to seek internal collaborators if you would like. If the subject 
+of your proposal falls into none of the 3 categories, or you are not sure, 
+please contact Nagayoshi Ohashi (ohashi@asiaa.sinica.edu.tw).
+
+B.   We ensure that your idea/proposal will be discussed at group 
+meetings and you are strongly encouraged to attend these meetings. Because
+each group eventually ranks the proposals submitted under their subject
+area, each proposal is discussed extensively at group meetings in the
+lead-up to the proposal deadline. The purpose of these discussions is to
+sharpen the science objectives, address any technical hurdles, and garner
+support for the proposal.  It is therefore critical for you or your 
+collaborators to present your ideas at group meetings.
+
+C.   All proposals should be submitted to sma-proposal@asiaa.sinica.edu.tw
+by the proposal deadline at each semester. Each group will rank proposals
+discussed at their group meetings and ASIAA-TAC will make the final ranking.
+Proposals, which fall into none of the 3 categories, will be evaluated and
+ranked by the ASIAA-TAC, as needed.
+
+Actual observations at the SMA will be made according to the priority list 
+made by the ASIAA-TAC, but all proposals will be shared-risk, with no 
+guarantee of observations, and no claim to make up observations in future
+proposal periods, regardless its priority.
+
+Even if you do not submit any proposals, you are very welcome to join
+discussions at each group. We will announce schedules of each group 
+meeting to discuss proposals as well as the proposal deadline for each 
+semester.
+
+-- 
+==========================================================================
+Sun Kwok, Director                       email:  kwok@asiaa.sinica.edu.tw
+Institute of Astronomy & Astrophysics    Phone:  886-2-3365-2200 ext. 700
+Academia Sinica                          Fax:    886-2-2367-7849
+P.O. Box 23-141                          Cell:   886-932-152942
+Taipei 106, Taiwan                       URL:    http://www.asiaa.sinica.edu.tw
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Fri, 14 May 2004 15:47:17 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Special Astronomy Colloquium 
+
+
+                ***********************************
+                |  National  Central  University  |
+                * ------------------------------- *    
+                              Special 
+                \_____ Astronomy  Colloquium _____/
+
+
+                 2:00 p.m. 21th May 2004 (Friday)
+              Science Building IV, Conf. Room, Rm 1013
+   
+                            
+              Speaker :  Prof. Zhou, Xu  
+                         (National Astronomical Observatoires, China)
+         
+              Title : The Review and Progress of BATC Survey
+
+              Abstract:
+
+              The history of BATC project is more than 10 years with 
+              support from cooperation between IANCU and National 
+              Astronomical Observatoires, China (NAOC). I will talk 
+              about the situation of instrument, observation, data base 
+              and the scientific achievements obtained from BATC project.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Fri, 14 May 2004 15:47:50 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Astronomy Colloquium 
+
+
+                ***********************************
+                |  National  Central  University  |
+                * ------------------------------- *     
+                \_____ Astronomy  Colloquium _____/
+
+
+                  3:00 p.m. 21th May 2004 (Friday)
+              Science Building IV, Conf. Room, Rm 1013
+   
+                            
+              Speaker :  Luo, In-Yi
+                         (IANCU)
+
+                               
+              Title :  2D Simulation of Parker Instability 
+                       Driven by Cosmic Ray
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+From: "Vicky Chen" <wcchen@phys.ntu.edu.tw>
+To: <Undisclosed-Recipient:;>
+Subject: CosPA / ASIAA Joint Journal Club on May 20
+Date: Mon, 17 May 2004 13:43:54 +0800
+
+
+*************** CosPA / ASIAA Joint Journal Club ***************
+
+Seminars in Astrophysics (II)
+
+Title:
+Introduction to neutrino physics (I)
+
+Speaker:
+Prof. Guey-Lin Lin
+(Department of Physics, NCTU)
+
+Time:
+2004.5.20   12:20 - 13:20
+
+Place:
+ Room 815, Taida New Physics Building
+ ***********************************************************
+
+ Note:  Please send the request for lunch box to
+           Vicky Chen (wcchen@phys.ntu.edu.tw) by 10:00 am,
+            May 20.
+
+ Best regards,
+
+ Vicky
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

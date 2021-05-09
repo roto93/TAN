@@ -1,0 +1,79 @@
+> Subject: SMA Call for Proposals
+> From: "Tirupati Kumara, Sridharan" <tksridharan@cfa.harvard.edu>
+> Date: Thu, 10 Aug 2017 09:40:02 -0400
+> Cc: Sridharan Kumaran Tirupati <tksridha@cfa.harvard.edu>
+> To: cfa-wide <cfa-wide@cfa.harvard.edu>,
+>        sma-newsletter <sma-newsletter@cfa.harvard.edu>
+
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the SMA call for proposals=20=
+
+(2017B semester) to TAN.
+
+Regards,
+Naomi
+
+--------------------------------------------
+
+Dear Colleague,
+
+We wish to draw your attention to the currrently open call for proposals =
+for observations with the Submillimeter Array (SMA), the reconfigurable =
+interferometric array of eight 6-m antennas on Mauna Kea jointly built =
+and operated by the Smithsonian Astrophysical Observatory and the =
+Academia Sinica Institute of Astronomy and Astrophysics. The array =
+operates in the 230 GHz, 345 GHz and 400 GHz bands.=20
+
+The SMA is currently accepting proposals for the 2017B observing =
+semester (16 Nov, 2017 - 15 May, 2018) from principal investigators from =
+the worldwide astronomical community. The proposal deadline is Wed., 6 =
+Sep. 2017, 16:00 EDT (US) [Wed., 6 Sep. 2017, 10:00 HST (Hawaii)/ Wed., =
+6 Sep. 2017, 20:00 GMT / Thu., 7 Sep. 2017, 04:00 CST (Taipei)]
+
+The SMA has recently completed significant upgrades in observational =
+capability, with more underway. Currently, the SMA observes =
+simultaneously with two orthogonally polarized receivers, one in the 230 =
+GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with =
+full polarimetric observations available using the 230+240 or 345+400  =
+band combinations). The SWARM correlator processes 8 GHz bandwidth for =
+each receiver in each sideband, for a total of 32 GHz, at a uniform 140 =
+kHz resolution. This 32 GHz frequency coverage can be continuous where =
+the tuning ranges overlap for the two orthogonally polarized receivers. =
+In short, the SMA now provides flexible, wide band frequency coverage =
+that delivers high continuum sensitivity and excellent spectral line =
+capabilities. A full track offers continuum sensitivity of 200 or 500 =
+micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions =
+(precipitable water vapor 2.5mm and 1.0mm, respectively). The =
+corresponding line sensitivities at 1 km/s resolution are 30 and 70 mJy. =
+The small antennas allow access to low spatial frequencies in the =
+sub-compact configuration and the finest angular resolution at 345 GHz =
+in the very extended configuration is ~ 0.25". Thus, in some ways, the =
+characteristics of the SMA may be both similar and complementary to =
+those of the stand-alone Atacama Compact Array (ACA) component of ALMA.=20=
+
+
+For more information about SMA capabilities, visit the SMA Observer =
+Center website http://sma1.sma.hawaii.edu/ =
+<http://sma1.sma.hawaii.edu/>and explore the set of SMA proposing tools
+at http://sma1.sma.hawaii.edu/tools.html <http://sma1.sma.hawaii.edu/>. =
+Current and archived SMA Newsletters available online at =
+https://www.cfa.harvard.edu/sma/newsletter/ =
+<https://www.cfa.harvard.edu/sma/newsletter/> provide a sampling of the =
+wide variety of science possible with the SMA. =20
+
+Instructions on proposal preparation and submission, are available at =
+the SMA Observer Center website http://sma1.sma.hawaii.edu/ =
+<http://sma1.sma.hawaii.edu/>. Questions or comments regarding this Call =
+for Proposals can also be addressed to propose@sma.hawaii.edu =
+<mailto:propose@sma.hawaii.edu>.
+
+--=20
+You received this message because you are subscribed to the Google =
+Groups "sma-newsletter" group.
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to sma-newsletter+unsubscribe@cfa.harvard.edu =
+<mailto:sma-newsletter+unsubscribe@cfa.harvard.edu>.
+
+==============================================================================

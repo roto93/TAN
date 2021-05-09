@@ -1,0 +1,31 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yu-Yen Chang (MPIA)
+Topic:         Stellar Masses and Star Formation Rates for 1M Galaxies from SDSS and WISE
+Time:         9/9 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+We assemble multi-wavelength photometry for the full SDSS spectroscopic galaxy sample, drawing from the SDSS and WISE surveys, covering the wavelength range 0.4-22 micron. We use the latest modeling techniques to estimate stellar masses and star formation rates. The addition of photometry at > 1 micron improves these measurements as compared to previous SDSS-based estimates. The newly measured star formation rates allow us to test methods to separate early-type (passive) from late-type galaxies (star-forming) galaxies.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Chan-Kao Chang (NCU)
+Topic:         The intermediate Palomar Transient Factory (iPTF) & the 10k Asteroid Rotation Period (10kARP) Project
+Time:         9/10 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The Palomar Transient Factory (PTF) is a synoptic survey designed to explore the transient and variable sky. The PTF camera, the former CFHT 12k mosaic camera, mounted on Palomar Observatory’s 1.2-m f/2.44 Oschin Schmidt Telescope, uses 11 CCDs (4096 × 2048 each) to observe 7.26 deg2 of the sky at a time with a resolution of 1.01 arcsec/pixel. The project started its operation in 2009 and stepped into its second phase, iPTF, in 2013. The nominal survey is at R-band, but additional observations are also made at g-band and H alpha band. The standard exposure time per frame is 60 seconds, yielding a 3-sigma limiting magnitude of 20.5 and 21 for R- and g-band respectively. The iPTF has carried out various experiments with different cadences, from a 5-day cadence to 90 seconds.
+
+The 10k Asteroid Rotation Period (10kARP) Project is trying to use PTF data to collect 10,000 asteroid rotation periods, from which we try to understand the spin rate distributions for different size asteroids and see whether their distributions are different from their NEA counterparts. In addition, we also try to search super-fast rotator (SFR), which has diameter of several hundreds meter and rotates faster than the “spin barrier” at ∼ 2 hours. Such SFR is very critical to understand the interior structure of asteroid with D>150 m.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

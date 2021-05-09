@@ -1,0 +1,67 @@
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: ALMA: Call for Proposals for Cycle 2 (additional info)
+> Date: Wed, 6 Nov 2013 23:35:46 +0800
+> Cc: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>, riaa@asiaa.sinica.edu.tw,
+>    UCAT <almau@sgrb2.geos.ntnu.edu.tw>
+
+Dear Prospective Users,
+
+
+> Call for Proposals for ALMA Cycle 2
+>=20
+> The ALMA Director, on behalf of the Joint ALMA Observatory (JAO) and =
+the=20
+> partner organizations in East Asia, Europe, and North America, is
+> pleased to announce the Early Science Cycle 2 Call for Proposals =
+(CfP).
+> Members of the astronomical community are invited to propose for
+> scientific observations that will be scheduled from June 2014 to =
+October
+> 2015.
+
+Please use EA portal for Cycle 2 information.
+=
+http://almascience.nao.ac.jp/news/alma-cycle-2-call-for-proposals-is-now-o=
+pen
+
+ADDITIONAL INFO!!
+
+(1) Cycle 1 Duplication Checklist (added on Nov 6)
+http://almascience.nao.ac.jp/proposing/call-for-proposals/duplications
+
+Cycle 2 proposals will be checked for duplication against successful =
+Cycle 1=20
+(though not Cycle 0) projects. The duplication criteria are given in
+Section 7.2.2 of the Proposer's Guide:
+<http://almascience.org/proposing/call-for-proposals/proposers-guide#PG
+Sect7.2.2>.
+
+Cycle 2 PIs should avoid proposing the same targets with similar =
+observational=20
+parameters in their Cycle 2 proposals, or should explain clearly why the
+proposed observations would not constitute a duplication.
+
+(2) Observations of monitoring or predictable events with ACA.
+The ACA restriction listed in Section 9 of the=20
+"ALMA Capabilities page"
+http://almascience.nao.ac.jp/proposing/call-for-proposals/capabilities
+does not apply to observations of phenomena with predictable times and =
+for
+monitoring projects...
+Please check Knowledgebase article titled
+"If I observe a predictable phenomenon, is my project considered time =
+constrained?"
+on the science portal
+http://almascience.nao.ac.jp
+=
+https://help.almascience.org/index.php?/Knowledgebase/Article/View/224/0/i=
+f-i-observe-a-predictable-phenomenon-is-my-project-considered-time-constra=
+ined
+
+
+Best,
+Chin-Fei
+On behalf of the Taiwan ARC node
+
+==============================================================================

@@ -1,0 +1,96 @@
+
+In this issue (Jul 01 - 04, 2019)
+
+1. LOT 2019C Call-of-Proposal
+1. ASIAA Colloquium/Seminar/Lunchtalk (Jul 08): Yao-Lun Yang (UT Austin)
+                 (Jul 09): Chia-Yu Hu (Center for Computational Astrophysics)
+                 (Jul 10): Frank Eisenhauer (MPE)
+
+==============================================================================
+
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> Date: Mon, 1 Jul 2019 10:00:54 +0800
+> Subject: LOT 2019C Call-of-Proposal
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear Prof Kuan, please announce to TAN. Thanks a lot
+
+------------------------------------------------------------------------------
+Dear all, the call-of-proposal for LOT in 2019C Semester (01 Sep - 31 Dec,
+2019) is now available at Lulin website (look for "Lulin News" on
+2019-06-28)
+
+http://www.lulin.ncu.edu.tw/
+http://www.lulin.ncu.edu.tw/lulinnews/files/190628_LOT_2019C_Announcement.txt
+
+The deadline is: *** 05 August 2019 (before midnight local Taiwan time) ***
+
+------------------------------------------------------------------------------
+
+-- 
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> Date: Thu, 4 Jul 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Yao-Lun Yang (UT Austin)
+Topic:          The Dynamical and Chemical Evolution from Cores to Disks
+Time:           7/8 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+Physical processes including gravity, magnetic fields, and turbulence drive the dynamical and the chemical evolution during star formation. Magnetic fields regulate the transportation of angular momentum, determining the efficiency of infall and the growth of disks. While several numerical simulations investigate the dynamical evolution from starless cores to disk formation with different treatments of magnetic fields, observations of the kinematics of starless and protostellar cores are often challenging due to the low temperature and complex velocity structure, respectively. Thus, direct measurements of kinematics at different scales of protostellar envelopes will test models of the star and disk formation. The most direct probe of infall is the redshifted absorption against the central continuum source from optically thick emission, such as HCO+ and HCN. Our ALMA observations show such redshifted absorption toward an isolated embedded protostar, BHR 71, indicative of infa!
+ ll. We use 3D radiative transfer (LIME & Hyperion) to model both the line profiles and the SED to constrain the infalling envelope. The serendipitous discovery of the emission of complex organic molecules (COMs) reveals the â€œhot corinoâ€  nature of BHR 71. The emission of COMs shows clear signatures of rotation, tracing the kinematics at 50â€“100 AU and hinting an unresolved disk with an outer radius of 14 AU. While the chemical abundance of molecules is the major uncertainty for interpreting the underlying kinematics, observations of multiple transitions of the same molecule along with resolved emission of COMs can empirically trace the kinematics as a function of radius down to the disk-forming region to constrain the model of infall and disk formation.
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Chia-Yu Hu (Center for Computational Astrophysics)
+Topic:          Dust destruction by supernova shocks in hydrodynamical simulations
+Time:           7/9 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Dust plays a central role in the physics of the interstellar medium (ISM) and the observational properties of galaxies. However, its evolution has been largely ignored in simulations of galaxy formation until very recently. I will give an overview of models that follow dust evolution in large-scale simulations and comment on their success and limitations. I will then present our recent effort on modeling the destruction of dust via supernova shocks in an ab initio fashion which does not rely on over-simplified sub-grid models. We follow the dust dynamics governed by direct collisions, plasma drag and betatron acceleration, which allows us to investigate both thermal and nonthermal sputtering of dust. We quantify the dust destruction efficiency per supernova as a function of grain size and ambient gas density. We apply this method to 3D hydrodynamical simulations of a multiphase ISM and quantify the destruction timescale of dust in the solar neighborhood which turns out to be!
+  around 0.4 Gyr, indicating the importance of grain growth in the ISM as well recognized in the literature.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Frank Eisenhauer (MPE)
+Topic:          The present science/technical achievements of VLTI and future prospects
+Time:           7/10 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,144 @@
+From hexg@penguin.phys.ntu.edu.tw Sat May 19 10:57 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA26194
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sat, 19 May 2001 10:55:49 +0800 (CST)
+Received: from penguin.phys.ntu.edu.tw (penguin.phys.ntu.edu.tw [140.112.101.129])
+	by asiaa.sinica.edu.tw (8.9.3+Sun/8.9.3) with ESMTP id KAA14013
+	for <astro@asiaa.sinica.edu.tw>; Sat, 19 May 2001 10:52:31 +0800 (CST)
+Received: (from hexg@localhost)
+	by penguin.phys.ntu.edu.tw (8.9.3/8.9.3/Debian/GNU) id LAA02512;
+	Sat, 19 May 2001 11:15:20 +0800
+From: Xiao-Gang He <hexg@penguin.phys.ntu.edu.tw>
+Message-Id: <200105190315.LAA02512@penguin.phys.ntu.edu.tw>
+Subject: Hubble Observations may Doom String Theory
+To: astro@asiaa.sinica.edu.tw, twhepnet@hepmail.phys.sinica.edu.tw
+Date: Sat, 19 May 2001 11:15:20 +0800 (CST)
+X-Mailer: ELM [version 2.4ME+ PL48 (25)]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII
+Content-Length: 5912
+Status: RO
+
+
+Article from United Press International
+
+http://www.vny.com/cf/news/upidetail.cfm?qid=186011
+
+
+
+Hubble observations may doom string theory
+
+
+ PALO ALTO, Calif., May 15 (UPI) -- Two separate teams of top physicists,
+including noted Stanford theorist Leonard Susskind, have proposed that
+recent observations by the Hubble Space Telescope -- which indicate the
+expansion of the universe is accelerating -- may spell doom for string
+theory, which many consider to be the best candidate for a unified theory of
+the four major physical forces.
+
+ In separate papers filed within minutes of one another, Stanford's
+Susskind, and string theorists Willy Fischler and Sonia Paban from the
+University of Texas at Austin, presented the same conclusion: an
+accelerating universe poses serious, perhaps fatal difficulties, for string
+theory. The papers were filed with Los Alamos National Laboratory in Los
+Alamos, N. M., one of the many repositories for papers on this subject.
+
+ Scientists have been looking for a model of the universe that would
+explain in one neat package gravity, electromagnetism and both the weak and
+strong nuclear forces that bind particles of matter together. String theory
+is a 30-year-old concept that reduces these forces to tiny highly-curved,
+one-dimensional vibrating "strings".
+
+ The challenge to the theory comes from recent Hubble data. In February
+1998, the High-Redshift Supernova Search Team, a worldwide consortium of
+astrophysicists and astronomers, published an astonishing finding: studies
+of light from distant supernovae proved that the well-documented expansion
+of the universe is accelerating -- that is the expansion of the universe is
+happening at a faster and faster rate. Since then, teams working on the
+Hubble Space Telescope and from the University of California, Berkeley and
+the University of Chicago, repeatedly confirmed the finding.
+
+ This leaves physicists with a cosmic dilemma: an accelerating universe is
+inconsistent with string theory.
+
+  As Susskind, Fischler, and Paban explained, a universe that accelerates
+will be surrounded by an "event horizon," the same kind of boundary that
+surrounds a black hole. Anything that lies beyond the event horizon cannot
+be observed. But string theory depends on the ability of an observer to see
+and measure particles, arranged in a so-called "S-matrix," at infinite
+distances -- which, by definition, lie beyond the event horizon.
+
+ "This was a crisis waiting to happen," University of Toronto physicist
+John Moffat told United Press International from Toronto, Ontario. "Once you
+have a system of particles, which you must have in string theory, you lose
+them at the event horizon. The indication that observational data tell us
+the universe is accelerating produces a crisis for string theory and any
+quantum field theory that depends on the presence of particles at infinity."
+
+
+ California Institute of Technology physicist John Schwarz, one of the
+first to propose string theory, agreed.
+
+ "The point that Susskind and the others make is that it is very difficult
+to define physical observables in space-time geometries of the type implied
+by cosmological acceleration. These authors emphasize that this is a problem
+for string theory, which is true."
+
+ Speaking to UPI from CIT in Pasadena, Swartz added a caveat.
+
+ "What they fail to emphasize is that their argument would be an equally
+severe problem for any competing theory, if there were one."
+
+ String theory's advocates include such renowned physicists as Brian
+Greene, author of a best-selling book about string theory, "The Elegant
+Universe," and Ed Witten, of Princeton University's Institute for Advanced
+Study at Princeton, N.J., considered by his peers one of the greatest
+scientists since Einstein.
+
+ "Our understanding of the accelerating universe and string theory is too
+rudimentary at this point to say the two are in definite conflict," Greene
+told UPI from Columbia University in New York City. "What we in the string
+theory community continually strive to do, however, is to expose and enlarge
+upon all the flaws so they can be worked out with new ideas and new
+approaches."
+
+ Greene agrees, however, that Susskind and the other researchers have
+unearthed a flaw in the theory. But he also expressed concern the public
+would think string theory a "dead idea" if word of the conflict were
+published.
+
+ "I want to emphasize," Greene said, "that string theory is very much alive
+and that all theories, no matter what they attempt to explain, run into
+occasional conflicts that are usually resolved through new approaches and
+re-jiggering."
+
+ Neither Susskind nor any members of the University of Texas team would
+comment on the controversy.
+
+ Physics professor Xiao-Gang He, of the National Taiwan University in
+Taipei, told UPI string theories cannot possibly describe a universe with an
+event horizon, i.e. an accelerating universe.
+
+ "If the universe is accelerating as it recedes from us," He explained, "at
+some stage the recessional velocity will exceed the speed of light. This
+implies that at some later time any two observers at two different points in
+space will cease to communicate with each other and information processing
+will eventually die out, since no information can travel faster than the
+speed of light."
+
+ The death of information processing is the death of the S-matrix, He said,
+because the S-matrix contains all information about interactions between
+particles and connects particles at large -- even infinite -- separations of
+space-time.
+
+ Several follow-up papers, including two by Moffat and He, have since
+appeared in response to the controversial findings. Moffat suggests a
+radical cure for the dilemma -- allowing the speed of light, a universal
+constant, to accelerate near the event horizon.
+
+ (Reported by UPI Science Correspondent Mike Martin in Washington.)
+
+--
+Copyright 2001 by United Press International.
+

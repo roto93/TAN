@@ -1,0 +1,81 @@
+From wchen@astro.ncu.edu.tw Wed Apr  3 12:28 CST 2002
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA20801
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 3 Apr 2002 12:28:24 +0800 (CST)
+Received: from joule.phy.ncu.edu.tw (IDENT:root@joule.phy.ncu.edu.tw [140.115.30.14])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA27945
+	for <astro@asiaa.sinica.edu.tw>; Wed, 3 Apr 2002 12:27:38 +0800 (CST)
+Received: from localhost (wchen@localhost)
+	by joule.phy.ncu.edu.tw (8.11.6/8.11.6) with ESMTP id g334J9n07436
+	for <astro@asiaa.sinica.edu.tw>; Wed, 3 Apr 2002 12:19:09 +0800
+X-Authentication-Warning: joule.phy.ncu.edu.tw: wchen owned process doing -bs
+Date: Wed, 3 Apr 2002 12:19:09 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+X-Sender: wchen@joule.phy.ncu.edu.tw
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: Partiview on the Web (fwd)
+Message-ID: <Pine.LNX.4.21.0204031217550.7347-100000@joule.phy.ncu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2207
+Status: RO
+
+Astronomy educators take note.  This is worth checking out.  I saw
+the demonstration in the last AAS meeting in Washington DC, 
+and it was quite impressive.  
+
+Cheer, 
+
+Wen Ping 
+
+---------- Forwarded message ----------
+Date: Tue, 02 Apr 2002 20:17:24 -0800 (PST)
+From: partiview@haydenplanetarium.org
+To: partiview@haydenplanetarium.org
+Subject: Partiview on the Web
+
+
+Hello future Partiview users:
+
+You were one of the many who signed up on our email list at the AAS meeting in
+January 2002. At the time, I was saying to people that it would be about 6
+months before Partiview would be up on our web site. Well, we came in a bit
+under schedule. 
+
+This letter is to announce the arrival of the 3-D visualization software
+Partiview. Developed at the National Center for Supercomputing Applications
+(NCSA), the American Museum of Natural History/Hayden Planetarium has been
+awarded a grant by NCSA to develop Partiview into a more powerful, user-friendly
+tool for the advancement of science. We have posted the Partiview software at
+our web site: http://www.haydenplanetarium.org/. 
+
+What we have posted as of 1 April 2002 is Partiview Version 0.5, the foundation
+upon which we will build. Because this is the initial release, the program may
+be a bit rough around the edges, and bugs may appear from time to time. However,
+the program has been used extensively here for about a year and is generally
+very robust. 
+ 
+We intend to build a community of users for Partiview who can discuss the
+software as well as share data with one another. In the future, our web site
+will serve this community by answering FAQs, posting your data, as well as
+addressing troubleshooting issues. 
+
+Please feel free to contact us at this address if you have any comments and/or
+questions. While we have no formal support team in place, we will try to answer
+your questions in as timely a manner as possible. 
+
+Thank you for your interest in Partiview!
+
+Brian Abbott
+
+
+Department of Astrophysics & Hayden Planetarium
+American Museum of Natural History
+Central Park West at 79th Street
+New York, NY 10024
+
+Email:  partiview@haydenplanetarium.org
+Web:    http://research.amnh.org/astrophysics/
+	http://www.haydenplanetarium.org/
+
+

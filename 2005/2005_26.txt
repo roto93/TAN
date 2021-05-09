@@ -1,0 +1,45 @@
+
+Date: Tue, 1 Mar 2005 15:20:41 +0800 (CST)
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+cc: astro@asiaa.sinica.edu.tw
+Subject: [Colloquium] ASIAA Colloquium This Friday (03/04)
+
+
+  Dear all,
+
+        This Friday, we will have a colloquium talk presented by Dr. Adam
+  Amara visiting from Institute of Astronomy at University of Cambridge.
+  Dr. Amara will discuss his research in computational cosmology with a talk
+  titled "Applying N-Body Simulations to Gravitational Lensing'.
+
+        Please mark your calendar and remember to join!
+
+  Regards,
+
+  sheng-yuan
+
+  ------------------------ ASIAA Colloquium ------------------------
+   Speaker : Dr. Adam Amara (IoA, University of Cambridge)
+   Title   : Applying N-Body Simulations to Gravitational Lensing
+   Time    : 03/04 (Friday) 2:00 PM
+   Location: ASIAA Room 716
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+   Abstract: Calculating the properties of the low red-shift Universe
+             requires us to follow the evolution of density perturbations
+             of the early cosmos into the highly non-linear regime.  Such
+             calculations currently require the use of computer simulations.
+             On large cosmic scales, these simulations are best performed
+             using N-Body codes.  The results of these calculations can
+             then be tested against the observed Universe.
+
+             Gravitational lensing is becoming an immensely powerful tool
+             for probing the low red-shift Universe on many length scales.
+             In this talk, I will discuss a number of ways that gravitational
+             lensing can be used in conjunction with N-body simulations to
+             further our understanding.  In particular, I will focus on
+             strong lensing and weak lensing (cosmic shear), but the
+             principles under discussion apply equally to other regimes,
+             such as micro lensing.
+  ------------------------------------------------------------------
+

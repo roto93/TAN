@@ -1,0 +1,104 @@
+From kyl@asiaa.sinica.edu.tw Sun Aug  1 15:36 CST 1999
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA18176
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 1 Aug 1999 15:36:02 +0800 (CST)
+Received: from asiaa (asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA06552
+	for <astro@asiaa.sinica.edu.tw>; Sun, 1 Aug 1999 15:34:33 +0800
+Date: Sun, 1 Aug 1999 15:34:32 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: gcflash_Vol.10_No.9 - fixed abstract! (fwd)
+Message-ID: <Pine.LNX.4.04.9908011534290.6549-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3535
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Fri, 30 Jul 1999 14:02:00 +0200 (MET DST)
+From: Galactic Center Newsletter <gcnews@mpifr-bonn.mpg.de>
+To: gcnews_exploder@sun184.mpifr-bonn.mpg.de
+Subject: gcflash_Vol.10_No.9 - fixed abstract!
+
+Dear subscriber:
+
+the abstract we sent out yesterday was corrupted, i.e. two lines were 
+deleted because of two tildes that confused the mail program.
+
+Thanks again to those who informed us about the error.
+
+H. Falcke/A. Cotera
+
+========================================================================
+
+                              G C N E W S
+                             * Newsflash *
+
+            - The Newsletter for Galactic Center Research -
+
+gcnews@mpifr-bonn.mpg.de             http://www.mpifr-bonn.mpg.de/gcnews
+========================================================================
+Vol. 10, No. 9                                              Jul 29, 1999
+
+
+Recently submitted papers:
+--------------------------
+
+Email    : zadeh@oort.astro.nwu.edu
+Title    : Three New Supernova Remnant OH Masers Near the Galactic 
+           Center: Evidence for Large Scale Maser Emission from 
+           Supernova Remnants
+Author(s): F. Yusef-Zadeh, W. M. Goss, D. A. Roberts, B. Robinson and 
+           D. A. Frail
+Paper    : ApJ, in press
+EPrint   : astro-ph/9907370
+
+Abstract:
+A survey of the inner 8^o * 1^o of the Galactic plane toward the
+Galactic Center has been carried out at the 1720 MHz transition of the OH
+molecule using the VLA in its D configuration with a resolution of
+ ~70''*45''. The detection of compact 1720 MHz OH masers associated
+with three supernova remnants G357.7+0.3, G1.13-0.1 (Sgr D) and
+G1.4-0.1 as well as new extended maser line emission from G357.7+0.3
+and G357.7-0.1 (the Tornado Nebula) were then followed up by A-array
+observations with spectral and spatial resolutions of 0.3 km/sec and
+ ~3''*2'', respectively.
+The 1720 MHz OH maser line emission is considered to be a powerful
+shock diagnostic and is collisionally pumped by H_2 molecules at the
+site where C-type supernova shocks drive into adjacent molecular
+clouds. The new observations show clear evidence of extended features
+coincident with compact and bright masers, the best example of which
+is a coherent feature over a scale of about 20 pc surrounding the
+shell of the SNR G357.7+0.3.  We argue that this remarkable feature is
+an OH maser and is physically associated with the remnant. This
+implies that the ambient molecular cloud is uniform in its density and
+temperature with restricted range of pumping conditions and survives
+the passage of a large-scale shock front.
+------------------------------------------------------------------------
+
+
+(Older versions of the Newsflash can be found at the gcnews web-page)
+========================================================================
+			       Edited by
+Angela Cotera                                Heino Falcke
+(cotera@ipac.caltech.edu)                    (hfalcke@mpifr-bonn.mpg.de)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ For Abstract submission please send the (La)Tex file of your paper to
+                          gcnews@mpifr-bonn.mpg.de
+========================================================================
+
+

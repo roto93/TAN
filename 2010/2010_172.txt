@@ -1,0 +1,95 @@
+From astro@iaa17.asiaa.sinica.edu.tw Sat Oct 30 00:17:55 2010
+Date: Sat, 30 Oct 2010 00:11:16 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Oct 30, 2010)
+
+============================================================================== 
+
+In this issue (Oct 30, 2010)
+
+1. [NRAO-announcements] ALMA Early Science tutorial (Jan 18, 2011)
+
+==============================================================================
+
+> Date: Fri, 29 Oct 2010 11:10:30 +0800 (CST)   
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>         
+> Subject: [Nrao-announcements] ALMA Early Science tutorial (fwd)
+   
+Dear Yi-Jehng, 
+
+  Could you please circulate the following announcement in TAN? Thanks! 
+
+Chin-Fei 
+
+---------- Forwarded message ---------- 
+> Date: Mon, 25 Oct 2010 14:59:10 -0400 
+> From: Mark Adams <mtadams@nrao.edu> 
+> To: "NRAO-Announcements@nrao.edu" <NRAO-Announcements@nrao.edu> 
+> Subject: [Nrao-announcements] ALMA Early Science tutorial 
+
+Dear Colleagues, 
+
+As the call for Early Science proposals with ALMA is approaching, we at the 
+North American ALMA Science Center at the NRAO and the HIA 
+(http://science.nrao.edu/alma/) invite you to attend a one-day ALMA tutorial 
+that will include: 
+
+     - ALMA Early Science capabilities 
+
+     - The services provided by the North American ALMA Science Center 
+
+     - How to use the ALMA Observing Tool (OT) and submit a proposal 
+
+     - How to simulate an early science observation using the SIMDATA 
+       package in CASA (the data reduction package for ALMA). 
+
+The tutorial will take place directly AFTER the Spectroscopy2011 Conference 
+(http://www.almatelescope.ca/Spectroscopy2011) on Tuesday, January 18, 2011 
+in Victoria, Canada at a cost of $100 per participant to cover the tutorial 
+room, equipment, and refreshments. As the goal is hands-on experience with 
+the OT and SIMDATA which use CASA, participants will need to bring their 
+own laptop and install (and verify they work) these packages before they 
+arrive. The NAASC department at the NRAO helpdesk (http://my.nrao.edu) is 
+available to address questions about installation etc., and more information 
+about installing these packages will be forthcoming to registered 
+participants of the tutorial. 
+
+As venue space is limited for this event, we can only offer about 60 spaces 
+so please register ASAP to reserve your place in the tutorial. 
+
+Registration for this event is available at: 
+
+    http://science.nrao.edu/alma/spec11/regist_tutorial.shtml 
+
+The tutorial registration will remain open until November 30, 2010 or until 
+we reach the maximum number of participants. 
+
+Thank you for your interest and helping us to realize the full potential of 
+ALMA for the community! 
+
+Sincerely, 
+
+Anthony Remijan 
+
+_______________________________________________ 
+Nrao-announcements mailing list 
+Nrao-announcements@listmgr.cv.nrao.edu 
+http://listmgr.cv.nrao.edu/mailman/listinfo/nrao-announcements 
+ 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

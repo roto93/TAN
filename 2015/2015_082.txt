@@ -1,0 +1,159 @@
+===============================================================================
+In this issue (Apr 03 - 12, 2015)
+
+1. NTHU Astronomy Colloquium (Apr 17): Vivian U (UCR)
+2. ASIAA Colloquia/Seminars/Lunchtalk (Apr 13): Dan Jaffe (Univ of Texas)
+                                      (Apr 13): Ken Wong (ASIAA)
+                                      (Apr 14): Shude Mao (NAOC)
+                                      (Apr 15): Vivian U (UC Riverside)
+                                      (Apr 15): Huang Ping Jye (ASIAA)
+3. NCU Astronomy Colloquium (Apr 17): Cosimo Bambi(Fudan Univ, China)
+
+===============================================================================
+===============================================================================
+
+> Date: Tue, 7 Apr 2015 16:45:05 +0800
+> Subject: NTHU Astronomy Colloquium 2015-4-17
+> From: Dani Chao <edcamel@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Tomo GOTO <itlhnis@gmail.com>
+
+NTHU Astronomy Colloquium 2015-4-17 14:00
+Place:R620
+Speaker: Vivian U (UCR)
+Title:Nuclear Gas Dynamics in Luminous Infrared Galaxies
+
+Abstract:
+Gas-rich galaxy mergers provide a means to funnel gas into the central
+region of the system, consequently triggering episodes of nuclear star
+formation and supermassive black holes growth. The details of the fueling
+and feedback are often obscured by the cocooning dust stirred up from the
+violent interaction. To probe the small-scale gas kinematics in the inner
+kiloparsec region of these local luminous infrared galaxies requires high
+spatial resolution observations of their nuclei. Here I present results
+from our Keck Adaptive Optics near-infrared integral-field survey of the
+nuclear regions in 17 late-stage galaxy mergers. Our findings characterized
+and addressed the nature of nuclear disks, outflows driven by AGN and
+starbursts, as well as the role of mergers in black hole-galaxy bulge
+scaling relations. Our observations further enabled several case studies
+showing direct evidence of biconical molecular outflows as well as shocked
+gas from winds and ISM collision between progenitor galaxies.
+
+Dani Chun-Yi Chao
+Institute of Astronomy, National Tsing Hua University
+
+===============================================================================
+
+> Date: Thu, 9 Apr 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Dan Jaffe (University of Texas)
+Topic:         IGRINS and the Revolution in High Resolution Infrared Spectroscopy of Young Stellar Objects
+Time:         4/13 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The Immersion Grating Infrared Spectrograph (IGRINS) is the first of a new generation of infrared instruments with high sensitivity, high spectral resolution, and very broad spectral grasp.  IGRINS, a joint project of the University of Texas and the Korea Astronomy and Space Science Institute, has been in regular operation on the McDonald Observatory 2.7m telescope since 2014 September.  It has a resolving power of 40,000 and covers the entire 1.4-2.5 micron range in a single exposure.  Even though it is only on a small telescope, IGRINS has less than a factor of 2 less sensitivity than CRIRES on the VLT while having 30 times the spectral grasp. A main goal for IGRINS is to characterize the evolution of young stellar objects and their protoplanetary disks over their entire early lives with quantitative measures of photospheric and disk properties.  High resolution spectroscopy allows us to measure T_eff, log g, magnetic field, v sin i, veiling vs. wavelength, accretion rate,!
+  and other properties across a range of pre-main sequence stages with a common technique.  We will present some of the early results from the instrument and describe the programs under way to meet our goal.
+
+
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Ken Wong (ASIAA)
+Topic:         The Inner Mass Distribution of the Gravitational Lens SDP.81 from ALMA Observations
+Time:         4/13 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+The central image of a strongly lensed background source places constraints on the foreground lens galaxy's inner mass profile slope, core radius and mass of its nuclear supermassive black hole.  Using high-resolution long-baseline ALMA observations and archival HST imaging, we model the gravitational lens SDP.81 and search for the demagnified central image.  There is central continuum emission from the lens galaxy's AGN but no evidence of the central lensed image in any molecular line.  We use the CO J=5-4 map to determine the flux limit of the central image excluding the AGN continuum.  We predict the flux density of the central image and use the limits from the ALMA data to constrain the inner mass distribution of the lens.  For the core radius of 0.15" measured from HST photometry of the lens galaxy assuming that the central flux is completely attributed to the AGN, we find that a black hole mass of log(M_BH/M_sun) > 8.4$ is preferred.  Deeper observations with a detecti!
+on of the central image will significantly improve the constraints of the inner mass distribution of the lens galaxy.
+
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________ 
+Speaker:    Shude Mao (NAOC)
+Topic:         Photometric and dynamical modelling of the Milky Way bar
+Time:         4/14 (Tuesday) 14:20 - 15:20
+Place:         physics 104
+Abstract:
+Milky Way is a typical barred spiral galaxy and is one of few galaxies where we can resolve the stellar populations. A thorough understanding of the Galaxy provides strong clues how other spiral galaxies form and evolve. However, our picture of the Milky Way is far from complete with many of its basic parameters remain ill determined. I will review some recent progress on the photometric and dynamical modelling of the Milky Way bar, and discuss future prospects in the field.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Vivian U (UC Riverside)
+Topic:         Nuclear Gas Dynamics in Luminous Infrared Galaxies
+Time:         4/15 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Gas-rich galaxy mergers provide a means to funnel gas into the central region of the system, consequently triggering episodes of nuclear star formation and supermassive black holes growth. The details of the fueling and feedback are often obscured by the cocooning dust stirred up from the violent interaction. To probe the small-scale gas kinematics in the inner kiloparsec region of these local luminous infrared galaxies requires high spatial resolution observations of their nuclei. Here I present results from our Keck Adaptive Optics near-infrared integral-field survey of the nuclear regions in 17 late-stage galaxy mergers. Our findings characterized and addressed the nature of nuclear disks, outflows driven by AGN and starbursts, as well as the role of mergers in black hole-galaxy bulge scaling relations. Our observations further enabled several case studies showing direct evidence of biconical molecular outflows as well as shocked gas from winds and ISM collision between p!
+rogenitor galaxies.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Huang Ping Jye (ASIAA)
+Topic:         PFS Metrology Camera Structure Design and Analysis
+Time:         4/15 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+===============================================================================
+
+> Date: Fri, 10 Apr 2015 12:50:37 +0800
+> Subject: NCU Astronomy Colloquium - 2015.04.17
+> From: ChingHua Shen <m1029002@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+*NCU Astronomy Colloquium*
+Speaker: Prof. Cosimo Bambi(Fudan University, China)
+Topic:Testing astrophysical black hole candidates
+Time: Apr,17, 2pm
+Place: S4-1013, NCU
+
+Abstract:
+
+Stellar-mass back hole candidates in X-ray binaries are too heavy to
+be neutron stars, while supermassive black hole candidates in galactic
+nuclei are too heavy, compact, and old to be clusters of neutron
+stars. On this basis, both object classes are thought to be the Kerr
+black hole of general relativity, but a direct observational
+confirmation is still lacking. In this talk, I will discuss how the
+study of the properties of the electromagnetic radiation emitted by
+the gas in the accretion disk can test the Kerr nature of black hole
+candidates. In particular, I will talk about the study of the thermal
+spectrum of thin disks and the analysis of the iron K-alpha line. Both
+the techniques can already be used to provide some constraints on
+possible deviations from the Kerr solution, but more interesting tests
+require new X-ray facilities with larger effective areas.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,217 @@
+From sun@phyast.phy.ncu.edu.tw Sun Jun  7 22:20:09 1998
+Return-Path: <sun@phyast.phy.ncu.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA15397; Sun, 7 Jun 1998 22:12:37 +0800
+Received: from joule.phy.ncu.edu.tw by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id WAA29066; Sun, 7 Jun 1998 22:10:56 +0800
+From: sun@phyast.phy.ncu.edu.tw
+Received: from phyast.phy.ncu.edu.tw by joule.phy.ncu.edu.tw (AIX 3.2/UCB 5.64/4.03)
+          id AA05281; Sun, 7 Jun 1998 21:58:27 +0800
+Message-Id: <9806071358.AA05281@joule.phy.ncu.edu.tw>
+Date: Sun, 7 Jun 1998 22:15:21 +0800
+To: astro@asiaa.sinica.edu.tw
+Subject: MAST from STScI for your info
+X-Vms-To: SMTP%"astro@asiaa.sinica.edu.tw"
+Content-Length: 9508
+Status: RO
+
+From:	SMTP%"owner-archive_news@stsci.edu"  6-JUN-1998 06:23:25.96
+To:	sun
+CC:	
+Subj:	STScI Archive Newsletter June, 1998
+
+		  The Multimission Archive at STScI Newsletter
+
+------------------------------------------------------------------------
+   June 5, 1998    Space Telescope Science Institute    Volume 4 
+------------------------------------------------------------------------
+
+   The Multimission Archive at STScI (MAST) Newsletter disseminates
+   information to users of the HST, IUE, Copernicus, EUVE, UIT, and
+   VLA-FIRST data archives supported by the MAST.  Inquiries should be
+   sent to archive@stsci.edu.
+
+========================================================================
+			   
+			   Index of Contents:
+   
+   Announcing the Multimission Archive at the
+      Space Telescope Science Institute (MAST		- Paolo Padovani
+      		   
+   MAST Cross-correlations with 
+      Astronomical Catalogs				- Paolo Padovani
+                                                          Tim Kimball
+                                                          
+   MAST UIT-2 Archive Support                           - Karen Levay                                                       
+    
+========================================================================
+
+			      Announcing the
+	   Multimission Archive at the Space Telescope Science
+			     Institute (MAST)
+
+
+   STScI is proud to announce the creation of the Multimission Archive
+   at STScI (MAST).  MAST is built on the success of the Hubble Data
+   Archive and takes advantage of its existing archive infrastructure.
+   MAST is supported by NASA under a cooperative agreement between STScI
+   and Goddard Space Flight Center.  The MAST WWW interface is at
+   http://archive.stsci.edu/mast.html.  To help our users to keep up
+   with this expansion, I summarize here the data available through the
+   MAST:
+
+   - the Hubble Data Archive (HDA), as of May 1998, contains over 4.9
+   Terabytes of science and engineering data, for a total of
+   approximately 140,000 science exposures.  In the past few months the
+   volume of archived data has reached average rates of about 4 - 5
+   Gigabytes/day, while 3 - 4 times as many data per day have been
+   retrieved by archive users.
+
+   - the International Ultraviolet Explorer (IUE) Final Archive.  This
+   contains over 104,000 spectral images of approximately 10,000
+   individual astronomical sources (covering the 1,200 to 3,350
+   Angstroms range) obtained by IUE over the course of its lifetime
+   (from 1978 to 1996).  Experienced IUE staff members are also
+   available to assist researchers working on IUE data.
+
+   - the Copernicus Archive.  This includes far- (900 - 1,560 Angstroms)
+   and near- (1,650 - 3,150 Angstroms) ultraviolet spectra of 551
+   objects, primarily bright stars, obtained by the Copernicus
+   satellite, otherwise known as the Orbiting Astronomical Observatory 3
+   (OAO-3), from 1972 to 1981.  
+
+   - the Extreme Ultraviolet Explorer (EUVE) Archive, which at present
+   contains spectroscopic observations (in the 70 - 760 Angstroms range)
+   of about 300 sources, mostly Galactic.  EUVE, launched in 1992, is
+   still operational.  
+
+   - the Ultraviolet Imaging Telescope (UIT) Archive.  This contains 758
+   images of 193 targets (covering the 1,200 - 3,300 Angstroms range)
+   obtained by UIT-2 as part of the ASTRO-2 mission.  UIT-1 data will be
+   supported in the near future. 
+
+   - the Faint Images of the Radio Sky at Twenty-centimeters (FIRST)
+   Archive.  The FIRST project is designed to produce a radio survey at
+   20 cm (1.4 GHz) of over 10,000 square degrees down to a flux of 1
+   mJy.  STScI provides access to the radio images and the source
+   catalog, which currently includes about 437,000 entries, at
+   http://sundog.stsci.edu.
+
+   - the Digitized Sky Survey (DSS).  The Catalogs and Surveys Branch of
+   the STScI has been digitizing the photographic Sky Survey plates from
+   the Palomar and UK Schmidt telescopes in order to support HST
+   operations and provide a service to the astronomical community.
+
+   STScI plans to incorporate additional ultraviolet and optical data
+   sets into the STScI archive in the future, including data from the
+   Far Ultraviolet Spectroscopic Explorer (FUSE) currently scheduled for
+   launch in early 1999.  The Multimission Archive at STScI can be
+   accessed at http://archive.stsci.edu/mast.html.  E-mail inquiries
+   about the STScI data archives can be directed to archive@stsci.edu.
+
+   - Paolo Padovani
+
+=======================================================================
+
+            MAST Cross-correlations with Astronomical Catalogs
+
+   How many quasars at redshift > 4 have been observed by HST?  How many
+   Seyferts with magnitude brighter than 15 have IUE spectra?  Now you
+   can get the answer to these and many other questions by using our new
+   cross-correlation interface, available at
+   http://archive.stsci.edu/search/.
+
+   Using this interface, you can select Active Galactic Nuclei (AGN) by
+   class, redshift, magnitude, and 6cm radio flux from a catalog based
+   on the Veron-Cetty & Veron (1996) catalog, and cross-correlate them
+   with the HST, IUE, and EUVE archives.  (For HST, you can select
+   individual instruments, each with a different correlation radius.)
+   Multiple missions can also be selected, with the option to show only
+   those AGN that cross-correlate with EVERY selected mission (so you
+   can look for AGN that have been observed with both HST and IUE, or
+   for AGN observed with either HST or IUE.)  After the correlation is
+   performed, you can preview the images/spectra (at present only in the
+   case of HST data), and retrieve the data.
+
+   This new interface is part of our effort to let the user take
+   advantage of the MAST (Multimission Archive at STScI) by allowing the
+   cross-correlation of astronomical catalogs with the various archives
+   available.  We are expanding this interface by including cluster,
+   galaxy, and stellar catalogs.  At present, a user-supplied list of
+   positions can also be cross-correlated with any of the MAST archives.
+
+   All archival researchers are invited to use this new service and let
+   us know how we can improve it.  As usual, all comments and inquiries
+   should be directed to archive@stsci.edu.
+
+   - Paolo Padovani and Tim Kimball
+
+========================================================================
+
+			    MAST UIT ASTRO 2 Support
+
+   MAST is providing access to the Ultraviolet Imaging Telescope (UIT)
+   data obtained during the second ASTRO mission at
+   http://archive.stsci.edu/uit/.
+
+   UIT was one of three instruments which comprised the ASTRO 1 mission
+   flown on the space shuttle Columbia from December 2-10, 1990.  The
+   second ASTRO flight, aboard Endeavor, was from March 3-17, 1995.  The
+   UIT mission has been managed by Principal Investigator Theodore P.
+   Stecher of the GSFC Laboratory for Astronomy and Solar Physics
+   (LASP).  UIT exposures were obtained on 70-mm photographic film and
+   later digitized using a Perkin-Elmer microdensitometer.  Image
+   resolution was 3" over a 40' field of view and exposures were made in
+   the 1200-3300 Angstrom range using broadband filters.  UIT-1 obtained
+   821 exposures of 66 targets and UIT-2 obtained 758 images of 193
+   targets.
+
+   GSFC Astrophysics Data Facility (ADF) and MAST staff members worked
+   together to obtain a copy of the UIT-2 data from the UIT project.
+   MAST was then provided a copy of the UIT-2 data and the associated
+   database.  MAST staff will now fill moderate requests for UIT-2 data.
+   MAST plans to archive both UIT-1 and 2 data but has not yet received
+   a copy of the UIT-1 data.  UIT-1 data will continue to be available
+   through NDADS
+   (http:///ndads.gsfc.nasa.gov/ndads/archives_homepage.html)
+
+    - Karen Levay
+    
+==========================================================================
+             
+              To Subscribe or Unsubscribe to the Newsletter
+
+   If you would like remove yourself from the mailing list send mail to
+   archive_news-request@stsci.edu and put the single word unsubscribe in
+   the BODY of the message.  Information on the subject line will be
+   ignored.
+
+   If someone would like to subscribe to the mailing list they should
+   send mail to archive_news-request@stsci.edu and put the single word
+   subscribe in the BODY of the message.  Information on the subject
+   line will be ignored.  The subscriber will be asked to confirm the
+   subscription.
+
+==========================================================================
+
+================== RFC 822 Headers ==================
+Received: by marvel.stsci.edu (5.x/SMI-SVR4-DNI-8.0)
+	id AA05165; Fri, 5 Jun 1998 16:32:23 -0400
+Received: from icarus.stsci.edu (icar-srvr.stsci.edu) by marvel.stsci.edu (5.x/SMI-SVR4-DNI-8.0)
+	id AA05159; Fri, 5 Jun 1998 16:32:18 -0400
+Received: from needle.stsci.edu by icarus.stsci.edu (SMI-8.6/SMI-SVR4)
+	id QAA24459; Fri, 5 Jun 1998 16:32:26 -0400
+Received: by needle.stsci.edu (SMI-8.6/SMI-SVR4)
+	id QAA07829; Fri, 5 Jun 1998 16:32:23 -0400
+Date: Fri, 5 Jun 1998 16:32:23 -0400
+From: klevay@stsci.edu (Karen Levay)
+Message-Id: <199806052032.QAA07829@needle.stsci.edu>
+To: archive_news@stsci.edu
+Subject: STScI Archive Newsletter June, 1998
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Md5: tzKf2VD0kadLs/ZMPnER0Q==
+Sender: owner-archive_news@stsci.edu
+Precedence: bulk
+

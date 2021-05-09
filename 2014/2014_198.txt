@@ -1,0 +1,38 @@
+> Date: Fri, 12 Dec 2014 08:06:51 +0800
+> Subject: NTHU colloquium
+> From: Tomo <itlhnis@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Dani Chao <edcamel@gmail.com>
+
+      ############################################
+                          NTHU
+                  Astronomy Colloquium
+      ############################################
+
+Wednesday - December 24 2014, 13:00-15:00, R620
+Speaker: Chien-Hsiu Lee (Max Planck Institute for Extraterrestrial Physics),
+Title: Pan-STARRS 1 Andromeda survey (PAndromea)
+
+Abstract:
+    The 3-year, high-cadence PS1 Andromeda survey yields well-sampled
+light curves that improve our understanding of microlensing and
+variables in M31. As a preliminary study, we discover 6 microlensing
+events in the inner bulge of M31. This demonstrates that deep data
+with good temporal resolution are essential to reveal microlensing
+events. We also explore the data for variability studies, and produce
+catalogs of ~300 eclipsing binaries, ~2000 Cepheids and other
+variables. We select bright eclipsing binaries for spectroscopic
+follow-up, to obtain a direct distance estimate of M31. We
+astromatrically align the multi-band Panchromatic Hubble Andromeda
+Treasury (PHAT) data to our PS1 images, and derive precise
+period-luminosity relation (PLR) for the Cepheids. The accurate
+distance and precise PLR will render M31 a distance anchor and help to
+reduce the error budget of Hubble constant. To fully exploit the value
+of PAndromeda, we welcome external collaborators, and can provide PS1
+light curves with linked HST photometry upon request.
+
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+==============================================================================

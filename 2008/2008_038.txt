@@ -1,0 +1,73 @@
+
+> From: "Yu-Huei Wu" <yhwu@astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Colloquia in IANCU
+> Date: Mon, 10 Mar 2008 14:18:50 +0800
+
+Hi there, 
+
+Please join us for our regular colloquium in IANCU. This week we'll have Alf
+Tang talking about his PhD research on LISA in Imperial College, London. We
+will have some refreshment after the talk. Anyone who is interested on the
+topic with our speaker can also join our refreshment section.
+
+
+*******************  Astronomy Colloquium  **************************
+***************  Institute of Astronomy, NCU  ***********************  
+This Friday (03,14,2008), 14:00-15:00.
+Speaker:
+湯健仁 Chien-Jen Alf Tang (Imperial College, London)
+
+Title:
+Detecting Cosmic Gravitational-wave Backgrounds with LISA
+
+Abstract:
+The current technique to detect gravitational waves is using interferometer to
+measure induced length differences along two directions. The frontier
+space-borne interferometer is Laser Interferometer Space Antenna (LISA), which
+is an NASA/EAS joint project. LISA consists of three spacecraft 5 million km
+away from each other. During orbiting the Sun, three spacecraft transmit laser
+pulses back and forth to construct two huge independent Michelson
+interferometers in the space. LISA aims to measure the variation of
+arm-lengths to one part of 10^23 to detect weak signals of gravitational
+waves. It plans to launch in late 2017 time frame. LISA targets on four kinds
+of sources: compact binaries, super-massive black holes in the centre of
+galaxies, extreme mass ratio binaries, and cosmic gravitational-wave
+backgrounds (CGBs) produced in the very early universe. The detectable
+candidates of CGBs by LISA are vacuum-bubbles colliding during cosmological
+phase transition, and catastrophic burst events produced by cosmic strings.?
+In order to recover CGBs in a spectrum, we need to determine how many types of
+CGBs exist in the spectrum in the first place. Along with the study on
+fundamental physics, we can obtain models to formalise CGBs. Model selection
+method in Bayesian statistics is applied to determine which scenario among all
+models at hand is the best description of data. As long as the model has been
+suggested, the parameters involved in the model are then estimated through
+Markov Chain Monte Carlo method, which can reduce consuming time from
+exponential cost to linear scale as the number of parameters increases. In
+addition, simulated annealing and Gelman & Rubin methods are adapted to speed
+up the searching and test the convergence of the chains, respectively. ?The
+entire study intends to discover some unseen aspects of fundamental physics.
+**********************************************************************
+**********************************************************************
+Next Friday, Prof. Tung Roh-Suan will talk on something about dynamical black
+hole.
+
+Cheers,
+Yu-Huei
+
+--------------------------------------------------------------
+吳育慧 國立中央大學天文研究所 博士後 
+
+Yu-Huei Wu, Post doc, Institute of Astronomy,NCU
+
+NCU Astro colloquium page:
+
+http://www.astro.ncu.edu.tw/contents/seminar/colloquium/sub.php?more=all
+
+Tel: 03-4227151-65953
+
+--------------------------------------------------------------
+
+--
+Open WebMail Project (http://openwebmail.org)
+

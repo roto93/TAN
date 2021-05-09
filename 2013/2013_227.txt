@@ -1,0 +1,166 @@
+============================================================================== 
+
+In this issue (Dec 9 - 16, 2013)
+
+1. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Collqm (Dec 17): Paul Nation (Korea U)
+2. NTHU Astronomy Colloquium (Dec 20): Chia-Ying Chiang (Saint Mary's U, Canada)
+3. ASIAA Special Seminar (Dec 16): Aravind Natarajan (Univ of Pittsburg)
+
+==============================================================================
+
+> Received: by 10.66.253.129 with HTTP; Tue, 10 Dec 2013 21:38:25 -0800 (PST)
+> Date: Wed, 11 Dec 2013 13:38:25 +0800
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, December 17
+> From: "J.-P. Wu" <jpw750811@gmail.com>
+> To: swallow <swallow@phys.ntu.edu.tw>, whchen <whchen@gate.sinica.edu.tw>,
+        astro <astro@asiaa.sinica.edu.tw>,
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held
+on December 17 (http://web.phys.ntu.edu.tw/colloquium/).
+
+The Joint Colloquium Series is organized by the NTU Physics Department,
+Center for Condensed Matter Science (CCMS), Leung Center for Cosmology and
+Particle Astrophysics (LeCosPA), Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA), and the Institute of Atomic and Molecular Sciences
+(IAMS).
+
+The idea is to have excellent speakers to give inspiring, informative, but
+non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on December 17.
+
+Best regards,
+
+Yen-Ting Lin (ASIAA)
+Michitoshi Hayashi (CCMS)
+Chia-Lung Hsieh (IAMS)
+Jiwoo Nam (LeCosPA)
+Juinn-Wei Chen (NTU-Phys)
+
+---------------------------------------------------------------------------=
+
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+
+Speaker: Paul Nation
+
+              (Korea University)
+
+Topic :  *Exploring the Classical-Quantum Transition **Using Optomechanical
+Systems*
+
+Time  : 12/17 (Tue.) 14:20 - 15:20
+
+Place : Room 104, CCMS-New Physics Building
+
+Abstract:
+    Understanding how the classical world emerges from the counterintuitive
+rules of quantum mechanics has been one of the longstanding goals in
+physics. Our intuition, and education, tells us that =E2=80=9Csmall=E2=80=
+=9D objects such
+as atoms behave quantum mechanically, while =E2=80=9Clarge=E2=80=9D everyda=
+y things are
+=EF=AC=81rmly grounded in the classical domain. However, is this insight co=
+rrect?
+Or is it possible to place a macroscopic object in a quantum mechanical
+state? Theoretical work over the last two decades has answered this last
+question a=EF=AC=83rmatively, provided that the ever present e=EF=AC=80ects=
+of the
+environment to which every object is coupled can be mitigated.
+    Here we will explore the generation of macroscopic quantum states of a
+mechanical resonator in an optomechanical setup. Making use of tools
+developed in quantum optics, we show that quantum states of a mechanical
+oscillator can be generated in an analogue of a micromaser, in absence of
+any atom-like subsystem, thus exhibiting single-atom masing e=EF=AC=80ects =
+in a
+system composed solely of oscillator components. The connection to the
+micromaser allows for a physical understanding of how nonclassical states
+arise in this system, and how best to maximize these signatures for
+experimental observation.
+
+Brief Bio:
+    Paul Nation is a theoretical physicist working on a multitude of
+quantum physics related topics such superconducting circuit devices,
+quantum optics, and computational methods for solving quantum dynamics. He
+received his B.S. (2005) from Utah State University and Ph.D. (2010) from
+Dartmouth College. He has held postdoctoral positions at the RIKEN Advanced
+Science Institute in Tokyo, and the University of Michigan - Ann Arbor.
+
+------------------------------------------------------------
+
+==============================================================================
+
+> Date: Fri, 13 Dec 2013 17:58:49 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium 
+
+############################################
+                    NTHU
+            Astronomy Colloquium
+############################################
+
+        2:20 p.m. 20 Dec. 2013 (Friday)
+        NTHU Physics Building, Rm620
+
+  Speaker: Dr. Chia-Ying Chiang
+            (Saint Mary's University, Canada)
+
+  Title: Modelling the X-ray Spectra of AGN
+          with a Relativistic Reflection Model
+
+  Abstract:
+X-ray emission from accreting black hole systems provide information
+on the accretion geometry of the innermost region of the black hole.
+Observational evidence indicates that black hole systeare consisted
+of an accretion disc around a central black hole with a hot illuminating 
+corona above the disc plane. The resulting X-ray spectra
+can be decomposed by a powerlaw continuum, a reflection component and
+a thermal disc component if the accretion is hot. This talk mainly
+focuses on modelling the X-ray spectra of active galactic 
+nuclei (AGN) and how to extract information on the black hole spin
+and source geometry from reflection features. Spectra of 
+the famous Type 1 AGN will be presented.
+
+          Tea/Discussion Time is followed !
+
+                All Welcome !!
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Special Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+> Date: Sun, 15 Dec 2013 08:00:03 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Aravind Natarajan (University of Pittsburg)
+Topic:        Searching for Dark Matter through Radio Observations: Present and Future
+Time:        12/16 (Monday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+It is now commonly accepted that most of the matter in the Universe is dark, but its identity is unknown. Weakly Interacting Massive Particles are well motivated candidates for dark matter. I will review the status of dark matter detection using direct, and collider searches. I then discuss two promising techniques for dark matter detection using radio observations: (i) Searching for excess synchrotron radiation from dwarf galaxies in the local group, and (ii) Observations of the highly redshifted 21cm line of neutral Hydrogen.  I discuss recent results from the SCI-HI global 21cm experiment and future prospects.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

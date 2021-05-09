@@ -1,0 +1,21 @@
+> Date: Sun, 28 Apr 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Chow-Choong Ngeow (NCU)
+Topic:        Classical Cepheids Beyond Classical Regime -- Longer Wavelength, Longer Periods and Larger Projection Factors
+Time:        5/3 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Classical Cepheids are an important component in extra-galactic distance scale work, as its famous period-luminosity (PL) relation can be used to derive the Hubble constant via the calibration of various secondary distance indicators. Boosted by the HST H0 Key Project, past works on Classical Cepheids have been focused on the investigation of long period Cepheids (with pulsation periods from 10 to 60 days) in the V and I bands. One such example is the extensive calibration of VI band PL relations in literature. In this talk, I will present new directions of Cepheid research emerged in recent years. The first one is the moving of the calibration of PL relation from optical to mid-infrared (MIR). The biggest advantage of using the MIR PL relations is the extinction is negligible in these wavelengths, at which extinction is one of main systematic errors in Cepheid distance (hence propagated to the errors for Hubble constant). The MIR PL relations also hold the promise to derive!
+  Hubble constant with 2-3% accuracy in near future. The second direction is the investigation of Cepheids with periods longer than 80 days, the so-called ultra-long period Cepheids (ULPCs). These ULPCs are ignored in the past, however Bird et al (2009) proposed they can reach to a distance of 100Mpc, well beyond the ~40Mpc distance based on shorter period Cepheids using HST. An on-going search of ULPCs in M31 using PTF data is highlighted in this talk. Finally, I will ended my talk with the recent investigation of projection factor (p-factor) -- an important parameter when calibrating the PL relation using Baade-Wesselink (BW) type technique. The value of p-factor was found to be larger than the previous adopted, which could have impact on the derived Hubble constant via the Cepheid PL relations calibrated with BW methods.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

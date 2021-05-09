@@ -1,0 +1,74 @@
+
+> Date: Thu, 20 Dec 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Kung-Yi Su (Caltech)
+Topic:          Suppressing cooling flows in massive galaxies with cosmic ray injection and turbulent stirring
+Time:           12/24 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+The quenching "maintenance" and related "cooling flow" problems are important in galaxies from Milky Way mass through clusters. We investigate this in halos with masses ~1e12-1e14 solar mass, using non-cosmological high-resolution hydrodynamic simulations with the FIRE-2 (Feedback In Realistic Environments) stellar feedback model. We first focus on physics present without AGN, and show that various proposed "non-AGN" solution mechanisms in the literature, including Type Ia supernovae, shocked AGB winds, other forms of stellar feedback (e.g. cosmic rays from supernovae), magnetic fields, Spitzer-Braginskii conduction, or "morphological quenching" do not halt or substantially reduce cooling flows nor maintain "quenched" galaxies in this mass range.  This all supports the idea that additional physics, e.g., AGN feedback, must be important in massive galaxies.
+We then test various AGN feedback toy models with different forms of energy input and ranges of coupling, exploring what scenario can possibly quench galaxy and suppress the cooling flows without resulting in halo properties that contradict  observations. The test scenarios include momentum injection, turbulent stirring, thermal heating, and cosmic ray injection. We found that turbulent stirring confined within 100 kpc  and cosmic ray injection can both maintain a stable, low-SFR halo for extended periods of time, because they provide non-thermal pressure form which can stably lower the core density and cooling rate. This can be much more efficient  than heating up the gas thermally.  We conclude that the enhancements of turbulence and cosmic ray energy are very important aspects of AGN feedback, and can be the dominant processes that quench the massive ellipticals.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Dr. Li-Yen Hsu (data scientist at Lumiata)
+Topic:          My Experience Going from Academia to Data Science
+Time:           12/26 (Wednesday) 14:20 - 15:20
+Place:           R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Huang, Yen-Ru (ASIAA)
+Topic:          1.5 THz Receiver Cartridge Based on HEB Mixers
+Time:           12/26 (Wednesday) 12:15 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Yue Shen (University of Illinois)
+Topic:          Extreme Variability Quasars
+Time:           12/27 (Thursday) 14:20 - 14:50
+Place:           R1203
+Abstract:
+Recent imaging and spectroscopic surveys have greatly increased the
+inventory of an elusive class of persistent variables, extreme
+variability quasars (EVQs), where the quasar can vary by more than a
+factor of few in flux over multi-year timescales, much more variable
+than the normal quasar population. In some extreme cases, the quasar
+almost entirely shuts off, leading to an apparent "type transition" from
+a type 1 (broad-line) quasar to a typical type 2 (narrow-line) quasar. I
+will briefly review this topic, and provide arguments that attribute the
+dramatic flux changes to intrinsic accretion rate changes. However, it
+remains a challenge to understand this EVQ phenomenon in the standard
+theory of accretion disks.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Xin Liu (University of Illinois)
+Topic:          Finding binary supermassive black holes in the variable electromagnetic sky
+Time:           12/27 (Thursday) 14:50 - 15:20
+Place:           R1203
+Abstract:
+Binary supermassive black holes are expected to be common from galaxy mergers. Their final coalescence is believed to be the loudest gravitational wave siren in the universe, yet no confirmed binary is known to be close enough so that it would efficiently emit gravitational waves to merge within the age of the universe. Over the past few years, systematic searches using synoptic surveys based on active galactic nucleus variability have started to yield a sample of intriguing candidates. I will discuss the results from these searches and highlight our recent discovery of potentially the first case of a candidate from circumbinary accretion disk variability from the Dark Energy Survey.
+
+==============================================================================

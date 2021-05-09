@@ -1,0 +1,131 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Thu Dec 22 11:55:48 2005
+Date: Wed, 21 Dec 2005 23:50:37 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue December 21, 2005)
+
+==============================================================================
+
+In this issue (December 21, 2005)
+
+1. Low energy efficiency of Suzaku
+2. ASIAA Colloquium (Dec 23): Jennifer Karr (ASIAA)
+
+==============================================================================
+
+> Date: Tue, 20 Dec 2005 21:31:59 +0800
+> From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: [Fwd: low energy efficiency of Suzaku]
+
+
+-------- Original Message --------
+> Subject: low energy efficiency of Suzaku
+> Date: Tue, 20 Dec 2005 20:57:46 +0900
+> From: "Kazuhisa MITSUDA" <mitsuda@astro.isas.jaxa.jp>
+> To: hkchang@phys.nthu.edu.tw
+> CC: mitsuda@astro.isas.jaxa.jp
+
+Dear Prof. Hsiang-Kuang Chang,
+
+There is an important notice to all Suzaku proposers
+on recent perfomance of Suzaku.
+Please distribute this message to your colleagues.
+
+Kazuhisa Mitsuda
+ISAS/JAXA
+
+
+=====
+Subject: low energy efficiency of Suzaku
+
+ December 20, 2005
+
+The good low energy response of the back illuminated (BI) CCD,
+i.e. the high detection efficiency and the gaussian-like good energy
+spread function, is an important unique feature of Suzaku. However, we
+recently found evidence that the effective area below 1 keV of both
+back- and front-illuminated sensors is decreasing with time (see
+figures in the Suzaku web page,
+http://www.astro.isas.jaxa.jp/suzaku/). On the average at 0.6 keV the
+effective area is about 50% that just after launch. We are working
+hard to understand the cause of decrease and to find possible recovery
+methods.  The present best estimate of the e-folding time constant is
+160 days at the OVII line (570 eV), but it can be shorter at lower
+energies and is longer at higher energies.  However, at present we
+cannot predict the future long-term behavior of efficiency
+well. Because of this we will put the priority on the low energy
+observations as soon as possible during AO1. And we will provide the
+response functions (rmf files) of the XIS as of October 26, 2005 on
+the suzaku web page soon.  Please note in your proposal which response
+function is used to estimate the observation times.
+
+Please note that the energy resolution has not changed.
+
+
+Best wishes,
+
+ Kazuhisa Mitsuda (ISAS/JAXA)
+ Hideyo Kunieda (ISAS/JAXA and Nagoya University)
+ Nick White (NASA/GSFC)
+
+==============================================================================
+
+> Date: Wed, 21 Dec 2005 10:52:50 +0800 (CST)
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, faculty@phys.ntu.edu.tw, ybyun@yonsei.ac.kr
+> Subject: [Colloquium] ASIAA Colloquium (12/23 Friday)
+
+
+  Dear all,
+
+ 	This Friday we will have a colloquium talk presented by Dr.
+  Jennifer Karr. Dr. Karr joined IAA just two months ago. She has been
+  involved in various projects with the Spitzer Space Telescope. On
+  Friday, she will discuss the SED of young stellar objects viewed by
+  Spitzer.
+
+  	Please mark your calendar and remember to join!
+
+  Regards,
+
+  sheng-yuan
+
+  ------------------------- ASIAA Colloquium -----------------------
+   Speaker : Dr. Jennifer Karr (ASIAA)
+   Title   : Interpreting Spitzer Colours of Young Stellar Objects
+   Time    : 12/23 (Fri) 2:00 PM
+   Location: ASIAA Room 716
+   Abstract:
+             The Spitzer Space telescope is providing an unprecedented
+             opportunity for the study of young stars. I will discussing
+             the observational properties of YSOs at Spitzer wavelengths,
+             and the interpretation of their colours and SEDs. In particular,
+             archived data from the Infrared Space Observatory has been
+             used to provide a comparison sample of colours and SEDs of
+             YSOs of known type. These data are then compared with the
+             properties of catalogues derived from the Spitzer Galactic
+             First Look Survey.
+  ------------------------------------------------------------------
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+  ------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

@@ -1,0 +1,115 @@
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________
+Speaker:        William Borucki (NASA Ames Research Center)
+Topic:          Kepler mission results: discoveries from astrophysical and
+exoplanet investigations
+Time:           9/29 (Tuesday) 14:20 - 15:20
+Place:           physics 104
+Abstract:
+At the time of the first Kepler proposal, no exoplanets had been
+discovered. At the conclusion of the Mission, over 4600 planetary
+candidates had been discovered and a new era of astronomy has opened.
+Planets have been found with average densities as low as Styrofoam
+(0.05 gr/cc) and as high as that of tungsten (17 gr/cc), and with
+sizes between that of the Moon to double that of Jupiter. Planets are
+found orbiting much closer to their star than Mercury does to the Sun,
+but Jupiter-size planets in such locations are rare. The high
+frequency of 4- and 5-planet systems indicates that flat systems are
+common. However, in about 20% of planetary systems, a planet is found
+orbiting at a large angle to the stellar equatorial plane. Very
+compact systems are common and many of the planets are in
+near-resonant orbits, but seldom in resonant orbits. Planets are found
+in binary and trinary star systems. Because circumbinary planets show
+very irregular transit signatures, most are found by visual inspection
+rather than by automated searches. Planets in the habitable zone are
+common. A combination of several observational and modeling techniques
+is used to deduce the characteristics of the planets and the host
+stars. Observational techniques include; high-precision radial
+velocity measurements to deduce planetary masses, spectroscopic
+observations to characterize host stars, adaptive optics, speckle, and
+HST to search for background stars that could account for the transit
+signal or dilute it, and Spitzer IR observations to check that the
+transits are achromatic. Analysis and modelling techniques include;
+asteroseismic analysis to determine stellar size age, and density from
+p- and g-mode observations, modeling techniques using Markov-chain
+Monte Carlo methods to get best-fit values for planetary and stellar
+parameters, statistical analysis to estimate the frequency of
+false-positive events, and stellar-evolution models to deduce stellar
+size and age. Results from the Kepler Mission show that the average
+number of planets per star exceeds one.
+
+Because Kepler has observed over 170,000 stars nearly continuously for
+four years, many unusual stars have been found and the information
+needed for the determination of rotation rates of the cores of giant
+stars and the identification of those stars that are hydrogen-shell
+burning versus those that are helium-burning is clear. Examples of the
+results are presented.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        William Borucki (NASA Ames Research Center)
+Topic:          Development of the Kepler mission
+Time:           9/30 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The Kepler Mission is a space observatory launched in 2009 by NASA to
+monitor 170,000 stars for four years to determine if Earth-size and
+larger planets in and near the habitable zone of solar-like stars are
+common or rare in our galaxy. The Kepler Mission has been very
+successful: over 4600 planetary candidates have been found with an
+enormous range of sizes, temperatures, and types of stellar hosts. In
+particular, exoplanets near the size of Earth’s moon to those larger
+than Jupiter have been found with orbital periods that range from 8.5
+hours to over 1000 days. Dozens of planetary candidates in the
+habitable zone have been found. Analysis indicates that those smaller
+than 1.6 times the radius of Earth are likely to rocky planets whereas
+planets substantially larger are likely to have substantial
+hydrogen/helium atmospheres. Planets and planetary systems completely
+different from our Solar System are common. Results from the Kepler
+Mission show that the average number of planets per star exceeds one;
+planets are more common than stars.
+
+To be successful, the Mission development required overcoming many
+barriers. No spacecraft mission had ever been flown that could do
+automated photometry of 170,000 stars simultaneously with the 10 ppm
+photometric precision necessary to discover the thousands of planets
+needed to obtain reliable statistics of exoplanet distributions. It
+took seventeen years of effort before NASA agreed to fund the Kepler
+Mission concept for development. To gain acceptance, it was necessary
+to accomplish the following steps:
+
+1) demonstrate that an appropriate combination of detectors and data
+analysis techniques was available that had the precision necessary to
+detect transits of Earth-size planets,
+
+2) prove that the variability of solar-like stars was likely to be
+sufficiently low that transits from Earth-size planets could be
+detected with high reliability,
+
+3) demonstrate automated observations of thousands of stars
+simultaneously and automated analysis of the observations, and
+
+4) develop a lab test facility to demonstrate 10 ppm photometric
+precision needed to find Earth-sized planets orbiting solar-like stars
+in the presence of the noise expected from on-orbit operation.
+
+The methods used to overcome these barriers will be presented. A brief
+summary of the most exciting discoveries will also be provided.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch
+box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chueh-Yi Chou (ASIAA)
+Topic:          Subaru PFS Metrology Camera System
+Time:           9/30 (Wednesday) 12:00 - 13:00
+Place:           R1203

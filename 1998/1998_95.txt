@@ -1,0 +1,110 @@
+From kyl@asiaa.sinica.edu.tw Tue May  5 07:58:34 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (biaa.sinica.edu.tw) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02278; Tue, 5 May 1998 07:57:19 +0800
+Received: from localhost by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA03044; Tue, 5 May 1998 07:56:00 +0800
+Date: Tue, 5 May 1998 07:56:00 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa1
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: NGST Data Archive Study (fwd)
+Message-Id: <Pine.GSO.3.96.980505075558.16723Q-100000@iaa1>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2539
+Status: RO
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Mon, 4 May 98 10:55:34 EDT
+From: Operator <root@cesdis1.gsfc.nasa.gov>
+Reply-To: ngst@cesdis1.gsfc.nasa.gov
+To: ngst@cesdis1.gsfc.nasa.gov
+Subject: NGST Data Archive Study
+
+
+
+
+Greetings All:
+
+Recently I have been asked to serve on a committee to study concepts for the
+data archive for the Next Generation Space Telescope.  The committee is
+interested in developing a model for the process that scientists use when
+they are conducting astronomical experiments.  The committee is interested
+in discerning the relative amounts of time that scientists spend working on
+the various parts of the process.  If you have a few free moments and would
+be interested in contributing to this study, please assign relative weights
+to the activities listed below and return the survey NO LATER THAN MAY 15 to
+ngst@cesdis.gsfc.nasa.gov.  Names will not be connected to the results;
+however, if you wish to remain totally anonymous and would like to
+contribute, feel free to print this out and send your response via the post,
+to Susan Hoban, Code 930.5/CESDIS, NASA/GSFC, Greenbelt, MD 20771.
+
+Thanks in advance for your input.
+
+Susan Hoban
+************
+NGST Data Archive Study
+Science Process Study
+
+Please indicate the fraction of time you spend on the following tasks (the
+total of all three sections should be 100%):
+
+A. General
+_____	preparing observing proposals
+_____	preparing funding proposals
+_____	searching the literature
+_____	talking to colleagues about science
+_____	writing up results for publication
+
+
+B. Current independent research:
+_____	observing
+_____	searching for your own recent data
+_____	analyzing your data
+
+C. Archival research:
+_____	searching for your own (archived) data
+_____	searching for others' (archived) data
+_____	analyzing archived data
+
+100%	TOTAL
+
+If you use public archives it would also be helpful if you would answer the
+following questions:
+
+Which public archives do you use?
+____CGRO	___HEASARC 	___HST	___IRAS	___ IUE 
+	___PDS	____ ROSAT
+
+Other (please list):
+
+
+
+What percentage of the data that you use is stored in public archives? 
+_________%
+
+
+Feel free to add additional comments below.
+
+COMMENTS:
+
+
+
+

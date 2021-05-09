@@ -1,0 +1,113 @@
+From syliu@asiaa.sinica.edu.tw Wed Aug 10 14:50:46 2011
+Date: Wed, 10 Aug 2011 14:50:41 +0800
+From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: ALMA EA Development Workshop 2011 (1st circular)
+
+
+Dear Yi-Jehng,
+
+	Please kindly post the announcement below through TAN. Thank you!
+
+best,
+sheng-yuan
+
+----------
+Dear colleagues,
+
+	ALMA East-Asia is organizing a one-day workshop about the future development of ALMA. The workshop is scheduled on Sep 8th on NAOJ Mitaka campus.
+	Please find below the first circular of the workshop, and your participation as well as contribution is greatly encouraged!!!
+
+best,
+sheng-yuan
+----------
+
+    *************************************
+      ALMA EA Development Workshop 2011
+        　　　　　1st Circular
+    *************************************
+
+    Date: 2011 Sep 8 9:00-
+    Location: Dai Seminar room in Subaru Building in NAOJ Mitaka Campus
+
+    * Purpose
+    The first call for proposal was successfully completed in gathering many
+    proposals from all over the world. We thank all the users and make up
+    our mind again in keeping up good work on science operation.
+
+    ALMA is a growing instrument in the sense that ALMA capability keeps on
+    being upgraded in the future with technological innovation and progress.
+    We explain the development policy how ALMA will proceed with future
+    development and upgrades in the operation phase in order to continue
+    cutting edge science with ALMA.
+
+    The aim of the meeting is to discuss what new capability and what
+    upgrades maximizes ALMA science and is to hear from engineers what will
+    be within reach to upgrade important items in development. The goal of
+    the meeting is to share scientific demand and important items in the
+    future ALMA development plan.
+
+    * Application Deadline
+    - General  2011 Sep. 5th (Wed) 17:00
+
+    * Presentation
+    Fill the form below and prepare presentation taking the following items
+    into account.
+    - Better angular resolution
+    - Sensitivity in continuum and line
+    - Sideband separation or DSB to SSB (single side band) at band 9 and 10
+    - Simultaneous observations at more than one band
+    - New frequency window
+    - Better mapping capability
+    - Misc.
+
+    Email to almaj_application_at_alma.mtk.nao.ac.jp (replace “_at_”with @)
+    - subject: ALMA EA Development Workshop 2011
+
+    ---------- Application begin --------------
+    1. Faimily name and First name：
+    2. Affiliation：
+    3. Title：　　　　　　　　　
+    4. email:
+    5. tel：
+    6. Poster session：[Yes/No]
+      If yes, Title：
+ ---------- Application Form End----------------
+
+    * Tentative Program
+    09:00 Welcome 
+    09:10 ALMA Status and Development Policy
+    09:40 ALMA Taiwan
+    10:00 General View of Upgrade and other executives
+    10:40 ? 12:00 Upgrade Benefit in Science (several areas)
+    Lunch (12:20 ? 13:00)
+    Poster (13:00 ? 14:00)
+    Afternoon - Upgrade Items in Hardware and Software
+    - Band 1 
+    - Band 4, 8
+    - Band 10 
+    - Band 11 
+    - LLC 
+    - next generation correlator 
+    - Radio signal source for calibration and holography at AOS
+    - New algorithms for imaging 
+    - Array Extension 
+    - Phase up VLBI
+    -Closing Remarks
+
+    * SOC：Nario Kuno (NRO/NAOJ), Sheng-Yuan Liu（ASIAA), Kotaro Kohno
+    (IoA/Univ. of Tokyo), Munetake Momose (Ibaraki Univ.), Masao Saito
+    (ALMAJ/NAOJ)
+    * LOC：Masao Saito (ALMAJ/NAOJ), Kazuya Saigo (ALMAJ/NAOJ)
+
+    Comments to almaj_loc_at_alma.mtk.nao.ac.jp (replace “_at_” with @)
+
+    Masao Saito
+    East Asian Project Scientist
+    ALMA Project, National Astronomical Observatory
+    Osawa 2-21-1, Mitaka,
+    Tokyo 181-8588, Japan
+    Tel:+81-422-34-3633
+    Fax:+81-422-34-3764
+    email:masao.saito@nao.ac.jp
+

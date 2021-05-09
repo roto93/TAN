@@ -1,0 +1,36 @@
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Mon, 6 May 2019 08:41:27 +0800
+> Subject: Re: colloquium at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+
+*** NCU Colloquium ***
+
+*Speaker*:    Dr Peter Scicluna (ASIAA)
+*Date/Time*:   May 10 (F), 14:00
+*Room*:   NCU, S4 Room 1013
+*Title*:    Hayabusa2 and JAXA small body exploration program
+*Abstrac*t:    Outflows of evolved stars drive the chemical evolution of
+galaxies in the local Universe. Population models dictate that low- to
+intermediate-mass asymptotic giant branch (AGB) stars dominate this process
+today, while in the early universe, massive stars and supernovae were
+likely the main contributors. However, many key issues regarding AGB mass
+loss remain unresolved. Thanks to Spitzer, a number of Local Group galaxies
+have been observed in detail, revealing the dust-production rates of all
+evolved stars, and hence the total dust injection rate for the galaxies.
+However, measuring the gas mass-loss rates outside our galaxy is
+prohibitive, making it unlikely that a large sample will be available in
+the foreseeable future, and systematic studies in the Milky Way remain
+conspicuously absent. The Nearby Evolved Stars Survey (NESS) aims to fill
+this gap, by targeting a volume-limited sample of roughly 400 sources
+within 2 kpc, enabling robust statistical studies of local evolved stars.
+We will derive the dust and gas return rates in the Solar Neighbourhood,
+and constrain the physics underlying these processes. I will present a
+detailed description of the project, including the motivation and strategy,
+and highlight some of our early results. I will also briefly introduce the
+tools we are developing that will, along with a catalogue containing all
+raw and reduced NESS data and a compilation of literature data, be released
+to the community to aid reproducibility.
+
+==============================================================================

@@ -1,0 +1,31 @@
+> Date: Thu, 31 Mar 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Hsiang-Yi Yang (University of Maryland)
+Topic:          Solving the Cooling-Flow Problem in Galaxy Clusters
+Time:           4/6 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Galaxy clusters with short central cooling times are predicted to host massive inflow of gas and large star formation rates, which are absent observationally – the so-called “cooling-flow problem”. Feedback from the central active galactic nuclei (AGN) is one of the most promising heating mechanisms to counteract radiative cooling. However, it is still uncertain how the feedback energy is transformed into heat and how to distribute heat isotropically. The role of conduction is also not well understood. In particular, it is unexplored whether the AGN-driven turbulence could halt the heat-flux driven buoyancy instability (HBI) that acts to insulate the cluster cores from conductive heating. I will present results from our recent simulations that aim to address the above two questions. Finally, few models to date consider cosmic-ray filled AGN bubbles, which are crucial for bubble evolution. I will discuss how we could use multi-wavelength observations of the Fermi bubble!
+ s as a nearby laboratory to understand the processes of AGN feedback.
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Min-Kai Lin (University of Arizona)
+Topic:          Hydrodynamic activity in protoplanetary disks
+Time:           4/7 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The realization that large portions of cold, dense protoplanetary disks do not support magnetically-driven turbulence have lead to renewed interest in purely hydrodynamical processes in accretion disks. Such processes may play significant roles in disk evolution, planet formation, as well as explaining observations of transition disks. I will discuss recent theoretical developments in three important examples of hydrodynamic instabilities in protoplanetary disks. I first describe the Rossby Vortex Instability, which has been invoked to form dust-trapping vortices to explain asymmetries observed in several transition disks. I will also present new simulations of vortices in massive 3D disks. I then describe the Vertical Shear Instability and its generic relevance to astrophysical disks. I show that, despite rather stringent thermodynamic requirements, that this instability is indeed viable in realistic, irradiated protoplanetary disks where cooling is regulated by dust opacit!
+ y. Finally, I present a new analytical treatment of Gravitational Instabilities in rotating disks that includes cooling physics, irradiation and viscosity. I discuss how this generalized linear theory may aid the understanding of disk fragmentation, and show that application of our analyses predict where protoplanetary disks are expected to fragment, in agreement with the current consensus based on direct numerical simulations.
+
+==============================================================================

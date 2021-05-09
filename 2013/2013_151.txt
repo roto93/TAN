@@ -1,0 +1,59 @@
+> From: Hiro Takami <hiro@asiaa.sinica.edu.tw>
+> Subject: Special seminars this week
+> Date: Sun, 25 Aug 2013 20:47:42 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>    ASIAA Webmaster <web@asiaa.sinica.edu.tw>
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+#-------------------------------------------------------------------
+2013-08-26 Mon 14:00~15:00
+Olivier Doré [JPL/Caltech]
+"The Planck Satellite as a Large Scale Structure Survey"
+
+Planck is the third-generation satellite aimed at measuring the cosmic microwave background, the oldest electromagnetic radiation in the Universe, coming to us from just 400,000 years after the hot big bang. Launched in May 2009, Planck has surveyed the full sky at high sensitivity and high angular resolution from 30 to 857 GHz. This broad frequency coverage gives Planck a unique view of the history of the Universe from the epoch of recombination to the present. I will present the Planck latest cosmological results, with an emphasis on Planck's sensitivity to the low redshift Universe through, e.g., the lensing of the cosmic microwave background.
+
+#-------------------------------------------------------------------
+2013-08-27 Tue 14:00~15:00
+Asantha Cooray [University of California, Irvine]
+"Cosmology at Sub-mm Wavelengths: From Herschel to CCAT and Beyond"
+
+I will summarize key science results obtained so far by two key programs that made use of the SPIRE instrument aboard the Herschel Space Observatory. These extragalactic surveys have uncovered close to a million dusty, starburst galaxies at redshifts of 1 to 5 with instantaneous star-formation rates out to several thousand solar masses per year in some cases. I will discuss properties of Herschel-selected bright and lensed sub-mm galaxies, their dust and molecular gas properties, the spatial clustering of bright and faint sub-mm galaxies, and the role of dusty starbursts in galaxy formation and evolution. I will discuss unresolved fluctuations as a way to study the fainter galaxies below the confusion limit. I will briefly introduce intensity mapping of sub-mm/far-IR spectral lines as a way to probe large-scale structure and the epoch of reionization and will end my talk with some discussion of future directions in sub-mm wavelength observations with ALMA, CCAT and SPICA.
+
+#-------------------------------------------------------------------
+2013-08-28 Wed 13:30~14:30
+Jamie Bock [California Institute of Technology]
+"Probing the Epoch of Reionization with Intensity Mapping"
+
+Star formation during the epoch of reionization may be studied through
+measurements of intensity fluctuations in the redshifted 158 um line of
+singly ionized carbon.  Intensity mapping is an attractive approach to
+measure galaxy clustering and its relation to underlying dark matter halos,
+without resolving individual galaxies with a large aperture telescope.  The
+technique has had several notable successes in continuum band measurements
+with Planck and Herschel/SPIRE, and is also being used in the near-infrared
+with Spitzer, Akari and CIBER to study the components of the extragalactic
+background.  The Tomographic Ionized-carbon Mapping Experiment (TIME) will
+measure 3-dimensional line intensity variations using a large focal plane
+array of mm-wave spectrometers, coupled to a wide-field dedicated 3 - 10
+meter telescope.  We are currently developing spectrometers lithographed on
+a compact silicon chip based on low-loss superconducting RF circuitry,
+similar to the antenna structures currently used in CMB polarimeters, that
+enables mass production for large spectroscopic throughput.  We are also
+developing a precursor instrument named TIME-Pilot based on conventional
+spectrometer technology that can make a first detection of C+ fluctuations
+at predicted levels in a modest dedicated survey from the 10 meter Caltech
+Submillimeter Observatory.
+
+-----------------------------------------------------
+Michihiro Takami
+Institute of Astronomy and Astrophysics, Academia Sinica
+11F of Astronomy-Mathematics Building, National Taiwan University
+No.1, Sec. 4, Roosevelt Rd, Taipei 10617, Taiwan, R.O.C.
+Tel: +886-2-2366-5402
+Fax: +886-2-2367-7849
+e-mail: hiro@asiaa.sinica.edu.tw
+-----------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

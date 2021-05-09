@@ -1,0 +1,116 @@
+From yuan@iaa7.asiaa.sinica.edu.tw Fri Feb 23 18:52 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id SAA19410
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 23 Feb 2001 18:52:15 +0800 (CST)
+Received: from iaa7.asiaa.sinica.edu.tw (iaa7 [140.109.177.102])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id TAA09233
+	for <astro@asiaa.sinica.edu.tw>; Fri, 23 Feb 2001 19:00:44 +0800
+Received: (from yuan@localhost)
+	by iaa7.asiaa.sinica.edu.tw (8.9.3/8.9.3) id SAA08251
+	for astro@asiaa.sinica.edu.tw; Fri, 23 Feb 2001 18:43:58 -0800 (PST)
+Date: Fri, 23 Feb 2001 18:43:58 -0800 (PST)
+From: Chi Yuan                    <yuan@iaa7.asiaa.sinica.edu.tw>
+Message-Id: <200102240243.SAA08251@iaa7.asiaa.sinica.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Content-Type: text
+Content-Length: 4408
+Status: R
+
+        Workshop on Computation Fluid Mechanics-MagnetoHydroDynamics
+                           ( CFD-MHD Workshop )
+                         3-12-2001 and 3-13-2001
+           Website: http://www.asiaa.sinica.edu.tw/Announcements
+
+     Institute of Astronomy & Astrophysics of Academia Sinica (ASIAA), 
+Institute of Mathematics of Academia Sinica (ASIM), Department of Mathematics 
+of National Taiwan University, and National Center for Theoretical Sciences
+(NCTS) will sponsor a mini-workshop on CFD-MHD in astrophysics next month. The 
+dates are 3-12 and  3-13 (Monday and Tuesday). The place will be in the 
+Biochemistry Building in Academia Sinica, Nankang, where ASIAA is located.
+
+     We have 4 lecturers: Professors Frank Shu of UC-Berkeley, Paul 
+Woodward of U-Minnesota, Phil Collela of UC-Berkeley, and Jim Stone of
+U-Maryland. Frank Shu will talk about the MHD problems in
+astrophysics. Paul Woodward will talk about their recent work on stellar 
+convections and their latest developments in numerical methods. 
+Phil Collela has not outlined his talk yet. Jim Stone will talk about the 
+Zeus code. We have asked them to prepare their lectures to a level that 
+graduate students will not be totally at lost.
+
+     The format will be that each of the invited lecturers will give
+two one-hour talk plus a 30-min discussion period. There will be short
+presentations mostly from our local people who will give a 20-min presentation 
+plus 5-min question answer period, at the end of each day. We will ask Dr. Ue-li 
+Pen of CITA, U-Toronto to give a 40-min talk on his cosmology calculations, 
+using moving meshes, during the short presentation period.
+
+                            The Program
+
+Monday (3-12)
+
+  09:00-09:10     Welcome by Fred Lo, Director, ASIAA
+  09:10-10:10     Shu: The Grand Challenge of Astrophysical MHD
+  10:10-10:30     Coffee Break
+  10:30-11:30     Shu: Two Sample Problems: Magnetized Gravitational Collapse and
+                       Fragmentation; Collimated Jets and Outflows
+  11:30-12:00     Discussion
+  12:00-13:00     Lunch
+  13:00-14:00     Woodward: Large-Scale Simulation of Turbulent Convection in 
+		       Stars
+  14:00-14:20     Coffee break
+  14:20-15:20     Woodward: Latency-Tolerant Numerical Methods for Highly 
+		       Efficient, Cost Effective Computing on Clusters of PCs, 
+		       Scalable to Thousands of Machines
+  15:20-15:50     Discussion
+  15:50-16:10     Break
+  16:10-17:00     Ue-li Pen: MMH: the cosmological Moving Mesh Hydro code
+  17:00-18:15     Short Presentations
+		  Wei-Cheng Wang: Energy and Helicity Preserving schemes for 
+		       incompressible MHD equations
+		  Chi Yuan: Bar-driven Spirals in galactic disks, by the
+		       relaxation method
+                  Keh-Ming Shyue: Numerical Simulation of Richtmyer-Meshkov 
+		       Instability: A Simple Model of Supernovae Explosions
+  18:45           Banquet
+
+Tuesday (3-13)
+
+  09:00-10:00     Collela: To be announced
+  10:00-10:20     Coffee Break
+  10:20-11:20     Collela: To be announced
+  11:20-11:50     Discussion
+  11:50-13:00     Lunch
+  13:00-14:00     Stone: ZEUS -- Basic Algorithms and Tests
+  14:00-14:20     Coffee break
+  14:20-15:20     Stone: ZEUS -- Extensions and Applications
+  15:20-15:50     Discussion
+  15:50-16:10     Break
+  16:10-18:15     Short Presentations
+                  I-Liang Chern: A fast Algorithm for Computing Poisson-Boltzmann 
+			Equation
+		  Joey Huang: The Curved Path of a Rotational Cylinder in a Viscid
+		        Flow and a Phenomenological Model for a Moving Baseball
+		  Danny Shieh: Parallel Processing for Large-scale Scientific
+			Programs
+		  Chang-Hsien Tai: All Speed Solver Applied to Multi-block
+			System on Structured Meshes
+		  Chao-Yen Yang: A Simulation Method for the Relativistic
+			Model Boltzmann Equation
+
+                           Registration
+
+  Electronic Registration: http://www.asiaa.sinica.edu.tw/Announcements
+  Registration Fee: Regular 400 NTD; Student 200 NTD (including 2
+  lunch boxes and banquet on 3-12)
+
+                   Scientific Organizing Committee
+
+I-Liang Chern, Taida Mathematics (chern@math.ntu.edu.tw)
+Tai-ping Liu, ASIM (tpliu@math.sinica.edu.tw)
+Chi Yuan, ASIAA (yuan@asiaa.sinica.edu.tw)
+
+		      Local Organizing Committee
+
+Chien-Chang Yen, ASIAA (yen@asiaa.sinica.edu.tw), Lupin Chun-Che Lin, ASIAA 
+(lupin@ asiaa.sinica.edu.tw), Mei-Yin Chou (cmy@asiaa.sinica.edu.tw)
+

@@ -1,0 +1,208 @@
+From kyl@asiaa.sinica.edu.tw Wed Jan 27 07:30:20 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA18734; Wed, 27 Jan 1999 07:28:05 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id HAA26576; Wed, 27 Jan 1999 07:25:28 +0800
+Date: Wed, 27 Jan 1999 07:25:28 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Re: 1st Conference Announcement (fwd)
+Message-Id: <Pine.GSO.3.96.990127072521.25365C-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6440
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 26 Jan 1999 21:49:05 +0300 (MSK)
+From: "Bisnovaty-Kogan G.S." <gkogan@mx.iki.rssi.ru>
+To: Astrophysical Dynamics Conference <astrodyn@uevora.pt>
+Cc: ad-list@uevora.pt
+Subject: Re: 1st Conference Announcement
+
+
+                A S T R O P H Y S I C A L   D Y N A M I C S
+
+
+                   Conference to commemorate the work of
+                     FRANZ D. KAHN, FRS  (1925 - 1998)
+              To be held at the University of Evora, Portugal
+                                     on
+                              14-16 April, 1999
+
+Personal Details
+----------------------------------------------------------------------------
+Name and initials: Bisnovatyi-Kogan G.S.
+Institution      : Space Research Institute
+Address          : Profsoyuznaya str. 84/32,
+                   Moscow 117810
+                   Russia
+
+Email            : gkogan@mx.iki.rssi.ru
+Tel no           : 7 095 333 45 88
+Fax no           : 7 095 310 70 23
+
+Details of Contribution
+----------------------------------------------------------------------------
+
+I want to give a contributed talk,
+
+Title            : Electrodynamical particle acceleration in
+                   relativistic jets
+
+Authors          : G.S.Bisnovatyi-Kogan
+
+
+Accommodation
+----------------------------------------------------------------------------
+
+
+Financial support
+----------------------------------------------------------------------------
+Sorry, I would be able to attend only in the case of obtaining
+full living and travel support
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+%PLANE tex file
+ \bigskip
+ \magnification=1200
+ \centerline{\bf Curriculum Vitae}
+ \bigskip
+ \centerline{\bf Bisnovatyi-Kogan Guennadi}
+ \bigskip
+ \settabs 2 \columns
+ \+Home address:  & 117602, Moscow, Russia, \cr
+ \+               & Acad. Anochina st. 38-4-734.\cr
+ \+Date of birth:  & 06 December 1941 \cr
+ \+Place of birth: & vil. Michailovka, Saratov reg., Russia, USSR \cr
+ \bigskip
+ {\bf Current permanent position}
+ \medskip
+ Main sci.fellow,
+ Institute of Space Research (IKI),
+ Profsoyuznaya, 84/32,
+ 117810, Moscow, Russia.
+ \bigskip
+ {\bf Education}
+ \medskip
+ \settabs 2 \columns
+ \+ 1958-1964 & Student of Moscow Physical-Technical Institute, \cr
+ \+ 1964-1967 & Postgraduate student of Moscow Physical-Technical Inst.,\cr
+ \+ & and Keldysch Institute of Applied Mathematics. \cr
+ \+ &  Supervisor: Ya.B.Zeldovich \cr
+ \bigskip
+ {\bf Employment}
+ \medskip
+ \settabs 2 \columns
+ \+ 1967-1974 & Junior sci. fellow at the Laboratory for \cr
+     \+ & Relativistic Astrophysics, \cr
+     \+ & Keldysh Institute of Applied Mathematics. \cr
+      \+ & Space Research Institute,Moscow, USSR, \cr
+  \+ 1974-- now &  Senior, Leading, and now Main sci.fellow,\cr
+  \+ & IKI, Moscow, 117810, Russia \cr
+ \bigskip
+ {\bf The PhD thesis}
+ \medskip
+ \centerline{"Late stages of stellar evolution"}
+ \centerline{defended in 1968 in Keldysh Inst. Appl.Math. }
+
+ {\bf Advanced Doctoral thesis}
+
+ \centerline{``The equilibrium and stability of stars and stellar systems''}
+ \centerline{defended in 1977 in IKI.}
+ \bigskip
+
+ {\bf Professor of Astrophysics, 1991, IKI}
+\bigskip
+
+{\bf Main Scientific Results}
+
+First determination of the maximum mass of the hot neutron star
+$\sim 70 \,M_{\odot}$.
+Suggetstion of the idea of the magnetorotational supernovae model,
+numerical calculations of which had shown an few percent efficiency of
+transformation of the rotational enegry into the energy of explosion,
+what is enough for explanation of the energetics of II type SN.
+
+Theory of the mass loss from massive evolved stars was developed, and
+method for construction of self-consistent stellar models with mass loss
+had been suggested. Some models had beed constructed numerically.
+
+Prediction of the existence of the binary radiopulsars, going through
+the stage of the X-ray sources (recycled pulsars). Now about 50 of such
+objects are known, the first one, the Hulse-Taylor pulsar, was observed
+1n 1975, about one year after its prediction.
+
+Original results had been obtained in the theory of accretion into black holes
+and neutron stars: formation of the accretion disc coronae; first indication
+of accretion disc convective instabilities; self-consistent model of
+accretion onto a rapidly roatting star.
+
+Discovery of the nonequilibrium layer in the
+envelopes of neutron stars, and creation of the cosmic gamma ray burst
+models originated in the nearby neutron stars.
+
+The main recent results are connected with obtaining of new solutions of
+the equilibrium relativistic clusters and analysis of their stability;
+developement of the theory of propagation of strong 2-D and 3-D shocks
+in the interstellar medium in a thin layer approximation;
+developement of accretion disc theory with advection in presence of
+magnetic fields;
+application of Galerkin method to the problems of stability and collapse
+of relativistic objects;
+stability of rotating supermassive stars in presence of a dark matter.
+
+
+ \centerline{\bf MAIN PUBLICATIONS}
+ \bigskip
+ \item{1.} The explosion of a rotang star as a supernova mechanism
+
+     Sov.Astron. AJ 14 (1971) 652-655.
+
+  \item{2.} Shock-wave propagation in the nonuniform interstellar
+            medium (with S.A.Silich)
+
+           Rev.Mod.Phys. 67 (1995) 661-712.
+
+\item{3.}Nonequilibrium beta-processes as a source of thermal energy
+       of white dwarfs (with Z.F.Seidov)
+
+     Sov.Astron. AJ 14 (1970) 113-116.
+
+  \item{4.} Disk accretion onto a black hole at subcritical luminosity
+     (with S.I.Blinnikov)
+
+     Astron.Astrophys. 59 (1977) 111-125.
+
+ \item{5.} Pulsars and close binary systems.(with B.V.Komberg)
+
+     Sov. Astron. 18 (1974) 217-221
+
+ \item{6.} Physical probems of the theory of stellar evolution
+       Nauka, Moskva, 480 pp. (1989), (monography, in Russuan)
+
+ \item{7.} Stability of elliptical stellar disks. Astrofizika 35 (1991)
+         271-312.
+ \end
+ --------------------------------------------------------------------------
+
+
+

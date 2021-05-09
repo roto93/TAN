@@ -1,0 +1,149 @@
+From kyl@asiaa.sinica.edu.tw Mon Jan 24 21:36 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA00164
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 24 Jan 2000 21:36:36 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA16941
+	for <astro@asiaa.sinica.edu.tw>; Mon, 24 Jan 2000 21:25:56 +0800
+Date: Mon, 24 Jan 2000 21:25:55 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: EVN Symposium 2000 (fwd)
+Message-ID: <Pine.LNX.4.10.10001242125520.16803-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4367
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 19 Jan 2000 11:15:00 -0700 (MST)
+From: George Martin <gmartin@aoc.nrao.edu>
+To: vlbi@zia.aoc.nrao.edu
+Subject: EVN Symposium 2000
+
+
+
+Forwarded for John Conway <jconway@ebur.oso.chalmers.se>
+
+----- Begin Included Message -----
+
+>From owner-vlbi Wed Jan 19 09:37 MST 2000
+Date: Wed, 19 Jan 2000 09:37:09 -0700 (MST)
+X-UIDL: 948303834.031
+From: owner-vlbi
+To: owner-vlbi
+Subject: BOUNCE vlbi: Non-member submission from [John Conway <jconway@oso.chalmers.se>]
+Content-Type: text
+Content-Length: 3479
+X-Lines: 91
+Status: RO
+
+>From gmartin  Wed Jan 19 09:36:52 2000
+Received: from cv3.cv.nrao.edu (cv3.cv.nrao.edu [192.33.115.2])
+	by zia.aoc.NRAO.EDU (8.9.3/8.9.3) with ESMTP id JAA23591
+	for <vlbi@zia.aoc.nrao.edu>; Wed, 19 Jan 2000 09:36:50 -0700 (MST)
+Received: from palantir.cv.nrao.edu (palantir.cv.nrao.edu [192.33.115.254])
+	by cv3.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) with ESMTP id LAA26439
+	for <vlbi@cv3.cv.nrao.edu>; Wed, 19 Jan 2000 11:36:48 -0500 (EST)
+Received: from ebur.oso.chalmers.se (jconway@ebur.oso.chalmers.se [129.16.208.57])
+	by palantir.cv.nrao.edu (8.9.3/8.9.3/CV-PALANTIR-3.1) with ESMTP id LAA14674
+	for <vlbi@nrao.edu>; Wed, 19 Jan 2000 11:36:46 -0500
+Received: from localhost (jconway@localhost)
+	by ebur.oso.chalmers.se (8.8.8/8.8.8) with SMTP id RAA11755;
+	Wed, 19 Jan 2000 17:33:34 +0100
+Date: Wed, 19 Jan 2000 17:33:34 +0100 (CET)
+From: John Conway <jconway@oso.chalmers.se>
+To: vlbi@cv3.cv.nrao.edu, evntech@nfra.nl
+cc: evntech@nfra.nl
+Subject: EVN Symposium 2000 
+Message-ID: <Pine.LNX.3.96.1000119173125.11711A-100000@ebur.oso.chalmers.se>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+
+------------------------------------------------------------------
+
+                 FIRST ANNOUNCEMENT
+
+                 EVN SYMPOSIUM - 2000
+
+-------------------------------------------------------------------
+
+
+The 5th European VLBI Network Symposium on New Developments in 
+VLBI  Science and Technology and the 2000 EVN Users Meeting
+
+are to be held at
+
+ONSALA SPACE OBSERVATORY
+Chalmers Centre for Astrophysics and Space Science
+Gothenburg/Onsala - Sweden
+June 29-July 1, 2000
+
+This Symposium will focus on the very latest VLBI results, including the
+most recent scientific and technical developments. The meeting will 
+have an informal character with oral contributions of app. 20 minutes 
+length. We hope to publish a set of Proceedings. We very much 
+encourage contributions from young astrononomers and students.
+
+There will also be a Users Meeting scheduled to cover all issues
+raised by users in connection with the current status and development 
+of VLBI in Europe. People with views on the EVN and its future direction 
+are encouraged to attend. The views of new EVN users are most welcome.
+
+Partial financial support is available for a limited number of young
+astronomers through the EU infrastructure Co-operation Network in 
+Radio Astronomy. Applications should be sent to:
+
+Dr Leonid Gurvits
+Secretary ICN in Radio Astronomy
+Joint Institute for VLBI in Europe
+Postbus 2, 7990 AA Dwingeloo
+The Netherlands
+
+If you would like to attend the symposium, please register your interest by
+e-mailing the local organizing committee at "evn@oso.chalmers.se"
+and we will then place you on  the Symposium Mailing List and in due 
+course send you more information about registration, accommodation, 
+programme and so on. The registration deadline is April 14th, 2000.
+
+For further information you can  also visit our website (available in 
+approximately one week) at http://www.oso.chalmers.se/evnsymposium.
+
+
+For Professor Roy Booth
+LOC Chair
+Onsala Space Observatory
+Chalmers University of Technology
+SE 439 92 Onsala Rymdobservatorium
+Sweden
+
+-----------------------------------------------------------------
+
+Tel: Prof. Roy Booth +46 31 772 5520      
+Secr: Margareta Mattsson +46 31 772 5500
+FAX: +46 31 772 5590
+E-mail (special account for the symposium): evn@oso.chalmers.se
+Web-site: http://www.oso.chalmers.se/evnsymposium 
+(available in one week)
+
+
+
+
+----- End Included Message -----
+
+

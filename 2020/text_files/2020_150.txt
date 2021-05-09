@@ -1,0 +1,22 @@
+==============================================================================
+
+Date: Thu, 1 Oct 2020 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Hsiang-Kuang Chang (NTHU)
+Topic:         MeV Astronomy Instrumentation Development in Taiwan
+Time:         10/7 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+I will talk about science goals and current status of three projects: the Compton Spectrometer and Imager (COSI), the Compton Polarimeter (Compol), and the Gamma-ray Transient Monitor (GTM). These are all for building instruments to detect photons in the MeV energy range, which is relatively unexplored in the whole electromagnetic spectrum because of difficulties in detection techniques. COSI is a general-purpose, next-generation Compton telescope based on high-purity germanium detectors. It is led by Space Sciences Lab, UC Berkeley, and has been selected by NASA SMEX program for phase A study. Compol is a small Compton polarimeter based on scintillator detectors to fly on a CubeSat for observing polarization of soft gamma rays from Cyg X-1.Compol is still looking for CubeSat opportunities. GTM is, similar to Compol, based on scintillator detectors.
+It is mainly for GRB monitoring and may also detect bright transients from other sources. It has been selected by NSPO to fly on Formosat 8B, planned to launch in
+2024. Feasibility study for GTM to fly in a lunar orbit is underway.
+
+==============================================================================

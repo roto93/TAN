@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Please use 'TANarchive' and 'astro' to enter"
+AuthUserFile /var/www/conf/user_site  
+
+require user guest TANarchive

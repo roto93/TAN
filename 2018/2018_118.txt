@@ -1,0 +1,227 @@
+==============================================================================
+
+In this issue (Jul 28 - Aug 06, 2018)
+
+1. Polarization workshop at ASIAA i(Oct 17)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Aug 06): Thavisha Dharmawardena
+                                                  (ASIAA/NCU)
+                                      (Aug 08): Hsien Shang (ASIAA)
+3. Arizona Radio Observatory - Call for Proposals: 2018B (September 10, 2018)
+4. Call for observing proposals for NRO45m
+
+  [NB: Due to an unexpected sendmail problem, the TAN issue supposedly sent
+    out last Friday was not actually delivered. In addition, the internet
+    connection to the TAN server has been unstable these days, if you did not
+    see the messages you forwarded to TAN, please send a notice to TAN admin.
+    Sorry for the inconvenience.  -- YJK ]
+
+==============================================================================
+
+> From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> To: riaa@asiaa.sinica.edu.twAdd contact, astro@asiaa.sinica.edu.tw
+> Subject: polarization workshop at ASIAA on 10/17
+> Date    2018-08-01 10:22
+
+Dear colleagues,
+
+Based on our Taiwan-Russia bilateral collaboration,
+we are organizing a one-day polarization workshop
+at ASIAA on 17 October. For more details, please
+have a look at
+
+https://events.asiaa.sinica.edu.tw/workshop/20181017/index.php
+
+Please feel free to attend it. We would like
+to know how many people will attend it in advance,
+so please register if you consider to come.
+Of course, everyone is welcome. Any ongoing/incomplete
+topic is welcome because this is a starting point of
+collaboration.
+
+Regards,
+Hiro
+
+==============================================================================
+
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Date: 2018-08-02 11:30
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Thavisha Dharmawardena (ASIAA/NCU)
+Topic:        Extended dust emission from nearby Asymptotic Giant Branch stars
+Time:        8/6 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+Asymptotic Giant Branch (AGB) stars in the Milky Way are often overlooked due to difficulties in obtaining distances. Understanding their dust emission properties and mass-loss histories leads to better comprehension of the ISM evolution in the Milky Way, in particular its dust reservoir. Most studies have determined the stellar dust mass using mid-IR emission, but a historic cold dust reservoir from a previous mass-loss phase may remain undetected in the mid-IR, requiring observations at longer wavelengths.
+
+We present results of a search for extended dust emission from a diverse sample of AGB stars within 1 kpc. This project is part of the Nearby Evolved Star Survey (NESS), which aims to determine gas and dust return from a volume limited sample of galactic evolved stars.
+
+Observations at 450?μm? and 850?μm? were carried out using the SCUBA-2 instrument on the JCMT and combined with Herschel PACS observations at 70?μm? and 160?μm from the MESS survey (Groenewegen et al., 2011; Cox et al., 2012). Using azimuthally-averaged surface brightness profiles we determined extension and percentage flux of the extended component for each source at the four wavelengths. We derived extensions at the 3σ levels greater than ~40'' for majority of the sources at SCUBA-2 850?μm?. The fraction of the flux emitted from the extended region is ~40% at 850?μm? and ~50% at PACS wavelengths.
+
+We report a clear detection of the detached shell of U Ant in both 450?μm? and 850?μm?. This is the first time this detached shell has been detected in the sub-mm continuum.
+
+By fitting a modified black body to four-point SEDs at each radial point we derive the dust temperature, spectral index of emissivity, and column density to probe dust mass-loss history and detect changes in physical properties of dust as a function radius (hence, time). The resulting dust-to-gas ratios are consistent with canonicalvalues. The surface density profiles suggest deviation from constant mass loss in a majority of the sources.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Hsien Shang (ASIAA)
+Topic: 
+Time:        8/8 (Wednesday) 14:20 - 15:20
+Place:          R1203
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2018B)
+------------------------------------------------------------------------------
+
+Dear Astrophysicists and Astronomers of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the ALMA Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona, and for the 10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for the period October 15, 2018 - February 15, 2019. Proposal candidates from members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should submit up to THREE pages of scientific and technical justification (including figures, tables, and references) in addition to their Proposal Summary Sheet (download form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the Proposal Summary Sheet their requested observing blocks (the exact LST ranges to be scheduled and number of times to be repeated), dates on which they are NOT available to observe, and dates in which sources in those observing blocks are within the Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+The 12m ALMA Prototype antenna currently supports an ALMA Band 3 (82.5-116 GHz) dual-polarization SBS (sideband-separating) receiver.  The 12m control system supports dual-polarization in the same sideband or single-polarization in each sideband ("2 IF mode"), position-switched, beam-switched, and OTF observations.  The new AROWS spectrometer is the recommended backend for 12m observations.  The MAC and Filterbanks are still available; however, the Filterbanks will be decommissioned at the end of the 2018B semester.
+
+The 10m SMT currently supports a dual-polarization ALMA Band 6 (211-280 GHz) receiver with SBS mixers.  Higher frequency receivers will not be available this semester.  The SMT control system supports both dual-polarization ("2 IF mode") and dual-polarization+dual-sideband observations ("4 IF mode") with tunable IF from 4.5-7.5 GHz, for position-switched, beam-switched, and OTF observations. 
+
+Proposal candidates should consult the ARO Equipment Summary and Status sheet at https://www.as.arizona.edu/arizona-radio-observatory for possible backend modes and additional technical specifications.  Remote observing is available. Observers who plan to observe remotely must supply fixed IP address(es) of the computer(s) that will be used during observing on their Proposal Summary Sheet. For further information about remote observing and other operational questions, please contact Tom Folkers, ARO Software Engineer:  tfolkers@email.arizona.edu .
+
+Scheduling of successful proposals will be done according to availability of the receivers requested.  Graduate student participation is especially encouraged. Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by midnight (23:59 CST) September 10, 2018 (Monday).
+
+==============================================================================
+
+> From:    Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>Add contact
+> To:    alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>Add contact
+> Subject: Fwd: Call for observing proposals for NRO45m
+> Cc:    Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>Add contact
+> Date:    2018-08-03 14:30
+
+FYI
+
+
+開始轉寄郵件：
+
+> 寄件人: "K. Tatematsu" <k.tatematsu@nao.ac.jp>
+> 標題: Call for observing proposals for NRO45m
+> 日期: 2018年8月3日 GMT+8 下午2:26:34
+> 收件人: "Lyo, A-Ran" <arl@kasi.re.kr>, Su Yu-Nung <ynsu@asiaa.sinica.edu.tw>
+> 副本: k.tatematsu@nao.ac.jp
+> 回覆給: k.tatematsu@nao.ac.jp
+
+Dear A-Ran and Yu-Nung,
+
+can you distribute CfP to your communities?
+thank you!
+
+Ken
+
+
+---
+Observing proposals for the 45-m telescope of Nobeyama Radio Observatory 
+(37 th observing period) are invited.
+
+Ken'ichi Tatematsu
+Director
+Nobeyama Radio Observatory, NAOJ
+-----------
+
+1. Open use Period
+-  December 15, 2018 to May 15, 2019
+It is subdivided into two semesters:
+- Semester 2018A: December 15, 2018 to March 15, 2019
+- Semester 2018B: March 16, 2019 to May 15, 2019
+
+2. Open use information:
+- Status report, application form, and other information are available
+in the following website.
+http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index.html
+
+Observation preparation and procedure with the 45-m telescope and data reduction etc. are also available
+in the following website.
+https://www.nro.nao.ac.jp/~nro45mrt/html/index-e.html
+
+- Large programs (> 200 hr) over up to 2 yrs will be offered.
+- Short programs (<20 hr) will be offered also in Semester 2018A and 2018B.
+- Observations in On-On mode can be performed with FOREST receiver.
+- OTF dump time is allowed to be not only 0.1 seconds but 0.04 seconds as well.
+- Japan domestic remote observation other than Mitaka may be possible as risk-shared.
+- Remote observation from ASIAA in Taiwan and KASI in Korea is available as risk-shared.
+
+3. Deadlines:
+Semester 2018A (Regular, Large, Short, GTO and Back-up Program* Proposals): 
+- September 1, 2018, 15:00 JST [06:00 UT]
+* Available for researchers affiliated with Japanese institutes
+Semester 2018B (Regular, Short, GTO and Joint Proposals with ASTE (if ASTE is open for the 2019 observing season)): 
+- December 1, 2018, 15:00 JST [06:00 UT]
+
+DDT proposals can be submitted anytime after the first deadline (September 1, 2018).
+
+4. Submission:
+We accept the proposal only via the web submission form. A LaTex
+template must be used to generate the PDF file that contains the
+Scientific and Technical Justifications.  The device setting table should be submitted in a Microsoft Excel spreadsheet 
+by using its template.  Please access the application
+form, fill the webform and upload the final PDF file and the Excel spreadsheet.
+
+- The scientific and technical justification, including figures,
+tables and references, must fit within 3 pages (4 pages for the Large and Joint
+Proposals). The maximum file size is 20 MB.
+- Please attach (cut&paste) the results of our time estimators to the the scientific and technical justification 
+(this part will not be counted for the page limit, but the overall data size should meet the size limit).
+http://www.nro.nao.ac.jp/~nro45mrt/html/prop/wsub-help.html
+- The device setting table as a Microsoft Excel spreadsheet.
+
+5. Evaluation:
+- Proposals in the category of Regular, Large, GTO and Joint proposals are
+evaluated by referees, and the acceptance is judged by the millimeter
+and submillimeter time allocation committee.
+- Proposals in the categories of Short and Back-up programs are
+evaluated and judged by the millimeter and submillimeter time
+allocation committee.
+
+6. Time allocation:
+45-m Observational time will be allocated by the
+Nobeyama Radio observatories for proposals accepted by the
+millimeter and submillimeter time allocation committee.
+
+7. There is a risk that this Call for Proposals can be the last call for the open use of the 45-m telescope of Nobeyama Radio Observatory, depending on the budgetary condition of the observatory.
+
+8. Questions?
+Any questions about observations and preparations of proposals should
+be submitted through the helpdesk:
+https://www.nro.nao.ac.jp/~nro45mrt/html/helpdesk/inquiry_form.html
+
+
+-- 
+You received this message because you are subscribed to the Google Groups "alma-taiwan" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to alma-taiwan+unsubscribe@asiaa.sinica.edu.tw.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

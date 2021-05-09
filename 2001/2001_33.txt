@@ -1,0 +1,235 @@
+From sophie@asiaa.sinica.edu.tw Mon Feb  5 17:02 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id RAA26634
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 5 Feb 2001 17:00:51 +0800 (CST)
+Received: from sophie ([140.109.176.52])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id RAA11490
+	for <astro@asiaa.sinica.edu.tw>; Mon, 5 Feb 2001 17:08:42 +0800
+Message-ID: <021a01c08f51$c88b4ff0$34b06d8c@asiaa.sinica.edu.tw>
+From: "Sophie, ASIAA" <sophie@asiaa.sinica.edu.tw>
+To: "TANet" <astro@asiaa.sinica.edu.tw>
+Subject: Fw: Additions to Confmenu
+Date: Mon, 5 Feb 2001 16:58:18 +0800
+MIME-Version: 1.0
+	charset="big5"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2314.1300
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2314.1300
+Content-Type: text/plain;
+	charset="big5"
+Content-Length: 9318
+Status: RO
+
+
+----- Original Message -----
+From: Y.S. Kim <ysnet@katherine.physics.umd.edu>
+To: <friends@katherine.physics.umd.edu>
+Sent: Monday, February 05, 2001 3:45 PM
+Subject: Additions to Confmenu
+
+
+>
+> For the latest edition of Confmenu or Jobmenu, please visit
+>
+>               http://www.physics.umd.edu/robot
+>
+> and choose CONFMENU or JOBMENU.
+>
+> If you do not know how to use WWW, e-mail <robot@physics.umd.edu> with
+> Confmenu or Jobmenu on your Subject line.
+>
+> For new and updated entries in the Confmenu, please type on your
+> SUBJECT line
+> --------------------------------------------------------------------------
+>
+> YAM.01        2.7-10      Young Astronomers' Meet 2001 (Pune, India)
+>                           http://www.iucaa.ernet.in/~yam/
+>
+> APCOMP.01     3.19-21     2001 Applied Computational Research Society
+Joint
+>                           Meeting (Hilton Head Island, SC, USA)
+>                           http://www.cr.org
+>
+> QCI.01        4.2-6       Workshop on Quantum Computation and Information
+>                           2001 (Singapore)
+> http://www.physics.nus.edu.sg/~phyohch/workshop/index.htm
+>
+> PASCOS.01     4.10-15     Eighth Int'l Symposium on Particles, Strings
+>                           and Cosmology (Chapel Hill, NC, USA)
+>                           http://www.physics.unc.edu/PASCOS2001
+>
+> MACDON.01     4.17-20     Euroconference at the Newton Institute:
+>                           Applications of the Macdonald Polynomials
+>                           (Cambridge, UK)
+>                      http://www.newton.cam.ac.uk/programs/SFM/sfmw02.html
+>
+> MRST.01       5.16-18     Regional Meeting in Theoretical Particle Physics
+>                           (London, Ontario, Canada)
+>                           http://www.apmaths.uwo.ca/conferences/
+>
+> BHOLES.01     5.19-23     Black Holes III: Theory and Mathematical Aspects
+>                           (Kananaskis, Alberta, Canada)
+>                      http://fermi.phys.ualberta.ca/~gravity/bh3conference/
+>
+> COSMION.01    5.21-30     5th Int'l Conference on Cosmoparticle Physics
+> (updated)                 dedicated to 80-th Anniversary of Andrei D.
+>                           Sakharov (Moscow - St.Petersburg, Russia)
+>                        http://xray.sai.msu.ru/~mystery/html/cosmion-2001/
+>
+> PHYSTEV.01    5.21-6.1    Physics at TeV Energies (Les Houches, France)
+>                 http://wwwlapp.in2p3.fr/conferences/LesHouches/Houches2001
+>
+> FSTLD.01      5.24-26     From the Smallest to the Largest Distances.
+>                           Tribute to J. Tran Thanh Van (Moscow, Russia)
+>                           http://wwwtheor.itep.ru/Tran/
+>
+> BRIJUNI.01    6.2-5       NATO Advanced Research Workshop on "The Nuclear
+>                           Many-Body Problem 2001" (Brijuni, Croatia)
+>                           http://www.phy.hr/nuclear2001
+>
+> NONLIN.01     6.2-6       Int'l Conference "Progress in Nonlinear Science"
+>                           dedicated to the 100-th anniversary of Alexander
+>                           A. Andronov (Nizhny Novgorod, Russia)
+>                           http://www.nonlinear.sci-nnov.ru
+>
+> ICSSUR.01     6.4-8       7th International Conference on Squeezed States
+> (updated)                 and Uncertainty Relations (Boston, MA, USA)
+>                           http://www.bu.edu/qil/icssur2001.html
+>
+> ICQI.01       6.10-13     Int'l Conference on Quantum Information
+> (updated)                 (Rochester, NY, USA)
+>                           http://www.osa.org/mtg_conf/2001/ICQI
+>
+> MEDEX.01      6.11-15     Workshop on Calculation of Double beta decay
+>                           Matrix Elements (Prague, Czech Republic)
+>
+> CQ08.01       6.13-16     8th Rochester Conference on Coherence and
+Quantum
+>                           Optics (Rochester, NY, USA)
+>                           http://www.osa.org/mtg_conf/2001/cqo8/
+>
+> CTEQ/IPPP.01  6.17-26     8th CTEQ Summer School on QCD Analysis and
+>                           Phenomenology (St. Andrews, Scotland, UK)
+>                           http://www.phys.psu.edu/~cteq/schools/summer01/
+>
+> QGRS.01       6.18-24     Int'l Workshop on Quantum Gravity and
+Superstrings
+>                           (Dubna, Russia)
+>                           http://thsun1.jinr.ru/~qgr/QGR-2001.html
+>
+> QIT.01        7.10-18     Quantum Information: Theory, Experiment and
+>                           Perspectives (Gdansk, Poland)
+>                           http://iftia6.univ.gda.pl/qit/
+>
+> SPIN.01       8.2-7       9th International Workshop on High Energy Spin
+>                           Physics (Dubna, Russia)
+>                           http://thsun1.jinr.ru/meetings/2001/spin01/
+>
+> SSI.01        8.13-24     29th SLAC Summer Institute on Exploring
+Electroweak
+>                           Symmetry Breaking (Stanford, CA, USA)
+>                           http://www-project.slac.stanford.edu/ssi/2001/
+>
+> MTCOSMO.01    8.21-25     M Theory Cosmology (Cambridge, UK)
+>                           http://www.damtp.cam.ac.uk/user/mt-cosmo/
+>
+> LOMCON.01     8.23-29     10th International Lomonosov Conference on
+>                           Elementary Particle (Moscow, Russia)
+>                           http://www.icas.ru
+>
+> WIGNER.01     8.24-29     7th International Wigner Symposium
+> (updated)                 (College Park, MD, USA)
+>                           http://www.physics.umd.edu/robot/wigner.html
+>
+> QGPLASMA.01   9.4-7       An Int'l Workshop on the Physics of the
+>                           Quark-gluon Plasma (Palaiseau, France)
+>                           http://polywww.in2p3.fr/CIPPQG
+>
+> NSSMIC.01     11.4-10     IEEE 2001 Nuclear Science Symposium and Medical
+>                           Imaging Conference (San Diego, California)
+>                           http://www.nss-mic.org
+>
+> IFAC.01       11.19-22    IFAC Conference on New Technologies for Computer
+>                           Control 2001 (Hong Kong, China)
+>                           http://starship.mech.hku.hk/ntcc2001/
+>
+> WIN.02        1.21-26     18th Int'l Workshop on Weak Interactions and
+>                           Neutrinos (Christchurch, New Zealand)
+>                           http://www.anta.canterbury.ac.nz/neutrino
+>
+> ISRD.02       8.18-23     11th Int'l Symposium on Reactor Dosimetry
+>                           (Brussels, Belgium)
+>                           http://www.sckcen.be/conf/isrd2002
+>
+> In addition, the robot system hosts the following programs.
+>
+>  ** Wigner Centennial Magazine and Wigner Symposium.
+>        http://www.physics.umd.edu/robot/wigner.html
+>
+>  ** Feynman tells someone to go to hell (linked to AIP's Feynman page).
+>        http://www.physics.umd.edu/robot/feynman.html
+>
+>  ** von Neumann pictures including those of the first computer he built at
+>     the Institute of Advanced Study (Princeton).
+>        http://www.physics.umd.edu/robot/neumann.html
+>
+> These pages are accessible from the main page:
+>
+>    http://www.physics.umd.edu/robot
+>
+> of our robot system.  If you wish to contribute your photographs to
+> these web pages, your photos with Feynman for instance, contact the
+> man behind the robot <yskim@physics.umd.edu>.
+>
+> BEHIND:  If you like know who is behind the robot, click BEHIND on
+>    the robot's main page.
+>
+> UNSUBSCRIBE: If you do not wish to receive mails from this program, please
+> return this mail to the sender or to <ysnet@katherine.physics.umd.edu>
+> telling us what addresses should be deleted from our database.  You will
+> receive courteous personal attention.
+>
+> --------------------------------------------------------------------------
+> Is there a life after the conference?  Most certainly YES: PROCEEDINGS!
+> If you used our ROBOT service for the conference you organized in the
+> past, please send the following information to <yskim@physics.umd.edu>.
+>
+> ** Title of the conference
+> ** Place and dates of the meeting
+> ** Title of the proceedings (if different from the conference title)
+> ** Editors
+> ** Name of the publishing company, date of publication, and serial
+>      number if applicable
+>
+> --------------------------------------------------------------------------
+--
+>
+> For files containing announcements for job openings, send an e-mail
+> to the robot with JOBMENU on your Subject line, or visit our Web page
+> <http://www.physics.umd.edu/robot>.
+>
+> The confmenu program consists of three components:
+>   (1) WWW URL <http://www.physics.umd.edu/robot>
+>   (2) an automated mail answering system from <robot@physics.umd.edu>
+>   (3) a "junk mailer" which sends your announcement to a large number of
+>       physicists throughout the world.  We maintain a large database.
+>
+> If you are interested in announcing your conference using this program,
+> send your announcement to <yskim@physics.umd.edu>.  Please include
+>
+>   (1) title abbreviation, such as CASTRO.00, PHENO.01, WIGCENT.02
+>   (2) dates of your Conference
+>   (3) title of the Conference
+>   (4) place (city, country)
+>   (5) WWW URL address
+>   (6) brief description of the Conference, including the scope and
+>          purpose, names of the principal organizers, and a list of
+>          speakers if available.
+>
+> We hope very much the number of conferences will remain smaller than the
+> number of preprints.
+>
+
+

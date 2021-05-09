@@ -1,0 +1,160 @@
+Subject: Fwd: Cosmology Meets Machine Learning @ NIPS meeting, December 16/17,
+Granada, Spain
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Hi Yi-Jehng
+
+A conference information potentially worth circulating...
+
+Wen Ping
+
+---------- Forwarded message ----------
+> From: Phil Marshall <dr.phil.marshall@gmail.com>
+> Date: 2011/10/24
+> Subject: Cosmology Meets Machine Learning @ NIPS meeting, December 16/17,
+> Granada, Spain
+> To: scientists@ps1sc.org
+> Cc: Michael Hirsch <michael.hirsch@ucl.ac.uk>, Sarah Bridle <
+> sarah@sarahbridle.net>, Mark Girolami <girolami@stats.ucl.ac.uk>, Stefan
+> Harmeling <stefan.harmeling@tuebingen.mpg.de>, Bernhard Sch=F6lkopf <
+> bs@tuebingen.mpg.de>
+
+Dear colleagues,
+
+A group of us here in Europe have been lucky enough to be given the
+opportunity to host a one-day workshop in December on "Cosmology
+Meets Machine Learning"  at the biggest computer science conference
+there is: NIPS.  Several well-known cosmologists will summarise some
+data science problems in cosmology, and we hope to attract quite a few
+statisticians and data scientists to join the discussion.
+
+This year the meeting is in Spain, in the mountains 1 hour drive from
+Granada, and the 1 day cosmology workshop will likely be on Friday Dec
+16th (although possibly it might instead be on Saturday Dec 17th,
+tbc).
+
+This workshop is a good opportunity to get new ideas on the day, and
+start collaborations, with the best computer scientists from around
+the world. From our experience at computer science meetings when
+advertising GREAT08, there are a surprising number of cosmology
+enthusiasts in their midst. They especially like self-contained
+problems involving large amounts of data - especially real data.
+
+If you are interested in submitting an abstract for a poster and
+associated spotlight (short) talk, please see the call below. The
+deadline is coming up fast... And of course, please do advertise this
+opportunity further if you like!
+
+All the best,
+
+Phil Marshall
+(on behalf of the Organising Committee)
+
+---
+
+Call for Contributions
+
+NIPS 2011 Workshop on
+"Cosmology Meets Machine Learning"
+Sierra Nevada, Spain, December 16 or 17, 2011.
+
+URL: http://webdav.is.mpg.de/pixel/cmml-nips2011.html
+
+Submission for contributions is now open!
+
+Join us for an exciting program including invited talks by:
+
+* Prof. Dr. Anthony Tyson, UC Davis
+* Prof. Dr. Alexandre Refregier, ETH Zurich
+* Prof. Dr. Jean-Luc Starck, CEA Saclay Paris
+* Prof. Dr. David Hogg, New York University
+
+
+Important Dates
+---------------
+
+* November 2, 2011  Abstract submission deadline
+* November 12, 2011  Notification of acceptance
+* December 16 or 17, 2011 Workshop
+
+
+About the Conference
+--------------------
+
+NIPS is one of the leading and most important international
+conferences in the field of Machine Learning, Computational Statistics
+and Artificial Intelligence and enjoys a long tradition and strong
+reputation. For more information please visit the meeting webpage.
+
+
+Description
+-----------
+
+Cosmology aims at the understanding of the universe and its evolution
+through scientific observation and experiment and hence addresses one
+of the most profound questions of human mankind. With the
+establishment of robotic telescopes and wide sky surveys cosmology
+already now faces the challenge of evaluating vast amount of data.
+
+Multiple projects will image large fractions of the sky in the next
+decade, for example the Dark Energy Survey will culminate in a
+catalogue of 300 million objects extracted from peta-bytes of
+observational data. The importance of automatic data evaluation and
+analysis tools for the success of these surveys is undisputed.
+
+Many problems in modern cosmological data analysis are tightly related
+to fundamental problems in machine learning, such as classifying stars
+and galaxies and cluster finding of dense galaxy populations.  Other
+typical problems include data reduction, probability density
+estimation, how to deal with missing data and how to combine data from
+different surveys.
+
+An increasing part of modern cosmology aims at the development of new
+statistical data analysis tools and the study of their behaviour and
+systematics often not aware of recent developments in machine learning
+and computational statistics.
+
+Therefore, the objectives of this workshop are two-fold:
+
+(i) The workshop aims to bring together experts from the Machine
+Learning and Computational Statistics community with experts in the
+field of cosmology to promote, discuss and explore the use of machine
+learning techniques in data analysis problems in cosmology and to
+advance the state of the art.
+
+(ii) By presenting current approaches, their possible limitations, and
+open data analysis problems in cosmology, this workshop aims to
+encourage scientific exchange and to foster collaborations among the
+workshop participants.
+
+
+Submission Instructions
+-----------------------
+
+We invite submission of abstracts on topics in the following areas:
+
+* challenging problems in cosmology data analysis
+* applications of machine learning methods in cosmological data
+analysis problems
+
+Submissions should not exceed 200 words and will be judged on
+technical merit, the potential to generate discussion, and their
+ability to foster collaboration within the workshop participants.
+Accepted papers will be presented at the poster session with an
+additional poster spotlight presentation. One author of every accepted
+paper has to attend the workshop to present poster and spotlight talk.
+
+Submissions should be sent to cmml.nips2011@gmail.com
+
+
+Organising Committee
+--------------------
+
+Michael Hirsch, Universtiy College London
+Sarah Bridle, University College London
+Stefan Harmeling, Max Planck Institute for Intelligent Systems
+Phil Marshall, Oxford University
+Mark Girolami, University College London
+Bernhard Schoelkopf, Max Planck Institute for Intelligent Systems
+

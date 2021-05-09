@@ -1,0 +1,69 @@
+From kyl@asiaa.sinica.edu.tw Mon Dec 28 13:03:12 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA00684; Mon, 28 Dec 1998 12:59:23 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id MAA12198; Mon, 28 Dec 1998 12:56:50 +0800
+Date: Mon, 28 Dec 1998 12:56:50 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: 2mass Sampler  (fwd)
+Message-Id: <Pine.GSO.3.96.981228125647.11263E-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1758
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Wed, 23 Dec 1998 13:19:15 -0800 (PST)
+From: 2mass@ipac.caltech.edu
+To: kyl@astro.uiuc.edu
+Subject: 2mass Sampler 
+
+Dear Colleague:
+
+We would like to announce that the 2MASS Sampler Data Release 
+is now open for public access.  You can access the Sampler from 
+the IPAC/2MASS Web site at http://www.ipac.caltech.edu/2mass/ or 
+directly from the NASA/Infrared Science Archive site at 
+http://irsa.ipac.caltech.edu/.
+
+The Sampler release consists of a Point Source Catalog, an
+Extended Source Catalog, and compressed Atlas Images for one
+night of data obtained at our northern facility.
+  
+The 2MASS Sampler webpage contains general information about
+this data release, including sky coverage, images of interesting
+objects in the Sampler, catalog characteristics, etc.  Also available 
+on the 2MASS site is documentation for the Sampler release (A 
+"Micro" Explanatory Supplement).  Assistance with the Sampler is 
+available via the 2MASS Help Desk at 2mass@ipac.caltech.edu.
+	 
+A CD-ROM containing the Sampler data will also be distributed 
+at the Austin AAS meeting in January.
+
+The 2MASS Project
+
+(The Two Micron All Sky Survey is a collaboration between The University 
+of Massachusetts [Dr. Michael F. Skrutskie, Principal Investigator] 
+and the Infrared Processing and Analysis Center [JPL/ Caltech]. 
+Funding is provided primarily by NASA and the NSF.)
+
+

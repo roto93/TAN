@@ -1,0 +1,119 @@
+From kyl@asiaa.sinica.edu.tw Wed Sep 15 08:44 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA08497
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 15 Sep 1999 08:43:42 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA12983
+	for <astro@asiaa.sinica.edu.tw>; Wed, 15 Sep 1999 08:36:07 +0800
+Date: Wed, 15 Sep 1999 08:39:55 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Want To Be On High-Speed Networks?  Good News from TANet/I2  and
+ NCHC (fwd)
+Message-ID: <Pine.SOL.4.10.9909150839520.12106-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3493
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 14 Sep 1999 22:12:10 +0800
+From: Fay Sheu <c00yzs00@nchc.gov.tw>
+To: news@tanet2.net.tw
+Subject: Want To Be On High-Speed Networks?  Good News from TANet/I2  and NCHC
+
+Dear Colleagues:                             September 14, 1999
+
+As an investigator receiving grants from the National  
+Science Council, you are probably aware that the NSC funds  
+a high-speed network called TANet/I2.  This new network, 
+implemented by the National Center for High-performance
+Computing at Hsinchu, is now connected to (or peered with) 
+the following advanced research networks:
+
+  vBNS of the US MCI-WorldCom (http://www.vbns.net)
+  SingAREN of Singapore (http://www.singaren.net.sg)	
+  CAnet3 of Canada (http://www.canet3.net)	  
+  ESnet of the US Department of Energy (http://www.es.net)
+  Internet2 of Israel (http://www.internet-2.org.il)
+			
+TANet/I2 is built for you.  Please get on the new high-speed 
+network and explore the vast cyberspace--to learn, to get 
+information and to transfer data.  
+
+International Collaborative Research
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If you had wanted to use the Internet as a vehicle to 
+engage in international collaborative research, you 
+can do it now.  We have the guidelines for you to 
+collaborate with investigators in the US, please 
+contact us promptly.  Or visit:
+
+http://www.tanet2.net.tw/chinese/applications
+
+
+Grant Opportunity
+^^^^^^^^^^^^^^^^^
+If your institution is not yet connected to TANet/I2, please
+get in touch with your Computer Center.  We are accepting
+another round of application to connect.  This will take
+the collaborative effort of you, the researcher, and the 
+technical experts at CC to come up with a proposal to link
+up.  Act quickly.  The deadline is October 31, 1999.
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Please visit the TANet2 website for details.
+
+   http://www.tanet2.net.tw
+
+We are working very hard at linking up with other advanced 
+research networks.  Our ongoing effort to peer includes:
+
+ NIHnet of the US National Institutes of Health
+ APAN (Asia-Pacific Advanced Netowrk) -- with Japan, Korea,
+    Singapore and Australia now linked.  Other economies 
+    will soon follow.
+ Mirnet (of Russia)
+
+Please share this information with your colleagues, who 
+may not read emails regularly.  Thank you,  
+
+  Fay Sheu
+  TANet/I2 Work Group 
+  National Center for High-performance Computing
+______________________________________________________________
+If you wish to continue to be notified of announcements, news 
+and events about TANet/I2, you don't need to do anything.  
+If you wish to be removed from the mailing list, however,  
+please UNSUBSCRIBE as follows:
+
+   Send email to majordomo@tanet2.net.tw, leave the subject 
+   line blank, type UNSUBSCRIBE news in the body.
+
+If you fail to unsubscribe, you most likely are using an email
+address that is different from the one we have.  Please write
+or call us.
+   email to c00yzs00@nchc.gov.tw, or
+   call 03-577-6085 ext. 345.
+
+We apologize for the inconvenience this might have caused you. 
+
+To subscribe, 
+   Send email to majordomo@tanet2.net.tw, leave the subject 
+   line blank, type SUBSCRIBE news in the body.
+
+

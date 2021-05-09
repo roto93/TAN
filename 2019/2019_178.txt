@@ -1,0 +1,68 @@
+==============================================================================
+
+From: Min-Kai Lin <mklin@asiaa.sinica.edu.tw>
+Subject: EANAM 9
+Date: Mon, 4 Nov 2019 13:11:51 +0800
+To: astro@asiaa.sinica.edu.tw
+
+------------------------------------------------------------------------
+The 9th East Asian Numerical Astrophysics Meeting (EANAM 2020)
+September 14-18, 2020 at Tenbusu Naha, Okinawa, Japan
+http://hpc.imit.chiba-u.jp/eanam9/index.html =
+<http://hpc.imit.chiba-u.jp/eanam9/index.html>
+
+Aims and Scope:
+Numerical simulations have become even more important as detailed =
+comparisons between theories and observations are now possible at a =
+deeper level in most fields of astrophysics. The aim of this series of =
+meetings is to bring (but not limited to) East-Asian numerical =
+astrophysicists together and provide chances to learn each other's work =
+and explore possible collaborations among them. The scope of the meeting =
+will encompass all major astronomical research fields that involve =
+numerical simulations, including (but not limited to) cosmology, =
+astronomical hydrodynamics, magnetohydrodynamics, radiative transfer, =
+particle acceleration, and planetary/stellar/galactic dynamics. In =
+addition, there will also be a focus on computer science applications =
+directed toward astrophysics including numerical methods, simulation =
+data analysis, high performance computing, and optimization for use on =
+large scale computer clusters. Participants from outside of the East =
+Asia are warmly welcomed as w
+ell.
+
+Invited Speakers:
+Jaehan Bae (Carnegie Institution of Washington)
+Michiko Fujii (Tokyo University)
+Yang Guo (Nanjing University)
+Myoungwon Jeon (Kyung Hee University)
+Yanfei Jiang (University of California)
+Ji-hoon Kim (Seoul National University)
+Yueh-Ning Lee (National Taiwan Normal University)
+Makiko Nagasawa (Kurume University)
+Mariko Nomura (Kure College)
+Kuo-Chuan Pan (National Tsing Hua University)
+Hsi-Yu Schive (National Taiwan University)
+Masaru Shibata (Max Planck Institute)
+Huiyuan Wang (University of Science and Technology of China)
+
+Scientific Organizing Committee:
+Peng-Fei Chen (Nanjing University)
+Jungyeon Cho (Chungnam National University)
+Liang Gao (National Astronomical Observatories, Beijing)
+Shu-ichiro Inutsuka (Nagoya University)
+Tomoaki Ishiyama (Chiba University)
+Ing-Guey Jiang (National Tsing Hua University)
+Jinho Kim (Korea Astronomy and Space Science Institute)
+Min-Kai Lin (Academia Sinica)
+Dongsu Ryu (UNIST)
+Yuichiro Sekiguchi (Toho University)
+Hwei-Jang Yo (National Cheng Kung University)
+Feng Yuan (Shanghai Astronomical Observatory)
+
+Local Organizing Committee:
+Koji Uryu (Ryukyu University)
+Keisuke Taniguchi (Ryukyu University)
+Eiichiro Kokubo (NAOJ)
+
+Contact: eanam9@ml.chiba-u.jp <mailto:eanam9@ml.chiba-u.jp>=
+
+==============================================================================

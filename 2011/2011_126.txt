@@ -1,0 +1,115 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Aug 26 00:58:18 2011
+Date: Fri, 26 Aug 2011 00:54:26 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Aug 18 - 25, 2011)
+
+============================================================================== 
+
+In this issue (Aug 18 - 25, 2011)
+
+1. IAU Individual Membership application (September 30, 2011)
+2. ASIAA Colloquium (Aug 26): Shinji Koide (Kumamoto Univ)
+3. Telescope and Instrument Conference (Nov 24-29)
+
+==============================================================================
+
+Dear Colleagues,
+
+The XXVIII General Assembly of IAU will be held on August 20-31, 2012
+in Beijing, China. As usual, it is time for professional astronomers
+and astrophysicists, if you are not already an IAU Individual Member,
+to file your IAU Individual Membership applications. An Individual
+Member can be admitted to the IAU by the Executive Committee at the
+General Assembly on the basis of a proposal for nomination from the
+National Committee for Astronomy (NCA) in their home country or in their
+long-term residence country. In Taiwan, the NCA is the Astronomical
+Society of the Republic of China (ASROC).
+
+Basically, the individual membership in the IAU is open to astronomers and
+astrophysicists with a PhD or equivalent. Individuals applying for
+nomination for IAU Individual Membership should contact ASROC before
+September 30, 2011. An application for nomination of Individual Membership
+should include the full name (in both Chinese and English if applicable),
+date and place of birth, and nationality of the candidate; postal and email
+addresses; the University, year, and subject of the M.Sc./Ph.D. or
+equivalent degree; the current affiliation and occupation, the position
+title, and the IAU Division(s) and/or IAU Commission(s) (please see
+http://www.iau.org/science/scientific_bodies/ ) which the candidate wishes
+to join. More details on the qualification for membership and application
+procedure can be found at:
+http://www.iau.org/administration/membership/individual/qualification/
+
+If interested, please send your application to Ms. Emily Wei at
+<emilywei@asiaa.sinica.edu.tw> and cc it to Ms. P-J Liu at
+<peijuliu@ntnu.edu.tw> by September 30, 2011.
+
+
+Regards,
+Yi-Jehng Kuan
+on behalf of the ASROC
+
+==============================================================================
+
+> Date: Sun, 21 Aug 2011 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>         web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Prof. Shinji Koide (Kumamoto University)
+Topic:		A basis of resistive GRMHD simulation
+Time:		8/26 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+Ideal general relativistic MHD (GRMHD) simulations had revealed that
+magnetic reconnection is caused around rapidly rotating black hole
+spontaneously. To perform numerical simulations of such magnetic
+reconnection self-consistently, we use resistive GRMHD equations
+as the simplest approximation. I will talk about the basis for
+the simulation and some examples.
+
+==============================================================================
+
+> Sender: wenpchen@gmail.com
+> Date: Mon, 22 Aug 2011 23:07:48 +0800
+> Subject: Telescope and Instrument Conference
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Yi-Jehng
+
+Please circulate this.  Thanks.
+
+The 2011 Advanced Telescope and Instrument Conference, the 4th of its series
+between Taiwanese and Chinese astronomers and engineers, will be held this
+year from November 24 to 29 in Nantou.  It will be conducted in Mandarin
+Chinese.
+Those who are interested, please check the website,
+
+  http://lidodo.astro.ncu.edu.tw/2011ATITC/index.php
+
+
+Wen Ping
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

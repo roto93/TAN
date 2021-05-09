@@ -1,0 +1,63 @@
+==============================================================================
+
+> Date: Thu, 25 Jul 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Jiaqing Bi (ASIAA/UVic)
+Topic:          GW Ori: Interactions Between a Triple-star System and its Circumtriple Disk in Action
+Time:           7/29 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+The dynamical interactions between a multiple system of protostars and the protoplanetary disk around them can trigger eccentricity growth and warping of the disk. GW Ori is a hierarchical triple system at a distance of 400 parsec. Two of the stars compose a spectroscopic binary with a separation of ~1 AU, and a tertiary component  was detected by near-infrared interferometry at a projected distance of ~8 AU. The system harbours a circumtriple protoplanetary disk, one of the only few of its kind, with dust extending to ~400 AU, and gas extending to ~1300 AU. Here we present ALMA observations of the dust continuum and molecular gas emission of the circumtriple disk. We discover three dust rings in the disk, which have different inclinations and centroids. We also find a twist in the CO first moment map. These observations strongly indicate that the GW Ori circumtriple disk has misaligned and eccentric rings, and we interpret them as evidence of ongoing dynamical interactions !
+ between the triple stars and the circumtriple disk. In addition, the observations hint at the presence of a companion at ~120 AU, which opens a deep gap and effectively breaks the gas disk at that radius.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Richard Nelson (QMUL)
+Topic:          Planet migration in inviscid and laminar protoplanetary discs
+Time:           7/31 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The discovery of more than 4000 confirmed exoplanets over the last 25 years has raised important questions about how planetary systems form and evolve. Planetary formation theories must take into account how the gravitational interaction between growing planets and the surrounding protoplanetary disk influences the orbital evolution of the planets. In recent years, there has been a significant change in our understanding of how protoplanetary disks evolve, and the traditional view of angular momentum transport occurring in disks because of turbulent viscosity has been replaced by one involving layered accretion due to magnetised winds. In this talk, I will discuss our current knowledge of exoplanet systems and how it motivates planet formation theories, and I will present recent work that explores how planetary migration changes when moving from traditional viscous/turbulent models to more modern laminar disc models.
+
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:        Janet Ting-Wan Chen (MPE)
+Topic:          ePESSTO+ (the advanced Public ESO Spectroscopic Survey of Transient Objects): survey and scientific output
+Time:           8/1 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Gathering the ESO community working on supernovae and unusual transients into one coherent team, the Public ESO Spectroscopic Survey of Transient Objects (PESSTO) has revolutionised the exploitation of wide-field surveys, developing efficient synergies with multi-messenger experiments and making the NTT a crucial global facility. In this talk, I will present the advanced ePESSTO+ programme, building on the success of our PESSTO consortium and bridging the gap to the SOXS instrument. Some of our scientific goals include gravitational wave sources, transients that evolve on the timescale of a few days, and those with extreme energetics. I will also present the transients followed-up by the ePESSTO and GROND collaboration, which represent the extreme (e.g. the brightest or the fastest) of the luminosity-space of cosmic transients, providing a new dataset to understand their nature. Finally, I will share my experience on applying for Alexander von Humboldt and Marie SkÅ‚odowska-!
+ Curie Fellowships which might be especially helpful for junior researchers.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

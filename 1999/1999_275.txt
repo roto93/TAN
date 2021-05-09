@@ -1,0 +1,121 @@
+From kyl@asiaa.sinica.edu.tw Fri Dec 31 09:01 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA09295
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 31 Dec 1999 08:59:15 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA15210
+	for <astro@asiaa.sinica.edu.tw>; Fri, 31 Dec 1999 08:52:35 +0800
+Date: Fri, 31 Dec 1999 08:54:55 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Job opportunities with AIPS++ at NRAO (fwd)
+Message-ID: <Pine.SOL.4.10.9912310854530.25775-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4266
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 30 Dec 1999 18:07:49 -0600 (CST)
+From: Doug Roberts <droberts@sirius.astro.uiuc.edu>
+To: everyone@sirius.astro.uiuc.edu
+Subject: Job opportunities with AIPS++ at NRAO
+Resent-Date: Thu, 30 Dec 1999 18:07:55 -0600 (CST)
+Resent-From: everyone@sirius.astro.uiuc.edu
+
+SCIENTIST - AIPS++ PROJECT
+
+The AIPS++ Project is an international collaboration by a consortium
+of radio observatories with the purpose of developing a software
+package for the processing of radio astronomical data. The first
+public release of AIPS++ was recently made. More information on AIPS++
+is available from the AIPS++ home page at http://aips2.nrao.edu
+
+The AIPS++ Project has a job vacancy at the National Radio Astronomy
+Observatory headquarters in Socorro, New Mexico. The duties will be to
+participate in the development of advanced visualization capabilities
+in AIPS++ building on top of the existing Display Library and other
+AIPS++ infrastructure. Development will focus on the display of
+information in two complementary domains, connected by a transform
+(such as Fourier transform or self-calibration) that is itself
+implemented in the AIPS++ Library. The position is funded by a grant
+from the NSF and is funded for three years.
+
+Substantial experience in astronomical data reduction is required.
+Experience with radio-interferometry, and visualization is
+desirable. Knowledge of C++, Unix and experience of working in a large
+distributed software project would both be advantageous. Pursuit of
+research in either astronomy or astronomical techniques is expected
+(25% time).
+
+Socorro is a small historic town (pop. 9000) in the mid Rio Grande
+valley of New Mexico. More information can be obtained from the
+Socorro Home Page at http://www.socorro.com
+
+Application deadline is February 1, 2000.
+
+Further information is available for NRAO from the NRAO Home Page
+http://www.nrao.edu 
+
+Applications should be addressed to A. Lewis, Personnel Office,
+NRAO, P.O. Box 0, Socorro, NM or alewis@nrao.edu .
+
+SCIENTIFIC PROGRAMMING ANALYST - AIPS++ PROJECT
+
+The AIPS++ Project is an international collaboration by a consortium
+of radio observatories with the purpose of developing a software
+package for the processing of radio astronomical data. The first
+public release of AIPS++ was recently made. More information on AIPS++
+is available from the AIPS++ home page at http://aips2.nrao.edu
+
+The AIPS++ Project has a job vacancy at the National Radio Astronomy
+Observatory headquarters in Socorro, New Mexico. The duties will be to
+participate in the development of advanced visualization capabilities
+in AIPS++ building on top of the existing Display Library and other
+AIPS++ infrastructure. Development will focus on the display of
+information in two complementary domains, connected by a transform
+(such as Fourier transform or self-calibration) that is itself
+implemented in the AIPS++ Library. The position is funded by a grant
+from the NSF and is funded for three years.
+
+Substantial experience in C++ and visualization is required.
+Experience with Unix and working in a large distributed software
+project is desirable. A background in astronomy would be advantageous.
+
+Socorro is a small historic town (pop. 9000) in the mid Rio Grande
+valley of New Mexico. More information can be obtained from the
+Socorro Home Page at http://www.socorro.com
+
+Application deadline is February 1, 2000.
+
+Further information is available for NRAO from the NRAO Home Page
+http://www.nrao.edu 
+
+Applications should be addressed to A. Lewis, Personnel Office,
+NRAO, P.O. Box 0, Socorro, NM or alewis@nrao.edu .io Grande
+valley of New Mexico. More information can be obtained from the
+Socorro Home Page at http://www.socorro.com
+
+Application deadline is February 1, 2000.
+
+Further information is available for NRAO from the NRAO Home Page
+http://www.nrao.edu 
+
+Applications should be addressed to A. Lewis, Personnel Office,
+NRAO, P.O. Box 0, Socorro, NM or alewis@nrao.edu.
+
+

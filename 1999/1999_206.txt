@@ -1,0 +1,154 @@
+From kyl@asiaa.sinica.edu.tw Tue Oct 19 09:00 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA08616
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 19 Oct 1999 09:00:18 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA21013
+	for <astro@asiaa.sinica.edu.tw>; Tue, 19 Oct 1999 08:57:35 +0800
+Date: Tue, 19 Oct 1999 08:56:20 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Schedule for November global session (fwd)
+Message-ID: <Pine.SOL.4.10.9910190856170.5080-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6333
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 18 Oct 1999 12:27:20 -0600 (MDT)
+From: Barry Clark <bclark@aoc.nrao.edu>
+To: vlbi@cv3.cv.nrao.edu
+Subject: Schedule for November global session
+
+Page No.     1
+10/14/99
+                                    US VLBI Network Schedule
+                                         November 1999
+                                           Original
+
+Proj                                       Stations       Fmt   Corr Tapes    Contact
+Numb
+
+
+**  18cm
+ER008 A  EU Nov 11 at 19.0 hrs for 14.0 hrs EbJbMcNtTrWbOn A     Bonn 2T       Roy           
+                                            Ca            
+
+EM035 A  EU Nov 12 at 15.0 hrs for 16.0 hrs EbJbMcNtTrWbOn 256-8 Soc  2t       Garrett       
+                                            Ca            
+
+ES027    EU Nov 13 at  7.5 hrs for  8.0 hrs EbJbMcNtTrWbOn M3B   Bonn 1T       Stanghellini
+					    Ca
+
+EM035 B  EU Nov 13 at 16.0 hrs for 16.0 hrs EbJbMcNtTrWbOn 256-8 Soc  2t       Garrett       
+                                            Ca            
+
+ES028    EU Nov 14 at  8.5 hrs for  8.0 hrs EbJbMcNtTrOnWb Mk4   JIVE 1t       Sjouwerman    
+                                            Ca+Ro         
+
+GD013    EU Nov 14 at 19.0 hrs for 12.0 hrs EbJbWb         16-2  Soc  1t       Diamond       
+GD013    US Nov 14 at 19.0 hrs for 12.0 hrs VLBA           16-2  Soc  1t       Diamond       
+                                                          
+EG021    EU Nov 15 at  7.5 hrs for 11.0 hrs EbJbMcNtTrWbOn 128-4 Soc  2t       Gizani        
+                                            Ca            
+
+EY004 D  EU Nov 15 at 19.0 hrs for 24.0 hrs EbMcNtJbOnTrWb 16-4  Soc  1t       Yates         
+                                                          
+GR019 A  EU Nov 16 at 23.0 hrs for  6.0 hrs EbMcWb         M3B   Bonn 2T       Rioja         
+GR019 A  US Nov 16 at 23.0 hrs for  6.0 hrs HnNlPt-Y4      M3B   Bonn 1t       Rioja         
+                                                          
+GP024    EU Nov 17 at  6.5 hrs for 12.0 hrs EbWbOn         128-8 Soc  2t       Pihlstrom     
+GP024    US Nov 17 at 10.5 hrs for 12.0 hrs VLBA+Y27       128-8 Soc           Pihlstrom     
+                                                          
+GR019 B  EU Nov 17 at 23.0 hrs for  6.0 hrs Wb             M3B   Bonn 2T       Rioja         
+GR019 B  US Nov 17 at 23.0 hrs for  6.0 hrs Y4             M3B   Bonn 1t       Rioja         
+                                                          
+GP022    EU Nov 18 at  6.5 hrs for 12.0 hrs EbWbOnNtMcTr   128-2 Soc  2t       Peck          
+GP022    US Nov 18 at 10.5 hrs for 11.0 hrs VLBA+Y27       128-2 Soc  1t       Peck          
+                                                          
+EP032    EU Nov 18 at 22.0 hrs for 12.0 hrs EbJbMcNtTr     128-8 Soc  2t       Polatidis     
+                                                          
+CHANG    EU Nov 19 at 10.0 hrs for 18.0 hrs                                                  
+                                                          
+**  6cm
+
+BK071    EU Nov 20 at  4.0 hrs for 12.0 hrs Eb             128-8 Soc  2t       Krichbaum
+BK071    US Nov 20 at  4.0 hrs for 12.0 hrs VLBA+Y1        128-8 Soc  2t       Krichbaum     
+                                                          
+W050  A  EU Nov 20 at 18.0 hrs for 14.0 hrs EbJbMcNtTrWbOn VSOP  Soc  2t       Porcas        
+                                            Sh            
+
+W035  P  EU Nov 21 at 19.0 hrs for  9.0 hrs EbJbMcNtTrWbOn VSOP  Soc  1t       Gurvits       
+                                            Sh            
+
+EJ002    EU Nov 22 at  4.5 hrs for 16.0 hrs EbJbMcNtTrWbOn M3B   Bonn 2T       Jiang         
+                                            ShSmUr        
+
+W052  B  EU Nov 22 at 21.0 hrs for 10.0 hrs EbJbMcNtTrWbOn VSOP  Soc  1t       Rioja         
+                                            Sh            
+
+
+Page No.     2
+10/14/99
+                                    US VLBI Network Schedule
+                                         November 1999
+                                           Original
+
+Proj                                       Stations       Fmt   Corr Tapes    Contact
+Numb
+
+
+GB035 B  EU Nov 23 at  7.5 hrs for 12.0 hrs EbJbMcNtTrWbOn 256-4 Soc  2t       Bartel        
+                                            Sh            
+GB035 B  US Nov 23 at  7.5 hrs for 12.0 hrs VLBA+Y27       256-4 Soc  2t       Bartel        
+                                                          
+W019  A  EU Nov 24 at  0.0 hrs for 10.0 hrs EbJbMcNtTrWbOn VSOP  Soc  1t       Hough         
+                                            Sh            
+
+V050  K  EU Nov 24 at 19.0 hrs for  9.0 hrs EbJbMcNtTrWbOn VSOP  Soc  1t       Kollgaard     
+                                            Sh            
+
+W050  B  EU Nov 25 at 18.0 hrs for 16.0 hrs EbJbMcNtTrWbOn VSOP  Soc  2t       Porcas        
+                                            Sh            
+
+ES034 B  EU Nov 26 at 10.5 hrs for 21.5 hrs EbJbMcNtTrWbOn Mk4   JIVE 6T       Snellen       
+                                            Sh            
+
+**  5cm
+
+EM033 A  EU Nov 29 at 16.0 hrs for 17.5 hrs EbJbMcOnTr     32-4  Soc  1t       Minier        
+                                                          
+EP028    EU Nov 30 at 10.0 hrs for 10.0 hrs EbJbMcOnTr     16-2  Soc  1t       Phillips      
+                                                          
+EM033 B  EU Nov 30 at 20.5 hrs for 27.0 hrs EbJbMcOnTr     32-4  Soc  1t       Minier        
+
+END      EU Dec  1 at 23.5 hrs 
+                                                          
+                                                          
+Notes:
+
+Observe files are due in both Bologna and Socorro by October 28.
+
+Numbers of tapes are given as thick (T) or thin (t).
+
+Formats for VLBA/Mk4 modes correlated in Socorro indicate total bitrate and number of basebands.
+VSOP mode is 128-4-2.  Formats for observations sent to JIVE are listed as Mk4 mode.
+
+For ES 28, DSS 63 will record 0830-1610 UT.
+
+

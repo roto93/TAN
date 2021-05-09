@@ -1,0 +1,160 @@
+> Date: Wed, 09 May 2012 12:59:48 +0800
+> From: Pin-Gao Gu <gu@asiaa.sinica.edu.tw>
+> To: <iaa@asiaa.sinica.edu.tw>, <astro@asiaa.sinica.edu.tw>,
+>         <assistant@phys.cts.nthu.edu.tw>
+> Subject: 1st circular of East Asia Numerical Astrophysical Meeting
+
+Dear colleagues,
+
+Below please find the information about the 5th East Asia Numerical 
+Astrophysics Meeting (EANAM). Please circulate it among your colleagues 
+who might be interested.
+
+Thanks for your attention,
+Pin-Gao Gu
+Institute of Astronomy & Astrophysics, Academia Sinica
+
+-----------------------------------------------------------
+
+First Circular EANAM 2012
+
+The 5th East Asia Numerical Astrophysics Meeting
+Oct. 29 -- Nov. 2, 2012, Yukawa Institute, Kyoto, Japan
+http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html [2]
+
+-----------------------------------------------------------
+
+EANAM 2012 is the 5th meeting in the series of East Asia
+Numerical Astrophysics (EANAM). EANAM has been held
+bi-annually to stimulate numerical astrophysics in the
+east Asia. Its scope encompasses research fields involving
+numerical simulations of stars and planets on the small scale
+to cosmological structures on the large scale. Topics will
+include (but not limited to) the numerical astrophysics of
+hydrodynamics, magnetohydrodynamics, radiative transfer,
+particle acceleration, and numerical relativity. In addition,
+there will also be a focus on computer science applications
+directed toward astrophysics including numerical methods,
+simulation data analysis, and high performance computing.
+The program consists of tutorial lectures, invited talks,
+contributed talks, and poster papers with brief oral
+presentations. We welcome active postdocs and graduate students.
+
+We call for contributed talks and posters. We encourage you to
+register yourself at earliest convenience
+through the conference web site,
+
+  http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html [3]
+
+We strongly recommend participants from outside Japan to
+reserve a hotel room at earliest convenience. We have made
+block reservation in several nearby hotels. However the
+number of available rooms are limited. We will serve them
+by the first come first served policy. Note that most
+nearby hotels will be occupied by the end of summer since
+the conference venue is close to many charming sight seeing
+spots.
+
+Financial Support:
+
+A limited amount of financial support is available for those
+who present either oral or poster papers. We give priority to
+graduate students and young postdocs who do not have their
+financial resources, according to the traditional policy in this
+series of meetings. The financial support covers living expense
+during the meeting not travel expense.
+
+Accommodation:
+
+Kyoto city has many hotels but most of them are fully occupied
+during the meeting. We strongly recommend you to reserve your
+rooms much in advance. Our web site gives you our recommendation
+to you coming from abroad.
+
+Important Dates:
+
+Apr. 30 Opening of the registration
+Aug. 31 Deadline for registration and visa application
+Aug. 31 Deadline for abstract submission for contributed
+  talks and poster papers
+Sep. 30 Deadline for abstract submission for invited talks
+Oct. 1 second circular (with science program)
+Oct. 29 EANAM 2012
+
+Registration Fee:
+The registration fee is 10,000 JPN but 5,000 JPN for students.
+This covers welcome reception (Oct. 29), conference dinner (Nov. 1),
+and daily tea and coffee at breaks. We collect the registration
+fee at the on site registration desk.
+
+EANAM 2012 is sponsored by
+Yukawa Institute for Theoretical Physics, Kyoto University
+National Astronomical Observatory of Japan
+HPCI Strategic Program Field 5
+
+Further details are given at the conference web site.
+
+We are looking forward to seeing you at Kyoto.
+
+Contact address
+  Conference Secretariat: eanam5@yukawa.kyoto-u.ac.jp [4]
+
+Invited Lecturers include
+Tom Abel, Stanford Univ.: First Stars
+Miguel-Angel Aloy, Univ. Valencia: GRB Jets
+Axel Brandenburg, Nordita: Dynamos
+Ing-Guey Jiang, National Tsing-Hua Univ.: Debris Disks and Kuiper Belt
+Objects
+Ralf Klessen, Univ. of Heidelberg: Star Formation
+Jae-Min Kwon, WCI Center for Fusion Theory:
+  Gyro-kinetic Code and Prospect for Astrophysics
+Junichiro Makino, Tokyo Institute of Technology:
+  High Performance Computing for Cosmological Simulations
+Juntai Shen, Shanghai Astronomical Observatory: Galaxy Formation
+John Wise, Georgia Institute of Technology: First Galaxies
+
+Invited Speakers Include:
+Xian Chen, Kavli Peking: Tidal Disruption by Super Masive Binary Black
+Holes
+Longlong Feng, Purple Mountain Obs.: Turbulence in IGM
+Lin-Ni Hau*, Nat. Central Univ.: Magnetic Reconnection in Space Plasmas
+Hyesung Kang, Pusan Nat. Univ.: Diffusive Shock Acceleration in the ICM
+Ruben Krasnopolsky: Formation of Protostellar Disks
+Dongwook Lee, Flash Center: Fully Implicit Solver for MHD Equations
+Tomoaki Matsumoto, Hosei Univ.: Star Formation in Turbulent Molecular
+Clouds
+Ken Ohsuga, NAOJ: Radiative Hydrodynamics of Super Eddington Luminous
+Objects
+Yuichiro Sekiguchi, Kyoto Univ.: Merger of Binary Neutron Stars
+Kohji Yoshikawa, Tsukuba Univ.: Cosmological Simulation
+* to be fixed
+
+All the talk titles are tentative.
+
+Scientific Organizing Committee:
+
+Liang Gao (National Astronomical Observatories)
+Pin-Gao Gu (Academia Sinica, Institute of Astronomy and Astrophysics)
+Tomoyuki Hanawa (Chiba University) [Chair]
+Jongsoo Kim (Korea Astronomy and Space Science Institute)
+Eiichiro Kokubo (National Astronomical Observatory Japan)
+Yipeng Jing (Shanghai Astronomical Observatory)
+Fukun Liu (Peking University)
+Junichiro Makino (National Astronomical Observatory Japan)
+Dongsu Ryu (Chungnam National University)
+Masaru Shibata (Kyoto University, Yukawa Institute)
+Ronald Taam (ASIAA and Northwestern University)
+Naoki Yoshida (University of Tokyo, IPMU)
+
+Local Organizing Committee:
+Kenta Kiuchi, Yuichirou Sekiguchi, Masaru Shibata [Chair], Yudai Suwa
+(Kyoto University)
+
+Links:
+------
+[1] mailto:hanawa@cfs.chiba-u.ac.jp
+[2] http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html
+[3] http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html
+[4] mailto:eanam5@yukawa.kyoto-u.ac.jp
+
+==============================================================================

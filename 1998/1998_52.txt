@@ -1,0 +1,124 @@
+From kyl@biaa.sinica.edu.tw Tue Mar 24 09:32 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA19417; Tue, 24 Mar 1998 09:30:57 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA25528; Tue, 24 Mar 1998 09:27:56 +0800
+Date: Tue, 24 Mar 1998 09:27:56 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: IAU colloquium 171 (fwd)
+Message-Id: <Pine.GSO.3.96.980324092753.25484D-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5707
+Status: RO
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 13 Mar 1998 14:38:31 +0000 (GMT)
+From: Jonathan Davies <Jonathan.Davies@astro.cf.ac.uk>
+To: armand@noao.edu, armando@cuevano.ugto.mx, nisse@astro.uu.se,
+    binggeli2@urz.unibas.ch, bomans@astro.uiuc.edu, nuts@moo.uoregon.edu,
+    noah@wise1.tau.ac.il, gbruzual@cida.ve, martin@mso.anu.edu.au,
+    burkert@mpia-hd.mpg.de, claude@astro.umontreal.ca, jcn@ll.iac.es,
+    gdc@mso.anu.edu.au, Jonathan.Davies@astro.cf.ac.uk, hdeeg@ll.iac.es,
+    dettmar@astro.ruhr-uni-bochum.de, john@astro.spa.umn.edu,
+    spd@edwin.phys.unsw.edu.au, pduc@eso.org, ferguson@stsci.edu,
+    ferrara@arcetri.astro.it, fica@st.nepean.uws.edu.au, kcf@mso.anu.edu.au,
+    kfricke@uni-sw.gwdg.de, ufritze@uni-sw.gwdg.de,
+    jsg@tiger.astro.wisc.edu, bianca@ifctr.mi.cnr.it, doug@noao.edu,
+    pmg@astro1.bnsc.rl.ac.uk, grebel@astro.uiuc.edu, bg@astro.uu.se,
+    rguzman@ucolick.org, hhanami@yeelen.hss.iwate-u.ac.jp,
+    hasegawa@kiso.mtk.ioa.s.u-tokyo.ac.jp, HELD@astbo3.bo.astro.it,
+    cheller@uni-sw.gwdg.de, hensler@astrophysik.uni-kiel.d400.de,
+    supas030@astrophysik.uni-kiel.de, hodge@astro.washington.edu,
+    hoffman@nova.phys.lafayette.edu, hopp@usm.uni-muenchen.de,
+    p083huc@mpifr-bonn.mpg.de, izotov@mao.kiev.ua,
+    kawatad@mito.ipc.ibaraki.ac.jp, p213ukl@astro.uni-bonn.de,
+    komiyama@silmaril.astron.s.u-tokyo.ac.jp, koo@helios.ucolick.org,
+    krueger@orion.mpia-hd.mpg.de, kunth@iap.fr, mglee@astrog.snu.ac.kr,
+    leitherer@stsci.edu, lilly@merlin.astro.utoronto.ca,
+    lin@helios.ucolick.org, peter@astro.lu.se,
+    ulindner@walhall.uni-sw.gwdg.de, ute@goliat.ugr.es, kyl@astro.uiuc.edu,
+    dario@ifctr.mi.cnr.it, cmartin@as.arizona.edu, pepa@iaa.es,
+    mateo@astro.lsa.umich.edu, ssm@clrs1.ciw.edu, vmcintyr@atnf.CSIRO.AU,
+    mebold@astro.uni-bonn.de, jmelnick@eso.org, meurer@pha.jhu.edu,
+    bmiller@clrs1.ciw.edu, dminniti@igpp.llnl.gov,
+    mirabel@ariane.saclay.cea.fr, moles@oan.es, mori@astron.s.u-tokyo.ac.jp,
+    mochi@fugu.as.utexas.edu, CMT@ll.iac.es, murakami@dpkato.nifs.ac.jp,
+    akko@avalon.sci.hokudai.ac.jp, sco@starburst.la.asu.edu,
+    oey@ast.cam.ac.uk, ohta@kusastro.kyoto-u.ac.jp, eva@astro.uu.se,
+    east@astro.uu.se, PAGEL@nbivms.nbi.dk, bpartrid@haverford.edu,
+    S.Phillipps@bristol.ac.uk, sap@sao.stavropol.su, gmrichter@aip.de,
+    jrroy@phy.ulaval.ca, l.sage@naturedc.com, sasaki-m@shimonoseki-cu.ac.jp,
+    schaerer@stsci.edu, slaz@parcha.astro.wesleyan.edu,
+    jschombert@gm.ossa.hq.nasa.gov, simpsonc@galaxy.fiu.edu,
+    skillman@astro.spa.umn.edu, smecker@carina.ps.uci.edu,
+    sorai@nro.nao.ac.jp, ralph@astro.lu.se, lstavele@atnf.CSIRO.AU,
+    tajiri@het.ph.tsukuba.ac.jp, taylorc@azalea.physics.McMaster.CA,
+    gtt@ll.iac.es, txt@astsun.astro.virginia.edu, etolstoy@eso.org,
+    atomita@milano.mtk.nao.ac.jp, Tosi@astbo3.bo.astro.it,
+    vtrimble@orion.oac.uci.edu, chicag@astro.ucla.edu, urb@oa.uj.edu.pl,
+    vandyk@astro.ucla.edu, vanzee@astrosun.tn.cornell.edu,
+    vacca@athena.ifa.hawaii.edu, hugo@astro.rug.nl,
+    wwalsh@astro.uni-bonn.de, walter@astro.uni-bonn.de,
+    Ronald.Weinberger@uibk.ac.at, dwestpfa@aoc.nrao.edu,
+    JWHITEOA@rp.CSIRO.AU, ewilcots@uwast.astro.wisc.edu,
+    RAW@cosmos.la.asu.edu, lyoung@aoc.nrao.edu, hzinnecker@aip.de,
+    karen@moo.uoregon.edu, R.S.deJong@durham.ac.uk, dspray@ing.iac.esf,
+    briggs@pitt.edu, f.briggs@astro.rug.nl, schneide@fcrao1.phast.umass.edu,
+    piet@star.herts.ac.uk, vdhulst@astro.rug.nl, w.j.g.blok@astro.rug.nl,
+    c.s.frenk@durham.ac.uk, nsk@astro.washington.edu,
+    lake@astro.washington.edu, binggeli2@ubaclu.unibas.ch, txt@virginia.edu,
+    jd@ociw.edu, treyer@ast.cam.ac.uk, mike@ast.cam.ac.uk,
+    rse@ast.cam.ac.uk, tully@hale.IfA.Hawaii.Edu, dns@astro.princeton.edu,
+    prugniel@cumulus.univ-lyon1.fr, held@bo.astro.it, tarmandroff@noao.edu,
+    spaans@strw.leidenuniv.nl, lacey@tac.dk, jgallagher@noao.edu,
+    kormandy@hale.IfA.Hawaii.Edu, dvb@roe.ac.uk, rgm@ast.cam.ac.uk,
+    bergeron@eso.org, don@oddjob.uchicago.edu, awolfe@ucsd.edu,
+    lsl@ucsd.edu, rse@ast.cam.ac.uk, c.s.frenk@durham.ac.uk,
+    lake@astro.washington.edu, ebrinks@andromeda.cimat.mx,
+    kcf@mso.anu.edu.au, impey@as.arizona.edu, burkert@mpia-hd.mpg.de,
+    noah@wise1.tau.ac.il, kalevi.mattila@helsinki.fi, izotov@mao.kiev.ua,
+    vdhulst@astro.rug.nl, Rodney.Smith@astro.cf.ac.uk,
+    S.Phillipps@bristol.ac.uk, qap@aaocbn3.aao.gov.au,
+    pmk@astro.lsa.umich.edu, loveday@sdss.fnal.gov, huchra@cfa.harvard.edu,
+    rekers@atnf.CSIRO.AU, rwebster@physics.unimelb.edu.au, rjw@ociw.edu,
+    bergeron@iap.fr, rwo@virgina.edu, vandenbergh@dao.nrc.ca, ars@ociw.edu,
+    w.j.g.de.blok@astro.rug.nl, ewilcot@rainier.astro.wisc.edu,
+    berczik@mao.kiev.ua, taylor@alpha1.astro.ruhr-uni-bochum.de,
+    karen@moo.uoregon.edu, Stephanie.Cote@hia.nrc.ca,
+    edeblok@physics.unimelb.edu.au, antonucc@tacsg1.tac.dk,
+    Mike.Edmunds@astro.cf.ac.uk, jschombert@gm.ossa.hq.nasa.gov,
+    Binggeli@astro.unibas.ch, pmcc@astro.uiuc.edu, swater@astro.rug.nl
+Subject: IAU colloquium 171
+
+IAU colloquium 171 - The Low Surface Brightness Universe
+Cardiff 6-10th July 1998
+
+I have been asked by the IAU to point out to all possible 
+participants in the above colloquium that IAU travel and 
+subsistence funds are available.
+
+jid@astro.cf.ac.uk Tel: 44 1222 874144 Fax: 44 1222 874056
+
+ http://www.astro.cf.ac.uk/IAU171/
+
+

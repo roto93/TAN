@@ -1,0 +1,151 @@
+
+In this issue (Jun 03 - 07, 2019)
+
+1. SPICA Working Groups
+2. First Announcement: 2020 Submillimeter Array Interferometry School
+3. ASIAA Colloquium/Seminar/Lunchtalk (Jun 10): Chin-Fei Lee (ASIAA)
+                              (Jun 12): Abdurrouf (ASIAA)
+                              (Jun 13): Chien-Hao Lin (Carnegie Mellon Univ)
+
+==============================================================================
+
+> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
+> Subject: SPICA Working Groups
+> Date: Mon, 3 Jun 2019 19:06:59 +0800
+> To: Network Taiwan Astronomy <astro@asiaa.sinica.edu.tw>,
+>    riaa@asiaa.sinica.edu.tw, spica-taiwan@asiaa.sinica.edu.tw
+
+Dear Colleagues in Taiwan,
+
+SPICA (http://www.ir.isas.jaxa.jp/SPICA/SPICA_HP/index-en.html) is a proposed 2.5-m fully cryogenic, infrared/sub-millimetre satellite observatory with imaging, spectroscopic, and polarimetric capabilities due for launch in the mid-2030's (https://spica-mission.org/). The SPICA science consortium now has established several working groups to polish the cases for key science observations and draft the Yellow Book, in order for the mission to achieve selection by ESA in 2021. These working groups are looking for colleagues to help their activities. Here is the list of groups and contacts:
+
+Galaxy evolution        Luigi Spinoglio <luigi.spinoglio@inaf.it>
+Protoplanetary Discs  Inga Kamp  <kamp@astro.rug.nl>
+Nearby galaxies          Jesus Martin-Pintado <jmartin@cab.inta-csic.es>
+Solar system              Matt Griffin <Matt.Griffin@astro.cf.ac.uk>
+ISM & Star Formation Takashi Onaka <onaka@astron.s.u-tokyo.ac.jp>
+Polarization                Sauvage Marc <marc.sauvage@cea.fr>
+
+If you are interested in contributing to the working groups, please e-mail the appropriate contact person directly, cc: ing the e-mail to:
+ohyama@asiaa.sinica.edu.tw
+jmarshall@asiaa.sinica.edu.tw
+hiro@asiaa.sinica.edu.tw
+
+Thanks,
+
+Youichi, Shiang-Yu, Hiro, Jonty (ASIAA)
+
+==============================================================================
+
+> From: Luca Matra <luca.matra@cfa.harvard.edu>
+> Date: Mon, 3 Jun 2019 10:18:03 -0400
+> Subject: First Announcement: 2020 Submillimeter Array Interferometry School
+> To: sma-newsletter@cfa.harvard.edu
+> Resent-To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the first announcement of =
+the SMA=20
+interferometry school to TAN.
+
+Regards,
+Naomi
+
+-----------------
+
+Dear Colleagues,
+
+
+We are delighted to be releasing this First Announcement for the first =
+Submillimeter Array Interferometry School.
+
+The school will be held on January 12-17th 2020 in Hilo, on the Big =
+Island of Hawai'i (conveniently following the Winter AAS Meeting in =
+Honolulu), and is organized by the Center for Astrophysics, in =
+conjunction with the Academia Sinica Institute of Astronomy and =
+Astrophysics and the University of Hawaii. The goals of the school are =
+to provide graduate students, postdocs and scientists outside the field =
+with a broad knowledge of interferometry and data reduction techniques =
+at (sub)millimeter wavelengths.
+
+The workshop will provide a series of lectures on the fundamentals of =
+radio interferometry with a special emphasis on observations at =
+(sub)millimeter wavelengths. The school will extensively utilize the =
+Submillimeter Array (SMA) on Mauna Kea, Hawaii and its new capabilities.=20=
+
+We particularly stress the hands-on nature of this School, where =
+participants will be able to experience actively performing observations =
+and data reduction for their own proposed projects.
+
+Further details and updates on the program and the logistics will be =
+provided on the School=E2=80=99s website (www.cfa.harvard.edu/sma-school =
+<http://www.cfa.harvard.edu/sma-school>, or email at =
+sma-school@cfa.harvard.edu <mailto:sma-school@cfa.harvard.edu>) through =
+a Second Announcement coinciding with the opening of registration in =
+July. Stay tuned and, for now, save the date!
+
+
+The Organizing Committee
+
+--=20
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to sma-newsletter+unsubscribe@cfa.harvard.edu =
+<mailto:sma-newsletter+unsubscribe@cfa.harvard.edu>.
+
+==============================================================================
+
+> Date: Thu, 6 Jun 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chin-Fei Lee (ASIAA)
+Topic:         Prebiotic Molecules and Beer on Space Hamburger around a Baby Star
+Time:         6/10 (Monday) 12:15 - 13:15
+Place:         R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Abdurrouf (ASIAA)
+Topic:         Study spatially resolved stellar population properties of galaxies with spatially resolved SED fitting
+Time:         6/12 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Photometric observations of galaxies over the last decades have revealed many important clues in the understanding of galaxy evolution. Despite the current improvement in spatial resolution of the imaging surveys (by HST in particular), most of the photometric studies of galaxies have only been done by treating galaxy as a single point object. On the other hand, the advent of IFU surveys has revolutionized the way we study galaxies. Despite its powerful capabilities, wide area IFU surveys have only limited to local galaxies. In this presentation, I will introduce a spatially resolved SED fitting method that uses broad bands imaging to derive spatially resolved stellar population properties of galaxies. I will present results of our studies on the spatially resolved analysis of stellar mass buildup and quenching in massive disk galaxies from z~2 to present time. We studied the evolution of the radial profiles of SFR, stellar mass, and sSFR and construct an evolutionary empiri!
+cal model. We also confirmed the existence of sub-galactic star formation main sequence which holds in local as well as high redshift. Our studies found that massive disk galaxies built their stellar masses and quenched their star formations in 'inside-out' manner. I will also talk about my efforts on upgrading the method using MCMC technique to get a better inference of stellar population parameters (Z, age, E(B-V), and SFH). Currently, we have applied our spatially resolved SED fitting method to imaging data from HST and GALEX+SDSS. Future photometric surveys (using JWST, WFIRST, LSST, and Euclid) will provide large dataset from which we can conduct spatially resolved SED fitting to a large number of galaxies across wide redshift range to study the evolution of their internal structures.
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:    Chien-Hao Lin (Carnegie Mellon University)
+Topic:         
+Time:         6/13 (Thursday) 14:20 - 15:20
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

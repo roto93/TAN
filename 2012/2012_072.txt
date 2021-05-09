@@ -1,0 +1,77 @@
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Mon, 16 Apr 2012 08:49:09 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) are:
+
+Title: TAOS: An Occultation Survey of the Outer Solar System
+Speaker: Dr. Zhi-wei Zhang (ASIAA)
+Date: 2012-04-20
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+
+The Taiwanese-American Occultation Survey (TAOS) comprises an array of four 0.5-m
+telescopes, installed at Lulin Observatory, to conduct a survey of the small objects in
+Kuiper Belt by using the chance stellar occultation. Due to the flux drop of the
+occultation event is small and the duration of it is less than a second, the multiple
+telescope data is used to reduce the false positive rates and the zipper model data
+acquisition is used to achieve the high-speed CCD imaging photometry of 5 Hz sampling
+rate. The system is fully robotic and the status of the system can be monitored via
+smart phone. Recently, TAOS is upgrading the camera to a frame transfer CCD camera. This
+camera is able to do photometry at 10 Hz cadence with better SNR for the faint stars
+compared to the current camera and covered with the FOV of 0.64 square deg. The upgrade
+will finish in spring and start to collect data again. TAOS has been collected
+scientific data since 2005. To date, over 90 TB raw images has been archived and more
+than 500 billion photometric measurements has been produced. A successor survey, the
+Trans-Neptunian Automated Occultation Survey (TAOS II) is currently being constructed.
+This next generation survey will be more than one hundred times as sensitive as the
+earlier survey. In order to reach the goal of one hundred times powerful, the
+improvement of TAOS II will mainly come from (1) using three 1.3-m telescopes to monitor
+10,000 stars, (2) using a camera with new CMOS devices capable of reading out at a
+sampling rate of 20 Hz, (3) operating at San Pedro Martir Observatory (SPM), Mexico,
+which has an average seeing around 0.6 arcsecond and more than 250 clear nights in a
+year. The improvement on the software side, based on the experience of developing the
+TAOS system, the TAOS II system will have (1) an unified structure for the control and
+status message, (2) a better observation queue and scheduler, (3) an archive system to
+manage the large data flow. The current status is in the progress of applying for the
+permission to use the site. We expect to do the site development in the autumn of 2011,
+to finish installing all three telescopes in early 2013. We expect to begin the survey
+in mid-2013.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201204201400.html
+
+
+AND
+
+Title: Confirming and Constraining Kepler Planets via Transit Timing Variations
+Speaker: Dr. Matthew J. Holman (Harvard-Smithsonian Center for Astrophysics)
+Date: 2012-05-04
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+
+Of the more than 2,000 Kepler planet candidates that have been reported to date, a
+significant fraction are in systems with multiple transiting planet candidates. In some
+cases, the signature of the gravitational interactions between planets in these systems
+can be seen in the variations of their times of transit. By carefully modeling the
+transit times, as well as investigating long-term stability, we are able to measure or
+constrain the masses and orbits of the transiting bodies in some of these systems,
+verifying that they are indeed planets. Although this approach is particularly effective
+for closely packed and near-resonant systems, it has also been applied to a broad range
+of systems. These include circumbinary planets, as well as systems with additional
+non-transiting planets. I review the process of using transit timing variations to
+confirm Kepler planets.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201205041400.html
+
+------------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================

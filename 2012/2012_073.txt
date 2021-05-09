@@ -1,0 +1,37 @@
+> Date: Tue, 17 Apr 2012 20:27:07 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: alma-t@asiaa.sinica.edu.tw,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Third installment of Science Verification data of ALMA
+
+Dear All,
+
+The third installment of Science Verification data is now available. There 
+are several new datasets in this release corresponding to targets 
+suggested by the community and listed on the Science Verification web 
+page.  We hope that you will find that the quality of these datasets is 
+impressive, but please remember that ALMA is still in the construction 
+phase, and we are continuously testing new observing modes.  These 
+observations are made using new equipment and software and thus may 
+contain more idiosyncrasies than data released to PIs in Early Science. 
+There are data reduction suggestions for these datasets provided in the 
+form of a script, as well as additional information about the dataset in a 
+README file.
+
+This installment of Science Verification data contains the following:
+
+     BR1202-0725 at z=4.7: redshifted CII line in Band 7
+     IRAS16293:  Band 6 observations centered on the CH3CN ladder and HNCO
+     Centaurus A: a 48pt mosaic of the central parsecs in Band 6
+     Orion KL: several tunings combined to provide a spectral survey in Band 6
+
+
+For more details, please visit
+
+http://almascience.nao.ac.jp/news/third-installment-of-science-verification-data
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

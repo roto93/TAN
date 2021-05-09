@@ -1,0 +1,246 @@
+Date: Thr, 16 May 2013 02:35:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue May 10 - 16, 2013)
+
+============================================================================== 
+
+In this issue (May 10 - 16, 2013)
+
+1. NTHU Astronomy Colloquium (May 17): Chueh-Yi Chou (ASIAA)
+2. ASIAA Colloquia (May 17): Sebastian Foucaud (NTNU)
+                  (May 15): Zan Peeters (DTM-CIW)
+                  (May 14): Lin-Ni Hau (NCU)
+3. PHOTOMETRIC REDSHIFTS FOR LARGE SCALE SURVEYS (first announcement)
+4. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Colloqm (May 21): J. Raynien Kwo (NTHU)
+
+==============================================================================
+
+> Date: Fri, 10 May 2013 17:31:54 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+############################################
+                    NTHU
+            Astronomy Colloquium
+############################################
+
+      2:20 p.m. 17th May 2013 (Friday)
+        NTHU Physics Building, Rm620
+
+      Speaker: Dr. Chueh-Yi Chou
+                (ASIAA)
+
+      Title:  Observational Studies of Interacting Galaxies
+              and the Development of the Wide Integral-Field
+              Infrared Spectrograph
+
+      Abstract:
+      I will talk about my study on early and late stage
+      galaxy mergers using Canada-France-Hawaii Telescope
+      to quantify the wet and dry merger number density
+      at z<0.7. Meanwhile, I will present the development
+      of the wide integral field infrared spectrograph (WIFIS),
+      including the optical design, expected performance,
+      current status and the extra-galactic survey we are
+      going to conduct using WIFIS at the Kitt peak observatory.
+
+Tea/Discussion Time is followed in the same room.
+
+                  All Welcome !!
+
+==============================================================================
+
+> Date: Sun, 12 May 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Sebastian Foucaud (NTNU)
+Topic:        Pushing the exploration of Dark matter and stellar mass assembly to z=7
+Time:        5/17 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The past and coming few years see the advent of new generations of deep and wide surveys in optical and near-infrared, which enable us to explore the evolution of galaxies on range of redshifts and masses never explored so far. Owing to my involvement to some of the most important of these surveys, I have explored the mass assembly history of galaxies since z=2 and intend to push to z=7 with the coming Hyper-Suprime Cam Survey.
+
+As the large-scale behaviour of galaxies is ruled by their dark matter content, an estimate of the mass of their dark matter halos is crucial to gain a good understanding of the history of their mass assembly. Clustering analyses allows us to link galaxy populations to the mass of their host haloes, and I am using this technique to probe the halo masses of galaxies up to z=2. In particular I am interested in the luminous-to-dark mass ratio and its evolution with redshift. These results implied that a halo downsizing is in place since z=2, where galaxy mass assembly happen faster in higher mass haloes at high redshifts while at lower redshifts it migrates to lower mass halos.
+I also demonstrate that the (stellar) baryonic mass of galaxies are not as well correlated to the mass of their dark matter haloes as expected, and even by involving gaseous mass, the budget of mass is not compatible with the baryonic fraction implied by cosmological studies (CMB).
+To understand better the origin of these missing baryons, I am exploring directly the mass assembly of galaxies by major mergers. I demonstrate that since z=2 while major merger plays a minor role in mass assembly of the most galaxies, it plays an increasingly important role in the lower mass galaxies, in particular at low redshift, in contradiction with the theoretical predictions.
+
+Exploiting the new Hyper-Suprime Cam on the 8.2m Subaru telescope, the HSC survey will open a new era on the exploration of the very high-redshift (z>5), which was limited to the very small fuel;d-of-view of the Hubble-Space Telescope so far. I will introduce the HSC survey and describe how I am intending to extend my exploration of the mass-assembly to z=7.
+
+Finally I will conclude on the challenges raised by the exploitation of the current and next generation of large surveys, and how they required development of topics such as Astroinformatics and Virtual Observatory.
+
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Zan Peeters (DTM-CIW)
+Topic:        The discovery of new multimicron-sized structures in meteoritic organic carbon
+Time:        5/15 (Wednesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The age-old question "Where do we come from?" has been central to many scientific endeavours. The field of Astrobiology has reformulated this question to "How did life originate?". Carbon is the element on which all life on Earth is based. If we want to understand the origin of life, we must look for the origin of its building blocks. A great source of organic material is provided by a class of meteorites called the carbonaceous chondrites. Several of life's building blocks are directly present in carbonaceous chondrites as small soluble molecules (e.g. amino acids, nucleobases, carboxylic acids), but the majority of the organic carbon is locked up in an insoluble macromolecular network.
+
+In this talk, I will discuss several phases of carbon in space, from interstellar molecules and laboratory experiments, to the macromolecular networks of organic carbon that are found in meteorites, and end with the latest discoveries of large (up to 10 micrometers) organic carbon inclusions in meteorites. This pathway incidentally also follows my carrier in Astrochemistry and Astrobiology, and I hope to provide more insight into the origin of the building blocks of life on Earth.
+
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Lin-Ni Hau (National Central Univ.)
+Topic:        What are the evidences for magnetic reconnection occurring in space plasma environment ?
+Time:        5/14 (Tuesday) 14:00 - 15:00
+Place:        R1108
+Abstract:
+The concept of plasma universe was first proposed by the Nobel laureate Hannes AlfvÃ©n who asserted that electromagnetic forces are far more important than gravity in many astrophysical environments.  The solar system or heliosphere is the only natural laboratory accessible to manmade spacecraft which are able to conduct the in-situ measurement of space plasma and electric/magnetic field.  One of the most important discoveries in this endeavor is the magnetic reconnection which may occur in the solar wind, at planetary magnetopause and magnetotail as well as heliopause etc.  For the past half century substantial efforts have been made on the theory, simulation and observation of magnetic reconnection which remains to be one of the most outstanding research topics in plasma and theoretical physics.  The Earthâ€™s magnetosphere is an ideal site for the occurrence and study of reconnection physics due to its accessibility to spacecraft measurement.  In this talk an overview is !
+presented of the physics of magnetic reconnection in the context of theory and observation.
+
+
+==============================================================================
+
+> Date: Mon, 13 May 2013 15:55:33 +0800
+> Subject: Fwd: First Announcement: PHOTOMETRIC REDSHIFTS FOR LARGE SCALE SURVEYS
+> From: Jean Coupon <coupon@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Prof. Kuan,
+
+could you please circulate this message to the TAN?
+
+Thank you very much,
+Jean
+
+
+---------- Forwarded message ----------
+> From: Jean Coupon <coupon@asiaa.sinica.edu.tw>
+> Date: Mon, May 13, 2013 at 3:50 PM
+> Subject: First Announcement: PHOTOMETRIC REDSHIFTS FOR LARGE SCALE SURVEYS
+> To: asiaa@asiaa.sinica.edu.tw
+
+
+PHOTOMETRIC REDSHIFTS FOR LARGE SCALE SURVEYS
+                                (first announcement)
+
+September 3-5, 2013
+ASIAA, Taiwan
+http://events.asiaa.sinica.edu.tw/workshop/20130903
+
+Dear colleagues,
+
+we are pleased to announce that a workshop focused on photometric
+redshifts will be held at ASIAA, Taiwan, on September 3-5, 2013. The
+aim of this workshop is to gather together world-leading experts
+involved in current and future large scale surveys (HSC, Pan-STARRs,
+DES, KIDS, PAU, J-PAS, LSST, Euclid, etc.) to discuss solutions for photo-z
+estimation techniques suitable for lensing, galaxy and AGN sciences;
+taking into consideration the challenges of having these solutions
+implemented for large amount of data and in a database environment.
+
+We invite interested people to register through the website
+(in "Registration") by June 15th, 2013. However, due to the nature
+of the workshop and space limitation, the number of participants
+will be restricted to approximately 30 people. Confirmation of
+participation will be sent by email before June 30th.
+
+We particularly encourage participation from the Taiwanese community.
+For members of the HSC consortium, we will have an extra session on
+the morning of Friday 6th dedicated to HSC survey.
+
+If you have any questions feel free to contact us.
+
+Best wishes
+Jean Coupon, Sebastien Foucaud and Keiichi Umetsu
+on behalf of the organizers
+
+SOC:
+Tamas Budavari (JHU)
+Jean Coupon (ASIAA)
+SÃ©bastien Foucaud (NTNU/ASIAA, co-chair)
+Olivier Ilbert (LAM)
+Michael Strauss (Princeton)
+Masahiro Takada (IPMU)
+Keiichi Umetsu (ASIAA, chair)
+
+LOC:
+Jean Coupon (ASIAA, chair)
+Bau-Ching Hsieh (ASIAA)
+Ching-Min â€œJimmyâ€� Lo (NTNU)
+Chen-Fatt Lim (NTNU)
+Cindy Chiu (ASIAA)
+
+==============================================================================
+
+> From: =?utf-8?B?6Zmz5pix6Iez?= <f95222027@ntu.edu.tw>
+> To: "swallow@phys.ntu.edu.tw" <swallow@phys.ntu.edu.tw>,
+>    <astro@asiaa.sinica.edu.tw>,
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, May 21
+> Date: Wed, 15 May 2013 00:20:55 +0000
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held on May 21 .
+The Joint Colloquium Series is organized by
+the NTU Physics Department, Center for Condensed Matter Science (CCMS),
+Leung Center for Cosmology and Particle Astrophysics (LeCosPA),
+Academia Sinica Institute of Astronomy and Astrophysics (ASIAA),
+and the Institute of Atomic and Molecular Sciences (IAMS).
+The idea is to have excellent speakers to give inspiring, informative,
+but non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on May 21.
+
+Best regards,
+
+Pisin Chen (LeCosPA)
+Ting-Wai Chiu (NTU-Phys)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Michihiro Takami (ASIAA)
+
+
+-------------------------------------------------------------------------------
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+Speaker: Professor  J. Raynien Kwo 
+        (Department of physics, National Tsing Hua University)
+Topic : Emergent low power technology:  From III-V nanoelectronics to spin currentronics
+Time  : 05/21(Tuesday) 14:20 - 15:10
+Place : Room 104, CCMS-New Physics Building
+
+
+Abstract :
+
+    As driven by continual demands of enhanced-transport in channels and reducing power dissipation to push for the ultimate CMOS, new materials and novel device physics are playing a critical role. High carrier mobility channel materials based on IIIâ€“V compounds and Ge are now the viable solutions. This talk gives an overview on extensive efforts undertaken in realization of inversion-channel high ð�œ¿/InGaAs MOSFET as an imminent technology. The engineering of this key high ð�œ¿/InGaAs interface on the atomic level has led to resolving the long-standing puzzle of the interplay between interfacial structures and electronic properties. Record-high device electrical performances have been demonstrated in the self-aligned inversion-channel InGaAs MOSFETs. 
+    Looking ahead, a number of alternative technology candidates have emerged on the horizon. For spintronic research, the talk also covers recent progresses made in generating pure spin currents for low dissipation spin transport. 
+
+
+Brief Bio. :
+      Prof. J. Raynien Kwo is currently the Distinguished Chair Professor in the department of physics, National Tsing Hua University (NTHU).  Raynien received her BS degree from the Physics Department of NTU in 1975, and went to US to pursue the graduate study in Stanford University, CA. After obtaining her PhD in Applied Physics in 1981, she joined Bell Labs, Physics Research Division in Murray Hill, New Jersey as a member of technical staff, and later became a distinguished member of the technical staff in 2001. In 2003 she returned to Taiwan to promote higher education and advanced research for physics in her native land.  She directed the NTHU Physics Department as the Chair during 2005-2008, and led the Taiwan Physical Society as the President in 2008-2009.  She was the Director of the Center for the Condensed Matter Sciences in NTU (2010-2012). 
+      Prof. Kwo is internationally well known for her outstanding research in novel electronic materials invented by advanced thin film fabrication techniques, especially for her pioneering work that laid the foundation for the field of artificial magnetic superlattices during the mid 80â€™s. With her pioneer work in metal molecular beam epitaxy, she discovered long-range antiferromagnetic coupling mediated in synthetic rare-earth magnetic superlattices, as identified to be the fundamental mechanism responsible for the giant magneto-resistance effect awarded with the Physics Nobel Prize in 2007. Later, in the field of high temperature superconducting films, she was the first to invent the oxide molecular-beam epitaxy to produce single crystalline HTSC films crucial for fundamental studies of anisotropic normal state properties. In her recent research on â€œoxide electronicsâ€�, she spearheaded the development of alternative high-k gate dielectrics for Si CMOS beyond 45 nm n!
+ode. She also co-invented new high-k dielectrics including a mixed oxide Ga_2O_3(Gd_2O_3) and a binary oxide Gd_2O_3 to unpin the Fermi level of the III-V InGaAs semiconductor surface for the first time, vital for the realization of InGaAs MOSFETs.
+------------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

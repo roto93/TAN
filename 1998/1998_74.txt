@@ -1,0 +1,241 @@
+From kyl@biaa.sinica.edu.tw Thu Apr 16 09:50 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa3.biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA05259; Thu, 16 Apr 1998 09:49:48 +0800
+Received: from localhost (kyl@localhost)
+	by biaa3.biaa.sinica.edu.tw (8.8.7/8.8.7) with SMTP id JAA18869;
+	Thu, 16 Apr 1998 09:50:03 +0800 (CST)
+X-Authentication-Warning: biaa3.biaa.sinica.edu.tw: kyl owned process doing -bs
+Date: Thu, 16 Apr 1998 09:50:03 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa3
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>,
+        "Inst. of Astronomy and Astrophysics." <iaa@biaa.sinica.edu.tw>
+Subject: Draft of FITS standard revision 1.2 available for comment (fwd)
+Message-Id: <Pine.GSO.3.96.980416094958.12737C-100000@biaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 8791
+Status: R
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Wed, 15 Apr 1998 10:24:31 -0400 (EDT)
+From: Richard White <rwhite@nssdc.gsfc.nasa.gov>
+To: fitsbits@fits.cv.nrao.edu, iaufwg@cv3.cv.nrao.edu, vlbi@cv3.cv.nrao.edu,
+    comm5@cv3.cv.nrao.edu, aips2@cv3.cv.nrao.edu,
+    bananas@marmoset.cv.nrao.edu
+Cc: Richard White <rwhite@nssdc.gsfc.nasa.gov>
+Subject: Draft of FITS standard revision 1.2 available for comment
+
+
+PLEASE REDISTRIBUTE WIDELY
+
+
+
+Call for comments on Revised FITS Standard
+
+
+The NASA/Science Office of Standards and Tecnology (NOST) Draft Standard
+100-1.2, Definition of the Flexible Image Transport System (FITS), is now
+available for review and comment. This is a major revision to the previous version 1.1 of the FITS standard that was adopted in 1995.  This Standard is being
+developed by a NOST-sponsored Technical Panel.
+
+FITS Technical Panel
+Robert J. Hanisch, Chair			STScI
+Barry M Schlesinger, Secretary			NASA/FITS Support Office
+Allen Farris					STScI
+Eric W. Greisen					NRAO
+William D. Pence				NASA/GSFC
+Peter J. Teuben					UMd
+Randall W. Thompson				STScI/CSC(formerly at GSFC/IUE)
+Archibald Warnock				A/WWW Enterprises
+
+The purpose of distributing this Draft Revision to the NOST FITS Standard is to
+provide for community review and comment.  The Technical Panel will review and
+respond to all comments.  The Panel will either incorporate the substance of a
+comment into the Standard, or it will instead provide the reasons for not doing
+so and describe any revision to the Standard motivated by the comment.  After
+the panel has completed review of and responded to all comments, the final
+version will be submitted to NOST for certification.  Upon certification, the
+final version number will be 2.0.  It will then be submitted to IAU Commission 5
+for formal acceptance as the IAU standard.
+
+Copies of the standard are available in two ways: paper copies and access to
+electronic copies via the WWW.  Electronic copies are available formatted for
+LaTeX, PostScript, gziped Postscript and html.  The electronic versions are
+posted on the FITS Support Office web site homepage at
+http://fits.gsfc.nasa.gov/
+
+Paper versions may be requested from the National Space Science Data Center
+Coordinated Request and User Support Office (CRUSO) at
+
+Coordinated Request User Support Office (CRUSO)
+Code 633,
+National Space Science Data Center
+NASA Goddard Space Flight Center
+Greenbelt, Maryland 20771, USA
+
+E-mail: request@nssdca.gsfc.nasa.gov
+Telephone: (301) 286-6695
+FAX: (301) 286-1635
+
+All comments should be mailed to the fitsbits exploder at
+fitsbits@fits.cv.nrao.edu, or posted to the newsgroup sci.astro.fits. 
+Dr. William Pence, a member of the technical panel,
+will oversee the reading, discussion, and panel response to all comments.
+There will be an approximately 3 month period for comments.  All comments
+should be submitted by July 15, 1998.
+
+The development of the standard and its certification is supported by the FITS
+Support Office in the Astrophysics Data Facility at NASA's Goddard Space
+Flight Center.
+
+FITS Support Office
+Code 631
+NASA/Goddard Space Flight Center
+Greenbelt, MD 20771
+USA
+
+e-mail:	fits@fits.gsfc.nasa.gov
+http://fits.gsfc.nasa.gov/
++1-301-286-6695 
+
+
+List of Significant Changes Between Versions 1.1 and 1.2 (Draft) of the NOST
+FITS Standard
+
+Section            Description of Changes
+-------    ---------------------------------------------
+
+ 3:       Definitions have been added, deleted, or revised:
+           Added: ASCII NULL, DAT, Fraction, Heap, IAUFWG,
+                      Mantissa, Primary HDU, Repeat count
+           Deleted:   AIPS, CfA, ESO, NOAO, NRAO, STScI
+           Revised:   Entry, Floating point, Indexed keyword
+
+ 4.6:     New section describing Physical Blocking.  Incorporates some text
+          previously contained in Appendix B.
+
+ 5.1.2.2: Explicitly states that null-valued keywords are allowed.
+
+ 5.1.2.3: Keyword comment, if present, must be preceeded by a slash.
+
+ 5.2:     References to ANSI FORTRAN-77 have been removed and
+          replaced with explicit definitions of free format values.
+
+ 5.2:     Keyword values are restricted to be a single value
+          and not an array of values.
+
+ 5.2.1:   Fixed format character string values no longer need to be
+          padded with blanks to be at least 8 characters long.
+          (e.g., XTENSION= 'TABLE' is now a legal keyword record).
+
+ 5.2.1:   Previous requirement that reading the data values should
+          not require decoding any more than the first eight
+          characters of a character string value of a keyword has
+          been dropped.
+
+ 5.2.2:   Explicitly states that a logical value must consist
+          of a single `T' or `F' character, followed only by a
+          space or a slash character.
+
+ 5.2.3:   Explicitly states that an integer value must not contain
+          embedded spaces and is always interpreted as a signed
+          decimal value.
+
+ 5.2.4:   Explicitly states that a real floating point value must not
+          contain embedded spaces. The decimal point is not required,
+          so values like 12, and 1E30 are valid, but E30 is not.
+
+ 5.2.5:   Fixed format for complex integers is no longer defined.
+          Free format complex integer values must be enclosed in
+          parentheses separated by a comma, e.g. (14, -45).
+
+ 5.2.6:   Fixed format for complex reals is no longer defined.
+          Free format complex real values must be enclosed in
+          parentheses separated by a comma, e.g. (14.5, -4.5E+5).
+
+ 5.4.1.1  Explicitly states that no other keywords may intervene between
+          the SIMPLE and last NAXISn keyword in the primary header.
+          The SIMPLE keyword must not appear in extension headers.
+
+ 5.4.1.2  Explicitly states that no other keywords may intervene between
+          the XTENSION and last NAXISn keyword in an extension.
+
+ 5.4.2    The description of the DATE and DATE-OBS keywords has been
+          modified in accordance with the new Y2000 FITS agreement.
+
+ 6.3      Definition of IEEE floating point has been moved to appendix H.
+
+ 8.1      Explicitly states that no other keywords may intervene between
+          the XTENSION and TFIELDS keywords in an ASCII table extension.
+
+          The TFORM format codes must be in upper case.  Numeric values
+          in ASCII tables are always decimal, and never binary, octal,
+          hexadecimal, or other representation.
+
+ 8.1.5    New discussion about selecting a format appropriate to the
+          data.   References to ANSI FORTRAN-77 have been removed and
+          replaced with explicit definitions of how each format should
+          be interpreted.
+
+ 8.2      Definition of the image extension has been added.
+
+ 8.3      Definition of binary table extension has been moved from
+          Appendix A into the standard itself.   The TFORM format codes
+          must be in upper case.
+
+ 8.3.4    Explicit definitions are given for the possible display formats.
+
+Appendix A: (new) gives a formal syntax for keyword card images.
+
+Appendix D: (new) discusses time scale issues related to the new
+            DATE-OBS keyword format.
+
+Appendix H: (new) defines IEEE floating point formats
+
+
+-----------------------------------------------------------------------------
+
+
+Types of keywords that are explicitly allowed in the new FITS standard
+-----------------------------------------------------------------------
+
+KEYWORD =                      / the value of this keyword is undefined
+XTENSION= 'TABLE'              / string can be less than 8 chars long
+REALVAL =                   14 / decimal point is not required for reals
+COMPLEXI=            (12, -45) / complex integer value
+COMPLEXR=       (12.5, 5.6E-3) / complex real value
+DATE    = '2000-01-01T11:45:59.999' / new date format
+
+
+Types of keywords that are explicitly disallowed in the new FITS standard
+-----------------------------------------------------------------------
+
+KEYWORD =               3.1415   Value of Pi (no slash before comment)
+KEYWORD =          1,2,3,4,5,8 / arrays of values are not allowed
+LOGICAL =                 TRUE / logical values must be only T or F
+INTVAL  =                 0777 / must not be interpreted as octal number
+INTVAL  =               124 56 / embedded spaces not allowed in integers
+REALVAL =            1.34 E+11 / embedded spaces not allowed in reals
+REALVAL =                  E20 / number preceeding the exponent is required
+
+
+
+

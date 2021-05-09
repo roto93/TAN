@@ -1,0 +1,340 @@
+=============================================================================== 
+In this issue (Jan 26 - Feb 01, 2015)
+
+1. Arizona Radio Observatory - Call for Proposals: Spring 2015 (Feb 06, 2015)
+2. EAYAM 2015: career development and job options
+3. Official call for SMA proposals
+4. NTHU Astronomy Colloquium - 2015.02.06
+5. Tenure-Track position at Chiba University
+6. ASIAA Colloquia/Seminars (Feb 02): Wing-Kit Lee (ASIAA)
+                            (Feb 04): Sara Beck (Tel Aviv University)
+                            (Feb 04): Lu Wei-Chun (ASIAA)
+
+===============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Spring 2015)
+------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT), located on
+Mount Graham, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period February 15, 2015 to June 15, 2015. Proposals will
+also be accepted on a limited shared-risk basis for the new ALMA Prototype
+12-meter Telescope (12m) located on Kitt Peak, Arizona. The proposal deadline
+of UCAT/ASIAA for this 2015 spring semester is set on February 06, 2015 (Fri).
+
+The SMT currently supports a dual-polarization, 1-mm (211-275 GHz) receiver
+with ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, and a 0.4-mm (602-720 GHz) dual-polarization receiver with
+ALMA Band 9 mixers. The SMT control system supports both dual-polarization
+("2 IF mode"), and dual-polarization, dual-sideband observations ("4 IF mode"),
+as well as OTF mapping. The new 12m will support ALMA Band 3 dual-polarization
+SBS receiver (84-116 GHz) for this season.
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Information about Remote Observing
+can be viewed at: http://aro.as.arizona.edu/remote/remote.htm/. Graduate student
+participation is especially encouraged. For further information about remote
+observing and operational questions, please contact Tom Folkers, Operations
+Manager at tfolkers@email.arizona.edu .
+
+Proposers should consult the ARO website, http://aro.as.arizona.edu/, for
+technical specifications and to download updated Proposal Summary Sheet
+templates here: http://aro.as.arizona.edu/proposal_submission_information.htm .
+Proposal candidates are required to list on the Proposal Summary Sheet their
+requested observing blocks (LST ranges), dates on which they are NOT available
+to observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (44 degrees at the SMT).
+
+Proposals should consist of:
+1.  A Proposal Summary Sheet.
+2.  A brief scientific and technical justification (no more than 2 pages).
+3.  A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+
+Electronic submissions will be accepted in PDF format ONLY. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to
+kuan@asiaa.sinica.edu.tw by midnight (23:59 pm CST) February 06, 2015 (Friday).
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+===============================================================================
+
+> Date: Sun, 25 Jan 2015 06:46:48 +0800
+> From: Ya-Wen Tang <ywtang@asiaa.sinica.edu.tw>
+> Subject: announcement in TAN
+
+
+Dear Yi-Jehng, 
+
+Please help circulate the following announcement of job panel discussions in TAN. 
+Is it possible to circulate in TAN for the following two issues in case students/postdocs miss the first announcement? 
+If you think it is not necessary, it is also ok we just circulate once. 
+
+Thanks! 
+
+Tangtang. 
+
+--------------- 
+
+Panel discussions on career development and job options during East Asian Young Astronomers Meeting (EAYAM) 2015. 
+
+There will be panel discussions on the career development (11:30-12:30 on 2/10) and alternative job options (17:15-18:00 on 2/12) during the EAYAM meeting. Students and postdocs are welcome to attend. During the panel career development, we will invite faculties at various stage, from junior professor/researcher to senior director, to share their experiences.  
+For the panel on alternative job options, we will invite some directors and people in the industry to tell us what are the people they are looking for. The discussion will be in Chinese. Please sign up in the following website in advance if you plan to come to the panel on the alternative job options. 
+http://goo.gl/forms/2E2vGjxp4B 
+
+===============================================================================
+
+> From: <takakuwa@asiaa.sinica.edu.tw>
+> Subject: Official call for SMA proposals
+> Date: Mon, 26 Jan 2015 18:52:07 +0800
+> To: riaa <riaa@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw
+
+Dear All,
+
+Our SMA website has been updated for the SMA proposal call,
+and please regard this e-mail as the official call for the SMA proposals
+in the 2015A semester. The deadline is Feb.13 (Fri), 5 am in Taiwan.
+We would like to ask you to submit your proposals.
+
+http://sma.asiaa.sinica.edu.tw/
+http://sma.asiaa.sinica.edu.tw/proposal.php
+Joint Call for Proposals : http://sma1.sma.hawaii.edu/call.html
+
+Sincerely,
+Shigehisa Takakuwa (ASIAA SMA TAC)
+
+===============================================================================
+
+> Date: Tue, 27 Jan 2015 11:47:59 +0800
+> Subject: NTHU Astronomy Colloquium - 2015.02.06
+> From: Dani Chao <edcamel@gmail.com>
+> To: astro@asiaa.sinica.edu.tw
+
+
+*NTHU Astronomy Colloquium*
+Date:2015-02-06
+Time:14:00-15:00
+
+Title:
+The Reversal of the Star-Formation Density Relation in High Redshift
+Clusters
+
+Abstract:
+The star-formation density relation is one of the cleanest pieces of
+evidence of the effect of environment on galaxy evolution. We are used to
+the observations that clusters are dominated by "red and dead" galaxies
+especially at the densest cluster cores. As all galaxies must have been
+"star-forming" at some time, this indicates that some feature of these
+dense regions has acted to transform star-forming galaxies into the passive
+populations in the past. On the other hand, the fraction of star-forming
+galaxies in clusters indeed increases rapidly with redshift. However, this
+vigorously star-forming systems are generally found on the outskirts of
+clusters with z<1. Only recently, we started to identify strongly star
+forming galaxies at the very center of the cluster cores at z~1.5 and
+beyond. Thus, at these redshifts, the star-formation rate does not drop at
+the densest region anymore. In the talk, I will report our result of the
+extensive dusty star forming galaxies found in one massive cluster at
+z=1.46 using the SCUBA2 850um data, and discuss its impact to the formation
+of massive elliptical galaxies in clusters.
+
+Dani Chun-Yi Chao
+Institute of Astronomy, National Tsing Hua University
+
+===============================================================================
+
+> Date: Tue, 27 Jan 2015 13:49:00 +0800
+> Subject: Fwd: Tenure-Track position at Chiba U.
+> From: Pin-Gao Gu <gu@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues,
+
+I am forwarding the info about a faculty opening at Chiba Univ.
+
+Best wishes,
+Pingao
+ASIAA
+
+---------- Forwarded message ----------
+> From: <hanawa@faculty.chiba-u.jp>
+> Date: Mon, Jan 26, 2015 at 8:20 PM
+> Subject: Tenure-Track position at Chiba U.
+> To: <hanawa@cfs.chiba-u.ac.jp>
+> Cc: Ryoji Matsumoto <matsumoto.ryoji@faculty.chiba-u.jp>
+
+
+Dear colleagues,
+
+    We would appreciate it very much if you could circulate the enclosed
+=E2=80=9CCall for Application for
+a Tenure-Track Position at Chiba University=E2=80=9D to your young colleagu=
+es.
+
+with best regards,
+
+
+Tomoyuki Hanawa
+Center for Frontier Science
+Chiba University
+hanawa@faculty.chiba-u.jp
+
+Call for Application for a Tenure-Track Position at Chiba University
+Department of Physics, Graduate School of Science, Chiba University
+
+We are inviting applications for a tenure-track position at the rank of
+assistant professor for a 5-year term.
+
+1.      Job title, number of position:
+Assistant professor (a tenure-track position of a five year term), 1
+Tenure review will be held during the five-year term.  A successful member
+in the tenure assessment will be promoted to a tenured position at
+Department of Physics.
+
+2.      Research and Education Area:
+Astrophysics Theory
+Graduate School of Science is seeking a young theoretical astrophysicist as
+a tenure-track assistant professor (in principle as a tenure-track faculty
+provided by Chiba University Tenure-Track System).  The successful
+candidate is expected to conduct research and education in astrophysics
+theory to have significant achievement and expertise in numerical
+simulations.  The appointee will be engaged in education and research in
+graduate and undergraduate courses, including general education at Chiba
+University.
+
+3.      Starting Date:
+At the earliest possible date after July 1, 2015
+
+4.      Qualifications:
+PhD degree (or an equivalent) at the time of appointment is required.
+It is also required that no more than 7 years have passed since the receipt
+of the degree.
+Applicants should have a strong record original scientific research in the
+area specified above.  Also required is Japanese language proficiency for
+classes and administrative work, since commitment to teaching is essential.
+
+5.      Basic salary:
+Basic salary is determined in accordance with regulations of Chiba
+University and with consideration of qualification, work experience and
+achievement.
+
+6.      Application documents:
+(1)    Curriculum vitae (4 cm =C3=97 5 cm photo attached, telephone number,
+e-mail address)
+(2)    List of publications (Description style is arbitrary. List should be
+written on A4-size paper and be classified into (a) original research
+articles (non-refereed should be listed separately), (b) review articles,
+(c) books, (d) presentations at conferences, (e) scientific research
+grants, (f) awards).
+(3)    Reprints or copies of representative publications, 5 or less.
+(4)    Summary of research achievement and research plan. (Approximately 4
+pages in A4 paper)
+(5)    Teaching experience and ambitions for education. (1 page in A4 paper=
+)
+(6)    A letter of reference or two references (name, position, address,
+phone number and e-mail address) that we can contact.
+
+Submission of (1) - (6) in both print and electronic (MS word or PDF files
+saved in a CD-ROM) versions is required. All documents should be written in
+English or Japanese. The letter of reference should be sent separately.
+
+7.      Application deadline:
+8.      March 2nd, 2015 (JST)
+
+9.      Address for submitting the application:
+Professor Takashi Nakayama
+Department of Physics, Graduate School of Science, Chiba University
+1-33  Yayoi, Inage, Chiba 263-8522 JAPAN
+The application should be sent by registered mail, with =E2=80=9CApplicatio=
+n
+documents for assistant professor position in the Department of Physics=E2=
+=80=9D
+written in red on the envelope.  Application documents will not be
+returned.  Personal information is protected by the relevant Japanese law
+and the rules of Chiba University.  (Although your application is kept
+secret, inquiry may be made to the references specified in the Application
+Form)
+
+10.  Other information:
+In the course of selection procedure, those who pass the first step based
+on the application documents submitted will be called for an interview at
+Chiba University.  Travel expenses will not be paid.  The final decision
+will be made by the Evaluation and Selection Committee for Tenure-Track
+Positions.  Selection result will be notified individually.  In case of the
+equivalent of education and research results, female and/or non-native
+Japanese speaker and/or person who has some experiences of working in other
+institution will be given priority.
+For any inquiry, please contact to Prof. Tomoyuki Hanawa, Department of
+Physics, Graduate School of Science, Chiba University (phone:
++81-43-290-3525; E-mail: hanawa@faculty.chiba-u.jp <mailto:
+hanawa@faculty.chiba-u.jp>).
+
+===============================================================================
+
+> Date: Thu, 29 Jan 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Wing-Kit Lee (ASIAA)
+Topic:         What do we know about barred spiral galaxies?
+Time:         2/2 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+I will briefly introduce some interesting aspects of gas dynamics and star formation in barred spiral galaxies. The central bar not only drives the gas into the center of the galaxy, but also excites spiral density waves in the outer part. Questions such as what are differences between them and grand-design spirals will be discussed.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Sara Beck (Tel Aviv University)
+Topic:         The Youngest Globular Clusters: Where They Are Born and How They Survive
+Time:         2/4 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Where are globular clusters forming today? Not in our Galaxy; none of the protoclusters in the Milky Way is likely to survive as a bound cluster.  The candidate proto-globulars in the nearby Universe are the optically hidden, deeply embedded super star clusters in starburst galaxies, where hundreds or thousands of OB stars form in volumes less than a few parsec across. Star formation eficiency (SFE) in these sources is 40 − 70%, more than an order of magnitude greater than in our Galaxy; why so high? OB stars create energetic feedback that will work to disperse the cluster: how do the clusters survive, and what do they do to the surrounding clouds? We report on SMA observations that may show how to drive high SFE, and infrared spectra of metal lines with true resolution of 3 − 5 km/sec that trace the kinematics of the ionized gas and its interaction with the ambient molecular material.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Lu Wei-Chun (ASIAA)
+Topic:         LabVIEW introduction
+Time:         2/4 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

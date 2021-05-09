@@ -1,0 +1,255 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Dec 16 17:24:22 2009
+Date: Wed, 16 Dec 2009 17:21:48 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Dec 09 - 16, 2009)
+
+============================================================================== 
+
+In this issue (Dec 09 - 16, 2009)
+
+1. AP-RASC'10 Call for Papers
+2. Senior Project Manager Position for Dark Energy Survey Data Management
+3. ASIAA colloquia (Dec 16-17): Tomoki Morokuma (NAOJ) 
+                                Nozomu Tominaga (Konan U.) 
+                                Luis Ho (Carnegie Obs.) 
+
+============================================================================== 
+
+> From: INOUE Makoto <inoue@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: AP-RASC'10 Call for Papers
+> Date: Fri, 11 Dec 2009 13:50:55 +0800
+
+
+Dear Yi-Jehng,
+
+Could you circulate the following information to TAN?
+
+Thank you.
+
+Best regards,
+Inoue
+
+-------------------------------------------------------------
+	Information on Call for Papers for
+
+2010 Asia-Pacific Radio Science Conference
+
+		at Toyama, Japan
+
+	September 22-26, 2010
+
+Abstract submission deadline: March 31, 2010
+
+The details are available at the website: http://www.ap-rasc10.jp/
+
+
+NB: AP-RASC is the Asia-Pacific regional meeting of URSI  
+(International Union of Radio Science),
+held once in three years between the URSI General Assemblies.   
+Commission J is for Radio Astronomy.
+-------------------------------------------------------------
+
+============================================================================== 
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: asall10@astro.ncu.edu.tw, astro@asiaa.sinica.edu.tw
+> Subject: Fw: Senior Project Manager Position for Dark Energy Survey Data Management
+> Date: Wed, 16 Dec 2009 08:21:10 +0800
+
+
+---------- Forwarded Message -----------
+> From: "James Myers" <jimmyers@ncsa.uiuc.edu>
+> To: <des-dm@cosmology.illinois.edu>
+> Sent: Tue, 15 Dec 2009 16:38:58 -0600 (CST)
+> Subject: Senior Project Manager Position for Dark Energy Survey Data Management
+
+All,
+
+The search for a Senior Project Manager for the Dark Energy Survey Data
+Management effort is now open and I'd like to ask for your help in
+advertising the opportunity and reaching out to high-quality candidates.
+This is a critical position on the DESDM team and one with significant
+opportunities in many directions for the right candidate. The position is
+advertised on the NCSA website at the URL below as well as on the U.
+Illinois job board. It will be advertised via Physics Today and AAS online
+services soon if it is not already up. I've included the announcement
+below and would ask you to forward this note as you see fit to potential
+candidates. If you have any questions, please feel free to contact me.
+(Please note that while the listed deadline is Jan 8th, we will consider
+extending the deadline based on the pool of candidates that apply and I
+would strongly encourage potential candidates to contact us even if they
+will not be able to submit all required information by the deadline.)
+
+Thanks,
+
+  Jim
+
+James D. Myers, PhD
+
+DES DM Project PI
+
+Associate Director, Cyberenvironments
+
+National Center for Supercomputing Applications
+
+University of Illinois @ Urbana Champaign
+
+217-244-1934
+
+jimmyers@ncsa.uiuc.edu
+
+Senior Project Manager
+
+Cyberenvironments and Technologies Directorate/Dark Energy Survey
+
+Overview:
+
+The National Center for Supercomputing Applications at the University of
+Illinois Urbana-Champaign has one Senior Project Manager position
+available. The senior project manager will provide coordination and
+leadership for the development and implementation of the
+<http://cosmology.illinois.edu/DES/> Dark Energy Survey (DES) Data
+Management (DM) System. The DES is an international project developing a
+new astronomical camera and astronomical analysis capabilities with the
+goal of further elucidating the nature of "dark energy," the source of an
+observed repulsive force in the universe. The project will be responsible
+for managing hundreds of terabytes of observational data and disseminating
+roughly 1 petabyte of data products to the community. This position will
+also be responsible to the project principal investigator for refining
+high-level plans into detailed work specifications, providing daily
+management of development staff, managing risks and administering change
+control policies, helping to translate scientific requirements into
+appropriate cyberinfrastructure development, overseeing project reporting
+activities and having the overall responsibility to ensure that staff and
+resources are appropriately directed.
+
+Required Education and Experience:
+
+.         MS degree in Astronomy, Physics, Computer Science, Systems
+Engineering, or related field required (PhD preferred). Alternative degree
+fields will be considered/accepted if accompanied by equivalent experience
+(depending on nature and depth of experience as it relates to current NCSA
+technologies).
+
+.         3 or more years experience in project management.
+
+.         Experience in developing and executing long-range and
+short-range plans and schedules.
+
+Preferred Experience:
+
+.         Experience in the management of large-scale facility development
+or large-scale scientific software development efforts as well as in
+multidisciplinary and distributed projects/teams.
+
+.         Experience with large scale data processing, high performance
+computing workflows, large databases, astronomy, and/or image processing.
+
+This is a regular academic professional position at NCSA and is a
+renewable 12/12, 100%-time appointment with regular University benefits.
+Salary is commensurate with experience and start date will be as soon as
+possible after the close date of the search. Interviews may be conducted
+before the closing date, although no hiring decisions will be made until
+after the search has closed.
+
+For full consideration, Please create your candidate profile at
+<http://jobs.illinois.edu/> jobs.illinois.edu and upload a letter of
+application, resume, and three letters of recommendation by the close
+date, January 08, 2010. All requested information must be submitted for
+your application to be considered.
+
+For further information regarding our application procedures, you may
+visit  <http://www.ncsa.illinois.edu/> www.ncsa.illinois.edu, contact NCSA
+at (217) 265-0618 or email
+<javascript:noSpam('career',%20'ncsa.illinois.edu')>
+career@ncsa.illinois.edu.
+
+The  <http://illinois.edu/> University of Illinois is an Affirmative
+Action/Equal Opportunity employer.
+------- End of Forwarded Message -------
+
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+============================================================================== 
+
+> Date: Tue, 15 Dec 2009 01:31:47 +0800   
+> From: "Chiang Lung-Yih" <lychiang@asiaa.sinica.edu.tw>         
+> To: iaa@asiaa.sinica.edu.tw
+> CC: astro@asiaa.sinica.edu.tw
+> Subject: [Colloquium] ASIAA Colloquium this week
+   
+Dear All, 
+
+This week we have 3 short-term visitors: Dr. Tomoki Morokuma from NAOJ and Dr. Nozomu 
+Tominaga from Konan University are visiting on 12/16 and 17, and Dr. Luis Ho from 
+Carnegie Observatories on 12/17 and 18. 
+
+On 12/16 and 12/17, Dr. Morokuma and Dr. Tominaga will present their talks 
+
+    "Variability Surveys for Low-Luminosity Active Galactic Nuclei" 
+and 
+
+    "Core-collapse supernovae in early and distant universe", 
+
+respectively at 2pm, which will be followed by Dr. Luis Ho's talk at 4:30pm on 12/17 
+
+    "Coevolution of Black Holes and Galaxies: Recent Developments" 
+
+Note that Dr. Luis Ho's talk has to be arranged as late as 4:30pm due to the IAA outing 
+the next day (12/18). 
+
+Please mark your calendar and remember to join the event. 
+
+Lung-Yih 
+
+------------------------------------------------------------- 
+Speaker  : Dr. Tomoki Morokuma (NAOJ) 
+Title    : Variability Surveys for Low-Luminosity Active Galactic Nuclei 
+Abstract : http://www.asiaa.sinica.edu.tw/activity/colloquium.php 
+Time     : 12/16 (Wednesday) 2 pm 
+Location : ASIAA Room 1203 
+------------------------------------------------------------- 
+Speaker  : Dr. Nozomu Tominaga (Konan U.) 
+Title    : Core-collapse supernovae in early and distant universe 
+Abstract : http://www.asiaa.sinica.edu.tw/activity/colloquium.php 
+Time     : 12/17 (Thursday) 2 pm 
+Location : ASIAA Room 1203 
+------------------------------------------------------------- 
+Speaker  : Dr. Luis Ho (Carnegie Obs) 
+Title    : Coevolution of Black Holes and Galaxies: Recent Developments 
+Abstract : http://www.asiaa.sinica.edu.tw/activity/colloquium.php 
+Time     : 12/17 (Thursday) 4:30 pm 
+Location : ASIAA Room 1203 
+------------------------------------------------------------- 
+
+--------------------------------------- 
+Lung-Yih Chiang 
+Assistant Research Fellow 
+Institute of Astronomy and Astrophysics 
+Academia Sinica, Taiwan 
+
+_______________________________________________ 
+Iaa mailing list 
+Iaa@asiaa.sinica.edu.tw 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		                               (or +02-2366-5449)
+To check the back issues:	     <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

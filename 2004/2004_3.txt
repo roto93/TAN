@@ -1,0 +1,218 @@
+From astro@.MISSING-HOST-NAME. Sat Jan 10 23:54:31 2004
+Date: Tue, 6 Jan 2004 12:12:31 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue December 26, 2003 - January 06, 2004)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (December 26, 2003 - January 06, 2004):
+
+1. Confirmation needed for one comet please?
+2. Astronomy Colloquium at NTHU/IoA (Jan 14): Stuart Bowyer (UC-Berkeley)
+3. ASIAA Astronomy Colloquium (Jan 07):  Chau-Ching Chiong (MPIfR)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Message-ID: <001d01c3d01e$df8d94e0$4d21c8cd@c6s7s1>
+From: "Cliff Besson" <crbesson@mts.net>
+To: <astro@asiaa.sinica.edu.tw>
+Subject: Confirmation needed for one comet please?
+Date: Wed, 31 Dec 2003 22:22:30 -0600
+
+Dear sirs/madames:
+    We have been working on some orbits of past comets and we need =
+confirmation on one of them for our research paper.  We wonder if you =
+might be able to help us?
+    There is a book written by Chinese astronomers of the past sitings =
+of a number of comets but I am told that the book is out of print.  =
+Perhaps you may have the book or know of someone who has one?  The book =
+is A Comprehensive Collection of Ancient Chinese Astronomical Records =
+(Zhongguo gudai tianziang jilu zongji), published in Nanjing in 1988.   =
+The book was written by Mrs. Jiang and Mr. Xu, a husband and wife team.  =
+  I sure hope that you can help us. =20
+    Perhaps you might know how I can get in touch with them, because =
+surely they have a copy of their own book.=20
+    I would like to know if there is any record in that book or in any =
+other book on the history of comets of any being seen at these =
+particular times in the past :  933/March, 397/Jul, 140BC/Feb/, =
+675BC/Sept., 1211BC/May, 1746BC/Dec, 2282BC/Aug, or 2818BC but with a =
+perihelion of about 0.85 AU?
+     It was seen in 1468 at a perihelion of 0.85.  Here is a list of =
+some comets and their orbits that we just worked out lately.  It is from =
+a spreadsheet program.
+     We sure hope that you can help us, please?
+
+      Comets considered
+     Days
+     Most Recent Perihelions=20
+     Days
+     <Most likely early match Orbits from the JDN
+     seen or closest encounters seen figures but in years.
+     with our Sun
+
+      Hyakutake (1996)
+     30
+     1996/May/01 at 0.23 AU
+     30
+     400/Feb/25 at 0.21 AU
+     1596.179122952
+    =20
+      Ikeya-Seki (1965)
+     30
+     1965/Oct/21 0.008
+     48
+     1843/Feb/27 0.006
+     122.6473776514
+    =20
+      Halley (last time in 1986)
+     80?
+     1986/Feb/09 0.587
+     35
+     87BC/Aug/06 0.59
+     76.7230080585249
+    =20
+      Great January of 1910
+     20
+     1910/Jan/17 0.13
+     24
+     1665/Apr/24 0.11
+     244.7307460209
+    =20
+      Coggia (1874)
+     50
+     1874/Jul/09 0.68
+     64
+     1240/Jan/21 0.67
+     634.4447324238
+    =20
+      Hale-Bopp (1996)
+     215
+     1997/Apr/01 0.91
+     26
+     390/Sep/05 0.92
+     1606.5698874
+    =20
+      Bennett (1970)
+     80
+     1970/Mar/20 0.54
+     120
+     1532/Oct/18 0.52
+     437.3919360954
+    =20
+      West (1976)
+     55
+     1976/Feb/25 0.20
+     26
+     905/Apr/26 0.20
+     1070.82090423
+    =20
+      Great Comet of 1901
+     38
+     1901/Apr/24 0.24
+     83
+     1533/Jun/15 0.25
+     367.8298786797
+    =20
+      Great Comet of 1861
+     90
+     1861/Jun/12 0.82
+     85
+     1264/Jul/20 0.82
+    =20
+
+Respectively yours,
+Cliff Besson=20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Message-ID: <3FF8C7D0.D7D57C44@phys.nthu.edu.tw>
+Date: Mon, 05 Jan 2004 10:11:28 +0800
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: Astronomy Colloquium at NTHU/IoA on 1/14
+
+-------------------------------------------------------------
+                Astronomy Collquium
+             
+               Institute of Astronomy
+           National Tsing Hua University
+
+Extreme Ultraviolet Emission in Clusters of Galaxies
+           
+                Prof. Stuart Bowyer
+       (Space Science Laboratory, UC Berkeley)
+         
+          3:30pm, January 14, 2004 (Wednesday)
+             Room 620, Phys Bldg, NTHU
+Abstract
+
+Clusters of galaxies are among the largest scale structures
+in the Universe. The general characteristics of these objects 
+will be reviewed. Observations with EUVE, ROSAT, and BeppoSAX 
+have shown that some clusters of galaxies produce intense EUV 
+emission. These observations have produced considerable interest; 
+over 100 papers have been published on this topic in the refereed 
+literature.
+
+The more notable suggestions as to the source
+of this radiation include a "warm" (10^6 K) intracluster medium which, 
+if present, would constitute the major baryonic component of the 
+universe, and inverse Compton scattering of cosmic microwave background 
+photons against low energy cosmic rays. The source of these particles 
+has been suggested to be an old (~Giga year) population of cluster 
+cosmic rays; particles associated with relativistic jets in the cluster; 
+and cascading particles produced by shocks from sub-cluster merging. 
+
+The observational situation is equally uncertain with many reports of 
+detections which have been subsequently contradicted by analyses carried 
+out by other groups. Evidence supporting a thermal and a non-thermal 
+origin have been reported. The existing EUV, FUV, and optical data are 
+reviewed and clarified. A new source mechanism has just been proposed 
+that satisfies all aspects of the observations. This model will be 
+discussed in the context of the data.
+
+--
+-------------------------------------------------------------
+Hsiang-Kuang Chang                   hkchang@phys.nthu.edu.tw
+Associate Professor
+Department of Physics                      Tel: 886-3-5742952
+National Tsing Hua University              Fax: 886-3-5723052
+Hsinchu 300                                
+Taiwan, ROC          URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Mon, 05 Jan 2004 13:50:36 +0800
+From: DINH VAN TRUNG <trung@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, trung@asiaa.sinica.edu.tw
+Subject: colloquium next wednesday Jan 07, 2004.
+
+Dear all,
+
+ We will have a colloquium this Wednesday (01/07)
+ by Dr. Chau Ching Chiong from MPIFR. His main research interest
+ is star formation. He will talk about his recent work using
+ the CHAMP bolometer installed on CSO in Mauna Kea.
+
+        More information about IAA colloquium talks can be found at the
+  following web url, "http://www.asiaa.sinica.edu.tw/act/colloquium.php"
+
+
+ Regards,
+
+ Trung
+
+ --------------------------- ASIAA Colloquia ---------------------------
+
+  Speaker : Dr. Chau Ching Chiong
+  Title   : CHAMP observations on the W51 region
+  Time    : 01/07 (Wednesday) 2:00 pm
+  Location: ASIAA Room 716
+  URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+
+------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,98 @@
+
+> Date: Wed, 24 Sep 2008 09:35:44 +0800   
+> From: "Jeremy Lim" <jlim@asiaa.sinica.edu.tw>         
+> To: kuan@asiaa.sinica.edu.tw
+> Subject: pls post in TAN - thanks!
+
+Dear Colleagues, 
+    As mentioned in the last Call for CFHT-Taiwan Proposals, the CFHT-Taiwan 
+Time Assignment Committee (TAC) will be giving increasing weight to the status 
+of previously executed projects in allocation of future observing time on the 
+telescope.  Prompt publication of already executed projects is vital for the 
+scientific health of our community, and necessary to secure future funding to 
+support our use of the CFHT. 
+    To help the PIs, TAC, and entire Taiwan community keep track of the status 
+of individual projects, a WEB page has been created to allow individual PIs to 
+record the current status of their projects.  Please do so before 27 Oct 2008, 
+the date of the next CFHT-T User's Meeting.  Note also that the next CFHT-T 
+TAC meeting is anticipated for 3 November 2008. 
+
+    If you are a member of the ASIAA, you can access the WEB page by following 
+the instructions below. 
+
+IAA home page -> OIR -> CFHT observations -> Semester (ie. 2008A) -> Project 
+Status 
+-> Status of CFHT Projects for ASIAA Users 
+
+or use the link: 
+
+https://www.asiaa.sinica.edu.tw/Internal/cfht_project/ListStatus.php 
+
+Please update your personal project status and here we explained the meaning 
+of selected fields. 
+
+Processing : the date your data are processed. 
+Stacking   : the date your data are stacked. 
+Delivery   : the date you get your data (by FTP or tape). 
+Analyzed   : the date you (expect to) finish the data analysis. 
+
+Paper Status: 
+   Please fill in the paper status by selecting the stage you are right now. If
+you are going to merge different project(s) to publish a paper or publish 
+another paper(s) with this dataset, please write down your comment in the 
+field "Note".
+     
+For more information on updating or any question, please feel free to contact 
+Chi-Hun Yan 
+(chyan@asiaa.sinica.edu.tw) 
+
+If you are not a member of the ASIAA, you can access the WEB page by following
+the instructions below.
+
+IAA home page -> OIR -> CFHT observations -> Semester (ie. 2008A) -> Project 
+Status 
+
+or use the link: 
+
+https://oir.asiaa.sinica.edu.tw/cfht/ 
+
+Please create the account for yourself to access the database by filling the 
+form "Create an account" with the appropriate information.  For example: 
+
+English Name 
+    Lastname :      Ip 
+    Firstname:   Wing-Huen 
+E-mail address: wingip@astro.ncu.edu.tw 
+
+Then you can set the password and verify it.  Once you click "Submit", we will 
+check your information and grant access provided your information is 
+validated.  In your next visit, you can simply use your E-mail address and 
+password you to log in. 
+
+Processing : the date your data are processed. 
+Stacking   : the date your data are stacked. 
+Delivery   : the date you get your data (by FTP or tape). 
+Analyzed   : the date you (expect to) finish the data analysis. 
+
+Paper Status: 
+    Please fill in the paper status by selecting the stage you are right now.  If 
+you are going to merge different project(s) to publish a paper or publish 
+another paper(s) with this dataset, please write down your comment in the 
+field "Note".     
+     
+For more information on updating or any question, please feel free to contact 
+Chi-Hun Yan 
+(chyan@asiaa.sinica.edu.tw) 
+
+sincerely, 
+Jeremy Lim, PI CFHT-Taiwan program 
+Wang Shiang-Yu, co-PI CFHT-Taiwan program 
+Yan Chi-Hung 
+
+-------------------------------------------------------------- 
+Jeremy Lim 
+Associate Research Fellow 
+Institute of Astronomy & Astrophysics, Academia Sinica (ASIAA) 
+Phone: 886-2-3365 2200 x727 
+FAX: 886-2-2367 7849 
+

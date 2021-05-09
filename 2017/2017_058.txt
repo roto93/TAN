@@ -1,0 +1,43 @@
+> Date: Thu, 13 Apr 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Min-Kai Lin (ASIAA)
+Topic:         Dusty disk-planet simulations
+Time:         4/17 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+I will present ongoing simulations to study the interaction between protoplanetary disks and embedded protoplanets using a modified version of the PLUTO code. I will show how dusty disk-planet torques can differ from that in pure gas disks, which is considered in most previous studies.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Andrew Youdin (University of Arizona)
+Topic:         The Route to Planetesimals
+Time:         4/19 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+It has long been difficult to understand how dust grains could grow past the “meter-size barrier” to become super-km scale planetesimals, the solid building blocks of planets.  Daunting obstacles include the  rapid radial drift of solids towards the star and the tendency of many collisions to result in destruction or bouncing instead of growth. The route to  planetesimals focuses on two broad mechanisms.  First finding the circumstances that may lead to more effective collisional growth towards or even beyond the meter-size barrier.  Second, (aero)dynamical mechanisms to concentrate smaller solids into gravitationally bound planetesimals.  The classic dynamical mechanism is a gravitational instability of the particle disk.  In the streaming instability mechanism, drag forces and radial drift can automatically produce strong particle clumps.  Recent simulations have explored the viability of the streaming instability across a broad range of parameter space.  I wil!
+l asses the viability of the streaming instability and other planetesimal formation mechanisms, including a discussion of the large scale dust structures observed in protoplanetary disks.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Laurent Pagani (Observatoire de Paris)
+Topic:         Deuterium, a swiss-knife to study star-formation
+Time:         4/21 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Though we understand the main steps which lead from diffuse gas to a newborn star with its nascent planets, a number of details remain obscur and need clarification. One of the least understood steps is the formation and collapse of the prestellar core, in the dark cloud. This is due to the core being extremely cold (down to 6 K), deeply embedded in the cloud and largely depleted of most molecular species. Therefore almost no tracer is available to study this phase in detail. Apart from dust itself (it would require a second talk to discuss it), the main tracers are H2D+, N2H+, N2D+ and DCO+ (the NH3 family is another possibility). 3 species out of 4 carry a Deuterium. Why are they abundant enough to be detected when the cosmic D/H ratio is as low as 10^-5 and what can we learn from their presence ? In the presentation, I will illustrate 3 different measurements we can perform thanks to the peculiar deuterium chemistry: the age of clouds, the age of prestellar cores and the !
+depletion profile of CO and N2 in these cores, which is a prerequisite to study the interaction of grain surface chemistry (ices) with the gas phase in the dense cores. Deuterium appears as a swiss-knife to study star formation.
+
+==============================================================================

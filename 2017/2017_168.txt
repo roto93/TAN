@@ -1,0 +1,53 @@
+> Date: Thu, 12 Oct 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Neal Turner (NASA/JPL)
+Topic:         Starlight Reshapes Planetary Nurseries
+Time:         10/17 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Many protostellar disks show central cavities, rings or spiral arms
+likely caused by low-mass stellar or planetary companions, yet few
+such features are conclusively tied to bodies embedded in the disks.
+Even small features on the disk's surface cast shadows, because the
+starlight grazes the surface.  We therefore focus on accurately
+computing the disk's thickness, which depends on its temperature.  We
+present models with temperatures set by the balance between starlight
+heating and radiative cooling, and that are in vertical hydrostatic
+equilibrium.  The planet has 20, 100, or 1000 Earth masses, ranging
+from barely enough to perturb the disk significantly, to clearing a
+deep tidal gap.  The hydrostatic balance strikingly alters the model
+disk's appearance.  The planet-carved gap's outer wall puffs up under
+starlight heating, throwing a shadow across the disk beyond.  The
+shadow appears in scattered light as a dark ring that could be
+mistaken for a gap opened by another planet.  The surface brightness
+contrast between outer wall and shadow for the 100-Earth-mass planet
+is almost an order of magnitude greater than a model neglecting the
+temperature disturbances.  The shadow is so deep it largely hides the
+planet-launched spiral wave's outer arm.  Temperature gradients are
+such that outer low-mass planets undergoing orbital migration will
+converge within the shadow.  Furthermore, the temperature
+perturbations affect the shape, size and contrast of features at
+millimeter and centimeter wavelengths.  Thus, starlight heating and
+radiative cooling are key factors in the appearance of protostellar
+disks with embedded planets.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Sergei A. Levshakov (A. F. Ioffe Physical-Technical Institute)
+Topic:         Probing the fundamental constants of nature over cosmological time-scales
+Time:         10/19 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The measurements of the fundamental constants of nature - the fine structure constant, alpha, and the electron-to-proton mass ratio, mu - using astronomical spectra of atoms and molecules are reviewed. The current results obtained from observations of dark clouds in the Milky Way, HII zones in the neighbouring galaxy M33, and high-redshift galaxies at z ~ 6 are summarized. Prospects for future observations are discussed.
+
+==============================================================================

@@ -1,0 +1,239 @@
+From astro@iaa17.asiaa.sinica.edu.tw Thu Apr  8 01:28:47 2010
+Date: Thu, 8 Apr 2010 01:28:08 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Apr 03 - 07, 2010)
+
+============================================================================== 
+
+In this issue (Apr 03 - 07, 2010)
+
+1. ASIAA Job Opening: SMA 2nd-shift operator
+2. ASIAA Colloquium (Apr 09): Pavlos Protopapas (CfA)
+3. Molecules in Galaxies conference (July 26-30, 2010)
+
+============================================================================== 
+
+> Date: Wed, 7 Apr 2010 17:35:58 +0900
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: Job opening- test
+
+Dear Yi-Jehng,
+
+
+We are now seeking for the SMA observing assistant in Taiwan.
+This is a part time job, and the duty is carrying our the second-shift operation of the array
+ from Taiwan (every Friday, 8 p.m. -- (usually) 3 a.m.).
+In addition to this, the person is supposed to stay in Hawaii for several weeks per year
+in order to help the array operation at the summit and to maintain the operation skill.
+
+
+Would you mind if I ask you to post this information to TAN?
+
+
+The job description is in the following URL,
+http://www.asiaa.sinica.edu.tw/jobopening/ad.php?i=6e55018d7743c0aac9bebdcad74c77b5
+
+
+Thank you,
+Naomi 
+ 
+============================================================================== 
+
+> From: "Wei-Hao Wang" <whwang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw,
+>     Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> Subject: Re: [Colloquium] Colloquium talk this week
+> Date: Tue, 6 Apr 2010 23:26:48 +0800
+
+
+Dear All,
+ 
+We have one colloquium talk this week.
+Please mark your calendar.
+
+Cheers,
+Wei-Hao
+
+____________________________________________________
+Speaker:    Dr. Pavlos Protopapas (CfA)
+Title:           Automatic classification of variable stars using machine learning techniques
+Abstract:     http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+Time:           4/09 (Friday) 2 pm
+Location:     ASIAA Room 1203
+____________________________________________________
+
+============================================================================== 
+
+> Date: Wed, 7 Apr 2010 22:36:48 +0800 (CST)
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>     asall10@astro.ncu.edu.tw
+> Subject: Molecules in Galaxies conference (fwd)
+
+Another conference information worth circulating.
+
+Wen Ping
+
+---------- Forwarded message ----------
+> Date: Wed, 7 Apr 2010 11:50:03 +0100
+> From: mmconf <mmconf@physics.ox.ac.uk>
+> To: mmconf mmconf <mmconf@astro.ox.ac.uk>
+> Subject: Molecules in Galaxies conference
+
+************************************************************************
+
+                   Oxford Physics Conference Series
+                       MOLECULES IN GALAXIES
+
+                University of Oxford, 26-30 July 2010
+                 http://www.physics.ox.ac.uk/mmconf/
+
+This is the first announcement for the conference "Molecules in
+Galaxies", to be held at the University of Oxford, United Kingdom, on
+26-30 July 2010.
+
+Programme:
+----------
+
+Understanding galaxy formation and evolution is at the heart of modern
+astronomy. Central to that goal is the necessity to improve our
+understanding of star formation, and thus the evolution of the
+interstellar medium of galaxies, where molecular gas plays a key
+role. Given the numerous current instrumental efforts at mm and sub-mm
+wavelengths, a conference reviewing our knowledge of the field and
+delineating future research directions is both timely and exciting.
+
+The conference will therefore cover a large fraction of research
+related to molecular gas, star formation and dust in galaxies, both
+near and far. Topics include but are not restricted to:
+
+Molecular Gas Census:
+     Galactic Center and Milky Way
+     Magellanic Clouds and local galaxies
+     Dwarf, spiral, lenticular, elliptical galaxies
+     (Central) cluster galaxies and cooling flows
+     High-redshift galaxies, radio galaxies, QSOs
+     Cosmological accretion
+Molecular and Atomic Line Diagnostics:
+     Physical conditions
+     Excitation mechanisms (PDRs, XDRs)
+     Inter-relationships of molecular tracers
+     Atomic-molecular balance
+     Starburst and AGN evolution
+     Chemistry
+Star Formation:
+     SF census (normal galaxies, LIRGS, ULIRGS; field vs clusters)
+     SF rate, efficiency and history
+     SF laws
+     SF feedback and outflows
+Dust:
+     Formation and evolution
+     Dependence on environment (Milky Way, low-metallicity galaxies,
+high-z galaxies)
+     Molecular gas-dust relationship
+     PAHs
+     FIR/sub-mm lines and diagnostics
+     Early Herschel results
+
+Invited speakers include:
+Leo Blitz (*), Martin Bureau, Daniela Calzetti, Bruce Draine, Dusan
+Keres, Mark Krumholz, Fred Lahuis, Crystal Martin, Mikako Matsuura,
+Chris McKee, Desika Narayanan, Erik Rosolowsky, Marco Spaans, Gordon
+Stacey, Linda Tacconi, Jean Turner, Fabian Walter, Christine Wilson
+(* to be confirmed)
+
+Full information on the scientific rationale, scientific programme,
+social programmme, venue, accomodation, transport, etc, is available
+on the symposium web site:
+http://www.physics.ox.ac.uk/mmconf/
+
+Registration and Abstract Submission:
+-------------------------------------
+
+Registration and abstract submission are now open, with a closing date
+of Friday 30 April 2010:
+http://www.physics.ox.ac.uk/mmconf/registration/
+
+Summer School:
+--------------
+
+A three-day summer school will take place just before the conference,
+on 21-23 July 2010. The school is jointly organised by the
+Astrophysics Department of the University of Oxford and the Global
+Center of Excellence "Quest for Fundamental Principles in the
+Universe" of the Physics Department at Nagoya University. It is
+intended to give students and postdoctoral fellows both a much broader
+and a more basic overview of topics that will be covered during the
+conference.
+
+Under the heading "The Gaseous Universe", the idea of the school is to
+cover the physical mechanisms and observational diagnostics available
+at each temperature and thus wavelength range. The exact programme is
+still under construction, but confirmed speakers and topics include:
+Yasuo Fukui, University of Nagoya (Sum-mm/mm and Molecular
+Astrophysics); Hidehiro Kaneda, University of Nagoya (Space Infrared
+Astrophysics); Marc Sarzi, University of Hertfordshire (Warm/Ionised
+Gas and NIR-Optical-UV Line Ratio Diagnostics); Adrianne Slyz,
+University of Oxford (Computational Hydrodynamics in Galaxy
+Formation).
+
+Participation in the conference is not a prerequisite for
+participation in the school, and there is no school registration
+fee. However, a separate school registration is required:
+
+http://www.physics.ox.ac.uk/mmconf/school/school_reg.shtml
+
+CASA Workshop:
+--------------
+
+This is still under discussion, but it is likely that a two-day
+hands-on workshop on CASA will take place before the conference and
+summer school, on 19-20 July 2010. CASA is the data reduction and
+analysis software for the next generation of radio telescopes,
+including ALMA. Information will appear on the conference website in
+due course.
+
+Critical Dates:
+---------------
+
+30 April 2010: Deadline, registration and abstract submission
+TBD May  2010: Deadline, payment (registration fee, block-booked
+accomodation, etc)
+21 July  2010: Start of summer school
+26 July  2010: Start of conference
+
+SOC:
+----
+
+Martin Bureau (chair), Susanne Aalto, Leo Blitz, Leonardo Bronfman,
+Paola Caselli, Francoise Combes, Yasuo Fukui, George Helou, Paul Ho,
+Rob Kennicutt, Carol Lonsdale, Fabian Walter, Lisa Young, Min Yun
+
+Please circulate this announcement within your institute if at all
+possible. We hope to see you in Oxford,
+
+Martin Bureau, chair LOC/SOC
+http://www.physics.ox.ac.uk/mmconf/
+mmconf@astro.ox.ac.uk
+
+************************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

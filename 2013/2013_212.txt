@@ -1,0 +1,99 @@
+> Date: Fri, 22 Nov 2013 17:35:11 +0800
+> From: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> CC: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> Subject: ALMA Workshop on Long Baseline and Phase Correction
+
+Dear all,
+
+ALMA Cycle 2 Call for Proposal has been announced, and many
+Cycle 0 results has started to publish these days.  On the
+other hand, ALMA developments are still ongoing actively,
+and one of the highly requested development items from
+scientific point-of-view is the "long baseline."  To realize
+the long baseline observations, understanding the effects of
+atmosphere to millimeter and submillimeter wave propagation,
+testing the phase correction methods, and characterizing the
+instruments are essential.
+
+To enhance the discussion for the "long baseline," we are
+going to hold the
+  "ALMA Workshop on Long Baseline and Phase Correction"
+on Dec.25 (Wed) and 26(Thu) at the headquarter of the
+National Astronomical Observatory of Japan (NAOJ) in Mitaka,
+Tokyo.  It is planned to have talks about the long baseline
+and phase correction tests done so far using ALMA and other
+observatories, atmospheric researches, and characterizations
+of various instruments, followed by discussions about coming
+longer baseline and phase correction tests and further
+developments of instruments for ALMA.  We attached the
+current tentative program below (it may subject to change).
+
+This workshop is supported by the ALMA Workshop grant of the
+NAOJ Chile Observatory.  The budget is extremely limited, so
+we cannot support any travel fee (if you are living in Japan,
+please contact about the travel support independently).
+
+Note that this workshop will be held in English.
+
+If you would like to attend the workshop, and/or give a oral
+presentation, please submit the following format to
+  satoki_at_asiaa.sinica.edu.tw
+(please change "_at_" to "@").  We are looking forward to
+seeing you at the workshop.
+
+
+------- Registration Format (Start) -------
+Name:
+Affiliation:
+Email address:
+Oral Presentation:  YES  NO
+  Title:
+
+Workshop dinner (on Dec.25):  YES  NO
+------- Registration Format (End) -------
+
+
+------- Tentative Program -------
+"ALMA Workshop on Long Baseline and Phase Correction"
+
+Date: Dec.25(Wed) & 26(Thu)
+Location: NAOJ Mitaka Rinkou-Shitsu $B!JNX9V<<!K(B
+
+Tentative Program:
+12/25 (Wed)
+13:00 Opening Remark
+      S. Matsushita (ASIAA)
+13:10 "ALMA Status and Plan"
+      R. Kawabe (NAOJ)
+13:40 "Phase Fluctuation at ALMA 3 km Baseline"
+      S. Matsushita (ASIAA)
+14:10 "ALMA Fast Switching Test Results and Future Plan"
+      Y. Asaki (ISAS/JAXA)
+14:40 Coffee Break
+15:00 "Multi-Frequency (22 + 43 + 86 +129 GHz) Phase Correction
+      with KVN"
+      T.-H. Jung (KASI)
+15:30 "Characteristics and Possible Problems of the ALMA Line
+      Length Corrector, and the Possibilities of Other Mechanisms"
+      H. Kiuchi (NAOJ)
+16:00 - 17:30 Discussion
+18:30 - Workshop Dinner
+
+12/26 (Thu)
+9:00 "Effect of Liquid Water to the mm-/submm-wave Propagation"
+      S. Matsushita (ASIAA)
+9:30 "Cloud Monitor and MiSTI"
+      M. Momose (Ibaragi Univ.)
+10:00 "ALMA Science and Requests to Long Baselines"
+      K. Kohno (Univ. Tokyo)
+10:30 - 12:00 Discussion
+12:00 Closing Remark
+      Y. Asaki (ISAS/JAXA)
+-------
+
+Organizing Committee
+  Satoki Matsushita (ASIAA), Yoshiharu Asaki (ISAS/JAXA),
+  Ryohei Kawabe (NAOJ), and Daisuke Iono (NAOJ)
+
+==============================================================================

@@ -1,0 +1,162 @@
+==============================================================================
+
+In this issue (Feb 15 - Feb 19, 2016)
+
+1. CFHT call for proposals 2016B (Mar 16)
+2. NTNUES colloquium (Feb 23): Frank Hsia-San Shu (University of California)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Feb 22): Kai-Syun Jhan (ASIAA)
+                                      (Feb 24): Hauyu Baobab Liu (ESO)
+4. Announcement: ALMA Users Workshop 2016 for Cycle 4 Proposal Call
+
+==============================================================================
+
+> From: Yen-Ting Lin <ytl@asiaa.sinica.edu.tw>
+> Date: Wed, 17 Feb 2016 10:20:26 +0800
+> Subject: CFHT call for proposals 2016B
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Taiwanese community members,
+
+    CFHT is now accepting proposals for the 2016B semester. The
+deadline is March 16 2016 23:59 UTC. Consult this URL for more
+information:
+
+http://cfht.hawaii.edu/en/science/Proposals/
+
+Please note that if you are interested in using the old MegaCam
+filters, you need to make a strong scientific case for this in the
+proposal.
+
+Also, we encourage our users to submit bright time proposals for the
+16B semester since we had an undersubscription of bright time programs
+for the 2016A semester.
+
+As usual, we encourage people to submit snapshot programs.
+
+You will find more details on these items on the above mentioned website.
+
+Good luck to all the proposers.
+
+Daniel Devost for the CFHT team.
+
+==============================================================================
+
+> Date: Thu, 18 Feb 2016 23:17:26 +0800
+> From: "chenlw" <chenlw@ntnu.edu.tw>
+> Subject: NTNUES colloquium 23/Feb/2016: Reversing Climate Change Within This Century
+
+* Teatime at S801-2 after the colloquium
+
+   Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         23/Feb/2016 14:20
+  Room S101, 1F, Research Building
+
+
+
+TITLE: Reversing Climate Change Within This Century
+
+SPEAKER: Prof Frank Hsia-San Shu（University Professor Emeritus, University of California）[徐遐生 教授, 中央研究院院士]
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20160223.txt
+
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+==============================================================================
+
+> Date: Thu, 18 Feb 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Kai-Syun Jhan (ASIAA)
+Topic:          A Multi-Epoch SMA Study of the HH 211 Protostellar Jet: Jet Motion and Knot Formation
+Time:           2/22 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Hauyu Baobab Liu (ESO)
+Topic:          Gravitational unstable disks around FU Orionis objects?
+Time:           2/24 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Young stellar objects (YSOs) may not accumulate their mass steadily, as was previously thought, but in a series of violent events manifesting themselves as sharp brightening events. These events can be caused by fragmentation due to gravitational instabilities in massive gaseous disks surrounding young stars, followed by migration of these dense gaseous clumps onto the star.  We report our high angular resolution, coronagraphic near-infrared polarization imaging observations using the High Contrast Instrument for the Subaru Next Generation Adaptive Optics  (HiCIAO) of the Subaru 8.2 m Telescope, towards four YSOs which are undergoing luminous accretion outbursts. The obtained infrared images have verified the presence of several hundred AUs scale arms and arcs surrounding these YSOs. In addition, our hydrodynamics simulations and radiative transfer models further demonstrate that these observed structures are indeed explained by strong gravitational instabilities occurring a!
+ t the beginning of the disk formation phase. The apparently much smoother and older planet-forming disks may be merely the final products of these tempestuous and stochastic processes.
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Announcement: ALMA Users Workshop 2016 for Cycle 4 Proposal Call
+> Date: Fri, 19 Feb 2016 11:53:58 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>     alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+Dear potential ALMA users,
+
+ALMA will issue its Cycle 4 Proposal Call on March 22. In response to that, Taiwan ARC node will hold two days ALMA User Workshop jointly with tuCASA on March 19 and 26 (Saturday).  Below is the announcement:
+
+        ALMA Users Workshop 2016
+        Time: March 19 and 26, 2016
+        Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+        URL: http://events.asiaa.sinica.edu.tw/workshop/20160319/
+        Registration Deadline: March 11, 2016.
+
+
+        The ALMA Regional Center (Taiwan-ARC) of ASIAA and the UCAT Center for ALMA Science Advancement (tuCASA) of the University Consortium of ALMA-Taiwan (UCAT) are pleased to host jointly a two-day ALMA User Workshop for potential ALMA users in Taiwan on March 19 and 26, 2016. New users are strongly encouraged to attend the lectures on the first day.
+
+The call for proposal for ALMA Cycle 4 will be issued on March 22, 2016. The ALMA User Workshop 2016 is designed for introducing ALMA science and preparing ALMA Cycle 4 proposals. It is intended for graduate students, postdocs, faculty members and people who are interested in observing with ALMA. The deadline for registration is March 11, 2016 (Friday).
+
+The program of the ALMA User Workshop 2016 includes:
+
+        - March 19, 2016
+                ALMA science
+                Basics of (sub)mm interferometry
+                 CASA image simulation
+
+        - March 26, 2016
+                ALMA Cycle 4 capability
+                ALMA ACA stand alone/polarization/VLBI-ALMA observation
+                Suggestions of ALMA proposal preparation
+                Observing Tool
+
+As previous cycles, proposal mock review will be offered and will be announced separately.
+
+Please install the latest version of CASA and OT BEFORE the workshop. Feel free to ask ARC members for help if there is any difficulty during the installation.
+
+
+Best,
+Yu-Nung
+On behalf of Taiwan ARC node
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

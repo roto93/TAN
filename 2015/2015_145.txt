@@ -1,0 +1,112 @@
+==============================================================================
+
+In this issue (Jul 19 - 23, 2015)
+
+1. East Asian ALMA Science Workshop 2015 - 1st circular -
+2. ASIAA Colloquium/Seminar/Lunchtalk (Jul 27): Chris Lintott (Oxford)
+                                      (Jul 29): Kinsuk Giri (NTHU)
+                                      (Jul 30): Hsin-Yu Chen (Univ of Chicago)
+
+==============================================================================
+
+> Date: Tue, 21 Jul 2015 15:47:00 +0800
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>, riaa <riaa@asiaa.sinica.edu.tw>, Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: East Asian ALMA Science Workshop 2015 - 1st circular -
+
+Dear All,
+
+Please find the announcement of the 2015 East Asian ALMA Science Workshop.
+You are strongly encouraged to participate if you have recent ALMA results or
+if you would like to join collaborative projects including the large proposals.
+
+Cheers,
+Wei-Hao
+
+
+*************************************************
+East Asian ALMA Science Workshop 2015
+*************************************************
+
+This is the first announcement of the "East Asian ALMA Science Workshop 2015" to be held from December 8 to 11, 2015 at the I-site Nanba in Osaka.
+
+Scope:
+The National Astronomical Observatory of Japan (NAOJ) and the Osaka Prefecture University are pleased to announce the annual ¡§East Asian ALMA Science Workshop 2015¡¨, to be held on December 8 - 11, at the I-site Nanba in Osaka Prefecture.  This is the annual joint ALMA science workshop that involves all three East Asian ALMA partners (Japan, Taiwan and Korea).
+
+The main aim of this workshop is to continue to promote and stimulate international collaboration among the researchers in the EA partners, by reviewing and sharing the most recent ALMA science results form the first 4 years of ALMA operation. With the new observing modes such as long baselines and high frequencies available for cycle 3, now is a good time to review what has been achieved so far and discuss the future prospects for cycle 4 and beyond.  We plan to hold discussion sessions in order to have opportunities for closer communication among the researchers in related fields.  In addition, we plan to have ample time for discussing ¡§Large Proposals¡¨, which is a new framework that is expected to start from cycle 4.
+
+Date:
+December 8 - 11, 2015
+
+Venue:
+I-site Nanba (Nanba, Osaka)
+
+Language:
+Talks and slides shall be given in English.
+
+Registration:
+Available in early September.
+(Pre-registration is available from the following website)
+
+http://alma-intweb.mtk.nao.ac.jp/~diono/meetings/EA_ALMA_2015/
+To unsubscribe from this group and stop receiving emails from it, send an email to alma-taiwan+unsubscribe@asiaa.sinica.edu.tw.
+
+==============================================================================
+
+> Date: Thu, 23 Jul 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chris Lintott (Oxford)
+Topic:          Citizen Science for a Transient Universe
+Time:           7/27 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Projects such as Galaxy Zoo and Planet Hunters have established that the involvement of volunteers in astronomical data processing can produce remarkable results, sorting through large datasets and enabling serendipitous discoveries. Yet the next generation of large surveys threaten to overwhelm such projects, especially when decisions are needly rapidly in response to transient events. Taking seriously the promise of citizen science in the era of LSST and SKA requires efficient allocation of tasks, collaboration between human and machine classifiers and a focus on the areas where humans can really make a difference. This talk will use examples drawn from the Zooniverse platform to illustrate the latest thinking on these problems, and explain how rapid project iteration enabled by new software puts citizen science in reach of all astronomers.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Kinsuk Giri (NTHU)
+Topic:          How does a Two Component Advective Flow Form?
+Time:           7/29 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+A black hole accretion is necessarily transonic. In presence of sufficiently high viscosity and cooling effects, a low angular momentum transonic flow can become a standard Keplerian disc except close to the hole where it must pass through the inner sonic point. However, if the viscosity is not high everywhere and cooling is not efficient everywhere, the flow cannot completely become a Keplerian disc. We show that, in agreement with the theoretical solutions of viscous transonic flows, matter having the viscosity parameter above a critical value becomes a Keplerian disc while matter having lesser viscosity remains a low angular momentum, sub-Keplerian flow. Thus, for instance, a flow having sufficiently high viscosity on the equatorial plane and low viscosity above and below would produce a two-component advective flow where a Keplerian disc is surrounded
+by a rapidly infalling sub-Keplerian halo. We find that the post-shock region of the relatively cooler Keplerian disc is evaporated and the overall configuration is quite stable. This agrees with the theoretical model with two components, which attempts to explain the spectral and timing properties of black hole candidates.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Hsin-Yu Chen (University of Chicago)
+Topic:          Compact Binary Merger Rate, Detection, and Followup
+Time:           7/30 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Compact binary coalescences (CBCs) are the most promising gravitational wave source for the LIGO/Virgo detectors. We predict the detectable rate of CBCs from short GRB observations, and constrain the GRB beaming angles from the non-detection of mergers in existing LIGO/Virgo data. The gravitational wave signals are almost impossible to obscure via dust absorption or other astrophysical processes, allowing us to derive the universal distribution of signal-to-noise ratios (SNR) for gravitational wave detection. This distribution guarantees the existence of high SNR events, and these provide the best constraints on source parameters such as sky locations. We discuss low-latency localization from these high SNR CBC detections, and some preliminary work on optimizing EM follow-up of CBC sources.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

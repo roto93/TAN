@@ -1,0 +1,261 @@
+
+From astro@iaa17.asiaa.sinica.edu.tw Mon Apr  3 18:08:33 2006
+Date: Mon, 20 Mar 2006 15:24:21 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue March 18 - 20, 2006)
+
+==============================================================================
+
+In this issue (March 18 - 20, 2006)
+
+1. TKU Astronomy Colloquium (Mar 21): You-Hua Chu
+                                      (Univ of Illinois, Urbana-Champaign)
+2. NCU Astronomy Colloquia (Mar 24): Sato Satoko (ASIAA)
+                                     Minh Young-Cheol (ASIAA, Taiwan)
+3. TIARA Workshop at NTHU (March 23-24)
+4. ASIAA Astronomy Colloquia (Mar 21): Vladimir Dogiel (NCU)
+                                       (Mar 24): Han-Tzong Su (NCKU)
+
+==============================================================================
+
+> Date: Fri, 17 Mar 2006 17:04:41 +0800 (CST)
+> From: Yi-nan Chin <einmann@astro.phys.tku.edu.tw>
+> Subject: TKU Colloquium
+
+Dear Yi-Jehng,
+
+did you receive my previous e-mail mentioning You-Hua's colloquium at TKU?
+Could you put it in TANet?
+
+	Cheers,
+
+		Yi-nan
+
+-------------------- Forward Message --------------------
+Dear all,
+
+We are going to have Prof. You-Hua Chu giving a colloquium at the Department
+of Physics, Tamkang University.  You are welcome to join us.
+
+        Best regards,
+
+                Yi-nan Chin
+
+--------------------------- TKU Physics colloquium -----------------------
+Speaker : Prof. You-Hua Chu (UIUC)
+Title   : Telescopes and Sciences at Multiple Wavelengths
+Time    : 03/21 (Tue) 14:10
+Location: Room S215, Science Building, Tamsui Campus
+-------------------- End of Message --------------------
+
+==============================================================================
+
+> Date: Sat, 18 Mar 2006 21:50:47 +0800 (CST)
+> To: astro@asiaa.sinica.edu.tw
+> Subject: colloquium
+> From: KINOSHITA Daisuke <kinoshita@astro.ncu.edu.tw>
+
+Please distribute the announcement.
+
+Thanks,
+
+Daisuke
+
+---------------------------------------------------------------------------
+                               Colloquium
+                      at the Institute of Astronomy,
+                       National Central University
+
+Date: 14:00, 24/March/2006
+Loc.: Room 1013, Science Building IV, National Central University
+Speaker: Sato Satoko (ASIAA, Taiwan)
+Title: Structure and Kinematics of CO (J=2-1) Emission in the Central
+       Region of NGC4258
+Abstract :
+We present CO(2-1) observations towards the central region of the 
+Seyfert 2 galaxy NGC4258 with the Submillimeter Array (SMA). The galaxy 
+is well known to exhibit a sub-pc-scale molecular disk traced by water 
+masers. The major axis of the disk is along the east-west direction 
+although the P.A. of the host galaxy is around 150 degree. This 
+indicates a significantly misalignment between the axes of rotation for 
+the galaxy and for the nuclear disk. Until now, the morphological and 
+kinematical connections between the host galaxy and the nuclear disk 
+have not been elucidated. Our observations achieve an angular 
+resolution of ~100pc to see the intermediate scale between the two 
+different scales in the galaxy. Our CO(2-1) intensity map shows that 
+two arm-like elongated structures along the major axis of the galaxy 
+with no strong nuclear concentration, and has a similar morphology as 
+seen in the previous CO(1-0) results. We find the difference of 
+CO(2-1)/CO(1-0) intensity ratio between the two elongated structures. 
+The higher line ratio could be due to relatively higher gas densities 
+within CO clumps or higher external heating.  The velocity field 
+reveals large velocity offset (+- 150 km/s) from the galactic 
+rotational on the region with the higher line ratio. The region with 
+the higer line ratio and the large velocity offset from the galactic 
+rotation could be excited by the nuclear activities like its AGN or 
+jets from the central engine.  After removal of the general galactic 
+rotational motion, a velocity gradient which spans ~250pc close to the 
+center is found along the east-west direction. The gas rotation within 
+~250pc which aligns the inner sub-parsec disk is a possible scenario to 
+explain the velocity-gradient.
+
+Date: 15:00, 24/March/2006
+Loc.: Room 1013, Science Building IV, National Central University
+Speaker: Dr. Minh Young-Cheol (ASIAA, Taiwan)
+Title: Chemical Properties of Molecular Clouds in our Galactic Center
+Abstract:
+In our Galactic center there exist various active components,
+including a black hole candidate, Sgr A*, and powerful supernova
+remnants. Neutral gas is also strongly concentrated in the Galactic
+center, which is thought to be affected strongly by the activities of
+the Galactic center. By interactions with the active components, the
+molecular clouds in our Galactic center show features which are
+exciting but complex and difficult to interpret. Using the
+millimeter-wave observations of complex molecules, we reveal
+interesting physical and chemical properties of the Sgr A and Sgr B2
+molecular clouds.
+---------------------------------------------------------------------------
+
+--
+KINOSHITA Daisuke
+Institute of Astronomy, National Central University
+300 Jhongda Rd, Jhongli, Taoyuan, 32001, Taiwan
+Phone: +886-3-4227151 ext 65952
+Fax: +886-3-4262304
+
+==============================================================================
+
+> Date: Mon, 20 Mar 2006 09:30:56 +0800
+> From: Kouichi Hirotani <hirotani@tiara.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> CC: hirotani <hirotani@tiara.sinica.edu.tw>,
+>     Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>, kw@mssl.ucl.ac.uk
+> Subject: workshop in Hsinchu (March 23-24)
+
+Dear TAN administrator,
+
+We would like to distribute the following message to TAN members
+regarding our workshop which will be held in Hsinchu this week.
+
+Thank you very much.
+Kouichi Hirotani
+(TIARA, Nat'l Tsing Hua University)
+
+-----------------------  message --------------------
+We are going to hold a small workshop entitled
+"Radiation and Plasmas Processes in Stellar Astrophysics".
+The purpose of this mini workshop is to discuss some special
+topics relating to compact objects and star formation, and to
+share a common interest in this field with scientist in
+Taiwan and different countries.
+
+Date:     March 23-24, 2006
+
+Place:    TIARA, 8F Second General building,
+          Department of Physics, National Tsing Hua University
+          101, Sec. 2, Kuang Fu Rd., Hsinchu, Taiwan 300
+
+Program:
+
+March 23 (Thursday)
+
+09:00 - 10:00 Ron Taam (Northwestern University)
+                Faint X-Ray Source Population in the Galactic Center
+10:30 - 11:30 Kazutaka Motoyama (TIARA)
+                Radiation driven implosion model for high accretion
+                rates of protostars
+13:30 - 14:30 Tapas Das (Harish Chandra Research Inst.)
+                Shock formation in black hole accretion disc
+                and related phenomena
+15:00 - 16:00 Kinwah Wu (Univesity College London)
+                TBD
+16:30 - 17:15 student talk 1 (30min+15min)
+
+17:15 - 18:00 student talk 2
+
+March 24 (Friday)
+
+09:00 - 10:00 Jumpei Takata (TIARA)
+                Polarization of high-energy photons from the Crab pulsar
+10:30 - 11:30 Kouichi Hirotani (TIARA)
+                Particle acceleration in pulsar magnetospheres
+13:30 - 14:30 Hwei-Jang Yo (NCKU)
+                TBD
+15:00 - 16:00 Mike Cai (ASIAA)
+                X-wind -- the saga continues
+16:30 - 17:15 student talk 3
+
+17:15 - 18:00 student talk 4
+
+
+Contact: Kouichi Hirotani
+
+         Theoretical Institute for Advanced Researches in Astrophysics
+         (TIARA), Department of Physics, National Tsing Hua University
+
+         Email: hirotani@tiara.sinica.edu.tw
+         Phone: +866-3-571-5131 ext. 33281
+         FAX:   +866-3-574-2679
+
+------------------- End of message -------------------
+
+==============================================================================
+
+> Date: Mon, 20 Mar 2006 10:31:29 +0800 (CST)
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, faculty@phys.ntu.edu.tw, ybyun@yonsei.ac.kr,
+>     yykeum@phys.ntu.edu.tw
+> Subject: [Colloquium] ASIAA Colloquia This Week (3/20-3/24)
+
+
+  Dear all,
+
+  	This week we will have two colloquium talks. Tomorrow
+  (03/21 Tuesday) Prof. Vladimir Dogiel visiting at National
+  Central University will give a talk at IAA titled "Annihilation
+  Emission from the Galactic Black Hole". On Friday (03/24),
+  Prof. Han-Tzong Su from National Cheng Kung University will
+  visit and introduce the exciting science of transient luminous
+  events in the Earth's upper atmosphere.
+
+  	Please visit our webpage for abstracts and other details.
+  Mark your calendar and remember to join these talks!
+
+  Regards,
+
+  sheng-yuan
+
+  --------------------------- ASIAA Colloquia -----------------------
+   Speaker : Prof. Vladimir Dogiel (National Central University)
+   Title   : Annihilation Emission from the Galactic Black Hole
+   Time    : 03/21 (Tue)  2:00 PM
+   Location: Rm 716
+  -------------------------------------------------------------------
+   Speaker : Prof. Han-Tzong Su (National Cheng Kung University)
+   Title   : Lightning-related discharges between thunderstorms
+               and the ionosphere
+   Time    : 03/24 (Fri)  2:00 PM
+   Location: Rm 716
+  -------------------------------------------------------------------
+   URL     : http://www.asiaa.sinica.edu.tw/act/colloquium.php
+  -------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

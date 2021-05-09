@@ -1,0 +1,496 @@
+From kuan Tue Jun 24 21:52 CST 1997
+Return-Path: <kuan>
+Received: by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA00693; Tue, 24 Jun 1997 21:51:11 +0800
+Date: Tue, 24 Jun 1997 21:51:11 +0800
+From: kuan (Yi-Jehng Kuan)
+Message-Id: <9706241351.AA00693@biaa17.biaa.sinica.edu.tw>
+To: astro@biaa17.biaa.sinica.edu.tw
+Subject: TAN Issue 102
+Content-Type: text
+Content-Length: 17698
+Status: RO
+
+Table of Contents
+Item    Subject
+===================
+  #1	Happy Anniversary
+  #2	Wu Conference (forwarded)
+  #3    Numerical Astrophysics Conference
+  #4    AAO/ATNF Post Doctoral Research Fellowship
+ 
+
+----------------------------------------------------------------------------
+Subject: #1 Happy Anniversary
+
+Yes, TAN has been serving people for almost one year!
+A small statistics of TAN since June 26, 1996:
+	116 subscribers, 3 unsubscribers, and 102 issues.
+
+Thank you for all your support!
+
+Yi-Jehng
+
+
+----------------------------------------------------------------------------
+Subject: #2 Wu Conference (forwarded)
+
+From yuan@biaa7.biaa.sinica.edu.tw Tue Jun 24 18:41:40 1997
+Date: Tue, 24 Jun 1997 18:18:51 -0700
+From: yuan@biaa7.biaa.sinica.edu.tw (Chi Yuan)
+Subject: Wu Conference
+
+1. Plenary Talk:
+ Lo, Fred:  "ASIAA and Submillimeter Array"
+
+2. Session A1 (8-11 afternoon, Monday)
+ Chair: Fred Lo, Director, Institute of Astronomy and Astrophysics .
+ Shu, Frank H.: "Protostellar Winds and Jets". (I)
+ Ho, Paul: "Protostellar Disks and Extrasolar Planets". (I)
+ Lin, Doug: "Formation of Solar Systems". (I)
+ Taam, Ronald: "The Formation of Compact Binary Systems". (I)
+ Leung, Chun Ming: "Fractal Dimemsion as a Shape Parameter for 
+    Modelling Cosmic Dust". (I)
+ Chiueh, Tzi-hung: "Solitons in Crab Nebula"
+ Yuan, Chi: "Bar-driven Density Waves aand Accretion of Gas-dominated
+    Central Disks". (I)
+
+3. Session A4 (8-14 afternoon, Thursday)
+ Chair: Sun Wei-hsin, Chairman, Institute of Astronomy, National
+    Central Univ.
+ Chiu, Hong-yi: "Modern Cosmology". (I)
+ Lee, Typhoon: "High Resolution CO Observation of Proto-Planetary
+    Nebula IRAS22272-5435 using BIMA mm-wave Interferometer Array".(I)
+ Suen, Wei-mo: "Computational General Relativistic Astrophysics".
+ Chang, Hsiang-Kuang, "Acoustic Imaging in Helioseisology".
+ Cheng, Chio Z.,: "Kinetic Effects on MHD Phenomena in Space Plasma"
+ Lu, Phillip: "Spectral Energy Distribution Using BATC System". (I)
+
+
+----------------------------------------------------------------------------
+Subject: #3 Numerical Astrophysics Conference
+
+Date: Tue, 24 Jun 1997 19:38:45 +0800
+From: typhoon (Typhoon Lee)
+To: kuan
+Subject: numerical astrophysics conf.
+
+Dear Y.J.
+    Please kindly put it on the TAN.  Thanks!
+Typhoon
+
+----- Begin Included Message -----
+
+From nap98@yso.mtk.nao.ac.jp Tue Jun 24 19:33:01 1997
+Date: Tue, 24 Jun 1997 20:34:09 +0900
+From: nap98@yso.mtk.nao.ac.jp (Numerical Astrophysics 1998)
+To: typhoon@biaa.sinica.edu.tw
+
+------------------------------------------------------------------------
+========================== First Circular ==============================
+------------------------------------------------------------------------
+
+                    Numerical Astrophysics 1998
+
+                        March 10 - 13, 1998
+
+           National Olympic Memorial Youth Center (NYC)
+                           Tokyo, Japan
+
+   National Astronomical Observatory,  Japan will hold  an international
+meeting  on  the numerical astrophysics.  The aim  of the meeting  is to
+explore recent advances in astrophysics aided  by numerical simulations.
+In the last decade  numerical simulations  have grown up as a major tool
+for astrophysics. Numerical simulations have given us invaluable inform-
+ation on complex systems and physical processes under extreme conditions
+which  can  be  obtained  neither  by experiments  nor  by observations.
+Computers could work as telescopes for theoretical astrophysics.  In the
+conference  we will discuss  how numerical simulations have expanded our
+understanding  on  astrophysics  and  explore  frontiers  opened  up  by
+numerical simulations.  The subjects of the meeting cover all the astro-
+nomical objects  from  the  large-scale  structure  of  the universe  to
+planet. The meeting consists of invited review talks, contributed talks,
+poster papers, and video displays. Various simulations will be presented
+including hydrodynamical simulations, magnetohydrodynamical simulations,
+particle  simulations  of  gravitational  N-bodies  and  simulations  of
+electromagnetic particles. We will discuss also the numerical techniques
+on simulations  and  computer technology available and useful for astro-
+physical simulations.
+
+  The conference would consist of the following sessions: 
+
+*Astrophysics oriented sessions
+  -Cosmology
+      (galaxy formation, formation of large-scale structures)
+   -Galaxy
+      (interacting galaxies, active galactic nuclei, galactic evolution)
+   -Star and Planet Formation
+      (gravitational collapse, proto-planetary disk)
+   -Accretion Disk and Jets
+   -Supernovae, Neutron Stars, and Black Holes
+   -Solar and Stellar Atmosphere/Interior
+   -Solar System (solar wind, planetary magnetosphere)
+
+*Computer Science oriented sessions
+   -Numerical Methods
+      (hydrodynamics, magnetohydrodynamics, radiation hydrodynamics,
+       self-gravitating system, general relativity)
+   -Scientific Visualization
+   -Computer Technology Useful for Numerical Simulations
+
+--------------------
+=== Organization ===
+--------------------
+
+   This conference  is sponsored  by the Ministry of Education, Science,
+Sports  and  Culture of Japan  and  hosted  by the National Astronomical
+Observatory, Japan.  The members of the organizing committee  are listed
+as below.
+
+[Scientific Organizing Committee]
+   A. P. Boss  (Carnegie Inst., USA)
+   J. Franco  (UNAM, Mexico)
+   J. F. Hawley (U. Virginia, USA)
+   W. Hillebrandt (MPI fuer Astrophysik, Germany)
+   A. L. Melott (U. Kansas, USA)
+   S. M. Miyama (chair: NAO, Japan) 
+   T. Nakamura (Kyoto U., Japan)
+   K. Nomoto  (U. Tokyo, Japan)
+   A. Nordlund (Copenhagen U., Denmark) 
+   M. L. Norman (U. Illinois, USA)
+   J. P. Ostriker (Princeton U., USA)
+   K. Sato  (U. Tokyo, Japan)
+   S. L. Shapiro (U. Illinois, USA) 
+[Local Organizing Committee] 
+   Y. Chikada  (NAO, Japan)
+   T. Hanawa  (Nagoya U., Japan)
+   M. Hirose  (NAO, Japan)
+   S. Inutsuka (NAO, Japan)
+   T. Kajino  (NAO, Japan) 
+   N. Kikuchi  (NAO, Japan)
+   T. Kudoh  (NAO, Japan)
+   R. Matsumoto (Chiba U., Japan)
+   K. Oohara  (Niigata U., Japan)
+   K. Shibata  (chair: NAO, Japan) 
+   K. Tomisaka (Niigata U., Japan)
+   T. Yokoyama (NAO, Japan)
+
+-----------------------
+=== Conference Site ===
+-----------------------
+
+   The conference is  held  at  National Olympics  Memorial Youth Center
+(NYC),  International  Exchange  Building.   NYC  is close to  Shinjuku,
+a downtown in Tokyo.   It takes  about 75 minutes  from  the  Narita New
+Tokyo Airport to Shinjuku station by train. The conference site is about
+2 km remote from Shinjuku station  and  reachable  either  by taxi or by
+local train  and  walk.   The postal address  is  3-1 Yoyogi-Jin'en-cho,
+Shibuya-ku, Tokyo, 151. The details on the access will be given in later
+circulars.
+
+   The conference site  has  lodgings  available  for  participants  and
+accompanying persons.   The lodging is  not luxurious but convenient for
+attending  the conference.   Room charge  is  about 4,500  Japanese  YEN
+(approximately 40 USD) per person  per night.   The room charge does not
+include breakfast  but this is less expensive in Tokyo.  The details for
+hotel accommodation will be given in later circulars.
+
+-------------------
+=== Proceedings ===
+-------------------
+
+   The proceedings of this conference will be published. The proceedings
+include all the talks and poster papers. They will be distributed to all
+the participants in a timely fashion.
+
+---------------------
+=== Social Events ===
+---------------------
+
+   We will have reception in the evening of March 9th at NYC and banquet
+in  the evening  of March 12th  at NYC.   The fee for the reception  and
+banquet is included in the registration fee.  We will make a one-day bus
+tour visiting nearby sight seeing spots  if a certain number of partici-
+pants join. It will start in the morning of March 14th from NYC and come
+back to NYC in the evening.  The bus service  will extend  to Narita for
+people leaving Japan in the morning of March 15th.
+
+------------------------
+=== Registration Fee ===
+------------------------
+
+   The registration fee is  20,000 Japanese  Yen  for early registration
+before November 30th, 1997 and 25,000 Japanese  Yen  after December 1st,
+1997.  It is reduced to 15,000 Japanese Yen for a student who registered
+himself  before November 30th, 1997  and  to 20,000 Japanese  Yen  for a
+student  who registered himself  after December 1st, 1997.  The registra
+-tion fee include reception on March 9th,  banquet on March 12th, a copy
+of the proceedings, and coffee/tea during the conference.
+
+-------------------------
+=== Financial Support ===
+-------------------------
+
+   Some financial support  will  be  available  for students coming from
+outside Japan for this conference.
+
+------------------------
+=== Pre-Regsstration ===
+------------------------
+
+   We have the symposium home page at the URL:
+          http://diamond.mtk.nao.ac.jp/simap/nap98.html
+Most information  will be given  there.   If you  are interested in this
+conference, look  at  the home page  and  register on the page,  please.
+Registratin of this time is preliminary.  We are asking you  to register
+on this Pre-Registration  to  know how many people are interested in the
+symposium. You can choose only one out of three ways to register.
+   1. Register on our WWW home page. - recommended
+   2. Send the Pre-Registration Form by e-mail.
+   3. Send the Pre-Registration Form by fax.
+We strongly recommend the registration through the www page because your
+form will  be processed automatically  by our computer.  Applications by
+other methods  may  take more than a few weeks to be accepted.  When you
+cannot access the web, please send us the Pre-Registration Form given at
+the bottom of this circular to the address:
+          nap98-preregist@yso.mtk.nao.ac.jp
+You can also get the Pre-Registration Form by anonymous FTP:
+          ftp://clayton.mtk.nao.ac.jp/nap98/pre-regist.txt
+If you have troubles  both on sending e-mail  and  on accessing the web,
+you can send the Pre-Registration Form by fax.  In this case, please use
+the Pre-Registration Form for fax attached  with printed versions of the
+1st Circular, which will be distributed by surface mail,  and you should
+type all the answers because we often misread your handwriting. The Pre-
+Registration will be accepted in the address:
+          Fax number: +81-422-34-3700
+          Numerical Astrophysics 1998
+          International Symposium LOC
+          Dr. Kazunari Shibata
+
+   The second circular  will be delivered in late September to those who
+showed their interest by the Pre-Registration Form.
+
+-------------------------
+=== Contact addresses ===
+-------------------------
+
+   We have the symposium home page at the URL:
+          http://diamond.mtk.nao.ac.jp/simap/nap98.html
+Most information will be given there.
+
+   You can get this 1st Circular both of plain text and of LaTeX version
+by anonymous FTP. All of documents are in the subdirectory of nap98.
+          ftp://clayton.mtk.nao.ac.jp/nap98/
+
+   Please use the following e-mail address to inquire anything.
+          nap98@yso.mtk.nao.ac.jp
+
+-----------------
+=== Key Dates ===
+-----------------
+
+The Second circular:              late September, 1997 
+Deadline for Early Registration:  November 30th, 1997 
+Deadline for Abstract:            January 1st, 1998 
+
+We are looking forward to seeing you at NYC.
+
+Prof. Shoken M. Miyama (SOC chair) 
+Theoretical Astronomy Division 
+National Astronomical Observatory 
+Mitaka, Tokyo 181, Japan 
+tel: +81-422-34-3738 
+fax: +81-422-34-3746 
+
+Dr. Kazunari Shibata (LOC chair)
+Solar Physics Division
+National Astronomical Observatory
+Mitaka, Tokyo 181, Japan
+tel: +81-422-34-3712
+fax: +81-422-34-3700
+
+#############################  cut here  ################################
+To : nap98-preregist@yso.mtk.nao.ac.jp
+##
+##                Numerical Astrophysics 1998
+##               March 10-14, 1998: Tokyo, Japan
+##
+##               Pre-registration Form (for e-mail)
+##
+##          Send this form to 'nap98-preregist@yso.mtk.nao.ac.jp'
+##
+##
+##  Note
+##   * We recommend WWW registration. 
+##      (http://diamond.mtk.nao.ac.jp/simap/regist_e.html)
+##   * Please register only once. 
+##   * If you e-mail this, you do NOT have to 
+##      register by WWW nor by FAX.
+##   * Please do not use this form for FAX. 
+##
+
+## Last (family) name e.g. Shibata
+Last (family) name:
+
+## First (and other) name(s) e.g. Kazunari or Alan K. Jr.
+First (and other) name(s):
+
+## Your Department or Division e.g. Solar physics division
+Department or Division:
+## Your Institute e.g. National Astronomical Observatory
+University or Institute:
+
+## Postal address e.g. 2-21-1 Osawa Mitaka 
+##  (Use two lines if your address is very long. 
+##    Keep blank if not necessary.)
+## City or State e.g. Tokyo
+## Zip code e.g. 181
+## Country  e.g. Japan
+Postal address 1:
+Postal address 2:
+City or State:
+Zip code: 
+Country: 
+
+## Telephone number e.g. +81-422-34-3712
+Telephone number:
+
+## FAX number e.g. +81-422-34-3700
+Facsimile number:
+
+## e-mail address e.g. nap98@yso.mtk.nao.ac.jp
+E-mail address:
+
+## Are you a student?re you a student?
+## Please answer by 'Yes', or 'No'.
+Student:
+
+## Probability of attendance.
+## Please answer by '100%', 'Almost sure', 'Maybe', or 'Not sure'.
+Probability of Attendance:
+
+## Any Message if you like.
+Message:
+
+#########################################################################
+
+----- End Included Message -----
+
+
+----------------------------------------------------------------------------
+Subject: #4 AAO/ATNF Post Doctoral Research Fellowship
+
+
+Date: Tue, 24 Jun 1997 19:42:04 +0800
+From: typhoon (Typhoon Lee)
+To: kuan
+Subject: Post Doctoral Research Fellowship
+
+Y.J.,
+      Please put this on TAN, thanks!
+
+Typhoon
+
+----- Begin Included Message -----
+
+From abarends@atnf.CSIRO.AU Tue Jun 24 13:29:20 1997
+X-Sender: abarends@lynx.rp.csiro.au
+Date: Tue, 24 Jun 1997 15:19:32 +1000
+To: ronw@ras.org.uk, hbutcher@nfra.nl (Butcher, H ),
+        pfg@astrosun.tn.cornell.edu (Goldsmith, P ),
+        typhoon@biaa.sinica.edu.tw (Lee, T ),
+        luisfr@astroscu.unam.mx (Rodríguez, L F ),
+        rts@nfra.nl (Schilizzi, R T ),
+        dayal@mso.anu.edu.au (Wickramasinghe, D T ),
+        wms@stsci.edu (Williams, R ), awolszczan@astro.psu.edu (Wolszczan, A ),
+        xytan@fudan.ihep.ac.cn (Ye, S ), alanv@mpce.mq.edu.au (Vaughan, A E ),
+        nkardash@dpc.asc.rssi.ru (Kardashev),
+        gmr@sai.msu.su (Georgij Rudnitskij),
+        secr@astro.rug.nl (Secretary Kapteyn Instituut Groningen),
+        jspyromi@eso.org (Jason Spyromilio), pgrosbol@eso.org (Preben Grosbol),
+        dsilva@eso.org (Dave Silva), vdhulst@astro.rug.nl (v.d. Hulst),
+        ron.baxter@dms.csiro.au (Ron Baxter),
+        murray.cameron@dms.csiro.au (Murray Cameron),
+        andrew.lockley@dit.csiro.au (Andrew Lockley),
+        sjouwerm@oso.chalmers.se (Lorant Sjouwerman),
+        jb@jb.man.ac.uk (Jon Bell), tye@haystack.ncsa.uiuc.edu (Taisheng),
+        ahopkins@physics.usyd.edu.au (Andrew Hopkins),
+        areid@physics.usyd.edu.au (Andrew Reid),
+        rgiaccon@eso.org (Richard Giacconi),
+        Genzel@mpia_hd.mpg.de (Reinhard Genzel),
+        chakraba@boson.bose.res.in (Sandip K. Chakrabarti),
+        kath.lansdowne@uts.edu.au
+From: Anne Barends <abarends@atnf.CSIRO.AU>
+Subject: Post Doctoral Research Fellowship
+
+AAO/ATNF POST DOCTORAL RESEARCH FELLOWSHIP
+
+Applications are invited for an Anglo-Australian Observatory/Australia
+Telescope National Facility (AAO/ATNF) post-doctoral research
+Fellowship. The AAO/ATNF Fellowship will be tenable for up to two years
+from October, 1997. The AAO operates optical telescopes at
+Siding Spring, near Coonabarabran, NSW, while ATNF operates radio
+telescopes at Narrabri and Parkes. Both have a substantial scientific
+staff at their laboratories on a shared site in Epping, about 25km from
+the centre of Sydney. 
+
+The recipient of the Fellowship will be expected to conduct a research
+program which would exploit the facilities of either or both
+institutions, which include the newly-commissioned Multibeam HI receiver
+at Parkes and the 2dF multi-object fibre spectroscopy facility on
+the Anglo-Australian Telescope. The research could be conducted
+independently or in collaboration with AAO and/or ATNF staff
+astronomers. The appointee will be expected to participate in the
+operation of the observatories and to divide their time roughly equally
+beteeen the two institutions. The Fellowship salary will be in the range
+$A37,981 to $A40,770 p.a., depending on research experience.
+Reasonable relocation expenses including airfare to Australia (and
+return on completion of the appointment) will be paid. 
+
+Applications should include a curriculum vitae, list of publications, a
+statement of proposed research programmes and the names and
+addresses of three referees familiar with the applicant's work. Closing
+date 15 August, 1997. 
+
+Prospective candidates should apply in writing to:
+The Personnel Officer 
+Anglo-Australian Observatory 
+PO Box 296 
+Epping, NSW 2121 
+Australia 
+
+Further information about this Fellowship may be obtained from the
+appropriate AAO and ATNF WWW pages (
+http://www.aao.gov.au/jobs.html and http://www.atnf.csiro.au)
+or from David Malin 
+Phone +61 2 9372 4867: Fax +61 2 9372 4860 or e-mail:
+dfm@aaoepp.aao.gov.au 
+
+The AAO and ATNF are Equal Opportunity Employers
+
+Anne Barends
+Secretary to Dr R Norris 
+Administrative Support for Astrophysics
+Australia Telescope National Facility
+
+Cnr. Vimiera and Pembroke Roads, Marsfield NSW
+PO Box 76 Epping NSW 2121
+Telephone: +61 (2) 9372 4217
+FAX +61 (2) 9372 4310
+
+----- End Included Message -----
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		      (or +02-652-2020 ext 224, fax +02-788-1106)
+To check archives:		   	 <http://biaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

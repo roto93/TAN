@@ -1,0 +1,225 @@
+Date: Tue, 23 Oct 2012 12:16:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Oct 21 - 22, 2012)
+
+============================================================================== 
+
+In this issue (Oct 21 - 22, 2012)
+
+1. ASIAA Colloquia (Oct 26): Ryan Keenan (ASIAA)
+                  (Oct 24): Kevin C. Xu (Caltech/IPAC)
+2. New ALMA Science Verification data release 
+3. Palomar P60 Telescope: Call of proposals
+4. Academia Sinica Open House (Oct 27)
+5. CODATA 23 Conference: Session on Data Intensive Astronomy (Oct 31)
+
+==============================================================================
+
+> Date: Sun, 21 Oct 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Ryan Keenan (ASIAA)
+Topic:        Investigations of Large-Scale Inhomogeneity in the Local Universe
+Time:        10/26 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The size of large-scale structures in the local universe (sheets, voids, and superclusters of galaxies), and our location among them, is of critical importance to the interpretation of observational results. Cosmic variance due to large-scale structure can lead to systematic variations in observational data. Such systematics can dominate over other sources of error if a volume sufficient to average over cosmic variance has not been sampled. However, it remains unclear just what the upper limit on the size of large-scale structure is, and hence what volume constitutes a representative sample of the universe.  I will summarize recent advances in theoretical and observational cosmology, including my own observational work, which suggest that large-scale inhomogeneities may yet present an obstacle in the determination of locally measured cosmological observables.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Dr. Kevin C. Xu (Caltech/IPAC)
+Topic:        Close Major-Merger Pairs Since z=1: Evolution of Merger Rate & sSFR Enhancement
+Time:        10/24 (Wednesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I will present results on the cosmic evolution of galaxy pairs based
+on studies of two large samples, namely a local (z<0.1) sample (KPAIR, 170
+pairs) and a sample of pairs with 0.2<z<1 selected in the the COSMOS
+field (CPAIR, more than 300 pairs). We found a moderately strong
+cosmic evolution for the pair fraction, with the evolution index of
+2.2+-0.2. The pair fraction and the evolution show no significant
+dependence on the stellar mass of the mergers.  Our quantitative
+estimates indicate that major mergers have significant impact on the
+stellar mass assembly of the most massive galaxies. Comparison with
+the mass dependent (U)LIRG rates suggests that the frequency of
+major-merger events is comparable to or higher than that of (U)LIRGs.
+Results from a new IR study, using data taken from Herschel and
+Spitzer surveys, showed a strong trend for the enhancement of the
+specific star formation rate (sSFR) in these pairs to decrease with
+increasing redshift, probably due to higher gas fractions in higher
+redshift galaxy disks which in turn may weaken the tidal effects in
+triggering starbursts.
+
+==============================================================================
+
+> Date: Sun, 21 Oct 2012 14:49:46 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>        riaa@asiaa.sinica.edu.tw, alma-t@asiaa.sinica.edu.tw
+> Subject: New ALMA Science Verification data release 
+
+Dear ALMA users,
+
+A new installment of Science Verification data is planned for release on 
+26 October 2012. The datasets that will be included in this release 
+correspond to targets suggested by the community and listed in Table 2 of 
+the Science Verification web page.
+
+The release will include the following Science Verification datasets:
+
+- The protoplanetary disk HD163296: multiple spectral lines, demonstrating 
+the mixed modes capability, at Bands 6 and 7
+
+- The Galactic Centre, Sgr A*: recombination lines at Band 3
+
+Future science verification releases will also be preceded by a similar 
+announcement.
+
+Edwige from the Taiwan ARC node contributed Band 6 of HD163296 work.
+
+Best Regards,
+Chin-Fei
+On behalf of Taiwan ARC node
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Palomar P60 Telescope -- Call of proposal.
+> Date: Mon, 22 Oct 2012 13:51:35 +0800
+
+Dear all, Taiwan astronomical community now can access to the Palomar P60 Telescope. For
+more information about the call-of-proposal, please see:
+
+http://www.astro.ncu.edu.tw/index.shtml?p=info/proj/121022p60.html
+
+
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> Date: Mon, 22 Oct 2012 14:33:57 +0800
+> From: lychiang <lychiang@asiaa.sinica.edu.tw>
+> To: <iaa@asiaa.sinica.edu.tw>, <astro@asiaa.sinica.edu.tw>
+> Subject: [EPO] Academia Sinica Open House on 10/27 from 9am
+
+
+Dear all, 
+
+The annual Academia Sinica Open House day is schedule to be
+held in Nangang Headquarter on 10/27 from 9am. You can browse the program at
+
+
+http://www.sinica.edu.tw/openhouse/2012/ 
+
+ASIAA has our own page:
+
+
+http://events.asiaa.sinica.edu.tw/outreach/openhouse/2012/ 
+
+Everyone is
+welcome to take part! For those who have never visited IAA Open House, please
+note that we are located in Building No.24 in the map (i.e. the Humanities and
+Social Sciences Building). 
+
+Best Regards, 
+
+Lung-Yih 
+
+on behalf of ASIAA EPO
+Committee 
+  
+==============================================================================
+
+> From: Sebastien Foucaud <foucaud@ntnu.edu.tw>
+> Date: Mon, 22 Oct 2012 19:44:54 +0800
+> Subject: CODATA 23 conference: Session on Data Intensive Astronomy on
+>  Wednesday October 31st at 9am AS-Nangang
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+Could you circulate the following announcement to the TAN?
+
+Thank you very much.
+Cheers
+Seb
+
+
+_________________________________
+
+Dear all,
+
+Here you are a announcement for those of you interested in Data Intensive
+Astronomy, Virtual Observatory and Astroinformatics.
+
+Next week there is an international conference on Computer Science and
+Big Data organized in Taipei on the Academia Sinica, Nangang campus:
+CODATA 23 "Open data and information for a changing planet"
+(http://www.codata2012.com), starting on Sunday 28 and ending on
+Wednesday 31.
+
+I am chairing a Session on "Data Intensive Astronomy in East Asia" on:
+*==* Wednesday 31st from 9:00am to 10:30am *==*
+
+For this I have invited three specialists on this topic from Japan (Masatoshi
+Ohishi, NAOJ; Prof. Ken Ebisawa JAXA/ISAS; Dr. Masumi Shomojo NAOJ)
+and one from China (Dr. Chenzhou Cui, NAOC ). We will also have the
+contribution from Kuei-Sheng Lee (NCU) and myself (Seb Foucaud, NTNU).
+
+The detailed program is available on the following webpage:
+http://www.codata.org/Taipei/official-program.html
+
+This is a unique opportunity to learn more about the latest status of
+this crucial topic in our countries.
+
+Please circulate this to your collaborators/students who may be interested.
+
+Hope to see you next week at AS-Nangang.
+If you need more information please consult the conference webpage
+(http://www.codata2012.com) or contact me.
+
+Best regards,
+Seb
+
+__________________________________________
+
+Prof. Sebastien R.A. Foucaud (傅谷石)
+
+Department of Earth Sciences, National Taiwan Normal University
+No.88, Sec. 4, Tingzhou Rd., Wenshan District, Taipei 11677, Taiwan R.O.C.
+Tel: +886-(0)2-7734-6402
+email: foucaud@ntnu.edu.tw
+http://www.es.ntnu.edu.tw/Foucaud
+__________________________________________
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

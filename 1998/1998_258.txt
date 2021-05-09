@@ -1,0 +1,222 @@
+From kyl@asiaa.sinica.edu.tw Mon Dec 21 12:18:03 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA26864; Mon, 21 Dec 1998 12:17:11 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id MAA20249; Mon, 21 Dec 1998 12:14:46 +0800
+Date: Mon, 21 Dec 1998 12:14:45 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Dynamics of Galaxies: meeting in Paris, 9-13 July 1999 (fwd)
+Message-Id: <Pine.GSO.3.96.981221121442.618C-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 8526
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 18 Dec 1998 18:32:25 +0002
+From: Francoise Combes <BOTTARO@mesioa.obspm.fr>
+To: puget@ias.fr, afridman@inasan.rssi.ru, palous@ig.cas.cz,
+    bruno@antares.ig.cas.cz, daniel@isolde.obspm.fr, lefevre@astrsp-mrs.fr,
+    jpchieze@ariane.saclay.cea.fr, alloin@ariane.saclay.cea.fr,
+    jperez@ariane.saclay.cea.fr, tagger@ariane.saclay.cea.fr,
+    masset@ariane.saclay.cea.fr, pompei@struve.mps.ohio-state.edu,
+    kmenten@cfa.harvard.edu, LACEY@astron.Berkeley.EDU,
+    barth@exile.berkeley.edu, ewine@rulhsy.leidenuniv.nl,
+    israel@rulhl1.leidenuniv.nl, dap@abitibi.harvard.edu,
+    BURTON@rulhl1.leidenuniv.nl, semelin@mesunb.obspm.fr,
+    xu@cong.mpi-hd.mpg.de, eckart@mpe.mpg.de, glimaneto@aip.DE,
+    noguchi@astroa.astr.tohoku.ac.jp, C.Boily@qmw.ac.uk,
+    herwig.dejonghe@rug.ac.be, romeo@oso.chalmers.se, Sandqvis@astro.su.se,
+    Anders@oso.chalmers.se, Tommy@oso.chalmers.se, gmeylan@eso.org,
+    Horellou@oso.chalmers.se, maouas@gluk.apc.org, VANDRIEL@mesioq.obspm.fr,
+    JSILK@astron.Berkeley.EDU, salucci@galileo.sissa.it,
+    gurzadya@axp3g9.icra.it, magda@cerere.na.astro.it,
+    iodice@cerere.na.astro.it, sarzi@pd.astro.it, bertola@pd.astro.it,
+    jwhiteoa@atnf.CSIRO.AU, agris@mso.anu.edu.au, kcf@mso.anu.edu.au,
+    Block@gauss.cam.wits.ac.za, pnapplet@iastate.edu, AAS@hoh-2.Att.com,
+    Kormendy@nrcdao.nrc.ca, vandenbergh@nrcdao.nrc.ca,
+    bacon@cumulus.univ-lyon1.fr, Prugniel@image.univ-lyon1.fr,
+    deZeeuw@strw.leidenuniv.nl, emsellem@cumulus.univ-lyon1.fr,
+    psolomon@sbast7.ess.sunysb.edu, l.sage@naturedc.com, sradford@nrao.edu,
+    Kramer@ph1.uni-koeln.de, wild@iram.es, hhasan@hq.nasa.gov,
+    zoltan@fnal.gov, eli.dwek@gsfc.nasa.gov, monica@das.uchile.cl,
+    nzs@deimos.caltech.edu, jogee@sparx.astro.yale.edu,
+    vigroux@ariane.saclay.cea.fr, paduc@ariane.saclay.cea.fr,
+    nakai@nro.nao.ac.jp, peter@mpa-garching.mpg.de,
+    fuchs@auriga.ari.uni-heidelberg.de, Hernquis@IASSNS.obspm.fr,
+    BGE@watson.ibm.com, elmegreen@vaxsar.vassar.edu,
+    knapen@star.herts.ac.uk, R.F.Peletier@durham.ac.uk, JEB@IAC.ES,
+    blitz@astro.umd.edu, palla@arcetri.astro.it, galletta@pd.astro.it,
+    capaccioli@astrpd.astro.it, resh@astro.spbu.ru,
+    kutner@orion.phys.rpi.edu, marclr@discovery.saclay.cea.fr,
+    kyl@astro.uiuc.edu, john@ast1.spa.umn.edu,
+    amram@observatoire.cnrs-mrs.fr, wozniak@observatoire.cnrs-mrs.fr,
+    Blanchard@cdsxb6.u-strasbg.fr, Baudry@observ.u-bordeaux.fr,
+    Desmurs@observ.u-bordeaux.fr, amazure@astrsp-mrs.fr,
+    nathalie@observ.u-bordeaux.fr, nneini@astro.uni-bonn.de,
+    p220hen@mpifr-bonn.mpg.de, v398cah@mpifr-bonn.mpg.de, guelin@iram.fr,
+    thum@iram.fr, p083huc%sun21.mpifr-bonn.mpg.de@IBM.rhrz.uni-bonn.de,
+    p073twi@mpifr-bonn.mpg.de, wilson@physics.McMaster.CA,
+    p213ukl@mpirbn.mpifr-bonn.mpg.de, p691mdu@mpifr-bonn.mpg.de,
+    genzel%mpeis1@mpe.mpe-garching.mpg.de, braine@observ.u-bordeaux.fr,
+    Tony@astroscu.unam.mx, quillen@payne.MPS.OHIO-STATE.EDU,
+    RALLIS@MPS.OHIO-STATE.EDU, buta@atilla.ASTR.UA.EDU,
+    Crock@bama.ASTR.UA.EDU, giacomo@merlot.astr.ua.edu,
+    sulentic@sarah.ASTR.UA.EDU, pandora@imisiam.obspm.fr, cox@ias.fr,
+    jhibbard@nrao.edu, dwaraka@rri.ernet.in, bertin@BIBSNS.sns.it,
+    robot@astro.rug.nl, balcells@IAC.ES, sanders@astro.rug.nl, Cerni@OAN.ES,
+    BURILLO@OAN.ES, masvingo@arrakis.es, Lucas@iram.fr, Neri@iram.fr,
+    Guilloteau@iram.fr, Mauri.Valtonen@deneb.astro.utu.fi, mr@eso.org,
+    curt@iastate.edu, cgm@astro.umd.edu, pierre@blazar.astro.umd.edu,
+    yuan@iaa7.asiaa.sinica.edu.tw, c.s.frenk@durham.ac.uk,
+    franx@strw.strw.leidenuniv.nl, swhite@mpa-garching.mpg.de,
+    barnes@ifa.hawaii.edu, bender@usm.uni-muenchen.de,
+    carlberg@astro.utoronto.ca, francoise.combes@obspm.fr,
+    rse@ast.cam.ac.uk, mamon@iap.fr, daniel.pfenniger@obs.unige.ch,
+    sofue@sof.mtk.ioa.s.u-tokyo.ac.jp, daniel.friedli@obs.unige.ch,
+    louis.martinet@obs.unige.ch, vassilis@mesunb.obspm.fr,
+    lia@observatoire.cnrs-mrs.fr, bosma@observatoire.cnrs-mrs.fr,
+    j.binney1@physics.oxford.ac.uk, francois.hammer@obspm.fr,
+    b.moore@durham.ac.uk, seidel@mpia-hd.mpg.de, kelson@gimpel.ciw.edu,
+    griv@bgumail.bgu.ac.il, schweize@clrs1.ciw.edu,
+    merritt@ruthep.rutgers.edu, jvangork@astro.columbia.edu,
+    rampazzo@brera.mi.astro.it, sparke@astro.wisc.edu, jsg@astro.wisc.edu,
+    king@glob.berkeley.edu, gerhard@astro.unibas.ch,
+    george@deimos.caltech.edu, dja@ast.man.ac.uk, sellwood@pion.Rutgers.EDU,
+    shlosman@pa.uky.edu, weinberg@owl.phast.umass.edu,
+    p.sackett@astro.rug.nl, dns@astro.princeton.edu,
+    jd@orca.astro.washington.edu, hom@mpa-garching.mpg.de,
+    msteinmetz@as.arizona.edu, ciotti@bo.astro.it, gamk@mpa-garching.mpg.de,
+    hos@burro.astr.cwru.edu, dubinski@cita.utoronto.ca, ssm@astro.umd.edu,
+    gerbal@iap.fr, mirabel@ariane.saclay.cea.fr, sskim@space.kaist.ac.kr,
+    ben.moore@durham.ac.uk
+Subject: Dynamics of Galaxies: meeting in Paris, 9-13 July 1999
+
+
+
+                            FIRST ANNOUNCEMENT
+
+                              XVth IAP MEETING
+
+                           Dynamics of Galaxies:
+                   from the Early Universe to the Present
+
+                       Paris, France, 9-13 July 1999
+
+
+
+For registration and abstract proposition,
+see   web page http://www.iap.fr/iapmtg99
+
+
+Scientific Motivation
+---------------------
+ Our knowledge of galaxy dynamics has made big steps in recent years.
+From a theoretical point of view, numerical simulations, with always
+increasing computing power, are more and more precise, and now include
+several essential phenomena, such as gas hydrodynamics, or star formation
+and feedback.
+From an observational point of view, the high spatial resolution provided by HST
+and the new generation of large ground-based telescopes, beginning with the
+Keck, have made possible new discoveries on internal galaxy dynamics 
+(galaxy nuclei), and high-redshift evolution. 
+
+The aim of this conference is to develop these two aspects, to summarize 
+recent advances in galaxy dynamics, and to emphasize the unsolved problems 
+and new directions to investigate with future large instruments (such as VLT, 
+XMM, LSA, FIRST, NGST), as well as with the new generation of supercomputers.
+
+
+The main topics addressed will be:
+---------------------------------
+
+Dynamics of bars and circumnuclear disks 
+
+Dark matter and gas accretion
+
+Formation and evolution of disks
+
+Formation of bulges and ellipticals
+
+Galaxy interactions and merging
+
+Dynamics of galaxies in clusters
+
+Hubble sequence evolution
+
+Theoretical and instrumental perspectives
+
+
+Scientific Organising Committee
+-------------------------------
+J. E. Barnes (IfA, Hawaii Univ.), R. Bender (Munich Univ.), R. G. Carlberg 
+(Toronto Univ., Canada), F. Combes (Paris Obs., chairman), 
+R. Ellis (Cambridge), G. Mamon (IAP, Paris, vice-chairman), 
+D. Pfenniger (Geneva Obs.), Y. Sofue (Tokyo Univ.),
+S.D.M. White (MPA, Garching)
+
+Local Organising Committee
+F. Combes (DEMIRM, Paris Obs.), G. Mamon (IAP), B. Raban (IAP, Secretary)
+
+
+                             Preliminary program
+
+
+  1. Dynamics of bars and circumnuclear disks
+     D. Axon, F. Combes, D. Friedli, J. Sellwood, I. Shlosman, Y. Sofue, M.
+     Weinberg*
+
+  2. Dark matter and gas accretion
+     M. Arnaboldi, F. Bertola, J. Binney, A. Bosma, P. Sackett*, L. Sparke
+
+  3. Formation and evolution of disks
+     J. Dalcanton, H.-J. Mo, M. Steinmetz
+
+  4. Formation of bulges and early-type galaxies
+     R. Bender, L. Ciotti, M. Franx, G. Galetta, D. Gerbal, O. Gerhard, G.
+     Kauffmann, D. Merritt
+
+  5. Galaxy interactions and merging
+     J. Barnes*, R. Carlberg, C. Mihos, F. Mirabel, M. Noguchi, F.
+     Schweizer, J. van Gorkom
+
+  6. Dynamical effects on galaxies in clusters
+     P. Amram, J. Dubinski, G. Mamon, A. Mazure, B. Moore
+
+  7. Hubble sequence evolution
+     K. Freeman, C. Frenk, F. Hammer, S. McGaugh, D. Pfenniger
+
+  8. Theoretical and instrumental perspectives
+     E. Athanassoula, R. Ellis
+
+  9. Summary
+     S. White
+
+     *To be confirmed
+
+
+Addresses:
+---------
+Francoise COMBES (Observatoire de Paris)   e-mail: francoise.combes@obspm.fr
+Gary MAMON (I.A.P.)			e-mail: gam@iap.fr
+
+

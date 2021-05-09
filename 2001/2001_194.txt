@@ -1,0 +1,82 @@
+From yuanru@phys.ntu.edu.tw Thu Oct 18 14:04 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA20573
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 18 Oct 2001 14:04:15 +0800 (CST)
+Received: from main.phys.ntu.edu.tw (main.phys.ntu.edu.tw [140.112.101.1])
+	by asiaa.sinica.edu.tw (8.9.3+Sun/8.9.3) with ESMTP id NAA24712;
+	Thu, 18 Oct 2001 13:53:46 +0800 (CST)
+Received: from yuanju (yuanju.phys.ntu.edu.tw [140.112.101.224])
+        by main.phys.ntu.edu.tw (8.12.0.Beta5/8.12.0.Beta5/Debian 8.12.0-1) with SMTP id f9J67ckm012461;
+	Fri, 19 Oct 2001 14:07:38 +0800
+Message-ID: <008601c1579b$64b33ca0$e065708c@phys.edu.edu.tw>
+From: "yuanju" <yuanru@phys.ntu.edu.tw>
+To: =?utf-8?B?6aGn5ZOy5a6J?= <wyhwang@phys.ntu.edu.tw>,
+        =?utf-8?B?5Zq05YGl5b2w?= <yen@asiaa.sinica.edu.tw>,
+        =?utf-8?B?57Ch5ZiJ5a6P?= <chiueh1@phys.ntu.edu.tw>,
+        =?utf-8?B?6LO05YWJ5pi2?= <kclai@phys.ntu.edu.tw>,
+        =?utf-8?B?6JWt5L2R5ZyL?= <hexg4@phys.ntu.edu.tw>,
+        =?utf-8?B?6JSh5om/5Z2k?= <klem@ethome.net.tw>,
+        =?utf-8?B?6JSh5bCa5a6H?= <keifer@tosh.phys.ntu.edu.tw>,
+        =?utf-8?B?6JGJ6IyC5bmi?= <b5202023@ms.cc.ntu.edu.tw>,
+        =?utf-8?B?6LOA5Z+56YqY5pWZ5o6I?= <pmho@phys.ntu.edu.tw>,
+        =?utf-8?B?5pu+6ICA5a+w?= <tseng327@ms7.hinet.net>,
+        =?utf-8?B?6Zmz5L+K6Imv?= <r8222013@dove.cc.ntu.edu.tw>,
+        =?utf-8?B?6Zmz5rGf5qKF?= <cmchen@phys.ntu.edu.tw>,
+        =?utf-8?B?5by15riF5L+K?= <r8222001@dove.cc.ntu.edu.tw>,
+        =?utf-8?B?5by15a626YqY?= <g883305@oz.nthu.edu.tw>,
+        =?utf-8?B?5by15b+X5piO?= <nnp1@phys.ntu.edu.tw>,
+        =?utf-8?B?6auY5bGV6bWs?= <hexg6@phys.ntu.edu.tw>,
+        =?utf-8?B?6aas5oiQ6LuN?= <chengjiun@yahoo.com.tw>,
+        =?utf-8?B?6IuX6Iic5Z+5?= <meowshun@ms28.url.com.tw>,
+        =?utf-8?B?6IOh5b636YKm?= <bonwood@ms24.hinet.net>,
+        =?utf-8?B?5pa95YqN6Z2S?= <hexg1@phys.ntu.edu.tw>,
+        =?utf-8?B?5p6X5oWn5ZCb?= <deutsch@stella.astro.ncu.edu.tw>,
+        =?utf-8?B?5p6X5Yex5o+a?= <kager@pchome.com.tw>,
+        =?utf-8?B?5p6X5bO75ZOy?= <lupin@asiaa.sinica.edu.tw>,
+        =?utf-8?B?5p6X5L+Q5pqJ?= <Lihwai@sinamail.com>,
+        =?utf-8?B?5rGq5oS35oKM?= <ktwang@phys.ntu.edu.tw>,
+        =?utf-8?B?5p2O5rWp5paM?= <lihb@phys.sinica.edu.tw>,
+        =?utf-8?B?5p2O6LKe5Yuz?= <taiji@asiaa.sinica.edu.tw>,
+        =?utf-8?B?5L2V5bCP5Ymb5pWZ5o6I?= <hexg@phys.ntu.edu.tw>,
+        =?utf-8?B?6Im+5a6J6YGT?= <tony@asiaa.sinica.edu.tw>,
+        =?utf-8?B?546L5aWH5YGJ?= <cwwang@phys.ntu.edu.tw>,
+        "twhepnet" <twhepnet@hepmail.phys.sinica.edu.tw>,
+        "Prof. Yuan Chi" <yuan@asiaa.sinica.edu.tw>,
+        "hsyang" <hsyang@phys.ntu.edu.tw>,
+        "Guo-Chin Liu" <gcliu@asiaa.sinica.edu.tw>,
+        "Ghosh" <dghosh@phys.ntu.edu.tw>, "astro" <astro@asiaa.sinica.edu.tw>,
+        "K-W Ng" <nkw@phys.sinica.edu.tw>, "Miao Li" <mli@phys.ntu.edu.tw>,
+        =?utf-8?B?6ZeV5b+X6bS75pWZ5o6I?= <chiuehth@phys.ntu.edu.tw>
+Subject: joint group meeting
+Date: Thu, 18 Oct 2001 14:08:40 +0800
+MIME-Version: 1.0
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MIMEOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Length: 570
+Status: R
+
+===========================================
+             *         CosPA Theory  Seminar        *
+    *        J O I N T    G R O U P     M E E T I N G        *
+===========================================
+
+
+                  October 22, 2001 (Monday, 4:10 - 5:10 p.m.)
+                  Room 815, New Physics Building, NTU
+                  * Coffee hour starts at 3:50 p.m.
+
+
+
+             SPEAKER: Prof. Xiao-Gang He
+             (Dept. of Physics, National Taiwan University)
+
+             TITLE:
+           "Can We Feel the Effects of Noncommutative Space-Time？"
+
+

@@ -1,0 +1,85 @@
+From kyl@asiaa.sinica.edu.tw Sun Sep  5 19:15 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id TAA23872
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 5 Sep 1999 19:14:31 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id TAA04781
+	for <astro@asiaa.sinica.edu.tw>; Sun, 5 Sep 1999 19:08:29 +0800
+Date: Sun, 5 Sep 1999 19:10:47 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: VSOP Announcement of Opportunity (fwd)
+Message-ID: <Pine.SOL.4.10.9909051910440.27286-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2864
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Sat, 4 Sep 1999 00:09:47 +0900 (JST)
+From: HIRABAYASHI Hisashi <hirax@vsop.isas.ac.jp>
+To: vlbi@cv3.cv.nrao.edu
+Subject: VSOP Announcement of Opportunity
+
+
+------------------------------------------------------------------------------
+
+The Third VLBI Space Observatory Programme (VSOP) ANNOUNCEMENT OF OPPORTUNITY
+
+------------------------------------------------------------------------------
+
+The Third VSOP Announcement of Opportunity (AO3) was released on September 1st.
+Proposals, which cover the use of both the HALCA satellite and ground radio 
+telescopes, must reach the Institute of Space and Astronautical Science by
+October 1, 1999. Future calls for VSOP proposals will occur three times per 
+year, coordinated with the calls for proposals by the ground VLBI networks, 
+with subsequent due dates on 1 February, 1 June, etc.  
+
+Proposals submitted for AO3 can be scheduled as early as mid-January 2000.  
+It is important to submit proposals at this deadline for those regions of the 
+sky which have good (u-v) coverage between January and May 2000 (see below).  
+Proposals for sources in other regions of sky which can be observed in the 
+next year, and for long-term monitoring programs, will also be accepted at 
+this deadline.
+
+The information needed to submit a VSOP proposal is available from
+
+                 http://www.vsop.isas.ac.jp/obs/AO.html .
+
+This includes the Third VSOP Announcement of Opportunity, AO3 Cover Sheets,
+Proposer's Guide, and Suggestions for Proposers.  All-sky (u,v)-coverage plots
+for each month of 2000 and 2001 using HALCA with illustrative ground arrays
+can be inspected to determine when observations of a particular source are 
+most suitable. A summary of changes from AO2 is also available for those 
+already familiar with VSOP observing.  An e-mail help desk has been set up
+at   vsop_help@vsop.isas.ac.jp   to answer any questions proposers may have.
+A listing of all successfully observed and currently scheduled AO1 and AO2 
+observations will be available shortly.
+
+The cover sheets and scientific justification must reach ISAS no later than 
+October 1, 1999.  The cover sheets (Latex file) must be submitted by e-mail.
+The scientific justification can be sent by e-mail in postscript form or by 
+surface mail. Submission one or two days before the deadline is recommended for
+postscript files to ensure there are no problems with printing the proposal.
+
+
+Prof. "Hirax" Hirabayashi
+VSOP Project Scientist
+
+------------------------------------------------------------------------------
+
+

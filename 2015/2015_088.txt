@@ -1,0 +1,53 @@
+> Subject: Call for Proposals of VERA 2015B
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Thu, 16 Apr 2015 14:56:35 +0900
+> Cc: azensus@mpifr-bonn.mpg.de,
+> To: evntech@jb.man.ac.uk, vlbi@nrao.edu, vlbi@listmgr.cv.nrao.edu,
+>     merlin-announce@jb.man.ac.uk, <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcements of the call-for-proposals of 
+the VERA for 2015B season.  
+Please distribute this announcement to your community and encourage 
+people to write proposals.  
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+=============================
+********************************
+Call for Proposals of VERA
+Deadline;  May 26, 2015, 08:00 UT.
+*********************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.  
+Available observation time is up to 200 hours during the observation period 
+from August 15th, 2015 to January 15th, 2016.
+Although it is limited to VERA array and  a single-beam mode, 
+the 6.7 GHz ( C-band ) is opened on shared-risk basis. 
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+http://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+                      Mareki Honma
+                      Director of Mizusawa VLBI  Observatory of NAOJ
+                         Email;  mareki.honma (at-mark) nao.ac.jp
+                         Phone; +81-197-22-7128
+     
+===============================================================================

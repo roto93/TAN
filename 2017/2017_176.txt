@@ -1,0 +1,96 @@
+==============================================================================
+
+In this issue (Oct 23 - 28, 2017)
+
+1. LOT 2018A call of proposal (Dec 01)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Oct 30): Keiichi Umetsu (ASIAA)
+                                      (Nov 01): Meng-Ru Wu (ASIOP)
+                                      (Nov 01): Po-Chieh Yu (NCU)
+
+==============================================================================
+
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> Date: Wed, 25 Oct 2017 08:41:27 +0800
+> Subject: LOT 2018A call of proposal
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear Prof Kuan, can you announce the following to TAN? Thanks.
+
+----------------------------------------------------------------------------
+Dear all, the call of proposal for LOT in 2018A Semester is announced in
+Lulin website. Please check:
+
+http://www.lulin.ncu.edu.tw/
+http://www.lulin.ncu.edu.tw/lulinnews/files/171024_Announcement_LOT2018A.txt
+
+The deadline is *01 December 2017*
+
+----------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> Date: Thu, 26 Oct 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Keiichi Umetsu (ASIAA)
+Topic:         Formation and Evolution of Cosmic Giants: Lensing View of Galaxy Cluster Halos
+Time:         10/30 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+I will talk about the discovery of a "plane" dictating dark-matter halo evolution from our gravitational lensing and X-ray observations. We show that high-mass galaxy clusters—cosmic giants formed in the universe—lie on a plane in the 3D logarithmic space of their characteristic halo radius "rs", mass "Ms" , and X-ray temperature "Tx" with a very small orthogonal scatter. The tight correlation indicates that the gas temperature was determined at a specific cluster formation time, which is encoded in (rs,Ms) and that the gas was heated when the clusters were in the fast-growing phase. Intriguingly, the plane is significantly tilted with respect to the canonical virial expectation, Tx ∝ Ms /rs.  We show that the self-similar solution of Bertschinger (1985) for secondary infall and accretion can explain the observed relation, Tx ∝ Ms^1.5 /rs^2. Numerical simulations reproduce the observed plane and its angle. This result holds independently of the gas physics implemente!
+d in the code, revealing the fundamental origin of this plane.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Meng-Ru Wu (ASIOP)
+Topic:         The Gold mine of the universe: the r-process nucleosynthesis in explosive astrophysical events
+Time:         11/1 (Wednesday) 15:40 - 16:40
+Place:         R1203
+Abstract:
+The astrophysical site hosting the formation of elements heavier than iron, including Silver and Gold via the rapid neutron-capture process (r-process) has been debated for many decades. Over the past few years, owing to the advances of theoretical development and various observational hints, the prevalent paradigm shifted largely from core-collapse supernovae to the merger of compact objects -- binary neutron stars or one neutron star with one black hole. In this talk, I will first introduce the basic concept and ingredients of the r-process nucleosynthesis. I will then discuss some of the recent evidences and discoveries which are relevant for identifying the r-process sites, including the most recent detection of the merger of the binary neutron stars. I will also speak about the theoretical uncertainties and challenges lying ahead.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Po-Chieh Yu (NCU)
+Topic:         The Story of GW170817/EM170817
+Time:         11/1 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+On August 17, 2017 at 12∶41:04 UTC, the Advanced LIGO and Advanced Virgo gravitational-wave detectors made their fifth observation of gravitational wave (GW), GW170817. For the first time, astronomers confirmed the electromagnetic (EM) counterpart of GW170817 in the nearby galaxy NGC 4993, is due to a binary neutron star merger. Since neutron stars merger is the candidate site for nuclear synthesis of heavy elements such as gold, the work of global network can help in understanding the origin of the these heavy elements – one of the mystery in modern astrophysics.  In this talk, I will review current results from GW170817/EM170817. Particularly, I will introduce the contribution of IANCU in this breakthrough discovery. Also, I will show the current status of Lulin observatory from follow-up observations of GW and transient sources. Finally, I will introduce several projects of IANCU and discuss what role Taiwan can play in the era of multi-messenger  astronomy.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

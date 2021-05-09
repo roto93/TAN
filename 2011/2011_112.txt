@@ -1,0 +1,40 @@
+From tcchang@asiaa.sinica.edu.tw Sun Jul 24 08:00:09 2011
+Date: Sun, 24 Jul 2011 08:00:01 +0800
+From: Tzu-Ching Chang <tcchang@asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+Subject: Colloquium talk this week
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Prof. Feng Yuan (SHAO)
+Topic:		AGNs feedback at pc scale
+Time:		7/29 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+Abstract:
+In a hot accretion flow, the radiation from the innermost region of
+the flow propagates outward and heats the electrons at large radii
+via Compton scattering. It has been shown in previous works that if
+the radiation is strong enough, $Lga 2%L_{rm Edd}$, the electrons
+at the Bondi radius ($r_Bsim 10^5 r_s$) will be heated to be above
+the virial temperature thus the accretion will be stopped. The
+accretion will recover after the gas cools down. This results in the
+oscillation of the black hole activity. In this paper we show that
+this mechanism is the origin of the intermittent activity of some
+compact young radio sources. Such intermittency is required to
+explain the population of these sources. We calculate the timescales
+of the black hole oscillation and find that the durations of active
+and inactive phases are $3times 10^4 (0.1/alpha)(M/10^8msun)
+(L/2%L_{rm Edd})^{-1/2}~{rm yr}$ and
+$10^5(alpha/0.1)(M/10^8msun)~{rm yr}$, respectively, consistent
+with those required to explain observations. Such kind of feedback
+occurring at parsec scale should be common in low-luminosity AGNs
+and should be considered when we consider their matter and energy
+output.
+
+
+
+
+

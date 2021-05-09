@@ -1,0 +1,57 @@
+
+> Date: Tue, 20 Dec 2005 21:31:59 +0800
+> From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: [Fwd: low energy efficiency of Suzaku]
+
+
+-------- Original Message --------
+> Subject: low energy efficiency of Suzaku
+> Date: Tue, 20 Dec 2005 20:57:46 +0900
+> From: "Kazuhisa MITSUDA" <mitsuda@astro.isas.jaxa.jp>
+> To: hkchang@phys.nthu.edu.tw
+> CC: mitsuda@astro.isas.jaxa.jp
+
+Dear Prof. Hsiang-Kuang Chang,
+
+There is an important notice to all Suzaku proposers
+on recent perfomance of Suzaku.
+Please distribute this message to your colleagues.
+
+Kazuhisa Mitsuda
+ISAS/JAXA
+
+
+=====
+Subject: low energy efficiency of Suzaku
+
+ December 20, 2005
+
+The good low energy response of the back illuminated (BI) CCD,
+i.e. the high detection efficiency and the gaussian-like good energy
+spread function, is an important unique feature of Suzaku. However, we
+recently found evidence that the effective area below 1 keV of both
+back- and front-illuminated sensors is decreasing with time (see
+figures in the Suzaku web page,
+http://www.astro.isas.jaxa.jp/suzaku/). On the average at 0.6 keV the
+effective area is about 50% that just after launch. We are working
+hard to understand the cause of decrease and to find possible recovery
+methods.  The present best estimate of the e-folding time constant is
+160 days at the OVII line (570 eV), but it can be shorter at lower
+energies and is longer at higher energies.  However, at present we
+cannot predict the future long-term behavior of efficiency
+well. Because of this we will put the priority on the low energy
+observations as soon as possible during AO1. And we will provide the
+response functions (rmf files) of the XIS as of October 26, 2005 on
+the suzaku web page soon.  Please note in your proposal which response
+function is used to estimate the observation times.
+
+Please note that the energy resolution has not changed.
+
+
+Best wishes,
+
+ Kazuhisa Mitsuda (ISAS/JAXA)
+ Hideyo Kunieda (ISAS/JAXA and Nagoya University)
+ Nick White (NASA/GSFC)
+

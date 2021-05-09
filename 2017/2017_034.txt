@@ -1,0 +1,67 @@
+> Date: Thu, 9 Mar 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Baobab Liu (ESO)
+Topic:          Star formation: previous developments and future
+Time:           3/13 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Limited by the coarse angular resolutions and/or the poor sensitivities of the previous generation (sub)millimeter telescopes (SMT, CSO, IRAM, SMA, Herschel, Planck), significant efforts and resources have been devoted to improving the constraints on a few "macro phenomenological correlations", such as the star-formation (e.g., Kennicutt-Schmidt law), Larson's laws, etc. While these laws are almost treated as fundamental physics laws, and have been routinely compared with any new observational measurements, the micro physics including how the stellar cluster-formation is related to an interplay between the supersonic gas motions and self-gravitational contractions, remain poorly understood. As an example, the meaning of the term "turbulence" has been rather ambiguous for the community of star-formation. In this talk, I will present our preliminary developments about how images of molecular cloud structures with extremely high spatial and intensity dynamic ranges may enable d!
+ iscriminating a variety of physical conditions, and how such developments can be prosecuted with the facilities of Taiwan and EAO.
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Simeon Bird (Johns Hopkins University)
+Topic:          Simulating Neutral Hydrogen, Galaxy Clusters and Primordial Black Holes
+Time:           3/14 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+It has recently become possible to perform large-scale cosmological simulations incorporating gas and enough physical processes to roughly reproduce the distribution of matter observed in the Universe. Our simulations have allowed us to resolve several long-standing problems in astrophysics, as well as suggesting new lines of investigation. I will describe in particular my work on the distribution of neutral hydrogen absorbers and galaxy clusters, both of which have implications for cosmology. I will then discuss my recent work on the implications of the LIGO gravitational wave detection for primordial black holes, which raises the exciting possibility that LIGO may have detected the dark matter.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Sofia Wallstrom (ASIAA)
+Topic:          The death throes of massive stars
+Time:           3/15 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Massive evolved stars affect their local surroundings as they go through phases of intense mass-loss and eventually explode as supernovae, adding kinetic energy and freshly synthesised material to the interstellar medium. Over time, these processes affect the chemical evolution of the interstellar medium on a galactic scale. I will here present my PhD research, which probed the death throes of massive stars at various stages.
+First, CO observations were used to study the circumstellar environment of a massive star, the yellow hypergiant IRAS 17163-3907. Observations with APEX and ALMA ACA reveal a complex environment with several distinct components: a fast recent stellar wind of 100 km/s, a clumpy CO ring which appears to be a torus ejected by the star several thousand years ago, and a unidirectional bright spur extending from the star to the clumpy ring. These asymmetries are not seen in infrared dust observations, and demonstrate the complexity of massive evolved stars and the need for high resolution molecular observations to understand them.
+Next, observations of CO lines in the supernova remnant Cassiopeia A were used to study the effect of the reverse shock on supernova ejecta. A large column density of warm CO was found, which has most likely re-formed after the passage of the reverse shock. The high temperature and density implies that thermal conduction by electrons may be an important process for the evolution of dense ejecta knots, with implications for the survival of supernova dust.
+Finally, the contribution of massive stars to galactic chemical enrichment was investigated indirectly with
+measurements of isotopic ratios in a molecular absorber at z=0.68 towards B0218-211. The ratios at z=0.68 were found to be very different from those in the solar neighborhood, but similar to the ratios found in another absorber at z=0.89 and in starburst galaxies. The interpretation of these ratios is as a signature of enrichment mainly by massive stars.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chueh-Yi Chou (ASIAA)
+Topic:          PFS fiber probe calibration unit
+Time:           3/15 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Toshiya Namikawa (Stanford University)
+Topic:          Cosmology with cosmic microwave background polarization
+Time:           3/16 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+One of the promising cosmological probes in the next decades is the CMB polarization. While CMB temperature anisotropies have been already measured very precisely, CMB polarization, in particular a twisting pattern in the polarization map (B mode) is not well measured. The detection of B mode at more than degree angular scale opens new window into the inflationary universe and high energy physics beyond the standard model. Precise polarization data also enables us to measure gravitational lensing of CMB which is a key probe to understand the properties of neutrinos, dark matter and dark energy. In this talk, I will present analysis of the gravitational lensing and cosmic birefringence measurements with CMB polarization data taken from BICEP2/Keck Array experiments. I will also talk about synergy between CMB experiments and galaxy surveys such as the galaxy-lensing cross correlation with Subaru-Hyper Suprime Cam and CMB experiments, and delensing B mode with mass tracers.
+
+==============================================================================

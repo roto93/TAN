@@ -1,0 +1,105 @@
+From kyl@asiaa.sinica.edu.tw Mon Aug  9 16:38 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA21007
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 9 Aug 1999 16:37:59 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id QAA28427
+	for <astro@asiaa.sinica.edu.tw>; Mon, 9 Aug 1999 16:36:20 +0800
+Date: Mon, 9 Aug 1999 16:34:24 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: GCFLASH - Vol. 10, No. 10 (Aug 9, 1999) (fwd)
+Message-ID: <Pine.SOL.4.10.9908091634220.26474-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3862
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 9 Aug 1999 10:18:44 +0200 (MET DST)
+From: Galactic Center Newsletter <gcnews@mpifr-bonn.mpg.de>
+To: gcnews_exploder@sun184.mpifr-bonn.mpg.de
+Subject: GCFLASH - Vol. 10, No. 10 (Aug 9, 1999)
+
+
+========================================================================
+
+                              G C N E W S
+                             * Newsflash *
+
+            - The Newsletter for Galactic Center Research -
+
+gcnews@mpifr-bonn.mpg.de             http://www.mpifr-bonn.mpg.de/gcnews
+========================================================================
+Vol. 10, No. 10                                              Aug 9, 1999
+
+
+Recently submitted papers:
+--------------------------
+
+Email    : vbailey@ast.cam.ac.uk
+Title    : Red giant collisions in the galactic centre
+Author(s): V. C. Bailey, M. B. Davies
+Paper    : MNRAS, in press
+EPrint   : astro-ph/9907309
+
+Abstract:
+We simulate collisions involving red-giant stars in the centre of our
+galaxy. Such encounters may explain the observed paucity of highly
+luminous red giants within ~ 0.2 pc of Sgr A*. The masses of the
+missing stars are likely to be in the range ~ 2 M_o - 8 M_o.  Recent
+models of the galactic centre cluster's density distribution and
+velocity dispersion are used to calculate two-body collision rates.
+In particular we use stellar-evolution models to calculate the number
+of collisions a star will have during different evolutionary
+phases. We find that the number of two-body collisions per star is \lo
+1 in the central 0.1 pc - 0.2 pc, depending strongly on the
+galactocentric radius, with some uncertainty from the assumed cluster
+models and stellar-evolution models. Using a 3D numerical
+hydrodynamics code (SPH) we simulate encounters involving cluster
+stars of various masses with a 2 M_o red giant and an 8 M_o red
+giant. The instantaneous mass loss in such collisions is rarely enough
+to destroy either giant. A fraction of the collisions do, however,
+lead to the formation of common envelope systems where the impactor
+and giant's core are enshrouded by the envelope of the giant. Such
+systems may evolve to expel the envelope, leaving a tight binary; the
+original giant is destroyed.  The fraction of collisions that produce
+common envelope systems is sensitive to the local velocity dispersion
+and hence galactocentric radius. Whereas most of our collisions lead
+to common envelope formation at a few parsecs from Sgr A*, very
+few collisions do so within the central 0.2 pc. Using our
+collision-rate calculations we then compute the time-scales for a
+giant star to suffer such a collision within the galactic
+centre. These time-scales are \go 10^9-10 years and so are longer than
+the lifetimes of stars more-massive than ~ 2 M_o. Thus the observed
+paucity of luminous giants is unlikely to be due to the formation of
+common envelope systems as a result of two-body encounters involving
+giant stars.
+------------------------------------------------------------------------
+
+
+(Older versions of the Newsflash can be found at the gcnews web-page)
+========================================================================
+			       Edited by
+Angela Cotera                                Heino Falcke
+(cotera@ipac.caltech.edu)                    (hfalcke@mpifr-bonn.mpg.de)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ For Abstract submission please send the (La)Tex file of your paper to
+                          gcnews@mpifr-bonn.mpg.de
+========================================================================
+
+

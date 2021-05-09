@@ -1,0 +1,36 @@
+From taiji@asiaa.sinica.edu.tw Thu Jan 18 14:18 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA09377
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 18 Jan 2001 14:18:46 +0800 (CST)
+Received: from iaa25 (iaa25 [140.109.177.110])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA16989;
+	Thu, 18 Jan 2001 14:22:31 +0800
+Date: Thu, 18 Jan 2001 14:12:27 +0800 (CST)
+From: Jounghun Lee <taiji@asiaa.sinica.edu.tw>
+X-Sender: taiji@iaa25
+To: Cosmology & Particle Astrophysics Journal Club: ;
+Subject: the most recent e-prints about H_0
+Message-ID: <Pine.SOL.4.10.10101181402590.13114-100000@iaa25>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 511
+Status: RO
+
+Dear CosPA members,
+
+Today we heard a nice talk about the measurement of H_0 
+using the SZ effect given by Ms. Lin in the CosPA Journal club. 
+As I commented in the middle of the journal club, 
+there is a very recent paper about the same topic "A Measurement 
+of H_0 from the SZ effect" posted in the archive on Jan 11 2001, 
+written by Mason et al. (astro-ph/0101169). 
+
+I recommend this preprint in the case you are interested in
+this topic that is also directly related to our AMiBA 
+project.
+
+cheers,
+
+Hun
+
+

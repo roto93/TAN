@@ -1,0 +1,270 @@
+=============================================================================
+
+In this issue (Dec 13 - 20, 2020)
+
+1. NCTS Postdoctoral Fellowships in Theoretical and Computational Astrophys
+2. ASIAA Colloquium/Seminar/Lunchtalk:
+                       (Dec 21): Hsiang-Chih Hwang (Johns Hopkins University)
+                       (Dec 23): Joshua Yao-Yu Lin (UIUC)
+                       (Dec 23): Lu, Wei-Chun (ASIAA)
+                       (Dec 24): Sheng-Chieh Lin (Univ of Kentucky)
+3. ALMA Cycle 8 2021 Pre-Announcement
+4. [Shida CAG seminar] (Dec 25): Hsiang-Chih Hwang (Johns Hopkins University)
+
+==============================================================================
+
+From: Min-Kai Lin <mklin@asiaa.sinica.edu.tw>
+Date: Sun, 13 Dec 2020 13:17:20 +0800
+Subject: NCTS Postdoctoral Fellowships in Theoretical and Computational Astrophysics
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear all,
+
+We would like to draw your attention to a new Postdoctoral Fellowship in
+Theoretical and Computational Astrophysics supported through the National
+Center for Theoretical Sciences. Details can be found at:
+
+https://jobregister.aas.org/ad/96faba8f.
+
+The deadline is *January 15, 2021*.
+
+Cheers,
+Min-Kai on behalf of the TCA
+
+==============================================================================
+
+Date: Thu, 17 Dec 2020 11:30:03 +0800
+Message-Id: <202012170330.0BH3U3s0007133@www.asiaa.sinica.edu.tw>
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Hsiang-Chih Hwang (Johns Hopkins University)
+Topic:         The birth and the fate of close and wide binaries
+Time:         12/21 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+Since a significant fraction of stars are in multiple systems, binaries are now a critical component in modern astronomy. Close binaries are the origin of many exotic astronomical events in the Universe, including stellar mergers, type Ia supernovae, and gravitational wave events. On the other extreme, wide binaries are easily disrupted by gravitational perturbations, making them a unique tool to probe the Galactic structures. However, the formation and evolution of close and wide binaries remain an unsolved problem, especially because the age of binaries is difficult to measure. In this talk, I will show how we can learn about the age evolution of close and wide binaries from the Galactic kinematics using the Gaia data. For main-sequence contact binaries, I will discuss when and how they are born and when they merge. By combining Gaia with LAMOST, I will show that the wide binary fraction strongly depends on the metallicity, shedding light on their formation processes. In t!
+ he end, I will demonstrate how these binaries can help us to understand the mass-radius relation of white dwarfs and planet formation.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Joshua Yao-Yu Lin (UIUC)
+Topic:         Feature Extraction on Synthetic Black Hole Images with Neural Networks
+Time:         12/23 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The Event Horizon Telescope (EHT) recently released the first horizon-scale images of the black hole in M87. Combined with other astronomical data, these images constrain the mass and spin of the black hole as well as the accretion rate and magnetic flux trapped on the black hole. An important question for EHT is how well key parameters such as spin and trapped magnetic flux can be extracted from present and future EHT data alone. Here we explore parameter extraction using a neural network trained on high resolution synthetic images drawn from state-of-the-art simulations. We find that the neural network is able to recover spin and flux with high accuracy. We are particularly interested in interpreting the neural network output and understanding which features are used to identify, e.g., black hole spin. Using feature maps, we find that the network keys on low surface brightness features in particular.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *6PM* next Mon.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Lu, Wei-Chun (ASIAA)
+Topic:         LabVIEWæ‡‰ç”¨èˆ‡ç¯„ä¾‹ç°¡ä»‹
+Time:         12/23 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Sheng-Chieh Lin (University of Kentucky)
+Topic:         Estimating Cluster Mass from SDSS Broad-band Images by Deep Learning
+Time:         12/24 (Thursday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The cluster mass is one of the fundamental properties of galaxy clusters. In optical surveys, several measures can be taken to estimate the cluster mass, including, for example, utilizing the velocity dispersion of the cluster galaxies, or the weak gravitational lensing. On the other hand, deep learning provides an unique way to predict the cluster mass by approximating the underlying complicated mappings from inputs (images or catalogs) to outputs. In this talk, I will present a semi-supervised machine learning model which estimates the cluster mass directly from the SDSS ugriz-band images. I will also show the visualization of the model which can be used to interpret the network output.
+
+==============================================================================
+
+Date: Fri, 18 Dec 2020 07:55:14 +0800
+Subject: ALMA Cycle 8 2021 Pre-Announcement
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+    The ALMA Cycle 8 2021 Pre-announcement has been released.=20
+
+    Following the postponement of Cycle 8 because of the COVID-19 =
+pandemic, the Joint ALMA Observatory (JAO) will now start the next cycle =
+of observations, referred to as "Cycle 8 2021", in October 2021. A Call =
+for Proposals (CfP) with detailed information on Cycle 8 2021 is =
+anticipated to be issued in March 2021 and the deadline for proposal =
+submission will be in April 2021.  The purpose of this pre-announcement =
+is to highlight aspects of the CfP to assist with early planning, and it =
+includes newly updated information over the previous pre-announcement =
+delivered for Cycle 8 in December 2019.  As the global response to the =
+pandemic continues to evolve, we encourage interested parties to follow =
+the ALMA Science Portal for the latest information.
+
+The key dates (anticipated) for Cycle 8 2021 are:    =09
+        17 December 2020        Cycle 8 2021 =
+pre-announcement
+        17 March 2021            Release of the ALMA =
+Cycle 8 2021 CfP and Observing Tool, and opening of archive for proposal =
+submission
+        21 April 2021            Proposal submission =
+deadline
+        August 2021            Results of the proposal =
+review sent to proposers
+        8 September 2021        ACA Supplemental Call =
+for Proposals released, and opening of archive for proposal submission
+        1 October 2021            Start of Cycle 8 2021 =
+observations
+        6 October 2021            Cycle 8 2021 =
+Supplemental Call deadline
+
+Updates to the Proposal Review Process=20
+    =E2=80=A2 ALMA will adopt a distributed peer review process for =
+scientific review of most proposals submitted to Cycle 8 2021. After a =
+successful pilot run in the Cycle 7 Supplemental Call (see ALMA Memo =
+616), distributed peer review will be used for all proposals requesting =
+less than 25 hours on the 12-m Array, and ACA stand-alone proposals =
+requesting less than 150 hours on the 7-m Array. In this review system, =
+for each submitted proposal the PI (or one of the delegated co-Is) will =
+be responsible for reviewing up to 10 other submitted proposals, thus =
+increasing the involvement of the ALMA community in the review process.
+    =E2=80=A2 Large proposals and proposals requesting more than 25 =
+hours on the 12-m Array will be reviewed by science review panels, as in =
+previous cycles.=20
+    =E2=80=A2 ALMA encourages PIs to submit larger, more ambitious =
+proposals. Therefore, there is no longer a cap on the total time that =
+can be allocated to Large Programs. Further, Large Programs andproposals =
+that require more than 25 hours on the 12-m Array will have first =
+priority to fill at least 10% of the observing queue. =20
+    =E2=80=A2 All Cycle 8 2021 proposals will be reviewed using a =
+dual anonymous procedure.  While proposers will still enter their names =
+and affiliations in the Observing Tool, their identities will be =
+concealed from the reviewers.  It will be the responsibility of the =
+investigators to write their proposals such that anonymity is preserved. =
+ By using this procedure, we aim to minimize unconscious bias.  =
+Guidelines on preparing anonymous proposals will be made available prior =
+to the time of the CfP.
+
+    A FAQ on the proposal process is available here =
+https://almascience.nao.ac.jp/images/frequently-asked-questions.
+
+New in Cycle 8 2021    =E2=80=94 The following technical capabilities =
+will be available this Cycle for the first time:
+    =E2=80=A2 Solar observations in Band 5
+    =E2=80=A2 A passive-phasing mode that allows observations of =
+fainter VLBI targets (Bands 3 and 6), and can also be used in an =
+ALMA-only mode primarily for observations of pulsars (Band 3). This mode =
+can be used to observe sources with a correlated flux density < 500 mJy =
+within an unresolved core on ALMA baselines up to 1 km, but requires =
+there to be a bright calibrator close to the science target.
+    =E2=80=A2 High frequency observations (Bands 9 and 10) with the =
+stand-alone 7-m Array
+    =E2=80=A2 Mosaicking of continuum linear polarization =
+observations (Bands 3 to 7) with the 12-m Array
+    =E2=80=A2 Spectral scans with the 7-m Array
+    =E2=80=A2 Up to a total of 75 hours of full polarization =
+observations of a single field with the 7-m Array in stand-alone mode at =
+the Main Call only
+
+
+    For more information, please see =
+https://almascience.nao.ac.jp/news/alma-cycle-8-2021-pre-announcement =
+<https://almascience.nao.ac.jp/news/alma-cycle-8-2021-pre-announcement>
+
+best,
+Yu-Nung=
+
+==============================================================================
+
+Date: Fri, 18 Dec 2020 18:07:35 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: undisclosed-recipients:;
+Subject: [CAG seminar] 2020/Dec/25 12:20 B101
+
+Dear all,
+
+Next Friday, Hsiang-Chih Hwang, from Johns Hopkins University, will
+share with us his work on the observation of binaries, their properties
+and their impact on the surrounding environment.
+
+Lunchbox reservation: https://forms.gle/1i4qPmgMtkLM4KWH6
+
+Best,
+Yueh-Ning
+
+--------------------------------------------------------
+Speaker: Hsiang-Chih Hwang (Johns Hopkins University)
+Time: 12:20 pm, 2020 Dec. 25
+Venue: B101
+
+Title: The birth and the fate of close and wide binaries
+
+Abstract: Since a significant fraction of stars are in multiple systems,
+binaries are now a critical component in modern astronomy. Close
+binaries are the origin of many exotic astronomical events in the
+Universe, including stellar mergers, type Ia supernovae, and
+gravitational wave events. On the other extreme, wide binaries are
+easily disrupted by gravitational perturbations, making them a unique
+tool to probe the Galactic structures. However, the formation and
+evolution of close and wide binaries remain an unsolved problem,
+especially because the age of binaries is difficult to measure. In this
+talk, I will show how we can learn about the age evolution of close and
+wide binaries from the Galactic kinematics using the Gaia data. For
+main-sequence contact binaries, I will discuss when and how they are
+born and when they merge. By combining Gaia with LAMOST, I will show
+that the wide binary fraction strongly depends on the metallicity,
+shedding light on their formation processes. In the end, I will
+demonstrate how these binaries can help us to understand the mass-radius
+relation of white dwarfs and planet formation.
+-------------------------------------------------------
+
+
+
+Upcoming CAG events:
+-------------------------------------------------------
+Space Lunch every Thursday 12:20 B413
+2020/Dec/22 10:00 B413 Online seminar: Ryan Farber
+2020/Dec/23 12:20 TBA  Online seminar: Hai-Feng Wang
+2020/Dec/25 12:20 B101 CAG seminar:    Hsiang-Chih Hwang
+2020/Dec/29 12:20 B413 Online seminar: Raffaele Rani
+2020/Dec/30 14:20 TBA  CAG seminar:    Marco MuÃ±oz-GutiÃ©rrez
+2021/Jan/08 12:20 TBA  CAG seminar:    Feng-Li Lin
+2021/Jan/12 10:00 A201 CAG Inauguration ceremony
+2021/Jan/12 10:55 S101 CAG Inauguration colloquium: You-Hua Chou
+2021/Jan/15 13:20 TBA  CAG seminar:    Sean Hsu
+2021/Feb/23 14:20 S101 ES colloquium:  Dipen Sahu
+-------------------------------------------------------
+
+
+-- 
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

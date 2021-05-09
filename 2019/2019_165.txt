@@ -1,0 +1,116 @@
+==============================================================================
+
+From: Kiyoaki Wajima <wajima@kasi.re.kr>
+To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+    <vlbi@nrao.edu>,
+    <merlin-announce@jb.man.ac.uk>,
+      <astro@asiaa.sinica.edu.tw>
+Subject: [KaVA/EAVN2020A] Call for Proposals for EAVN for the 2020A semester
+Date: Mon, 14 Oct 2019 07:53:49 +0000
+
+Dear colleagues,
+
+This e-mail is to announce 'Call for Proposals (CfP) for the East
+Asian VLBI Network (EAVN)' for the 2020A semester. From the 2020A
+semester, CfP for the KVN and VERA Array (KaVA) is merged into the
+EAVN CfP. Please refer to the following EAVN website for more details
+about the array's specification, available observation modes, and
+how to submit proposals.
+
+https://eavn.kasi.re.kr/
+
+
+Best regards,
+
+Kiyoaki Wajima
+(KASI; in place of EAVN directors)
+
+------------------------------------
+
+***************************************************
+Call for Proposals for the East Asian VLBI Network (EAVN)
+for the 2020A semester
+Proposal submission deadline: 15th November, 2019, 8:00 UT
+***************************************************
+
+*** Overview ***
+We invite proposals for open-use observations with the East Asian VLBI
+Network (EAVN), which is the international collaborative VLBI array
+between China, Korea, and Japan. In the 2020A semester, 11 telescopes
+(VERA 4 x 20 m, KVN 3 x 21 m, Nobeyama 45 m, Takahagi 32 m, Tianma 65 m,
+and Nanshan 26 m) participate in the EAVN open-use program. From the
+2020A semester, proposal submission of the KVN and VERA Array (KaVA;
+7-telescope array with KVN and VERA) is integrated with that of EAVN.
+
+
+*** Observing mode ***
+EAVN provides an opportunity of VLBI observations with a data recording
+rate of 1 Gbps (total bandwidth of 256 MHz and with single polarization
+(LHCP) at 22 and 43 GHz. We also support various observing modes such
+as 'astrometry mode' and 'hybrid mode' for part of EAVN telescopes.
+Please refer to the EAVN status report on the EAVN website for more
+details.
+
+
+*** Telescope time ***
+The total available observation time for EAVN is up to 500 hours in
+the 2020A semester, while the available observing time for each EAVN
+telescope is different. All EAVN observations will be scheduled between
+11th January and 10th June 2020. Please refer to the EAVN status report
+on the EAVN website for more details.
+
+EAVN accepts a request of usage of sub-array configuration (KaVA 7
+telescopes and additional telescopes from non-KaVA stations), as well
+as EAVN full array configuration.
+
+The maximum observation time for a single EAVN proposal is limited to
+150 hours in case of usage of only KaVA, while one can request for the
+maximum total observation time of 60 hours for Tianma and Nanshan for
+a single proposal, and that of 24 hours for Nobeyama and Takahagi. If
+requested, the observation time can be allocated over a year until 10th
+January 2021, however the total observation time is still limited to
+150 hours even in this case.
+
+
+*** Target of opportunity ***
+EAVN accepts target of opportunity (ToO) proposals, while Nobeyama and
+Takahagi cannot be included for ToO proposals. It is strongly recommended
+that ToO proposals (especially expected ToO) are submitted during the
+regular CfP. Unexpected or urgent ToO can be submitted as Director's
+Discretionary Time (DDT) proposals at any time. ToO proposals must
+include clear triggering criteria to initiate an observation. ToOs
+are valid for one year after it is approved. ToO proposals for DDT
+should follow the same format of regular call and should be sent to
+eavnprop(at mark)kasi.re.kr.
+
+
+*** Proposal submission ***
+Proposals should be submitted via EAVN website. Proposal submission
+deadline is 15th November 2019, 8:00 UT. Please refer to the EAVN
+status report for detailed information about the proposal format. The
+designated coversheet form can be downloaded via the EAVN websites.
+
+
+*** EAVN website ***
+Please refer to the following EAVN website for more information about
+the array capabilities and detailed conditions for proposal submission.
+
+EAVN website: http://eavn.kasi.re.kr/
+
+
+Sincerely,
+
+Mareki Honma
+Director of Mizusawa VLBI Observatory, NAOJ
+
+Kee-Tae Kim
+Director of Radio Astronomy Division, KASI
+
+Zhi-Qiang Shen
+Director of Shanghai Astronomical Observatory, CAS
+
+and
+Na Wang
+Director of Xinjiang Astronomical Observatory, CAS
+
+==============================================================================

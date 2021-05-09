@@ -1,0 +1,40 @@
+> Date: Thu, 24 Mar 2016 08:00:03 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Chihway Chang (ETH Zurich)
+Topic:          Mapping the Invisible Landscape — the Dark Energy Survey and Beyond
+Time:           3/28 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The effect of gravitational lensing has left traces of cosmological information in the Universe for us to pick up. The full information is encoded in the 3D map of dark matter. As a first step to building up this map, I will describe our recent work using the Dark Energy Survey (DES) Science Verification data to make a weak lensing mass map on a large slice of our Universe. I then discuss a few topics where we combine this map and information from the CMB and galaxies. Looking forward to the completion of DES and several ongoing and future optical surveys, these explorations would allow us to take a new look at the invisible landscape of our Universe.
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Ana Duarte-Cabral (University of Exeter)
+Topic:          Observing simulations: Molecular clouds and their journey in the Galaxy.
+Time:           3/29 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In order to have a global picture of the cycle of matter in galaxies, we need to understand the interplay of large-scale galactic phenomena with the formation of giant molecular clouds and, ultimately, their subsequent star formation. In this context, we ran a set of SPH numerical simulations of spiral galaxies structurally resembling our own Milky Way, where we can track the formation and evolution of molecular clouds in detail. In this talk, I will present my recent study of such simulations, where I investigate the link between the molecular cloud properties and position with respect to spiral arms, both directly from the simulation (with the 3D densities of H2 and CO) and from an observer’s perspective (with CO emission in PPV space), providing predictions and tests for observations of molecular clouds and star formation in both the Milky Way, and external galaxies.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Nicolas Peretto (Cardiff University)
+Topic:          The timescale of star formation: Clues from the gas dynamics of infrared dark clouds
+Time:           3/30 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In order to form stars, matter has to transfer from large and diffuse interstellar clouds, to compact and dense protostellar cores. The physical conditions under which this transformation occurs are still highly debated. One particular sticking point is the timescale over which interstellar clouds contract to form cores: Is it rapid (a couple of free-fall times)? or is it slow (tens of free-fall times)? In this talk, I will present recent observational studies of Galactic plane infrared dark clouds (IRDCs). As a result of their infrared quietness IRDCs are ideal laboratories for the study of the earliest stages of star formation. I will focus on the analysis of the gas dynamics of IRDCs with the objective to evaluate their dynamical states (collapsing/expanding/pressure confined) and timescales. The latter will be then compared to the IRDC free-fall times providing some new elements to the debate on the star formation timescale.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

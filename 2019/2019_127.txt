@@ -1,0 +1,197 @@
+==============================================================================
+
+In this issue (Aug 02 - 07, 2019)
+
+1. Arizona Radio Observatory - Call for Proposals: 2019B (Sep 09)
+2. Numerical Astrophysics Summer School: Astrophysical Fluid Dynamics (Sep 4-6)
+3. Submillimeter Array (SMA) Call for Standard Proposals for Semester 2019B
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2019A)
+------------------------------------------------------------------------------
+Dear Astronomers and Astrophysicists of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the ALMA
+Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona, and for the
+10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for
+the period October 15, 2019 - February 15, 2019. Proposal candidates from
+members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should
+submit up to THREE pages of scientific and technical justification (including
+figures, tables, and references) in addition to their Proposal Summary Sheet
+(download 2019B form form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the 2019B Proposal Summary
+Sheet their requested observing blocks (the exact LST ranges to be scheduled
+and number of times to be repeated), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+The 12m ALMA Prototype antenna currently supports dual-polarization sideband-
+separating (SBS) observations in three bands: 4mm (66-90 GHz), 3mm (84-116GHz),
+and 1mm (211-275 GHz). Observations with the new 4mm and 1mm receivers are
+shared-risk for the 2019B season.  The 12m control system supports dual-
+polarization in the same sideband or single-polarization in each sideband ("2
+IF mode"; fixed 6.0 GHz IF frequency), position-switched, beam-switched, and
+OTF observations. Backend modes for the AROWS spectrometer may be found on the
+ARO Equipment Summary and Status sheet at:
+https://www.as.arizona.edu/arizona-radio-observatory
+
+The 10m SMT currently supports a dual-polarization sideband-separating (SBS)
+observations at 1mm (211 - 280 GHz) and dual-polarization double sideband
+observations at 0.8mm (325 - 370 GHz).  The SMT is the preferred site for 1mm
+observations.  The SMT control system supports both dual-polarization ("2 IF
+mode") and dual-polarization + dual-sideband observations ("4 IF mode") with
+tunable IF from 4.5 - 7.5 GHz, for position-switched, beam-switched, and OTF
+observations.  Proposal candidates should consult the ARO Equipment Summary
+and Status sheet for additional technical specifications at:
+https://www.as.arizona.edu/arizona-radio-observatory
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. For further information about remote
+observing and other operational questions, please contact Tom Folkers, ARO
+Software Engineer: tfolkers@email.arizona.edu
+
+Scheduling of successful proposals will be done according to availability of the
+receivers requested.  Graduate student participation is especially encouraged.
+Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by
+midnight (23:59 CST) September 09, 2019 (Monday).
+
+==============================================================================
+
+> From: Meng-Ru Wu <mwu@gate.sinica.edu.tw>
+> Date: Mon, 5 Aug 2019 10:14:05 +0800
+> Subject: Numerical Astrophysics Summer School: Astrophysical Fluid Dynamics,
+>          Sep. 4-6, 2019, NTHU
+> To: astro@asiaa.sinica.edu.tw
+
+
+Dear colleagues,
+
+We have a numerical astrophysics summer school on astrophysical fluids in
+early September (9/4 - 9/6).
+You are welcome to register. The deadline for registration is on August
+15th.
+
+https://nctsmma.github.io/events/201909-naschool/
+
+In this 3-day school, we will introduce the basic theory of fluid dynamics
+and simulations of hydrodynamics. The program of the school consists of
+five lectures and five hands-on Lab sessions. Participants can expect to
+learn how to perform basic hydrodynamic simulations with FLASH code, and
+work together in a group of 2-4 people on a specific small scientific
+project.
+
+Ke-Jung Chen
+Hiroyuki Hirashita
+Kuo-Chuan Pan
+Hsi-Yu Schive
+Meng-Ru Wu
+
+==============================================================================
+
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: Fwd: Submillimeter Array (SMA) Call for Standard Proposals for Semester 2019B
+> To: riaa <riaa@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw
+> Date: Wed, 7 Aug 2019 15:13:40 +0900
+
+
+> =E8=BB=A2=E9=80=81=E3=81=95=E3=82=8C=E3=81=9F=E3=83=A1=E3=83=83=E3=82=BB=
+=E3=83=BC=E3=82=B8:
+>=20
+> =E5=B7=AE=E5=87=BA=E4=BA=BA: Mark Gurwell <mgurwell@cfa.harvard.edu>
+> =E4=BB=B6=E5=90=8D: Submillimeter Array (SMA) Call for Standard =
+Proposals for Semester 2019B
+> =E6=97=A5=E4=BB=98: 2019=E5=B9=B48=E6=9C=887=E6=97=A5 3:41:35 JST
+> =E5=AE=9B=E5=85=88: sma-propose@cfa.harvard.edu
+>=20
+> Dear Colleagues,
+> The SMA is a reconfigurable interferometric array of eight 6-meter =
+antennas on Maunakea jointly built and operated by the Smithsonian =
+Astrophysical Observatory and the Academia Sinica Institute of Astronomy =
+and Astrophysics. The array operates in the 230, 345, and 400 GHz bands.
+>=20
+> We are happy to announce that we are now accepting Standard Proposals =
+for use of the Submillimeter Array (SMA).  The deadline for Standard =
+Proposals is 5 September 2019 at 20:00 GMT.
+>=20
+> The SMA has recently completed significant upgrades in observational =
+capability, with more under way. Currently, the SMA observes =
+simultaneously with two orthogonally polarized receivers, one in the 230 =
+GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with =
+full polarimetric observations available using the 230+240 GHz or =
+345+400 GHz combinations).
+>=20
+> The SWARM correlator processes 8 GHz bandwidth for each receiver in =
+each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. =
+This 32 GHz frequency coverage can be continuous where the tuning ranges =
+overlap for the two orthogonally polarized receivers. In short, the SMA =
+now provides flexible, wide band frequency coverage that delivers high =
+continuum sensitivity and excellent spectral line capabilities (at 140 =
+kHz spectral resolution).
+>=20
+> A full track offers continuum sensitivity of 250 or 600 micro-Jy (1 =
+sigma) at 230 or 345 GHz in good weather conditions (precipitable water =
+vapor 2.5 mm and 1.0 mm, respectively). The corresponding line =
+sensitivities at 1 km/s resolution are 35 and 80 mJy. The small antennas =
+allow access to low spatial frequencies in the subcompact configuration, =
+and at the other extreme, the finest angular resolution with the very =
+extended configuration at 345 GHz is ~0.25". The compact and extended =
+configurations complete the range.
+>=20
+> The characteristics and performance of the SMA are both similar and =
+complementary to those of the standalone Atacama Compact Array component =
+of the Atacama Large Millimeter/submillimeter Array. For more =
+information about SMA capabilities, visit the SMA Observer Center =
+website <http://sma1.sma.hawaii.edu/status.html> and explore the set of =
+SMA proposing tools <http://sma1.sma.hawaii.edu/tools.html>. Current and =
+archived SMA Newsletters <https://www.cfa.harvard.edu/sma/Newsletters/> =
+available online provide a sampling of the wide variety of science =
+possible with the SMA.
+>=20
+> For more details visit our General Proposal Information =
+<http://sma1.sma.hawaii.edu/proposing.html> webpage.=20
+> Questions or comments regarding the call for standard proposals can be =
+addressed to sma-proposal@cfa.harvard.edu =
+<mailto:sma-proposal@cfa.harvard.edu>.
+>=20
+> Sincerely,
+>=20
+> Mark Gurwell
+> Chair, Submillimeter Array Time Allocation Committee=20
+>=20
+> --=20
+> Mark Gurwell
+> Astrophysicist
+> Submillimeter Array
+> Center for Astrophysics | Harvard & Smithsonian
+>=20
+> Office: (617) 495 7292=20
+> 60 Garden Street | MS 42 | Cambridge, MA 02138
+>=20
+>=20
+>=20
+> cfa.harvard.edu <http://cfa.harvard.edu/> | Facebook =
+<http://cfa.harvard.edu/facebook> | Twitter =
+<http://cfa.harvard.edu/twitter> | YouTube =
+<http://cfa.harvard.edu/youtube> | Newsletter =
+<http://cfa.harvard.edu/newsletter>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

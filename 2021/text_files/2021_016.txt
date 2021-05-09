@@ -1,0 +1,136 @@
+=============================================================================
+
+In this issue (Jan 23 - 30, 2021)
+
+1. ALMA Recovery Status Update
+2. East Asian ALMA Science Workshop 2021
+3. ASIAA Colloquium/Seminar/Lunchtalk (Feb 03): Chiu, Chuang Ping (ASIAA)
+                                      (Feb 03): Chih-Fan Chen (UCLA)
+                                      (Jan 27): Tony Mroczkowski (ESO)
+
+==============================================================================
+
+Subject: ALMA Recovery Status Update
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Tue, 26 Jan 2021 09:39:15 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+Yu-Nung
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Array Recovery Status Update
+Jan 25, 2021
+https://almascience.nao.ac.jp/news/array-recovery-status-update
+
+Dear colleagues,
+While the COVID-19 pandemic persists all around the world, ALMA staff at =
+the JAO and in the regions continue to work towards bringing the array =
+back online, with the ultimate goal to resume science operations and =
+deliver high-quality science data to our users.
+At this moment, the ALMA antennas are in the process of being powered up =
+and inspected after having been stowed for about 300 days. The central =
+local oscillator and the two correlators at the high site have =
+successfully been started and the first antennas have been paired up to =
+perform initial interferometric testing by science operations.
+The Operations Support Facility (OSF) can now sustain a minimum number =
+of ALMA staff. Nevertheless, the way towards science observations is =
+still long and uncertain and heavily depends on issues that may be =
+discovered as well as on the pandemic situation in Chile and the rest of =
+the world.
+The ALMA Regional Centres (ARCs) continue to assist ALMA users with the =
+reduction and analysis of existing data through virtual face-to-face =
+(f2f) support, in addition to answering the usual Helpdesk queries. If =
+you have any questions, want to sign up for a virtual f2f visit, or have =
+comments or concerns related to the situation at ALMA, please contact =
+the ALMA Helpdesk at https://help.almascience.org =
+<https://help.almascience.org/>.
+All ALMA staff wish you and your families to remain safe and healthy.=
+
+==============================================================================
+
+Date: Wed, 27 Jan 2021 17:18:59 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: CAG <cag@deps.ntnu.edu.tw>, lindany@ntnu.edu.tw, seminar@math.ntnu.edu.tw,
+    TAN <astro@asiaa.sinica.edu.tw>
+Subject: East Asian ALMA Science Workshop 2021
+
+Dear all,
+
+The program of the workshop is now online. Note you can still register
+before Feb 8.
+
+http://alma.kasi.re.kr/almakasi2021/
+
+Cheers,
+Ya-Lin
+
+-- 
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+==============================================================================
+
+Date: Thu, 28 Jan 2021 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *6PM* next Monday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Chiu, Chuang Ping (ASIAA)
+Topic:
+Time:         2/3 (Wednesday) 12:00 - 13:00
+Place:          R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Chih-Fan Chen (UCLA)
+Topic:         [Remote talk] H0 measurement from time-delay cosmography
+Time:         2/3 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The Hubble constant is one of the most important parameters in
+cosmology. Its value directly sets the age, the size, and the critical
+density of the Universe. Despite the success of the flat LCDM model, the
+derived Hubble constant from Planck data under the assumption of a flat
+LCDM model has 4.4-sigma tension with the direct measurements. If this
+tension is not due to the systematics, it may indicate the new physics
+beyond the standard cosmological model. H_0 from time-delay lensing is
+a powerful independent tool for addressing the H_0 tension since it is
+independent of both Planck and the distance ladder. One way to do this
+is to increase the number of high-quality lens systems since this allows
+us to look for correlations and other effects due to systematics, and to do
+hierarchical approaches to assess known systematic effects. Keck AO
+data is not only the key component to increase the precision of H0
+measurement but also provides systematic checks with the H_0 results
+based on HST imaging. In this talk, I will present the current H_0
+measurement, the systematic checks, and the future prospective of
+TDCOSMO collaboration.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://cag.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

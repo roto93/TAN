@@ -1,0 +1,26 @@
+> Date: Thu, 31 May 2012 23:37:38 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: alma-t@asiaa.sinica.edu.tw,
+>        Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> cc: arc@asiaa.sinica.edu.tw
+> Subject: [ALMA-T News] NEW ALMA BAND 9 SCIENCE VERIFICATION DATA 
+
+* NEW ALMA BAND 9 SCIENCE VERIFICATION DATA *
+
+A new installment of ALMA Science Verification data is available. This 
+release contains Band 9 data on IRAS16293. The source, the data, and the 
+data reduction procedure are described in the accompanying CASA Guide. 
+This is the first ALMA Band 9 Science Verification data release and 
+represents a milestone for ALMA construction. Further details are at 
+https://almascience.nrao.edu/alma-data/science-verification.
+
+In addition, a new program of Science Verification aimed at testing new 
+capabilities of ALMA for Cycle 1 and beyond will begin in June 2012, and 
+the list of suggested targets will be available shortly at the link above.
+
+Best,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+==============================================================================
+

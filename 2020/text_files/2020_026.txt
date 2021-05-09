@@ -1,0 +1,22 @@
+==============================================================================
+
+Date: Thu, 13 Feb 2020 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Seminar ***
+____________________________________________________
+Speaker:    Seongjoong Kim (Tokyo Institute of Technology)
+Topic:         Deriving the dust properties in the TW Hya disks with the synthetic ALMA
+multiband analysis
+Time:         2/18 (Tuesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The multiwavelength analysis is one of the useful tools to understand the dust properties in protoplanetary disks. I study the synthetic ALMA multiband analysis to find the best three ALMA band combination for deriving the accurate dust temperature Tdust, optical depth Ï„Î½, and dust opacity power-law index Î² (ÎºÎ½ âˆ￾ Î½^Î²) using the ALMA archival data of the TW Hya disk. Through this approach, I can directly derive the three unknowns (Tdust, Ï„Î½, Î²) without any assumptions on some of the dust properties. The synthetic multiband analysis results show that the Band [10,6,3] set is the best combination for minimizing the uncertainties of the dust properties derived from ALMA observations. The band combinations with Band 9 or 10 and with the large frequency intervals between the bands in the set give us stronger
+constraints on the dust properties. Also, large Î² and low Tdust are preferable for reducing the uncertainties of the dust properties. Some of those conditions are interpreted that the combination of optically thick and thin bands are required for obtaining stronger constraints on the dust properties. To examine the consistency of the synthetic analysis results, I apply the multiband analysis to ALMA archival data of the TW Hya disk at Band 4, 6, 7, and 9. I confirm that the trend of the synthetic model is consistent with the derivations from the real data. Additionally, I examine my synthetic analysis results with ALMA Band 1 which has been developing in ASIAA. The results show that the ALMA band combinations with Band 1 will improve the constraints on the dust properties.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

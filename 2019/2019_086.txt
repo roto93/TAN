@@ -1,0 +1,63 @@
+
+In this issue (May 17 - 23, 2019)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk:
+                  (May 29): Albert Zijlstra (Jodrell Bank, Univ of Manchester)
+                  (May 29): Howard Yee (University of Toronto)
+
+==============================================================================
+
+> Date: Thu, 23 May 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Albert Zijlstra (Jodrell Bank Centre for Astrophysics, University of Manchester)
+Topic:          TBA
+Time:           5/29 (Wednesday) 14:20 - 15:20
+Place:           R1203
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Howard Yee (University of Toronto)
+Topic:          H-alpha Imaging Spectroscopy of Cluster Galaxies Using SITELLE
+Time:           5/30 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+SITELLE is an 11'x11' field-of-view imaging Fourier transform spectrograph
+(iFTS) on CFHT. I will briefly describe the history of iFTS and the
+capability of this new, unique, IFU-like instrument.  We have started
+a program to use SITELLE to study the H-alpha emission in star-forming
+galaxies in a sample of z~0.25 galaxy clusters. I will describe the
+current data on two clusters, Abell 2390 and Abell 2465, and the
+pipeline we developed to generate complete samples of cluster emission-line
+galaxies (ELGs). I will present some initial results from the data, in
+particular, the alignment of the difference vectors between emission-line 
+and continuum light with the cluster center, a signature of ram pressure
+in operation; and the strong emission region in the core of the Brightest
+Cluster Galaxy in Abell 2390.   I will end with a discussion of the 
+prospect of using SITELLE for large surveys of emission-line galaxies, 
+such as the survey for Lyman-alpha galaxies at z ~ 3 to 6.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

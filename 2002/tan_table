@@ -1,0 +1,21 @@
+#!/bin/bash
+#  This script is used to generate a html table for TAN.
+#    It will produce the number autimatically.
+#
+file=./tan_temp
+echo '' >  $file
+echo -n "Starting number: "
+read start
+echo -n "End number: "
+read end
+end=$[$end+1]
+until [ $start -eq $end ]
+do
+        subject=`egrep Subject 2002_$start |sed '2,$ d'| sed 's/Subject: //g' |
+sed 's/(fwd)//g'`
+        date=`egrep Date 2002_$start | sed '2,$ d' | sed 's/Date:.\{6\}//g' | sed 's/[0-9][0-9]:.\{11\}//g' | sed 's/(....//g'`
+        echo '<tr><td><a href="2002_'$start'">'$start'</a>' >> $file
+        echo '    <td width=105>'$date >> $file
+        echo '    <td>'$subject >> $file
+        start=$[$start+1]
+done

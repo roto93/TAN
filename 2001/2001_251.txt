@@ -1,0 +1,167 @@
+From nkw@phys.sinica.edu.tw Tue Nov 27 08:22 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA22051
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Tue, 27 Nov 2001 08:22:34 +0800 (CST)
+Received: from phys.sinica.edu.tw (physms.phys.sinica.edu.tw [140.109.103.250])
+	by asiaa.sinica.edu.tw (8.9.3+Sun/8.9.3) with ESMTP id IAA00958
+	for <astro@asiaa.sinica.edu.tw>; Tue, 27 Nov 2001 08:19:52 +0800 (CST)
+Received: from phys19 (hal2 [140.109.103.222])
+	by phys.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA28484
+	for <astro@asiaa.sinica.edu.tw>; Tue, 27 Nov 2001 08:20:38 +0800 (CST)
+Date: Tue, 27 Nov 2001 08:19:03 +0800 (CST)
+From: K-W Ng <nkw@phys.sinica.edu.tw>
+X-Sender: nkw@phys19
+To: astro@asiaa.sinica.edu.tw
+Subject: Session on CMB polarimetry at the 2002 SPIE  Meeting (fwd)
+Message-ID: <Pine.GSO.4.21.0111270818210.27740-100000@phys19>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 6312
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Mon, 26 Nov 2001 18:44:45 +0100
+From: Gianfranco De Zotti <dezotti@pd.astro.it>
+To: Yuri N. Parijskij <par@homesao.spb.su>,
+     Uyaniker <uyaniker@jcmtdual.drao.nrc.ca>,
+     Pelosi <Pelosi@ingfi1.ing.unifi.it>, Patricia Whitelock <paw@saao.ac.za>,
+     Nicola Vittorio <Nicola.Vittorio@roma2.infn.it>,
+     natale <natale@arcetri.astro.it>, masi@roma1.infn.it,
+     lknox@physics.ucdavis.edu, Jean-Michel Lamarre <lamarre@ias.u-psud.fr>,
+     Jean-Loup Puget <puget@ias.u-psud.fr>,
+     Franco Mantovani <fmantova@ira.bo.cnr.it>, dscott@astro.ubc.ca,
+     Bob Sault <Bob.Sault@atnf.csiro.au>,
+     Anthony Lasenby <anthony@mrao.cam.ac.uk>,
+     Esko Valtaoja <esko.valtaoja@utu.fi>,
+     Enrique Martinez-Gonzalez <martinez@ifca.unican.es>,
+     michael.d.seiffert <michael.d.seiffert@jpl.nasa.gov>, SMOOT@smoot.lbl.gov,
+     lubin@cfi.deepspace.ucsb.edu, Andrew Lange <ael@astro.caltech.edu>,
+     Bruce Partridge <bpartrid@haverford.edu>, p.a.r.@qmw.ac.uk,
+     steve@beta.jpl.nasa.gov,
+     Charles R. Lawrence <charles.lawrence@jpl.nasa.gov>,
+     schurch@leland.stanford.edu, mario.zannoni@mib.infn.it,
+     Althea Wilkinson <aw@jb.man.ac.uk>, p022rwi@mpifr-bonn.mpg.de,
+     emily@asiaa.sinica.edu.tw, sander.weinreb@jpl.nasa.gov,
+     evin@nirfi.sci-nnov.ru, Fabrizio Villa <villa@tesre.bo.cnr.it>,
+     gst@cmbr.physics.brown.edu, marco.tucci@mib.infn.it,
+     timbie@wisp.physics.wisc.edu, tascone@polito.it, strukov@mx.iki.rssi.ru,
+     staggs@pupgg.princeton.edu, Ira.S.Smith.1@gsfc.nasa.gov,
+     giorgio.sironi@mib.infn.it, sbarra@tesre.bo.cnr.it,
+     p098wre@mpifr-bonn.mpg.de, acr@astro.caltech.edu, razin@nirfi.sci-nnov.ru,
+     spoppi@ira.bo.cnr.it, pisani@polito.it, petter@rocketrange.no,
+     Steven.Peterzen@master.nsbf.nasa.gov, perbaldemar@esrange.ssc.se,
+     per.lilje@astro.uio.no, palumbo@asi.it, spadin@caltech.edu,
+     p258run@mpifr-bonn.mpg.de, orfei <orfei@ira.bo.cnr.it>,
+     tofani@arcetri.astro.it, Henk.Olthof@esa.int, ola.widell@essrange.ssc.se,
+     nicastro@ifcai.pa.cnr.it, nkw@phys.sinica.edu.tw, nkw@cita.utoronto.ca,
+     Carlo Musso <musso@asi.it>, jmoran@cfa.harvard.edu, jmonari@ira.bo.cnr.it,
+     Francesco Melchiorri <Francesco.Melchiorri@roma1.infn.it>,
+     naomi@astro.umn.edu, Roberto.Maoli@roma1.infn.it, macculi@tesre.bo.cnr.it,
+     Nazzareno Mandolesi <mandolesi@tesre.bo.cnr.it>,
+     Bersanelli Marco <marco@ifctr.mi.cnr.it>, lennart.poromaa@esrange.ssc.se,
+     Rodney Davies <rdd@jb.man.ac.uk>, eml@kanga.uchicago.edu, jpl@jb.man.ac.uk,
+     tom.landecker@nrc.ca, rlaing@astro1.bnsc.rl.ac.uk, mkramer@jb.man.ac.uk,
+     Alan.Kogut@gsfc.nasa.gov, Jan Tauber <jtauber@astro.estec.esa.nl>,
+     kvtkloos@estec.esa.nl, kjell@rocketrange.no, kaplan@cdf.in2p3.fr,
+     jena-michel.guilbert@cnes.fr, iau_members@cfa.harvard.edu,
+     ira-user@astbo1.bo.cnr.it, ibba@asi.it, roger@oddjob.uchicago.edu,
+     Henry.M.Cathey.1@gsfc.nasa.gov, rgough@atnf.csiro.au,
+     Massimo.Gervasi@mib.infn.it, jgallego@ifca.unican.es,
+     theodgaga@phys.uoa.gr, bmg@space.mit.edu, Pierre.Faucon@cnes.fr,
+     duncan@physics.uq.edu.au, dicke002@umn.edu,
+     j.delabrouille <j.delabrouille@cdf.in2p3.fr>,
+     Paolo de Bernardis <debernardis@roma1.infn.it>,
+     Danny.Ball@master.nsfb.nasa.gov, cosentino@asi.it, stefano@tesre.bo.cnr.it,
+     jcondon@nrao.edu, cecchini@tesre.bo.cnr.it, carretti@tesre.bo.cnr.it,
+     carol.deniel@cnes.fr, bryson@cfht.hawaii.edu, bouchet@iap.fr,
+     giuliano.boella@mib.infn.it, PierMario.Besso@cselt.it,
+     baudone@to.alespazio.it, barreiro@mrao.cam.ac.uk,
+     banday@mpa-garching.mpg.de, bkoribal@atnf.csiro.au, ron@jpl.nasa.gov,
+     pattina@to.alespazio.it, famisano@to.alespazio.it
+Subject: Session on CMB polarimetry at the 2002 SPIE  Meeting
+
+              ***********    PLEASE CIRCULATE     ************
+
+
+Dear Colleagues,
+
+as a part of SPIE's International Symposium on Astronomical Telescopes and
+Instrumentation, to be hel on 22-28 August 2002 at Waikoloa, Hawai, there
+will be a 2-day meeting on Polarimetry in Astronomy. One session of the
+latter meeting will be devoted to CMB polarimetry. This session will
+comprise two reviews, one on HEMT-based radiometers (presented by T. Gaier)
+and one on bolometer-based polarimeters (speaker TBD), plus a number of
+short oral contributions, and possibly posters. Those intererested in
+presenting a short oral contribution or a poster should submit an abtract of
+their talk by January 28th and the manuscript by June 29th. Details can be
+found in the announcement below.
+
+Unfortunately, SPIE will not be able to provide support towards travel and
+living expenses.
+
+Best regards
+
+                   Gianfranco De Zotti
+
+----- Original Message -----
+From: <SPIE-MEETINGS@spie.org>
+To: <dezotti@pdmida.pd.astro.it>
+Sent: Friday, November 16, 2001 9:40 AM
+Subject: Call for papers now available online
+
+
+> * Submit your abstract today *
+>
+> SPIE's International Symposium on
+> Astronomical Telescopes and Instrumentation
+>    22-28 August, 2002
+>    Waikoloa, Hawaii USA
+>
+> See full meeting details and submit your abstract online:
+>
+>    http://spie.org/info/as
+>
+> Abstract Due Date: 28 January, 2002
+>
+> Submit your abstract on the following technologies:
+> * Astronomy with Large Telescopes
+> * UVOIR Ground Instruments
+> * Astronomy Information Technologies
+> * Space Telescopes and Instruments
+> * Millimeter and Submillimeter Detectors
+> * Astronomy Outside the EM Spectrum
+> * Astrobiology
+>
+> Plan now to participate!
+>
+> Sponsored by:
+> SPIE-The International Society for Optical Engineering
+>      www.spie.org
+>      spie@spie.org
+>      +1-360-676-3290
+>      Fax +1-360-647-1445
+> ___________________________________________________
+>
+> *** Join SPIE and SAVE ***
+> Join SPIE when you register and pay the member rate!
+>
+> Whether you're new to a technology, an expert
+> in the field, or exploring new areas, membership
+> puts you in touch with the people and opportunities
+> you need to maintain your professional edge.
+>
+> NOTICE:
+> To modify your technical preferences or to update
+> your address please complete the form at:
+>      http://spie.org/app/coa/
+>
+> If you do not wish to receive e-mail announcements
+> from SPIE, simply reply to this message, and in the
+> body of the message type:
+>      Cancel
+>
+>
+
+

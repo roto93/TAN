@@ -1,0 +1,103 @@
+From kyl@asiaa.sinica.edu.tw Sun Apr  2 06:56 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id GAA00818
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sun, 2 Apr 2000 06:55:35 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id GAA12010
+	for <astro@asiaa.sinica.edu.tw>; Sun, 2 Apr 2000 06:52:12 +0800
+Date: Sun, 2 Apr 2000 06:52:12 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: CDS Newsletter #1 (fwd)
+Message-ID: <Pine.LNX.4.10.10004020652100.12007-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4013
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Sat, 1 Apr 2000 16:16:24 +0200
+From: CDS newsletter <newsletter@simbad.u-strasbg.fr>
+To: kyl@astro.uiuc.edu
+Subject: CDS Newsletter #1
+
+CDS  News  #1                                         
+--- o --- o --- o --- o --- o --- o --- o --- o --- o --- o --- o ---
+New Features at CDS  #1                                 (March 2000)
+        Centre de Donnees astronomiques de Strasbourg, France
+http://cdsweb.u-strasbg.fr/              question@simbad.u-strasbg.fr 
+--- o --- o --- o --- o --- o --- o --- o --- o --- o --- o --- o ---
+
+<<  NEWSLETTER # 1>>       http://cdsweb.u-strasbg.fr/newsletter.html
+This is the first issue of a newsletter which is to appear about three
+times a year for presenting new features of the CDS services. 
+The first issue is sent by e-mail to all registered SIMBAD users 
+provided we know their e-mail address. If you want to be REMOVED from
+the mailing list, hit REPLY and type REMOVE in the subject. 
+If you want to be added to the mailing list, please visit the URL given
+above for registration.
+
+<< SIMBAD >>         CDS, France          http://simbad.u-strasbg.fr/
+                     US mirror (CfA)   http://simbad.harvard.edu/
+The SIMBAD reference database now includes 7.5 million identifiers for 
+2.7 million objects. In addition to the daily updates from the
+literature, major recent inclusions are the new compilation of uvby 
+photometry (measurements) and the Tycho Catalogue (TYC and GSC 
+identifiers).  Improved filtering functionalities are being
+implemented progressively.
+
+<< VizieR >>         CDS, France          http://vizier.u-strasbg.fr/
+                     US mirror (ADC) http://adc.gsfc.nasa.gov/vizier/
+                     Japan (ADAC)    http://z13.mtk.nao.ac.jp/vizier/
+                     India (IUCAA)      http://urania.iucaa.ernet.in/
+The Tycho-2 catalogue of the 2.5 million brightest stars and the
+9th edition of Veron & Veron's catalogue of "Quasars and Active 
+Galactic Nuclei" have been made recently available. 
+Watch also recent developments concerning very large catalogues: 
+USNO A2.0, near infrared sources (DENIS and 2MASS), etc.
+The list of recently added catalogues and tables can be viewed at URL
+   http://vizier.u-strasbg.fr/vizier/cats/New.htx
+
+<< Aladin >>                              http://aladin.u-strasbg.fr/
+The Aladin interactive Sky Atlas now provides access to DSS-II plates, 
+in addition to first epoch DSS-I, and to higher resolution MAMA scans. 
+Links to remote archives (such as HST) are also included. 
+The Java interface has been upgraded and a standalone version supporting 
+access to local FITS images is available from the Aladin Web site.
+
+<< Mirrors >>
+CDS now hosts a copy of the INES (IUE) database at:
+   http://godot.u-strasbg.fr/ines/
+Links to the IUE archive are present in SIMBAD and ALADIN.
+
+<< ARTICLES >> 
+A full description of CDS services is being published in 
+Astronomy & Astrophysics Suppl. Ser. (April I issue):
+http://www.edpsciences.com/articles/astro/abs/2000/07/contents/contents.html
+  - The CDS Information Hub (Genova et al.) 
+  - The SIMBAD astronomical database (Wenger et al.) 
+  - The VizieR database of astronomical catalogues (Ochsenbein et al.) 
+  - The ALADIN Interactive Sky Atlas (Bonnarel et al.) 
+This special volume also features a complete description of the ADS 
+bibliographic system.  Ask your librarian for your own personal copy !
+
+--- o --- o --- o --- o --- o --- o --- o --- o --- o --- o --- o ---
+Your remarks, and suggestions are welcome by electronic mail to 
+question@simbad.u-strasbg.fr .
+The CDS                                                 31 March 2000
+--- o --- o --- o --- o --- o --- o --- o --- o --- o --- o --- o ---
+
+

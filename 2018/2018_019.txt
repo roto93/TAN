@@ -1,0 +1,41 @@
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: SMA call for proposals - 2018A semester
+> Date: Fri, 9 Feb 2018 00:15:27 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the call for SMA proposals
+(standard projects for the 2018A semester) to TAN.
+
+Regards,
+Naomi
+
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+
+Dear Colleague,
+
+We wish to draw your attention to the currrently open call for proposals for observations with the Submillimeter Array (SMA), the reconfigurable interferometric array of eight 6-m antennas on Mauna Kea jointly built and operated by the Smithsonian Astrophysical Observatory and the Academia Sinica Institute of Astronomy and Astrophysics. The array operates in the 230 GHz, 345 GHz and 400 GHz bands. 
+
+The SMA is currently accepting proposals for the 2018A observing semester (16 May, 2018 - 15 Nov, 2018) from principal investigators from the worldwide astronomical community. 
+
+The proposal deadline is:
+
+Thu., 8 Mar. 2018, 16:00 EST (US) 
+[ Thu., 8 Mar. 2018, 11:00 HST (Hawaii)
+  Thu., 8 Mar. 2018, 21:00 GMT
+  Fri.,  9 Mar. 2018, 05:00 CST (Taipei) ]
+
+The SMA has recently completed significant upgrades in observational capability, with more under way. Currently, the SMA observes simultaneously with two orthogonally polarized receivers, one in the 230 GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band, with full polarimetric observations available using the 230+240 or 345+400 band combinations. The SWARM correlator processes 8 GHz bandwidth for each receiver in each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. This 32 GHz frequency coverage can be continuous where the tuning ranges overlap for the two orthogonally polarized receivers. In short, the SMA now provides flexible, wide band frequency coverage that delivers high continuum sensitivity and excellent spectral line capabilities. A full track offers continuum sensitivity of 200 or 500 micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions (precipitable water vapor 2.5mm and 1.0mm, respectively). The corresponding line sensit!
+ivities at 1 km/s resolution are 30 and 70 mJy. The small antennas allow access to low spatial frequencies in the sub-compact configuration, and at the other extreme, the finest angular resolution with the very extended configuration at 345 GHz is ~ 0.25". The compact and extended configurations complete the range. Thus, in some ways, the characteristics and performance of the SMA are both similar and complementary to those of the stand-alone Atacama Compact Array (ACA) component of ALMA. 
+
+For more information about SMA capabilities, visit the SMA Observer Center website  http://sma1.sma.hawaii.edu/ and explore the set of SMA proposing tools at  http://sma1.sma.hawaii.edu/tools.html. Current and archived SMA Newsletters available online at https://www.cfa.harvard.edu/sma/newsletter/ provide a sampling of the wide variety of science possible with the SMA.  
+
+Instructions on proposal preparation and submission, are available at the SMA Observer Center website http://sma1.sma.hawaii.edu/. Questions or comments regarding this Call for Proposals can also be addressed to propose@sma.hawaii.edu.
+
+Please note that the Large Scale Projects program which follows a phased development, submission and review path, has now entered the full proposal development phase and PIs who submitted Notices of Intent to propose have been intimated. 
+
+T. K. Sridharan
+SMA TAC Chair
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

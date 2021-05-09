@@ -1,0 +1,133 @@
+Date: Sun, 21 Apr 2013 18:06:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Apr 14 - 21, 2013)
+
+============================================================================== 
+
+In this issue (Apr 14 - 21, 2013)
+
+1. ASIAA Colloquium (Apr 19): Hao-Yu Liu (ASIAA)
+  CompAS Seminar (Apr 18): Chao-Chin Yang (Lund Observatory)
+2. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Colloquium (Apr 23): Rudolf Schaefer
+        (Leibniz Inst for Solid State and Materials Research, Dresden, Germany)
+3. ASIAA Colloquium (Apr 26): Satoko Takahashi (ASIAA, a farewell talk)
+
+==============================================================================
+
+> Date: Sun, 14 Apr 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: CompAS Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Hao-Yu Liu (ASIAA)
+Topic:        Forming the Luminous OB Clusters at the Convergences of the Large Scale Molecular Filaments
+Time:        4/19 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Observations on distance <300 pc molecular clouds have shown that the nearby young YSO clusters form at the convergences of the molecular filaments. The preliminary analytical hub-filament model was proposed for describing this phenomenon. Our survey on a few most luminous Galactic OB cluster forming regions shows that their parent giant molecular clouds also have the hub-filament geometrical configuration. At the convergences of the filaments, the high density and the high external pressure may promote the accretion and the star-forming efficiency. I will elaborate the overall geometry and kinematics of the luminous OB cluster forming molecular clouds with two case studies, based on the synthesized SMA+IRAM-30m observations. One case is the molecular cloud G10.6-0.4 located in the near 3 kpc spiral arm. The other is the unique Galactic mini-starburst region W49A. We hope to shed some light on the paradigm of the formation of gravitationally bound massive cluster.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Chao-Chin Yang (Lund Observatory)
+Topic:        Introduction to the Pencil Code
+Time:        4/18 (Thursday) 14:00 - 15:00
+Place:        R1108
+Abstract:
+The Pencil Code is a parallelized, cache-efficient simulation code, capable of evolving magnetohydrodynamics and particles, among many other physics.  It employs high-order finite differences to attain high fidelity in short wavelengths and is thus ideal for simulating turbulent flows.  I will introduce the basic ideas behind the Pencil Code and how we collaborate on developing and maintaining the code.  Then I will briefly touch upon what I have used the code in my own research, including magneto-rotational turbulence, planetary dynamics, and chemical mixing in galactic disks.
+
+
+==============================================================================
+
+> From: =?big5?B?s6+sUqbc?= <f95222027@ntu.edu.tw>
+> To: "swallow@phys.ntu.edu.tw" <swallow@phys.ntu.edu.tw>,
+>    <astro@asiaa.sinica.edu.tw>,
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, April 23
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held on April 23 .
+The Joint Colloquium Series is organized by
+the NTU Physics Department, Center for Condensed Matter Science (CCMS),
+Leung Center for Cosmology and Particle Astrophysics (LeCosPA),
+Academia Sinica Institute of Astronomy and Astrophysics (ASIAA),
+and the Institute of Atomic and Molecular Sciences (IAMS).
+The idea is to have excellent speakers to give inspiring, informative,
+but non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on April 23 .
+
+Best regards,
+
+Pisin Chen (LeCosPA)
+Ting-Wai Chiu (NTU-Phys)
+Michitoshi Hayashi (CCMS)
+Lain-Jong Li (IAMS)
+Michihiro Takami (ASIAA)
+
+
+-------------------------------------------------------------------------------
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+Speaker: Professor RUDOLF SCHAEFER
+        (Leibniz Institute for Solid State and Materials Research (IFW), Dresden, Germany)
+Topic : Magneto-Optic Analysis of Magnetic Microstructures
+Time  : 04/23(Tuesday) 14:20 - 15:10
+Place : Room 104, CCMS-New Physics Building
+
+
+Brief Bio. :
+    Rudolf Schaefer received the diploma degree in Materials Science and the Ph.D. degree in Engineering from the University of Erlangen-Nuernberg (Germany) in 1985 and 1990, respectively. He then joined the IBM Research Center in Yorktown Heights (USA) and the Forschungszentrum Juelich (Germany) as a Postdoc in 1991 and 1992, respectively. In 1993 Rudolf Schaefer moved to the IFW Dresden (now the Leibniz Institute for Solid State and Materials Research Dresden, Germany) where he became head of the department "Magnetic Microstructures" in 2002. In 2011, Dr. Schaefer was appointed honorary professor for Magnetic Materials at the Institute for Materials Science at Technical University Dresden. His areas of interest span magnetic materials with a focus on magnetic microstructures and domain imaging by Kerr microscopy. He has published more than 130 technical articles in peer-reviewed journals, including book chapters, and together with Alex Hubert he has coauthored the textboo!
+k "Magnetic Domains". Prof. Schaefer currently chairs the technical committee for "Magnetic Imaging" of the IEEE Society
+
+
+Abstract :
+      The rich world of magnetic microstructure or magnetic domains, extending from visible dimensions down to the nano-scale, forms the mesoscopic link between the fundamental physical properties of a magnetic material and its macroscopic properties and technical applications, which range from films for computer storage technology to magnetic cores for electrical machinery. Hysteresis phenomena, energy loss in inductive devices, noise in sensors, or the magnetoresistive properties of modern spintronic devices can be decisively determined by the peculiarities of the underlying magnetic microstructure, especially by irreversibilities in the magnetization process. Therefore any development and optimization of magnetic materials, which is usually accompanied by the measurement of magnetization curves, requires an understanding of the underlying domains and their reaction to magnetic fields, which, in most cases, can only be gained by direct imaging. 
+      The presentation will address different aspects of magnetic microstructure adapted, where possible, to the interest of the audience and supported by domain observation using Kerr microscopy. This may include domains and magnetization processes in bulk magnetic material like oriented and non-oriented electrical steel, amorphous and nanocrystalline ribbons or permanent magnets, as well as thin films and multilayers. Fast magnetization processes can also be considered. Most challenging is the analysis of hidden (internal) domains and processes in bulk material. They are relevant for material performance and their analysis requires surface imaging in combination with domain modeling and some volume-sensitive imaging method. Aside from their scientific and technical relevance, magnetic microstructures are also aesthetically appealing, an aspect that will be part of the presentation.
+------------------------------------------------------------------------------ 
+
+==============================================================================
+
+> Date: Sun, 21 Apr 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Satoko Takahashi (ASIAA)
+Topic:        Millimeter and Sbumillimeter studies of the Orion Molecular Filaments
+Time:        4/26 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I will present high angular resolution and wide-field interferometric continuum observations of the Orion Molecular Cloud (OMC) utilizing the Submilllimeter Array (SMA) and Jansky Very Large Array (JVLA), covering 25'/3.1 pc length of the the northern part of the OMC filaments. We detect at least 69 spatially resolved continuum sources associated with OMC filamentary structures through thermal dust emission. Their estimated masses and a projected source sizes range from 0.09 to 5.8 solar masses  and 1010 to 19000 AU, respectively. An analysis based on the Jeans theorem  suggests that these sources are most likely gravitationally unstable. Comparison of multi-wavelength datasets indicates that approximately half of the detected continuum sources are associated with outflows, infrared sources, and ionized jets. These sources show the evolutionary stage from prestellar core to Class 0/ I phases. We found the source separation within the OMC filaments peaked at  0.02 pc and 0.05!
+  pc. This spatial distribution is part of a larger hierarchical structure, that also includes fragmentation scales of GMCs ( 5 degree/ 37 pc), large-scale clumps (1.3 pc), small-scale clumps (0.3 pc). This suggests that hierarchical fragmentation operates within the Orion A molecular cloud. Fragmentation spacings are roughly consistent with the local thermal fragmentation length in large-scale clumps ( 0.3 pc), while fragmentation spacings in dense cores measured from the SMA observations is smaller than the local fragmentation length. These smaller observed spacings can be explained by either that helical magnetic field or global filament collapse.
+
+This will be my last talk in IAA before I leave Taiwan. I also would like to make summary of my research projects and project experiences at IAA in the past years.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

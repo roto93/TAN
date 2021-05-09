@@ -1,0 +1,35 @@
+> From: Shigehisa Takakuwa <takakuwa@asiaa.sinica.edu.tw>
+> Subject: ALMA flux issue
+> Date: Thu, 24 Dec 2015 15:27:33 +0900
+> To: alma-taiwan@asiaa.sinica.edu.tw, riaa <riaa@asiaa.sinica.edu.tw>,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+ Dear ALMA Taiwan people,
+
+ Announcement from ALMA-J ARC manager, Tatematsu-san.
+
+ Sincerely,
+ Shigehisa Takakuwa
+
+--------------------------------------------
+Dear EA PI for Cycle 0, 1, 2,
+
+If you have B3 observation data with Ceres as an absolute calibrator,
+and if you are concerned with the absolute flux scale,
+please contact us.
+
+The absolute flux scale may be a little higher
+(not fully confirmed).
+
+Regards,
+Ken Tatematsu
+Hiroshi Nagai
+Misato Fukagawa
+--
+K. Tatematsu (National Astronomical Observatory of Japan)
+
+_______________________________________________
+eaarc-cycle2-pi mailing list
+eaarc-cycle2-pi at alma.mtk.nao.ac.jp
+
+==============================================================================

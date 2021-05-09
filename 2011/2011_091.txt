@@ -1,0 +1,58 @@
+Date: Thu, 2 Jun 2011 10:23:40 +0800 (CST)
+From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: [NRAO-Announcements] ALMA Proposal Submission Open & Science Verification Data Available 
+
+Here are the Announcements from NRAO about the ALMA Proposal Submission 
+and etc!
+
+Chin-Fei
+On belaf of TW ARC Node
+
+---------- Forwarded message ----------
+> Date: Wed, 1 Jun 2011 17:43:03 -0400
+> From: Mark Adams <mtadams@nrao.edu>
+> To: "Nrao-announcements@nrao.edu" <Nrao-announcements@nrao.edu>
+> Subject: [NRAO-Announcements] ALMA Proposal Submission Open & Science Verification Data Available
+
+Dear Colleagues,
+
+The Joint ALMA Observatory (JAO) has announced that the ALMA Science 
+Archive is now open for the submission of Cycle 0 Early Science observing 
+proposals until the submission deadline at 15h UT/11h EDT/08h PDT on 
+Thursday, June 30, 2011.
+
+Proposers are reminded that all proposals must be submitted to the Science 
+Archive using the ALMA Observing Tool, and that all PIs and co-Is must be 
+registered at the ALMA Science Portal.
+
+Additional information regarding ALMA Early Science proposals, the 
+Observing Tool, and the proposal submission process is available via the 
+ALMA Science Portal at http://www.almascience.org
+
+The JAO has also announced the availability of the first 2 ALMA Science 
+Verification datasets:
+
+(1) The protoplanetary disk source TW Hya at Band 7 (0.87 mm), with high 
+spectral resolution; and
+
+(2) The galaxy merger NGC 3256 at Band 3 (3 mm), with low spectral 
+resolution.
+
+These datasets demonstrate the very early capabilities of ALMA. They were 
+observed before 10 ALMA antennas were available and while many of the 
+subsystems were still being tested, so they should not be construed to 
+represent the data quality for Early Science. These datasets are provided 
+now to enable the user community to become acquainted with the ALMA data 
+structure, observing strategies, and data reduction techniques.
+
+Additional information regarding the Science Verification Data is 
+available via the "ALMA Data" tab at the ALMA Science Portal.
+
+------------------------------------------------------------------------------
+_______________________________________________
+Nrao-announcements mailing list
+http://listmgr.cv.nrao.edu/mailman/listinfo/nrao-announcements
+
+==============================================================================

@@ -1,0 +1,62 @@
+From jlim@asiaa.sinica.edu.tw Thu Oct 29 09:55:00 1998
+Return-Path: <jlim@asiaa.sinica.edu.tw>
+Received: from biaa33.biaa.sinica.edu.tw (iaa11) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA12117; Thu, 29 Oct 1998 09:51:51 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA03257; Thu, 29 Oct 1998 09:49:37 +0800
+Date: Thu, 29 Oct 1998 09:49:37 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199810290149.JAA03257@biaa33.biaa.sinica.edu.tw>
+To: astro@iaa1
+Subject: ASIAA-NCU Seminar
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Md5: MMuYMMbNtbHCHABDyh1e+g==
+Content-Length: 1827
+Status: RO
+
+                 I- ------------------------------------- -I
+                 I     Graduate Institute of Astronomy     I
+                 I        NATIONAL CENTRAL UNIVERSITY      I
+                 * --------------------------------------- *
+         
+                    *     J O i N T    S E M i N A R    *
+
+
+                            30 Oct 1998 (Friday)
+   Room 1013 (Conference Room), Science IV Building, National Central University
+            ==================================================
+            
+Session 1:  Colloquium (2:30 - 3:30 pm)
+
+            SPEAKER: Dr. Chen Lin-Wen (ASIAA)
+	    TITLE:   "Through the Lockman hole: looking into the past"
+            ABSTRACT:
+The Lockman hole field has the lowest HI column density in the sky,
+which provides a unique cosmological window for probing the distant
+Universe, An overview on science of this field will be given, mostly
+based on results published this year.  
+
+There are mainly two (rather independent) lines of research: one is the
+most important X-ray deep survey with ROSAT to study the origin of the
+X-ray background, the other is to detect high  redshift star-forming
+galaxies, particularly in the sub-mm regime.  For both X-ray and
+sub-mm background studies, they are dealing with resolving the background
+into faint sources, with a common technique of anaylising the confusion
+limit of source detection. 
+
+The talk will be concluded by (1) my project of using the Lockman hole
+data to study the evolution of the X-ray Universe, and (2) a quick
+estimate of what SMA can do in deep field science, among other competitors
+in the market in the next few years. 
+
+
+Session 2:  Journal Club (3:45 -- 4:15)
+
+            SPEAKER: Dr. Wen Chi-Yi (ASIAA)
+	    TITLE:   "Thermal Observations of Centaur 1997 CU26"
+	              (1998, ApJL, 499, 103)
+ 
+

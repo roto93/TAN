@@ -1,0 +1,33 @@
+> Date: Sun, 17 Mar 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>    web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Neal Dalal (University of Illinois at Urbana-Champaign)
+Topic:        Probing dark matter substructure with dusty galaxies
+Time:        3/22 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The abundance of dark matter substructure in the halos of ordinary galaxies is sensitive to both the physics of dark matter and the physics of inflation in the early universe.  Strong gravitational lensing provides one of the only probes of the abundance of DM halo substructure, but existing constraints on substructure from lensing have been weak because of the small sample sizes available.  I will describe how the advent of the Atacama Large Millimeter/submillimeter Array (ALMA) has opened a new window onto DM substructure.  Large numbers of lensed, dusty star-forming galaxies at high redshift have been discovered by Herschel and the South Pole Telescope, and ALMA observations of these lensed systems will allow reconstruction of the mass distributions of the lensing galaxies with unprecedented resolution.  I will describe early results from this program, and I will discuss forecasts for ALMA as a probe of the properties of dark matter.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Zhi-Yun Li (University of Virginia)
+Topic:        Magnetic Braking and Protostellar Disk Formation
+Time:        3/21 (Thursday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The formation of stars and planets are connected through disks. Disk formation, once thought to be a trivial consequence of angular momentum conservation, is greatly complicated by the magnetic field that is observed to be present in the dense, star-forming cores of molecular clouds. Indeed, in the simplest case of perfect coupling between the magnetic field and bulk neutral core material (the ideal MHD limit), both analytic work and numerical simulations
+have shown that the formation of rotationally supported disks is suppressed by excessive magnetic braking in dense cores magnetized to the observed level, leading to the so-called ``magnetic braking catastrophe'' in disk formation. I will discuss possible resolutions
+to this fundamental problem, including non-ideal MHD effects, misalignment between
+the magnetic field and rotation axis, turbulence-enhanced magnetic reconnection, and outflow stripping of the slowly rotating protostellar envelope. How protostellar disks form and grow remains an open question.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

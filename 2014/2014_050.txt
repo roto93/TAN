@@ -1,0 +1,87 @@
+> Subject: Re: Colloquium/Seminar this week
+> From: ASADA Keiichi <asada@asiaa.sinica.edu.tw>
+> Date: Sun, 16 Mar 2014 09:32:52 +0800
+> To: IAA <iaa@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw,
+>     ntu_astro@asiaa.sinica.edu.tw
+
+Dear all,
+
+We will not have a joint colloquium by Tommaso Treu.  Instead,
+Phil Marshall has kindly stepped up to give the joint colloquium.
+Sorry for this wrong information.
+
+
+Regards,
+Keiichi Asada
+
+> Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+>
+>
+>
+> *** ASIAA/NTU Joint Colloquium
+> ____________________________________________________
+> Speaker:      Tommaso Treu (UCSB)
+> Topic:
+> Time:         3/18 (Tuesday) 14:20 - 15:20
+> Place:                 physics 104
+> Abstract:
+>
+>
+>
+>
+> *** Special Seminar
+> ____________________________________________________
+> Speaker:      Hitoshi Hanami (Iwate University)
+> Topic:                Unveiling Dusty Star Formation and AGN Activities in high-z LIRGs
+> Time:         3/20 (Thursday) 14:20 - 15:20
+> Place:                 R1203
+> Abstract:
+> A major issue in observational cosmology is to reconstruct growth
+> history of galaxies and Active Galactic Nuclei (AGNs), which can be
+> traced with {\sf Luminous InfraRed Galaxies (LIRGs)} detected by the
+> infrared observing satellites as the ISO, the {\it Spitzer}, the AKARI,
+> and the {\it Herschel}.  In general, their IR emissions are also
+> expected not only with Star Formation (SF) but also with AGN activities,
+> which possibly regulate or quench the SF with their feedback mechanism
+> in galaxy evolutions.  Even though {\bf MIPS selected LIRGs} at $z\sim 2
+> $ have been frequently \r\nstudied for checking the connection between
+> the SF and AGN activities, their IR StarBurst(SB)-AGN distinction at $z\
+> sim 1$ is limited since the strongest Polycyclic Aromatic Hydrocarbon (
+> PAH) $7.7(\sim8)\mu$m emission enters in an MIR photometry gap between
+> the IRAC and the MIPS on the {\it Spitzer}.  With the Spectral Energy
+> Distribution (SED) analysis of {\bf unique AKARI multi-MIR photometry
+> covering this gap}, however, we could classify LIRGs up to $z\\simeq2$
+> into PAH luminous starburst-dominated {\sf (sb-LIRGs)}, starburst-AGN {\
+> sf (s/a-LIRGs)}, and AGN-dominated {\sf (agn-LIRGs)} populations with
+> using a ratio of monochromatic luminosity at $8\mu$m of the PAH
+> emissions from dusty starbursts to that at $5\mu$m of continuum
+> emissions from AGN dusty tori; $\nu L_{\nu} (8\mu \mbox{m})/\nu L_{\nu}
+> (5\mu \mbox{m})$ (Hanami+2012). The SF/AGN distinction of {\sf AKARI
+> classified LIRGs} becomes also confirmed by using the {\it CXO} (Krumpe+
+> 2014) and the {\it Herschel} (PI: S.Serjeant). Alternative causes for
+> the PAH weakness on $\nu L_{\nu} (8\mu \mbox{m})/\nu L_{\nu} (5\mu \mbox
+> {m})$ are recently discussed with using {\it Spitzer}/Herschel IR
+> spectra of LIRGs as a compact and intense radiation field induces the
+> PAH deficit as mimic of [CII] defcit [m]. Thus, the MIR SED analysis is
+> a unique technique for studying co-evolution of dusty star formation and
+> AGN activities with dusty tori, which should be confirmed with using
+> ALMA soon and be also applied with using MIRI/JWST in future multi-
+> wavelength surveys.     We will discuss the hidden connection between
+> dusty starbursts and AGNs reported in Hanami+ (2012) and Krumpe+ (2014)
+> adding resent results obtained with the PACS/Herschel and the CXO.
+>
+>
+> ____________________________________________________
+> Speaker:      Maarten Baes (U. Ghent)
+> Topic:                Dust radiative transfer: modelling the complex interplay between dust and starlight in galaxies
+> Time:         3/21 (Friday) 14:20 - 15:20
+> Place:                 R1203
+> Abstract:
+> Dust grains play a special role in producing and processing radiation. They are efficient at absorbing and scattering UV through NIR photons and then reradiating the absorbed energy in the infrared and submm wavelength range. Understanding the intrinsic properties of these objects, including the dust itself, therefore requires 3D dust radiative transfer calculations. Unfortunately, the 3D dust radiative problem is nonlocal and nonlinear, which makes it one of the hardest challenges in computational astrophysics. To tackle this problem, we have developed SKIRT, an efficient Monte Carlo code designed to treat continuum radiative transfer problems in dusty systems. It handles any 3D geometry without limitation, and offers a full treatment of absorption, multiple anisotropic scattering and thermal dust emission.
+>
+> I present a number of recent applications of the SKIRT code on the different dusty galaxies. I will discuss the effects of dust attenuation on the apparent structural parameters, where we show that even a modest amount of dust attenuation can bias the derivation of bulge-to-disc ratio by a factor of two, even for face-on orientations. I will present the results of a detailed radiative transfer study of a sample of edge-on spiral galaxies selected, based on the FitSKIRT tool around SKIRT. We find that, on average, the dust disc in spiral galaxies is about 75% more radially extended but only half as thick as the stellar disc. The distribution of optical depths indicates that some spiral galaxies are relatively opaque even when seen face-on. Furthermore, we use our models as an input to construct the entire spectral energy distribution using fully panchromatic radiative transfer simulations. We compare the infrared/submm fluxes predicted by our models to the actual values obs!
+ erv
+> ed with Herschel. The implications of these findings on the dust energy balance, obscured star formation and the dominant heating sources of dust in in spiral galaxies are discussed.
+>
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

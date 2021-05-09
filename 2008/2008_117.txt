@@ -1,0 +1,212 @@
+From astro@iaa17.asiaa.sinica.edu.tw Sun Aug 10 21:16:30 2008
+Date: Sun, 10 Aug 2008 21:10:44 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Isse Aug 06 - 10, 2008)
+
+==============================================================================
+
+In this issue (Aug 06 - 10, 2008)
+
+1. GUAS-Subaru Asian Winter School 2008 [2nd circular]
+
+==============================================================================
+
+> Date: Wed, 06 Aug 2008 17:26:23 +0800
+> From: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> CC: Nobuo Arimoto <arimoto@optik.mtk.nao.ac.jp>,
+>     Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> Subject: GUAS-Subaru Asian Winter School 2008 [2nd circular]
+
+Dear Yi-Jehng,
+
+Could you help to circulate over TAN
+  the 2nd circular of "GUAS-Subaru Asian Winter School 2008"
+  in Japan (December 1-5, 2008)? - Thanks.
+
+
+best regards,
+Keiichi
+
+-------- Original Message --------
+Date: Wed, 06 Aug 2008 13:58:07 +0900
+From: Nobuo Arimoto <arimoto.nobuo@nao.ac.jp>
+To: keiichi@asiaa.sinica.edu.tw
+
+------------------------------------------------------------------------
+
+             ======================================
+              GUAS-Subaru Asian Winter School 2008
+             ======================================
+
+              -- 2nd circular (6th August 2008) --
+
+ Dept. of Astronomical Science, Graduate Univ. for Advanced Studies
+                              and
+ Subaru Telescope, Optical-IR Division, & Astronomy Data Center, NAOJ
+
+                      December 1-5, 2008
+     National Astronomical Observatory, Mitaka, Tokyo, Japan
+
+             http://optik2.mtk.nao.ac.jp/winter08/
+
+[Purposes]
+
+It is our great honor that Subaru Telescope located at the summit of
+Mauna Kea in Hawaii (http://subarutelescope.org/index.html) has been
+in steady operation for 10 years and continuously producing cutting-
+edge results in modern observational astronomy of various areas.
+
+We are pleased to announce that Subaru Telescope at National
+Astronomical Observatory of Japan (NAOJ) is going to host a winter
+school that provides graduate students and young astronomers with
+an opportunity to learn data analyses and the scientific results
+obtained with Subaru.
+The school will be held at NAOJ Mitaka and it will offer a series of
+lectures, experience with Subaru data, and a half-day trip to the space
+agency ISAS/JAXA at Sagamihara, Kanagawa (http://www.isas.ac.jp/e/).
+All the lectures will be given in English.
+
+This school is co-sponsored by the Graduate University for Advanced
+Studies (GUAS; http://www.soken.ac.jp/en/academics/astronomical.html)
+where NAOJ is one of the member organizations to host graduate students.
+GUAS has been sponsoring Asian Winter Schools for various branches
+of science since 2004, and this year, GUAS and Subaru/NAOJ will
+jointly host this winter school specifically on optical and
+near-infrared astronomy with Subaru.
+
+The goals of this winter school inviting students from outside Japan
+is to encourage the use of Subaru Telescope by wider astronomical
+community and to promote international collaborations in Asia.
+Exchange of young students will also form the basis of our
+partnership in the future astronomy in Asia.
+
+[Application]
+
+Supposed participants are mainly graduate students from universities
+and institutes in Asian countries. We hope not to discourage
+young post-docs or graduate students working at other areas to
+participate as well, but priorities would be given to graduate students
+from Asian countries.  Participants are expected to have some knowledge
+of and experience with UNIX.
+
+The number of participants will be limited to ~20 from abroad and
+~20 from Japan at most, and the selection will be made by the
+organizers based on the submitted applications if the applications
+exceed the above limitations.  Limited travel support will be available.
+
+All the participants are supposed to be at school for the entire period
+(ie., 13:00 1st Dec -- 12:00 5th Dec), and a partial participation
+will not be formally allowed and will be lowerly prioritized in
+selection.
+
+All the applicants should visit our webpage
+(application page - http://optik2.mtk.nao.ac.jp/winter08/apply/),
+fill the application form, and submit it through the web by no later
+than 5.00pm, 15th September in JST.
+In the case of an application by a graduate student, his/her supervisor
+is requested to send separately a reference in support of the
+application *directly* to us either by post or by e-mail
+(winter08-reference at optik.mtk.nao.ac.jp)
+which should arrive at NAOJ by 5.00pm, 15th September (JST).
+
+[Cost and Financial Support]
+
+Registration Fee (excursion, buffet, snacks, and tea/coffee) of
+5,000 Yen (in cash only) will be collected from each participant
+on his/her arrival at the reception desk.
+
+Free accommodation will be provided upon request throughout the school
+period (ie, from the night of 30 Nov to the morning of 6th Dec).
+Some daily allowances will also be paid which would be sufficient
+for ordinary meals.
+In addition, upon request, we will cover the minimum fares of domestic
+travel within Japan and also provide a partial support for international
+travel depending on our available budget and the actual number of
+participants.
+
+[Programme]
+
+Dec 1 (Mon) start at 13:00, opening remarks, guidance,
+           lectures (telescope, instruments), reception party
+Dec 2 (Tue) lectures (data archives/analysis), data analysis
+Dec 3 (Wed) science lectures, excursion to ISAS/JAXA (afternoon)
+Dec 4 (Thu) data analysis, banquet (buffet style)
+Dec 5 (Fri) data analysis, school photo, closing remarks, finish at 12:00
+
+*In the data analysis sessions, each participant chooses one of the
+ following Subaru instruments: Suprime-Cam, FOCAS, HDS, or IRCS.
+ A preferred instrument should be specified in the application form.
+ See http://www.naoj.org/Observing/Instruments/index.html for details
+ of each instrument.
+
+Lectures and brief description of the data analysis courses:
+
+ Telescope/Instruments: M. Iye
+
+ Science: N. Kashikawa (extragalactic)
+          M. Tamura (exoplanets, star formation) (TBD)
+
+ Data archive: R. Furusho, (Y. Yamada, J. Nishizawa, T. Nishimura)
+
+ Data anaslyses:
+
+   *Suprime-Cam (Optical Wide-Field Imager): M. Yagi, Y. Komiyama
+   Optical imaging data from the mosaic CCD camera will be reduced to
+   construct a contiguous image using a dedicated software for Suprime-Cam.
+   Then flux/astrometric calibration will be made.
+
+   *FOCAS (Faint Object Camera And Spectrograph): T. Hattori, T. Morokuma
+   Data reduction of optical long-slit low/mid resolution spectra
+   using IRAF, including CCD calibration, extraction of spectra and
+   wavelength/flux calibrations.
+
+   *HDS (Optical High Dispersion Spectrograph): W. Aoki, S. Kawanomoto
+   Data reduction of high resolution, multi-order echelle spectra
+   using IRAF, including CCD calibration, extraction of spectra and
+   wavelength calibration.
+
+   *IRCS (Infrared Camera and Spectrograph):
+   Y. Minowa (imaging), M. Imanishi (spectroscopy)
+   For imaging course, a standard data reduction procedure of infrared
+   images taken with IRCS will be shown, using IRAF. For spectroscopy
+   course, data reduction of an infrared low-resolution single-order
+   spectrum will be made, using IRAF.
+
+[Important Dates]
+
+July 9       : 1st circular (announcement of the opening of the school)
+August 6     : 2nd circular (open for application)
+September 15 : deadline for application
+September 30 : selection of participants
+October 31   : final circular (textbooks/documents distribution)
+December 1-5 : School
+
+[Local Organizing Committee]
+
+W. Aoki, N. Arimoto, R. Furuya, M. Imanishi, N. Kashikawa,
+T. Kodama (Chairperson), T. Takata, and M. Yagi
+
+National Astronomical Observatory of Japan
+2-21-1 Osawa, Mitaka, Tokyo 181-8588, Japan
+E-mail: winter08 at optik.mtk.nao.ac.jp
+
+------------------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

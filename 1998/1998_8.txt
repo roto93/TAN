@@ -1,0 +1,166 @@
+From kyl@biaa.sinica.edu.tw Tue Jan 13 09:10 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA08813; Tue, 13 Jan 1998 09:09:44 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA29308; Tue, 13 Jan 1998 09:08:06 +0800
+Date: Tue, 13 Jan 1998 09:08:06 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: Les Houches summer school on Space Infrared Astronomy (fwd)
+Message-Id: <Pine.GSO.3.96.980113090803.29251B-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 7914
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Mon, 12 Jan 1998 16:19:42 +0002
+From: LEQUEUX@mesioa.obspm.fr
+To: akimov@astron.kharkov.ua, alex@astron.kharkov.ua,
+    John.Appleby@jhuapl.edu, atkinson@maxwell.ee.uidaho.edu,
+    atreya@umich.edu, mbelton@noao.edu, bjaffel@iap.fr,
+    pbender@jila.colorado.edu, jbergstr@nhqvax.hq.nasa.gov,
+    rpb@astron.mit.edu, cblanco@alpha4.ct.astro.it, boss@clrs1.ciw.edu,
+    pboyce@aas.org, buie@lowell.edu, jab16@cornell.edu,
+    capria@saturn.ias.fra.cnr.it, mcirsmaru@imar.ro, jchambe584@aol.com,
+    chevrel@selenix.cnes.fr, jclairemidi@obs-besancon.fr,
+    anita@zinfandel.as.utexas.edu, kcolic@public.srce.hr,
+    combi@sprlc.spl.umich.edu, gjc@as.arizona.edu, ccc@space.mit.edu,
+    cruikshank@ssa1.arc.nasa.gov, davies@hyrax.rand.org,
+    debergh@MESIOB.OBSPM.FR, dermott@jupiter.astro.ufl.edu,
+    johnd@astro.uiuc.edu, jod@logos.jpl.nasa.gov, fdrake@ucolick.org,
+    paolof@dm.unipi.it, fujiwara@planeta.sci.isas.ac.jp,
+    gehrels@lpl.arizona.edu, gorka@crao.crimea.ua, aag@ihst.msk.su,
+    jyrki@seita.oulu.fi, hbh@astron.mit.edu, awharris@lithos.jpl.nasa.gov,
+    harris@terra.pe.ba.dlr.de, hubbard@lpl.arizona.edu,
+    irvine@fcrao1.phast.umass.edu, roki@abao.kheta.georgia.su,
+    ykim@jupiter.chungnam.ac.kr, kislyuk@mao.kiev.ua, ssk9@u-virginia.edu,
+    akuzmin@prao.psn.ru, lissauer@ringside.arc.nasa.gov, lopez@iaa.es,
+    umpire@lpl.arizona.edu, marov@applmat.msk.su, mcgrath@stsci.edu,
+    mckinnon@wunder.wustl.edu, mickelson@denison.edu,
+    david_morrison@qmgate.arc.nasa.gov, mosser@iap.fr,
+    mmumma@lepvax.dnet.nasa.gov, yoshi@saturn.phys.kobe-u.ac.jp,
+    noll@snoqualm.stsci.edu, owen@hubble.ifa.hawaii.edu, petit@obs-nice.fr,
+    ghp@space.mit.edu, ipredeanu@imar.ro, jeanna@sai.msu.su,
+    nick@pele.colorado.edu, shapiro@cfa.harvard.edu,
+    shkuratov@astron.kharkov.ua, brad@mahina.ifa.hawaii.edu,
+    sprague@titan.lpl.arizona.edu, alan@swri.space.swri.edu,
+    chujkova@sai.msu.su, tejf@afi.academ.alma-ata.su, tholen@ifa.hawaii.edu,
+    vstr@nirfi.sandy.nnov.su, cave@on.br, ww@vilspa.esa.es, lhw@lowell.edu,
+    sjw@psi.edu, wells@stsci.edu, wetherill@eros.ciw.edu,
+    jgw@logos.jpl.nasa.gov, i.p.williams@qmw.ac.uk, jwood@cfa.harvard.edu,
+    aty@mintaka.sdsu.edu
+Subject: Les Houches summer school on Space Infrared Astronomy
+
+>From James Lequeux, Observatoire de Paris (lequeux@mesioa.obspm.fr)
+
+Dear Colleague,
+
+I would like to inform you about a summer school I am organizing together with
+Dr. Fabienne Casoli:
+
+            INFRARED SPACE ASTRONOMY, TODAY AND TO-MORROW
+ 		Les Houches (France) 4-28 August 1998
+
+The purpose of this school is to teach a new community of astronomers, 
+physicists and chemists, on why and how to use the truly unique body of data 
+which are presently being gathered by the Infrared Space Observatory (ISO) of
+the European Space Agency. All these data will be put progressively in the
+public domain starting in May this year. They concern essentially all the 
+classes of objects of the Universe, with the exception of the Sun and the Moon. 
+They will be of interest not only to astronomers but also to physicists (in 
+particular solid-state, atomic and molecular physicists), and even to chemists.
+The participants will also be prepared to use the many new facilities for 
+infrared and submillimeter astronomy which are coming soon. I would like to 
+emphasize that research on astronomical archival data, for example those coming
+from the Hubble Space Telescope and soon from ISO, barely requires anything 
+else than a good workstation, a limited amount of commercial software (much 
+software being free), and access to the Internet WEB.
+
+Please, consider to attend yourself the school, to send graduate students, 
+and forward this information to colleagues who might be interested. 
+
+The School will feature basic courses covering all the aspects of infrared
+space astronomy, given by the very best experts. These lectures will be
+accessible to persons with very limited or even no background in astronomy.
+Practical work will allow to reduce, visualize and manipulate real data
+from ISO and to compare them to data obtained at other wavelengths. We
+hope to be able to use 4 UNIX stations with 10 terminals, for an expected
+number of 50 students. The work will be supervised by well-trained specialists.
+
+We realize that a 4-week school require a substantial involvement on the side
+of all the participants. This length is however a prerequisite for efficiency.
+The magnificient setting of Les Houches facing the Mont Blanc, the infinite
+possibilities for hiking or mountain climbing during the week-ends, and
+also the good food and usually warm atmosphere at Les Houches should offer
+a welcome compensation and reward.
+
+The School fee is 4600 French Francs including housing, food and teaching.
+Fellowships will be available under request to cover part of all of this fee 
+for persons who really need them. They might even cover travel expenses in 
+some cases. 
+
+Further information can be found below. You can also see the following URL:
+http://www.ujf-grenoble.fr/HOUCHES
+where you will find useful information as well as an inscription form. You
+can also ask me directly for this form. The filled information form should
+be sent to the School together with 2 support letters. The deadline is
+1 March 1998.
+
+Looking forward to seeing you at Les Houches,
+Yours sincerely
+
+James Lequeux
+e-mail: lequeux@mesioa.obspm.fr
+FAX: 33 (0)1 40 51 21 35
+
+------------------------------------------------------------------------------
+Infrared Space Astronomy, today and to-morrow 
+
+Scientific Direction:   Fabienne Casoli (Observatoire de Paris, France)
+		 	James Lequeux (Observatoire de Paris, France)
+
+- General presentation of infrared astronomy : M. Harwit (USA)
+- The Infrared Space Observatory (ISO): M. Kessler (ESA, Spain) and J.-L. Starck
+	(CEA, France)
+- Solar system : T. Encrenaz (Observatoire de Paris, France)
+- Stars and galactic structure : H. Habing (Leiden Observatory, The Netherlands)
+- Interstellar matter and star formation: F. Boulanger et P. Cox (IAS, France),
+	A. Natta (Arcetri Observatory, Italy)
+- Normal galaxies : G. Helou (IPAC, Cal Tech, USA)
+- Active galaxies : R. Genzel (MPE, Germany)
+- Cosmology : J.-L. Puget (IAS, France)
+
+In addition to these general courses, time will be reserved for practical work
+on actual data from the Infrared Space Observatory (ISO), using workstations and
+appropriate softwares. A number of more specific lectures will be given, either
+by invited speakers or school attendees. In particular, the future facilities 
+for infrared and submillimeter astronomy will be presented. 
+
+All celestial bodies emit in the infrared, and half of the radiation of galaxies
+lies in this wavelength range. This domain is crucial for studies of the solar
+system, of stars at the beginning and the end of their lifes, of interstellar
+matter, of nearby as well as very distant galaxies. Recent developments of
+observational techniques have been tremendous; one airborne observatory and two
+satellites, IRAS and ISO, have been dedicated to this domain, and many more are
+to come. An incredible variety of results have been obtained and many years of
+work will be necessary for exploiting them adequately.
+ 
+The purpose of this school is to attract a new community of scientists, from
+graduate students to senior researchers, to this field of research. They will
+learn the bases of infrared astronomy, and how to use the archival data of the
+Infrared Space Observatory. This will help to prepare themselves for the many
+future infrared and submillimeter space facilities: ODIN (launched in 1998),
+SWAS (1998), WIRE (1998), MAP (2000), SOFIA (2001), SIRTF (2002), IRIS (2002),
+PLANCK SURVEYOR (2004), FIRST (2006) etc.  
+
+For practical information please connect to the Les Houches Web server,
+http://www.ujf-grenoble.fr/HOUCHES/ 
+(English and French versions)
+
+
+

@@ -1,0 +1,76 @@
+
+> From: "hclin" <hclin@astro.ncu.edu.tw>
+> To: kuan@asiaa.sinica.edu.tw
+> Subject: For TAN: Lulinn One-meter Telescope (LOT) X Call for Observing
+Proposals for 2007A
+> Date: Thu, 1 Feb 2007 12:40:20 +0800
+
+Dear Prof. Kuan,
+
+Would you please announce the following on TAN, thanks very much for your
+help.
+
+------------------------
+Lulin One-meter Telescope (LOT) X Call for Observing Proposals for 2007A
+Proposal Deadline X February 6th, 2007
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the
+semester of 2007A.  The new semester begins on March 1st, and ends on August
+31st.
+
+Those who are interested in applying for observing time can download the
+proposal form from the NCU/IA web page:
+
+http://www.lulin.ncu.edu.tw/lot/lot_apply.doc
+
+and submit the proposal to the following email address:
+
+tac_lulin@astro.ncu.edu.tw
+
+with a copy to the TAC chair to avoid occasional erroneous delivery:
+
+        sun@astro.ncu.edu.tw
+
+by midnight, February 6th, 2007, Taiwan time (UT+8).  The allocation of
+observing time will be announced before February 10th, 2007.  In addition to
+the research proposals, we will also consider educational projects for
+advanced astronomical observation courses.
+
+Instruments Available:
+
+There are two instruments available for the 2007A semester, the Lulin CCD
+Imager (LCI) and the Lulin Compact Spectrograph (LCS).  The LCI is the major
+observing instrument using the PI 1300 CCD.  The technical information of
+LCI can be found in the following web page:
+
+http://www.lulin.ncu.edu.tw/lot/1300b.pdf
+
+The second instrument, the LCS, has been tested and calibrated during the
+2006B semester.  The calibration of this instrument has been improving but
+has not achieved its expected performance.  Thus observers using this
+instrument are on a shared risk basis.  Users are encouraged to keep in
+close contact with the technical team to receive the updated information.
+Below please find the specifications of LCS:
+
+Lulin Compact Spectrograph (LCS)
+
+Dispersion element: 2 gratings (300 lines/mm and 1200 lines/mm)
+Detector: Apogee AP-8(SITE chip, 1K 1K)
+Length of slit (projection onto the sky with LOT optics): 8.5 arcmin
+Width of slit (projection onto the sky with LOT optics): 1.5 arcsec (fixed)
+Resolving power: 333 @ 500nm (300 lines/mm) and 1333 @ 500nm (1200 lines/mm)
+Wavelength coverage: 380-760nm, and 500-900nm (300 lines/mm)
+Calibration lamp: Fe-Ar-Ne
+_____________________________________________________________________
+End of the announcement (2007.1.23)
+
+Regards,
+ L
+Hung-Chin Lin
+hclin@astro.ncu.edu.tw
+Lulin Observatory, Institute of Astronomy
+National Central University
+(http://www.lulin.ncu.edu.tw)
+LuLin obs. Phone# 0910-267-184
+IANCU phone# 03-427-8445
+

@@ -1,0 +1,104 @@
+From sun@phyast.phy.ncu.edu.tw Thu Feb 19 09:46 CST 1998
+Return-Path: <sun@phyast.phy.ncu.edu.tw>
+Received: from joule.phy.ncu.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA01767; Thu, 19 Feb 1998 09:45:20 +0800
+Received: from phyast.phy.ncu.edu.tw by joule.phy.ncu.edu.tw (AIX 3.2/UCB 5.64/4.03)
+          id AA20581; Thu, 19 Feb 1998 09:31:08 +0800
+Message-Id: <9802190131.AA20581@joule.phy.ncu.edu.tw>
+Date: Thu, 19 Feb 1998 09:47:32 +0800
+From: sun@phyast.phy.ncu.edu.tw
+To: astro@biaa17.biaa.sinica.edu.tw
+Subject: forwarded msg, Les Houches summer school
+X-Vms-To: SMTP%"astro@biaa17.biaa.sinica.edu.tw"
+Content-Type: text
+Content-Length: 3108
+Status: O
+
+From:	SMTP%"mfyang@phys.nthu.edu.tw" 19-FEB-1998 09:00:52.03
+To:	Sun
+CC:	
+Subj:	LesHouches (fwd)
+
+Date: Mon, 16 Feb 1998 12:29:24 +0100
+From: Thierry Jolicoeur <thierry@spht.saclay.cea.fr>
+To: lsitelh98@cea.fr
+Subject: LesHouches 1998
+
+
+Dear Colleague, 
+
+please take note and if possible advertise this announcement for the 
+LES HOUCHES summer school among your collaborators, post-docs and students :
+
+        "TOPOLOGICAL ASPECTS OF LOW DIMENSIONAL SYSTEMS"
+             Les Houches, France, July 7-31 1998
+
+
+SCIENTIFIC PROGRAM :
+
+The purpose of the school is to introduce young scientists to the 
+study of quantum systems in low dimensions. In the past years, this 
+field has been the subject of numerous theoretical and experimental 
+works. Among the most notorious, let us mention, in condensed 
+matter, the integer and fractional quantum Hall effects, quantum 
+spin chains, polymers, mesoscopic systems in low dimensions. These 
+topics require a wide range of modern theoretical methods, such as 
+field theory, statistical mechanics, and topology. The quantum Hall 
+effect will be a central topic; related subjects such as anyons,
+one dimensional statistics, statistical mechanics of polymers,  will 
+also be discussed. The school is open to advanced graduate students 
+and young researchers. Attendance is limited to 50 students.
+
+Main lectures: 
+
+Introduction to Topological Numbers, D. J. Thouless, 
+The Quantum Hall Effect, S. M. Girvin, 
+Experimental Aspects of the Quantum Hall Effect, M. Shayegan
+Edge States, M. P. A. Fisher,
+Exact Properties in Quantum Impurity problems, H. Saleur, 
+Anyons, Jan Myrheim,
+Intermediate Statistics in d=1, A. Polychronakos,
+Aspects of Chern-Simons Theory, G. Dunne,
+Topological Statistical Mechanics of Polymers, B. Duplantier, 
+Statistics of Knots and entangled Random Walks, S. Nechaev.
+
+Additional lectures and seminars will be given by invited speakers
+and by school attendants.
+
+ ***************************************************
+ *                   BEWARE!                       *	
+ *         DEADLINE FOR APPLICATION IS             *
+ *                 MARCH, 1ST                      *
+ ***************************************************
+        (Contrary to the erroneous statement
+         on the application form - sorry for that)
+
+
+All informations available from:
+
+http://w3houches.ujf-grenoble.fr/poster-summer-69.html
+
+Email: secretariat.houches@ujf-grenoble.fr
+Phone: +33 450544069 - Fax: +33 450555325
+
+With best regards,
+
+Alain Comtet, Thierry Jolicoeur, Stephane Ouvry.
+
+
+
+
+================== RFC 822 Headers ==================
+Received: by PHYAST (UCX V2.0)
+	Thu, 19 Feb 1998 09:00:48 +0800
+Received: by thccx9.cc.nthu.edu.tw (station v4.1.S) from phys.nthu.edu.tw 
+ 		id IAA13384; Thu, 19 Feb 1998 08:41:53 +0800 (CST)
+Date: Thu, 19 Feb 1998 08:41:53 +0800 (CST)
+Message-Id: <199802190041.IAA13384@thccx9.cc.nthu.edu.tw>
+Received: by phys.nthu.edu.tw (th3.2r)  
+ 		id IAA06838; Thu, 19 Feb 1998 08:55:29 +0800 (CST)
+From: mfyang@phys.nthu.edu.tw (Min-Fong Yang)
+To: ctsemail1@nthpy5.phys.nthu.edu.tw
+Subject: LesHouches (fwd)
+Cc: mfyang
+

@@ -1,0 +1,205 @@
+==============================================================================
+
+In this issue (Feb 20 - Mar 04, 2016)
+
+1. [missed, my apology. -- YJK]
+   ASIAA Colloquium/Seminar/Lunchtalk (Mar 01): Howard K.C. Yee (U of Toronto)
+                                      (Mar 02): Homin Jiang (ASIAA)
+2. Conference honoring Richard Crutcher & Carl Helies (May 23-27)
+3. NTHU Astronomy Colloquium (Mar 08): Michal Michalowski (Edinburgh)
+4. NTHU Astronomy Colloquium (Mar 11)
+5. ASIAA Colloquium/Seminar/Lunchtalk (Mar 07): Li-Ting Hsu (ASIAA)
+                              (Mar 09): Michal Michalowski (Univ of Edinburgh)
+
+==============================================================================
+
+> Date: Thu, 25 Feb 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________
+Speaker:        Howard K.C. Yee (Department of Astronomy and Astrophysics, University of Toronto)
+Topic:          The Evolution of Galaxies in Clusters at z~1 and Beyond
+Time:           3/1 (Tuesday) 14:20 - 15:20
+Place:           Physics 104
+Abstract:
+Galaxy clusters provide a large range of environments for the study of
+how the environment affects galaxy evolution. I will present some recent
+results on the evolution of galaxies in clusters at z~1 and beyond from
+two large cluster surveys.  SpARCS is an imaging survey designed to search
+for galaxy clusters up to z~2 using the cluster red-sequence technique
+based on a combination of Spitzer Space Telescope’s IRAC 3.6um and
+ground-based z’-band images; GLASS is a multi-object spectroscopic survey
+of 10 of the richest SpARCS clusters at z~1 using the Gemini 8.2m
+telescopes. Analysis of GCLASS data show that galaxies in-falling into
+clusters at z~1 have their star formation suppressed in a relatively short
+time scale of less than 0.5 Gyr at an average location close to 0.5 r_200
+(the cluster-centric radius within which the cluster is largely virialized).
+From imaging data obtain using the 24um MIPS camera on Spitzer, we also
+find that lower-mass in-falling galaxies show a possible last-gasp increase
+in their star formation before become quiescent. Using far-IR/submm data
+from the Herschel Space telescope, we will take a detailed look at the
+change in star formation via dust emission in 3 clusters at z~1.2 as
+galaxies in-fall into the clusters.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Homin Jiang (ASIAA)
+Topic:          Build your own digital backend by CASPER
+Time:           3/2 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================
+
+> Date: Mon, 29 Feb 2016 12:40:16 +0800
+> From: slai@phys.nthu.edu.tw
+> Subject: Conference honoring Richard Crutcher & Carl Helies
+
+Dear Yi-Jehng,
+
+
+Please advertise the following conference with TAN.
+This is a conference honoring the contributions of Carl Heiles and my thesis adviser Richard Crutcher.
+
+"Star formation, magnetic fields, and diffuse matter in the galaxy"
+http://www.astro.wisc.edu/ch16/index.html
+
+Dates: May 23-27, 2016
+Location:  University of Wisconsin - Madison, USA
+
+
+The abstract deadlines are
+*Talk: 29 March 2016
+*Poster: 09 May 2016
+
+
+Thanks!
+
+
+Shih-Ping
+
+==============================================================================
+
+> Date: Tue, 1 Mar 2016 15:17:10 +0800
+> Subject: NTHU colloquium
+> From: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> To: astro@asiaa.sinica.edu.tw
+> Cc: Tomo <itlhnis@gmail.com>
+
+3/8 (Tue) 12:20pm- Michal Michalowski (Edinburgh)
+
+Massive stars formed in atomic hydrogen reservoirs"
+Abstract:
+I will discuss the process of gas inflow on galaxies and subsequent
+fueling of star-formation. Using recent ATCA HI observations I will
+show that galaxies showing anomalous local metallicity decrements
+(gamma-ray burst host galaxies) have substantial atomic gas
+reservoirs, and are deficient in molecular gas. This suggest that star
+formation in these galaxies may be fuelled by recent inflow of
+metal-poor atomic gas. This is controversial, but can happen in
+low-metallicity gas near the onset of star formation because cooling
+of gas (necessary for star formation) is faster than the HI-to-H2
+conversion.
+
+==============================================================================
+
+> Date: Wed, 2 Mar 2016 18:07:03 +0800
+> Subject: NTHU colloquium (3/11)
+> From: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> To: astro@asiaa.sinica.edu.tw
+
+2016/03/11 (Fri.)
+14:00~15:00
+General 2nd building R521
+
+Title:
+Photometric redshifts for X-ray selected AGNs: paving the way towards the
+study of AGN/galaxy coevolution
+
+Abstract:
+
+To better investigate the AGN and galaxies coevolution, we need to have a
+complete characterisation and census of AGNs with accurate redshifts.
+Spectroscopic redshifts are relatively reliable, however, it is
+time-consuming and difficult to be obtained for faint sources at high
+redshifts. Therefore we have to rely on photometric redshifts (photo-z)
+which need to be tuned specifically for AGNs. In our work, we studied on
+the X-ray selected AGNs in the Chandra deep filed-south (CDFS) region,
+mainly using de-blending Subaru intermediate bands and HST
+optical/near-infrared data to compute photo-z. We first matched the
+multi-wavelength counterparts for the X-ray sources, then applied proper
+magnitude priors and appropriate AGN-galaxy hybrid templates for SED
+fitting. We achieved a photo-z accuracy of 0.013 with an outliers fraction
+of 5.3% for X-ray sources. With the SED fitting results of our well-trained
+AGN-galaxy hybrids, we further studied the AGN host properties via the
+rest-frame color-magnitude diagram (CMD) which is an useful probe to trace
+the stellar populations. We made corrections for dust extinction and AGN
+contamination for the AGN host colors, and found that the AGN host colors
+also present a bimodality in the CMD up to z~2.5 as found in normal
+galaxies. In this talk, I will present the CMD result of AGN host colors,
+and compare with the result of normal galaxies.
+
+==============================================================================
+
+Date: Thu, 3 Mar 2016 08:00:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Li-Ting Hsu (ASIAA)
+Topic:          Photometric redshifts for galaxies and X-ray selected AGNs in the CDFS
+Time:           3/7 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Michal Michalowski (University of Edinburgh)
+Topic:          Massive stars formed in atomic hydrogen reservoirs
+Time:           3/9 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+I will discuss the process of gas inflow on galaxies and subsequent
+fueling of star-formation. Using recent ATCA HI observations I will
+show that galaxies with anomalous local metallicity decrements
+(gamma-ray burst host galaxies) have substantial atomic gas
+reservoirs, and are deficient in molecular gas. This suggests that star
+formation in these galaxies may be fuelled by recent inflow of
+metal-poor atomic gas. This is controversial, but can happen in
+low-metallicity gas near the onset of star formation because cooling
+of gas (necessary for star formation) is faster than the HI-to-H2
+conversion.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

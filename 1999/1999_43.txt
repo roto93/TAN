@@ -1,0 +1,115 @@
+From kyl@asiaa.sinica.edu.tw Sat Mar  6 19:03:56 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA11131; Sat, 6 Mar 1999 18:58:10 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id SAA07682; Sat, 6 Mar 1999 18:55:15 +0800
+Date: Sat, 6 Mar 1999 18:55:15 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: VLA Upgrade Science (fwd)
+Message-Id: <Pine.GSO.3.96.990306185512.7453B-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3730
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 22 Jan 1999 15:55:05 -0700 (MST)
+From: Rick Perley <rperley@arana.aoc.NRAO.EDU>
+To: VLAUpgrade.dis@zia.aoc.NRAO.EDU
+Subject: VLA Upgrade Science
+
+	Dear VLA User:
+
+	As most of you are aware, the NRAO is developing plans to
+significantly improve the capabilities of the Very Large Array.  By
+implementing modern technology, we can, at quite modest cost, increase
+by typically by an order of magnitude all key instrumental
+characteristics of the array, while keeping operational costs near
+current levels.  If all parts of the VLA Upgrade plans are
+implemented, the resulting capabilities of the array would be
+summarized as follows:
+
+	1) Complete frequency tunability between 50 MHz and 50 GHz,
+with selectable bandwidths of up to 8 GHz (per polarization).  
+
+	2) The ability to simultaneously observe up to 8 independent
+frequency/bandwidth combinations (4 with dual polarization) within one
+or two frequency bands. (The total instantaneous bandwidth over all 
+channels will be as high as 16 GHz).
+
+	3) RMS sensitivity (12 hours, full bandwidth) of better than 1
+microJy between 2 and 40 GHz.
+
+	4) A new correlator which would provide up to 32768 channels.
+These can be apportioned out amongst the various frequency and
+polarization combinations in an extremely flexible manner.
+
+	5) A new configuration (A+) which would provide about ten
+times better resolution than A-configuration.  The new antennas
+comprising this configuration can be used in real time with the
+current VLA (in which case the point-source sensitivity will be the
+same as that quoted in (3) above), or can run be used as a real-time
+stand-alone array, (in which case the point-source sensitivity will be
+about the same as the current VLA), or can be linked in with the VLBA
+antennas to greatly increase that array's sensitivity, flexibility, and
+imaging capability.  
+
+	6) A new short-spacing configuration (E) which will increase
+by about a factor of five the low-surface brightness sensitivity of
+the array over the exising 'D' configuration.  
+
+	A complete description of the goals of the VLA Upgrade will be
+found at: http://www.nrao.edu/vla/Upgrade/whatisit.shtml.
+
+      As part of our preparations for presentation of the VLA Upgrade
+plan to the radio panel of the decadal review, we are collecting
+examples of outstanding new science that these major improvements can
+be expected to enable.  These examples will be critical in helping
+convince panel members -- both on the radio panel and on the main
+panel, that the VLA Upgrade represents outstanding science potential
+at modest cost.  
+
+You can help us by answering the following question:
+
+    *******************************************************
+    * If the instrument described above were available to *
+    * you today, what use would you make of it? What      *
+    * key science projects would you propose to do which  *
+    * you cannot do now with the current instrument?      *
+    *******************************************************
+
+Please respond by the end of this month, so we can select the best
+ideas for presentation to the radio panel at their Feb 19/20 meeting.
+
+Send your response by Jan. 31 to Michael Rupen:  mrupen@nrao.edu.
+
+If you have any questions about the Upgrade, please contact
+me:    rperley@nrao.edu.
+
+Thank you for your help.  
+
+       Rick Perley
+
+
+	 
+
+

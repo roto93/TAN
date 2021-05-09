@@ -1,0 +1,583 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Oct 19 21:33:04 2011
+Date: Wed, 19 Oct 2011 21:26:09 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Oct 05 - 19, 2011)
+
+============================================================================== 
+
+In this issue (Oct 05 - 19, 2011)
+
++++++ +++++
+[We are sorry that we were unable to send out new issues of TAN due to a
+ network problem experienced by the TAN server in the past week. So some
+ of the news announced in the following are late. -- YJK, TAN adminstrator]
++++++ +++++
+
+1. First Announcement of 1st Taiwan Extragalactic Astronomical Data Center
+   (TWEA-DC) Workshop (Nov 07)
+2. ALMA Users Workshop for Phase II Procedure (Oct 21)
+3. NCU Astronomy Colloquia (Oct 14): Chiang-Mei Chen (NCU Physics)
+                           (Oct 21): Alian Omont (IAP)
+4. Second Announcement of SPICA Science Workshop (Oct 13)
+5. NCU Astronomy Colloquia (Nov 01): Mousumi Das (Indian Inst of Astrophysics)
+                           (Nov 01): Chao-Wei Tsai (IPAC/Caltech)
+                           (Nov 04): Chien-Hsiu Lee (INACU)
+6. NCU Astronomy Colloquium (Oct 18): Uri (Evgeny) Griv (Ben-Gurion Univ)
+7. ASIAA Colloquium (Oct 21): David Koo (UCO/LICK, UC Santa Cruz)
+8. [EPO] AS Open House Guide Book (Oct 22)
+
+==============================================================================
+
+> Date: Mon, 17 Oct 2011 18:56:00 +0800   
+> From: Sebastien Foucaud <foucaud@ntnu.edu.tw>      
+> Subject: Announcement to TAN
+
+Dear Yi-Jehng,
+
+Could you please send the following announcement to the TAN?
+
+Thank you very much,
+Cheers
+Seb
+
+
+-----------------
+
+
+###################################################################
+### First Announcement of 1st TWEA-DC Workshop:                 ###
+### Founding Astroinformatics and Virtual Observatory in Taiwan ###
+###################################################################
+
+Dear all,
+
+As part of our initiative linked to the Taiwan Extragalactic Astronomical Data Center, we are organizing a one-day workshop on Virtual Observatory and AstroInformatics on Monday November, 7 2011, at NTNU Science Campus in room S102A. 
+The goal of the meeting is for Astronomers and Computer scientists to meet and discuss the recent developments of this field in Taiwan. We would like to gather as many interested  people as possible, especially students, and promote our efforts. Furthermore we will use this workshop as a platform to prepare our future efforts (including preparing NSC grants).
+
+The workshop will include:
+(1) review of the latest status of VO in the world
+(2) invited talks from Taiwan and International colleagues the recent development of this field in Taiwan,
+(3) invited review talks from Taiwan colleagues on each potentially interesting scientific topics requiring usage of a Data Center,
+(4) discussion to strengthen our science cases.
+
+Invited review speakers and topics:
+
+Sebastien Foucaud (NTNU)
+Nicolas Kamennoff (ACSEL, France)
+Lin, Lihwai (ASIAA)
+Ngeow, Chow-Choong (NCU)
+Tsai, Meng-Feng (NCU)
+Umetsu, Keiichi (ASIAA)
+Chi-Hung Yan (ASIAA/NTNU)
+
+If you are interested in attending, please e-mail your name, position and institution to Lim, Chen-Fatt (497440180@ntnu.edu.tw) by Tuesday November, 1st, 2011 so that we will be able to arrange lunch. 
+
+Hope to see you in numbers! 
+
+Best Regards,
+Sebastien Foucaud
+on behalf of the organization Committee 
+(Chen, Lin-Wen; Foucaud, Sebastien; Hashimoto, Yasuhiro; Lee, Wolung; 
+Tsai, Meng-Feng; Umetsu, Keiichi)
+
+
+--------------------------------------
+
+1. Program
+2. Lunch boxes
+
+### 1. Program ###
+
+09:30-09:50    Registration and Coffee
+
+09:50-10:00    Opening Remarks (Seb Foucaud)
+10:00-10:30    Present Status of VO and AstroInformatics in the world (Seb Foucaud)
+10:30-11:00    CFHT-WIRCAM data pipeline (Chi-Hung Yan)
+11:00-11:30    BLINK: Billion Lines INdexing in a clicK (Nicolas Kamennoff)
+11:30-12:00    TWEA-DC: the Taiwan Extragalactic Astronomical Data Center (Seb Foucaud)
+
+12:00-13:30    Lunch
+
+13:30-14:00    Transients and Time-variable Astronomy (Chow-Choong Ngeow)
+14:00-14:30    Galaxy evolution (Lihwai Lin)
+14:30-15:00    Large-Scale structure and Cosmology (Keiichi Umetsu)
+15:00-15:30    Database, Clouding computing and peer-to-peer (Meng-Feng Tsai)
+
+15:30-15:45    Coffee Break
+
+15:45-16:45    Discussion per working group
+16:45-17:30    Summary and discussion
+
+
+### 2. Lunch boxes ###
+
+Please register by sending an email to Chen-Fatt Lim and order your lunch box.
+If you require a special diet, please specify!
+
+__________________________________________
+
+
+Prof. Sebastien R.A. Foucaud (??????)
+
+Department of Earth Sciences, National Taiwan Normal University
+No.88, Sec. 4, Tingzhou Rd., Wenshan District, Taipei 11677, Taiwan R.O.C.
+Tel: +886-(0)2-7734-6402
+email: foucaud@ntnu.edu.tw
+http://www.es.ntnu.edu.tw/Foucaud
+__________________________________________
+
+==============================================================================
+
+> Date: Wed, 19 Oct 2011 14:52:01 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: ALMA Users Workshop for Phase II Procedure
+
+----------------------------------------------------------------
+
+          ALMA Users Workshop for Phase II Procedure
+                   October 21, 2011
+        Room 1203, Astronomy-Mathematics Building
+
+   http://events.asiaa.sinica.edu.tw/workshop/20111021/index.php
+
+----------------------------------------------------------------
+Announcement
+
+The Institute of Astronomy and Astrophysics at Academia Sinica (ASIAA)
+announces its fourth workshop for Taiwanese ALMA users. The workshop is
+oriented for astronomers that were granted with observing time for the Cycle
+0 Phase, including both the highest priority projects and filler projects.
+Please let us know if you really want to attend this workshop.
+
+This ALMA workshop is designed to provide information on the second phase or
+Scheduling Blocks (SB) generation. At this stage, one of our ARC members
+will be the contact person between the PI and the people in charge of the
+Scheduling Blocks generation in the ALMA Regional Center.
+
+In this workshop, there will be lectures for the Phase II procedure,
+information about scheduling blocks and some examples.
+
+There will be an open Q&A session for users to consult our ARC members with
+their questions.
+
+LOC 
+Chin-Fei Lee (Chair)
+Sheng-Yuan Liu
+Shigehisa Takakuwa
+Alfonso Trejo Cruz
+Ronny Zhao-Geisler
+Edwige Chapillon
+Linda Shao
+Suh-Lian Lin
+
+E-mail contact: cflee@asiaa.sinica.edu.tw
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU (10/14 & 10/21)
+> Date: Wed, 5 Oct 2011 16:04:17 +0800
+
+Dear Yi-Jehng, please distribute the following message to TAN. Thanks a lot.
+
+---------------------------------------------------------------------------
+
+Dear all, our up-coming colloquiums include:
+
+10/14 (Fri) 14:00 - 15:00
+Speaker: Dr. Chiang-Mei Chen (NCU Physics)
+Title: Two-fold description of back hole 
+Abstract: 
+In this talk, I will firstly introduce essential properties of black hole which inspire
+a new conceptual idea: holographic principle. This idea gives a complete different
+viewpoint of black hole leading a connection with field theory. I will briefly review
+the recent progress in this subject. 
+
+10/21 (Fri) 16:00 - 17:00
+Speaker: Dr. Alian Omont (IAP)
+Title: Strongly lensed high redshift galaxies identified in Herschel wide surveys.
+Prospects for ALMA observations.
+Abstract:
+The very few early known, strongly lensed high-z sub-mm sources (FIRAS10214, Cloverleaf,
+APM08279), played a very important role in the development of high-z submm/mm astronomy
+through pioneer detections of 0.85-1.2mm continuum and CO lines, and various high
+sensitivity studies allowed by their strong magnification. Herschel wide surveys, which
+will hopefully observe ~1000 deg?, are discovering hundreds of similarly strongly lensed
+submm galaxies (e.g. Negrello et al. 2010). I will first review the current state of
+mm/submm follow-up of such Herschel lensed galaxies with IRAM and other facilities, for
+CO redshift determination, mapping mm continuum and CO lines with interferometers,
+measuring 1.2mm continuum flux density, etc. I will specially stress the case of the
+recent detection of H2O at IRAM/PdBI in two such sources at z=2.3 and 3.3 (Omont et
+al.2011). These examples give an idea of the numerous studies allowed by strong lensing
+magnification and the enhanced capabilities of ALMA and IRAM/NOEMA, using this unique
+sample of hundreds of Herschel high-z lensed galaxies.
+
+All talks take place in Room 1013, Science Building 4, National Central University.
+
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201110211600.html
+
+-------------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> From: Hiro Takami <hiro@asiaa.sinica.edu.tw>
+> Subject: Second Announcement of SPICA Science Workshop
+> Date: Thu, 6 Oct 2011 10:50:34 +0800
+> To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+
+
+################################################
+### Second Announcement of SPICA Science Workshop ###
+################################################
+
+As we let you know, we organize one-day science workshop for SPICA on
+October 13 (Thu) at ASIAA, ASMAB R1203. The goal of the meeting is for =
+us
+to clarify what we could do, and what we would like to do, using SPICA.
+
+1. Program
+2. Late registration
+3. Lunch boxes
+4. Lab tour
+
+### 1. Program ###
+
+  9:30-10:00	Registration & Coffee
+
+10:00-10:15	Opening Remarks				(Dr. Shiang-Yu =
+Wang)
+10:15-11:00	Present Status of SPICA and MCS	(TBD)
+11:00-11:30	Comets & Solar System(s)		(Professor =
+Wing-Huen Ip)
+11:30-12:00	Star Formation					(Dr. =
+Vivien Chen)
+
+12:00-13:30	Lunch
+13:00-13:30	Lab tour (for those who would like to join)
+
+13:30-14:00	Distant Galaxies				(Dr. Seb =
+Foucaud)
+14:00-14:30	Dust Mineralogy & Evolved Stars	(Dr. Ciska Kemper)
+
+14:30-15:00	Coffee break
+
+15:00-15:30	Astrochemistry					(Dr. =
+Tatsuhiko Hasegawa)
+15:30-17:00	Discussion & Summary
+
+
+### 2. Late registration ###
+
+We accept late registration. If you would like to join, please register =
+yourself using
+the lunch box page below by 12:00 noon October 11.
+
+
+### 3. Lunch boxes ###
+
+For colleagues who have already e-mailed to Hiro.
+We have an option for veggie and non-veggie meals. Please go to the page =
+below and select
+by 12:00 noon October 11.
+
+IAA members
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+
+Non-IAA members
+=
+https://www.asiaa.sinica.edu.tw/visitor/EventSignup.php?i=3Dd225c780adfa01=
+ef7481df032317ab61
+
+
+### 4. Lab tour ###
+
+We organize a lab tour at ASIAA for the guests abroad. Several of you =
+can still join, so
+if you are interested, please contact Shiang-Yu =
+(sywang@asiaa.sinica.edu.tw).
+
+
+best regards, Shiang-Yu Wang, Yoichi Ohyama, Ciska Kemper and Hiro =
+Takami
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at NCU Astronomy
+> Date: Mon, 17 Oct 2011 09:13:28 +0800
+
+Dear Yi-Jehng, can you circulate the following IANCU Colloquium announcement? Thanks a lot.
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) are:
+
+
+Title: Strongly lensed high redshift galaxies identified in Herschel wide surveys.
+Prospects for ALMA observations.
+Speaker: Dr. Alian Omont (IAP)
+Date: 2011-10-21
+Time: 16:00-17:00
+Abstract: The very few early known, strongly lensed high-z sub-mm sources (FIRAS10214,
+Cloverleaf, APM08279), played a very important role in the development of high-z
+submm/mm astronomy through pioneer detections of 0.85-1.2mm continuum and CO lines, and
+various high sensitivity studies allowed by their strong magnification. Herschel wide
+surveys, which will hopefully observe ~1000 deg?, are discovering hundreds of similarly
+strongly lensed submm galaxies (e.g. Negrello et al. 2010). I will first review the
+current state of mm/submm follow-up of such Herschel lensed galaxies with IRAM and other
+facilities, for CO redshift determination, mapping mm continuum and CO lines with
+interferometers, measuring 1.2mm continuum flux density, etc. I will specially stress
+the case of the recent detection of H2O at IRAM/PdBI in two such sources at z=2.3 and
+3.3 (Omont et al.2011). These examples give an idea of the numerous studies allowed by
+strong lensing magnification and the enhanced capabilities of ALMA and IRAM/NOEMA, using
+this unique sample of hundreds of Herschel high-z lensed galaxies.
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201110211600.html
+
+Title: Nuclear Activity in Low Luminosity Spiral Galaxies
+Speaker: Dr. Mousumi Das (Indian Institute of Astrophysics)
+Date: 2011-11-01
+Time: 14:00-15:00
+Abstract: Low Luminosity spiral galaxies are generally dark matter dominated systems
+that that have extended gas disks but show little star formation. They are thus poorly
+evolved galaxies and do not show much nuclear activity. However, in our recent studies
+of these galaxies we find that a significant fraction do have active galactic nuclei
+(AGN) that are associated with low mass nuclear black holes. Most of these galaxies
+either have large bulges or are in the process of forming a bulge. In some cases radio
+lobes or jets are also seen with the AGN activity. This presentation will focus on
+multi-frequency studies of this nuclear activity and its implications for studies of
+galaxy evolution.
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201111011400.html
+
+Title: The Mid-Infrared View of Galaxies: from Nearby Dwarfs to High-Redshift QSOs
+Speaker: Dr. Chao-Wei Tsai (IPAC/Caltech)
+Date: 2011-11-01
+Time: 11:00-12:00
+Abstract: The NASA Wide-field Infrared Survey Explorer (WISE) has mapped the entire sky
+in 4 infrared bands centered at 3.4, 4.6, 12 and 22 microns, and has identified hundreds
+of millions of IR sources. These bands are ideal for studying the extreme AGNs and
+starburst galaxies. In the past one and half years, the WISE extragalactic science team
+has discovered hyper luminous infrared galaxies (HyLIRGs), dust-obscured galaxies, red
+AGNs, and very red blue compact dwarf galaxies (BCDs) with low metallicity. I will give
+an overview of these results, and then focus on the projects of searching for HyLIRGs
+and metal deficient BCDs, as well as on their multi-wavelength followup in details. At
+the end, I will discuss the important impacts and applications of these discoveries to
+our understanding of galaxy formation and evolution.
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201111011100.html
+
+Title: PAndromeda - First Results from the High-cadence Monitoing of M31 with Pan-STARRS1
+Speaker: Dr. Chien-Hsiu Lee (INACU)
+Date: 2011-11-04
+Time:14:00-15:00
+Abstract: The Pan-STARRS 1 (PS1) survey of M31 (PAndromeda) is designed to identify
+gravitational
+microlensing events, caused by bulge and disk stars (self-lensing) and by compact matter
+in the halos of M31 and the Milky Way (halo lensing, or lensing by MACHOs). With the 7
+deg2 FOV of PS1, the entire disk of M31 can be imaged with one single pointing. Our aim
+is to monitor M31 with this wide FOV with daily sampling (20 mins/day). In the 2010
+season we acquired in total 91 nights towards M31, with 90 nights in the rP1 and 66
+nights in the iP1. The total integration time in rP1 and iP1 are 70740s and 36180s,
+respectively. As a preliminary analysis, we study a 40' X 40' sub-field in the central
+region of M31, a 20' X 20' sub-field in the disk of M31 and a 20' X 20' sub-field for
+the investigation of astrometric precision. We demonstrate that the PSF is good enough
+to detect microlensing events. We present light curves for 6 candidate microlensing
+events. This is a competitive rate compared to previous M31 microlensing surveys. We
+finally also present one example light curve for Cepheids, novae and eclipsing binaries
+in these sub-fields. 
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201111041400.html
+
+----------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at NCU Astronomy
+> Date: Sun, 16 Oct 2011 17:55:00 +0800
+
+Dear Yi-Jehng, can you circulate the following IANCU Colloquium announcement? Thanks a lot.
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) are:
+
+Title: Waves and Their Instabilities in Astrophysical Disks
+Speaker: Prof. Uri (Evgeny) Griv (Dept. of Physics, Ben-Gurion University)
+Date: 2011-10-18
+Time: 15:00-16:00
+Abstract: The theory of disk spiral structure and thickening has a long history, but, as
+we emphasize in this talk, is not yet complete. The classical criterion for a disk to be
+unstable to substructure formation by self-gravitation is that the Toomre parameter, Q,
+be less than unity. Combined with the Lin-Shu dispersion relation for self-gravitating
+spiral waves in a disk, this is a venerable suggestion as to why disk galaxies,
+protostellar and protoplanetary disks, and Saturn's rings always exhibit spiral
+structure. In this talk, we consider the properties of both Lin-Shu-type compression
+density waves and bending transverse-type waves. Such unstable waves can propagate in
+astrophysical disks under consideration and lead to both spiral structures and disk
+thickening. This could have consequences for all observations that pertain to the
+present distribution of old collisionless components of the Galactic mass, the gas
+component of protoplanetary disks, or the distribution of ice particles of Saturn's rings.
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201110181500.html
+
+Title: Strongly lensed high redshift galaxies identified in Herschel wide surveys.
+Prospects for ALMA observations.
+Speaker: Dr. Alian Omont (IAP)
+Date: 2011-10-21
+Time: 16:00-17:00
+Abstract: The very few early known, strongly lensed high-z sub-mm sources (FIRAS10214,
+Cloverleaf, APM08279), played a very important role in the development of high-z
+submm/mm astronomy through pioneer detections of 0.85-1.2mm continuum and CO lines, and
+various high sensitivity studies allowed by their strong magnification. Herschel wide
+surveys, which will hopefully observe ~1000 deg?, are discovering hundreds of similarly
+strongly lensed submm galaxies (e.g. Negrello et al. 2010). I will first review the
+current state of mm/submm follow-up of such Herschel lensed galaxies with IRAM and other
+facilities, for CO redshift determination, mapping mm continuum and CO lines with
+interferometers, measuring 1.2mm continuum flux density, etc. I will specially stress
+the case of the recent detection of H2O at IRAM/PdBI in two such sources at z=2.3 and
+3.3 (Omont et al.2011). These examples give an idea of the numerous studies allowed by
+strong lensing magnification and the enhanced capabilities of ALMA and IRAM/NOEMA, using
+this unique sample of hundreds of Herschel high-z lensed galaxies.
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201110211600.html
+
+Title: Nuclear Activity in Low Luminosity Spiral Galaxies
+Speaker: Dr. Mousumi Das (Indian Institute of Astrophysics)
+Date: 2011-11-01
+Time: 14:00-15:00
+Abstract: Low Luminosity spiral galaxies are generally dark matter dominated systems
+that that have extended gas disks but show little star formation. They are thus poorly
+evolved galaxies and do not show much nuclear activity. However, in our recent studies
+of these galaxies we find that a significant fraction do have active galactic nuclei
+(AGN) that are associated with low mass nuclear black holes. Most of these galaxies
+either have large bulges or are in the process of forming a bulge. In some cases radio
+lobes or jets are also seen with the AGN activity. This presentation will focus on
+multi-frequency studies of this nuclear activity and its implications for studies of
+galaxy evolution.
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201111011400.html
+
+Title: The Mid-Infrared View of Galaxies: from Nearby Dwarfs to High-Redshift QSOs
+Speaker: Dr. Chao-Wei Tsai (IPAC/Caltech)
+Date: 2011-11-01
+Time: 11:00-12:00
+Abstract: The NASA Wide-field Infrared Survey Explorer (WISE) has mapped the entire sky
+in 4 infrared bands centered at 3.4, 4.6, 12 and 22 microns, and has identified hundreds
+of millions of IR sources. These bands are ideal for studying the extreme AGNs and
+starburst galaxies. In the past one and half years, the WISE extragalactic science team
+has discovered hyper luminous infrared galaxies (HyLIRGs), dust-obscured galaxies, red
+AGNs, and very red blue compact dwarf galaxies (BCDs) with low metallicity. I will give
+an overview of these results, and then focus on the projects of searching for HyLIRGs
+and metal deficient BCDs, as well as on their multi-wavelength followup in details. At
+the end, I will discuss the important impacts and applications of these discoveries to
+our understanding of galaxy formation and evolution.
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201111011100.html
+
+Title: PAndromeda - First Results from the High-cadence Monitoing of M31 with Pan-STARRS1
+Speaker: Dr. Chien-Hsiu Lee (INACU)
+Date: 2011-11-04
+Time:14:00-15:00
+Abstract: The Pan-STARRS 1 (PS1) survey of M31 (PAndromeda) is designed to identify
+gravitational
+microlensing events, caused by bulge and disk stars (self-lensing) and by compact matter
+in the halos of M31 and the Milky Way (halo lensing, or lensing by MACHOs). With the 7
+deg2 FOV of PS1, the entire disk of M31 can be imaged with one single pointing. Our aim
+is to monitor M31 with this wide FOV with daily sampling (20 mins/day). In the 2010
+season we acquired in total 91 nights towards M31, with 90 nights in the rP1 and 66
+nights in the iP1. The total integration time in rP1 and iP1 are 70740s and 36180s,
+respectively. As a preliminary analysis, we study a 40' X 40' sub-field in the central
+region of M31, a 20' X 20' sub-field in the disk of M31 and a 20' X 20' sub-field for
+the investigation of astrometric precision. We demonstrate that the PSF is good enough
+to detect microlensing events. We present light curves for 6 candidate microlensing
+events. This is a competitive rate compared to previous M31 microlensing surveys. We
+finally also present one example light curve for Cepheids, novae and eclipsing binaries
+in these sub-fields. 
+Link: http://www.astro.ncu.edu.tw/eng/info/seminar/collo/201111041400.html
+
+----------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> Date: Sun, 16 Oct 2011 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>     web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	David Koo (UCO/LICK, UC Santa Cruz)
+Topic:		DEEP, AEGIS, & CANDELS: New Panchromatic Vistas of Distant Galaxies and AGN's
+Time:		10/21 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+I will give an overview of the Keck intermediate-redshift DEEP spectroscopic survey programs and the AEGIS multiwavelength surveys and reasons why they are particularly well suited for high-quality studies of distant galaxies and AGN's. After a brief summary of our major science findings, more details will be given 1) about a new measure of kinematics to track disk evolution, 2) about a rare class of very low metallicity, but very luminous, galaxies, and 3) about our discovery that galactic winds appear to be common at z ~1.4. I will close with an advertisement for a new 900+ orbit "public" imaging/grism survey  with HST (CANDELS) that is beginning to  open new doors for understanding very distant galaxies, AGN's, and supernovae.
+
+==============================================================================
+
+> From: "Chiang Lung-Yih" <lychiang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> Cc: astro@asiaa.sinica.edu.tw
+> Subject: [EPO] AS Open House Guide Book
+> Date: Wed, 19 Oct 2011 13:42:45 +0800
+
+Dear all,
+
+Academia Sinica Open House will be held this Saturday 10/22 09:00-16:00 at the HQ. Here is the link to the e-
+Guide book:
+
+http://www.sinica.edu.tw/openhouse/2011/2011openhouse.pdf
+
+IAA's parts are in
+
+page 4: public lecture
+page 10: display of research achievements
+page 26-27: film presentation
+page 28: hands-on and photography
+page 31-32: cultural activities and astronomy game zone
+
+If you do need a hard copy of this guide book, please go to Office 1301 Lauren (we only have 3 left).
+
+Best regards,
+
+Lung-Yih
+on behalf of Education and Public Outreach committee
+
+---------------------------------------
+Lung-Yih Chiang
+Assistant Research Fellow
+Institute of Astronomy and Astrophysics
+Academia Sinica, Taiwan
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

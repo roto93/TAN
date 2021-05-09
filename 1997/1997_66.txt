@@ -1,0 +1,205 @@
+From kyl@biaa.sinica.edu.tw Tue Oct 28 14:26 CST 1997
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa3.biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA01262; Tue, 28 Oct 1997 14:23:03 +0800
+Received: from localhost (kyl@localhost)
+	by biaa3.biaa.sinica.edu.tw (8.8.7/8.8.7) with SMTP id OAA11681
+	for <astro@biaa17.biaa.sinica.edu.tw>; Tue, 28 Oct 1997 14:32:34 +0800 (CST)
+X-Authentication-Warning: biaa3.biaa.sinica.edu.tw: kyl owned process doing -bs
+Date: Tue, 28 Oct 1997 14:32:34 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa3
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: Forwarded mail....
+Message-Id: <Pine.GSO.3.96.971028143231.11542J-100000@biaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5766
+Status: R
+
+
+
+---------- Forwarded message ----------
+Date: Tue, 28 Oct 1997 11:04:22 +0800
+From: Typhoon Lee <typhoon@biaa.sinica.edu.tw>
+To: iaa@biaa.sinica.edu.tw
+
+>Date: Mon, 27 Oct 1997 20:47:14 +0900
+>From: nap98@yso.mtk.nao.ac.jp (Numerical Astrophysics 1998)
+>To: typhoon@biaa.sinica.edu.tw
+>
+>
+>------------------------------------------------------------------------
+>========================= Second Announcement ==========================   
+>------------------------------------------------------------------------
+>
+>                    Numerical Astrophysics 1998
+>
+>                       March 10 -- 13, 1998 
+>
+>             National Olympic Memorial Youth Center (NYC)
+>                           Tokyo, Japan
+>
+>
+>First we thank those who have informed us their interest on this
+>meeting in response to the first circular.  This second circular
+>contains much practical information including preliminary scientific
+>program, lodging accommodation, and registration form.  Please read
+>this circular carefully and observe the deadlines listed below.
+>
+>-----------------
+>=== Key Dates ===
+>-----------------
+>Dec. 15, 1997 : Deadline for early registration. 
+>Dec. 15, 1997 : After this date we allocate lodgings by first come first 
+>                served basis. 
+>Jan. 10, 1998 : Deadline for the abstract of your contribution. 
+>Feb. 10, 1998 : Final Circular. 
+>Mar. 10, 1998 : Numerical Astrophysics 1998. 
+>Apr. 30, 1998 : Deadline for proceedings manuscripts.
+>
+>Some of the deadlines are shifted from those listed in the first circular.
+>
+>-------------------------
+>=== Contact Addresses ===
+>-------------------------
+>-------------------
+>For general inquiry
+>-------------------
+>  E-mail          : nap98@yso.mtk.nao.ac.jp 
+>  fax             : +81-422-34-3700, to Dr. Kazunari Shibata 
+>  Postal Address  : LOC of NAP98, c/o Dr. Kazunari Shibata, 
+>                    Solar Physics Division,
+>                    National Astronomical Observatory, 
+>                    Mitaka, Tokyo 181, Japan.
+>----------------
+>For registration
+>----------------
+>  WWW            : http://diamond.mtk.nao.ac.jp/nap98/index.html 
+>  E-mail         : nap98-regist@yso.mtk.nao.ac.jp 
+>  fax            : +81-422-34-3700, to Dr. Kazunari Shibata 
+>  Postal Address  : LOC of NAP98, c/o Dr. Kazunari Shibata, 
+>                    Solar Physics Division,
+>                    National Astronomical Observatory, 
+>                    Mitaka, Tokyo 181, Japan.
+>
+>------------
+>For abstract
+>------------
+>  E-mail         : nap98-abstract@yso.mtk.nao.ac.jp 
+>
+>--------------------------------------
+>=== Preliminary Scientific Program ===
+>--------------------------------------
+>The Preliminary Scientific Program which includes invited speakers 
+>is as follows ('*': contacting). 
+>Most of the invited talks are given as reviews, which will
+>be 30 minutes long and followed by 10 minutes discussion.
+>
+>Astrophysics oriented sessions
+> (1)Cosmology      
+>       Hugh Couchman(U. Toronto, Canada)
+>          LSS/X-ray Cluster
+>       Michael L. Norman(U. Illinois, USA)
+>          Cosmological Mesh Code
+>      *David Weinberg, (Ohio State U., USA)
+>          Lyman-alpha Scale
+>       Yasushi Suto(U. Tokyo, Japan)
+>          N-body Simulation
+>
+> (2)Galaxy  
+>       Adrian L. Melott (U. Kansas, USA) 
+>          Galaxy Formation
+>
+> (3)Star and Planet Formation
+>       Richard Klein(LLL, USA)  
+>          Gravitational Collapse (no MHD)
+>       Peter Bodenheimer(UCSC, USA)
+>          Binary and Disk Formation
+>       Kohji Tomisaka(Niigata University, Japan)
+>          Gravitational Contraction of Magnetized Clouds
+>
+> (4)Accretion Disk and Jets
+>       Ryoji Matsumoto(Chiba University, Japan) 
+>          Jet Formation        
+>       John F. Hawley (U. Virginia, USA)
+>          Magnetohydrodynamical Instability 
+>       Jose Franco(UNAM, Mexico)
+>          Evolution of HII Regions
+>
+> (5)Supernovae, Neutron Stars, and Black Holes
+>       Takashi Nakamura(Kyoto U., Japan)
+>          Neutron Star Coalescence
+>       Stuart Shapiro(U. Illinois, USA)
+>          Relativistic Stellar Dynamics
+>       Wolfgang Hillebrandt (MPI fuer Astrophysik, Germany)
+>          Supernova Explosion
+>
+> (6)Solar and Stellar Atmosphere/Interior
+>       Kazunari Shibata(NAO, Japan)
+>          Magnetic Reconnection
+>       Ake Nordlund (Copenhagen U., Denmark)
+>          Solar Plasma
+>
+> (7)Solar System (solar wind, planetary magnetosphere)
+>      *** To be determined ***
+>
+>Computer Science oriented sessions
+> (1) Numerical Methods
+>       Takashi Yabe(U. Tokyo-tech, Japan)
+>          Advanced Method in Hydrodynamics
+>      *Joe J. Monaghan(Monash U., Australia)
+>          Smoothed Particle Hydrodynamics
+>       Shu-ichiro Inutsuka(NAO, Japan)
+>          Advanced Methods in Particle Hydrodynamics
+>      *Lars Hernquist(UCSC, USA)
+>          N-body,SPH methods. 
+>
+> (2)Scientific Visualization
+>      *Kunio Kuwahara(ISAS, Japan)
+>          Visualization
+>
+> (3)Computer Technology Useful for Numerical Simulations
+>      *Junichiro Makino(U. Tokyo, Japan)
+>          Special-Purpose Computer for Gravitational N-body System: GRAPE
+>       Mikio Nagasawa(UNCL, Japan)
+>          Rapid Transfer of 3-D Computer Image
+>
+>
+>     See the following homepage for detail: 
+>               http://diamond.mtk.nao.ac.jp/nap98/index.html
+>
+>
+>
+>Prof. Shoken M. Miyama (SOC chair)
+>Theoretical Astronomy Division
+>National Astronomical Observatory
+>Mitaka, Tokyo 181, Japan
+>tel: +81-422-34-3738
+>fax: +81-422-34-3746 
+>EMail: miyama@yso.mtk.nao.ac.jp
+>
+>Dr. Kazunari Shibata (LOC chair)
+>Solar Physics Division
+>National Astronomical Observatory
+>Mitaka, Tokyo 181, Japan
+>tel: +81-422-34-3712
+>fax: +81-422-34-3700
+>EMail: shibata@solar.mtk.nao.ac.jp
+>
+>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+
+To send a message to the entire distribution: astro@biaa17.biaa.sinica.edu.tw
+Miscellaneous administration questions:		       kuan@sinica.edu.tw
+               		      (or +02-652-2020 ext 224, fax +02-788-1106)
+To check the back issues:	   	 <http://biaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

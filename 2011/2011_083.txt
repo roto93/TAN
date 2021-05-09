@@ -1,0 +1,42 @@
+Date: Thu, 26 May 2011 14:01:02 +0800 (CST)
+From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+To: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>,
+    Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: Recent Updates in the ALMA Science Portal
+
+Dear Potential ALMA Proposers,
+
+   Science Portal (SP) site has been updated last Tuesday. Here is a summary
+of major updates in SP forwarded by Okumura-san of EA-ARC:
+
+- Capabilities: We have added a link to the antenna configuration files,
+   text regarding this. In addition, we have added text regarding the
+   preliminary antenna reconfiguration time schedule. The Proposers
+   Guide (both html text and pdf doc) has been updated accordingly.
+   (see http://almascience.nao.ac.jp/call-for-proposals/capabilities)
+
+  - ALMA Technical Hand book has newly been released. OT Ref Manual
+   and ALMA Sensitivity Calculator Guide have been updated. EA Users
+   Guide has also been updated.
+   (see http://almascience.nao.ac.jp/document-and-tools)
+
+  - A countdown clock has been added to the SP
+    (see the right side of http://almascience.nao.ac.jp/)
+
+  - A weather page with statistics and an atmosphere model tool has been
+    added to 'About ALMA'
+    (http://almascience.nao.ac.jp/about-alma/weather/overview)
+
+  - The statistics on "Notice of Intent" has been added. (see
+    http://almascience.nao.ac.jp/call-for-proposals/notice-of-intent)
+
+  - Science Verification page.
+    (http://almascience.nao.ac.jp/alma-data/science-verification)
+    User can propose to observe the source that is already or will be used
+    for the Science Verification.
+
+Best Regards,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+==============================================================================

@@ -1,0 +1,124 @@
+=============================================================================
+
+In this issue (May 24 - 28, 2020)
+
+1. TRAO Call for Proposals 2020-2021
+2. [NTNU Astro Center] Seminar (Jun 04): Yao-Lun Yang (University of Virginia)
+3. Continued Update on the Status of ALMA Cycles 7 and 8
+
+==============================================================================
+
+Subject: TRAO Call for Proposals 2020-2021
+From:    Minho Choi <minho@kasi.re.kr>
+Date:    2020-05-25 12:32
+
+Dear Yi-Jehng,
+How are you?
+
+Can you circulate the "Call for Proposal" appended below
+to the members of ASROC?
+I tried "secretariat@asroc.org.tw", but it seems to bounce back.
+
+Thank you very much.
+Minho
+
+----------
+
+Call for Proposal (2020-2021 term)
+ 
+Taeduk Radio Astronomy Observatory (TRAO) would like to call for new proposals using 14m radio telescope for 2020-2021 term (from October 2020 to May 2021).
+https://radio.kasi.re.kr/trao/proposal/proposal_2020.php
+
+Submission deadline is August 20th 2020 (to traoprop@kasi.re.kr). Cover page of proposal is provided in TRAO home page (see below). Please write in Words or PDF form up to 4 pages (LP and GP) with font size 10, including science justification, technical justification, figures and tables, etc. There are generally plenty of telescope time slots available between LST 10 and 15 hours, thus, proposals requesting LST 10-15 slots are encouraged. TRAO has a shared-risk remote observing mode available. However, inexperienced users are advised to do the observations on the site. Outside (non-KASI) PIs who intend to use the remote observing mode should specify local collaborators in the proposal. The local collaborators are responsible for handling on-site tasks during the remote observations, such as resetting the system in case of system failure, which happens occasionally. Evaluation results of submitted proposals will be notified around the middle of September.
+ 
+There are three categories of proposals for 2020-2021 term as followings;
+ 
+1. Key Science Programs (KSPs): KSP is a multi-year observing program, which could finalize a series of wonderful scientific results, and demonstrating characteristics and advantage of TRAO system. Telescope allocation time would be 400 hours per year for next three years.
+ 
+2. General Programs (GPs): GP is a short program, which needs a small amount of telescope time up to 100 hours within a single observing season (October 2020 ~ May 2021), with which fast scientific results could be expected in relatively short period of time.
+ 
+3. Large Programs (LPs): LP is a program, which needs a substantial amount of telescope time up to 300 hours within a single observing season (October 2020 ~ May 2021), with which invaluable scientific results could be expected within a year or two.
+ 
+TRAOâ€™s multi-beam receiver system(SEQUOIA-TRAO), is a cryogenic focal plane array equipped with 16 high performing InP MMIC amplifiers. This receiver system has been operating quite smoothly for last several years. The receiver temperature is ranging from 60 ~ 80 K for 86 to 110 GHz, and 80 ~ 110 K for 115 GHz, and system temperature is ranging from about 200 K for 86 to 110 GHz, and 400 K for 115 GHz.
+ 
+Two molecular lines could be simultaneously observed as it has two 2nd LO within 15 GHz band range. Backend system is a high performing correlator, providing a bandwidth of 60 MHz with a 15 kHz resolution (0.045 km/s at 100GHz). In addition, a single pixel wide-band observation is ready for use with 2 GHz bandwidth (61kHz resolution per channel) from 2020 autumn season.
+ 
+OTF (On-The-Fly) mapping mode is the main observing mode, and simple position switching mode is also available. Test observation shows that it takes 27 min for mapping 6â€™x6â€™ region, and 37 min for 10â€™x10â€™. You may decide a regrid size and convolution parameter after completion of your observation. Pointing accuracy of the telescope is about 5 arcsec.
+ 
+The backend system (FFT spectrometer) provides the 4096x2 channels with a fine velocity resolution of better than 0.05 km/s (15 kHz) per channel. Its effective spectra bandwidth is 60 MHz.
+ 
+Two bedrooms and fully equipped kitchen are available for outside observers. Please refer to the TRAO homepage for more system information.
+https://radio.kasi.re.kr/trao/main_trao.php
+
+
+TRAO  Director  
+Dr.  Minho Choi
+
+==============================================================================
+
+Subject: [Astro Center] Seminar 04/Jun/2020
+From:    NTNU Yueh-Ning Lee <ynlee@gapps.ntnu.edu.tw>
+Date:    2020-05-28 21:08
+
+Dear all,
+
+Below you find the announcement of our first regular seminar within the Center of Astrophysics and Gravitation. Yao-Lun is an expert in radio observation of early phases of star formation. He will be visiting us for the whole day, please do not hesitate to come and talk to him if you are interested in sharing your work. We will go to dinner together after the seminar, please let me know if you would like to join.
+
+Best regards,
+Yueh-Ning
+
+Speaker: Yao-Lun Yang (University of Virginia)
+Time: 16:30, 04/Jun/2020
+Venue: S102
+Title: Tracing Kinematics and Complex Chemistry of Embedded Protostars with ALMA
+Abstract:
+Infall drives the mass growth of protostars as well as the structural and chemical complexities.  The rich spectra of molecules best probe the kinematics and chemistry at the star-forming regions.  Using ALMA, we detect direct evidence of infall, the red-shifted absorption against the central continuum source, in the collapsing protostellar envelopes, such as B335 and BHR 71.  A simple inside-out rotating infalling envelope can reproduce the infall signatures.  However, the synthetic spectra disagree with the observations at off-center positions, hinting a faster rotation at the inner 50 au region compared to our envelope model.  Serendipitously, we also identified emissions of complex organic molecules (COMs), revealing the "hot corinos" nature of BHR 71.  Planet formation may start during the embedded phase of star formation.  In this scenario, the chemistry of embedded disks may directly determine the chemical composition of the forming planets.  In recent years, observat!
+ ions discover several embedded protostars that have developed complex chemistry at the disk-forming region.  However, only a few observations attempt to constrain the occurrence of complex molecules at embedded protostars and their relationships to star formation processes.  I will present the first result of the Perseus ALMA Chemistry Survey (PEACHES), which aims to unbiasedly survey the chemistry toward 47 embedded protostars with a spatial resolution comparable to the size of disk-forming region.  I will discuss the detection statistics of these molecules with respect to the physical properties of these protostars, such as their evolutionary stages and disk properties.  I will also discuss the correlations of these complex molecules and the comparison with the chemistry of the protostars at other regions and environments.  The occurrence rate of different complex molecules learned from the PEACHES survey will provide a primer for constraining chemical evolution during th!
+ e star formation.
+
+--
+Yueh-Ning Lee
+Assistant professor, Department of Earth Sciences, National Taiwan Normal University
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Thu, 28 May 2020 08:25:20 +0800
+Subject: Continued Update on the Status of ALMA Cycles 7 and 8
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+
+FYI
+
+Yu-Nung
+
+---------------------------------------------------------------
+
+Continued Update on the Status of ALMA Cycles 7 and 8
+May 27, 2020
+https://almascience.nao.ac.jp/news/continued-update-on-the-status-of-alma-cycles-7-and-8
+
+
+The COVID-19 pandemic continues to impact the global community, including ALMA users and staff. While ALMA operations remain suspended, we have been working actively on plans to restart operations at a time that it is feasible. In these unprecedented circumstances, ALMAâ€™s first priority is the health and safety of all our staff, many of whom travel long distances by bus and plane to reach the remote ALMA telescope site in the Atacama Desert of northern Chile. At this time, and given the current evolution of the COVID-19 outbreak in Chile, it is unclear when a ramp-up to start operations could begin, or when a restart of science operations will be possible. ALMA is working on guidelines and considerations for the restart of operations and will provide a next update to the community in the coming weeks.
+
+In the meantime, Caretaker teams continue to maintain the safety of the ALMA equipment and infrastructure in both Santiago and in San Pedro, while all other staff continue to work remotely from their homes.  The Regional ARCs continue to provide support to their communities. If you have any questions, comments or concerns related to the situation at ALMA, please contact the ALMA Helpdesk at https://help.almascience.org.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+From astro@.MISSING-HOST-NAME. Sun Jan  5 14:18:23 2003
+Date: Wed, 11 Dec 2002 20:52:08 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue Dec 05 - 11, 2002)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (Dec 05 - 11, 2002):
+
+1. Lulin 1-m -- Call for Observing Proposal
+2. ASIAA Colloquium (Dec 12): Dong Lai (Cornell Univ)
+3. NTHU Special Seminar (Dec 13): Dong Lai (Cornell Univ)
+4. NTHU Astronomy Colloquium (Dec 13): Sun-Kun King (ASIAA)
+5. ASIAA Colloquium (Dec 17): Paul R. Woodward (Univ. of Minnesota) &
+   (Tuesday or Thursday?)     Keiichi Wada (NAOJ)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Date: Thu, 5 Dec 2002 22:12:58 +0800 (CST)
+From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+X-X-Sender:  <wchen@fermi.phy.ncu.edu.tw>
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+Subject: TAN submission --- Call for Observing Proposal --- Lulin 1 m 
+
+
+Something to circulate....thanks....Wen Ping Chen
+
+Call for Observing Proposal --- Lulin 1 m 
+
+The shakedown and adjustment of the Lulin 1 m telescope, installed in
+early September, has been complete, and we are happy to annouce the
+opportunity to use it for project observations starting January 2003.  
+Broadband and narrowband CCD imaging data of asteroids, star clusters, 
+and variable stars have been collected during the testing months, and 
+the overall performance either matchs or exceeds the specs.  You are
+encouraged to contact the NCU staff or <wchen@astro,ncu.edu.tw> for
+inquiries.   Request for time for the 2003 January-March season is due 
+December 15.  For an observing time request form, check out
+http://www.astro.ncu.edu.tw/announce/announce%202002-12-05.htm.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Fri, 6 Dec 2002 11:36:46 +0800 (CST)
+From: Minho Choi  <minho@asiaa.sinica.edu.tw>
+Message-Id: <200212060336.LAA12997@iaa1.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: asall@joule.phy.ncu.edu.tw, astro@asiaa.sinica.edu.tw,
+        dong@astro.cornell.edu, studbud@asiaa.sinica.edu.tw
+Subject: [Colloquium] ASIAA Colloquium
+
+--------------------------- ASIAA Colloquium ---------------------------
+Speaker : Dong Lai (Center for Radiophysics and Space Research,
+                    Cornell University)
+Title   : Matter and Radiation in Superstrong Magnetic Fields
+Time    : Thursday 12/12 2:00 pm
+Location: ASIAA Conference Room (Room 716)
+URL     : http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+------------------------------------------------------------------------
+
+Note that the meeting time is different from the usual.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Message-ID: <3DF1329D.E6D4BFE1@phys.nthu.edu.tw>
+Date: Sat, 07 Dec 2002 07:28:29 +0800
+From: Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Cc: Guey-Lin Lin <glin@cc.nctu.edu.tw>, wfgore@cc.nctu.edu.tw
+Subject: 12/13 Dong Lai's talk at NTHU
+
+Institute of Astronmy, NTHU
+Special Seminar
+
+Speaker: Prof. Dong Lai (Cornell University)
+Title: Radiation and Matter in Superstrong Magnetic Fields
+Time: 14:10, Dec. 13, 2002 (Friday)
+Place: Rm 620, Phys Bldg, NTHU
+
+--
+-------------------------------------------------------------
+Hsiang-Kuang Chang                   hkchang@phys.nthu.edu.tw
+
+Associate Professor
+
+Department of Physics                      Tel: 886-3-5742952
+National Tsing Hua University              Fax: 886-3-5723052
+Hsinchu 300
+
+Taiwan, ROC          URL=http://www.phys.nthu.edu.tw/~hkchang
+-------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Tue, 10 Dec 2002 13:10:42 +0800 (CST)
+From: Dean-Yi Chou <chou@phys.nthu.edu.tw>
+Message-Id: <200212100510.gBA5Agx40401@phux1.phys.nthu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+
+***************************************************************************
+********                      Colloquium                          *********
+***************************************************************************
+*********  Institute of Astronomy,  National Tsing Hua University  ********
+***************************************************************************
+
+Title :   Occultation Survey of Kuiper Belt Objects: Detection and Design
+
+Speaker:  Dr. Sun-Kun King 
+          (ASIAA, Sinica)
+
+Date:    13 December 2002 (Friday)
+
+Time:    12:10
+Place:   Room 620,  Physics Building, NTHU
+
+Abstract:
+
+The Taiwanese-American Occultation Survey (TAOS) is a program dedicated
+to performing a survey of small objects (< 10 km) in the trans-Neptunian
+Region of the Solar System by detecting the occultations of bright
+stars by these objects.  This survey must deal with the low expected
+event rate, marginal signal to noise of detections at one telescope,
+and the possibility of a high false detection rate due to atmospheric
+fluctuations or other terrestrial phenomena.
+I'll give a brief introduction to the Kuiper Belt and TAOS project.  
+General idea and problems on the detection of occultation events will
+be presented.   An ideal occultation survey can be designed through 
+the analysis using Kirchhoff diffraction theory and numerical simulation, 
+The general approach will be shown, though, the final result is yet to
+be worked out.
+***************************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date: Wed, 11 Dec 2002 19:16:14 +0800 (CST)
+From: Minho Choi  <minho@asiaa.sinica.edu.tw>
+Message-Id: <200212111116.TAA03982@iaa1.asiaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw
+Cc: asall@joule.phy.ncu.edu.tw, astro@asiaa.sinica.edu.tw, paul@lcse.umn.edu,
+        studbud@asiaa.sinica.edu.tw, wada.keiichi@nao.ac.jp
+Subject: [Colloquium] ASIAA Colloquium
+
+--------------------------- ASIAA Colloquium ---------------------------
+Speaker : Paul R. Woodward (Astronomy Department, Univ. of Minnesota)
+Title   : Numerical Simulations of Convection
+             in Solar-Type and Giant Stars
+Time    : Thursday 12/17 2:00 pm
+Location: NTU New Physics Building Room 112
+--------------------------- ASIAA Colloquium ---------------------------
+Speaker : Keiichi Wada (National Astronomical Observatory of Japan)
+Title   : Feedback from the First Supernovae in Protogalaxies
+Time    : Thursday 12/17 3:15 pm
+Location: NTU New Physics Building Room 112
+------------------------------------------------------------------------
+URL     : http://www.asiaa.sinica.edu.tw/Schedule/Seminar/
+------------------------------------------------------------------------
+
+We will have tea and cakes between the two colloquia (from 3:00 to 3:15),
+served just outside the lecture room.
+Note that the meeting time and location are different from the usual.
+Thank you.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

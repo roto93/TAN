@@ -1,0 +1,44 @@
+
+> Date: Thu, 3 Jan 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Tiara Hung/Edward Ashton (UCSC/UBC)
+Topic:          Searching for Tidal Disruption Events in the Optical Time Domain (Hung) / Searching the OSSOS dataset for unusual objects: slow movers and interlopers (Ashton)
+Time:           1/7 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+Hung>
+
+Ashton:
+This talk combines two projects that uses the Outer Solar System Origins Survey (OSSOS) dataset to search for unusual small bodies. The first search looked for objects beyond 300 au using an uncommon search technique, we use an algorithm to identify objects that appear stationary on the timescale of hours but not present days/weeks/months before and after. After visually scanning all the candidates no slow moving objects were discovered. From the null detection and using a survey simulator, we obtain a model-dependent 95% upper limit of 1000 on the number of `planetary objects', with absolute magnitudes in the range -3 < H < 2, in the distant Solar System. In the second search we looked for interstellar objects (IS0s) using a slightly altered version of the TNO detection software used by OSSOS. No ISOs were discovered. However, we have found bound objects traveling at motions (when observed only over short arcs) that an ISO in the outer Solar System could have, and we show h!
+ ow previous moving-object surveys may have detected ISOs but incorrectly assigned them to bound orbits.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Kenji Kurosaki (Nagoya University)
+Topic:          Thermal Evolution and Obliquity of Solar System Ice giants
+Time:           1/9 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Our solar system has two ice giants, Uranus and Neptune. The
+intrinsic luminosity and the obliquity are different between Uranus and Neptune, though they have similar mass and radius. In particular, Uranus has a tilted rotation axis, which is supposed to be caused by a giant impact. In general, an impact event also changes the internal compositional distribution and drives mass ejection from the planet. The present luminosity of a planet infers not only the present atmospheric composition but also the origin of the accretion energy that the planet gained during its formation and impact event. I will talk thethermal evolution history and the impact event that reproduces the present Uranusâ€™s intrinsic luminosity and obliquity.
+We demonstrate that the latent heat of those species keeps the
+atmosphere hot and thus the emission flux high for billions of years, resulting in
+acceleration of the cooling of ice giants. Also, we find that young ice giants with
+highly enriched atmospheres are much brighter in mid-infrared than those with
+unenriched atmospheres. This provides important implication for future direct
+imaging of extrasolar ice giants. We also perform hydrodynamics simulations for the impact events of Uranus-size ice giants composed of a water core surrounded by a hydrogen envelope using two variant methods of the smoothed particle hydrodynamics. We suggest the range of possible initial conditions for the giant impact on proto-Uranus that reproduces the present rotation tilt of Uranus and sufficiently provides the total angular momentum of the satellite system that can be created from the fragments from the giant impact.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

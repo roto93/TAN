@@ -1,0 +1,137 @@
+From jlim@asiaa.sinica.edu.tw Fri Jan 28 19:47 CST 2000
+Received: from biaa33.biaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id TAA29368
+	for <astro@iaa17>; Fri, 28 Jan 2000 19:47:13 +0800 (CST)
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id TAA10303; Fri, 28 Jan 2000 19:42:40 +0800
+Date: Fri, 28 Jan 2000 19:42:40 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <200001281142.TAA10303@biaa33.biaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: miGKkLT+YyJi+JCWN7ph+g==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 1522
+Status: RO
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                        3 February 2000 (Thursday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Dr. Jiun-Huei Proty Wu 
+                     (University of California, Berkeley)
+	    TITLE:   "Detecting non-gaussianity in the CMB"
+
+
+ABSTRACT:
+With the cosmological principle as the basic premise, there are currently
+two main competing theories for the origin of structure in the
+universe---inflation and cosmic defects. While standard inflationary
+models predict Gaussianity, other theories like isocurvature inflation and
+cosmic defects give non-Gaussianity.
+This talk investigates the test of non-Gaussianity in the CMB as a
+technique for distinguishing between different models of structure
+formation. Two different methods are proposed: one being capable of
+extracting the non-Gaussian signal from a very strong Gaussian background,
+and the other being sensitive to scale-scale correlations which are
+generically expected in defect models. A review of this field and an
+update of the current status of different models will also be summarized.
+
+From kyl@asiaa.sinica.edu.tw Sat May 20 13:06 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA10792
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sat, 20 May 2000 13:05:56 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA26651
+	for <astro@asiaa.sinica.edu.tw>; Sat, 20 May 2000 13:08:48 +0800
+Date: Sat, 20 May 2000 13:00:58 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ATNF Telescope Applications (fwd)
+Message-ID: <Pine.SOL.4.10.10005201300560.24064-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1910
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 18 May 2000 14:22:30 +1000
+From: jchapman <Jessica.Chapman@atnf.csiro.au>
+To: ATNF users:  ;
+Subject: ATNF Telescope Applications
+
+Dear Colleagues, 
+
+**********AUSTRALIA TELESCOPE NATIONAL FACILITY ***********
+
+Applications for observing time are now invited for the 2000OCT term 
+for the following telescopes:
+
+Compact Array, Narrabri 
+Parkes telescope, Parkes 
+Mopra telescope, Coonabarabran 
+VLBI observations 
+
+*********************************************************************** 
+CLOSING DATE for applications is 12th July 2000 
+For 3 month Observing term October 1st to December 30th 2000 
+************************************************************************
+
+For the Compact Array, proposers should note that the term will start in 
+the 6A configuration. The other configurations offered for the term are the 
+6C, 1.5B, 1.5C, 750B and 750C arrays.
+
+In addition there will be a limited amount of commissioning/science time
+available for 22 GHz observations using two of the Compact Array telescopes. 
+22 GHz telescope applications should include an ATNF staff member.
+
+Application forms, telescope documentation and full information on how to 
+apply for ATNF telescope time are available on the web at the address 
+http://www.atnf.csiro.au/observers/
+
+Please note that the scientific case for telescope applications should not 
+exceed a total of 3 pages (including figures). A font size of at least 10 point
+
+should be used. 
+
+Jessica Chapman 
+ATNF Time Assignment Secretary 
+email: jchapman@atnf.csiro.au 
+tel: +61 (0) 2 9372 4196 
+fax: +61 (0) 2 9372 4310
+
+
+
+
+
+
+
+
+

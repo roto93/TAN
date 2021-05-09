@@ -1,0 +1,333 @@
+==============================================================================
+
+In this issue (Apr 17 - 22, 2017)
+
+1. KaVA call for proposals 2017B (Jun 01)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Apr 24): Kota Naito (ASIAA/NTU)
+                                      (Apr 24): Jesus Toala (ASIAA)
+                                      (Apr 26): Ai-Lei Sun (ASIAA)
+                                      (Apr 26): Chang, Yin-Chang (ASIAA)
+3. Second ASTROD International Workshop (AIW2; May 23)
+4. ALMA 7m Array Supplemental Call for Cycle 4 is NOW OPEN!
+5. NTHU Astronomy Colloquium/Seminar Series (Apr 28): Kevin Jun-Yi Koay
+
+==============================================================================
+
+> Sender: bwsohn@gmail.com
+> Received: by 10.55.186.132 with HTTP; Wed, 19 Apr 2017 01:35:16 -0700 (PDT)
+> From: Bong Won Sohn <bwsohn@kasi.re.kr>
+> Date: Wed, 19 Apr 2017 17:35:16 +0900
+> Subject: KaVA call for proposals 2017B
+> To: evntech <evntech@jb.man.ac.uk>, "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>        vlbi@listmgr.cv.nrao.edu, merlin-announce@jb.man.ac.uk,
+>        astro@asiaa.sinica.edu.tw
+
+********************************
+Call for Proposals of KaVA (KVN and VERA Array) 2017B
+Deadline:  1st June, 2017, 08:00 UT
+*********************************
+
+Dear Colleagues.
+
+We invite proposals for the open use observations of the KaVA,
+http://radio.kasi.re.kr/kava/main_kava.php
+a joint VLBI array
+of the KVN (Korean VLBI Network) and the VERA (VLBI exploration of Radio
+Astrometry). The joint array consists of three 21-m KVN telescopes and
+four 20-m VERA telescopes, with baseline lengths ranging from 300 km to
+2300 km.
+
+This open use call will be based on risk-share, and provide VLBI
+observations at
+22GHz and 43GHz for astronomers in the world.
+We support astronomers in the preparation of proposals, scheduling, and
+data analysis.
+For that reason, pIf proposers who are not familiar with KaVA, they are
+recommended to include
+at least one collaborator from VERA or KVN. If it is difficult to find
+collaborators
+from VERA or KVN, please consult us to find one.
+The contact address for the support
+is kavaprop (at-mark) kasi.re.kr.
+
+In order to avoid conflict and/or duplication of the targets between open
+use proposals
+and LPswith existing KaVA Large Programs, proposers are highly recommended
+to visit KaVA Large Program (LP) webpage where KaVA LPs and their source
+list are presented.
+http://radio.kasi.re.kr/kava/large_programs.php
+
+If the open use proposals can not be achieved with the data of LPs,
+then they will be accepted as separate open use observations.
+Otherwise, we encourage the proposers to collaborate with the science teams
+of
+the corresponding KaVA LPs.
+Observations will be conducted with single polarization (LCP) and 1-Gbps
+data rate.
+The total available observation time is up to 250 hours and the
+observations will be
+scheduled between 15th August 2017 and 15th January 2018. The maximum
+observing
+time per proposal is limited to 100 hours.
+If requested in the proposals, the observation time can be allocated over a
+year,
+until 15th June 2018, for this call. But the observation time will be still
+limited to 100 hours.
+The deadline of submission is at 08:00 UT on 1st June 2017.
+Detailed information on the KaVA call-for-proposal can be found in
+http://radio.kasi.re.kr/kava/proposal_info.php
+
+ToO opportunity
+It is strongly recommended that Target of Opportunity proposals (especially
+expected ToO)
+are submitted to regular CfP of KaVA.
+Unexpected or urgent ToO can be submitted to ask =E2=80=98Director=E2=80=99=
+s time=E2=80=99 at any
+time.
+These proposals must include specific triggering criteria to initiate an
+observation.
+The ToO is valid for one year when it is approved. The proposals to
+Director's time
+must be submitted by PDF files using e-mail to kavaprop (at-mark) kasi.re.kr
+
+Recovery Observation
+
+If an open use observation has more than one missing stations due to system
+trouble
+and/or very severe weather condition (e.g. strong wind by typhoon),
+PI can request recovery observation within a year after receiving the
+correlated data.
+PI should resubmit the proposal which should clarify the necessity of
+recovery observation.
+The KaVA TAC will consider the time allocation of the recovery observations
+for the next season.
+
+
+If you have any questions, please send an email to kavaprop (at-mark)
+kasi.re.kr
+
+Sincerely,
+
+                  Hyun-Goo Kim
+                  Director of Radio Astronomy Division, KASI
+                      and
+                  Mareki Honma
+                  Director of Mizusawa VLBI Observatory, NAOJ
+
+--=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Sohn, Bong Won
+Korean VLBI Network, KASI
+bwsohn@kasi.re.kr
+
+Tel.+82-(0)42-865-2173
+Fax.+82-(0)42-865-2050
+
+==============================================================================
+
+> Date: Thu, 20 Apr 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Kota Naito (ASIAA/NTU)
+Topic:         Statistical Study on Organic Inclusions in Meteorites
+Time:         4/24 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Jesus Toala (ASIAA)
+Topic:         X-ray Emission as a probe of Stellar Evolution
+Time:         4/24 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Very massive stars are the main actors in shaping and chemically enriching the ISM in the 
+galaxies we see. They do so by a combination of their stellar winds, proper motions, strong 
+ionising photon fluxes, and supernova explosions. These produce cavities in the ISM that can
+be studied with X-ray observatories. In this talk I review our current understanding of the 
+production of diffuse X-ray emission towards the nebulae carved by massive stellar feedback.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Ai-Lei Sun (ASIAA)
+Topic:         The many facets of AGN feedback -- a multi-wavelength view of galactic outflows
+Time:         4/26 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Active galactic nuclei (AGN) feedback is now a standard ingredient in galaxy evolution models. Popular models suggest that during the quasar phase, gas is driven out of the galaxy in the form of outflows, shutting off star-formation and black hole growth, leading to the observed quiescent galaxy population and the black hole -- galaxy correlations, but many assumptions require observational supports. Observations have discovered galactic outflow in the luminous quasar, but their structure is surprisingly complex, involving a wide range of gas phases from cold molecules to hot X-ray emitting gas. Multi-wavelength coverage is needed for a comprehensive picture. I summarize recent optical, radio, and X-ray observations of AGN outflows in nearby luminous quasars, and what do we learn about their occurrence rate, composition, and energetics, as well as the life cycles of AGN feedback. I end with discussing how on-going and future optical surveys could help us study this rare and !
+intriguing phenomenon of AGN feedback.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chang, Yin-Chang (ASIAA)
+Topic:         The TAOS 2 Camera Dewar Assembly
+Time:         4/26 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+==============================================================================
+
+> From: Sun-Kun King <skking@asiaa.sinica.edu.tw>
+> Date: Fri, 21 Apr 2017 16:50:56 +0800
+> Subject: Fwd: Second ASTROD International Workshop (AIW2) (5/23)
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear all,
+
+The 2nd ASTROD International Workshop on Laser Astrodynamics, Space Test of
+Relativity and Gravitational-Wave Astronomy will be held at NTHU on May 23,
+2017.
+Please follow the link in the forwarded message below for further
+information.
+
+
+S.K.King 4/21/2017
+
+---------- Forwarded message ----------
+> From: Wei-Tou Ni <weitou@gmail.com>
+> Date: Thu, Apr 20, 2017 at 9:10 PM
+> Subject: Second ASTROD International Workshop (AIW2) (5/23)
+> To: Sun-Kun King <skking@asiaa.sinica.edu.tw>
+> Cc: Wei-Tou Ni <weitou@gmail.com>
+
+
+Dear Sun-Kun,
+
+The web page for AIW2 is completed;
+
+http://www.phys.nthu.edu.tw/~gravity/gws2017/
+
+Would you kindly send the announcement to ASROC members and to Taiwan astro
+e-mailing list? Everybody interested is welcome to register (free) and
+participate.
+
+We are preparing a poster, I will send you next week.
+
+Many thanks
+Best regards,
+
+                                                Wei-Tou
+
+-- 
+King, Sun-Kun, Ph.D.
+skking@asiaa.sinica.edu.tw
+Institute of Astronomy & Astrophysics          Tel: (O) 886-2-23665385
+Academia Sinica,                                            Fax:
+886-2-23677849
+P.O. Box 23-141, Taipei,
+Taiwan 106, R.O.C.
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Date: Sat, 22 Apr 2017 08:35:15 +0800
+> Subject: Fwd: ALMA 7m Array Supplemental Call for Cycle 4 is NOW OPEN!
+> To: riaa@asiaa.sinica.edu.tw, alma-taiwan@asiaa.sinica.edu.tw,
+>    astro@asiaa.sinica.edu.tw
+
+
+=B6}=A9l=C2=E0=B1H=B6l=A5=F3=A1G
+
+> =B1H=A5=F3=A4H: "K. Tatematsu" <k.tatematsu@nao.ac.jp>
+> =A4=E9=B4=C1: 2017=A6~4=A4=EB22=A4=E9 GMT+8 =A4W=A4=C88:32:05
+> =A6=AC=A5=F3=A4H: Su Yu-Nung <ynsu@asiaa.sinica.edu.tw>, "Lyo, A-Ran" <arl=
+@kasi.re.kr>
+> =B0=C6=A5=BB: k.tatematsu@nao.ac.jp
+> =BC=D0=C3D: ALMA 7m Array Supplemental Call for Cycle 4 is NOW OPEN!
+> =A6^=C2=D0=B5=B9: k.tatematsu@nao.ac.jp
+>=20
+> Dear Yu-Nung and A-Ran,
+>=20
+> you might inform your communities, if you have not done yet.
+>=20
+> Forwarded by K. Tatematsu <k.tatematsu@nao.ac.jp>
+> ----------------------- Original Message -----------------------
+> Subject: ALMA 7m Array Supplemental Call for Cycle 4 is NOW OPEN!
+> ----
+>=20
+> https://almascience.nao.ac.jp/news/7m-array-supplemental-call-is-open
+>=20
+> The Joint ALMA Observatory (JAO) is now accepting observing proposals that=
+=20
+> request to use the 7-m Array in stand-alone mode for the remainder of
+> Cycle 4. Instructions on how to submit proposals can be found on the 7-m
+> Array Supplemental Call web page. =20
+> https://almascience.nao.ac.jp/news/proposing/7m-array-supplemental-call
+>=20
+> on behalf of EA ARC
+> --------------------- Original Message Ends --------------------
+>=20
+
+==============================================================================
+
+> Sender: circular_colloquium@asiaa.sinica.edu.tw
+> Date: Sat, 22 Apr 2017 09:39:24 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 28th April 2017 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker: Dr. Kevin Jun-Yi Koay
+          (ASIAA)
+
+Title: Interstellar scintillation as micro-arcsecond
+        scale probes of compact radio AGNs
+
+Abstract:
+
+The variability of compact AGNs on timescales of hours and days observed
+at cm-wavelengths is predominantly caused by scattering in the ionized
+interstellar medium (ISM) of our Galaxy. With the ISM as an AU-scale
+interferometer, interstellar scintillation (ISS) provides an exquisite
+probe of the micro-arcsecond scale structure of AGNs.
+
+I present results from the Micro-arcsecond Scintillation-Induced 
+Variability (MASIV) Survey of ~500 compact AGNs and its follow-up 
+observations. I will discuss the dependence of ISS on intrinsic AGN 
+properties, including their gamma-ray loudness, radio spectral indices, 
+optical spectral classification, redshift, and intrinsic variability.
+I will show how we have used ISS to probe the source size-redshift 
+relation of compact AGNs, and place strong constraints on the
+turbulent properties of the intervening intergalactic medium.
+
+Future surveys of ISS with highly-sensitive instruments such as
+the SKA will potentially probe the micro-arcsecond structure of
+faint (~100 muJy to 10 mJy) AGNs, thereby complementing studies at 
+comparable angular resolutions with Space-VLBI and mm-VLBI which
+are limited only to the brightest AGNs.
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,173 @@
+From astro@iaa17.asiaa.sinica.edu.tw Thu Apr  7 22:01:38 2011
+Date: Thu, 7 Apr 2011 21:55:41 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Apr 02 - 07, 2011)
+
+============================================================================== 
+
+In this issue (Apr 02 - 07, 2011)
+
+1. NTNUES Colloquium (Apr 12): Ciska Kemper (ASIAA)
+2. ASIAA Colloquium (Apr 08): Roberto Galvan-Madrid (CfA/UNAM)
+3. ASIAA/NTU CCMS/NTU Physics Joint Colloquium (April 12):
+   Axel Hoffmann (Argonne National Lab)
+4. ALMA Science Newsletter No.8
+
+==============================================================================
+
+> From: "chenlw" <chenlw@ntnu.edu.tw> 
+> Sent: Thu, 7 Apr 2011 21:22:16 +0800 
+> Subject: NTNUES colloquium 12/Apr/2011:
+>          Written in stone: dust formation in the Universe 
+
+* Teatime is at S801-2 after the colloquium 
+
+   Department of Earth Sciences     
+ National Taiwan Normal University 
+No. 88, Sec. 4, Tingzhou Rd, Taipei 
+
+   C O L L O Q U I U M 
+  --------------------- 
+    12/Apr/2011 14:10 
+Room S101, 1F, Research Building 
+
+TITLE: Written in stone: dust formation in the Universe 
+
+SPEAKER: Dr Ciska Kemper (Institute of Astronomy &  Astrophysics, Academia 
+Sinica) 
+
+ABSTRACT: http://www.es.ntnu.edu.tw/colloquium/abs/20110412.txt 
+
+     NTNUES colloq. webpage: 
+http://www.es.ntnu.edu.tw/colloq 
+
+==============================================================================
+
+> Date: Sun, 3 Apr 2011 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Roberto Galvan-Madrid (CfA/UNAM)
+Topic:		On the Formation of the Most Massive Stars in the Galaxy
+Time:		4/8 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+Abstract:
+The 'really' massive stars (those with more than 10 to 20 solar masses) likely start to ionize their surroundings before they reach their final mass. How can they accrete in spite of the presence of over-pressurized gas? We present results of Submillimeter Array (SMA) and Very Large Array (VLA) studies of massive-star formation regions in the early stages of ionization: Molecular-line observations at resolutions from a few arcsec to 0.3 arcsec reveal the presence of rotation, infall, and/or outflow from parsec scales to <0.05 pc. Small groups of massive (proto)stars are found at different evolutionary stages. The innermost ionized gas is sometimes found to have organized motions, probably in the form of outflow and/or rotation. Multiepoch observations of the free-free continuum reveal significant flux variations in timescales of years, attributable to interactions with the surrounding molecular gas. These observations, as well as recent models and numerical simulations of HI!
+ I region evolution in star-forming accretion flows, favor a picture in which: i) These very massive stars form in accretion flows that are partially ionized. ii) The cores from which these stars form keep accreting material from their enviroment (clump).
+
+
+==============================================================================
+
+> Date: Mon, 4 Apr 2011 19:54:43 +0800
+> Subject: ASIAA/NTU CCMS/NTU Physics Joint Colloquium, April 12
+> From: Chien-Fu Liu <chienfuliu@gmail.com>
+> To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+>         ithuang@phys.sinica.edu.tw, mathas@math.sinica.edu.tw,
+>         whchen@gate.sinica.edu.tw, tofaculty@phys.ntu.edu.tw,
+>         demihuang@ms.ntu-ccms.ntu.edu.tw, iaa@asiaa.sinica.edu.tw,
+>         astro@asiaa.sinica.edu.tw, Jiunn-Wei Chen <jwc@phys.ntu.edu.tw>,
+>         Chih-Wei Chang <cwchang137@ntu.edu.tw>,
+>         Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+
+Dear Colleagues,
+
+The NTU Physics Department, NTU Center for Condensed Matter Science, and the
+Academia Sinica Institute of Astronomy and Astrophysics invite everyone to
+our joint colloquium series. The speakers are all famous international
+scholars and the colloquia are aiming at a broad audience, including
+undergraduate students. Below is the information of the talk on April 12
+(Tuesday). Please help to forward this to the colleagues in your
+departments.
+
+Best Regards,
+Jiunn-Wei Chen (NTU Physics)
+Chih-Wei Chang (NTU CCMS)
+Wei-Hao Wang (ASIAA)
+
+_______________________________________________________
+Speaker: Axel Hoffmann (Argonne National Lab)
+ Topic: Pure Spin Currents: Discharging Spintronics (Joint colloquium and
+IEEE Distinguished Lecture)
+Time: 4/12 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCM-New Physics Building
+
+Abstract: As semiconducting electronic devices are miniaturized to
+ever-smaller dimensions, power dissipation becomes an ever-increasing
+problem due to leakage charge currents. Spintronics may help addressing some
+of these issues by utilizing besides the charge degree of freedom also the
+electron spin. Conventional spintronics approaches are used for non-volatile
+devices, such as magnetic random access memory, where spin currents are
+mainly considered as spin-polarized charge currents and as a result the spin
+and charge currents are in parallel and directly coupled. Looking further
+into the future, the question arises, whether eliminating charge currents
+altogether could provide additional benefits for applications. Towards
+addressing this question, non-local device geometries allow for separating
+spin and charge currents, which in turn enables the investigation and use of
+pure spin currents. This approach opens up new opportunities to study
+spin-dependent physics and gives rise to novel approaches for generating and
+controlling angular momentum flow.
+This lecture will discuss different approaches for generating pure spin
+currents, such as non-local electrical injection from a ferromagnet,
+charge-to-spin current conversion via spin Hall effects, and spin pumping
+from ferromagnetic resonance. Furthermore, examples will be shown for how
+spin currents can be used for gaining new insights into spin dependent
+phenomena. In particular, the temperature dependence of spin and charge
+relaxation times allows to identify different spin relaxation mechanisms. In
+addition, spin pumping facilitates the generation of macroscopically large
+pure spin currents. This permits to quantify spin Hall effects with great
+precision, even in materials where these effects are relatively weak.
+Finally, the lecture will conclude with a brief outlook on the current
+scientific and future technological opportunities for pure spin currents.
+
+Brief Bio: Dr. Hoffmann's research interests encompass a wide variety of
+magnetism related subjects, including basic properties of magnetic
+heterostructures, spin-transport in novel geometries, and biomedical
+applications of magnetism. He has more than 100 publications, four book
+chapters, and three magnetism-related U.S. patents. He is an associate
+editor for the Journal of Applied Physics, a senior IEEE member and a member
+of the Advisory Committee for the IEEE Magnetics Society.
+
+For more information please see:
+http://web.phys.ntu.edu.tw/jwc/2011_Spring_colloquia/Joint%20colloquia.html
+
+==============================================================================
+
+> From cflee@asiaa.sinica.edu.tw Tue Apr  5 22:15:35 2011
+> Date: Tue, 5 Apr 2011 22:15:24 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: ALMA Science Newsletter No.8
+
+Dear Yi-Jehng,
+
+The ALMA Science Newsletter No.8 was released.
+http://www.almaobservatory.org/en/outreach/newsletter/268-newsletter-no-8
+
+Please circulate it in TAN.
+
+Thanks!
+Chin-Fei
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+> Date: Thu, 14 May 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Howard Chen (Boston University)
+Topic:         Modeling Highly Irradiated Very Low Mass Gaseous Exoplanets with Stellar Evolution Code MESA
+Time:         5/18 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+The discovery of over 4,000 exoplanet candidates has unmasked the strangeness of planetary systems in the solar neighborhood. For instance, most of the confirmed planets reside in orbital periods of less than 100 days around their respective host stars, which places them well within the orbit of Mercury. In this talk, I present a prescription to expand the capabilities of the stellar evolution code Modules for Experimental Stellar Astrophysics (MESA) to model gaseous planets in highly irradiated environments. I will illustrate how we modified MESA to include planet core luminosity, heavy element enrichment, and mass loss due to hydrodynamic winds. Using these dynamical models, we then constructed mass-radius relationships of planets from 1 to 20 Earth Mass and investigated how mass-loss impacts their composition and evolution history. We anticipate that this versatile, user-friendly code will see widespread applications in complementing future exoplanetary surveys such as K2!
+, TESS and PLATO.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Joel Parker (SwRI)
+Topic:         The New Horizons Mission - Pluto and Beyond
+Time:         5/20 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The New Horizons spacecraft has spent the past nine years sprinting across the solar system to meet up with Pluto in July 2015.  Even at this point, a few months out from the flyby, New Horizons is already returning images of Pluto as good or better than anything previously obtained.  The spacecraft carries instruments covering ultraviolet, visible, infrared, and radio wavelengths to make surface and atmospheric observations of Pluto and its moons, and dust and particle instruments to study Pluto's environment and interaction with the solar wind.  In this talk I will describe the mission and instrumentation, what we currently know about the Pluto system and the Kuiper belt, and what we hope to discover in the next few months at Pluto and the next few years as New Horizons passes through this "third region" of the solar system and possibly has another close encounter with a Kuiper belt object.
+
+==============================================================================

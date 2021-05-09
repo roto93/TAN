@@ -1,0 +1,112 @@
+From kyl@asiaa.sinica.edu.tw Wed Apr 14 09:01:29 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA27645; Wed, 14 Apr 1999 09:01:09 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA20973; Wed, 14 Apr 1999 08:58:09 +0800
+Date: Wed, 14 Apr 1999 08:58:07 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: meeting in august (fwd)
+Message-Id: <Pine.GSO.3.96.990414085804.24458E-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 4115
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Tue, 13 Apr 1999 13:27:22 -0500 (CDT)
+From: Joanne Cohn <jdc@astro.uiuc.edu>
+To: astronomy@astro.uiuc.edu
+Subject: meeting in august
+Resent-Date: Tue, 13 Apr 1999 13:27:30 -0500 (CDT)
+Resent-From: astronomy@astro.uiuc.edu
+
+Sender: owner-sfu-list@newton.cam.ac.uk
+Precedence: bulk
+Status: R
+
+                              Workshop on 
+
+                THE STATISTICS OF COSMOLOGICAL DATA SETS
+
+     Isaac Newton Institute for Mathematical Sciences, Cambridge, UK
+
+                            8 - 13 August 1999
+
+In the past decade cosmology has undergone a renaissance, graduating from 
+a data-starved science to a data-driven one. Observations of the Cosmic 
+Microwave Background by balloons and the COBE satellite have begun to give 
+us a detailed picture of the universe during its early history ; the Hubble 
+Space Telescope and the Keck Telescope have found galaxies at distances 
+corresponding to the universe at one-tenth of its present age; the CFA and 
+APM large-scale redshift surveys have begun to map out the present 
+structure of the nearby universe. Thanks to the large investments that 
+science agencies are making in cosmology, the amount of data coming from 
+all these fronts will increase by orders of magnitude in the coming decade.
+
+The number and size of these data sets have led researchers to rethink 
+analysis strategies. Existing algorithms and hardware are overwhelmed by 
+the sheer volume of the new data. Fortunately, it has become possible to 
+apply a plethora of new statistical techniques. The aim of this workshop is 
+to discuss this transition. A series of experts will describe developments 
+in various fields, emphazising the technical aspects of their work and the 
+places where particular statistical problems appear. Stress will be placed 
+upon the special statistical challenges created by handling large 
+astronomical data sets and the problems of pattern recognition, directional 
+statistics, and geometrical statistics that arise in the description of 
+three-dimensional clustering. There will be opportunity for statisticians 
+to provide input into the solution of these problems and to form fruitful 
+collaborations with astronomers. The list of topics to be discussed 
+includes
+
+       - Analysis of large cosmological data sets 
+       - Parameter estimation from combined data sets 
+       - Analysis issues specific to CMB, peculiar velocity, microlensing, 
+         red shift and weak lensing data sets 
+       - Wavelet techniques 
+       - Spectral and non-Gaussian estimation 
+       - Pattern recognition 
+       - Measures of clustering 
+       - Shape and topological statistics, Minkowski functionals
+
+Organisers: A Albrecht (UC Davis), J Barrow (U Sussex), PG Ferreira (CERN 
+& IST, Lisbon), J Silk (Oxford)
+
+Preliminary list of speakers: L Da Costa, M Davis*, A Dekel, C Dodson, 
+R Ellis, K Greist, K Gorski, A Jaffe, M Joyce*, R Juzskiewicz, S Hanany*, 
+Y Hoffman, O Lahav, T Lewis, J Magueijo, F Murtagh, B Ripley*, 
+F Sylos-Labini, D Spergel, A Szalay (* to be confirmed)
+
+Location and Costs:  The workshop will take place at the Newton Institute 
+and accommodation for participants will be provided at Wolfson Court, 
+adjacent to the Institute.  The conference package costs UKP300 which 
+includes registration fees, accommodation, breakfast and evening meals plus 
+lunch and refreshments during the days that the workshop takes place.
+
+
+Further Information and Application Forms: are available from WWW at
+http://www.newton.cam.ac.uk/programs/sfuw02.html where further information 
+about the workshop will be posted and updated. Completed application forms 
+should be sent to Heather Hughes at the above address or via email to 
+h.hughes@newton.cam.ac.uk
+
+    **Closing Date for the receipt of applications is 14 May 1999**
+
+
+

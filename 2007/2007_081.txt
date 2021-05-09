@@ -1,0 +1,102 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Jun 15 18:07:18 2007
+Date: Fri, 15 Jun 2007 18:07:18 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue June 11 - 15, 2007)
+
+==============================================================================
+
+In this issue (June 11 - 15, 2007)
+
+1. Call for Observing Proposals for LOT 2007B
+
+==============================================================================
+
+> From: "hclin" <hclin@astro.ncu.edu.tw>
+> Subject: Call for Observing Proposals for LOT 2007B
+> Date: Thu, 14 Jun 2007 22:59:38 +0800
+
+Dear Prof. Kuan,
+
+Would you please announce on TAN, thanks in advance.
+
+-----------------------------------
+Subject: Call for Observing Proposals for LOT 2007B
+
+Lulin One-meter Telescope (LOT) Call for Observing Proposals for 2007B
+Proposal Deadline  July 31th, 2007
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the 
+semester of 2007B.  The new semester begins on September 1st, 2007 and ends 
+on February 29th ,2008.
+
+Those who are interested in applying for observing time can download the 
+proposal form from the NCU/IA web page:
+
+http://www.lulin.ncu.edu.tw/lot/lot_apply.doc
+
+and submit the proposal to the following email address:
+
+tac_lulin@astro.ncu.edu.tw
+
+with a copy to the TAC chair to avoid occasional erroneous delivery:
+
+	yichou@astro.ncu.edu.tw
+
+by midnight, July 31th, 2007, Taiwan time (UT+8).  The allocation of 
+observing time will be announced before August 20th, 2007.  In addition to 
+the research proposals, we will also consider educational projects for 
+advanced astronomical observation courses.
+
+Instruments Available:
+
+There are two instruments available, the Lulin CCD Imager (LCI) and the 
+Lulin Compact Spectrograph (LCS).  The LCI is the major observing instrument 
+using the PI-1300B CCD.  The technical information of LCI can be found in 
+the following web page:
+
+http://www.lulin.ncu.edu.tw/lot/1300b.pdf
+
+The second instrument, the LCS, has been tested and calibrated during the 
+2007A semester.  The calibration of this instrument has been improving but 
+has not achieved its expected performance.  Thus observers using this 
+instrument are on a shared risk basis.  Users are encouraged to keep in 
+close contact with the technical team to receive the updated information.  
+Below please find the specifications of LCS:
+
+Lulin Compact Spectrograph (LCS)
+
+Dispersion element: 2 gratings (300 lines/mm and 1200 lines/mm) 
+Detector: Apogee AP-8 (SITE chip, 1Kx1K)
+Length of slit (projection onto the sky with LOT optics): 8.5 arcmin
+Width of slit (projection onto the sky with LOT optics): 1.5 arcsec (fixed)
+Resolving power: 333 @ 500nm (300 lines/mm) and 1333 @ 500nm (1200 lines/mm) 
+Wavelength coverage: 380-760nm, and 500-900nm (300 lines/mm)   
+Calibration lamp: Fe-Ar-Ne
+
+Regards, 
+Hung-Chin Lin 
+hclin@astro.ncu.edu.tw 
+Lulin Observatory, Institute of Astronomy 
+National Central University 
+(http://www.lulin.ncu.edu.tw) 
+LuLin obs. Phone# 0910-267-184 
+IANCU phone# 03-427-8445
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                                 Since 1996
+
+To send a message to the entire distribution: astro@asiaa.sinica.edu.tw
+Miscellaneous administration questions: kuan@asiaa.sinica.edu.tw
+                (or +02-3365-2200 ext 821, fax +02-2367-7849)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

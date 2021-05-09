@@ -1,0 +1,59 @@
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun, 18 May 2014 08:00:02 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Phil Armitage (Univ. of Colorado)
+Topic:        Simulating and observing turbulence in protoplanetary disks
+Time:        5/21 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The strength and nature of turbulence in astrophysical disks is one of the main uncertainties in both accretion disk theory and planet formation. I will present numerical simulations of protoplanetary disk turbulence, which include the non-ideal magnetohydrodynamic effects that damp turbulence in cool poorly-ionized disks. The results hint at a critical role for large-scale magnetic fields, which may be remnants of the star formation process. Sub-mm observations with the SMA and ALMA now approach the acuity needed to measure the turbulent broadening of molecular lines in protoplanetary disks, and I will show predictions for what we may expect to see.
+
+
+*** ASIAA/NTU Joint Colloquium
+____________________________________________________ 
+Speaker:    Phil Armitage (University of Colorado, Boulder)
+Topic:        TBA
+Time:        5/20 (Tuesday) 14:20 - 15:20
+Place:        Physics 104
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Debra Fischer (Yale University)
+Topic:        The Search For 100 Earths
+Time:        5/22 (Thursday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+The search for planets orbiting nearby stars has been one of
+the greatest success stories of the past decade, with hundreds of
+discoveries being made using Doppler, transit, microlensing, and
+direct imaging techniques and thousands of candidates detected with
+NASA’s Kepler mission. Exoplanet detections have launched a subfield
+of astronomy that includes host star characterizations, measurements
+of planet radii and density, studies of atmospheres, interior
+structure, formation theory, and orbital evolution.
+
+The search for exoplanets is motivated by the question of whether life
+exists elsewhere. This drives our interest in the detection of planets
+that are similar to our own world: rocky planets with the potential
+for liquid surface water and plate tectonics; worlds that might harbor
+life that we can recognize. Importantly, we will need to discover not
+just a few, but hundreds of these worlds to eventually gain a
+statistical understanding of whether life is rare, common, or
+ubiquitous and ground-based telescopes offer an ideal platform for
+carrying out decade-long surveys. It is critical for follow-up studies
+(imaging, atmospheric studies) that these planets orbit nearby stars.
+In this talk, I will discuss how we plan to take what we've learned
+and push on to the next frontier: our plans for a next generation
+spectrograph, EXPRES, to carry out a search 100 Earths with the
+Discovery Channel Telescope.
+
+==============================================================================

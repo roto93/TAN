@@ -1,0 +1,26 @@
+> From: Tomo <itlhnis@gmail.com>
+> Date: Fri, 8 Jan 2016 08:56:57 +0800
+> Subject: NTHU colloquium 2016/01/11
+> To: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> Cc: astro@asiaa.sinica.edu.tw
+
+1/11 (Mon) 5:30pm, in GBII R524
+
+Paul Price (Princeton)
+Title: The Hyper Suprime-Cam Pipeline
+The Hyper Suprime-Cam Strategic Survey Program aims to image 1400
+square degrees with HSC on Subaru to study galaxy formation and
+cosmology using weak lensing.  We currently have collected over 5000
+science-grade exposures towards this goal, with more to come over the
+next few years.  To reduce this data, we have constructed a pipeline
+based on that being developed for the Large Synoptic Survey Telescope.
+I will introduce the HSC pipeline, outline its features and the
+quality of the reduced data, and demonstrate how the pipeline can be
+used to reduce open-use HSC data or form the basis for other
+astronomical image operations.
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+==============================================================================

@@ -1,0 +1,60 @@
+> Date: Sun, 7 Jul 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Robert Wittenmyer (University of New South Wales)
+Topic:        Exoplanetary Science in Australia: Detection, Characterisation, and
+Destruction
+Time:        7/12 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I give an update on three major exoplanetary science initiatives being
+pursued by Australian-based planet-search teams.  Further observations
+from the Anglo-Australian Planet Search (AAPS) have revealed that some
+systems previously thought to contain a single, moderate-eccentricity
+planet are better fit by two planets on nearly-circular orbits.  We have
+investigated apparent single-planet systems to see if the available data
+can be better fit by two lower-eccentricity planets.  We identify nine
+promising candidate systems and perform detailed dynamical tests to
+confirm the stability of the potential new multiple-planet systems.  In
+addition to the AAPS, I describe the Pan-Pacific Planet Search, a
+radial-velocity survey of Southern hemisphere evolved, intermediate-mass
+stars using the 3.9m Anglo-Australian Telescope.  We currently achieve
+velocity precisions of 3-6 m/s, and there are several planet candidates
+emerging as more data are obtained.
+
+I then describe a plan for Minerva: an installation of four 0.7m
+telescopes feeding a high-resolution spectrograph, sited at Mt Hopkins
+in Arizona.  Minerva will give exoplanetary scientists the ability to
+pursue dedicated radial-velocity searches for planets orbiting the
+nearest bright stars.  In addition, a Southern hemisphere Minerva could
+be used to follow up on objects of interest from Antarctic telescopes
+such as the Chinese AST-3.  I will describe the diverse science cases
+for this highly cost-effective facility.
+
+Finally, I present results from our recent series of papers in which we
+have performed extensive suites of dynamical simulations to test the
+veracity of proposed multiple-planet systems.  We show that some systems
+are strongly constrained by protected low-order resonances, while others
+are wildly unstable on short timescales.  This work highlights the
+critical need to include dynamical stability analysis as an integral
+part of the discovery process for candidate multi-planet systems.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    Kuo-Chuan Pan (UIUC)
+Topic:        Search for Surviving Post-Impact Remnant Stars in Type Ia Supernova Remnants
+Time:        7/9 (Tuesday) 14:00 - 15:00
+Place:        R1108
+Abstract:
+The nature of the progenitor systems of Type Ia supernovae is still unclear. One way to distinguish between the SDS and DDS is to search for the surviving Post-Impact Remnant Stars (PIRSs). Using our stellar evolution simulations of main-sequence- (MS-) and helium-rich- (He-) PIRSs, we predict the color and magnitude of MS- and He-PIRSs as functions of time. We also discuss PIRS candidates in Galactic Type Ia supernova remnants (Ia SNRs), including SN 185, SN 1006, SN 1574, SN 1604, and G1.9+0.3, and nearby extragalactic Ia SNRs. We find that the maximum detectable distance of MS PIRSs (He PIRSs) is 0.6âˆ’4 Mpc (0.4 âˆ’ 16 Mpc), if the apparent magnitude limit is 27 and we assume no extinction, suggesting the Large and Small Magellanic Clouds (LMC/SMC) and the Andromeda Galaxy (M31) are excellent environments in which to search for PIRSs.
+
+==============================================================================

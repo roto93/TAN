@@ -1,0 +1,35 @@
+==============================================================================
+
+Date: Thu, 5 Mar 2020 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    IAA newcomers (ASIAA)
+Topic:         Welcome to IAA!
+Time:         3/9 (Monday) 12:15 - 13:15
+Place:          R1203
+Abstract:
+Pizza lunch to welcome newcomers to IAA.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:    Ray-Kuang Lee (Institute of Photonics Technologies, National Tsing Hua University)
+Topic:         Frequency-dependent squeezed vacuum source for broadband quantum noise reduction in advanced gravitational-wave detectors
+Time:         3/11 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The astrophysical reach of current and future ground-based gravitational-wave detectors is mostly limited by the quantum noise, induced by vacuum fluctuations entering the detector output port. The replacement of this ordinary vacuum field with a squeezed vacuum one has proven to be an effective strategy to mitigate such quantum noise and it is currently used in advanced detectors.  However, current squeezing cannot improve the noise in the whole spectrum, because of the Heisenberg uncertainty principle: when shot noise at high frequencies is reduced, radiation pressure at low frequencies is increased. A broadband quantum noise reduction is possible by using a more complex squeezing source, obtained reflecting the squeezed vacuum off a Fabry-Perot cavity, known as filter cavity.
+In this talk, I will report our recent implementation of squeezed vacuum states at 1064 nm. With a bow-tie optical parametric oscillator (OPO) cavity, and our home-made balanced homodyne detectors, noise reduction up to 10dB below the vacuum is measured.  Applications of our squeezer to the gravitational wave detection will be reported, for the first demonstration of a frequency dependent squeezed vacuum source able to reduce quantum noise of advanced gravitational-wave detectors in their whole observation bandwidth. The experiment uses a suspended 300 m long filter cavity at National Astronomical Observatory of Japan (NAOJ), similar to the one planned for KAGRA, Advanced Virgo and Advanced LIGO, and capable to impress a rotation of the squeezing ellipse below 100 Hz.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

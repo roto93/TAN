@@ -1,0 +1,266 @@
+From kyl@asiaa.sinica.edu.tw Tue May 11 08:19:05 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA08169; Tue, 11 May 1999 08:16:34 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA10763; Tue, 11 May 1999 08:13:25 +0800
+Date: Tue, 11 May 1999 08:13:25 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: AAS Electronic Announcement - #68 (fwd)
+Message-Id: <Pine.GSO.3.96.990511081323.10752A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 10121
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 10 May 1999 16:50:20 -0400 (EDT)
+From: AAS Email Exploder Account <aasmail@supernova.aas.org>
+Reply-To: webmaster@aas.org
+To: aasmembers@aas.org
+Subject: AAS Electronic Announcement - #68
+
+______________________________________________________
+AAS Electronic Notification Service - Announcement #68 05/99
+[Mailed from aas.org at 4:55pm 10 May 1999]
+______________________________________________________
+CONTENTS
+
+1.  ROOMS IN CHICAGO
+
+2.  UCP JOURNALS PUBLICATION DELAYS
+
+3.  HOW TO WRITE A WINNING PROPOSAL!
+
+4.  AASTEX UPGRADE AVAILABLE ON 20 MAY
+
+5.  AASTEX TEAM AT CHICAGO AAS MEETING
+
+6.  DECADAL SURVEY PUBLIC TOWN MEETING
+
+7.  AAS DECADAL ISSUES DISCUSSION WEB FORUM UPDATE
+
+8.  COMMUNITY INPUT SOUGHT ON
+    NASA SUN EARTH CONNECTION SYSTEM PLAN
+
+9.  2MASS DATA RELEASE
+_________________________________________________________
+_________________________________________________________
+1.  ROOMS IN CHICAGO
+
+The Hilton Chicago and Towers no longer has rooms available for
+the AAS Centennial Meeting.   Additional rooms have just been
+secured at the Hyatt Printers Row Hotel, just a few blocks from the 
+Hilton.  Rooms are $129. Reservations may be made by calling 
+800-233-1234 or 312-986-1234.  
+
+________________________________________________________
+2.  UCP JOURNALS PUBLICATION DELAYS
+    Julie Steffen, Astronomy Publications Manager, UCP
+ 
+Starting with the 1999 issues of The Astrophysical Journals 
+and The Astronomical Journal, the University of Chicago Press 
+has changed to a more efficient and economical typesetting 
+technology.  The unfortunate side effect of this is that we 
+have been publishing two to four weeks behind schedule since 
+this change was made.  The new system is now under control, 
+and we apologize for any inconvenience these delays may have 
+caused in the astronomical community.
+ 
+The May issues of the journals will begin posting to the web 
+and mailing this week.  We expect the ApJ to be back on schedule 
+by the end of June, i.e., posting and mailing approximately one 
+week before the cover date.  Readers will soon notice shorter 
+delays for the AJ and the ApJ Supplement Series as well.  The 
+ApJ Letters have not been affected by this change in technology, 
+because they are typeset in house at UCP. 
+ 
+We thank you for your patience during this transition period.
+
+________________________________________________________
+3.  HOW TO WRITE A WINNING PROPOSAL!
+
+Communicating your ideas for research through an effective
+proposal can be a challenge.  Competition is keen, oversubscription
+prevails, and the stakes can be high.  Come to the AAS Business
+Meeting to hear a panel of experienced scientists  share facts,
+insight and wisdom to demystify the process of writing a successful
+proposal.  Sethanne Howard (Program Director for Extragalactic 
+Astronomy and Cosmology, NSF), Guenter Riegler (Director of 
+Program Management Division, NASA), Rob Kennicutt (U. Arizona), 
+and Mike Shull (U. Colorado)  have experience with panels and 
+peer reviews,  TACS and selection committees.  They will explain 
+procedures, identify opportunities frequently overlooked, offer 
+hints, and answer questions to minimize your chances of rejection 
+slip shock. 
+
+The AAS Business Meeting will be held Tuesday, 1 June, 1:00pm, 
+Chicago Hilton, Continental Ballroom A.
+
+_________________________________________________________
+4.  AASTEX UPGRADE AVAILABLE ON 20 MAY
+
+A new release of AASTeX will be available on 20 May 1999.
+
+The package and its documentation is being finalized at
+this time; you can read the release notes now, if you wish.
+The resource name remains the same.
+
+    http://www.aas.org/publications/aastex/
+
+Re-iterating the highlight from my March Newsletter remarks,
+there are two versions of this upgrade: one called v5.0 that
+runs only under LaTeX 2e, and one called v4.1 that will run
+on LaTeX v2.09 installations.
+
+While we made modest additions to the markup, you should
+realize that for purposes of electronic submission to the
+AAS journals, v4.0 manuscripts will still be acceptable.
+
+_________________________________________________________
+5.  AASTEX TEAM AT CHICAGO AAS MEETING
+    Chris Biemesderfer
+
+The AASTeX Team will be at the University of Chicago
+Press AAS Journals exhibit booth on Tuesday morning 1 June 
+at the AAS meeting.  This is an opportunity to meet the 
+folks who can help you with your AASTeX manuscripts, and 
+to thank them for past assistance.
+
+You can also address your, um, concerns about AASTeX to
+its designer.  But mostly I want to invite you to meet
+the people who support you in preparing articles for the
+journals.
+
+_________________________________________________________
+6.  DECADAL SURVEY PUBLIC TOWN MEETING
+
+The Astronomy and Astrophysics Survey Committee (AASC)
+will hold a Public Town Meeting in conjunction with the AAS
+Centennial Meeting in Chicago on Tuesday, June 2nd at 8:15 p.m.
+in the Waldorf Room of the Hilton Hotel. The AASC Co-Chair,
+Chris McKee will present a status report, and then the chairs
+of the nine panels under the AASC will convene separate
+break-out public sessions.
+ 
+Contact Joel Parriott (jparriot@nas.edu) for more details.
+
+_________________________________________________________
+7.  AAS DECADAL ISSUES DISCUSSION WEB FORUM UPDATE
+    Lee Anne Willson, lwillson@iastate.edu
+
+Four new Cross Panel Working Groups have been set up; these are:
+
+    National Observatories (Frank Bash, Chair)
+    Planetary Astrophysics (David Jewitt, Chair)
+    Laboratory Astrophysics (Charles Alcock, Chair)
+    Massive Surveys (Tom Prince, Chair)
+
+New threads are being added to the forum corresponding to these topics.
+
+There is now an "easy-access" summary page
+(http://www.aas.org/decadal/summary.html) which allows you to 
+scan rapidly for those messages you would be interested in 
+reading in detail.  All the contributions to the forum have been 
+thoughtful, and we encourage you to visit the forum and see what 
+your colleagues have written. 
+
+There is now also a page of links to relevant sites
+(http://www.aas.org/decadal/links.html) which includes NOAO 
+long-range planning and information regarding NGST.  If you know 
+of any other links that should be provided here, please contact 
+the DID forum moderator, Lee Anne Willson, at willson@aas.org.
+
+Reminder:  The web forum will continue only until 15 June, since 
+the Astronomy and Astrophysics Survey Committee is operating on 
+a tight schedule.  If you have been considering sending in a 
+contribution, sooner is better.
+
+________________________________________________________
+8. COMMUNITY INPUT SOUGHT ON
+   NASA SUN EARTH CONNECTION SYSTEM PLAN
+   Redistributed from SolarNews 1999 No. 12
+ 
+NASA's Office of Space Science plans to establish a Sun Earth 
+Connection Data System (SECDS) as a distributed active archive 
+environment for the management and dissemination to the general 
+research community of NASA mission data covering solar physics 
+and space plasma physics. Components of the SECDS will be selected 
+through peer reviewed solicitations to the community.
+ 
+In anticipation of the establishment of the SECDS, the Technical 
+Working Group of the NASA Space Science Data System (SSDS) developed 
+a set of recommendations to NASA regarding the data needs of the 
+community and an architecture for a community-based SECDS. The report,
+drafted by a committee of scientists meeting at River Bend, Texas, 
+is available on the SSDS web pages at
+http://ssds.nasa.gov/info/secds/river_bend.html
+
+It is vital to the success of the new SECDS that it be responsive 
+to the needs of the community, and that the community be directly 
+included from the outset. Therefore, we solicit your comments on 
+these recommendations and ask that they be sent to ssds_twg@stsci.edu. 
+This address will forward your comments to NASA Headquarters 
+(J. Bredekamp) and to the members of the SSDS Technical Working Group 
+and the River Bend committee. Comments will be most valuable if 
+they arrive on or before 28 May 1999.
+
+________________________________________________________
+9.  2MASS DATA RELEASE
+    Schuyler Van Dyk
+
+The Two Micron All Sky Survey (2MASS) announces the public 
+availability  of its first large Incremental Data Release.  
+The release data products  can be accessed from the IPAC/2MASS 
+Web site at  http://www.ipac.caltech.edu/2mass/ or directly 
+from the  NASA/Infrared Science Archive site at
+http://irsa.ipac.caltech.edu/.
+
+The 2MASS 1999 Spring Incremental Data Release consists of a
+Point Source Catalog containing 20.2 million objects, an 
+Extended Source Catalog containing 73,980 resolved sources, 
+and 233,979 compressed 512x1024  pixel (1"/pixel) images, 
+covering about 2,483 square degrees of the  northern sky.  
+Also  provided are tools for a) obtaining full resolution 
+(non-compressed) "postage-stamp" images for the Extended Source 
+Catalog  objects, and b) for determining whether a specified 
+position is included  in the release area.
+
+The 2MASS webpage contains general information, including sky 
+coverage, and documentation about this data release.  Assistance 
+with the release is available via the 2MASS Help Desk at
+2mass@ipac.caltech.edu.
+
+The Two Micron All Sky Survey is a joint project of U. Mass.
+and the IPAC, funded by NASA and NSF.
+
+__________________________________________________________
+__________________________________________________________
+An AAS Electronic Announcement is mailed to all members around 
+the 10th of each month.  Included are important items that do 
+not fit into the schedule of the AAS Newsletter.  
+
+Items for possible inclusion in this announcement series should 
+be sent to johnson@aas.org.  Keep announcement short and refer 
+readers to sources of additional information.
+
+Address corrections should be sent to address@aas.org.
+
+
+

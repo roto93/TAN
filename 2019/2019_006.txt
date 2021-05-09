@@ -1,0 +1,56 @@
+
+> Date: Thu, 10 Jan 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Sung-Han Tsai (ASIAA/NCU)
+Topic:          Binary Stellar Evolution Models with MESA
+Time:           1/14 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Chao-Chin Yang (University of Nevada)
+Topic:          Planetesimal Formation through the Streaming Instability
+Time:           1/15 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The formation of kilometer-scale planetesimals is one of the most difficult stages in the course of planet formation around young stars.  It is faced with several major barriers.  Direct dust growth by coagulation is limited, up to mm to cm in size, due to inefficient sticking, bouncing, and fragmentation at collision.  Even if the dust grains manage to grow past cm in size, they continually lose angular momentum to their surrounding gas due to constant head wind, leading to rapid orbital decay to the star.  One promising mechanism for circumventing these barriers is the streaming instability, in which the solids actively participate in the dust-gas dynamics to concentrate themselves to high density, leading to direct gravitational collapse and the formation of planetesimals.
+>
+I will review our current understanding of the streaming instability and planetesimal formation.  Specifically, how the instability operates, under what conditions it drives strong concentration of solid materials, the initial mass function of the resulting planetesimals, and its interaction with turbulent gas will be examined.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Ryo Tazaki (Tohoku)
+Topic:          Probing grain growth in protoplanetary disks via millimeter-wave polarization
+Time:           1/16 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Dust coagulation in protoplanetary disks is the first step of planetesimal formation. However, a pathway from dust aggregates to planetesimals remains unclear. Both laboratory and numerical studies have so far shown that the structure of a dust aggregate plays important roles in planetesimal formation. However, the aggregate structure has been poorly constrained by disk observations. Recently, ALMA opens a new window to observe (sub-)millimeter-wave polarization of disks, which is expected to provide additional constraints on dust aggregate properties. In this study, we perform 3D radiative transfer simulations in order to study how the structure of dust aggregates affect millimeter-wave polarization from disks. As a result, it is found that relatively compact particles are favorable to explain observed millimeter-wave scattering polarization of disks, whereas highly porous and fractal particles fail to explain the observations. Furthermore, it is also shown that observed mi!
+ llimeter-wave scattering polarization is consistent with grain radii of a few hundreds of microns, which are an order of magnitude smaller than that previously estimated. We discuss a possibility that these relatively small grains are due to efficient fragmentation of CO2-ice coated grains in disks.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Jongho Park (Seoul National University)
+Topic:          Faraday Rotation in the Jet of M87 Inside the Bondi Radius: Indication of Winds from Hot Accretion Flows Confining the Relativistic Jet
+Time:           1/17 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Active galactic nuclei (AGNs) often produce highly collimated relativistic jets, one of the most energetic phenomena in the Universe. Theoretical models predict that AGN jets can be accelerated to nearly speed-of-light by magnetic fields if they are confined by an external medium. Winds, nonrelativistic un-collimated gas outflows launched from accretion flows onto the supermassive black holes in AGNs, are primary candidates for this medium. Recent observations have indeed revealed gradual collimation and acceleration of the jet in M87, a nearby AGN that possesses a black hole with a mass of three to six billion Suns which provides a unique opportunity to investigate the region under the influence of the black hole's gravity. However, it has not been possible to either probe the external medium by observations or verify the general picture of jet collimation and acceleration. Here we report radio observations of Faraday rotation (the rotation of the plane of polarization by i!
+ ntervening magnetic fields) in the M87 jet, where information on the external medium (which is not directly observable) is imprinted. The Faraday rotation systematically decreases with increasing distance from the black hole from 5,000 to 200,000 Schwarzschild radii, in good agreement with the gas density being inversely proportional to the distance. This behavior matches the theoretically expected signature of moderately magnetized winds, which can naturally serve as the external confining medium. The sign of the Faraday rotation is predominantly negative, suggesting that jet and accretion axis are misaligned and the jet emission exposes only one side of the toroidal magnetic fields in the winds. Our results demonstrate that winds are indeed a key element of the black hole inflow-outflow system.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

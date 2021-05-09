@@ -1,0 +1,69 @@
+==============================================================================
+
+In this issue (Apr 15, 2018)
+
+1. reminder: ALMA proposal deadline
+2. ALMA Cycle6 info update
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: reminder: ALMA proposal deadline
+> Date: Tue, 10 Apr 2018 12:16:11 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>
+
+Dear radio astronomers, this is a reminder that the ALMA proposal deadline is 
+less than 10 days away from now.  Don’t miss it.  We will not call an SMA/ALMA
+science meeting this week, so you can focus on the proposal.  We will make
+announcements about ALMA or SMA through email, if anything relevant comes up.
+
+Dear OIR/X/gamma/GW/theory astronomers, you are still encouraged to think about 
+ALMA projects on your favorite targets.  There is still time to come up with a 
+good proposal.  Our ALMA members will do our best to help you on the technical side.  
+However, please act fast if you need any help, as we have our own proposals to take 
+care as well.
+
+Cheers,
+Wei-Hao
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: ALMA Cycle6 info update
+> Date: Sun, 15 Apr 2018 19:45:15 +0800
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>    riaa <riaa@asiaa.sinica.edu.tw>
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear all,
+
+    I would like to remind you that there is a major issue in the CASA 5.1 releases which seriously affects mosaic imaging of simulated data. 
+    If simulated mosaic images obtained with CASA 5.1.* are included in your Cycle 6 proposal, please refer to the following knowledgeable article: 
+    https://help.almascience.org/index.php?/Knowledgebase/Article/View/407
+
+    Furthermore, there is a new rule in Cycle 6 --- the figure captions, tables and references included in the proposal Scientific Justification (SJ) must use a 12-point font
+      (see Section 5.2.3 in https://almascience.nao.ac.jp/proposing/proposing/proposers-guide)
+    If you plan to resubmit your previous cycle proposals, please do remember to change the font size in figure captions, tables and references.
+    
+best,
+Yu-Nung
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

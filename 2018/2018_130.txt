@@ -1,0 +1,69 @@
+
+> Date: Thu, 30 Aug 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Yu-Hsuan Teng (ASIAA/NTU)
+Topic:         Properties and Kinematics in OMC1 with N2H+ Observations
+Time:         9/3 (Monday) 12:00 - 13:00
+Place:         R1203
+Abstract:
+Using the N2H+(3-2) observed with the SMA and CSO, and N2H+(1-0) observed with the NRO 45m and ALMA + IRAM 30m, we study the structure and kinematics of the Orion Molecular Cloud 1 (OMC1). Unlike other molecular lines such as HCO+ or HCN, the observations in N2H+ are less affected by the expansion or explosion originated from the Orion KL, and can trace the dense gas distribution. Using the kinematics and structure, the OMC1 region is divided into three subregions. The northern region consists of multiple filaments parallel with each other, the western region consists of radial filaments, and the southern region is the OMC1-South. These three regions have different velocities, which exhibits a velocity structure similar to a global collapse scenario. We derived the physical parameters of these regions by conducting non-LTE analysis. The high-resolution N2H+ (3-2) and (1-0) images reveal multiple filamentary structure, having a typical width of 0.02-0.03 pc. Using the non-LTE!
+  analysis, we find that the filament regions have a higher density and a lower temperature than the non-filament regions. This may be explained by the blocking of external heating sources due to the dense gas in the filaments. We also study the gas motion inside the filaments, and compare them with the core formation model.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Sandip Chakrabarti (Indian Center for Space Physics)
+Topic:         Discussion on some Research Areas in Astronomy, Astrophysics and Space Science in Indian Center for Space Physics
+Time:         9/3 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+I discuss progresses in various areas of Astronomy, Astrophysics and Space Science in which I
+have been directly involved in my thirty years of research career in India. These areas can be
+broadly divided into four topics: (a) Black Hole Astrophysics: Theoretical studies of relativistic
+flows around black holes and neutron stars; Data Analysis and extraction of physical param-
+eters; (b) Ionospheric Science: Earth as a gigantic detector; Ionospheric Science using Very
+Low Frequency Radio Waves and Earthquake prediction; (c) Astrochemistry/Astrobiology and
+Origin of prebiotic molecules on Earth and finally, (d) Low cost balloon borne instrumentations
+and science. In addition, I also discuss a new optical facility that we have developed, especially
+to study exoplanets, variable stars and GRB afterglows. We discuss possible collabortions in
+these directions.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Tetsuya Hashimoto (NTHU)
+Topic:         Why Are Some Gamma-Ray Bursts Hosted by Oxygen-rich Galaxies?
+Time:         9/5 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Theoretically long Gamma-Ray Bursts (GRBs) are expected to happen in the
+low-metallicity environments, because in a single-massive star scenario, low iron
+abundance prevents loss of angular momentum through stellar wind, resulting
+in ultra-relativistic jets and the burst. In this sense, not just a simple metallicity
+measurement, but low iron abundance ([Fe/H]$\lesssim$-1.0) is essentially important.
+Observationally, however, oxygen abundance has been measured more often
+due to stronger emission. In terms of the oxygen abundance, some GRBs have
+been reported to be hosted by high-metallicity star-forming galaxies, in tension
+with theoretical predictions. We here compare iron and oxygen abundances, for the first time for GRB host
+galaxies (GRB 980425 and 080517) based on the emission-line diagnostics.
+The estimated total iron abundances, including iron both in gas and dust, are well
+below the solar value. The total iron abundances can be explained by the typical
+value of theoretical predictions ([Fe/H]$\lesssim$-1.0), despite high oxygen
+abundance in one of them. According to our iron abundance measurements,
+the single-massive star scenario still survives even if the oxygen abundance of
+the host is very high such as the solar value. Relying only on oxygen abundance
+could misguide us on the origin of the GRBs.
+
+==============================================================================

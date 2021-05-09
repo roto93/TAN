@@ -1,0 +1,368 @@
+From kyl@asiaa.sinica.edu.tw Wed Apr 12 10:32 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA01107
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 12 Apr 2000 10:32:20 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id KAA13178
+	for <astro@asiaa.sinica.edu.tw>; Wed, 12 Apr 2000 10:27:19 +0800
+Date: Wed, 12 Apr 2000 10:27:30 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Final Program (fwd)
+Message-ID: <Pine.SOL.4.10.10004121027270.29009-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 11487
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 4 Apr 2000 00:15:33 -0400
+From: Terahertz 2000 <thz2000@eecs.umich.edu>
+To: rxlab@asiaa.sinica.edu.tw
+Subject: Final Program
+
+
+
+Following is the final program for the 11th International Symposium on
+Space Terahertz Technology.  It also appears on the web at
+http://www.eecs.umich.edu/thz2000/, along with travel and
+registration information.
+We hope to see you there.
+-----------------------------------
+MONDAY, MAY 1
+
+OPENING: 8:45 AM
+
+Introduction and Welcome
+F. Ulaby
+
+Next Generation of THz sources and detectors	
+E. Martinez 
+
+Terahertz Electronics Research for Defense: Novel Technology &
+Science
+Dwight Woolard
+
+HEB 1: 10:20 AM
+Frequency Dependence of the Performance of the Terahertz Lattice-Cooled
+Hot-Electron NbN Mixer
+Alex D. Semenov, Heinz-Wilhelm Hubers, Josef Schubert, Gregory
+N. Gol'tsman, Boris M. Voronov, Evgeni M. Gershenzon
+
+Successful Operation of a 1 THz NbN Hot-Electron Bolometer Receiver
+
+C.-Y. Edward Tong, Jonathan Kawamura, Todd R. Hunter, D. Cosmo Papa,
+Raymond Blundell, Ferdinand Patt, Gregory Gol'tsman, Eugene Gershenzon
+
+Frequency Response of Microstripline-Coupled Quasi-Optical Niobium Hot
+Electron Bolometer Mixers around 2.5 THz
+W. F. M. Ganzevles, J. R. Gao, W. M. Laauwen, G. de Lange,
+T. M. Klapwijk, P. A. J. de Korte
+
+Direct and Heterodyne Response of Quasi-Optically coupled 2.5 THz
+Niobium Hot Electron Bolometer Mixers
+W. F. M. Ganzevles, T. M. Klapwijk, P. A. J. de Korte
+
+Aluminum Based Sub-Micron Long Superconducting Hot-Electron Bolometer
+Mixer 
+Irfan Siddiqu
+
+SIS 1: 1:30 PM
+Broadband array SIS mixers for 780-880 GHz with aluminum tuning
+circuits
+Sybille Haas, Stephan Wulff, Dirk Hottgenroth, Netty Honingh, Karl Jacobs
+
+A 350GHz SIS Imaging Module for the JCMT Heterodyne Array Receiver
+Programme
+J. Leech, S. Withington, G. Yassin, H. Smith
+
+A Single-Chip Balanced SIS Mixer for 200-300 GHz	
+A. R. Kerr, Sl-K. Pan, N. Horner, J. E. Effland, K. Crady,
+A. W. Lichtenberger
+
+A Low-noise NbTiN-based 850 GHz SIS Receiver for the Caltech
+Submillimeter Observatory
+J. Kooi, J. Kawamura, J. Chen, J. Zmuidzinas
+
+Quasi-Optical Terahertz SIS Mixer	
+Andrey M. Baryshev, B. D. Jackson, W. Laauwen, G. de Lange,
+S. V. Shitov, J. R. Gao, T. M. Klapwijk
+
+SEMICONDUCTOR 1: 3:20 PM
+
+Broadband Fixed-Tuned Heterodyne Receivers from 183 GHz to 640 GHz	
+Jeffrey Hesler, Phil Koh, Steve Marazita, William Bishop, Thomas Crowe
+
+The Oxide Barrier Varactor	
+Thomas W. Crowe, Yiwei Duan
+
+Power Generation with Fundamental and Second-Harmonic Mode InP Gunn
+Oscillators - Performance Above 200 GHz and Upper Frequency Limits
+Ridha Kamoua, Heribert Eisele
+
+GaN-based NDR Devices for THz Generation	
+Egor Alekseev, Andreas Eisenbach, Dimitris Pavlidis
+
+State of the Art of Two Terminal Devives as Millimeter and
+Submilleter-wave Sources
+H. Eisele & G. Haddad
+
+Stabilized, Integrated, Far-Infrared Laser System for NASA/Goddard Flight Center
+Eric R. Mueller, Joel Fontanella, Robert Henschke
+
+TUESDAY, MAY 2
+
+HEB2: 8:30 AM
+
+Superconducting Bolometer Arrays for Submillimeter Astronomy	
+
+Dominic Benford, Harvey Moseley, Rick Shafer, Alexander Kutyrev, Kent
+Irwin, Erich Grossman, Jay Chervenak, John Martinis
+
+Comparison of Two Types of Andreev Reflection Hot-electron
+Microbolometer for Submillimeter Radioastronomy
+A. N. Vystavkin
+
+Development of Focal Plane Arrays Utilizing NbN Hot Electron
+Bolometric Mixers for the THz Regime
+E. Gerecht, C. F. Musante, Y. Zhuang, M. Ji, K S. Yngvession
+
+NbN Hot-Electron Bolometers as Infrared Single-Photon Photodetectors	
+O. Okunev, G. Chulkova, K. Smirnov, A. Semenov, B. Voronov,
+A. Dzardanov, G. Gol'tsman, A. Lipatov, C. Williams, Roman Sobolewski
+
+Phonon cooled HEB Mixers made from NbN films on MbO Substrates	
+M. Kroug, S. Cherednichenko, E. Choumas, P. Yagoubov, H. Merkel,
+E. Kollberg, J. Schubert, H.-W. Hubers, G. Gol'tsman, B. Voronov
+
+SIS 2: 10:20 AM
+
+Anomalous Pumped and Unpumped I-V Characteristics of Nb SIS Terahertz
+mixers with NbTiN Striplines
+B. Leone, B. D. Jackson, J. R. Gao, T. M. Klapwijk, N. N. Iosad,
+W. M. Laauwen, G. de Lange
+
+NbTiN and NbTiN/Al Tuning Circuits for THz SIS Mixers	
+B. D. Jackson, G. de Lange, W. Laauwen, J. R. Gao
+
+A New Design for Sideband Separating Waveguide SIS Mixer	
+V. Belitsky, V. Vassilev, D. Urbain
+
+Performance of Subharmonic mixing with an SIS junction	
+Sheng-Cai Shi, Wen-Lei Shan, Takashi Noguchi, Ke-Chen Xiao
+
+Noise Performance of a 230 GHz Subharmonic SIS Mixer	
+Kecheng Xiao, Hideo Ogawa, Akira Mizuno, Yasuo Fukui
+
+MICROMACHINING: 1:30 PM
+
+Micromachined Waveguide Components for Submillimeter-wave Applications	
+Kai Hui, William L. Bishop, Jeffrey L. Hesler, David S. Kurtz, Thomas
+W. Crowe
+
+A New Laser Micromachining System for the Fabrication of THz Waveguide
+and Quasi-Optical Components
+C. Walker, C. Drouet, D'Aubigny, C. Groppi, J. Papapolymerou, G. Chin,
+A. Lichtenberger
+
+Development of W-Band Low-Loss MEMS Switches	
+Jad Rizk, Jeremy Muldavin, Guang-Leng Tan, Gabriel M. Rebeiz
+
+The frame-less membrane: a novel technology for THz circuits	
+Jean Bruston, Alain Maestrini, Erich Schelcht, Suzanne Martin, Peter
+Smith, Imran Mehdi
+
+200 and 400 GHz Schottky diode Multipliers Fabricated with Integrated
+Air-Dielectric (Substrateless) Circuitry
+E. Schlecht, J. Bruston, R. P. Smith, S. Martin, A. Fung, R. Tsang, I Mehdi
+
+Development of Efficient Backward Wave Oscillators for Submillimeter
+Applications
+Lawrence Ives, Jeff Nielson, Malcom Caplan
+
+POSTER SESSION: 3:30 PM
+
+Two-stream ballistic instability and terahertz oscillation generation
+in n+nn+-ballistic diodes and field-effect transistors
+Z. S. Gribnikov, N. Z. Vagidov, V. V. Mitin
+
+Sb-Heterostructure High Frequency Zero-Bias Direct Detection Diodes	
+J. N. Schulman, D. H. Chow, C. W. Pobanz, H. L. Dunlap, C. D. Haeussler
+
+Phase Gratings as L.O.-signal distributors in submm heterodyne arrays	
+T. Klein, G.A. Ediss, R. Gusten, C. Kasemann
+
+Narrow-Band Terahertz Waveform Generation in Periodically-Poled
+Lithium Niobate
+Y.-S. Lee, T. Meade, V. Perlin, H. Winful, T. B. Norris
+
+Resonant Tunneling THz Oscillator at Fixed Bias Voltages	
+Peiji Zhao, H. L. Cui
+
+SuperMix Now Available	
+F. Rice, J. Ward, J. Zmuidzinas, G. Ghatopadhyay
+
+Simulated Performance of Multi-junction Parallel Array SIS Mixers for
+Ultra Broadband Submillimeter-Wave Applications
+M. Salez, Y. Delorme, M.-H. Chung, F. Dauplay
+
+Integrated Superconducting Receiver as a Tester for Submillimeter
+Devices at 400-600 GHz
+S. V. Shitov, A. M. Shtanyuk, V. P. Koshelets, G. V. Prokopenko,
+L. V. Filippenko, An. B. Ermakov, M. Levitchev, A. V. Veretennikov,
+H. Kohlstedt, A. V. Ustinov
+
+Modelling few-moded horns for far-IR space applications	
+Ruth Colgan, J. A. Murphy, Bruno Maffei, Creidhe O'Sullivan, Richard
+Wylde, Peter Ade
+
+Reflectance Measurements on Absorbing Coatings for Sub-millimeter
+Radiation
+M. C. Diez, T. O Klaassen, C. Smorenburg, V. Krischner, K. J. Wildeman
+
+Tacit Detectors for Operation Above 4K	
+
+Carey L. Cates, Jon B. Williams, Mark S. Sherwin, Kevin D. Maranowski,
+Art C. Gossard
+
+SIS receivers for the 1.2 THz frequencies using NbTiN/AlN/Nb junctions
+A. Karpov
+
+A Cryosystem for Optical Evaluation of the Antenna-Coupled Direct
+Detector of Submillimeter Radiation
+Denis Chouvaev, Leonid Kuzmin
+
+Study of Parylene as Anti-reflection coating for Silicon Optics at THz
+Frequencies
+M. Ji, C. Musante, S. Yngvesson, A. J. Gatesman, J. Waldman
+
+Optimization of Superconducting Hot-Electron Sensors: Controlling of
+Electron-Phonon Relaxation
+A. Sergeev, V. Mitin
+
+A Compact Fiber-Pigtailed Terahertz Time-Domain Spectroscopy System	
+D. Zimdars, J.V. Rudd and M. Warmuth
+
+An Efficient Technique for the Optimization of Submillimeter-wave
+Schottky-diode Harmonic Multipliers
+Chi-Chien Lee, Boris Gelmont, Dwight Woolard
+
+Developments of the 810-GHz SIS Receiver with Nb-based Junctions	
+Hiroyuki Maezawa, Takashi Noguchi, Sheng-Cai Shi, Yutaro Sekimoto,
+Satoshi Yamamoto
+
+Bias-Dependence of the Intermediate Frequency Gain Bandwidth in Nb
+Diffusion-Cooled Hot Electron Bolometer Mixers
+D. Wilms Floet, J. R. Gao, T. M. Klapwijk, P. A. J. de Korte
+
+Submillimeter-wave spectral response of twin-slot antennas coupled to
+hot electron bolometers
+R. A. Wyss, W. R. McGrath, A. Skalare, B. Bumble, H. LeDuc
+
+
+WEDNESDAY, MAY 3: 8:30 AM
+
+HEB 3
+
+A distributed device model for phonon-cooled HEB mixers predicting IV
+characteristics, gain, noise and IF bandwidth
+P. Khosropanah, H. Merkel, E. Kollberg
+
+Properties of Nb Thin Films and their Application for Diffusion-Cooled
+Hot-Electron Bolometer
+M. Frommberger, P. Sabon, O. Laborde, K. F. Schuster
+
+Diffusion-cooled Aluminum Hot-Electron Bolometer Mixers at
+Submillimeter Wavelengths
+Anders Skalare, William R. McGrath, Pierre M. Echternach, Henry
+G. LeDuc
+
+Noise and Mixing in Aluminum Based SubMicron Hot-Electron Bolometers	
+Aleksandr Verevkin
+
+Hot-electron direct detectors: toward record sensitivity due to
+controllable electron-phonon coupling
+D. Gong, T. Sato, M. E. Gershenson, B. S. Karasik, W. R. McGrath,
+H.G. LeDuc, A. V. Sergeev
+
+HIGH TC & OSCILLATORS: 10:20 AM
+
+Evaluation of High-Tc Elements in submm-mixers	
+D. Diehl, R. Zimmerman, J. Scherbel, M. Darula, O. Harnack, M. Siegel
+
+Quasioptical High-Tc Superconductor Josephson Mixer at Terahertz
+Frequencies
+Marian Darula, Alex D. Semenov, Heinz-Wilhelm Hubers, Josef Schubert
+
+Systematic Study of IF Bandwidth in HTS Hot-Electron Bolometer Mixers
+Oliver Harnack, Konstantin Ilin, Michael Siegel, Boris S. Karasik,
+William R. McGrath, Gert de Lange
+
+Quasioptical YBCO Hot-Electron Bolometer Mixer for Terahertz
+Frequencies 
+Serguei Cherednichenki, F. Ronnung, G. Gol'tsman, E. Gershenzon,
+D. Winkler
+
+Eternally Phase Locked SubMM Flux Flow Oscillator for Integrated
+Receiver 
+V. P. Koshelets, A. B. Ermakov, S. V. Shitov, P. N. Dmitriev,
+L. V. Filippendo, A. M. Baryshev, W. Luinge, J. Mygind, V. L. Vaks,
+D. G. Pavel'ev
+
+
+SEMICONDUCTOR 2: 1:30 PM
+
+Planar Doublers and Triplers for FIRST	
+N. R. Erickson, G. Naryanan, R. P. Smith, S. C. Martin, T. W. Crowe,
+W. L. Bishop
+
+High Q InP-based Varactor diodes	
+T. David, P. Mounaix, X. Melique, F. Mollot, O. Vanbesien, M. Chaubet,
+D. Lippens
+
+Heterostructures Barrier Mixers for TeraHertz Applications	
+F. Podevin, P. Mounaix, O. Vanbesien, M. Chaubet, D. Lippens
+
+A 4-8 GHz Quasi-MMIC IF Amplifier for a 690 GHz SIS Receiver	
+John Ward, David Miller, Jonas Zmuidzinas, Peter O'Brien, Henry
+G. LeDuc, Robert Bicknell-Tassius
+
+Nonlinear Transport in Ballistic Semiconductor Diodes with Negative Effective Mass Carriers
+B.R. Perkins, J. Liu, A. Zaslavs
+
+ANTENNAS AND RADIATING STRUCTURES: 3:20 PM
+
+Instrumentation and Testing of Submillimeter Wave Compact Antenna Test
+Ranges
+Jussi Saily, Juha Ala-Laurinaho, Janne Hakli, Jussi Tuovinen, Antti
+V. Raisanen
+
+Analysis of the Pikett-Potter Horn-Reflector Antenna for THz
+Applications
+P. Kittara, G. Yassin, S. Withington, H. Smith
+
+A Novel Type of Phase Grating for THz Beam Multiplexing	
+Urs. U. Graf, Stefan Heyminck
+
+Quasi-optical multiplexing using reflection phase gratings	
+W. Lanigan, N. Trappe, J. A. Murphy, C. O'Sullivan, S. Withington
+
+Design and Analysis of a Hybrid Feed Antenna for a Flux-Flow
+Oscillator Integrated 460 GHz SIS Receiver
+M.-H. Chung, M. Salez
+
+

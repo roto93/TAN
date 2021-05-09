@@ -1,0 +1,349 @@
+
+In this issue (Apr 16 - 19, 2019)
+
+1. KVN Call for Proposals for the 2019B season
+2. NEP meeting 2019 at NTHU Taiwan
+3. Call for Proposals of VERA 2019B
+4. ASIAA Colloquium/Seminar/Lunchtalk:
+                   (Apr 22): Mei-Yin Chou/Locutus Huang/Kevin Koay (ASIAA)
+                   (Apr 23): Kevin Koay/Shoko Koyama/Masanori Nakamura (ASIAA)
+                   (Apr 24): Martin Bureau (Oxford)
+                   (Apr 25): Etsuko Mieda (NAOJ)
+5. Ph.D. position in astrochemistry & atmospheric chemistry at Stockholm Univ
+
+==============================================================================
+
+> From: Jung Taehyun <thjung@kasi.re.kr>
+> Date: Mon, 15 Apr 2019 23:39:20 +0900
+> Subject: KVN Call for Proposals for the 2019B season
+> To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+>         "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>         "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+>         "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear colleagues,
+
+The Korean VLBI Network (KVN) announce
+the Call for Proposals for the 2019B season.
+The deadline is 3 June 2018, at UT 08:00.
+
+Please refer to the following KVN website for more information.
+** http://kvn.kasi.re.kr
+
+Please distribute this announcement to all interested colleagues.
+
+With kind regards,
+Taehyun Jung
+
+
+--------------------------------------
+
+Call for Proposals 2019B (KVN VLBI)
+
+--------------------------------------
+
+The Korean VLBI Network (KVN) invites proposals for open-use VLBI
+observations during the 2019B season. Observations of successful proposals
+will be scheduled between 16th August 2019 and 15th January 2020. Proposals
+should be submitted to the KVN website (https://kvn.kasi.re.kr) before the
+deadline of 3 June 2019, UT 08:00 (KST 17:00).
+
+
+ Korean VLBI Network (KVN)
+
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by
+the Korea Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr).
+Its three 21m radio telescopes are located around South Korea in Seoul,
+Ulsan, and Jeju Island. The baseline length ranges from 305 km to 476 km
+and its 4-channel receiving system allows simultaneous observation at 22,
+43, 86, and 129 GHz. Higher than 1 Gbps recording rates (e.g., 2, 4 and 8
+Gbps) using Mark6 recorder are also available. Total time of 300 hours is
+allocated for the 2019B season. The maximum observation time for a proposal
+is limited to 100 hours. If requested, the observation time can allocated
+over a year until 15th June 2020, however, the total observation time is
+still limited to 100 hours even in this case. Details of information and
+current status of the KVN can be found in the KVN VLBI Status Report (
+https://radio.kasi.re.kr/kvn/status_report_2019/array.html).
+
+
+Proposers should use the KVN VLBI observing application form which is
+available at the KVN website. Please carefully follow the instructions of
+the proposal form. A separate scientific and technical justification is
+mandatory. This Justification should be submitted together with the
+proposal form and not exceed 3 pages.
+
+
+Jongsoo Kim
+
+Director of Radio Astronomy Division, KASI
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> Subject: NEP meeting 2019 at NTHU Taiwan
+> Date: Tue, 16 Apr 2019 10:01:49 +0800
+
+Dear all,
+
+We will have a conference titled
+'Future Science with Multi-Wavelength Data: NEP meeting 2019'
+on 24-26 June at NTHU.
+
+We would like to announce that the conference website is now open
+(https://seongini.wixsite.com/nepconf2). Please visit the registration
+page and make sure to register first!
+
+The science on the NEP field with the AKARI space telescope is turning
+into a new era.Â  Currently, our deep HSC imaging data covering the entire
+NEP-Wide field has become available. The SCUBA2 survey program to
+cover the same area is still going on.Â  A collaboration to carry out a 
+massive
+spectroscopic survey using the new Subaru/PFS is also on-going. From the
+space,Â  Euclid, SPHEREx, and eROSTA will cover the field in near-IR and
+X-ray.
+
+The AKARI's NEP legacy will remain the only survey having continuous
+mid-IR bands data over 5 sq. deg.Â  This legacy will continue to grow with
+a lot more multi-wavelength data.Â  Time is ripe for top scientists to meet
+again to pave the bright future of the NEP field science. We are looking
+forward to seeing you here, in Hsinchu!
+
+Best Regards,
+Seong-Jin,Â  on behalf of LOC.
+
+==============================================================================
+
+> Subject: Call for Proposals of VERA 2019B
+> From: "SHIBATA, Katsunori M." <k.m.shibata@nao.ac.jp>
+> Date: Wed, 17 Apr 2019 17:44:25 +0900
+> To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+>         "vlbi@nrao.edu" <vlbi@nrao.edu>,
+>         "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+>         "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>
+
+Dear Colleagues.
+
+I attached herewith an announcement of the call-for-proposals of 
+the VERA for 2019B season.  
+Please distribute this announcement to your community and encourage 
+people to submit proposals.  
+
+Thank you very much for your cooperation.
+
+Best regards,
+
+K. M. Shibata
+Mizusawa VLBI observatory, NAOJ
+
+----------------------------------------------
+
+***************************************
+Call for Proposals of VERA
+Deadline;  June 03, 2019, 08:00 UT.
+***************************************
+
+We wish to inform you call for proposals of VERA; VLBI exploration of
+Radio Astrometry.  VERA is a Japanese VLBI network, which has
+four 20-m  stations in Japanese archipelago and aims phase referencing
+and astrometry observations with a 2-beam system.  It makes simultaneous
+observations of two objects with the 22-GHz and 43-GHz bands.
+VERA, Kashima-34m and Nobeyama-45m network mode is also available.  
+The recording rates of 2048Mbps (single-beam mode) and 4096Mbps  
+(2-beam mode) are opened from 2018B season. 
+Available observation time is up to 200 hours during the observation period 
+from September 1st, 2019 to January 15th, 2020.
+Although it is limited to VERA array and  a single-beam mode, 
+the 6.7 GHz ( C-band ) is opened on shared-risk basis. 
+
+We encourage the submission of many proposals.
+
+For further details please see below,
+
+https://veraserver.mtk.nao.ac.jp/index.html
+
+And any questions should be asked to vera-prop (at-mark) nao.ac.jp
+
+Sincerely,
+
+              Mareki Honma
+              Director of Mizusawa VLBI  Observatory of NAOJ
+
+==============================================================================
+
+> Date: Thu, 18 Apr 2019 12:32:36 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week (corrected)
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Mei-Yin Chou / Locutus Huang / Kevin Koay (ASIAA)
+Topic:          EHT and black hole shadows in the news and popular culture
+Time:           4/22 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+Since the Event Horizon Telescope press release on April 10, the image of the black hole shadow has received a lot of public attention, thanks to the various broadcast, written, online and social media. We will share some of the interesting and light-hearted articles, memes and anecdotes that have appeared, demonstrating how this iconic image has impacted popular culture in just a little more than a week. We also delve into some of the darker and more unfortunate effects this public attention has had on people and science in general.
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Kevin Koay / Shoko Koyama / Masanori Nakamura (ASIAA)
+Topic:          Imaging Black Holes with the Event Horizon Telescope
+Time:           4/23 (Tuesday) 11:00 - 12:00
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Martin Bureau (Oxford)
+Topic:          WISDOM: Probing Supermassive Black Holes and their Immediate Environments with ALMA
+Time:           4/24 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+I will present key results from the mm-Wave Interferometric Survey of
+Dark Object Masses (WISDOM), a high resolution survey of molecular gas
+in galaxy nuclei. First, I will show that CO can be used to easily and
+accurately measure the mass of the supermassive black holes lurking at
+galaxy centres. I will discuss substantial ongoing efforts to do this,
+and present many spectacular new ALMA measurements, the latest of
+which rival the best black hole measurements to date. This opens the
+way to literally hundreds of measurements across the Hubble sequence
+(in both active and non-active galaxies) with a unique method. Second,
+I will briefly show how the same data allow to study the
+spatially-resolved properties of the giant molecular clouds in all the
+galaxies studied. This will yield cloud censuses in non-local galaxies
+(including early-type galaxies) for the first time, providing a new
+tool to understand and contrast the star formation efficiency across
+galaxies. Already, it appears that basic cloud properties are not
+universal and vary systematically along the Hubble sequence, contrary
+to long-held assumptions.
+
+
+*** Seminar ***
+____________________________________________________ 
+Speaker:        Etsuko Mieda (NAOJ)
+Topic:          High resolution? Wide science field? AO projects at TMT and Subaru
+Time:           4/25 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+As telescopes become larger, the improvement and development of adaptive optics (AO) techniques become crucial to fully utilize their large aperture size. In this talk, I will briefly review the basics of AO, and then focus on two AO projects, NAFIRAOS at TMT and ULTIMATE at Subaru, as two opposite extreme spectrum of AO techniques. They both use multiple laser beams, but one is optimized to achieve highest spatial resolution in a narrow field whereas the other is optimized to achieve the largest science field with a moderate resolution.
+
+==============================================================================
+
+> Subject: Fw: Ph. D. position in astrochemistry and atmospheric chemistry at Stockholm University: Application deadline in 4 days!
+> From  Yi-nan Chin <einmann@astro.phys.tku.edu.tw>
+> Date  2019-04-20 01:07
+
+Dear Yi-Jehng,
+
+Please circulate the following information for TANet, thank you!
+
+        Cheers,
+
+                Yi-nan
+
+---------- PhD Position in Astrochemistry in Stockholm, Sweden ----------
+From: Wolf Dietrich Geppert <wgeppert@hotmail.com>
+To: emmanuel.caux@irap.omp.eu, jose.cernicharo@csic.es, jcernicharo@gmail.com,
+    cchandle@nrao.edu, cyq@bao.ac.cn,
+    Isabelle Cherchneff <isabelle.cherchneff@unibas.ch>,
+    einmann@mail.tku.edu.tw, einmann@astro.phys.tku.edu.tw,
+    luigi.colangeli@esa.int, tpcoope@mweb.co.za, herve.cottin@lisa.u-pec.fr,
+    maria.cunningham@unsw.edu.au, amaury@astro.iag.usp.br,
+    leen.decin@ster.kuleuven.be, james.difrancesco@nrc-cnrc.gc.ca,
+    marie-lise.dubernet@obspm.fr, gdubner@iafe.uba.ar, nje@astro.as.utexas.edu,
+    Nicole.Feautrier@obspm.fr, jean-hugues.fillion@sorbonne-universite.fr,
+Subject: Ph. D. position in astrochemistry and atmospheric chemistry at Stockholm University: Application deadline  in 4 days!
+Date: Fri, 19 Apr 2019 09:27:16 +0000
+Status: RO
+
+Dear Colleagues,
+
+Please forward the following announcement to possibly interested students:
+Ph. D. position in astrochemistry and atmospheric chemistry at Stockholm
+University - Application deadline in 4 days!
+
+A 4-years position of a Ph. D. student in the field of astrochemistry and
+molecular astrophysics is available at Stockholm University under the
+supervision of Prof. Wolf D. Geppert. The work will focus on the
+investigations of ion reactions in the interstellar medium and planetary
+ionospheres trough experimental and theoretical methods. The focus will be on:
+
+  * Identification of products of ion-ion reactions relevant for the
+interstellar medium and planetary ionospheres using the novel and unique
+DESIREE double storage ring in Stockholm
+  * Studies of atmospheric and interstellar ion-neutral reactions of ions using
+guided beams. In a collaboration composed of the Universities of Trento,
+J. Heyrovsk' Institute (Prague), Universit Paris Saclay, and and SU we will
+pursue the selective generation of specific isomers of ions and investigations
+of their reactions with common molecules in Titan=92s atmosphere.
+  * Spectroscopic studies of isomeric ions With the help the ion trap
+experiment at the FELIX free electron laser at the University of Nijmegen
+infrared spectra of isomeric cations will be measured in order to establish
+selective production procedures of their isomers.
+  * Furthermore, we envisage planning of rocket- and balloon-based missions to
+assess the abundance, identity and distribution of cluster ions in Earth's
+atmosphere and their possible role in aerosol formation. The experimental and
+modelling studies to be carried out regarding ion clusters will identify the
+build-up and destruction processes of ionospheric clusters, predict their
+abundances and thus be of fundamental help in preparing a scientific case for
+such missions.
+  * The results of these investigations will be used as input data of model
+calculations of dark interstellar clouds and planetary or satellite atmospheres
+and for astronomic observations. The successful candidate will be offered
+full-time employment with a competitive salary and full medical and social
+security coverage. Also, the Stockholm University Astrobiology Centre has some
+funds for travel.
+
+Please check the following website for information about application
+procedures and rules:
+
+https://www.su.se/english/about/working-at-su/phd
+
+The position is advertised under the heading "PhD student in studies of
+Isomeric Interstellar and Atmospheric Ions and their Reactions"
+
+Any enquiries about the position and the work should be sent to
+wgeppert@fysik.su.se<mailto:wgeppert@fysik.su.se>.
+
+Best wishes,
+
+Wolf Geppert
+
+Prof. Dr. Wolf Dietrich Geppert
+Director of the Stockholm University Astrobiology Centre
+Department of Physics
+AlbaNova
+Stockholm University/Stockholms universitet
+Roslagstullbacken 21
+S-10691 Stockholm
+Sweden/Sverige
+
+Tel.: ++ 46 8 5537 8649
+Fax: ++ 46 8 5537 8601
+e-mail: wgeppert@fysik.su.se<mailto:wgeppert@fysik.su.se>
+---------- PhD Position in Astrochemistry in Stockholm, Sweden ----------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

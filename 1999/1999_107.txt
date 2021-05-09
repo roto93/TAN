@@ -1,0 +1,95 @@
+From kyl@asiaa.sinica.edu.tw Thu May 13 08:43:40 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA13219; Thu, 13 May 1999 08:39:44 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id IAA23294; Thu, 13 May 1999 08:36:30 +0800
+Date: Thu, 13 May 1999 08:36:29 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: EVN Observing Opportunities - 1999 (fwd)
+Message-Id: <Pine.GSO.3.96.990513083625.15094A-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3213
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 12 May 1999 14:26:33 +0200
+From: Richard Porcas <p222rwp@mpifr-bonn.mpg.de>
+To: vlbi@cv3.cv.nrao.edu
+Subject: EVN Observing Opportunities - 1999
+
+      ***********************************************************
+      *  EVN OBSERVING OPPORTUNITIES  -  1999 SESSIONS 3 and 4  *
+      ***********************************************************
+
+      VLBI observers should note the special observing opportunities
+  which will be available with the European VLBI Network during
+  Sessions 3 and 4 in 1999.
+
+  *   6 GHz observations are planned for either session 3 or 4,
+      giving opportunities for high resolution studies of the
+      excited OH radical and methanol molecule using their 
+      transitions in this band.
+
+  *   UHF (750 - 1300 MHz) observations are planned for session 3
+      (if enough proposals are received) permitting studies of
+      HI absorption in systems at a wide range of redshifts.
+
+  *   EVN + MERLIN will be available for L-band (1.4 and 1.7 GHz)
+      observations in Session 4. This combined array provides 
+      dense, short-baseline (u,v) coverage together with the high
+      sensitivity afforded by the large antennas at Effelsberg,
+      Jodrell Bank (Lovell) and Westerbork (phased array)
+
+
+         ****************************************************
+         *  AVAILABILTY OF EVN MkIV DATA PROCESSOR AT JIVE  *
+         ****************************************************
+
+  The EVN MkIV Data Processor at JIVE is nearing the end of its
+  commissioning phase, which will result in an operational (albeit
+  basic) MkIV correlator in July 1999. It is open from Session 3 on,
+  for EVN proposals which employ basic MkIV/VLBA observing modes, with
+  total data rates up to 256 Mb/s (excluding pulsar gating, 2-head and
+  320 ips recording). Correlation of Mk3 modes and those which require
+  over-sampling (bandwidths < 2 MHz) will be available first for
+  observations in Session 4. For session 3, spectral line correlation
+  is limited to 512 frequencies per channel, and an aggregate (over
+  channels and polarisations) of 1024 per baseline. Further technical
+  details from:      H.J. van Langevelde at  huib@jive.nfra.nl
+  
+  The MPIfR correlator in Bonn is still available for correlation of
+  EVN continuum observations recorded in Mk3 modes, but proposers
+  should specify the reasons why this correlator is thought suitable
+  for the observations.  Such observations must be limited in size
+  (see EVN Call for Proposals). The VLBA correlator in Socorro is
+  available for a limited number of "EVN-only" experiments. Its use
+  will be reserved for those observations which cannot yet be
+  correlated at JIVE, as judged by the EVN Program Committee.
+
+
+            FOR FURTHER DETAILS, CONSULT THE FORTHCOMING  
+                   "EVN CALL FOR PROPOSALS"
+
+
+                       Richard Porcas (Chair, EVN Program Committee)
+
+
+

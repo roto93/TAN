@@ -1,0 +1,126 @@
+From kyl@asiaa.sinica.edu.tw Wed Nov  3 14:23 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA24229
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 3 Nov 1999 14:22:30 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id OAA05968
+	for <astro@asiaa.sinica.edu.tw>; Wed, 3 Nov 1999 14:22:40 +0800
+Date: Wed, 3 Nov 1999 14:22:40 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: 1st Call for Papers: Terahertz 2000 (fwd)
+Message-ID: <Pine.LNX.4.10.9911031422320.5840-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3700
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 2 Nov 1999 13:34:48 -0500
+From: Terahertz 2000 <thz2000@eecs.umich.edu>
+To: rxlab@asiaa.sinica.edu.tw
+Subject: 1st Call for Papers: Terahertz 2000
+
+
+
+11th International Symposium on Space Terahertz Technology
+    FIRST CALL FOR PAPERS: Abstracts Due 1/31/2000
+      The University of Michigan, Ann Arbor
+                 May 1-3, 2000
+_______________________________________________________________
+    Note later Conference date (to avoid Winter weather)
+_______________________________________________________________
+
+The Symposium on Space Terahertz Technology features the latest research from
+the U.S.A. and abroad pertaining to the detection, generation, and use of
+terahertz radiation for astronomy, solar system studies, remost sensing of
+Earth's atmosphere, and other applications.  Topics of interest for the 11th
+International Symposium include:
+
+	Schottky diode mixer and multiplier technology
+	SIS mixer technology
+	Hot Electron Bolometers
+	Antennas, coupling structures and other passive circuits
+	Overviews of space based and astrophysics THz applications
+	Direct detection techniques
+	Pulsed THz technology
+	Non-space applications such as remote senging
+	Other topics of interest to the THz community
+
+Authors wishing to submit a papers should submit a one to two-page
+abstract.  The abstract should emphasize the new and unique features
+of the research.  The dealine for receipt of abstracts is January 31,
+1999.  Notification of acceptance will be sent by email by February
+29, 1999, along with instructions for the camera-ready Proceedings
+papers.  Final papers will be due May 1, 1999.  Abstracts should
+include a cover page giving the name, address, phone and fax numbers,
+and email address of the correspondence author.  Please email
+abstracts in a Word, Framemaker, LaTex, postscript or PDF file, to:
+
+thz2000@eecs.umich.edu
+	
+Dr. Jack East
+University of Michigan
+2301 EECS
+1301 Beal Ave.
+Ann Arbor, MI  48109-2122
+FAX: (734) 763-9324
+
+Camera ready digest papers are by the time of the Symposium.  We
+expect the average paper to be five to ten pages in length.  The
+digest will be mailed in early June.  Please use the following format
+for digest papers:
+
+	- 10 page maximum
+	- Capital letters and bold print for the title.  Include authors' name, 
+	  affiliation, city, state, zip code (or country and postal code).
+	- Do not number the pages, or use any header or footer.
+	- Allow 1.25 inch margins on all four sides.  If using European 
+	  paper (A4) please increase the margin at the bottom of the page 
+	  to 2 inches.
+	- Use Times font, 12-point or larger type.
+	- Single or double spacing acceptable.
+	- Postscript or PDF file for the proceedings.  You may also submit 
+	  Word, Framemaker, and LaTex files.
+
+Technical and Advisory Committee
+
+Jack East, University of Michigan, Chair
+Raymond Blundell, Harvard University
+Thomas W. Crowe, University of Virginia
+Rob McGrath, Jet Propulsion Laboratory
+Gabriel Rebeiz, University of Michigan
+Robert M. Weikle II, University of Viginia
+Jonas Zmuidzinas, Caltech
+
+Technical Contact:	
+Dr. Jack East
+The University of Michigan
+PH: (734) 763-0212 		
+FX: (734) 763-9324
+jeast@eecs.umich.edu
+
+Arrangements Contact:
+Catharine June
+The University of Michigan
+PH: (734) 936-2965 		
+FX: (734) 763-9324
+cmsj@umich.edu
+
+Web site: www.eecs.umich.edu/thz2000
+General Email Address: thz2000@eecs.umich.edu
+
+

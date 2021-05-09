@@ -1,0 +1,41 @@
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Fri, 8 Jun 2012 13:15:57 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, upcoming Colloquium at IANCU (S4-Room 1013) is:
+
+Title: Comparing RAVE data to the Besancon Galactic Model
+Speaker: Dr. Andreas Ritter (IANCU)
+Date: 2012-06-15
+Time: 14:00-15:00
+Location: NCU, S4-1013
+Abstract:
+
+The RAdial Velocity Experiment (RAVE, Steinmetz 2003) is an ongoing major spectroscopic
+survey of the southern hemisphere. It offers the first truly representative inventory of
+stellar radial velocities for all major components of the Galaxy, using the CaII triplet
+region (8480--8740 Angstroms) to determine the radial velocities and stellar atmospheric
+parameters like the effective temperature, surface gravity and metallicity of the
+observed stars. The spectra are taken with the 6df multi-object spectrograph at the
+UK-Schmidt telescope, situated at the Siding Spring Observatory in Australia. This
+unique data set allows us for the first time to test the theoretical models of the
+Galaxy for the whole southern hemisphere. I have developed a computational framework to
+compare any large Galactic survey to Models of the Galaxy using statistical methods, and
+the visualisation of the results. The application of this framework to the RAVE survey
+and the Besancon Galactic Model (Robin 1986) reveals systematic discrepancies between
+the measured and predicted parameter distributions, a different vertical metallicity
+gradient, and a wealth of substructures (most of them new) in the Galaxy.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201206151400.html
+
+------------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+

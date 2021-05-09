@@ -1,0 +1,54 @@
+
+> Date: Thu, 7 Feb 2019 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Yen-Chen Pan (EACOA Fellow, NAOJ)
+Topic:          Host galaxies of Ia SNe
+Time:           2/11 (Monday) 12:15 - 13:15
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Fang-Chun Liu (NTNU)
+Topic:          The physical and chemical structure of continuum sources in Orion KL
+Time:           2/13 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Orion Kleinmannâ€“Low (Orion KL) hot molecular core, the nearest massive star-forming region to Earth, is one of the richest molecular reservoirs in Milky Way. With the Atacama Large Millimeter/submillimeter Array (ALMA) high-angular resolution observations, we investigate the millimeter/submillimeter continuum emission of Orion KL. In this study, twenty-four separate continuum sources are identified. Moreover, the physical and chemical properties of each individual continuum, such as the velocity, temperature and mass, and chemical abundances of nitrogen-/oxygen-bearing molecules, are also inferred based on the continuum and spectral emission observed. Marked correlations between certain physical and chemical parameters thus derived are evident and may be attributed to different evolutionary stages in these continuum sources.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Yuan-Sen Ting (Carnegie / Princeton / IAS)
+Topic:          Milky Way, machine learning, big data
+Time:           2/14 (Thursday) 11:00 - 12:00
+Place:           R1203
+Abstract:
+Understanding physical processes responsible for the formation and
+evolution of galaxies like the Milky Way is a fundamental but unsolved
+problem in astrophysics. Fortunately, most stars are long-lived. As such,
+using the stars as "fossil records" (what is known as Galactic archaeology)
+can offer unparalleled insight into the assembly of galaxies.  In recent
+years, the landscape of Galactic archaeology is rapidly changing thanks to
+on-going large-scale surveys (astrometry, photometry, spectroscopy,
+asteroseismology) which provide a few orders of magnitude more stars than
+before. In this talk, I will discuss new "phenomenological" opportunities
+enabled by large surveys.  I will also discuss how machine-learning tools
+could leverage the big data about the Milky Way by maximally harnessing
+information from low-resolution stellar spectra as well as the time-series
+photometric fluxes of stars. I will also present the new opportunities in
+Galactic archaeology in the era of deep photometry and spectroscopy, such
+as LSST, HSC, and PFS.
+
+==============================================================================

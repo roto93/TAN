@@ -1,0 +1,135 @@
+=============================================================================== 
+In this issue (Jan 01 - 04, 2015)
+
+1. ASROC2015 (May 22-24): 1st Circular
+2. ASIAA Colloquia/Seminars (Jan 06): Chieh-An Lin (CEA Saclay)
+                            (Jan 07): Chien-Hsiu Lee (Munich Univ Obs)
+                            (Jan 07): Chau-Ching Chiong (ASIAA)
+                            (Jan 08): Amy Lien (NASA/GSFC)
+                            (Jan 08): Daniel Pfenniger (Geneva Obs, U of Geneva)
+
+===============================================================================
+
+  Astronomical Society of the Republic of China 2015 Scientific Assembly
+                  (ASROC2015)
+
+                        National Ilan University, I-Lan
+                            May 22 - 24, 2015
+
+The 2015 Scientific Assembly of the Astronomical Society of the Republic of China (ASROC2015) will be held at National Ilan University on May 22 (Friday) - 24 (Sunday), 2014. This is the annual event for all astronomers and astrophysicists in Taiwan to present their most recent discoveries and observations, to report their latest research results and to exchange ideas, also to organize collaborations when desirable. Oral presentations and conference posters in all areas of astronomy and astrophysics are solicited. ASROC2015 is also an excellent venue for students, in particular graduate students, to present their research findings or progress from their thesis studies.
+
+    The meeting will include plenary talks, scientific and educational sessions, poster presentation, and a business meeting. The featured plenary speakers are 1) Dr. Timo Prusti of European Space Agency. Dr. Prusti is the project scientist of the GAIA mission and he is also the chair of the GAIA Science Team. In ESA he worked with the Infrared Space Observatory and Herschel before taking up the Gaia duties. His scientific interests are related to young stars especially in close-by clusters and with disks. 2) Dr. Joel Parker of Southwest Research Institute. Dr. Parker is the director of the Planetary Science Directorate of  Southwest Research Institute. He is the Deputy PI and CoI on Rosetta mission (Alice instrument) and the Project Manager and CoI on New Horizons mission (Alice instrument). His research focuses on the minor bodies in the Solar system as well as stellar astrophysics. He was also involved in the Ultraviolet Imaging Telescope payload project on the Astro-2 Space!
+  Shuttle missions. They will talk about the new results of the GAIA mission and the discoveries of comet 67P from the Rosetta mission, respectively.
+
+    ASROC2015 website will be ready in late-January. Participants of the scientific assembly should submit their abstracts and register on-line. A registration fee of NT$1,000 (NT$800 for students) should be paid on site.
+
+    The Astronomical Society cordially invites you to participate in this annual event with all the many interesting and exciting activities. For more details and updated information, please visit the ASROC website at http://www.asroc.org.tw/.
+
+Program Committee
+---------------------
+Chang, Kuei-Lan      (TAM)
+Chin, Yi-Nan          (TKU)
+Chao, Han-Chieh      (NIU; Co-Chair)
+Chu, You-Hua          (ASIAA; Co-Chair)
+Hsu, Rue-Ron          (NCKU)
+Kinoshita Daisuke    (NCU)
+Kuan, Yi-Jehng        (NTNU)
+Lai, Shih-Ping        (NTHU)
+Wu, Jiun Huei        (NTU)
+
+
+Local Organizing Committee 
+-----------------------------
+Chen, Wei-Ming    (NIU: Co-Chair)
+Chu, Dai-Yung    (NIU)
+Huang, Chao-Hsi  (NIU)
+Huang, Gie-Wu    (NIU)
+Gu, Tien-Hsin    (NIU)
+Wang, Shiang-Yu  (ASIAA; Co-Chair)
+Wei, Emily        (ASIAA)
+
+===============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Thu,  1 Jan 2015 08:00:03 +0800 (CST)
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Chieh-An Lin (CEA Saclay)
+Topic:         A New Model to Predict Weak Lensing Peak Counts
+Time:         1/6 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Weak lensing has been shown to be a powerful tool for cosmology. In this talk, I will present a new model to study weak-lensing peaks, which contain rich non-Gaussian information. Based on a probabilistic approach, our model performs "fast simulations" to predict peak counts. This is based on two hypotheses: first, unbound and diffuse matter contributes little to peak abundance, and second, halo spatial correlation has a minor influence. The prediction carried out by our model is in a good agreement with N-body simulations, whereas the computation time has time largely reduced. I will highlight that our model can discriminate between various combinations of cosmological parameters, and that its high flexibility makes the use of peak counts under realistic survey conditions feasible.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Chien-Hsiu Lee (Munich University Observatory)
+Topic:         PAndromeda - a dedicated M31 survey with Pan-STARRS 1
+Time:         1/7 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The 3-year, high-cadence PS1 Andromeda survey yields well-sampled light curves that improve our understanding of microlensing and variables in M31. As a preliminary study, we discover 6 microlensing events in the inner bulge of M31. This demonstrates that deep data with good temporal resolution are essential to reveal microlensing events. We also explore the data for variability studies, and produce catalogs of ~300 eclipsing binaries, ~2000 Cepheids and other variables. We select bright eclipsing binaries for spectroscopic follow-up, to obtain a direct distance estimate of M31. We astromatrically align the multi-band Panchromatic Hubble Andromeda Treasury (PHAT) data to our PS1 images, and derive precise period-luminosity relation (PLR) for the Cepheids. The accurate distance and precise PLR will render M31 a distance anchor and help to reduce the error budget of Hubble constant. To fully exploit the value of PAndromeda, we welcome external collaborators, and can provide PS1
+  light curves with linked HST photometry upon request.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chau-Ching Chiong (ASIAA)
+Topic:         Instrumentation Challenges in the Era of SKA
+Time:         1/7 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Amy Lien (NASA/GSFC)
+Topic:         Ten years of Swift: The Third Swift Burst Alert Telescope Gamma-Ray Burst Catalog
+Time:         1/8 (Thursday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Gamma-ray bursts (GRBs) are one of the most energetic explosions in the universe, and can be observed across a wide range of wavelengths (from radio to GeV). Therefore, GRBs provide a rich environment to study astrophysics and a unique probe of cosmology, particularly the early universe. Swift, a multi-wavelength telescope dedicated to GRB study, marks its 10-year anniversary on Nov. 20, 2014. To date, Swift has discovered ~ 920 GRBs, within which ~ 315 GRBs have redshift measurements, ranging from z=0.03 to z=9.38. Here we focus on the Burst Alert Telescope (BAT) onboard Swift, the instrument that is responsible for triggering GRB detections. We present summaries of the BAT-detected GRBs for the past ten years, including temporal and spectral analyses of prompt emission and rest-frame properties. In addition, we perform searches for GRB emission beyond the event data (conventional data range for GRB analyses) using the BAT survey data, and report a list of GRBs with confirme
+d extended emission.
+
+
+*** CompAS Seminar ***
+____________________________________________________ 
+Speaker:    Prof. Daniel Pfenniger (Geneva Observatory, University of Geneva)
+Topic:         Sub-stellar fragmentation induced by a phase transition: theory and simulations
+Time:         1/8 (Thursday) 13:30 - 14:30
+Place:         R1108
+Abstract:
+The problem of gravitational instability and fragmentation in the
+presence of a phase transition is addressed.  The motivation is coming from
+the evidences of numerous ices of volatile molecules in the cold ISM, and
+especially that the conditions for H2 turning to ice are not very far in
+the coldest conditions.  A simple theory based on the virial theorem
+allows to guide molecular dynamics type particle simulations where gravity is
+combined.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

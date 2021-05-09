@@ -1,0 +1,243 @@
+From kuan Fri Jan  2 14:54 CST 1998
+Return-Path: <kuan>
+Received: by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02423; Fri, 2 Jan 1998 14:53:38 +0800
+Date: Fri, 2 Jan 1998 14:53:38 +0800
+From: kuan (Yi-Jehng Kuan)
+Message-Id: <9801020653.AA02423@biaa17.biaa.sinica.edu.tw>
+To: astro@biaa17.biaa.sinica.edu.tw
+Subject: TAN and Happy New Year!
+Content-Type: text
+Content-Length: 11339
+Status: R
+
+Table of Contents
+Item    Subject
+===================
+  #1	Phone numbers in the metropolitan area of Taipei
+  #2	China Times and TAOS
+  #3	NSC travel fund -- my 2 cents
+  #4    The TAN mailing list -- 1998 version
+ 
+----------------------------------------------------------------------------
+Subject: #1 Phone numbers in the metropolitan area of Taipei
+
+For those TAN subscribers who live outside Taiwan, this is to inform 
+you that the telephone numbers in the metropolitan area of Taipei are
+now become 8-digits, namely, you need to add a number '2' as a prefix
+to the original 7-digit numbers.
+
+----------------------------------------------------------------------------
+Subject: #2 China Times and TAOS
+
+There was a follow-up report on TAOS appearing on the China Times.
+This was sort of the 'correction' report. In case you haven't read it, 
+please refer to the Dec 31th issue.  Apparently Typhoon's action did
+make some difference.
+
+----------------------------------------------------------------------------
+Subject: #3 NSC travel fund -- my 2 cents
+
+As some of TANists may know already, the current NSC policy for funding
+oversea observing trips is quite unreasonable.  I am glad that the
+issue was finally brought to the open.  Thanks to Darwin Chang
+(even though he is leaving NSC and we astronomers can only get 5 cents
+from this particular physicist:-)  IMHO, I think Darwin's plan is very
+good and is in practice feasible as long as Director Ku doesn't object.
+The question for us NOW is "should we do it or not?"
+
+Here are a few things I think which might need to be strsightened out first:
+
+a) The AS contribution.  We need to work out some kind of formula here
+obviously and that will not be easy.  For instance, If AS does decide 
+to join the plan and contribute some money to the fund, then will
+NSC grant the travel money to (AS) postdoc fellows?
+
+b) The initial funding from NSC.  What is the current level of NSC travel
+funding?  How many oversea observing trips is it equivalent to?  If the 
+number falls on the low side, say, a single digit, then it won't be very
+helpful at all and apparently it won't attract AS to join either.
+
+c) The process time.  How fast can we get the application approved?
+Many international observatories review the observing proposals 
+by seasons.  In other words, the turn-around time between proposal
+approvals and the actual observing date sometime can be quite short
+(less than one month in some extreme cases).  So a quick response
+time would be a critical factor for the plan.
+
+That's my 2 cents.
+
+Yi-Jehng
+
+----------------------------------------------------------------------------
+Subject: #4 The TAN mailing list -- 1998 version
+
+Dear TANists, Attached below please find the up to date TAN mailing 
+list. You may find that some of your research interests are not perfectly
+reflected.  I am sorry if this happens and please don't hesitate to 
+inform me.  Hope you will find this list useful.
+
+Yi-Jehng
+
+ps: Students are marked as "(xS)".
+
+----------------------------------------------------------------------------
+
+
+==============================================================================
+
+(Taiwan)
+
+alchen@sgrb2.geos.ntnu.edu.tw (Chen, An-Le)             optical
+andrew@joule.phy.ncu.edu.tw (Wang, Jen-Hong)		observational (DS)
+andy@biaa.sinica.edu.tw (Wang, Yen-Hong)		radio (MS)
+anja@zwicky.phy.ncu.edu.tw (Schroder, Anja)		Optical/extragalactic
+byun@haneul.phy.ncu.edu.tw  (Byun, Yong-Ik)		extragalactic/IR
+candy@sgrb2.geos.ntnu.edu.tw (Ho, Ming-Fang)		(MS)
+chang@biaa.sinica.edu.tw  (Chang, Cheng-Ji)		galactic center (MS)
+chang@phys.nthu.edu.tw (Chang, Darwin)			particle, field, stat
+chin@biaa.sinica.edu.tw (Chin, Chi-Chung)		mm receiver
+chiueh@phyast.phy.ncu.edu.tw  (Chiueh, Tzihong)		fluid, plasma
+chou@phys.nthu.edu.tw  (Chou, Dean-Yi)			solar
+chou@halley.phy.ncu.edu.tw (Chou, Chih-Kang)            astrophys,star formation
+cikuo@mbm1.scu.edu.tw (Kuo, Chung-I)			gravitation
+clchen@sgrb2.geos.ntnu.edu.tw (Chen, Chia-Long)         (S)
+clkuo@biaa.sinica.edu.tw  (Kuo, Chao-Lin)		bar-spirals
+clw@biaa.sinica.edu.tw (Chen, Lin-Wen)			X-ray, intergalactic
+cmko@phyast.phy.ncu.edu.tw  (Ko, Chung-Ming)		cosmic rays
+dlnewq@s867.thu.edu.tw (David Newq ?)                   astronomy, atmospheric
+d832002@joule.phy.ncu.edu.tw (Tseng, Yau-Hwon)		(DS)
+d837303@phys.nthu.edu.tw (Mu, Taomo)			(DS) helioseismology
+einmann@biaa21.biaa.sinica.edu.tw  (Chin, Yi-Nan)	molecular spectroscopy
+fu@sgrb2.geos.ntnu.edu.tw (Fu, Hsieh-Hai)		solar, optical
+griv@biaa.sinica.edu.tw  (Uri Griv)			fluid, ring systems
+hkchang@phys.nthu.edu.tw (Chang, Hsiang-Kuang)		pulsars/gamma ray
+hlee@astro.geos.ntnu.edu.tw (Lee, Huan-Gee)		solar (MS)
+hsieh@mbm1.scu.edu.tw (Hsieh Shyu-Hsien)                grav. field, astrophys.
+hspring@sgrb2.geos.ntnu.edu.tw (Huang, Hui-Chun)	globular cluster (MS)
+htcho@mail.tku.edu.tw (Cho, Hing-Tong)			gravitation & cosmology
+htsu@mail.ncku.edu.tw (Su, Han-Tzong)			nonlinear, general
+hwang@biaa.sinica.edu.tw (Hwang, Chorng-Yuan)  		EUV,soft X, AGN, Seyfert
+issac@hntp2.hinet.net (Su, Jun-Ming) 			Pres. Kaoshung astro soc
+jcyeh@biaa.sinica.edu.tw  (Yeh, Jung-Cheng)		antenna
+jim@sun1.phys.tku.edu.tw (Lee, Jing)			RA
+jlim@biaa.sinica.edu.tw  (Jeremy Lim)			radio stars
+jyliaw@ms1.hinet.net (Eric J.-Y. Liaw)		    aeronautics & astronautics
+kuan@sinica.edu.tw  (Kuan, Yi-Jehng)			astrochemistry
+loudagh@phys.nthu.edu.tw  (Loudagh, Said)		helioseismology & solar
+loulee@plasma.et.ncku.edu.tw (Lee, Louquan)		solar plasma
+m849007@joule.phy.ncu.edu.tw				(MS)
+m859001@joule.phy.ncu.edu.tw				(MS)
+m859002@joule.phy.ncu.edu.tw				(MS)
+m859003@joule.phy.ncu.edu.tw				(MS)
+m859004@joule.phy.ncu.edu.tw				(MS)
+m859005@joule.phy.ncu.edu.tw				(MS)
+m859006@joule.phy.ncu.edu.tw				(MS)
+m859007@joule.phy.ncu.edu.tw				(MS)
+m859008@joule.phy.ncu.edu.tw				(MS)
+m859009@joule.phy.ncu.edu.tw				(MS)
+m859010@joule.phy.ncu.edu.tw				(MS)
+m869001@joule.phy.ncu.edu.tw				(MS)
+m869002@joule.phy.ncu.edu.tw				(MS)
+m869003@joule.phy.ncu.edu.tw				(MS)
+m869004@joule.phy.ncu.edu.tw				(MS)
+m869005@joule.phy.ncu.edu.tw				(MS)
+m869006@joule.phy.ncu.edu.tw				(MS)
+m869007@joule.phy.ncu.edu.tw				(MS)
+m869008@joule.phy.ncu.edu.tw				(MS)
+m869009@joule.phy.ncu.edu.tw				(MS)
+m869010@joule.phy.ncu.edu.tw				(MS)
+m869011@joule.phy.ncu.edu.tw				(MS)
+m869012@joule.phy.ncu.edu.tw				(MS)
+m869013@joule.phy.ncu.edu.tw				(MS)
+m869014@joule.phy.ncu.edu.tw				(MS)
+mchen@biaa.sinica.edu.tw  (Chen, Ming-Tang)		mm receiver
+minho@biaa.sinica.edu.tw  (Minho Choi)			star formation
+mingjye@biaa.sinica.edu.tw  (Wang, Ming-Jye)		mixer
+mountain@earth.sinica.edu.tw (Shen, Chun-Shan, Jr.)     geochemistry, isotopes
+mpc@biaa.sinica.edu.tw (Chen, Frank)                    computer system 
+mshwang@biaa.sinica.edu.tw (Hwang, Mao-Shu)             microwave
+ngkl@phys.sinica.edu.tw (Ng, Ka Lok)			cosmology, computer
+nkw@phys.sinica.edu.tw  (Ng, Kin-Wang)			cosmology
+ohashi@biaa.sinica.edu.tw (Nagayoshi Ohashi)		star formation
+panis@biaa.sinica.edu.tw (Jean-Francois Panis)		turbulence/mol. clouds
+raffin@biaa.sinica.edu.tw (Philippe Raffin)		antenna
+rrhsu@mail.ncku.edu.tw  (Hsu, Ray-Rong)			cosmology
+rosie@joule.phy.ncu.edu.tw (Chen, Chian-Hui)		magnetic field
+scheng@sgrb2.geos.ntnu.edu.tw (Cheng, Snowf)		(S)
+shen@biaa.sinica.edu.tw (Shen, Sung-Shiou)              microwave
+shuihu@biaa.sinica.edu.tw (Hu, Shu-I)                   antenna
+skking@nspo.gov.tw (King, Sun-Kun)		
+sun@phyast.phy.ncu.edu.tw  (Sun, Wei-Hsin)		space astronomy
+TCG01102@missbbs.tcg.gov.tw (Tau, Fan-Lin)		education
+tchang@biaa.sinica.edu.tw (Chang, Tsi-Jin)		(S)
+thuang@sgrb2.geos.ntnu.edu.tw (Huang, Tonka)		(S)
+tsay@phyast.phy.ncu.edu.tw  (Tsay, Wen-Shean)		optical, site survey
+tseng@biaa.sinica.edu.tw (Tseng, Chen)			general
+typhoon@biaa.sinica.edu.tw  (Lee, Typhoon)		cosmochemistry
+uen@sgrb2.geos.ntnu.edu.tw (Uen, Jye-Shine)             (S)
+wangsc@phys.sinica.edu.tw (Wang, Sun-Cheng)             high energy astrophys
+wchen@phyast.phy.ncu.edu.tw  (Chen, Wenping)		binary
+wency@biaa.sinica.edu.tw (Wen, Chih-Yi)                 receiver
+whwang@biaa.sinica.edu.tw (Hwang, Wei-Hao)		(MS)
+wtni@phys.nthu.edu.tw  (Ni, Wei-Tou)			gravitation
+wu@phyast.phy.ncu.edu.tw (Wu, Hsin-Hen)                 obs., atomic/molecular
+wyhwang@phys.ntu.edu.tw  (Hwang, Wen-Yen)		nuclear physics
+yjhwang@biaa.sinica.edu.tw  (Hwang, Yuh-Jing)		mm receiver
+yjjeng@csrsr.ncu.edu.tw; Jeng, Yung-Jyh)		(DS)
+yu@earth.sinica.edu.tw (Hsu, Wen-Yu)                    astrophysics
+ynsu@scorpio.phy.ncu.edu.tw (Su, Yu-Nung) 		(DS), BATC data manager
+
+
+(Oversea)
+
+achian@dge.inpe.br (Chian, Abraham)			interplanetary plasma
+chinfei@astro.umd.edu (Lee, Chinfei)			star formation (DS)
+Claudia.Lemme@dlr.de (Lemme, Claudia)                   radar astronomy
+CHIU@mite.gsfc.nasa.gov (Chiu, Hong-Yee)                nuclear astrophysics
+chu@astro.uiuc.edu (Chu, You-Hua)			ISM, SNR, HII, PN, LMC
+cpma@dept.physics.upenn.edu (Ma, Chung-Pei)		Cosmology
+cw5b@algol.astro.virginia.edu (Wang, Chih-Yueh)		(DS)
+eyoung@as.arizona.edu (Erick T. Young)			IR/instrument
+fan@oddjob.uchicago.edu (Fan, Zuhui)                    cosmology
+gli@nuptze.astro.utoronto.ca (Li, Gang Jonathan)	extragalactic, medical
+hchen@sbast3.ess.sunysb.edu (Chen, Hsiao-Wen)		(DS; extragalactic)
+ho@lanl.gov (Ho, Cheng)					pulsars/gamma ray
+ho@cfa.harvard.edu (Paul T.P. Ho)			star formation
+iei002@limbo.cso.uiuc.edu (Ho, Ching-Hwa)		PPN, X-ray
+ip@linax2.dnet.gwdg.de (Ip, Wing-Huen)			solar system, plasma
+jcwang@astro.umd.edu (Wang, John C. L.)			MHD
+J.H.P.Wu@damtp.cam.ac.uk (Wu, Jiun-Huei Proty)          cosmology, strings (DS)
+jiang@thphys.ox.ac.uk (Jiang, Ing-Guey)			fluid
+jlee@astro.yale.edu (Lee, John)				photometry
+jzhao@cfa.harvard.edu (Zhao, Jun-Hui) 			GC, extragalactic
+kcheng@ccvax.fullerton.edu (Cheng, K.P.)		T Tauri, IR
+ko@umdsp.umd.edu (Ko, Yuan-Kuen)		PDR, accretion disk, solar wind
+kwok@iras.ucalgary.ca (Sun Kwok)			planetary nebulae, IR
+kyl@astro.uiuc.edu  (Fred Lo)				extragalactic, GC 
+leungc@rpi.edu (Leung, Chun Ming)                       astrochemistry
+lin@sunspot.noao.edu (Lin, Haosheng)			solar
+lin@egret0.stanford.edu (Lin, Ying-Chi)			gamma ray
+lin@lick.ucsc.edu (Douglas N.C. Lin)			planet formation
+lou@oddjob.uchicago.edu (Lou, Yu-Qing)                  cosmology
+LU@wcsub.ctstateu.edu (Phillip K. Lu)			spetrophotometry/stars
+mliu@astro.berkeley.edu (Michael Liu)			extragalactic/IR
+shang@minerva.berkeley.edu (Shang, Hsien)		star formation (DS)
+shu@bkyast.berkeley.edu (Frank Shu)			astrophysics
+slai@astro.uiuc.edu (Lai, Shih-Ping)			radio (DS)
+soong@lheavx.gsfc.nasa.gov (Soong, Young)		x-ray instrumentation
+span2@nrao.edu (Pan, Shing-Kuo)				mm receiver
+syliu@astro.uiuc.edu (Liu, Sheng-Yuan)			radio (DS)
+taam@ossenu.astro.nwu.edu (Ronald E. Taam)		binary
+thomas@astro.as.utexas.edu (Chang, Hsiao-Wei Thomas)	(DS)
+upen@astro.princeton.edu (Pen, Ue-Li)			cosmology
+wenchien@physics.utexas.edu (Chou, Wenchien)		plasma, 3D MHD (DS)
+wus@cspar.uah.edu (S.-T. Wu)                            plasma, solar
+YLY@mercu1.gps.caltech.edu (Yung, Yuk Ling)		planetary
+ysu@iras.ucalgary.ca (Su, Yu-Ling)			planetary nebula (DS)
+YTL@mercu1.gps.caltech.edu (Lee, Yuan-Tie Anthony)	planetary
+yuan@scisun.sci.ccny.edu (Yuan, Chi)			bar-spirals
+
+=============================================================================== 
+
+

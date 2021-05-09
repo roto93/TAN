@@ -1,0 +1,51 @@
+> Date: Thu, 8 Jun 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Yusuke Aso (ASIAA)
+Topic:         ALMA observations of a very young protostar newly found in Serpens Main
+Time:         6/12 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Masahiro Takada (Kavli IPMU)
+Topic:         Microlensing constraints on 10^{-10}Msun-scale primordial black holes from high-cadence observation of M31 with Hyper Suprime-Cam
+Time:         6/13 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+We use the Subaru Hyper Suprime-Cam (HSC) to conduct a high-cadence (2 min sampling) 7~hour long observation of the Andromeda galaxy (M31) to search for the microlensing magnification of stars in M31 due to intervening primordial black holes (PBHs) in the halo regions of the Milky Way (MW) and M31. The combination of an aperture of 8.2m, a field-of-view of 1.5 degree diameter, and excellent image quality (~ 0.6'') yields an ideal dataset for the microlensing search. If PBHs in the mass range M_PBH=[10^{-13},10^{-6}]Msun make up a dominant contribution to dark matter (DM), the microlensing optical depth for a single star in M31 is tau~10^{4}-10^{-7}, owing to the enormous volume and large mass content between M31 and the Earth. The HSC observation allows us to monitor more than tens of millions of stars in M31 and in this scenario we should find many microlensing events. To test this hypothesis, we extensively use an image subtraction method to efficiently identify candidate !
+variable objects, and then monitor the light curve of each candidate with the high cadence data. Although we successfully identify a number of real variable stars such as eclipse/contact binaries and stellar flares, we find only one possible candidate of PBH microlensing whose genuine nature is yet to be confirmed. We then use this result to derive the most stringent upper bounds on the abundance of PBHs in the mass range. When combined with other observational constraints, our constraint rules out almost all the mass scales for the PBH DM scenario where all PBHs share a single mass scale.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Naonori Sugiyama (Kavli IPMU)
+Topic:         Kinematic Sunyaev-Zel'dovich Effect
+Time:         6/14 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Over the past few years, cosmologists have been able to make the first detections of the kinematic Snuyaev-Zel'dovich (kSZ) effect by combining galaxy data with measurements from CMB experiments. The kSZ effect is well-suited for studying properties of the optical depth of halos hosting galaxies or galaxy clusters. As the measured optical depth via the kSZ effect is insensitive to gas temperature and redshift, the kSZ effect can be used to detect ionized gas that is difficult to observe through its emission, so-called "missing baryons".  This work presents the first measurement of the kSZ signal in Fourier space.  While the current analysis results in the kSZ signals with only evidence for a detection, the combination of future CMB and spectroscopic galaxy surveys should enable precision measurements. This talk emphasizes the potential scientific return from these future measurements.
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Kohei Hayashi (Kavli Institute for Astronomy and Astrophysics)
+Topic:         Dark matter in the Galactic dwarf spheroidal galaxies
+Time:         6/16 (Friday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The dwarf spheroidal galaxies (dSphs) in the Milky Way are excellent laboratories to shed light on fundamental properties of dark matter because these galaxies are the most dark matter dominated systems. DSph galaxies also have the advantage that we can measure very accurate line-of-sight velocities for resolved member stars. Therefore, using these high-quality data, we are able to constrain internal structure of their dark halos. In the first part of my talk, I will present the constraint on candidate dark matter particles through indirect searches for their annihilations from non-spherical dark halo in the Galactic dSphs. I also show that Prime Focus Spectrograph mounted on Subaru telescope will play an important role in getting an insight into the nature of dark matter particles by synergy between space and ground-based telescopes. In the second part, I will propose the universal dark halo scaling relation for the dSphs. This scaling relation would not be largely affected!
+  by any baryonic feedbacks, hence it is good tracer to compare between observed and simulated dark halos. Using high-resolution N-body simulations based on Lambda cold dark matter (LCDM) universe, we find that this relation from observed dSphs is in good agreement with those from pure dark matter simulations. Therefore, LCDM models can reproduce the observed dark halo properties even on small mass scales without baryonic uncertainties.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,531 @@
+From astro@iaa17.asiaa.sinica.edu.tw Tue May  3 03:10:15 2011
+Date: Tue, 3 May 2011 03:04:10 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Apr 27 - May 02, 2011)
+
+============================================================================== 
+
+In this issue (Apr 27 - May 02, 2011)
+
+1. ASIAA/NTU CCMS/NTU Physics Joint Colloquium (May 3): Oliver Gutfleisch (IFW Dresden)
+2. ASIAA Colloquium/special seminar (May 04): Thomas Greve (Niels Bohr Inst)
+                                    (May 06): Xander Tielens (Leiden Obs)
+3. Challenges in Astronomy: Observational Advances/CPS 8th planetary school
+4. Reminder: ALMA User Workshop May 21-22
+
+==============================================================================
+
+> Date: Thu, 28 Apr 2011 17:04:08 +0800
+Message-ID: <BANLkTikfMHOAS_C_Wm_CygQugyUVdoPL7w@mail.gmail.com>
+> Subject: ASIAA/NTU CCMS/NTU Physics Joint Colloquium, May 3
+> From: Chien-Fu Liu <chienfuliu@gmail.com>
+> To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+>         ithuang@phys.sinica.edu.tw, mathas@math.sinica.edu.tw,
+>         whchen@gate.sinica.edu.tw, tofaculty@phys.ntu.edu.tw,
+>         demihuang@ms.ntu-ccms.ntu.edu.tw, iaa@asiaa.sinica.edu.tw,
+>         astro@asiaa.sinica.edu.tw, Jiunn-Wei Chen <jwc@phys.ntu.edu.tw>,
+>         Chih-Wei Chang <cwchang137@ntu.edu.tw>,
+>         Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+
+Dear Colleagues,
+
+The NTU Physics Department, NTU Center for Condensed Matter Science, and th=
+e
+Academia Sinica Institute of Astronomy and Astrophysics invite everyone to
+our joint colloquium series. The speakers are all famous international
+scholars and the colloquia are aiming at a broad audience, including
+undergraduate students. Below is the information of the talk on May 3
+(Tuesday). Please help to forward this to the colleagues in your
+departments.
+
+Best Regards,
+Jiunn-Wei Chen (NTU Physics)
+Chih-Wei Chang (NTU CCMS)
+Wei-Hao Wang (ASIAA)
+
+_______________________________________________________
+Speaker: Oliver Gutfleisch, IFW Dresden
+Topic: Magnetic Materials in Sustainable Energy
+Time: 5/3 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCM-New Physics Building
+
+Abstract: A new energy paradigm, consisting of greater reliance on renewabl=
+e
+energy sources and increased concern for energy efficiency in the total
+energy lifecycle, has accelerated research in energy-related technologies.
+Due to their ubiquity, magnetic materials play an important role in
+improving the efficiency and performance of devices in electric power
+generation, conversion and transportation. Magnetic materials are essential
+components of energy applications (i.e. motors, generators, transformers,
+actuators, etc.) and improvements in magnetic materials will have
+significant impact in this area, on par with many =93hot=94 energy material=
+s
+efforts (e.g. hydrogen storage, batteries, thermoelectrics, etc.).
+The lecture focuses on the state-of-the-art hard and soft magnets and
+magnetocaloric materials with an emphasis on their optimization for energy
+applications. Specifically, the impact of hard magnets on electric motor an=
+d
+transportation technologies, of soft magnetic materials on electricity
+generation and conversion technologies, and of magnetocaloric materials for
+refrigeration technologies, will be discussed.
+The synthesis, characterization, and property evaluation of the materials,
+with an emphasis on structure-property relationships, will be examined in
+the context of their respective markets as well as their potential impact o=
+n
+energy efficiency.
+Finally, considering future bottle-necks in raw materials and in the supply
+chain, options for recycling of rare-earth metals will be analysed.
+
+Brief Bio: Dr. Gutfleisch is a research fellow and the "Functional Magnetic
+Materials and Hydrides" group leader at IFW Dresden. He is also a visiting
+professor of the Imperial College London, and a visiting advisor of NIMS
+Tsukuba. He has 180 publications in refereed journals in high performance
+permanent magnets for E-mobility and energy applications, magnetocaloric
+materials and magnetic cooling, ferromagnetic shape memory alloys, and soli=
+d
+state hydrogen storage.
+*
+*
+For more information please see:
+http://web.phys.ntu.edu.tw/jwc/2011_Spring_colloquia/Joint%20colloquia.html
+
+==============================================================================
+
+> Date: Sun, 1 May 2011 08:00:02 +0800
+Message-Id: <201105010000.p41002ef007873@cloudy1.asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Prof. Xander Tielens (Leiden Observatory)
+Topic:		Polycyclic Aromatic Hydrocarbon molecules in Space
+Time:		5/6 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+Abstract:
+Strong IR emission features at 3.3, 6.2, 7.7, 8.6, and 11.2 ??m are a common characteristic of regions of massive star formation in the Milky Way and nearby galaxies and out to redshifts of ~3. These features are carried by large (??? 50 C-atom) Polycyclic Aromatic Hydrocarbon molecules, which are pumped by the strong FUV photon flux from these stars. ISO/SWS and Spitzer/IRS studies have revealed the richness of the interstellar IR emission spectrum and the variations therein. These variations reflect variations in the physical conditions of the emitting regions.
+
+Over the last 10-20 years, extensive experimental and theoretical studies have elucidated the intrinsic infrared properties of large PAH molecules and their dependence on the molecular characteristics. We are now reaching a stage where we can use the observations of the IR emission spectrum as diagnostic tools to determine the physical conditions in the emitting regions of particular regions of star formation.
+
+Observations have shown that PAH molecules are abundant and ubiquitous in the interstellar medium. Conversely, PAHs may also be a dominant ???force??? in the interstellar medium. In particular, PAHs dominate the photoelectric heating of interstellar gas and thereby shape the phase (cloud/intercloud) structure of the ISM. PAHs are also the dominant negative charge carriers inside dense molecular cloud cores and, hence, regulate the charge balance of molecular gas. Thus, PAHs control the ambipolar diffusion process and the onset of gravitational collapse.
+
+Because the IR emission features dominate the IR spectrum of regions of massive star formation, these bands are often used as proxies to determine the importance of star formation on galactic scales. Specifically, the importance of star formation versus AGN activity for the luminosity source of ULIRGs is based upon a quantitative interpretation of the observed PAH emission from galactic nuclei.
+I will review these different aspects of interstellar IR spectra, the extensive laboratory studies on the spectroscopic and chemical properties of PAHs, their relationship to the intrinsic properties of PAHs, the role of these PAHs in shaping the universe around us ??? in particular through the star formation process ??? and the use of PAH emission spectra as quantitative indicators of star formation.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:	Dr. Thomas Greve (Niels Bohr Institute)
+Topic:		TBA
+Time:		5/4 (Wednesday) 14:00 - 15:00
+Place:		ASMAB R1203
+
+
+==============================================================================
+
+> From: Takayuki Tanigawa <tanigawa@cps-jp.org>
+> Date: Mon, 2 May 2011 17:59:59 +0900
+> Subject: Challenges in Astronomy: Observational Advances / CPS 8th planetary school
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Prof. Kuan,
+
+Would you please announce the info of the CPS school via TAN?
+I was a postdoc at ASIAA before and this is the second circular of
+CPS 8th planetary school.  The first circular was forwarded by Naomi.
+
+Thank you in advance,
+
+Takayuki Tanigawa
+Center for Planetary Science / ILTS, Hokkaido University
+
+------
+Second Circular - REGISTRATION IS NOW OPEN-
+
+---A Message from the Seminar/School Chair, Prof. Hiroshi Shibai---
+The disaster caused by the huge earthquake and tsunami of 11 March is now
+being overcome with extraordinary efforts by Japanese people as well as
+through international cooperation initiated by many countries. The problem of
+the six nuclear reactors is being addressed, though not quickly but through a
+step-by-step approach. The reactors are cooled with plenty of water in order
+to restrain nuclear reactions. The emanation of radioactive materials is still a
+severe problem. The Japanese government and the owner of the crippled
+nuclear power plants, the Tokyo Electric Power Company, are devoting their
+efforts to stop these leaks.
+
+Fortunately, our Seminar/School has not been affected at all by these
+problems. The conference place in Awaji Island and KAMIOKANDE as well as
+Osaka University and CPS are located in the western part of Japan, while the
+nuclear reactors hit by the earthquake and tsunami are located in the
+north-eastern part. The distance between the conference location and the
+nuclear reactors is approximately 800 km, which is too great to be affected by
+radioactive material. The electric power of our area has remained stable, since
+we have a different electrical system in the western part of Japan. Therefore,
+we have had neither damage nor other adverse effects due to this disaster.
+
+Given these circumstances, we hope that many foreign and Japanese
+participants will come to join this seminar/school with no apprehension. If we
+do have any changes in the environment that may affect the program, then we
+will inform all of you immediately.
+----------------------------------------------------------------------------------------------------------
+
+Joint Assembly:
+      JSPS-DST Asia Academic Seminar
+      CPS 8th International School of Planetary Sciences
+Date: 26 September - 1 October 2011
+      1-3 October 2011 for a facility tour [only for a limited number
+of participants]
+Venue: Minami-Awaji Royal Hotel
+Address: 317 Fukurahei, Minamiawaji, Hyogo 656-0503, Japan
+Phone: +81 799 52 3011
+Fax:    +81 799 52 3770
+      Japanese site:http://www.daiwaresort.co.jp/awaji/index.html
+???       English site: http://www.daiwaresort.co.jp/english/20_awaji.html
+
+[Facility tour from Awaji]
+Planned location: Kamioka Observatory
+      Japanese site:http://www-sk.icrr.u-tokyo.ac.jp/
+English site: http://www-sk.icrr.u-tokyo.ac.jp/index-e.html
+
+OBJECTIVE AND SCOPE:
+The objective of the school/seminar is to promote education and research in
+planetary sciences for highly motivated graduate students and young
+researchers by providing them with an opportunity to interact with leading
+scientists in a specific field. Note that the term ???Planetary
+Sciences??? is used in
+a broader sense to include astronomy, astrophysics, astrochemistry,
+astrobiology, astromineralogy, geosciences, space science, cosmology, and
+other related fields.
+The eighth school is jointly held with the Asian Academic Seminar hosted by
+JSPS, Japan, and DST, India, for providing Asian young researchers with
+intensive training in areas of Astronomy and Space Science. The seminars
+comprise lectures by experts in the subject fields, discussions,
+practical training,
+study visits and other components.
+
+Topic of the coming school:
+Challenges in Astronomy: Observational Advances
+
+The main part of the school will be a series of lectures on 'Recent and Future
+Advances in Observational Astronomy.' The observational part of astronomy
+has revealed various, important phenomena in the Universe collaborating with
+theoretical works, and advancing fronts in well-established parts, e.g.,
+optical-infrared, radio, high-energy radiations. Furthermore, the gravitational
+wave is expected to be detected in near future, and the advancement of ???virtual
+observatory??? would enable astronomers to conduct multi-wavelength
+data-incentive research, as the 4th paradigm in astronomy. Young astronomers
+are expected to learn about world-wide trend for constructing a wider and
+concrete base of their own research.
+
+PROGRAM
+Attached below is the program of the school. The schedule may change
+without notice. Please visit our official school website for the
+detailed and updated program:
+https://www.cps-jp.org/~pschool/pub/2011-09-26/index.html
+
+
+WHO ARE THE TARGET PARTICIPANTS?
+      -       PhD students, postdocs, and young research/academic staff who
+have a good command of English
+This school is not intended for bachelor, diploma, and master???s students
+
+HOW TO APPLY?
+Please go to the following webpage for registration:
+https://www.cps-jp.org/signup/pschool8?ml_lang=en
+Note that your abstract, A4 size one page, in pdf format, has to be uploaded
+upon registration.
+First, create your CPS account at this page, unless you already have an
+account.
+Then, go to CPS website https://www.cps-jp.org/ and login with your CPS
+User ID you have registered.
+You will see ???JSPS-DST Asia Academic Seminar/CPS 8th International School
+of Planetary Sciences??? at the right column. Click there and go to ???Participation
+Register/View??? or ???Presentation Register/View??? to start registration or abstract
+uploading.
+
+---Things to note when you fill in the registration form---
+      1.      Poster Presentation: If you are applying CPS travel grant, choose
+              ???yes???, otherwise, you will not be considered as a grant
+applicant.
+      2.      Reference: This field is for participants only. Input
+the name, title,
+              and affiliation of a person who will give us a letter
+of recommendation.
+      3.      Departing City: The name of the city where you are
+departing from,
+              usually where your institution is.
+      4.      Date of entry to Japan/Date of departure from Japan: For those
+              who are coming from outside of Japan, please indicate
+your planned
+              date for entry/departure to and from Japan. For those
+coming within
+              Japan, please key in the date of your scheduled
+departure to and from
+              Minamiawaji.
+      5.      Do you need a visa to Japan?: Follow this link to check
+if you need
+              an entry visa to Japan http://www.mofa.go.jp/j_info/visit/visa/.
+
+      -       Registration and abstract submission must be completed
+by 18 May 2011
+      -       Should you wish to apply for our travel grant, both the
+application form
+              (incl. of an abstract) and the letter of recommendation
+must reach us by
+              10 May 2011
+
+HOW ARE PARTICIPANTS SELECTED AND WHO MAKES THE FINAL DECISION?
+      -       SOC will evaluate the level and suitability of
+applicant's works to the school
+      -       The school chair will make the final decision and
+applicants are notified
+              accordingly
+
+NEED A TRAVEL GRANT?:
+      -       Indicate your intention in the application form
+      -       Do arrange a letter of recommendation and send it by email to us
+              <pschool-8rgst@cps-jp.org>; the letter has to reach us
+no later than 10
+              May 2011
+      -       Successful applicants are obliged to present a poster
+in the poster session
+              and to contribute in archiving lecture materials
+      -       Note that the available funds are limited and the grant
+may not cover ALL
+               of your expenses
+      -       The final decision for travel grant application and the
+amount will be at
+              the LOC???s discretion
+      -       The deadline for travel grant application is 10 May 2011
+
+
+SHORT TALK AND POSTER PRESENTATION:
+      -       Should you wish to present your poster, do indicate
+your intention
+              upon registration.
+      -       Successful applicants for registration will be given
+1-minute, without
+              discussion time, each for a short oral presentation of
+the poster. Please
+              upload your short talk slide file by 14 September 2011.
+      -       Short talks and poster presentations are video-recorded
+and to be open
+              to public through the CPS website.
+      -       Your poster PDF file should be uploaded to the CPS
+server by 12 October
+              2011.
+
+
+REGISTRATION FEE:
+10,000JPY. Please pay at the seminar/school registration desk when you register
+BY CASH.
+
+ACCOMMODATION:
+Participants:
+      -       3 persons share one Western/Japanese style room equipped with a
+              bathroom
+
+Lecturers:
+      -       Western style rooms with a bathroom are available for single use
+
+Rates per person in Japanese Yen
+Standard, 3 in 1 room ; 47,000
+Single Use                   ; 62,000, reserved for Lecturers
+
+Access:
+Please refer to the following link
+https://www.cps-jp.org/~pschool/pub/2011-09-26/index.html
+
+Important Dates:
+All deadline times are 23:59 Japanese Standard Time, UTC+9
+11 April 2011           First Day for Registration Application
+10 May 2011             Travel Grant Application Deadline
+18 May 2011             Registration Application Deadline
+18 May 2011             Abstract Submission Deadline
+31 May 2011             Result Notification
+14 September 2011       Short Talk Slide File Upload Deadline
+26 September 2011       JSPS-DST Asia Acad. Seminar/CPS Int'l Sch. of
+Planet. Sci.
+12 October 2011         Poster PDF File Upload Deadline
+
+
+PROGRAM
+
+Monday 26 September
+
+1500-1800 Registration
+
+1800-2100 Opening Reception
+
+Tuesday 27 September
+
+0730-0845 Breakfast
+
+0845-0900 Opening Keynote: Yoshitsugu Nakagawa (CPS, Japan)
+
+0900-1015, 1045-1200
+Lecture I: Sebastian Wolf (Univ. of Kiel, Germany)
+      The Birthplace of Planets : Observations and Modeling of Circumstellar
+      Disks
+
+1230-1330 Lunch
+
+1400-1515, 1545-1700
+Lecture II: David Bennett (Univ. Notre Dame, USA)
+      Detection of Extrasolar Planets by Gravitational Microlensing from the
+      Ground and Space
+
+1800-1900 Dinner
+
+1900-2100 Poster
+
+Wednesday 28 September
+
+0730-0900 Breakfast
+
+0900-1015, 1045-1200
+Lecture III: Annapurni Subramaniam (IIA, India)
+      Probing the Geography, History, and Chemistry of Nearby Galaxies with
+      Future Telescopes
+
+1230-1330 Lunch
+
+1400-1515, 1545-1700
+Lecture IV: Ajit Kembhavi (IUCAA, India)
+      Virtual Observatories:  Tools and Applications
+Lecture IV: Masatoshi Ohishi (NAOJ, Japan)
+      Data Discovery in and Science Results by means of VOs
+
+1800-1900 Dinner
+
+1900-2100 Poster
+
+Thursday 29 September
+
+0730-0900 Breakfast
+
+0900-1015, 1045-1200
+Lecture V: Jayaram Chengalur (NCRA/TIFR, India)
+      Atomic Hydrogen in the Universe
+
+1230-1330 Lunch
+
+1400-1800 Excursion
+
+1800-1900 Dinner
+
+1900-2100 Free Discussions
+
+Friday 30 September
+
+0730-0900 Breakfast
+
+0900-1015, 1045-1200
+Lecture VI: Hideyo Kunieda (Nagoya Univ., Japan)
+      Violent Universe Explored by Japanese X-ray Sattellites
+
+1230-1330 Lunch
+
+1400-1515, 1545-1700
+Lecture VII: Nobuyuki Kanda (Osaka City Univ., Japan)
+      Frontier of Gravitational Wave Astronomy - Opening New Window of
+      Astrophysics and Cosmology -
+
+lecture 1 : Fundamentals of Gravitational Wave and its Detection
+lecture 2 : Physics, Astrophysics and Cosmology with Gravitational Waves
+
+1800-2100 Banquet
+
+Saturday 1 October
+
+0730-0900 Breakfast
+
+Facility Tour to Kamioka Observatory, for a limited number of participants only
+
+--
+Takayuki Tanigawa
+Center for Planetary Science / ILTS, Hokkaido University
+
+==============================================================================
+
+> Date: Mon, 2 May 2011 22:27:18 +0800 (CST)
+> From: Chin-Fei Lee <cflee@asiaa.sinica.edu.tw>
+> To: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> cc: "Inst. of Astronomy and Astrophysics." <iaa@asiaa.sinica.edu.tw>
+> Subject: Reminder: ALMA User Workshop May 21-22
+
+----------------------------------------------------------------
+                  ALMA Users Workshop
+                    May 21-22, 2011
+          Room 1203, Astronomy-Mathematics Building
+
+http://events.asiaa.sinica.edu.tw/workshop/20110521/index.php
+
+            Registration Deadline: May 7, 2011
+----------------------------------------------------------------
+Announcement:
+
+The Institute of Astronomy and Astrophysics at Academia Sinica (ASIAA)
+announces its third workshop for Taiwanese ALMA users. The workshop is
+oriented for all astronomers, regardless of specialty.
+
+The first call for proposals has been issued on March 30, 2011 for the ALMA
+Early Science (ES). This ALMA workshop is designed to provide information on
+the ES capabilities, ARC user support, Proposal Review Process, and to help
+users in preparing and submitting their proposals with the ALMA tools. There
+will be an open Q&A session for users to consult our ARC members with their
+questions. Also, there will be a proposal assessment session, in which users
+will present their proposals with scientific and technical justifications,
+each for about 20-30 mins, for the assessment. Users are encouraged to sign
+up for this session for sharpening their proposals! Additional workshops
+will be organized later to help users to prepare their observing programs
+(i.e., scheduling blocks) and to reduce their data.
+
+
+The organizing committee encourages all the Taiwanese astronomers and
+scholars interested in observing with ALMA to take part in this workshop.
+Students coming from outside Taipei City/County can apply for travel support
+from ASIAA for the transportation and accommodation, and this support is
+sponsored by tuCASA. Due to limited space and the hands-on nature of this
+workshop, participation will be limited to 50 people.
+
+Action items before coming to the workshop:
+
+    1. browse through all the presentation files in our 2nd ALMA user workshop
+    2. read through the ALMA ES Primer and the Science Web pages
+    3. work through a OT example and a SIMDATA example
+    4. register in the ALMA Science Portal and browse the helpdesk
+    5. have their own favorite proposals ready for technical assessment
+
+LOC
+    * Chin-Fei Lee (Chair)
+    * Sheng-Yuan Liu
+    * Shigehisa Takakuwa
+    * Yu-Nung Su
+    * Alfonso Trejo Cruz
+    * Linda Shao
+    * Suh-Lian Lin
+
+E-mail contact: cflee@asiaa.sinica.edu.tw
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

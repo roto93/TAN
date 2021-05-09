@@ -1,0 +1,131 @@
+
+Subject: FW: (asall 02090) Colloquium next week
+From: "Yi Chou" <yichou@astro.ncu.edu.tw>
+To: <astro@asiaa.sinica.edu.tw>
+Date: Fri, 2 Dec 2005 09:46:23 +0800
+
+
+Dear Yi-Jheng,
+ 
+Please distribute the following message to TAM
+ 
+Thanks
+ 
+
+Yi Chou
+
+Assistant Professor
+
+Astronomy Institute
+
+National Central University
+
+  _____  
+
+From: Yi Chou [mailto:yichou@astro.ncu.edu.tw] 
+Sent: Friday, December 02, 2005 9:40 AM
+To: asall ML
+Sent: Friday, December 02, 2005 9:40 AM
+To: asall ML
+Subject: (asall 02090) Colloquium next week
+
+
+           _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/ _/_/              
+         _/                                                   _/
+       _/      NCU Astronomy Colloquium     _/
+     _/                                                    _/
+   _/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/ 
+ 
+ 
+Please note that we have a special colloquium on Thursday morning and a
+two-hour Friday colloquium (3 speakers).
+ 
+ 
+ 
+(1)
+Speaker :       Dr. Chia-Hsien Lin  (Armagh Observatory)
+ 
+Title :             Observed magnetoacoustic waves above solar active
+regions
+       
+Date    :          December 8th, 2005 (Thursday)
+
+Time    :         10:00 am
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+ 
+ 
+(2)
+  
+Speaker :       Dr. , Barbara Whitney (Senior Research Scientist, Space
+Science Institute)
+ 
+Title :              Star Formation in the Spitzer GLIMPSE Survey and a
+Radiation  Transfer Tool to Analyze the Data
+       
+Date    :          December 9th, 2005 (Friday)
+
+Time    :         02:00 pm
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+Abstract
+ 
+I will give a brief overview of some of the unanswered questions in 
+star formation, show results from the GLIMPSE survey, discuss a tool 
+we've developed to analyze the data, and then determine if we've 
+ answered any of the questions yet (some, a little).  GLIMPSE is the 
+Galactic Legacy Infrared Midplane Survey Extraordinaire, a legacy 
+project on the Spitzer Space Telescope.  GLIMPSE is mapping the 
+inner galactic plane, inside a longitude of l=65 on both sides, 
+using the IRAC camera at 3.6-8 microns.  GLIMPSE sees further into 
+the galaxy and with higher spatial resolution than previous surveys 
+at these wavelengths.  We are seeing hundreds of previously unknown 
+ star formation regions.
+ 
+To analyze these data we have constructed a large grid of radiative 
+transfer models of forming stars (surrounded by disks and envelopes) 
+at various evolutionary states.  We use a linear regression fitter 
+to find the best model from the grid to fit a given set of data 
+(flux vs wavelength).  The fitter is very fast, and can model the 
+entire GLIMPSE point source catalog in a few days.
+ 
+
+(3)
+ 
+Speaker :       Mr. Chih-Hao Hsia (Graduate Institute of Astronomy)
+ 
+Title :              Search Candidates of Binary Origin in the Nuclei of
+Planetary Nebulae  
+       
+Date    :          December 9th, 2005 (Friday)
+
+Time    :         03:00 pm
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+ 
+(4)
+  
+Speaker :       Mr. Zhi-Wei Zhang (Graduate Institute of Astronomy)
+ 
+Title :                Automated Pipeline and KBO Occultation Event
+Detection of the TAOS Project
+       
+Date    :          December 9th, 2005 (Friday)
+
+Time    :         03:30 pm
+
+Place   :        Room 1013, Science Building IV, NCU
+ 
+  
+
+Yi Chou
+
+Assistant Professor
+
+Astronomy Institute
+
+National Central University
+

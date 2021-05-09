@@ -1,0 +1,230 @@
+From typhoon@asiaa.sinica.edu.tw Thu Feb  4 19:28:52 1999
+Return-Path: <typhoon@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA24122; Thu, 4 Feb 1999 19:26:26 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id TAA22756; Thu, 4 Feb 1999 19:23:40 +0800
+Date: Thu, 4 Feb 1999 19:23:40 +0800
+From: typhoon@asiaa.sinica.edu.tw (Typhoon Lee)
+Message-Id: <199902041123.TAA22756@asiaa.sinica.edu.tw>
+To: iaa@iaa1, taos-vstar@taos.asiaa.sinica.edu.tw, astro@iaa1
+Subject: TAOS VARIABLE STAR WORKSHOP PROGRAM
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Md5: u8moRIdI11f6SiUgs1PehQ==
+Content-Length: 8741
+Status: RO
+
+Dear All,
+
+If you are interested to attend and have yet to register please do so now 
+ectronically at our server, "taos.asiaa.sinica.edu.tw"
+ so we can prepare for the meeting logistics.
+
+Happy New Year of the Hare!
+
+Typhoon
+
+*********************************************************************
+TAOS_Variable_Stars Workshop Schedule (Feb.4, 1999, Typhoon Lee)
+
+PLACE: Lecture Hall Biochemistry Building 1F.
+********************************************************************** 
+           Feb. 25 (Thur.) Chair: Typhoon Lee
+0915-0930 registering, openning remarks.
+0930-1045 TAOS status
+TAOS primary objective and schedule, C. Alcock, 15 min.
+TAOS photometry, Axelrod, ANU  30 min
+Yu-Shan Site,  Wen S. Tsay, NCU 15 min.
+TAOS software planning, Stuart Marshall LLNL  15 min.  
+> 1045-1100 coffee break
+1100-1230 Paczynski (I): 90min. Past, present, & future of OGLE experiment
+> 1230-1330 Lunch break
+1330-1500 Pacznski (II): 90min. small & very small automated telescopes
+> 1500-1515 coffee break
+1515-1645 Ron Taam (I): 90 min cataclysmic variables, neutron star binaries.
+
+> 
+           Feb. 26 (Fri.) Chair: Chi Yuan
+0915-1045 Ron Taam (II): black hole transients, supernovae, gamma ray bursts.
+> 1045-1100 coffee break
+1100-1230 Don Kurtz (I): Some shorter period photometrically variable stars,
+                           eruptive variables, rotational variables.
+> 1230-1330 lunch break
+1330-1500 Don Kurtz (II): pusalting variables & asteroseismology.
+> 1500-1515 coffee break
+1515-1645 Doug Welch (I): MACHO experience, data pipeline, archiving. 
+
+(1700-1830) TAOS photometry meeting (I)
+ 
+             Feb. 27 (Sat.) Chair: Fred Lo
+0915-1045 Doug Welch (II): variable stars, follow up, AGN variability
+> 1045-1100 coffee break
+1100-1230 "stellar physics with TAOS" discussion (I)
+         Byun: variable star research w/ TAOS telescope 15 min.
+         Stuart Marshall: ROTSE experience & Gamma ray burster 15 min
+         WP Chen: TAOS star field selection 15 min
+                  
+> 1230-1330 lunch break
+1330-1500 discussion (II): impact on field selection, photometry strategy,
+                           archive structure, data pipelines, etc.
+>1500-1515 coffee break
+(1515-1645) TAOS photometry meeting (II)                            
+
+=====================================================================
+Associated Talk: March 2 (Tuesday) 9:30 ASIAA conference room
+
+	Eugene Chiang, Astrophysics, Caltech'
+
+    "Keck Pencil-Beam Survey for Faint Kuiper Belt Objects"
+ 
+      The present-day Kuiper Belt observed out to 50 AU appears
+depleted in mass by up to 2 orders of magnitude compared to
+primordial values. The cause of depletion is unknown, but is
+thought to be Neptune, whose gravity ejects Kuiper Belt Objects (KBOs)
+out of the Belt and might grind objects into dust. Neptune's destructive
+influence should extend only out to 48 AU, the location of its
+outermost 2:1 resonance. Beyond this radius, the mass of the Kuiper
+Belt has been speculated to rise back to primordial values.
+
+	Currently nothing is known observationally about the Belt
+beyond 50 AU. I will describe our pilot survey using the Keck 10-m
+telescope. We do not detect any objects beyond 50 AU. We do detect
+two new objects inside 50 AU having probable diameters of 50 km, one
+of which is the faintest observed to date at visual magnitude 27.2.
+I will present the KBO luminosity function from R mag. = 20 to 27,
+and discuss its implications on size, mass, and distance distributions.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+           OUTLINE OF MAIN TALKS:
+
+---------------------------------------------------------------------------
+BOHDAN PACZYNSKI, Princeton Univ.
+
+(I) past, present and future of OGLE
+
+I would like to present progress and obstacles to progress of one of the
+massive variability searches, the Optical Gravitational Lensing  Experiment.
+In phase I (galactic bulge observing seasons 1992-95) the pre-existing 1-m
+Swope telescope at Las Campanas was used, with up to 80 nights per season
+made available by the Carnegi Institution of Washington.  The pre-existing
+thick CCD camera with 2k x 2k pixels (0.4" in the sky) was used.  In phase II
+(beginning January 6, 1997) the dedicated 1.3-m telescope of the Warsaw
+University Observatory is used, with a thin CCD camera with 2k x 2k pixels
+(0.4" in the sky) making drift scan exposures of 2k x 8k fields in the galactic
+bulge, LMC, SMC, and several targets of opportunity.  A mosaic camera made of 
+8 thin CCDs with the total of 8k x 8k pixels (0.25" in the sky) will be built,
+probably by the end of 2000, by Dr. Andrzej Udalski of the Warsaw University 
+Observatory.  Image subtraction software, originally developed by C. Alard and
+R. Lupton, will be incorporated in the data pipeline by Princeton graduate
+student Przemek Wozniak.  The current real time detection rate of microlensing
+events is about 45 per year.  With the new camera and software the expected
+detection rate may increase by a factor up to 10.  All images are taken with
+standard UBVI filters, with about 80% of them in I-band.  The most important
+new result is the determination of the distance to the Magellanic Clouds,
+which is `short', with M-m = 18.2.
+
+I shall describe the advantages of using standard filters, and advantages and
+practical problems which arise while making data public domain.  I shall present
+(probably very incomplete) description of various plans (or wishes) to develop
+much more powerful systems, with telescopes in 2-4 meter range.
+
+ (II):  small and very small automated telescopes
+
+I would like to describe some scientific goals as well as some technical
+problems in developing very small instruments designed to monitor all sky
+for variability.  Recent discovery of the GRB related optical transient 
+by ROTSE is a spectacular example of the power of very small instruments.
+Even smaller instruments may be required (at least initially) to monitor
+all sky all the time, with (say) one minute exposures.
+
+It seems that in all major survey projects software development is under-
+appreciated at the initial planning stage.  I'll try to make case for
+developing systems with a relatively small initial data rate, and gradual
+upgrading, with the data rate increasing modestly (say by a factor 10) in
+each step, so that software and data management can keep up with hardware
+upgrades.
+
+
+--------------------------------------------------------------------------------
+RON TAAM, Northwestern Univ.
+
+cataclysmic variables, neutron star binaries.
+
+black hole transients, supernovae, gamma ray bursts.
+
+-------------------------------------------------------------------------------
+DON KURTZ, Cape Town Univ.
+
+TAOS V*: Some shorter period photometrically variable stars.
+
+I will discuss a variety of variable stars near and below the main sequence 
+which may be studied by TAOS. Some of the astrophysics of these stars will be 
+explained to show why they are interesting and will be an important product of 
+TAOS. I will also show a some results of observations made with 0.5-m telescopes 
+and discuss the photometric precision which may be expected. Stars to be 
+discussed are: 
+
+Eruptive Variable stars: 
+LBVs
+S Doradus stars
+Luminous Blue Variables
+Wolf-Rayet stars
+HAeBe stars
+T Tauri stars
+Flare stars. 
+
+Rotational Variable Stars:
+Ap; Bp; CP stars
+A and B peculiar; chemically peculiar stars
+Ellipsoidal Variable stars
+BY Draconis stars
+FK Comae stars
+
+Pulsating variable stars:
+LBVs; ( Cygni stars
+Wolf-Rayet stars (?)
+( Cephei stars
+Be stars
+SPBs
+Slowly Pulsating B stars
+HAeBe stars
+( Scuti stars; SX Phe stars; Dwarf Cepheids
+roAp stars
+rapidly oscillating Ap stars
+( Doradus stars
+EC 14026 stars; sdBVs
+sub-dwarf blue variables
+PNNV, DOV/PG1159/GW Vir, DBV, DAV/ZZ Ceti stars
+
+I will give some background on asteroseismology, discuss problems in frequency 
+analysis, and show results of the kind TAOS may obtain for selected projects 
+with the emphasis that there is interesting, new stellar astrophysics to be done 
+with the TAOS data. 
+-------------------------------------------------------------------------------
+DOUG WELCH, MacMaster Univ.
+
+My plan was to spend half my time on MACHO particulars
+(goals, instrumentation, data pipeline, archives of various
+forms, lessons learned) and half on scientific results
+(microlensing, 2nd order ulensing, follow-up results,
+variable star results, plans for data products).
+
+Specific variable star results:
+ - RRd
+ - RR Lyr
+ - beat Cepheids (LMC and SMC)
+ - RV Tauri and W Vir
+ - R CrB
+ - eclipsing pulsating stars
+ - whatever LPV stuff isn't being covered by others
+ - AGN variability
+ - X-ray binaries
+===============================================================================
+
+
+
+

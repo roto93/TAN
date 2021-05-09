@@ -1,0 +1,55 @@
+From jlim@asiaa.sinica.edu.tw Thu Aug 12 19:06 CST 1999
+Received: from biaa33.biaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id TAA04737
+	for <astro@iaa17>; Thu, 12 Aug 1999 19:05:46 +0800 (CST)
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id TAA15695; Thu, 12 Aug 1999 19:02:05 +0800
+Date: Thu, 12 Aug 1999 19:02:05 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199908121102.TAA15695@biaa33.biaa.sinica.edu.tw>
+Subject: ASIAA Colloquium
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: DnLHrAAGLJQav6fIXdjeVw==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 1552
+Status: RO
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                   
+                      *     C O L L O Q U I U M    *
+
+
+                           19 August 1999 (Thursday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+            Colloquium (2:00 pm)
+
+            SPEAKER: Dr. Lee Joung-Hun 
+                     (ASIAA)
+	    TITLE:   "Cosmological Mass Functions"
+ 
+            ABSTRACT:
+The cosmological mass function provides an analytical framework 
+within which theoretical predictions for the formation of 
+large scale structure of the universe can be made. 
+Therefore it can in principle distinguish between different candidate
+models for structure formation including the delicate issue of 
+whether the primordial density fluctuation field is Gaussian or not.
+
+Although the classical mass function theory (the Press-Schecter theory) 
+has been shown to work fairly well in practice and thus used traditionally
+so far, recent high resolution N-body simuations detected non-negligible 
+discrepancies between the simuation results and what the Press-Schecther 
+theroy predicts.
+
+In my talk, I will show you how I have derived in my PhD thesis 
+a new mass function which turns out to fit the simulation data
+much better than the Press-Schecther one. 
+

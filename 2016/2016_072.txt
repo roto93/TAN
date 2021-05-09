@@ -1,0 +1,169 @@
+==============================================================================
+
+In this issue (Apr 17 - 22, 2016)
+
+1. NTHU Astronomy Colloquium (Apr 22): Yoshiki Toba (ASIAA)
+2. NTHU Astronomy Colloquium (Apr 20): Hideo Matsuhara (JAXA)
+3. NTNU Astronomy Colloquium (Apr 26): Steven B Charnley (NASA/GSFC)
+4. ASIAA Colloquium/Seminar/Lunchtalk (Apr 25): Rosemary Pike (ASIAA)
+                                      (Apr 27): Lei Hao (SHAO)
+                                      (Apr 27): Lu Wei-Chun (ASIAA)
+                                      (Apr 28): Steven B Charnley (NASA/GSFC)
+
+==============================================================================
+
+> From: Tomo GOTO <tomo@phys.nthu.edu.tw>
+> Date: Mon, 18 Apr 2016 09:23:57 +0800
+> Subject: NTHU colloquium (4/22)
+> To: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> Cc: astro@asiaa.sinica.edu.tw
+
+2016/04/22 (Fri.)
+14:00~15:00
+General 2nd building R521
+
+Speaker: Yoshiki Toba (ASIAA)
+
+Title:
+Statistical properties of Dust Obscured Galaxies revealed by HSC-SSP
+data with infrared data
+
+Abstract:
+Dust Obscured Galaxies (DOGs) are a subset of high-redshift (z~2)
+optically-faint ultra-luminous infrared galaxies (ULIRGs). Recently,
+some works have reported that the brighter mid-infrared DOGs are more
+AGN-dominated, and indicated that black holes in the IR-bright DOGs
+are expected to show the highest accretion rate during a major merger
+event. In addition, some works reported that IR-bright DOGs tend to
+reside in richer environments than fainter ones, and the most luminous
+DOGs may evolve into brightest cluster galaxies. Therefore,
+particularly IR-bright DOGs are expected to be a crucial population in
+terms not only of the co-evolution of galaxies and supermassive black
+holes (SMBHs) but also of structure formation.
+Combining the early data of the deep and wide optical data from Hyper
+Suprime-Cam (HSC) Subaru Strategic Program (SSP), VIKING DR2 near-IR,
+and WISE (ALLWISE) mid-IR data, we are searching the IR-bright DOGs.
+In this presentation, we will report the statistical properties of
+DOGs such as luminosity function, luminosity density, and clustering
+properties (Toba et al. 2015, 2016 in prep.).
+
+==============================================================================
+
+> Sender: itlhnis@gmail.com
+> From: Tomo GOTO <tomo@phys.nthu.edu.tw>
+> Date: Mon, 18 Apr 2016 09:25:45 +0800
+> Subject: NTHU lunch talk (4/20)
+> To: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> Cc: astro@asiaa.sinica.edu.tw
+
+2016/04/20 (Wed.)
+Date: April 20th
+Time: 12:20 - 13:10
+Venue: R521
+Speaker: Hideo Matsuhara (JAXA)
+Title: Overview of North Ecliptic Pole  Deep Multi-wavelength Survey
+
+==============================================================================
+
+> Date: Thu, 21 Apr 2016 17:19:48 +0800
+> From: "chenlw" <chenlw@ntnu.edu.tw>
+> To: chenlw@ntnu.edu.tw
+> Subject: NTNUES colloquium 26/Apr/2016: The Physics and Chemistry of Comets
+
+* Teatime at S801-2 after the colloquium
+
+   Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         26/Apr/2016 14:20
+  Room S101, 1F, Research Building
+
+
+
+TITLE: The Physics and Chemistry of Comets
+
+SPEAKER: Dr Steven B Charnley (NASA Goddard Space Flight Center)
+
+ABSTRACT: http://140.122.144.95/colloq/abs/20160426.txt
+
+
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+==============================================================================
+
+> Date: Thu, 21 Apr 2016 08:00:03 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Rosemary Pike (ASIAA)
+Topic:          Exploring the 5:1 Neptune Resonance: Dynamics, Population, and Origin
+Time:           4/25 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+The long-term evolution of objects in the outer n:1 resonances with Neptune provide clues to the evolutionary history of the Solar System. Based on 4 objects with semi-major axes near the 5:1 Neptune resonance, we estimate a substantial and previously unrecognized population of objects, perhaps more significant than the population in the 3:2 (Plutino) resonance. Understanding the characteristics and trapping history for objects in these populations is critical for constraining the dynamical history of the solar system. The 4 objects detected in the Canada-France Ecliptic Plane Survey (CFEPS) were classified using dynamical integrations. Three are resonant, and the fourth appears to be a resonance diffusion object, part of a population which exited the resonance through chaotic diffusion.  The dynamical behavior of the known objects, suggests that the trapping mechanism for the 5:1 resonance is resonance sticking from the scattering objects.  However, our investigations of So!
+ lar System evolution models show that they do not emplace a sufficiently large population into this resonance, and the source of this large population remains unexplained.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Lei Hao (SHAO)
+Topic:          The Co-evolution of AGNs and Galaxies, Viewed from 2D Spectroscopy
+Time:           4/27 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+It is well-established that galaxies and their central supermassive black holes
+co-evolve. The properties of AGN hosts and their interactions of, i.e. the feeding and feedback of AGNs, are key processes to understand these co-evolutions. In this talk, I will introduce some of our recent and ongoing work on the direct and indirect interactions of AGNs and their host galaxies, particularly using the data from 2D spectroscopy. I will also introduce our own 2D spectrograph, CHILI, and particularly its science implications. In the end, I will briefly mention our work that are not 2D-related, particularly the one that studies AGNs using infrared spectroscopy and explores high-z low-luminosity AGNs with the HETDEX survey.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Lu Wei-Chun (ASIAA)
+Topic:
+Time:           4/27 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Steve Charnley (Goddard Space Flight Center, NASA)
+Topic:          Models of Complex Molecule Formation in SpacE
+Time:           4/29 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Pathways leading to the formation of complex organic molecules will be described. Gas phase processes that may build large carbon-chain species in cold molecular clouds will be summarised. Catalytic reactions on grain surfaces can lead to a large variety of organic species, and models of molecule formation by atom additions to multiply-bonded molecules will be presented. The subsequent desorption of these mixed molecular ices can initiate a distinctive organic chemistry in hot molecular cores.
+
+The general ion-molecule pathways leading to even larger organics will be outlined. The predictions of this theory will be compared with observations to show how possible organic formation pathways in the interstellar medium may be constrained. In particular, the success of the theory in explaining trends in the known interstellar organics, in predicting recently-detected interstellar molecules, and, just as importantly, non-detections, will be discussed. The most urgently needed laboratory data required by these and future theoretical models, both for gas-phase and solid-phase reactions, will be emphasized.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

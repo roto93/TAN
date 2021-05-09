@@ -1,0 +1,20 @@
+> Date: Sun, 8 Apr 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>         web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Dr. Chin-Wei Chen (ASIAA)
+Topic:		The Scaling Relation of Early Type Galaxies in Virgo Cluster
+Time:		4/13 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+We present photometric and structural parameters for 100 ACS Virgo Cluster Survey (ACSVCS) galaxies based on homogeneous, multi-wavelength (ugriz), wide-field SDSS (DR5) imaging. These early-type galaxies, which trace out the red sequence in the Virgo Cluster, span a factor of nearly ~103 in g-band luminosity. We describe an automated pipeline that generates background-subtracted mosaic images, masks field sources and measures mean shapes, total magnitudes, effective radii, and effective surface brightnesses using a model-independent approach. A parametric analysis of the surface brightness profiles is also carried out to obtain Sérsic-based structural parameters and mean galaxy colors. We compare the galaxy parameters to those in the literature, including those from the ACSVCS, finding good agreement in most cases, although the sizes of the brightest, and most extended, galaxies are found to be most uncertain and model dependent. Our photometry provides an external measure!
+ ment of the random errors on total magnitudes from the widely used Virgo Cluster Catalog, which we estimate to be σ(BT )≈ 0.13 mag for the brightest galaxies, rising to ≈ 0.3 mag for galaxies at the faint end of our sample (BT ≈ 16). The distribution of axial ratios of low-mass ("dwarf") galaxies bears a strong resemblance to the one observed for the higher-mass ("giant") galaxies. The global structural parameters for the full galaxy sample—profile shape, effective radius, and mean surface brightness—are found to vary smoothly and systematically as a function of luminosity, with unmistakable evidence for changes in structural homology along the red sequence. As noted in previous studies, the ugriz galaxy colors show a nonlinear but smooth variation over a ~7 mag range in absolute magnitude, with an enhanced scatter for the faintest systems that is likely the signature of their more diverse star formation histories.
+
+==============================================================================

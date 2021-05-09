@@ -1,0 +1,99 @@
+From taiji@asiaa.sinica.edu.tw Thu Feb  3 12:11 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA13782
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 3 Feb 2000 12:10:32 +0800 (CST)
+Received: from iaa25 (iaa25 [140.109.177.110])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA01942;
+	Thu, 3 Feb 2000 11:58:18 +0800
+Date: Thu, 3 Feb 2000 12:06:48 +0800 (CST)
+From: Jounghun Lee <taiji@asiaa.sinica.edu.tw>
+X-Sender: taiji@iaa25
+To: Cosmology & Particles Astrophysics Journal Club: ;
+Subject: Upcoming AMIBA activities (schedule subject to change) 
+Message-ID: <Pine.SOL.4.10.10002031203120.12853-100000@iaa25>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 2680
+Status: RO
+
+
+1st AMIBA meeting      Feb 14--18 2000
+
+I. Science Session     Feb 14--15 2000
+======================================
+	
+Feb 14 2000
+
+    ************************************
+    (A1) SZ effects I -- clusters
+    ************************************
+
+    09:00--09:30  "Clusters SZ effects: overview"
+                   Liang & Chiueh
+    09:30--10:30  DISCUSSION / Liang & Chiueh (Chair)
+                               1. how AMIBA complements x-ray results 
+                               2. what optimum informations about the 
+                                  cluster physics can we get 
+    10:30--11:00  COFFEE BREAK
+    11:00--11:20  "Viper observations of SZ effects & AMIBA+X-ray"
+                   Peterson
+    11:20--12:30  DISCUSSION (cont.)
+    12:30--13:30  LUNCH
+
+
+    ************************************
+    (A2) SZ effects II -- superclusters
+ 
+    ************************************
+
+    13:30--14:00  "Superclusters SZ effects: overview"
+                   Pen & Chiueh 
+    14:00--15:00  DISCUSSION / Pen & Chiueh (Chair)
+                               1. baryon distribution on supercluster scales
+                               2. how to detect 1 order weaker signals
+    15:00--15:30  COFFEE BREAK
+    15:30--17:00  DISCUSSION (cont.) 
+
+
+Feb 15 2000
+
+    ************************************
+    (B)  CMB 
+    ************************************
+
+    09:00--09:30  "CMB polarization : overview"
+                   Ng & Pen 
+    09:30--10:30  DISCUSSION / Ng & Pen (Chair)
+                               1. curl-free pattern (E-mode)
+                               2. can we detect it?
+    10:30--11:00  COFFEE BREAK
+    11:00--11:30  "CMB Anisotropy Observations"
+                   Peterson
+    11:30--12:30  DISCUSSION / (cont.)  
+    12:30--13:30  LUNCH 
+
+
+    ************************************
+    (C)  Observation Strategies  
+    ************************************
+
+    13:30--14:00  "Observation Strategies : overview"
+                   Subrahmanyan & Liang 
+    14:00--15:00  DISCUSSION / Subrahmanyan & Liang (Chair)
+                               1. Foreground noises, sensitivity
+                               2. window function, mosaicing
+                               3. foreground contaminations of polarization 
+                               4. small-scale experiment to verify the 
+                                  noise-reduction schemes
+    15:00--15:30  COFFEE BREAK
+    15:30--16:15  DISCUSSION / Subrahmanyan & Liang (Chair)
+
+
+    ************************************
+    (D)  SUMMARY   
+    ************************************
+
+    16:15--17:00  SUMMARY / Lo (Chair)
+                   Ng, Pen, Chiueh, Ravi & Haida 
+
+

@@ -1,0 +1,159 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Dec 15 23:39:23 2010
+Date: Wed, 15 Dec 2010 23:33:46 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Dec 13 - 15, 2010)
+
+============================================================================== 
+
+In this issue (Dec 13 - 15, 2010)
+
+1. 2011 European Radio Interferometry School - 1st Announcement
+2. The 2nd APCosPA Winter School/workshop 
+
+==============================================================================
+
+> Date: Fri, 10 Dec 2010 15:55:57 +0100 (CET)   
+> From: eris2011@ira.inaf.it         
+> To: vlbi@nrao.edu
+> Subject: [vlbi] ERIS 2011 - First Announcement - Please circulate
+   
+*********************************************************************** 
+*             2011 European Radio Interferometry School               * 
+*********************************************************************** 
+
+We are happy to announce that the Fourth European Radio Interferometry 
+School will take place in Rimini (Italy), in the week 
+
+                       5 - 9 September 2011 
+
+ERIS will provide a week of lectures and tutorials on how to get 
+scientific results from radio interferometry.  Topics covered 
+include: 
+* Calibration and imaging continuum, spectral line and polarization data 
+* Extracting the information and interpreting the results 
+* Specific features for VLBI, high frequency (ALMA domain) and low 
+frequency observations (LOFAR domain) 
+* Choosing the most suited array and observing plan for your project. 
+
+Participants are expected to bring their own laptops, equipped with 
+the most widely-used packages such as AIPS, CASA and Parseltongue. 
+Most examples will be drawn from cm-wave instruments such as VLA, EVN 
+and MERLIN but experts for arrays from LOFAR to ALMA will be available. 
+
+The school will be held at the Sporting Hotel, where the participants 
+and lecturers will also be accomodated. 
+See the hotel web page at http://www.hotelsportingrimini.com/ 
+
+A registration fee of 150 Euro is requested, which will cover the 
+accomodation and half board for the 5 days of the school, from 
+the arrival on 5 September 2011 to the departure on 10 September 2011. 
+Participants will be accomodated in double and triple rooms. 
+
+Please reply to this email, eris2011@ira.inaf.it, indicating your 
+interest to be notified of future announcements. 
+
+Forms for registration and hotel booking and further instructions will 
+soon be made available. Note that due to logistical limitations 
+we will be able to accomodate around 80 participants, so we encourage 
+to send your interest and register as soon as possible. 
+
+LOC: D. Dallacasa, K.-H. Mack, M. Manni, B. Neri, T. Venturi 
+
+SOC: T. Venturi (INAF, IRA)& D. Dallacasa (University of Bologna), 
+   B. Campbell (JIVE), F. Gueth (IRAM), R. Laing (ESO-ALMA), 
+   A. Richards (JBCA), R. Pizzo (ASTRON), R. Porcas (MPIfR) 
+
+_______________________________________________ 
+vlbi mailing list 
+vlbi@listmgr.cv.nrao.edu 
+http://listmgr.cv.nrao.edu/mailman/listinfo/vlbi 
+
+==============================================================================
+
+> Date: Tue, 14 Dec 2010 13:35:53 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: twhepnet@hepmail.phys.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>
+> cc: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>,
+>     Chih-Hsin Huang <chhuang@phys.ntu.edu.tw>
+> Subject: Re: The Second APCosPA Winter School/workshop 
+
+
+                                         December 14, 2010
+Dear Colleagues:
+
+     I apologize that the pace for the organization of the 2nd APcosPA 
+Winter School/Workshop is somewhat slow - but in a good progress. At this 
+point, we again anticipate that there are about 10 "students" (senoir 
+graduate students, young postdocs, etc.) from China (Beida, Jao-Tung, 
+etc.), more than 6 from South Korea, a few from Japan, and so on. The 
+domestic participation is limited to about 40. We would like to choose, at 
+the end of the program, a few "students" for awards. This message is 
+intended so that you would encourage your best "students" to participate 
+this competition, with the deadline to register as 7 January 2011.
+ 
+     Merry Christmas and Happy New Year !!     
+
+     Best wishes, W-Y. Pauchy Hwang
+                  President, APCosPA Org  
+> 
+*******************************************************************
+>                                         December 14, 2010
+> Dear Colleagues:
+  
+       The pace of the advancement in the area of Cosmology and Particle 
+  Astrophysics (CosPA) is amazedly fast since the new century. The 
+  researchers in the Asia Pacific region, including Australia, China, 
+  Japan, Korea, Taiwan, etc., have played their due roles in making the 
+  progresses. To make our marks more noticeable, we are forming the Asia 
+  Pacific Organization for Cosmology and Particle Astrophysics (APCosPA 
+  Org), starting from nothing but hopefully growing eventually into 
+  something fairly visible.
+  
+       One beginning is to hold the First APCosPA Winter School, 18-29 
+  January 2010, at National Taiwan University, Taipei, and now the Second 
+  APCosPA Winter School/Workshop, January 17-28, also at NTU, Taipei. We 
+  will try to cover the various topics in Cosmology and Particle 
+  Astrophysics but mainly toward the graduate students and young 
+  researchers. The anticipated lecturers (except the workshop period) 
+  include:
+ 
+       Chia-Hung Vincent Chang (NTNU, Taiwan)
+       Pisin Chen (NTU, Taiwan)
+       Kiwoon Choi (KAIST, Korea)
+       Bruce Dawson (Adelaide, Australia)
+       Xiao-Gang He (NTU, Taiwan) 
+       Stephen D.H. Hsu (Oregon, USA)
+       Sang Pyo Kim (Kunsan, Korea)
+       Hyun Kyu Lee (Hanyang Univ, Korea)
+       Miao Li (ITP, Beijing)
+       Bo-Qiang Ma (Beida, Beijing)
+       Jen-Chieh Peng (UIUC, USA)
+       Alexei Starobinsky (Laudau Inst, Russia)
+       Bin Wang (SJTU, China)
+       David Wiltshire (Canterbury Univ, NZ)
+       Anthony Zee (UCSB, USA) 
+> 
+  Each will give two or three lectures, with a couple of hard problems. 
+  The registered students or young postdocs could enter the competitions 
+  with the awards given to the first few "students". 
+> 
+>                                    Sincerely yours, W-Y. Pauchy Hwang  
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

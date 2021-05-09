@@ -1,0 +1,56 @@
+
+> From: Ilse van Bemmel <bemmel@jive.eu>
+> Subject: Second announcement: CASA tutorial at 2018 EVN Symposium
+> Date: Tue, 3 Jul 2018 09:17:17 +0200
+> To: astro@asiaa.sinica.edu.tw
+
+[This message is sent through several e-mail exploders, apologies if you =
+receive multiple copies]=20
+
+With the release of CASA 5.3 =
+<https://casa.nrao.edu/casa_obtaining.shtml> the first experimental VLBI =
+tools will be included in the package (see the latest CASA Newsletter =
+<https://science.nrao.edu/enews/casa_006/> for more details). With =
+support from  IAA-CSIC <https://www.iaa.csic.es/>, JIVE =
+<http://www.jive.eu/> is organising an afternoon tutorial to introduce =
+these new tools to the EVN community, which will take place at the end =
+of the EVN symposium <http://evnsymp2018.iaa.es/> in Granada, Spain.
+
+Date & time: October 11, 15:30 =E2=80=93 18:30=E2=80=A8
+Location: IAA-CSIC, Glorieta de la Astronm=C3=ADa s/n, C.P. 18008, =
+Granada, Spain =20
+
+The first part of the tutorial consists of a lecture to demonstrate how =
+to calibrate an EVN Network Monitoring Experiment in CASA, starting from =
+the data stored in the EVN archive. The second part allows participants =
+to try this for themselves, or attempt to calibrate a small dataset of =
+their own. A few scans on a bright source are sufficient, given the =
+available time.=20
+
+All participants should bring their own laptop with a working CASA 5.3 =
+installation. Prior experience with CASA is not necessary, though for =
+new CASA users it is recommended to work through one of the JVLA =
+CASA=C2=A0tutorials =
+<https://casaguides.nrao.edu/index.php/Karl_G._Jansky_VLA_Tutorials> =
+prior to attending the workshop.
+
+Interested participants are requested to sign up beforehand =
+<https://goo.gl/forms/kLj4qFxeMWeatMyl1>. Registration before 15 =
+September is recommended to ensure a seat. After that date, details on =
+the tutorial will be provided only to registered participants.=20
+
+Please contact me if you require more information.
+
+Kind regards,
+Ilse van Bemmel
+
+
+--
+Project scientist
+Joint Institute for VLBI ERIC
+PO Box 2
+7990 AA Dwingeloo
+The Netherlands
++31-521-595784
+
+==============================================================================

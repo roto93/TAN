@@ -1,0 +1,58 @@
+From taiji@asiaa.sinica.edu.tw Wed May  3 20:35 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA11584
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 3 May 2000 20:35:25 +0800 (CST)
+Received: from iaa25 (iaa25 [140.109.177.110])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id UAA22659;
+	Wed, 3 May 2000 20:26:43 +0800
+Date: Wed, 3 May 2000 20:31:18 +0800 (CST)
+From: Jounghun Lee <taiji@asiaa.sinica.edu.tw>
+X-Sender: taiji@iaa25
+To: Cosmology & Particle Astrophysics Journal Club: ;
+Subject: First estimations of Cosmological Parameters From BOOMERANG
+Message-ID: <Pine.SOL.4.10.10005032007070.20845-100000@iaa25>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1714
+Status: R
+
+Dear Cospa colleagues,
+
+A paper to reveal the results of the first estimations of cosmological 
+paprameters from the celebrated BOOMERANG (closely related to our AMIBA) 
+has been posted in the astro-ph archive 
+with the manuscript number astro-ph/0005004.
+
+It seems like that the results do agree with the standard basic inflation
+paradigm quite satisfactorily although the baryon number density is higher 
+than the estimates from the big bang nucleosynthesis ... 
+
+The abstract of the paper is following:
+
+The anisotropy of the cosmic microwave background radiation contains
+information about the contents and history of the universe. 
+We report new limits on cosmological parameters derived
+from the angular power spectrum measured in the Antarctic
+flight of the BOOMERANG experiment within the framework of
+inflation-motivated adiabatic cold dark matter models. Using a
+weak prior on the Hubble expansion parameter $h$ we find that the
+curvature is close to flat and the primoridal fluctuation
+spectrum is nearly scale invariant, in agreement with the basic
+inflation paradigm. We find that the data prefer a baryon density
+$\Omega_b h^2$ above, though similar to, the estimates from light
+element abundances and big bang nucleosynthesis. When
+combined with large scale structure observations, the BOOMERANG
+data provide evidence for both dark matter and dark
+energy contributions to the total energy density $\Omega_{tot}$. 
+
+cheers,
+Jounghun Lee 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,                Phone: 886-2-2652-2020 ext 203
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+

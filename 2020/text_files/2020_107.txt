@@ -1,0 +1,166 @@
+=============================================================================
+
+In this issue (Jul 17 - 21, 2020)
+
+1. ALMA-Taiwan users survey
+2. Arizona Radio Observatory - Call for Proposals: 2020B (Aug 27)
+3. ASIAA Theory Group Workshop on 6 August
+4. [Shida CAG seminar] (Jul 30): Pin-Gao Gu (ASIAA)
+
+==============================================================================
+
+From    Trejo-Cruz Alfonso <trejo@asiaa.sinica.edu.tw>
+Date    2020-07-17 17:23
+Subject: ALMA-Taiwan users survey
+
+Dear Yi-Jehng,
+
+Could you help us to circulate this announcement in the TAN mailing list?
+
+Thank you,
+Alfonso
+
+--
+
+ALMA-Taiwan Users Survey
+
+Dear colleagues,
+
+The ALMA Regional Center (ARC) in Taiwan organizes User workshops to advertise relevant information about the ALMA Call for proposals, new capabilities, Observatory news, etc.
+
+In the interest of the Taiwan-based community, we have discussed topics and format for future ALMA workshops. If you are interested, please access and fill in the survey, where you can see relevant info about upcoming and planned events.
+
+We will send additional information in the coming weeks. Please send us your feedback within 1 or 1.5 weeks. This short survey will take you between 5 to 10 mins to complete.
+
+https://docs.google.com/forms/d/e/1FAIpQLSfm5n8OHW96Y4m9zrKdMwzR2oCu_WzSd18tNYm1VK8pOZnEig/viewform?usp=pp_url
+
+Alfonso
+on behalf of the ARC
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (2020B)
+------------------------------------------------------------------------------
+To Astronomers and Astrophysicists of Taiwan,
+
+The Arizona Radio Observatory (ARO) solicits observing proposals for the
+10-meter Submillimeter Telescope (SMT) located on Mount Graham, Arizona, for
+the period October 15, 2020 - February 15, 2021. No new proposals for the ALMA
+Prototype 12-meter Telescope (12m) located on Kitt Peak, Arizona will be
+accepted for this current call as proposals from the 2020A call for proposals
+will be carried over to the 2020B proposal period. Proposal candidates from
+members of the University Consortium of ALMA-Taiwan (UCAT) and ASIAA should
+submit up to THREE pages of scientific and technical justification (including
+figures, tables, and references) in addition to their Proposal Summary Sheet
+(download form here):
+https://www.as.arizona.edu/sites/default/files/ARO_Proposal_Cover_Sheet.pdf
+
+All proposal candidates are required to list on the Proposal Summary Sheet
+their requested observing blocks (the exact LST ranges to be scheduled and
+number of times to be repeated), dates on which they are NOT available to
+observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (45 degrees at the SMT, 10 degrees at the 12m).
+
+The 10m SMT currently supports dual-polarization sideband-separating (SBS)
+observations at 1mm (211-280 GHz) and dual-polarization double-sideband
+observations at 0.8mm (325-370 GHz). The SMT control system supports both
+dual-polarization ("2 IF mode") and dual-polarization + dual-sideband
+observations ("4 IF mode") with tunable IF from 4.5-7.5 GHz, for position-
+switched, beam-switched, and OTF observations.  Proposal candidates should
+consult the ARO Equipment Summary and Status sheet for additional technical
+specifications:
+https://www.as.arizona.edu/arizona-radio-observatory
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. For further information about
+remote observing and other operational questions, please contact the ARO
+Software Engineer Natalie Gandilo ngandilo@email.arizona.edu
+
+Scheduling of successful proposals will be done according to availability of
+the receivers requested. Based on scientific merit, projects which request
+observing time longer than 24 hours will be considered. Graduate student
+participation is especially encouraged. Proposals should be emailed as a
+single file in PDF format to kuan[at]asiaa.sinica.edu.tw by 23:59 CST on
+August 27, 2020 (Thursday).
+
+==============================================================================
+
+Date: Tue, 21 Jul 2020 10:21:59 +0800
+To: iaa <iaa@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw
+From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+Subject: ASIAA Theory Group Workshop on 6 August
+
+Dear colleagues,
+
+The Theory Group in IAA will hold a workshop
+on 6 August.
+http://events.asiaa.sinica.edu.tw/workshop/20200806/index.php
+
+This workshop is open for everyone.
+Please feel free to attend it.
+(You can find the program in the above link.)
+
+If you attend the workshop and need a lunch
+box, please register from "Registration" in
+the above link. The deadline for the registration
+is 31 July.
+
+Regards,
+Hiro on behalf of the IAA Theory Group
+
+==============================================================================
+
+Date: Tue, 21 Jul 2020 11:15:19 +0800
+From: CAG <cag@deps.ntnu.edu.tw>
+To: cag@ntnu.edu.tw
+Subject: [CAG seminar] 30/Jul/2020
+
+Dear all,
+
+Next Thursday we will have Pin-Gao from ASIAA as our seminar speaker.
+Pin-Gao works on a wide spectrum of astrophysical topics. He will share
+with us his recent discoveries of the close relationships between stars
+and planets.
+
+Best,
+Yueh-Ning
+
+------------------------------------------------------------------------------
+
+Speaker: Pin-Gao Gu (Institute of Astronomy and Astrophysics, Academia
+Sinica)
+Time: 16:30, 30/Jul/2020
+Venue: S101
+
+Title: My recent journey from star-forming regions to planetary systems
+Abstract:
+I will talk about my "journey" from star-forming clouds, protoplanetary
+disks, chaotic planet-forming regions, hot Jupiters, and finally back to
+the Solar System based on the stories in my very recent works. Through
+this journey, the audience will enjoy the power of interstellar shocks,
+potential young planets embedded in disks, violent giant impacts among
+planets, anomalously bloated exoplanets, and even the hot debris just
+hidden in the glory of the solar corona that we see during a solar
+eclipse!
+------------------------------------------------------------------------------
+
+-- 
+Center of Astronomy and Gravitation, National Taiwan Normal University
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

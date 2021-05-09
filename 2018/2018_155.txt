@@ -1,0 +1,84 @@
+
+> Date: Thu, 4 Oct 2018 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Zhi-Yun Li (University of Virginia)
+Topic:          Protostellar Disks: Dust Polarization and Formation of Rings and Gaps
+Time:           10/8 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In the first part of the talk, I will discuss the origins of the  polarization of dust continuum emission from young star disks, with  emphasis on scattering by large grains. The scattering-induced  polarization provides a probe of grain growth in disks that is the first   step towards the formation of planetesimals and ultimately planets. In   the second part, I will discuss the formation of rings and gaps in  magnetized wind-launching disks that are weakly ionized, with emphasis  on a new mechanism that relies on the reconnection of highly pinched  magnetic fields to produce regions magnetized to different levels. More   magnetized regions tend to accrete faster, forming gaps, whereas less   magnetized regions accrete more slowly, allowing matter to accumulate   into dense rings. Implications of the rings and gaps formed through  this  mechanism for the dynamics and size evolution of dust grains will  be  briefly discussed.
+
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________ 
+Speaker:        Jordi Miralda-Escude (University of Barcelona)
+Topic:          Clues to the small-scale mass distribution of the dark matter probed by
+gravitational lensing
+Time:           10/9 (Tuesday) 14:20 - 15:20
+Place:           CCMS R104
+Abstract:
+Dark matter continues to pose one of the most important questions in
+modern cosmology. Gravitationally lensed multiple images of galaxies, quasars
+and stars provide several opportunities for testing the clumpiness of dark
+matter on small scales due to, for example, compact objects, axion
+mini-clusters and waves, or subhalos orbiting on galactic or cluster dark matter
+halos. The idea of using highly magnified stars by lensing clusters to probe
+this small-scale granularity in the dark matter will be discussed.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Tomomi Sunayama (Kavli IPMU)
+Topic:          Testing Halo Assembly Bias using Galaxy Clusters
+Time:           10/11 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Halo assembly bias is a phenomenon that the clustering of halos exhibits a dependence on additional properties beyond their halo mass (such as formation time and concentration). Halo assembly bias has been observed in simulations but not in observations. Recently, Miyatake et al. 2015 reported the observational detection of halo assembly bias using redMaPPer galaxy clusters; however, their observed signal was much larger than the expected signal from N-body simulations. Since then, there have been a couple of researches claiming that their detection of assembly bias is due to projection effects. In this work, we implement the redMaPPer-like algorithm, which can be applied to the simulations so that we can do more direct comparisons between simulations and observations, and we study whether the observational detection of assembly bias is truly due to projection effects or not.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Maria Murga (Russian Academy of Sciences)
+Topic:          Evolution of small carbonaceous dust grains in photodissociation regions
+Time:           10/12 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+This talk is devoted to the picture of evolution of small carbonaceous grains
+in conditions of photodissociation regions (PDRâ€™s): from dense cold molec-
+ular cloud to ionised region with enhanced ionisation field. Also, a brief re-
+view of experimental and theoretical studies on carbon compounds will be
+made in the talk. 
+>
+Carbonaceous species are highly allotropic, they may have different
+structures. This property is widely investigated in laboratories and is used
+in industry. PDRâ€™s are kind of space laboratories where modifications of
+carbonaceous species occur. Large swings of conditions in PDRâ€™s
+(temperature, ionisation field, gas and dust density, etc.) on small scale
+promote to these modifications. Almost all types of carbonaceous species
+can be traced across PDRâ€™s: from amorphous carbons to fullerenes. That is
+why PDRâ€™s are very interesting and important objects for investigation of
+carbonaceous species.
+>
+Astrophysical observations of PDRâ€™s such as Orion Bar, Horsehead, NGC
+7023 give opportunity for checking theoretical ideas of photo-processing of
+carbonaceous species. It is possible to follow its evolutionary changes at
+different conditions within a single object through mid-infrared (IR) emission
+bands. Observational variations of the mid-IR bands (at 3.3-3.4, 6.2, 7.7,
+8.6, 11.2 mkm) indicate changes in dust size and structure, ionisation stage
+and fraction of grains with aliphatic bonds. The observations of abundance
+of some small hydrocarbons (C2H, C4H, c-C3H2, l-C3H, etc.) may tell us
+about photo-destruction of carbonaceous macromolecules under high ul-
+traviolet field.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

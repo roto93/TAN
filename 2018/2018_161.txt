@@ -1,0 +1,106 @@
+
+> Subject: Fwd: CASA mosaic imaging issue announcement
+> Date: Wed, 17 Oct 2018 06:24:56 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+FYI
+
+> =E9=96=8B=E5=A7=8B=E8=BD=89=E5=AF=84=E9=83=B5=E4=BB=B6=EF=BC=9A
+>=20
+> =E5=AF=84=E4=BB=B6=E4=BA=BA: FUKAGAWA Misato =
+<misato.fukagawa@nao.ac.jp>
+> =E6=A8=99=E9=A1=8C: CASA mosaic imaging issue announcement
+> =E6=97=A5=E6=9C=9F: 2018=E5=B9=B410=E6=9C=8816=E6=97=A5 GMT+8 =
+=E4=B8=8B=E5=8D=888:00:47
+> =E6=94=B6=E4=BB=B6=E4=BA=BA: eaarc-cycle5-pi-abc@alma.mtk.nao.ac.jp, =
+eaarc-cycle4-pi-abc@alma.mtk.nao.ac.jp, =
+eaarc-cycle3-pi-abc@alma.mtk.nao.ac.jp, =
+eaarc-cycle2-pi@alma.mtk.nao.ac.jp, eaarc-cycle1-pi@alma.mtk.nao.ac.jp, =
+eaarc-cycle0-pi@alma.mtk.nao.ac.jp
+>=20
+> Dear all,
+> (I am sorry if you receive multiple emails on this announcement.)
+>=20
+> I would like to let you know about the announcement of the CASA issue =
+on
+> mosaic imaging as follows. It also includes our action plan for the =
+ALMA
+> products although this email is sent to a wide community including PIs
+> of irrelevant projects. Please note that this issue is related to any
+> mosaic imaging with CASA, not limited to the ALMA products.
+>=20
+> East-Asian ALMA Regional Center
+> Misato Fukagawa
+>=20
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+> =
+https://almascience.nao.ac.jp/news/public-announcement-of-casa-imaging-iss=
+ues-affecting-some-alma-products
+>=20
+> Over the course of the last several months an issue in CASA mosaic =
+imaging was recognized.  The Observatory elected to understand and =
+characterize the issue before informing the user community of potential =
+impacts on the resulting images.  The CASA team has now identified a =
+couple of issues using both the 7-m and 12-m arrays over the course of =
+the past few cycles and CASA releases.  The full extent of the data =
+affected is still being investigated.
+>=20
+> The two issues identified by the team with mosaic imaging are:
+>=20
+> 1.     Mosaicking observations with the 7-m array in Cycles 1-4 (range =
+of CASA versions) were all affected.  The Observatory will reimage the =
+maps in the archive for those projects and we will inform users of the =
+timeline of that campaign.  The impact of this error is the fluxes are =
+overestimated by ~10% throughout the map.  This specific issue was =
+resolved in Cycle 5 (CASA version 5.1.1) and beyond.
+>=20
+> 2.     A different and more complex issue arose in the Cycle 5 =
+software (CASA version 5.1.1 to 5.3, all versions), which affects all =
+mosaics in Cycle 5.  While there are a variety of factors that =
+contribute to the range of impacts, the most important parameter is the =
+aspect ratio of the mosaic pointing distribution, i.e., the width/length =
+ratio of the pointing centers (not the image size).  For projects with =
+aspect ratios <1.5, the impact on fluxes throughout the bulk of the map =
+is small, with large deviations in flux (>5%) largely confined to the =
+edges of the map where the mosaic .pb file reaches values of <0.5.  If =
+your science does not depend sensitively on fluxes measured at the edges =
+of the mosaic and your aspect ratio is <1.5 the impact is negligible.  =
+If your aspect ratio is >=3D1.5, fluxes in the bulk of the map can be =
+affected.  This issue has been resolved in the Cycle 6 Pipeline (CASA =
+version 5.4.0 or beyond).  The Observatory will determine the aspect =
+ratios over the coming weeks and contact PIs regarding corrective action =
+timelines.
+>=20
+>=20
+> The Observatory regrets any inconvenience experienced by our ALMA =
+users due to these issues. It is recommended that mosaic images are =
+regenerated using the latest CASA release, CASA 5.4 (available at =
+https://casa.nrao.edu/).  In addition, the Observatory will contact PIs =
+further when aspect ratios are determined and follow up actions (e.g. =
+QA3) are ready.  The actions that the Observatory is undertaking =
+include:
+>=20
+> 1)    While we determine aspect ratios, all MOUSs with mosaic =
+observations will have their proprietary periods paused.
+>=20
+> 2)    Once aspect ratios are determined, all project MOUSs still in =
+proprietary period subject to issue 1, generically, or issue 2, for =
+aspect ratios greater or equal to 1.5, will have their proprietary time =
+paused retroactively to July 2018.  Projects subject to issue 2 with =
+smaller aspect ratios will have proprietary period paused while it is =
+determined if the PI needs to recover fluxes in the outer regions of the =
+map with high accuracy.  The proprietary time will be extended by the =
+amount from July 2018 until the new data products are available to the =
+PI.
+>=20
+> If you have any questions about this issue and the steps taken by the =
+Observatory, please contact your local ARC for Support through the ALMA =
+Helpdesk at https://help.almascience.org.
+>=20
+> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

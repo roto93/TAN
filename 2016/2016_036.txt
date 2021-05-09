@@ -1,0 +1,46 @@
+> Date: Thu, 25 Feb 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________
+Speaker:        Howard K.C. Yee (Department of Astronomy and Astrophysics, University of Toronto)
+Topic:          The Evolution of Galaxies in Clusters at z~1 and Beyond
+Time:           3/1 (Tuesday) 14:20 - 15:20
+Place:           Physics 104
+Abstract:
+Galaxy clusters provide a large range of environments for the study of
+how the environment affects galaxy evolution. I will present some recent
+results on the evolution of galaxies in clusters at z~1 and beyond from
+two large cluster surveys.  SpARCS is an imaging survey designed to search
+for galaxy clusters up to z~2 using the cluster red-sequence technique
+based on a combination of Spitzer Space Telescope’s IRAC 3.6um and
+ground-based z’-band images; GLASS is a multi-object spectroscopic survey
+of 10 of the richest SpARCS clusters at z~1 using the Gemini 8.2m
+telescopes. Analysis of GCLASS data show that galaxies in-falling into
+clusters at z~1 have their star formation suppressed in a relatively short
+time scale of less than 0.5 Gyr at an average location close to 0.5 r_200
+(the cluster-centric radius within which the cluster is largely virialized).
+From imaging data obtain using the 24um MIPS camera on Spitzer, we also
+find that lower-mass in-falling galaxies show a possible last-gasp increase
+in their star formation before become quiescent. Using far-IR/submm data
+from the Herschel Space telescope, we will take a detailed look at the
+change in star formation via dust emission in 3 clusters at z~1.2 as
+galaxies in-fall into the clusters.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Homin Jiang (ASIAA)
+Topic:          Build your own digital backend by CASPER
+Time:           3/2 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================

@@ -1,0 +1,181 @@
+============================================================================== 
+In this issue (Aug 29 - Sep 05, 2014)
+
+1. Arizona Radio Observatory - Call for Proposals: Fall 2014 (Sep 26, 2014)
+2. COSPA 2014 - Auckland (Dec 9-12) 
+3. ASIAA Colloquia/Seminars (Sep 09): Yu-Yen Chang (MPIA)
+                            (Sep 10): Chan-Kao Chang (NCU)
+
+==============================================================================
+
+Arizona Radio Observatory: Call for Proposals (Fall 2014)
+--------------------------------------------------------------------------------
+
+Dear Astronomers in Taiwan,
+
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Sub-Millimeter Telescope (SMT), located on
+Mount Graham, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period October 15, 2014 to January 15, 2015. Proposals will
+also be accepted on a limited shared-risk basis for the new ALMA Prototype
+12-meter Telescope (12m) located on Kitt Peak, Arizona. The proposal deadline
+of UCAT/ASIAA for this 2014 fall semester is set on September 26, 2014 (Friday).
+
+The SMT currently supports a dual-polarization, 1-mm (211-275 GHz) receiver with
+ALMA Band 6 sideband-separating (SBS) mixers, a dual-polarization 0.8-mm
+(320-370 GHz) receiver, a dual-polarization 0.7 mm (420-500 GHz) SIS receiver
+with SBS mixers, and a 0.4-mm (602-720 GHz) dual-polarization receiver with ALMA
+Band 9 mixers. The SMT control system supports both dual-polarization ("2 IF
+mode"), and dual-polarization, dual-sideband observations ("4 IF mode"), as well
+as OTF mapping. The new 12m will support an ALMA Band 3 dual-polarization SBS
+receiver (84-116 GHz) for this season.
+
+Remote observing is available. Observers who plan to observe remotely must
+supply fixed IP address(es) of the computer(s) that will be used during
+observing on their Proposal Summary Sheet. Information about Remote Observing
+can be viewed at: at http://aro.as.arizona.edu/remote/remote.htm. Graduate
+student participation is especially encouraged. For further information about
+remote observing and operational questions, please contact Tom Folkers,
+Operations Manager at tfolkers@email.arizona.edu.
+
+Proposers should consult the ARO website, http://aro.as.arizona.edu/, for 
+technical specifications and to download updated Proposal Summary Sheet
+templates here: http://aro.as.arizona.edu/proposal_submission_information.htm.
+Proposal candidates are required to list on the Proposal Summary Sheet their
+requested observing blocks (LST ranges), dates on which they are NOT available
+to observe, and dates in which sources in those observing blocks are within the
+Sun-avoidance zone (44 degrees at the SMT).
+
+Proposals should consist of:
+1.  A Proposal Summary Sheet.
+2.  A brief scientific and technical justification (no more than 2 pages).
+3.  A source list with observing time requirements and justification, and/or
+    tables, figures and references (no more than 1 page in total).
+
+Electronic submissions will be accepted in PDF format ONLY. Scheduling of
+successful proposals will be done according to availability of the receivers
+requested. The final proposal pdf file should be emailed to
+kuan@ asiaa.sinica.edu.tw by midnight (23:59 pm CST) September 26, 2014
+(Friday).
+
+
+Kind regards,
+Yi-Jehng Kuan
+on behalf of UCAT's ARO TAC
+
+==============================================================================
+
+> Date: Sun, 31 Aug 2014 10:37:06 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: twhepnet@hepmail.phys.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>
+> cc: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> Subject: COSPA 2014 - Auckland December 9-12 - please share (fwd)
+
+---------- Forwarded message ----------
+> Date: Sun, 24 Aug 2014 17:56:14 +0000
+> From: Richard Easther <r.easther@auckland.ac.nz>
+> To: Richard Easther <r.easther@auckland.ac.nz>
+> Subject: COSPA 2014 - Auckland December 9-12 - please share
+
+Dear Colleagues
+
+The CosPA 2014 conference (Cosmology and Particle Astrophysics) will be 
+held in Auckland, New Zealand from December 9-12 this year.  
+
+CosPA brings together theorists, experimentalists and observers working in 
+the fields of cosmology and particle astrophysics to discuss the latest 
+data, theoretical results, and possibilities for future progress.  
+
+CosPA is held annually in the Asia-Pacific region. This will be the 11th 
+meeting in the series; conferences in the series have been held in Hawaii, 
+Melbourne, Tokyo, Beijing, Pohang, Hsinchu and Taipei.  
+
+The conference will include both plenary and parallel sessions, focussing 
+on experimental and theoretical cosmology, large scale structure, particle 
+astrophysics, dark matter, dark energy and theoretical and experimental 
+particle physics.    
+
+Registration and abstract submission is now open -- we hope we will see 
+you in Auckland!  
+
+Yours truly, 
+Richard Easther, for the Organising Committee
+r.easther@auckland.ac.nz
+
+------------------------
+
+WEBSITE AND REGISTRATION  http://cospa2014.org
+
+VENUE: The conference will be held on the University of Auckland campus in 
+central Auckland, close to excellent restaurants, parks, museum and art 
+galleries in one of the world's most beautiful cites.  
+
+ACCOMMODATION: Excellent discounts have been negotiated for conference 
+participants at a range of hotels in Auckland, all within walking distance 
+of the venue.  
+
+TRAVEL: Auckland is New Zealand's largest city, and its main hub for 
+international flights.  
+
+COST: Registration is open now, at NZ$500 / per person (includes 
+conference banquet, welcome reception, lunches, morning and afternoon teas) 
+
+CHILDCARE: Participants travelling with preschool children can arrange 
+childcare through University of Auckland facilities; contact the 
+organisers for further information. ------
+
+Professor and Head of Department
+Department of Physics
+University of Auckland, 
+New Zealand.
+
+r.easther@auckland.ac.nz
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Yu-Yen Chang (MPIA)
+Topic:         Stellar Masses and Star Formation Rates for 1M Galaxies from SDSS and WISE
+Time:         9/9 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+We assemble multi-wavelength photometry for the full SDSS spectroscopic galaxy sample, drawing from the SDSS and WISE surveys, covering the wavelength range 0.4-22 micron. We use the latest modeling techniques to estimate stellar masses and star formation rates. The addition of photometry at > 1 micron improves these measurements as compared to previous SDSS-based estimates. The newly measured star formation rates allow us to test methods to separate early-type (passive) from late-type galaxies (star-forming) galaxies.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Chan-Kao Chang (NCU)
+Topic:         The intermediate Palomar Transient Factory (iPTF) & the 10k Asteroid Rotation Period (10kARP) Project
+Time:         9/10 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+The Palomar Transient Factory (PTF) is a synoptic survey designed to explore the transient and variable sky. The PTF camera, the former CFHT 12k mosaic camera, mounted on Palomar Observatory’s 1.2-m f/2.44 Oschin Schmidt Telescope, uses 11 CCDs (4096 × 2048 each) to observe 7.26 deg2 of the sky at a time with a resolution of 1.01 arcsec/pixel. The project started its operation in 2009 and stepped into its second phase, iPTF, in 2013. The nominal survey is at R-band, but additional observations are also made at g-band and H alpha band. The standard exposure time per frame is 60 seconds, yielding a 3-sigma limiting magnitude of 20.5 and 21 for R- and g-band respectively. The iPTF has carried out various experiments with different cadences, from a 5-day cadence to 90 seconds.
+
+The 10k Asteroid Rotation Period (10kARP) Project is trying to use PTF data to collect 10,000 asteroid rotation periods, from which we try to understand the spin rate distributions for different size asteroids and see whether their distributions are different from their NEA counterparts. In addition, we also try to search super-fast rotator (SFR), which has diameter of several hundreds meter and rotates faster than the “spin barrier” at ∼ 2 hours. Such SFR is very critical to understand the interior structure of asteroid with D>150 m.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

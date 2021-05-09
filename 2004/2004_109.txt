@@ -1,0 +1,301 @@
+From: "Yi Chou" <yichou@astro.ncu.edu.tw>
+To: <astro@asiaa.sinica.edu.tw>
+Subject: FW: Astro-E2 AO-1
+Date: Mon, 26 Jul 2004 12:18:33 +0800
+
+Dear Yi Jehng:
+
+Please distribute the following message on TAN about Astro-E2 AO-1.
+
+Thanks,
+
+Yi Chou
+Assistant Professor
+Astronomy Institute
+National Central University
+
+
+-----Original Message-----
+
+Dear Prof. Ip and Prof. Chou;
+The Institute of Astronomy,
+National Central University, Taiwan
+CC: Kuiyun and Yuji Urata
+
+The next Japanese X-ray astronomy satellite Astro-E2 is being prepared
+for launch in February 2005. As was mentioned in the IAU  regional
+meeting in Japan last year, we plan to invite Asian/Pacific scientists
+to participate in the  Astro-E2 observations. We would therefore
+appreciate if the attached announcement of opportunity (AO-1) is
+circulated among your colleagues and friends who may be interested. You
+may circulate the information via the astromer's network in Taiwan, of
+which you gave me the information the other day.
+
+There are two remarks. One is that this announcement is meant to those
+scientists in countries other than USA or ESA member states, and the
+proposals should be submitted through ISAS, Japan. The other is that
+this AO involves an attempt to enhance international collaboration of
+Japanese astronomers. Therefore, we encourage you to include Japanese
+co-I's in your proposals. We, either at the University of Tokyo or
+RIKEN, are willing to serve as your counterparts if the research subject
+is suitable to us.
+
+The AO-1 due date is August 18; Please excuse me for this short notice.
+
+With best wishes,
+
+Kazuo Makishima
+maxima@phys.s.u-tokyo.ac.jp
+Department of Physics, University of Tokyo, and
+Cosmic Radiation Laboratory, RIKEN (joint appointment)
+
+
+===============================================================
+ANNOUNCEMENT OF OPPORTUNITY (AO-1)  FOR  ASTRO-E2 OBSERVATIONS
+===============================================================
+
+------------
+1. Overview
+------------
+   This is an announcement of opportunity (AO) for participation in the
+observations with the Astro-E2 X-ray observatory. The AO is based on a
+program of Institute of Space and Astronautical Science (ISAS), which
+constitutes a division of the Japan Aerospace Exploration Agency (JAXA).
+Astro-E2 is currently scheduled for launch in February, 2005. The
+present AO, called AO-1, covers a 1-year observing period beginning in
+September 2005.
+
+This particular version of AO-1 applies when scientists in countries
+other than the USA or the ESA member countries submit proposals for
+Astro-E2 observations, through the ISAS/JAXA channel. For reference, US
+based scientists should consult the parallel announcement at
+http://astroe.gsfc.nasa.gov/ , while those in the ESA member countries
+should consult the version at http://www.rssd.esa.int/Astro-E2 .
+
+------------------------------
+2. Astro-E2 X-ray Observatory
+------------------------------
+   The mission is equipped with five high throughput X-ray telescopes
+(XRTs) to cover up to 12 keV. A high resolution spectrometer (XRS) and
+four CCD cameras (XISs) are placed at foci of the telescopes. A hard
+X-ray detector (HXD) points in the same direction as the XRTs and covers
+up to 600 keV. The major features of Astro-E2 are its high energy
+resolution (E/dE ~ 1000 at 6 keV) and its broad energy coverage from 0.2
+to 600 keV. Because the life time of the XRS cryogen is limited
+(estimated to be about 2.5 years), proposals at early mission phases
+(including AO-1 in particular) should emphasize the necessity to utilize
+the cryogenically cooled XRS. The detailed mission description can be
+found in the web site  http://www.astro.isas.jaxa.jp/astroe .
+
+--------------------------------------
+3. Mission Phases and Time Allocations
+--------------------------------------
+   There are three distinct operational phases, which are further
+divided into sub-phases.
+
+   Phase-0 covers the first month after the launch, when the basic
+functions of the satellite are tested, the optical bench is extended,
+and all scientific instruments become operational.
+   Phase-I starts when the mission is ready for scientific observations
+and lasts until the XRS runs out of the cryogen, which is expected to be
+roughly 2.5 years after the launch. It will be divided into three or
+four sub-phases (Ia-Ic; Id will be added if the cryogen lifetime exceeds
+2.5 years).
+   In Phase-II, the XRS will no longer be available so that only the XIS
+and HXD will be operated.
+
+   The table below summarizes how the overall observing time in each
+phase is divided among the Japanese AO, US AO, and observations
+exclusive to the Science Working Group (SWG) of Astro-E2. A portion of
+the Japanese AO time is allotted to the ESA observers. Non-US and
+non-ESA observers (i.e., the present AO) are solicited to propose to the
+Japanese time (present AO), and they can be accepted up to an upper
+limit which is equal to the ESA portion.
+
+Phase (terms)       SWG     Japan       US        J/US
+                             (ESA)
+Phase-0(0-1 Mo)      0%      0 %         0%          0%
+Phase-Ia(2-7 Mo)   100       0           0           0
+Phase-Ib(8-19 Mo)   25      37.5 (6)    32.5         5
+Phase Ic(20-31 Mo)  15      42.5 (7)    37.5         5
+Phase Id(32-? Mo)    0      50 (8)      37.5        12.5
+Phase-II             0      60 (10)     30          10
+
+   The present announcement covers observations for Phase-Ib. Of the
+total observation time, 5% will be reserved for maintenance and
+calibration purposes (observatory time), while another 3% for target of
+opportunity (TOO) observations. The remaining observation time will be
+allocated as shown in the table. In this AO-1 (Phase-Ib), the actual
+observation time is estimated to be 3,860 ksec for Japanese time
+excluding the ESA portion.
+
+  Two proposals for the same target, one from Japan and the other from
+US, may be merged together, on condition that both PI's present on the
+application form their wishes to collaborate, and that the merging
+committee recommends to do so. Otherwise, at least either one of the two
+will be rejected.
+
+
+-------------------------
+4. Observing Constraints
+-------------------------
+4.1 The SWG targets
+   The Astro-E2 SWG has already selected  a list of targets for the SWG
+time in Phase-Ia and Ib. A proposal to observe one or more targets in
+this list will not be accepted, unless it has a strong justification for
+a separate observation. These include a much longer exposure, different
+pointing(s) for an extended object, different observing window of a
+variable object, and so on. The SWG target list is available at
+http://www.astro.isas.jaxa.jp/astroe/proposal/swg/swg_lst.html
+
+4.2 Exposure times
+   The length of the observation time in the proposal must be justified
+by showing the feasibility with simulations. While in principle there is
+no upper limit to the exposure, proposals with longer exposure times in
+general have less chance to be accepted, unless it successfully
+addresses more important science. A typical single proposal may request
+an overall exposure of 30 ksec to 100 ksec.
+   A proposal may consist of pointings onto multiple targets, or
+multiple exposures onto a single object, or both. None of these
+pointings should be shorter than 10 ksec, since frequent attitude
+maneuverings reduce the observing efficiency and increase the
+operational complication. Short exposures are discouraged from
+scientific viewpoints as well, because such observations often end up
+with insufficient data statistics, and hence poor scientific outcome.
+Therefore, a single proposal should incorporate no more than several
+targets.
+
+4.3 Sun angle constraints
+   At a given time, Astro-E2 can be pointed to rather limited sky
+regions, of which the angle is in the range 90 +/- (typically) 25
+degrees from the sun. For example, anti-sun directions can never be
+observed. Any object in the sky can be observed at least twice in a
+year, but the length of each "Viewing Window" depends on the ecliptic
+latitude in such a way that a higher-latitude regions have longer
+windows.
+   A proposal can be "time critical", by requesting observations at
+specific epochs (such as a specific binary phase) or coordinating
+simultaneous campaigns. A proposer, however, must carefully examine in
+advance whether the proposed target meets the sun angle constraint at
+the planned observing epoch.
+
+4.4 TOO
+  Target of opportunity (TOO) observations can be proposed for those
+objects which involve rapidly evolving, yet unpredictable phenomena,
+like a nova outburst, on condition that it has a high scientific
+importance. Such a proposal should state specific target names,
+position(s), triggering conditions, expected duration of the events, and
+the probability of occurrence. Proposals for generic TOOs (e.g., the
+next Galactic supernova) are not allowed through this process: a
+separate mechanism will be established for such unpredictable targets.
+   For gamma-ray bursts, the SWG has allocated 200 ksec to perform
+coordinated observations following alerts from other monitoring
+satellites. Therefore, no other proposals will be accepted for gamma-ray
+bursts.
+
+
+-------------------------------
+5. Review Process and Schedule
+-------------------------------
+   Proposals may be submitted from May 18 through August 18. They will
+be reviewed by a board of scientists in the fields of X-ray astrophysics
+and other relevant fields. After adding ESA proposals, the selected
+target list will be merged with the list selected in the US. The final
+list will be announced in December 2004.
+   Accepted targets are prioritized in three categories. Priority A
+targets must be observed during the term. Priority B targets will be
+observed during the term but could be carried over to the next term.
+Priority C targets can be observed if there is a slot of observation
+time, but will not be carried over to the following term if they are not
+observed during the current term. The fraction of observation time is
+A:B:C = 50% : 40% : 50% (40% more than the available time). Any TOO or
+time critical target should be ranked A to be observed.
+
+---------------
+6. Data rights
+---------------
+   The data will be delivered to the successful proposer after standard
+processing has been carried. The data will automatically go into the
+public domain one year after the delivery of data to the proposer. The
+data of Phase-Ia (100% SWG time) will be open to public at the end of
+Phase-Ib. The data of generic TOO's and gamma-ray bursts observed in the
+mission TOO time and SWG time will belong to the Astro-E2 team for one
+year at least during Phase-Ia and Ib.
+
+
+================================
+PROPOSAL SUBMISSION GUIDELINES
+================================
+
+----------------
+1. Observations
+----------------
+   X-ray observations with Astro-E2 observatory, from September 2005
+through August 2006.
+
+-------------------
+2. Who may propose
+-------------------
+   Principal investigators (PI's) have to be affiliated with
+institutions or universities located in Japan or countries other than US
+or ESA member states. PI's in the US institutions and those in the ESA
+member states should submit to NASA or ESA, respectively. PI's in other
+countries should send proposals to Japan. When a graduate student is a
+PI, his/her supervisor should be assigned as a Co-investigator.
+Scientists, who stay in the US or in the ESA member states by a fund
+from Japanese organizations, are able to submit to either ISAS or
+NASA/ESA, but not to both.
+   The requirement for the affiliation with above institutions does not
+extend to Co-Investigators. In case of proposals from countries other
+than Japan, US, and ESA member countries, collaboration with Japanese
+colleagues is strongly encouraged. Proposals without Japanese co-I's can
+be submitted, however, and some Japanese advisors will be introduced
+after the acceptance.
+
+-------------------------
+3. Due date of proposals
+-------------------------
+   12:00 JUT (03:00 UT) on August 18, 2004. Printed material should be
+postmarked no later than this date in Japan. In case of posting from
+outside of Japan, express air mail should be used.
+
+------------------------
+4. Submission procedure
+------------------------
+   For each proposal, the following two items are BOTH necessary.
+
+(1) RPS (Remote Proposal Submission system) submission: This is an
+   on-line system, described in detail in
+           http://www.astro.isas.jaxa.jp/astroe/
+   The observation parameters in the electrical form must  be accurate
+   because they will be directly tranferred on-line to the satellite
+   operation system.
+
+(2) 7 sets of hard copy of the proposal, which should be sent to the
+   following address:
+        Prof. Hideyo Kunieda
+        Institute of Space and Astronautical Science
+        Japan Aerospace Exploration Agency
+        3-1-1, Yoshinodai, Sagamihara
+        Kanagawa, 229-8510, Japan
+
+-------------------
+5. Proposal format
+--------------------
+   The proposal form consists of
+(1) Cover Page (1 page),
+(2) Target Form (1 page),
+(3) Scientific Justification (scientific problem and technical
+    feasibility) (maximum 4 pages; includes text, figures, charts,
+    and tables)
+
+-----------------------------
+6. Supplemental Information
+-----------------------------
+For details, see the mission description available at
+     http://www.astro.isas.jaxa.jp/astroe/
+Questions may be addressed to either Prof. Kunieda at
+kunieda@astro.isas.jaxa.jp, or to K. Makishima.
+
+=======================================================
+

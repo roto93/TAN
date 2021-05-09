@@ -1,0 +1,156 @@
+==============================================================================
+
+In this issue (Jan 29 - Feb 02, 2018)
+
+1. TTTT seminar (Feb 09): Yuichi Higuchi
+2. ALMA Cycle 6 Users Workshop 2018
+3. ASIAA Colloquium/Seminar/Lunchtalk (Feb 05): Tony Beasley (NRAO)
+                                      (Feb 05): Richard Crutcher (UIUC)
+                                      (Feb 07): Chang, Hsiao-Wen (ASIAA)
+
+==============================================================================
+
+> To: astro@asiaa.sinica.edu.tw
+> From: Tetsuya Hashimoto <tetsuya@phys.nthu.edu.tw>
+> Subject: TTTT seminar on 9 (Fri.) Feb.
+> Date: Tue, 30 Jan 2018 15:09:32 +0800
+
+Dear all,
+
+We will have TTTT seminar on 9 Feb. in NTHU, given by
+Dr. Yuichi Higuchi, who is  a postdoc in Academia Sinica.
+
+Title:
+Probing supervoids with weak gravitational lensing
+
+Speaker: Dr. Yuichi Higuchi
+
+Time: 12:20pm 9th Feb. (Friday)
+
+Venue: R501, IoA, 5th floor in the 2nd General Building
+
+Abstract:
+
+CMB experiments revealed that there are non-Gaussian features in the map.
+An anomalous cold spot surrounded with a hot ring, called the Cold Spot is
+one of such features. The temperature decrement becomes ~100 \muK across 
+~10
+degree on the skyplane (e.g.,Vielca et al., 2004). The anomaly can be 
+explained
+by the linear/non-linear integrated Sachs-Wolfe effect caused by a 
+supervoid
+with a radius of 200-300 Mpc/h in the local Universe. Recent photometric 
+and
+redshift observations showed the possibility of the existence of the 
+supervoids,
+while large errors such as galaxy bias and photo-z are included in the 
+observations.
+In order to investigate the properties of such voids with an un-biased 
+method,
+we propose to observe the region with weak gravitational lensing which 
+can trace
+baryon and dark matters on a line of sight.Through a ray-tracing 
+simulation, we
+investigated the prospects for detecting lensing signals from the 
+supervoids and
+for investigating the properties through weak gravitational lensing. We 
+found that
+the lensing signals can be detected at S/N>4 with on-going large weak 
+lensing
+surveys and we can obtain a constraint on the projected mass 
+distribution of the
+supervoids with these surveys.
+
+With best regards,
+Tetsuya
+
+==============================================================================
+
+> From: Tien-Hao Hsieh <thhsieh@asiaa.sinica.edu.tw>
+> Date: Wed, 31 Jan 2018 18:17:38 +0800
+> Subject: ALMA Cycle 6 Users Workshop 2018
+> To: alma-taiwan@asiaa.sinica.edu.tw, riaa <riaa@asiaa.sinica.edu.tw>
+> Cc: astro@asiaa.sinica.edu.tw
+
+Dear ALMA user,
+
+ALMA will issue its Cycle 6 Proposal Call on March 20, 2018. In response to
+that, the ALMA Regional Center (Taiwan-ARC) of ASIAA will hold one day ALMA
+Users Workshop. We would be grateful if you could help us to pick the best
+time by filling the doodle:
+https://doodle.com/poll/rcfvd4qmyxegpnhn
+The doodle will be closed on February 7th (by 12 pm). Thanks a lot for your
+help.
+
+The tentative programs of the ALMA Users Workshop are:
+
+1. ALMA Cycle 6 capability
+2. Suggestions of ALMA proposal preparation
+3. ALMA science portal <https://almascience.nrao.edu/>
+4. Observing Tool <https://almascience.nrao.edu/proposing/observing-tool>
+(OT)
+5. CASA image simulation
+
+Best,
+Tien-Hao Hsieh
+On behalf of Taiwan ARC node
+
+==============================================================================
+
+> Date: Thu, 1 Feb 2018 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Tony Beasley (NRAO)
+Topic:         ngVLA
+Time:         2/5 (Monday) 12:00 - 13:00
+Place:         R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Richard Crutcher (University of Illinois)
+Topic:         Magnetic Fields and Star Formation: Observations and Implications
+Time:         2/5 (Monday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Stars are a fundamental unit of the universe, and their formation is a fundamental astrophysical process. The role of magnetic fields in star formation remains controversial today. I will discuss several molecular cloud and star formation theoretical ideas that have very different roles for magnetic fields and describe techniques for observing magnetic fields in regions of star formation.  The talk will focus on the Zeeman effect, the only technique for directly observing magnetic field strengths. I will describe specific tests of vario Stars are a fundamental unit of the universe, and their formation is a fundamental astrophysical process. The role of magnetic fields in star formation remains controversial today. I will discuss several molecular cloud and star formation theoretical ideas that have very different roles for magnetic fields and describe techniques for observing magnetic fields in regions of star formation.  The talk will focus on the Zeeman effect, the only te!
+chnique for directly observing magnetic field strengths. I will describe specific tests of various theories of the role of magnetic fields in star formation and the application of observational results in those tests. Finally, I will describe briefly a star formation scenario that meets all of the observational tests, and mention future observational opportunities.
+us theories of the role of magnetic fields in star formation and the application of observational results in those tests. Finally, I will describe briefly a star formation scenario that meets all of the observational tests, and mention future observational opportunities.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chang, Hsiao-Wen (ASIAA)
+Topic:         Growth and Characterization of Epitaxial NbN Superconducting Films on SiC Substrate
+Time:         2/7 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

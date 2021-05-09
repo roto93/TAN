@@ -1,0 +1,401 @@
+From ohashi@iaa19.asiaa.sinica.edu.tw Wed May 31 12:28 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA26227
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 31 May 2000 12:27:42 +0800 (CST)
+Received: from iaa19.asiaa.sinica.edu.tw (iaa19 [140.109.177.107])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id MAA13400
+	for <astro@asiaa.sinica.edu.tw>; Wed, 31 May 2000 12:28:45 +0800
+Received: by iaa19.asiaa.sinica.edu.tw (8.9.3/8.9.3) id MAA06974
+	for astro@asiaa.sinica.edu.tw; Wed, 31 May 2000 12:22:38 +0800 (CST)
+Date: Wed, 31 May 2000 12:22:38 +0800 (CST)
+From: "N. Ohashi" <ohashi@asiaa.sinica.edu.tw>
+Message-Id: <200005310422.MAA06974@iaa19.asiaa.sinica.edu.tw>
+Subject: [ryunet] Announcement of the Subaru Telescope Open Use
+To: astro@asiaa.sinica.edu.tw
+Mime-Version: 1.0
+Content-MD5: yVmhi5jVqCJWn++O0+Go6Q==
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by iaa17.asiaa.sinica.edu.tw id MAA26227
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 15622
+Status: R
+
+------------- Begin Forwarded Message -------------
+
+>From ryunet-request@nro.nao.ac.jp  Wed May 31 12:22:43 2000
+X-ML-Driver: CMLD (Version 1.4.1)
+X-ML-Count: 00699 (Wed May 31 13:06:45 JST 2000)
+X-ML-Name: ryunet
+Mime-Version: 1.0
+Date: Tue, 30 May 2000 18:05:24 -1000
+To: tennet@tenmon.or.jp, oml@geopmars.ms.u-tokyo.ac.jp, ryunet@nro.nao.ac.jp,
+        gopira@c1.mtk.nao.ac.jp
+From: Masa Hayashi <masa@subaru.naoj.org>
+Subject: [ryunet] Announcement of the Subaru Telescope Open Use
+Content-Transfer-Encoding: 7bit
+
+To:   Expected Users of Subaru Telescope 
+From: Hiroyasu Ando, Director, Subaru Telescope, NAOJ
+Date: May 30, 2000
+Re:   Announcement of the Open Use
+
+
+Dear Expected Users of the Subaru Telescope,
+
+After 9 years of construction, the Subaru Telescope will be ready for
+open use in December 2000.  We understand that not only the Japanese
+Astronomical community, but also the Astronomical Societies throughout
+the world are looking forward to this prestigious moment.  At this time
+we would like to make a Call for Proposals for the open use.  We
+anticipate that Subaru Telescope will become one of the great explorers
+of the Universe.
+
+We would also like to take this time to express our gratitude to the
+many people and organizations who have supported this project
+throughout the years.
+
+Sincerely,
+
+Hiroyasu Ando
+Director, Subaru Telescope, NAOJ
+
+
+
+
+============================================================
+
+              Call for Proposals for Observations 
+                     with the Subaru Telescope
+
+                        *** Version 1.1 ***
+
+        Semester S00: 2000 December -- 2001 March
+
+                          Subaru Telescope
+      National Astronomical Observatory of Japan
+
+Please refer to http://www.naoj.org/Observing/index.html 
+for the latest information.
+
+
+
+
+1. INTRODUCTION AND PROPOSAL ACCEPTANCE POLICY
+
+     The Subaru Telescope invites observing proposals for Semester S00, 
+which will run from December 2000 until March 2001.  The Infrared 
+Camera and Spectrograph (IRCS) and Subaru Prime Focus Camera 
+(Suprime-Cam) will be available for use by visiting observers.  Although  
+the Subaru Telescope is entirely funded by the Japanese government, we 
+also invite proposals from the international community.  The actual 
+number of nights to be allocated to international proposals[see note 1] 
+will be determined by the time allocation committee.  Non-Japanese 
+researchers are encouraged to submit their proposals in collaboration 
+with Japanese researchers.
+
+[1] International proposals are defined as those submitted by 
+  non-Japanese principal investigators (PIs) belonging to non-Japanese 
+  institutions.
+
+     Although commissioning of the telescope and instruments will 
+continue through Semester S00, approximately 36 nights will be allocated  
+for the open use during this period. The Subaru Telescope asks applicants 
+to understand that, under such circumstances, observations will be 
+carried out in "shared-risk" mode. Loss of telescope time due to 
+telescope or instrument failures will be compensated only in 
+exceptional circumstances.
+
+     Other important information for your preparation of a proposal is as 
+follows.
+i) Only IRCS or Suprime-Cam (not both) should be specified for each 
+    observing proposal.
+ii) Observing time will be awarded in units of 1 night, up to a maximum of 
+    3 nights.
+iii) Target-of-Opportunity observations of unpredictable transient 
+    phenomena (e.g. new supernovae, nova outbursts, gamma-ray bursts) 
+    will not be accepted.
+iv) Applicants should refer to the guidelines regarding Guaranteed Time 
+    Observations (GTO) with Suprime-Cam in APPENDIX B before submitting 
+    a proposal. The Time Allocation Committee has the final say in issues 
+    of conflict between GTO and open use observations.
+
+2. OVERVIEW OF OPEN USE SCHEDULE
+
+     Proposal Deadline: 2000 July 3 (Japan Standard Time)
+     Refereeing: 2000 July
+     Time Allocation Committee: 2000 August
+     Telescope Time Scheduling: 2000 September
+     Semester S00: 2000 December ミ 2001 March
+     Total number of nights for open use: (approx.) 36 nights
+
+3. PREPARATION AND SUBMISSION OF PROPOSALS
+
+     Prospective applicants must fill in the "Application Form for 
+Telescope Time" (2 pages) and prepare a scientific justification of 
+not more than 2 pages of A4 or letter size paper. These documents 
+should be prepared in English, although a Japanese translation (i.e., 
+no new information) of the scientific justification may also be included. 
+Proposals whose English text is in a font smaller than 10 point will 
+be automatically rejected.
+
+     Send: 16 copies of
+         1. Application Form for Telescope Time (2 pages)
+         2. Scientific Justification (with Japanese translation, if any)
+
+     To: Dr. Motohide Tamura
+           Subaru Project Office
+           National Astronomical Observatory
+           Osawa 2-21-1, Mitaka, Tokyo 181-8588, Japan
+
+     By: Proposal Submission deadline:  2000 July 3 (JST)
+
+     Please write "Subaru Telescope Proposal" in red ink on the envelope.
+
+     Electronic submission of the "Application Form for Telescope Time" 
+(2 pages) is available, although not mandatory, at http://www.naoj.org.   
+Note, however, that the electronically submitted application will not be  
+accepted unless the corresponding hardcopies arrive at the Subaru Project 
+Office by the deadline.
+
+4. HOW TO COMPLETE THE APPLICATION FORM
+
+ 4-1. Title of Proposal
+   Provide a short title for your proposal.
+
+ 4-2. Principal Investigator
+   Provide contact details for the PI. The observatory will contact the PI 
+   with any questions regarding the proposal or observations.
+
+ 4-3. Scientific Category
+   Please check one and only one category from the 5 listed (see 
+   APPENDIX A).  Each proposal will be reviewed by a panel of 5 
+   referees who are experts in the appropriate category.
+
+ 4-4. Abstract
+   The abstract may be up to 11 lines of text, which corresponds to 
+   approximately 200 words.
+
+ 4-5. Observing Run
+   List an instrument (either IRCS or Suprime-Cam[see note 2]), requested 
+   nights (1, 2, or 3), preferred month(s) and lunar phase (Bright, Gray or 
+   Dark).  Dark time is defined as being within 3 nights of the New Moon, 
+   and Bright time is within 3 nights of the Full Moon; Gray time is the  
+   remaining part of the lunar cycle.  Applicants who request Dark time 
+   for IRCS observations  should justify this in their scientific 
+   justification.
+
+   Put the total number of requested nights in the box.  
+
+  [2] We are unable to accommodate in S00 such a proposal that uses both  
+    IRCS and Suprime-Cam, since switching between the two takes not 
+    less than two full days, which results in significant loss of telescope 
+    time. 
+
+ 4-6. Co-Investigators
+   List the names of co-investigators. There will be limited travel 
+   support for researchers and graduate students who belong to 
+   Japanese institutions. Those who want to receive travel support 
+   must be nominated here.
+
+ 4-7. Proposal Status
+   Do not enter anything here.
+
+ 4-8. List of Targets
+   List all the proposed targets. J2000 is recommended for the equinox. 
+   Use an additional sheet if necessary.  
+
+ 4-9. Scheduling Requirements
+   Any special scheduling requirements should be explained here.  Time 
+   critical observations will only be accepted if a specific date is listed.
+
+ 4-10. Instrument Requirements
+   Specific or unusual instrument requirements should be explained here.  
+   No private instruments will be accepted during Semester S00.
+   
+ 4-11. List of Applicant's Related Publications
+   List (with full citation) recent publications in the last 5 years 
+   related to the proposal.
+
+ 4-12. Backup Proposal in Poor Conditions
+   Provide a short description of observations which will be carried out if 
+   conditions are not good enough for the main proposal (e.g., poor 
+   transparency).
+
+ 4-13. Thesis Work
+   If the observations will form part of a graduate student's thesis project, 
+   please provide the student's name and thesis title.
+
+
+5. MEMBERS OF THE TIME ALLOCATION COMMITTEE
+
+     Chair: Sadanori Okamura 
+               (University of Tokyo, Structure Formation and Cosmology)
+     Coordinator: Yoshiaki Taniguchi 
+               (Tohoku University, External Galaxies and AGN)
+     Members: Junichi Watanabe (NAOJ, Solar System)
+                      Kozo Sadakane (Osaka Kyoiku University, Stars 
+                                        and the Galaxy)
+                      Motohide Tamura (NAOJ, Star Formation and ISM)
+                      Nobuo Arimoto (University of Tokyo, General)
+                      Nobuyuki Kawai (RIKEN, General)
+                      Tetsuo Hasegawa (University of Tokyo, General)
+
+6. STATUS OF  TELESCOPE
+
+   The latest telescope performance figures can be found at 
+   http://www.naoj.org/Observing/Telescope/performance.html
+
+ 6-1. Target acquisition
+   The r.m.s. absolute pointing accuracy of Subaru is better than 1''.  
+   More accurate target acquisition can be obtained with the acquisition  
+   and guide (AG) probe, which can position a target to 0.07''  accuracy  
+   within its 30'' field of view.
+
+ 6-2. Tracking/guiding performance
+   The tracking (i.e., no guide star) accuracy of Subaru Telescope is 
+   0.15'' -- 0.3" for integrations of 3 minute. This degrades to 0.2'' over 
+   10 minutes, and 0.6'' over 30 minutes under the best conditions.
+
+   The guiding accuracy is typically about 0.12'' and stars down to 
+   V=18 have successfully been used at the Cassegrain focus.  The 
+   performance at other foci has not yet been determined.  Applicants 
+   should be aware that there is approximately 10% drop of signal at 
+   the Suprime-Cam field edge due to vignetting by the AG probe for 
+   guide stars at a nominal distance of 13' from the field center. 
+   Choosing guide stars closer to the field center will cause more 
+   severe vignetting. 
+
+7. STATUS OF INSTRUMENTS
+
+     Only IRCS and Suprime-Cam will be available for the open use.  
+All potential applicants should refer to 
+http://www.naoj.org/Observing/Instruments/index.html 
+for the latest instrument performance figures.
+
+ 7-1. IRCS 
+   IRCS will be available for imaging and grism spectroscopy with the 
+   60 mas plate scale, and for echelle spectroscopy. Broad-band 
+   JHK'KL'M' filters will be available, as well as narrow-band 
+   [Fe II] and Br gamma. 
+
+ 7-2. Suprime-Cam 
+   Suprime-Cam will be available with 8 CCDs providing a 24' x 24' 
+   field of view.  Johnson BVRI and SDSS g'r'i'z' filters will be available. 
+
+
+APPENDIX A
+
+CATEGORY KEYWORDS LIST AND REMARKS
+
+1. Solar System
+   Planets, satellites, asteroids, comets, Kuiper Belt objects, Oort cloud, 
+   interplanetary medium, zodiacal light
+
+2. Stars and the Galaxy
+   Individual stars (including brown dwarfs), main sequence and post-MS 
+   stars, Wolf-Rayet stars, variable and peculiar stars, novae, white dwarfs 
+   (including the central stars of planetary and protoplanetary nebulae), 
+   neutron stars, pulsars, supernovae, star clusters and associations, 
+   Galactic structure
+
+3. Star Formation and the Interstellar Medium
+   Young stellar objects and disks, gas and dust properties, extrasolar 
+   planets and brown dwarfs, molecular and interstellar clouds, stellar 
+   jets and outflows, H II regions, planetary and protoplanetary nebulae, 
+   reflection nebulae, supernova remnants, cosmic rays, magnetic fields,  
+   Galactic center
+
+4. External Galaxies and AGN
+   Individual galaxies, groups and clusters of galaxies, starburst galaxies, 
+   AGN, quasars, galactic jets, intergalactic medium
+
+5. Structure Formation and Cosmology
+   Large scale structure, formation and evolution of galaxies, streaming  
+   motions, peculiar velocities,  quasar absorption line systems, 
+   gravitational lensing, dark matter, distance scale
+
+Important Remarks
+   Some proposals may appear to be equally suited to more than one category. 
+   In such cases, the applicant should select a category based on the 
+   scientific aims of the proposal rather than the target objects.  In order 
+   to ensure fair refereeing, and that similar proposals are refereed by the 
+   same panel, the applicant's choice of category may be overruled.
+
+
+APPENDIX B
+
+CONFLICTS WITH SUPRIME-CAM GUARANTEED TIME OBSERVATIONS
+
+    A number of nights have been reserved for Guaranteed Time Observations 
+by Suprime-Cam. This Appendix lists those observations which might conflict 
+with targets proposed for Open Use in Semester S00.
+
+    Most observations planned for Suprime-Cam's Guaranteed Time 
+involve imaging of high Galactic latitude fields. The data will be 
+shared by different programs, most of which do not insist on specific 
+fields. The actual fields observed will therefore be determined by 
+factors such as accessibility under good seeing conditions during the 
+observing runs, and only two fields are embargoed (all coordinates in 
+this Appendix are J2000.0):
+
+  Field-1 (13:24:21, +27:29:23)
+  Field-2 ( 2:18:00, -05:00:00)
+
+The list of key programs is:
+
+1. Large scale mass distribution and shear variance from weak lensing
+2. Photometric redshifts and morphology of distant field galaxies
+3. Evolution of luminosity function, SED, star formation rate, and type 
+    mix of field galaxies
+4. Evolution of the large scale structure of galaxies
+5. Search for the origin of highest energy cosmic rays
+6. Search for high-z supernovae
+
+While proposals with similar scientific objectives to these key programs  
+will be considered by the TAC, applicants should be aware that such 
+proposals may be required to meet a slightly higher standard, or find 
+new and original applications for the data, than proposals in unrelated 
+fields. The TAC's decision in such matters is final.
+
+In addition, the following specific fields will be observed during the 
+Guaranteed Time. Applicants may not propose to observe these fields for 
+the same scientific objectives as the Guaranteed Time Observations. 
+Applicants who wish to observe these fields for different objectives may  
+propose to do so, on the understanding that their data become immediately 
+available to the Suprime-Cam team. However, such applicants must first 
+contact the PI of Suprime-Cam, Prof. Sadanori Okamura 
+(email: okamura@astron.s.u-tokyo.ac.jp), to confirm the difference in 
+their scientific objectives, before submitting their proposal.
+
+7. Galaxy population, structure, and luminosity function of clusters of 
+    galaxies
+ (a) A665, A1401, A1689, A2009, A2069, A2218, MS1520.1+3002
+ (b) Six fields in Coma cluster;
+       Coma-1  ( 12:57:07.5, +28:38:12.5 )
+       Coma-2  ( 12:57:07.5, +29:03:12.5 )
+       Coma-3  ( 12:57:07.5, +28:27:42.5 )
+       Coma-4  ( 12:57:07.5, +28:52:42.5 )
+       Coma-5  ( 12:58:15.0, +27:46:12.5 )
+       Coma-6  ( 12:59:23.7, +27:51:12.5 )
+ (c) One field in Virgo cluster
+       Virgo-1 ( 12:29:25.0, +12:41:30.0 )
+ (d) Four fields in Hydra I cluster
+       Hydra-1 ( 10:35:53.0, -27:23:30.0 )
+       Hydra-2 ( 10:37:23.0, -27:01:00.0 )
+       Hydra-3 ( 10:35:05.0, -28:23:00.0 )
+       Hydra-4 ( 10:38:03.0, -27:45:00.0 )
+8. Galaxy populations in distant clusters
+ (a) 3C 336
+ (b) CIG J0848+4452/3
+9. Stellar population study
+     Leo II dwarf galaxy in the Local Group
+10. Stellar populations in the halo of M31
+     Three fields on the minor axis at 0.67, 4.0 and 6.0 degrees SE of the 
+    nucleus
+11. Globular clusters of M81
+     Field-1   ( 09:34:19.0, +69:13:54.0 )
+     Field-2   ( 09:55:34.0, +68:50:36.0 )
+
+------------- End Forwarded Message -------------
+
+

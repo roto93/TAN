@@ -1,0 +1,112 @@
+From kyl@asiaa.sinica.edu.tw Wed Aug  4 15:59 CST 1999
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA28873
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 4 Aug 1999 15:58:32 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id PAA18880
+	for <astro@asiaa.sinica.edu.tw>; Wed, 4 Aug 1999 15:56:34 +0800
+Date: Wed, 4 Aug 1999 15:54:58 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: IRAM Newsletter Special Issue (fwd)
+Message-ID: <Pine.SOL.4.10.9908041554550.1739-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3016
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Mon, 2 Aug 1999 13:10:17 +0200 (METDST)
+From: Edition account <pub@iram.fr>
+To: iramnews@iram.fr
+Subject: IRAM Newsletter Special Issue
+
+
+
+
+
+   To IRAM users:
+
+
+   A new issue (Num.  40, July 1999) of the IRAM Newsletter has
+appeared:
+
+
+   http://iram.fr/newsletter/jul99/jul99.html (HTML version)
+
+
+   http://iram.fr/newsletter/jul99/jul99.ps (Postscript version)
+
+
+   http://iram.fr/newsletter/jul99/jul99.ps.gz (Postscript version, gzipped)
+
+
+   It contains the following sections:
+
+
+- Solidarity Account
+- Recovery activities since the acccident of the telepherique
+- Calendar
+
+
+
+   The IRAM Newsletter is available in electronic form:
+
+
+
+  o on the World Wide Web, using e.g.  Netscape of NSCA Mosaic:
+    you may use the direct links mentioned above, or the reach it from
+    the IRAM Home page (http://iram.fr/) and follow the links to the
+    last issue for the Newsletter, or other new items ...
+
+  o by means of an anonymous FTP account, opened at IRAM for In-
+    ternet users, containing in a read-only public area the most recent
+    issues of the IRAM Newsletter, as well as documentation on the
+    IRAM telescopes and on reduction software, distribution files for
+    reduction software, files for proposal preparation, ... etc. To access
+    those files, please connect through ftp to iram.fr (or 193.48.252.22),
+    go to directory dist/newsletter, and read the README file
+
+  o by means of an electronic mail file server installed at IRAM (on
+    iraux2). This file server is a file distribution service that uses elec-
+    tronic mail facilities to deliver files. To communicate with it you
+    should send a message to the electronic address:
+           listserv@iram.fr
+    On the first time you should send a message:
+           SUBSCRIBE IRAMNEWS your name
+    in order to subscribe to the mailing list IRAMNEWS. You will
+    then receive an aknowledgement from the server.  Then, for in-
+    stance, to obtain a copy of the January 1999 issue, just send the
+    one line message:
+           GET IRAMNEWS JAN99.PS
+    to the above electronic address. You will receive later a mail mes-
+    sage containing the IRAM Newsletter in Postscript code. Please
+    discard all the e-mail header information with a text editor, and
+    send the file to a Postscript printer.  More information may be
+    obtained by sending the one line message:
+           HELP
+    Note that this file server also contains the proposal forms.
+
+The e-mail list IRAMNEWS is used to send warning messages when the
+Newsletter is available, but also to provide fast information, if needed.
+   Please keep M. Guelin informed of any problem you may encounter.
+
+
+
+                                1
+
+

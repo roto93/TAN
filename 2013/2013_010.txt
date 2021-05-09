@@ -1,0 +1,317 @@
+Date: Tue, 15 Jan 2013 01:53:31 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jan 05 - 15, 2013)
+
+============================================================================== 
+
+In this issue (Jan 05 - 15, 2013)
+
+1. ASIAA Colloquium (Jan 11; sorry late): Lucio Piccirillo (Univ of Manchester)
+2. Invitation: Lecturers of the 4th APCosPA School/Workshop (housing available)
+3. The Sixth Workshop on Black Hole Magnetospheres (Mar 5-7)
+4. ASIAA Colloquia (Jan 18): Yasuhiro Hasegawa (ASIAA)
+                  (Jan 15): Tony Mroczkowski (JPL/Caltech)
+
+==============================================================================
+
+> Date: Sun, 6 Jan 2013 08:00:01 +0800
+> From: root <root@www.asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Lucio Piccirillo (University of Manchester)
+Topic:        Next generation of CMB B-modes coherent instruments to reach r<0.01
+Time:        1/11 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+I will present the status of our research at JBCA concerning the development of ultra low-noise
+cryogenic LNAs and a novel interferometer scheme that can be used for CMB B-modes research. 
+
+The majority of cryogenic HEMT amplifiers are usually cooled at physical temperatures of the order of 15 - 20K 
+mostly because it is believed that the noise reduction with temperature is negligible with further reduction of the
+temperature. We built a test cryostat equipped with our own design 1K fridge to characterise Ka-band amplifiers in the 
+range 20K to 1K. We have extensively studied an MIC Planck EBB, a Faraday MMIC and a novel Transistor + MMIC amplifier 
+all at Ka-band. 
+
+We find that there is space for further improvement in noise performances when a comprehensive optimisation of bias
+conditions with physical temperature is performed. In addition to a reduction in noise we observe also
+a very interesting reduction in bias power dissipated by the amplifier. The results of our study allow us to
+propose a potential scheme for the next generation of CMB B-modes experiments where a very large
+number of pixels are needed. I will discuss the design of a ~1,000 horns W-band compact camera that can be
+used to realise an interferometer installed in a single cryostat.
+
+==============================================================================
+
+> Date: Tue, 8 Jan 2013 14:46:13 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: twhepnet@hepmail.phys.sinica.edu.tw, <astro@asiaa.sinica.edu.tw>
+> cc: talin@phys.ntu.edu.tw, "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> Subject: Re: Invitation: Lecturers of the 4th APCosPA School/Workshop (fwd)
+
+Dear Colleagues:
+
+    We would provide housing for the students and young postdocs for the 
+School/Workshop, if qualified, if you register by next Monday (Jan 14). 
+Please notify your students. 
+
+                                  Sincerely yours, W-Y. Pauchy Hwang 
+
+On Wed, 26 Dec 2012, Pauchy W-Y.Hwang wrote:
+
+> Dear Colleagues: Please help to distribute the announcement and encourage 
+> the students and interested postdocs to attend. Sincerely yours, Pauchy
+> 
+> -------------------------------------------------------------------------
+> *The 4th APCosPA Winter School/Workshop on Cosmology and Particle
+> Astrophysics*
+> 
+> *21 January 2013 - 1 February 2013*
+> *Department of Physics, National Taiwan University, Taipei, Taiwan*
+>          The pace of the advancement in the area of Cosmology and Particle
+> Astrophysics (CosPA) is amazedly fast since the new century. The
+> researchers in the Asia Pacific region, including Australia, China, Hawaii,
+> Japan, Korea, New Zealand, and Taiwan, have played their due roles in
+> making the progresses. To make our marks more noticeable, we have formed
+> the Asia Pacific Organization for Cosmology and Particle Astrophysics
+> (APCosPA Organization) on 1 January 2011.
+> 
+>          One beginning was to hold the First APCosPA Winter School in
+> January 2010, at National Taiwan University, Taipei. We intend to cover the
+> various topics in Cosmology and Particle Astrophysics but mainly toward the
+> graduate students and young researchers.
+> 
+>          Each lecturer would give two to three lectures, with a couple of
+> hard problems. And the registered students or young postdocs could enter
+> the competitions with the awards given to the first few “students ”.
+>            In 2013, we invite, as special APCosPA visitors, Nobel laureate
+> George Smoot to visit us while, in 2014, another Nobel Laureate Brian
+> Schmidt. Although there may be no overlap with the school period, it is
+> interesting to keep that in mind.
+> 
+> W-Y. Pauchy Hwang
+> 
+> President, APCosPA Org.
+> 
+> Lecturers
+> 
+> Je-An Gu (NTU, Taiwan)
+> 
+> Xiao-Gang He (NTU, Taiwan)
+> 
+> W-Y. Pauchy Hwang (NTU, Taiwan)
+> 
+> Sang Pyo Kim (Kunsan, Korea)
+> 
+> Hyun Kyu Lee (Hanyang, Korea)
+> 
+> Bo-Qiang Ma (Peking, China)
+> 
+> Miao Li (ITP, China)
+> 
+> Masahide Yamaguchi (Tokyo, Japan)
+> 
+> Jun’ichi Yokoyama (Tokyo, Japan)
+> 
+> Anthony Zee (UCSB, USA)
+> 
+> *Xiang-Dong Ji (Maryland, USA)
+> 
+> *Chung-Pei Ma (UCB, USA)
+> 
+> And others.
+> 
+> Sponsorship
+> 
+> Asia Pacific Center for Theoretical Physics (APCTP)
+> 
+> National Center for Theoretical Sciences (North)
+> 
+> Center for Theoretical Sciences, National Taiwan University
+> 
+> *Contact Information*
+> 
+> Ms. Ting-An Lin
+> Tel: +886-2-33665189
+> Fax: +886-2-23655473
+> E-mail: lisalynn@phys.ntu.edu.tw
+> 
+> www.cospa.ntu.edu.tw/winterschool/2013
+> 
+> 
+
+==============================================================================
+
+> Date: Thu, 10 Jan 2013 10:12:37 +0800  
+> From: Kouichi Hirotani <hirotani@tiara.sinica.edu.tw>        
+> CC: Kouichi Hirotani <hirotani@tiara.sinica.edu.tw>
+> Subject: TAN AD request
+
+Dear Prof. Kuan, 
+
+I should appreciate it if you could advertise the following workshop 
+on TAN. 
+
+Thank you very much. 
+
+Kouichi Hirotani (ASIAA/TIARA) 
+
+--------------------  (Please cut here.)  -------------------------- 
+
+    The Sixth Workshop on Black Hole Magnetospheres 
+
+            March 5 (Tue) - 7 (Thu), 2013 
+
+        National Tsing Hua University, Hsinchu 
+
+After the discovery about 40 years ago, black holes are used as 
+astrophysical laboratories for studying the physics of general 
+relativity and high-energy plasma phenomena.  In this workshop, 
+we envisage a program highlighting the most recent results, 
+as well as revisiting fundamental arguments of black-hole 
+astrophysics.  This workshop has been held in Japan every year, 
+and this year, will be held in Taiwan for the first time. 
+We expect about 15 participants from Japan; therefore, the 
+objective of this workshop is to outline a future coordinated 
+program of collaborative work between Taiwan and Japan on the 
+physics of compact objects. Everyone is cordially invited. 
+
+Topics: 
+- Accretion onto compact objects, 
+- Structures of black-hole magnetospheres, 
+- General-relativistic effects around a black hole, 
+- Radio(VLBI)-imaging of the vicinity of a black hole, 
+- Formation, propagation, and acceleration of jets 
+- Other topics (e.g., black holes, pulsars, jets, ...) 
+
+Venue and Access: 
+  National Center for Theoretical Sciences (NCTS), 
+    Lecture Room A (c00, 4F), General Building 3, 
+    National Tsing Hua University (NTHU), 
+    No. 101, Sec. 2, Kuang-Fu Rd., Hsinchu, Taiwan 
+
+  For access, please take a look at the website 
+    http://www.nthu.edu.tw/ 
+
+Schedule: 
+  March 2013 
+  5 (Tu) 09:00-17:30 Workshop 
+  6 (We) 09:00-13:30 Workshop, 13:30- Excursion 
+  7 (Th) 09:00-17:30 Workshop 
+
+Registration and Abstract Submission: 
+  Registration is free of charge. However, we may correct 
+  small contribution for refreshments. 
+  Abstract submission closes on February 15, 2013. 
+  To give an oral presentation, please send the 
+  form attached at the end of this message. 
+
+Accommodation: NTHU guest house 1 (Hsinchu) 
+  Options: (Prices are per night per room) 
+  (1) Single occupancy of a double-bed room, NTD 1800 
+  (2) Double occupancy of a double-bed room, NTD 1800 
+  (3) Single occupancy of a single-bed room, NTD 1500-1800 
+  (4) Double occupancy of a single-bed room, NTD 1500-1800 
+
+  If you plan to stay in NTHU Guesthouse 1, please send 
+  the form below by January 25, 2013.  (In this case, 
+  you can send the abstract separately by Feb 15, 2013.) 
+  Each single-bed room has two beds. 
+  If you want to share the room, please indicate your 
+  gender or show your potential room mate. 
+  (A double-bed room has only one double bed.) 
+
+Contact: 
+  Kouichi HIROTANI, ASIAA/TIARA 
+    Phone: 03-571-5131 ext. 33285 
+    Email: hirotani_at_tiara.sinica.edu.tw 
+          (Please replace _at_ with @.) 
+
+======= Abstract Submission & Accommodation Form ======= 
+
+  Name: 
+
+  Affiliation: 
+
+  E-mail: 
+
+  Title: 
+
+  Abstract: (Deadline: Feb 15, 2013) 
+
+  Accommodation: (Deadline: Jan 25, 2013) 
+    (a) I do not plan to stay in NTHU guest house 1. 
+    (b) I plan to stay in NTHU guest house 1. 
+
+    If you plan to stay in NTHU guest house 1, please 
+    show your preference from the following options: 
+
+      Option (1), single occupancy of a double-bed room 
+      Option (2), double occupancy of a double-bed room 
+      Option (3), single occupancy of a single-bed room 
+      Option (4), double occupancy of a single-bed room 
+
+    First preference:  Option ? 
+    Second preference: Option ? 
+    Third preference:  Option ? (if any) 
+
+    (If you accept to share the room, please indicate 
+    your gender or show the name of your room mate.) 
+
+  Please send this form to Kouichi HIROTANI (ASIAA/TIARA) 
+      Email: hirotani_at_tiara.sinica.edu.tw 
+            (Please replace _at_ with @.) 
+
+------ End of form ------ 
+
+==============================================================================
+
+> Date: Sun, 13 Jan 2013 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Yasuhiro Hasegawa (ASIAA)
+Topic:        TBA
+Time:        1/18 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Tony Mroczkowski (JPL/Caltech)
+Topic:        Multi-wavelength and High-Resolution Sunyaev-Zelâ€™dovich Effect Observations of Galaxy Clusters
+Time:        1/15 (Tuesday) 15:00 - 16:00
+Place:        R1203
+Abstract:
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

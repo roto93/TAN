@@ -1,0 +1,79 @@
+> Date: Thu, 16 Feb 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Kouichi Hirotani (ASIAA)
+Topic:          Emission from the direct vicinity of black holes
+Time:           2/20 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+In a black hole magnetosphere, when the plasma accretion rate is much
+lower than the Eddington limit, a strong electric field inevitably
+appears along the magnetic field lines due to charge deficit.  In
+such a charge-starved region (or a gap), the electric field accelerates
+migratory electrons and positrons into ultra relativistic energies.
+These relativistic leptons emit copious gamma-rays via curvature and
+inverse-Compton (IC) processes. Some of such gamma-rays collide with
+the submillimeter-IR photons emitted from the radiatively inefficient
+accretion flow (RIAF) to materialize as pairs.  The created pairs
+polarize to partially screen the original acceleration electric field.
+By solving this pair-creation cascade self-consistently for the first
+time, we find that the gap emissions from the direct vicinity of
+stellar-mass, intermediate-mass, and super-massive black holes are
+detectable with Fermi/LAT and Imaging Atmospheric Cherenkov Telescopes
+(e.g., MAGIC, HESS, VERITAS, and CTA) when the accretion rate is
+in a certain range.  Moreover, such HE/VHE gamma-ray fluxes are predicted
+to exhibit anti-correlation with the RIAF submillimeter fluxes,
+which enables us to discriminate the gap emission from the standard,
+shock-in-jet model, e.g., by using ALMA and CTA.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Kenneth Wong (NAOJ, EACOA Fellow)
+Topic:          Cosmology from Gravitational Lens Time Delays
+Time:           2/21 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Strong gravitational lens systems with time delays between the
+multiple images are a powerful probe of cosmology and astrophysics. In
+particular, the time-delay distance from such a system is primarily
+sensitive to the Hubble constant (H0) that is key to probing dark
+energy, neutrino physics, and the spatial curvature of the Universe,
+as well as discovering new physics.  The H0 Lenses In COSMOGRAIL’s
+Wellspring (H0LiCOW) project aims to measure H0 to <3.5% precision
+from five lensed quasars using deep Hubble Space Telescope imaging,
+precise time delay measurements from the COSMOGRAIL monitoring
+project, a measurement of the velocity dispersion of the lens
+galaxies, and a characterization of the mass distribution along the
+line of sight.  The most recent H0LiCOW analysis of the system HE
+0435-1223 is able to constrain the time-delay distance to a precision
+of ~8%.  In combination with the previous two H0LiCOW lenses, we
+constrain H0 to ~3.8% precision for a flat Lambda CDM cosmology,
+independent of and competitive with the latest distance ladder
+results.  The results are consistent with independent determinations
+of H0 using the distance ladder method and are in moderate tension
+with the latest Planck results for a similar cosmology, hinting at
+possible new physics beyond the standard LCDM model and highlighting
+the importance of this independent probe.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Pham Ngoc Diep (Vietnam National Satellite Center/Vietnam Academy of Science and Technology)
+Topic:          Millimetre/Submillimetre Astronomy Studies of Evolved Stars, Protostars and High Redshift Galaxies
+Time:           2/22 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The observation of molecular emission at millimetre and submillimetre wavelengths gives access to the study of stars having a large and cool circumstellar envelope as well as of the gas reservoirs of galaxies, in particular remote galaxies with redshift in the 2 to 5 range at the epoch of maximum star formation rate. The observation of the continuum emission underneath the molecular excitation lines provides important information on the dust content. Using Plateau de Bure and archival ALMA observations, we have been able to reconstruct in space, under simplifying hypotheses such as of invariance by rotation about an axis, both the morphology and the kinematics of such sources. Examples will illustrate these studies, including Asymptotic Giant Branch stars, protostars and gravitationally lensed high redshift galaxies.
+
+==============================================================================

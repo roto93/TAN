@@ -1,0 +1,195 @@
+From kyl@asiaa.sinica.edu.tw Mon Jan 24 21:34 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA00137
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 24 Jan 2000 21:34:19 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA16877
+	for <astro@asiaa.sinica.edu.tw>; Mon, 24 Jan 2000 21:23:39 +0800
+Date: Mon, 24 Jan 2000 21:23:39 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: BOUNCE vlbi: Non-member submission from [Anita Richards <amsr@jb.man.ac.uk>]
+ (fwd)
+Message-ID: <Pine.LNX.4.10.10001242123360.16803-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5823
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 18 Jan 2000 10:46:04 -0700 (MST)
+From: George Martin <gmartin@aoc.nrao.edu>
+To: vlbi@zia.aoc.nrao.edu
+Subject: BOUNCE vlbi: Non-member submission from [Anita Richards
+    <amsr@jb.man.ac.uk>]
+
+
+
+Forwarded for Anita Richards <amsr@jb.man.ac.uk>]
+
+
+----- Begin Included Message -----
+
+>From owner-vlbi Tue Jan 18 09:43 MST 2000
+Date: Tue, 18 Jan 2000 09:43:18 -0700 (MST)
+X-UIDL: 948217418.015
+From: owner-vlbi
+To: owner-vlbi
+Subject: BOUNCE vlbi: Non-member submission from [Anita Richards <amsr@jb.man.ac.uk>]
+Content-Type: text
+Content-Length: 4881
+X-Lines: 134
+Status: RO
+
+>From gmartin  Tue Jan 18 09:43:14 2000
+Received: from cv3.cv.nrao.edu (cv3.cv.nrao.edu [192.33.115.2])
+	by zia.aoc.NRAO.EDU (8.9.3/8.9.3) with ESMTP id JAA09518
+	for <vlbi@zia.aoc.nrao.edu>; Tue, 18 Jan 2000 09:43:12 -0700 (MST)
+Received: from palantir.cv.nrao.edu (palantir.cv.nrao.edu [192.33.115.254])
+	by cv3.cv.nrao.edu (8.9.3/8.9.3/CV-SOL-3.0) with ESMTP id LAA09645
+	for <vlbi@cv3.cv.nrao.edu>; Tue, 18 Jan 2000 11:43:10 -0500 (EST)
+Received: from curlew.cs.man.ac.uk (curlew.cs.man.ac.uk [130.88.13.7])
+	by palantir.cv.nrao.edu (8.9.3/8.9.3/CV-PALANTIR-3.1) with ESMTP id LAA05711
+	for <vlbi@cv3.cv.nrao.edu>; Tue, 18 Jan 2000 11:43:08 -0500
+Received: from taranis.jb.man.ac.uk ([130.88.24.25])
+	by curlew.cs.man.ac.uk with esmtp (Exim 1.92 #3)
+	for vlbi@cv3.cv.nrao.edu
+	id 12Abil-000Jpr-01; Tue, 18 Jan 2000 16:43:07 +0000
+Received: from carina ([130.88.24.175] helo=carina.jb.man.ac.uk)
+	by taranis.jb.man.ac.uk with esmtp (Exim 3.03 #1)
+	id 12AbV0-0003gz-00; Tue, 18 Jan 2000 16:28:54 +0000
+Date: Tue, 18 Jan 2000 16:28:53 +0000 (GMT)
+From: Anita Richards <amsr@jb.man.ac.uk>
+X-Sender: amsr@carina
+To: merlin-announce@jb.man.ac.uk, vlbi@cv3.cv.nrao.edu
+Subject: Radio Imaging Spring School
+Message-ID: <Pine.GSO.4.10.10001181627260.13379-100000@carina>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+FIRST ANNOUNCEMENT
+
+RADIO IMAGING
+
+A Spring School on processing radio astronomy data 
+25 - 28 April 2000
+Jodrell Bank Observatory, University of Manchester, England
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+
+Radio interferometers form part of the new generation of high resolution,
+high sensitivity instruments. MERLIN and EVN observations which compliment
+the HST, XMM and other deep fields are revealing hitherto unseen
+populations of sources. The star formation history of the Universe, the
+details of protostellar and protoplanetary discs, the processes in an AGN
+or an X-Ray binary are just some of the outstanding questions in astronomy
+which radio observations help to answer.
+
+Present instruments have milli-arcsec or even micro-arcsec resolution and
+spectral lines can be observed with a fractional resolution of one part in
+10^6 or 10^7.  Demands for observing time are becoming ever more
+competitive and new techniques are being developed for analysing the
+increasing volumes of data.  Within the next decade, major upgrades and
+new instruments will become available.  
+
+This School is designed to help UK and other astronomers make the best use
+of radio interferometers, now and in the future.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Topics to be covered include:
+
+Introduction to synthesis imaging 
+ Note that in this and all sessions, applications involving new
+ instruments eg ALMA will be included where relevant, as well as
+ exisiting interferometers like MERLIN and VLBI networks - all present and
+ potential users welcome! We will also cover combining data from different
+ arrays.
+
+The capabilities of radio telescopes
+
+Basic data reduction techniques
+
+Interpreting results and error analysis
+
+Radio astronomy in the 2000's - deep fields, the future of the EVN and
+MERLIN, radio and the rest of the spectrum.
+
+The nature of radio sources and how to observe them - choosing an
+instrument, writing the proposal, what to expect.
+
+These sessions will cover the use of the appropriate data reduction
+packages eg AIPS, AIPS++, DIFMAP.
+
+There will be a mixture of lectures, small group tutorials and hands-on
+experience and we will provide data and work-sheets for you to tackle at
+your own pace, and a 'surgery'.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+There is no fee; accomodation (in student halls of residence) and meals
+will be provided during the School.
+
+Attendance at the School will be limited to about 30 people, so please
+complete these details as soon as possible:
+
+NAME
+
+EMAIL
+
+FAX
+
+ADDRESS
+
+STUDENT?
+
+Please indicate as appropriate:
+
+I would like to register for the Spring School ____
+(you will be sent more details in the next few weeks)
+
+ Please state, in one or two sentences, your level of experience of radio
+ data processing.  This is so that we can make sure the program caters to
+ all requirements, whether you have never reduced radio data yourself or
+ if you are an experienced user.
+
+I would like more information about ____ 
+before deciding to register
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Thank-you. You can return this form or contact us as below.
+
+Spring School, 
+JBO, University of Manchester
+Macclesfield, Cheshire SK11 9DL, U.K.
+
+Anita Richards, Tom Muxlow amsr@jb.man.ac.uk twbm@jb.man.ac.uk
+
+tel 01477 571321 fax 01477 571618
+
+More copies of this form and an A4 poster advertising the School are at
+http://www.jb.man.ac.uk/merlin/school.htm
+
+
+
+
+----- End Included Message -----
+
+

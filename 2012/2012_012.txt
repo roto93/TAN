@@ -1,0 +1,217 @@
+ Date: Mon, 16 Jan 2012 22:51:54 +0800
+ Subject: Fwd: IAU Symposium 289: Advancing the Physics of Cosmic Distances
+  [1st announcement]
+ From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+ To: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>,
+        IANCU All <asall10@astro.ncu.edu.tw>
+
+---------- Forwarded message ----------
+> From: Richard de Grijs <r.degrijs@pku.edu.cn>
+> Date: 2012/1/16
+> Subject: IAU Symposium 289: Advancing the Physics of Cosmic Distances [1st
+> announcement]
+> To: iaus289 <iaus289@gmail.com>
+
+
+
+              F I R S T  A N N O U N C E M E N T
+
+        International Astronomical Union Symposium 289
+
+          "Advancing the Physics of Cosmic Distances"
+      http://www.mporzio.astro.it/IAUS289/www/Home.html
+                      iaus289@gmail.com
+
+IAU General Assembly, National Convention Centre, Beijing (China)
+
+                      27-31 August 2012
+
+(For practical information, scroll to the bottom of this announcement.)
+
+** SOUNDBITE: **
+
+Knowing the distance of an astrophysical object is key to
+understanding it. However, at present, comparisons of theory and
+observations are hampered by precision (or lack thereof) in distance
+measurements or estimates. Putting the many recent results and new
+developments in relevant subareas into the broader context of the
+physics driving cosmic distance determination is the next logical
+step, which will benefit from the combined efforts of theorists,
+observers and modellers working on a large variety of spatial scales,
+and spanning a wide range of expertise. This Symposium will focus on
+the physics underlying methods of distance determinations across the
+Universe, exploring on the way the various methods employed to define
+the milestones along the road. We aim to provide a snapshot of the
+field of distance measurement, offering not only up-to-date results
+and a cutting-edge account of recent progress, but also full
+discussion of the pitfalls encountered and the uncertainties that
+remain. We aim to provide a roadmap for future efforts in this field,
+both theoretically and observationally.
+
+
+** SCIENTIFIC ORGANISING COMMITTEE: **
+
+Richard de Grijs    (KIAA, Peking University, China) - co-chair
+Giuseppe Bono      (Universit=E2=88=9A=E2=80=A0 Roma Tor Vergata, Italy) -=
+co-chair
+
+Susan Cartwright    (University of Sheffield, UK)
+Robin Ciardullo    (Pennsylvania State University, USA)
+Andrei Dambis      (Sternberg Astronomical Institute, Russia)
+Michael Feast      (University of Cape Town, South Africa)
+Wendy Freedman      (Carnegie Observatories, USA)
+Wolfgang Gieren    (Universidad de Concepci=E2=88=9A=E2=89=A5n, Chile)
+Martin Groenewegen  (Royal Observatory of Belgium, Belgium)
+Jeremy Mould        (Swinburne University of Technology, Australia)
+Carme Jordi        (Universitat de Barcelona, Spain)
+Mark Reid          (Harvard-Smithsonian Center for Astrophysics, USA)
+Myung-Hyun Rhee    (Yonsei University, Republic of Korea)
+Don VandenBerg      (University of Victoria, Canada)
+Rogier Windhorst    (Arizona State University, USA)
+Ye Xu              (Purple Mountain Observatory, China)
+
+
+** SCIENTIFIC RATIONALE: **
+
+Knowing the distance of an astrophysical object is key to
+understanding it: without an accurate distance we do not know how
+bright it is, how large it is, or even (for long distances) when it
+existed. But astronomical distance measurement is a challenging
+task. Distances to stars were first measured in 1838 by Bessel, Struve
+and Henderson, and accurate distances to other galaxies -- even the
+nearest -- date only from the 1950s. This is not really surprising,
+since the only information we have about any object beyond our Solar
+System is its position (perhaps as a function of time) and its
+brightness (as a function of wavelength and time). Yet, from this
+unpromising starting point, modern astronomers have developed methods
+of measuring distances which can take us from the nearest star to the
+most distant galaxy, using techniques that vary from the mundane (the
+astronomical equivalent of the surveyor's theodolite) to the exotic
+(the bending of light in general relativity, wiggles in the spectrum
+of the cosmic microwave background). Nevertheless, the most accurate
+optical and near-infrared methods of distance determination, from the
+solar neighbourhood to the highest redshifts, in use today rely
+heavily on having access to accurate spectroscopy, supplemented by
+astrometric measurements in the Milky Way (and slightly beyond).
+
+In 1997, the Hipparcos space mission provided (for the first time) a
+significant number of absolute trigonometric parallaxes at
+milliarcsec-level precision across the whole sky, which had a major
+impact on all fields of astrophysics. In addition, during the past ten
+years, the use of ground-based 8-10mclass optical and near-infrared
+telescopes (Keck, VLT, Gemini, Subaru) and space observatories (HST,
+Spitzer, Chandra, XMM-Newton) have provided an unprecedented wealth of
+accurate photometric and spectroscopic data for stars and galaxies in
+the local Universe. Radio observations, particularly with the VLBA and
+the Japanese VERA arrays, have achieved 10 micro-arsecond astrometric
+accuracy. Moreover, stellar models and numerical simulations are now
+providing accurate predictions of a broad range of physical phenomena,
+which can now in principle be tested using accurate spectroscopic and
+astrometric observations (including measurements of, e.g., line ratios
+and shapes, spectral slopes, radial velocities and velocity
+dispersions). However, at present, comparisons of theory and
+observations are mainly hampered by precision (or lack thereof) in
+distance measurements/estimates.
+
+While a number of past IAU Symposia have addressed individual aspects
+of the methods and physics underlying the fundamentals of distance
+determination, at the present time there is a need for a new,
+interdisciplinary Symposium encompassing the broad range of techniques
+and theories. Rather than focusing on historical perspectives, we will
+truly highlight the tremendous amount of recent and continuing
+research into a myriad of exciting and promising aspects of accurately
+pinning down the cosmic distance scale. Putting the many recent
+results and new developments in the relevant subareas into the broader
+context of the physics driving cosmic distance determination is the
+next logical step, which will benefit from the combined efforts of
+theorists, observers and modellers working on a large variety of
+spatial scales, and spanning a wide range of expertise.
+
+This is a very exciting time. VLBI sensitivity is being expanded
+allowing, for example, direct measurement of distances throughout the
+Milky Way and even to Local Group galaxies. The field will benefit
+from expert input to move forward into the era of Gaia,
+optical-interferometer and ELT-driven science, which (for example)
+will allow us to determine Coma-cluster distances without having to
+rely on secondary distance indicators, thus finally making the leap to
+accurate distance measurements well beyond the Local Group of
+galaxies. With the launch of Gaia imminent at the time of the IAU GA
+in Beijing, this is a really opportune time to be looking forward to
+the first Gaia catalogues, and understand how the science areas
+touched upon in this Symposium will be fundamentally changed by the
+Gaia results, what the big open questions are that Gaia can address in
+the Symposium's context, and what the future of complementary
+techniques and observational approaches will be once the Gaia
+catalogues become available.
+
+In this Symposium, we will bring together experts on various aspects
+of distance determinations and (most importantly) the underlying
+physics enabling this (without being restrictive in areas where
+statistical and observational approaches are more relevant), from the
+solar neighbourhood to the edge of the Universe, exploring on the way
+the various methods employed to define the milestones along the
+road. We will emphasise, where possible, the physical bases of the
+methods and recent advances made to further our physical insights. We
+aim to provide a snapshot of the field of distance measurement,
+offering not only up-to-date results and a cutting-edge account of
+recent progress, but also full discussion of the pitfalls encountered
+and the uncertainties that remain. We aim to provide a roadmap for
+future efforts in this field, both theoretically and observationally,
+and in particular will consider the key question as to whether the
+field is best served by having access to the nextgeneration of
+extremely large telescopes and the Square Kilometer Array (as well as
+the James Webb Space Telescope) and/or if significant progress can
+still be made with dedicated 2-4m-class optical telescopes as well as
+upgraded radio interferometers.
+
+Although our focus is techniques of distance determination, this is
+intimately linked to many other aspects of astrophysics and
+cosmology. On our journey from the solar neighbourhood to the edge of
+the Universe, we shall encounter stars of all types, alone, in pairs
+and in clusters, their life cycles, and their explosive ends: binary
+stars, in particular, play an important role in this context, e.g. in
+pinning down accurate distances to the Pleiades open cluster and Local
+Group galaxies, as well as in future ground- and space-based surveys
+(including Gaia, RAVE, and others); the stellar content, dynamics, and
+evolution of galaxies and groups of galaxies; the gravitational
+bending of starlight; and the expansion, geometry and history of the
+Universe. As a result, the Symposium will offer not only a
+comprehensive study of distance measurement, but a tour of many recent
+and exciting advances in astrophysics.
+
+
+** REGISTRATION/TRAVEL GRANTS: **
+
+Registration for this Symposium must be done via the IAU General
+Assembly's registration process:
+- http://www.astronomy2012.org/dct/page/65611
+
+Note that the early registration deadline is 29 February 2012.
+
+All participants, INCLUDING INVITED AND REVIEW SPEAKERS, must register
+via the IAU GA website.
+
+If you are not an IAU member, the IAU's Paris Office will issue an
+official invitation once your status as professional astronomer has
+been verified. To aid this process, please register as usual and also
+send an email to the Symposium's organisers (iaus289@gmail.com),
+including:
+- your name and gender (important!)
+- your full institute address
+- your professional status (student, postdoc, faculty, etc.)
+
+Students also need to ask their adviser to send an endorsement letter
+directly to the IAU's secretariat; see
+http://www.astronomy2012.org/dct/page/65611 (note 1).
+
+If you want to qualify for partial TRAVEL SUPPORT, the deadline for
+travel grant applications is also 29 February. See for more details:
+http://www.iau.org/grants_prizes/iau_grants/ga_events/ -- we cannot
+provide firm guarantees of travel support before 8 May 2012, and there
+is no need to follow up any enquires prior to that date (we won't have
+the answers).
+
+
+We hope to see many of you at IAU Symposium 289 in Beijing this summer!
+
+==============================================================================

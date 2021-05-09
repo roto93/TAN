@@ -1,0 +1,396 @@
+=============================================================================== 
+In this issue (Feb 18 - 22, 2015)
+
+1. ASIAA Colloquia/Seminars/Lunchtalk (Feb 24):    Paulo Freire (MPIfR)
+                    (Feb 25): Kevin Walsh (SwRI)
+2. NTHU Astronomy Colloquium (Mar 05): Jun Hashimto (Univ of Oklahoma)
+3. First announcement of Summer Schoool (Jun 29 - Jul 3 at Univ of Tokyo):
+        New Era of the Cosmic Distance Scale
+4. CFHT 2015B call for proposals (Mar 20)
+5. NTHU Astronomy Colloquium (Mar 06): John Eldridge (Univ of Auckland)
+
+===============================================================================
+
+> Date: Thu, 19 Feb 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: Henry Hsieh <hhsieh@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Paulo Freire (Max Planck Institute for Radio Astronomy)
+Topic:         Testing general relativity and alternative theories of gravity with binary pulsars
+Time:         2/24 (Tuesday) 15:20 - 16:20
+Place:         R1203
+Abstract:
+The last decade has witnessed a revolution in tests of general relativity using binary pulsars. First, the discovery of the "double pulsar", PSR J0737-3039, has greatly improved the quality (and quantity) of tests of general relativity possible with double neutron star systems. In particular, it has greatly improved the famous test of the emission of gravitational waves, which was originally carried out with the Hulse-Taylor binary pulsar, PSR B1913+16. In this talk I review some of the basics on pulsars and neutron stars, discuss the basics of pulsar timing and discuss in detail these classical tests and their  results, with a particular emphasis on the upcoming results from the double pulsar.
+    Second, the discovery of several tight binary millisecond pulsar systems with optically bright white dwarf companions like PSR J1738+0333 and PSR J0348+0432 has allowed extremely constraining tests of alternative theories of gravity from the combination of radio pulsar timing and optical spectroscopy of the white dwarf companion. In this talk I discuss this new technique and present some of the results, their constraints on alternative theories of gravity, and future prospects for improvements. If time allows, I will also mention some of the constraints on violations of the local Lorenz invariance of gravity.
+    In the last part of the talk I discuss future and more powerful tests of GR with pulsars. The first one is a test of the strong equivalence principle (SEP) using the new millisecond pulsar in a triple star system, PSR J0337+1715. The second is a very precise test of the no-hair theorem for black holes with a hypothetical pulsar orbiting the super-massive black hole at the center of our Galaxy.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Kevin Walsh (Southwest Research Institute (SwRI))
+Topic:         Planet Formation 2.0 - From Planetesimals to Planets
+Time:         2/25 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+Models of each stage of planet growth have mostly been successful at identifying the important physics in different regions of space at different times. The earliest stages are dominated by small-body physics, where sub-km-size bodies collide with each other and also interact with the gaseous solar nebula. Later, the gravitational interaction between planetary
+embryos on long timescales becomes more important. However, splitting the problem into different stages, each modeling subsets of the total physics, has an inherit weakness - planet growth does not progress at the same speed at all locations. Rather the inner regions of the Solar System may have many gravitationally interacting planetary embryos, while outer regions are still dominated by small-body collisions. Indeed, it has been recently shown that performing these simulations in a piecemeal way can lead us to fundamentally wrong conclusions about how the planets formed.
+
+Here we present simulations of planet formation from km-sized planetesimals all the way to planets. Using a particle-based code that models the fragmentation, accretion and dynamical evolution of a large number of planetesimals through the entire growth process we avoid the pitfalls of the classical piece-wise approaches. We generally find growth timescales that are far more dependent on distance from the Sun than previously expected. This leads to giant collisions between planetary embryos at 1 AU before Ceres-sized embryos have formed beyond 2 AU. We use these results to test classical models of Terrestrial Planet formation, including the recent Grand Tack model.
+
+===============================================================================
+
+> Date: Thu, 19 Feb 2015 09:47:05 +0800
+> Subject: NTHU astronomy colloquium
+> From: Tomo <itlhnis@gmail.com>
+> To: astro@asiaa.sinica.edu.tw, Dani Chao <edcamel@gmail.com>
+
+Date: 3/5 (Thursday), 1-3pm
+
+Name: Jun Hashimto (the University of Oklahoma)
+
+Title: Near-Infrared Imaging Observations of Transitional Disks in the
+Subaru/SEEDS project
+
+Abstract: SEEDS is a strategic project in the Subaru telescope
+exploring exoplanets and circumstellar disks around 500 stars in the
+near-infrared wavelengths. The project has started in 2009 and will be
+completed in this year. Here, we review the project and summarize the
+major results especially in the survey of protoplanetary disks by
+near-infrared polarimetric imaging. In observing protoplanetary disks,
+we mainly focus on transitional disks known as a protoplanetary disk
+with a cavity in a central region of a disk. Disk-planet interaction
+would be one of intriguing interpretations potentially responsible for
+such a cavity-stracture. Thus, transitional disks would be unique
+samples for understanding planet formation in a disk. As results of
+tens of observations in transitional disks, we have resolved fine
+structures in disks such as spirals, gaps, and dips at a radius of
+tens AU possibly due to gravitational interactions with unseen
+planet(s). These results may support planet formation at a wide orbit,
+e.g., GJ 504 b at 43 AU. We also found differences in structures of a
+cavity observed in the near-infrared and (sub-)millimeter wavelengths,
+i.e., a clear cavity in (sub-)millimeter wavelengths while no cavity
+in near-infrared wavelengths. The different behavior between small
+(sub-micron size) and large (millimeter size) dust grains would be
+consistent with disk-planet interaction plus dust filtration. Finally,
+we mention our preliminary results of disk demographics in
+transitional disks based on SEEDS data.
+
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+===============================================================================
+
+> Date: Thu, 19 Feb 2015 17:39:56 +0800
+> From: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> CC: Satoki Matsushita <satoki@asiaa.sinica.edu.tw>
+> Subject: Fwd: First announcement of Summer Schoool: New Era of the Cosmic Distance Scale
+
+Dear Yi-Jehng,
+
+Would you please distribute this announcement with TAN?
+
+Thank you,
+Satoki
+
+
+---------- Forwarded message ----------
+
+Dear Colleagues
+
+We are pleased to make the 1st announcement for a 1-week summer school
+on the Cosmic Distance Scale, to be held in Tokyo, Japan. This school
+will cover a wide range of distance measurement techniques from
+trigonometric parallaxes to cosmological distance measurements and
+related scientific topics. Distinguished lecturers in various fields
+will give dedicated lectures on the basics and cutting edge
+of the field of distance measurement as well as on expected future
+developments.
+
+<Web site>
+  http://stella.astron.s.u-tokyo.ac.jp/CDSchool/
+
+<School Period>
+  June 29--July 3, 2015
+
+<Venue>
+  Hongo Campus of The University of Tokyo
+  http://www.u-tokyo.ac.jp/en/about/documents/accessmap_E.pdf
+
+<Language>
+  English
+
+<Invited Lecturers>
+  Giuseppe Bono        - Theoretical backgrounds of pulsating stars
+  Richard  de Grijs    - Distance scale and pitfalls
+  Wendy    Freedman    - Cosmology from near to far
+  Gerard  Gilmore    - Gaia: applications to the distance scale
+  Shri    Kulkarni    - Supernovae
+  Barry    Madore      - Population II distance indicators
+  Francois Mignard    - Gaia: Principles and Techniques
+  Takeo    Minezaki    - Active Galactic Nuclei (AGNs)
+  Grzegorz Pietrzynski - Eclipsing binaries
+  Mark    Reid        - VLBI parallaxes
+  Sherry  Suyu        - Gravitational lensing
+  Masahiro Takada      - Baryon Acoustic Oscillations (BAOs)
+  Patricia Whitelock  - Asymptotic Giant Branch Variables
+  Daisuke  Yonetoku    - Gamma-Ray Bursts (GRBs)
+  TBD                  - Cosmic Microwave Background (CMB)
+
+<Participants>
+  We will mainly consider PhD course and master course students
+  as well as early-career postdocs.
+  The expected number of the participants is 80 including
+  both international (~40) and domestic (~40) attendees.
+  We will likely receive registration requests from senior researchers,
+  but will give priority to younger participants in our selection.
+
+<Participant presentations>
+  We call for both oral and poster presentations by participants.
+  There will be slots for a limited number of oral/poster
+  presentations by participants, but selection will be made based on
+  the abstracts and other information provided at registration.
+
+<Social Events>
+  We will organise a banquet and an excursion.
+  Welcome cocktails and public lectures are also planned.
+
+<School Evaluation>
+  We will conduct a process evaluation of the summer school in
+  collaboration with and endorsed by the International Astronomical
+  Union's Office of Astronomy for Development through East Asian
+  Regional Office of Astronomy for Development (EA-ROAD).
+  The evaluation process will consist of asking prospective participants
+  to answer a set of questions to gauge their level of understanding
+  prior to the school, followed by a similar exercise towards the end of
+  the school. This evaluation will offer us an opportunity to measure
+  changes in participants' knowledge and understanding.
+  This collaboration with the EA-ROAD will be useful in developing
+  a framework to assess the efficacy of future summer schools
+  supported by the International Astronomical Union.
+
+<Important Dates>
+  18 Feb 2015--1st announcement
+  18 Feb 2015--Website opens.
+  18 Feb 2015--Pre-registration opens.
+  13 Mar 2015--2nd announcement
+  13 Mar 2015--Registration opens.
+  10 Apr 2015--Deadline for abstract submission and early registration
+  late Apr 2015--Selection of presentations and travel support will
+be notified.
+  late Apr 2015--Registration closes.
+  early June 2015--3rd announcement
+  29 June 2015--School starts.
+
+<Pre-registration>
+  We encourage possible participants to pre-register.
+  You will receive further information via e-mail.
+
+<Registration Fee>
+  Participants will be requested to pay the registration fee.
+  A discount for participants who register early is foreseen.
+  Please check these again in the next announcement.
+
+<Scientific Rationale>
+
+The Cosmic Distance Scale plays a fundamental role in a broad range of
+topics in astronomy. This is because it is not easy to know distances
+to astronomical objects and yet the distances are important to study
+many characteristics of the objects, such as their luminosities and
+masses, sizes and ages. An accurate distance scale is also required to
+reconstruct the structure and evolution of the Universe itself.
+Continuing efforts have been made to develop the Cosmic Distance Scale
+ever since very early pioneering works such as the first measurements
+of trigonometric parallaxes in the 19th Century and the discovery of
+the period-luminosity relation of Cepheids around a hundred years ago.
+There have been great advances in the recent decades; for example,
+supernova distance measurments enabled us to discover the accelerating
+expansion of the Universe. On the other hand, accurate measurements of
+the cosmic background radiation made it possible to study the
+structure and evolution of the Universe, which is one of the main
+goals to establish the Cosmic Distance Scale.
+
+An important aspect in measuring astronomical distances is that no
+single method can be used for the entire range from the proximity
+within the solar system to the distant Universe. Therefore, it is
+important to keep the methods well-calibrated step-by-step from the
+starting point based on trigonometric parallax. In this context, this
+is a very exciting time because the Gaia will provide unprecedented
+measurements of parallaxes in the very near future, which will have a
+large impact on the entire range of the Cosmic Distance Scale. There
+are also high-impact projects ongoing and planned, which will deliver
+new insights into the structure of the Universe including several
+projects led by Japan such as JASMINE, VERA, and, SuMIRe. While recent
+developements of observational facilities and techniques have made it
+feasible to measure distances to objects across the entire range of
+the Universe, recent achievements have demonstrated that it is
+important to make the distance indicators both precise and robust.
+Such recent developements require us to understand the accuracy, range
+of application, and limits to each method and how it is related to
+other methods.
+
+In this school, distinguished experts in various fields will give
+lectures on the basic principles of the methods to the expected
+progress in the near future. It will be a good opportunity to share a
+broad perspective on the Cosmic Distance Scale among young astronomers
+who will play an active role in a wide range of astronomy. The Cosmic
+Distance Scale indeed covers various fields of astronomy which are
+related to one another, and this school will also offer a chance to
+spend time with international young astronomers working in different
+subfields.
+
+<Committees>
+SOC:
+Giuseppe Bono      (University of Rome Tor Vergata)
+Richard  de Grijs  (Kavli Institute, Peking University)
+Mamoru  Doi        (Co-chair; Institute of Astronomy, The University of
+Tokyo)
+Naoteru  Gouda      (National Astronomical Observatory of Japan)
+Mareki  Honma      (National Astronomical Observatory of Japan)
+Noriyuki Matsunaga  (Co-chair; Department of Astronomy, The University
+of Tokyo)
+Takeo    Minezaki  (Institute of Astronomy, The University of Tokyo)
+Ken'ichi Nomoto    (Kavli IPMU, The University of Tokyo)
+Hiromoto Shibahashi (Department of Astronomy, The University of Tokyo)
+Naotaka  Suzuki    (Kavli IPMU, The University of Tokyo)
+Tomonori Totani    (Department of Astronomy, The University of Tokyo)
+Yuzuru  Yoshii    (Institute of Astronomy, The University of Tokyo)
+
+LOC:
+Noriyuki Matsunaga  (Chair; Department of Astronomy, The University of
+Tokyo)
+Takeo    Minezaki  (Institute of Astronomy, The University of Tokyo)
+Tomoki  Morokuma  (Institute of Astronomy, The University of Tokyo)
+Nobuyuki Sakai      (National Astronomical Observatory of Japan)
+Takuji  Tsujimoto  (National Astronomical Observatory of Japan)
+
+<Sponsors>
+This summer school has received funding from
+the following programmes (more information such
+as grant numbers are available in our web site).
+- Ito International Research Center Symposium
+- European Union's Seventh Framework Programme
+- Grants-in-Aid for Scientific Research from the JSPS
+- Others to be confirmed.
+
+<Contact>
+LOC - cdschool_loc (at) astron.s.u-tokyo.ac.jp
+
+--
+
+===============================================================================
+
+> Date: Thu, 19 Feb 2015 17:50:21 -1000
+> Subject: Fwd: CFHT 2015B call for proposals
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear All,
+
+Below please find the 2015B CFHT call for proposals.
+
+Cheers,
+Wei-Hao
+
+
+---------- Forwarded message ----------
+> From: Daniel Devost <devost@cfht.hawaii.edu>
+> Date: Thu, Feb 19, 2015 at 1:06 PM
+> Subject: CFHT 2015B call for proposals
+> To: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+
+
+Hey Wei-Hao,
+
+    Here is our call for proposals for 2015B. Please distribute it to the
+ASIAA community.
+
+-----
+
+      The CFHT call for proposals for the 2015B period will open Febuary
+20th 2015 at 23:59 UTC and end March 20th 2015 23:59 UTC. You can submit
+proposals here:
+
+http://northstar.cfht.hawaii.edu/proposal
+
+Please make sure you have a look at the specific information for the 2015B
+semester. It can be found here:
+
+http://cfht.hawaii.edu/en/science/Proposals/
+
+All agencies are invited to encourage their community to submit snapshot
+programs. These programs must be able to accept an Image Quality worse than
+1.2" or significant levels of extinction. Snapshot programs are used not
+only during bad weather conditions but also to fill gaps in the queues when
+no A, B or C program are available or suitable. Snapshot programs are not
+counted toward an agency's allocation.
+
+Daniel Devost.
+
+--=20
+Dr. Daniel Devost
+Director of Science Operations/Directeur des Op=C3=A9rations Scientifiques
+Canada-France-Hawaii Telescope Corporation
+65-1238 Mamalahoa Hwy Kamuela HI 96743 USA
+Phone: (808) 885-3163  FAX: (808) 885-7288
+devost@cfht.hawaii.edu
+http://www.cfht.hawaii.edu
+
+===============================================================================
+
+Date: Fri, 20 Feb 2015 12:03:30 +0800
+Subject: Re: NTHU astronomy colloquium
+From: Tomo <itlhnis@gmail.com>
+To: astro@asiaa.sinica.edu.tw, Dani Chao <edcamel@gmail.com>
+
+NTHU colloquium
+3/6 (Fri) 11am-.
+
+John Eldridge (The University of Auckland)
+
+Title: Progenitors of core-collapse supernovae: what we know, what we
+think we know and what do we not know.
+Abstract: The last 15 years has seen a dramatic increase in our
+knowledge of the stars that explode in core-collapse supernovae. Prior
+to this only two stars had been identified in pre-explosion images as
+the stars that gave rise to a supernovae. Today this number is
+approaching detections or constraints for 50 supernovae and we can
+start understanding the population of stars that explode in greater
+detail. While we know for certain that the progenitors of type IIP
+supernovae are red supergiants there is still much confusion over the
+remaining supernova types. Most worrying of all we have not detected a
+progenitor with an initial mass greater than 20 Solar Masses which has
+implications for how stars explode.
+
+Tomotsugu GOTO
+Institute of Astronomy, National Tsing Hua University
+http://www.phys.nthu.edu.tw/~tomo
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

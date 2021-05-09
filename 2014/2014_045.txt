@@ -1,0 +1,84 @@
+> Date: Thu, 13 Mar 2014 17:29:54 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: [First Announcement] East-Asian Numerical Astrophysics Meeting (Sept.
+ 2014, Korea)
+
+------------------------------------------------------------------
+
+      The Sixth East-Asian Numerical Astrophysics Meeting (EANAM6)
+      September 15-19, 2014, Suwon, Korea
+      http://eanam6.khu.ac.kr
+
+     FIRST ANNOUNCEMENT
+
+------------------------------------------------------------------
+
+------------------------
+Aims and Scope:
+------------------------
+Numerical simulations have played an important role in East-Asian
+astronomical communities, whose access to world-level observing
+facilities was rather limited until recently. Numerical simulations
+have become even more important as detailed comparisons between
+theories and observartions are now possible at a deeper level. The
+aim of  his series of meetings is to bring East-Asian numerical
+astrophysists together and provide chances to learn each other's
+work and explore possible collaborations among them. The scope
+of the meeting will include (but not limited to) the numerical
+astrophysics of hydrodynamics, magnetohydrodynamics, radiative
+transfer, planetary/stellar/galactic dynamics, and cosmology.
+In addition, there will also be a focus on computer science
+applications directed toward astrophysics including numerical
+methods, simulation data analysis, and high performance computing.
+Participants from outside of the East Asia are welcome as well.
+
+
+--------------
+Timeline
+--------------
+Mid March, 2014: First announcement
+Late May, 2014: Second announcement (abstract submission open)
+Late June, 2014: Abstract deadline
+Mid July, 2014: Program fixed
+Late July, 2014: Registration deadline
+September 15, 2014: Meeting starts
+
+
+------------------------------------------
+Scientic Organizing Committee
+------------------------------------------
+Peng-Fei Chen (Nanjing University)
+Jungyeon Cho (Chungnam National University)
+Liang Gao (NAOC)
+Shigenobu Hirose (JAMSTEC)
+Shu-ichiro Inutsuka (Nagoya University)
+Ing-Guey Jiang (National Tsing Hua University)
+Yipeng Jing (Shanghai Jiaotong Observatory)
+Hyesung Kang (Pusan National University)
+Sungsoo S. Kim (Kyung Hee University)
+Woong-Tae Kim (Seoul National University)
+Eiichiro Kokubo (NAOJ)
+Masao Mori (University of Tsukuba)
+Juntai Shen (Shanghai Astronomical Observatory)
+Chien-Chang Yen (Fu Jen Catholic University)
+Hwei-Jang Yo (National Cheng Kung University)
+
+
+------------------------------------------
+Local Organizing Committee
+------------------------------------------
+Sungsoo S. Kim (Kyung Hee University, Chair)
+Woong-Tae Kim (Seoul National University)
+Jeong-Eun Lee (Kyung Hee University)
+Chae Kyung Sim (Kyung Hee University)
+
+
+-------------
+Contact
+-------------
+eanam6 > at< khu.ac.kr
+http://eanam6.khu.ac.kr
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

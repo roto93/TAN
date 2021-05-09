@@ -1,0 +1,275 @@
+From chou@asiaa.sinica.edu.tw Wed Feb  9 13:54 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA00748
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Wed, 9 Feb 2000 13:53:54 +0800 (CST)
+Received: from iaa33 (iaa33 [140.109.177.33])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id NAA07301
+	for <astro@asiaa.sinica.edu.tw>; Wed, 9 Feb 2000 13:55:41 +0800
+Date: Wed, 9 Feb 2000 13:51:16 +0800 (CST)
+From: Wen-Chien Chou <chou@asiaa.sinica.edu.tw>
+X-Sender: chou@iaa33
+To: astro@asiaa.sinica.edu.tw
+Subject: Final announcement of Plasma Astrophysics conference (fwd)
+Message-ID: <Pine.SOL.4.10.10002091348470.14871-100000@iaa33>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 11894
+Status: RO
+
+
+
+---------- Forwarded message ----------
+Date: Tue, 8 Feb 2000 20:19:53 -0800 (PST)
+From: Bruce Remington <Remington2@popeye.llnl.gov>
+To: zwang@lanl.gov, rvll@cornell.edu, adorjan@aps.org, balbright@lanl.gov,
+     alinger@aps.org, jla5p@virginia.edu, Alpert@cfa.harvard.edu,
+     amendt1@llnl.gov, antiochos@nrl.navy.mil, darnush@ucla.edu,
+     arons@astroplasma.berkeley.edu, audard@astro.phys.ethz.ch,
+     azechi@ile.osaka-u.ac.jp, abarnes@mail.arc.nasa.gov,
+     BARON@phyast.nhn.ou.edu, basub@plh.af.mil, claire.bauche@lac.u-psud.fr,
+     baudrau@aps.org, mbeer@theory.pppl.gov, pbellan@cco.caltech.edu,
+     benage@lanl.gov, xrdbb@lepvax.gsfc.nasa.gov, bertin@sns.it,
+     besshou@ppl.kyoto-u.ac.jp, ronak@mit.edu, amitava-bhattacharjee@uiowa.edu,
+     blackman@ast.cam.ac.uk, blume@aps.org, bombarda@psfc.mit.edu,
+     boonchai@aps.org, brizard@wigner.lbl.gov, mbrown3@swarthmore.edu,
+     lbruesch@jpl.nasa.gov, Higgins@aps.org, Budil1@llnl.gov,
+     al-burgman@acad.fandm.edu, cairns@physics.usyd.edu.au, crc@space.mit.edu,
+     tcarey@lanl.gov, CARR@ASTRO.UFL.EDU, cauble@llnl.gov, celliers1@llnl.gov,
+     chapman@juno.physics.wisc.edu, fcheng@theory.pppl.gov,
+     chen@ppdchen.nrl.navy.mil, wenchien@mail.utexas.edu,
+     clerouin@bruyeres.cea.fr, cobbjw@ORNL.GOV, cole@aps.org, colgate@lanl.gov,
+     colvin5@llnl.gov, coppi@mit.edu, cowley@physics.ucla.edu, jlcox@odu.edu,
+     david.crandall@dp.doe.gov, daughton@lanl.gov, davis@space.mit.edu,
+     dawson@physics.ucla.edu, richard.dendy@ukaea.org.uk,
+     djdenhar@facstaff.wisc.edu, Brian.R.Dennis.1@gsfc.nasa.gov,
+     desilva@glue.umd.edu, robert.dewar@anu.edu.au, hedw@hdiv.llnl.gov,
+     r-p-dewitt@juno.com, dimits@llnl.gov, kdimoff@island.net,
+     johnd@belka.space.umn.edu, william.dove@mailgw.er.doe.gov,
+     doxas@colorado.edu, MRDragowsky@lbl.gov, rpdrake@umich.edu,
+     don_ellison@ncsu.edu, kent@icf.llnl.gov, fasoli@psfc.mit.edu,
+     SFEDERM@UOFT02.UTOLEDO.EDU, ufeldman@ssd2.nrl.navy.mil,
+     fernandez@juno.physics.wisc.edu, FIELD@cfa.harvard.edu, finn@lanl.gov,
+     bhlfong@physics.ucla.edu, forest@facstaff.wisc.edu, franz@aps.org,
+     lopez@aps.org, GANG@ppd.nrl.navy.mil, gauthier@greco2.polytechnique.fr,
+     gekelman@ucla.physics.ucla.edu, glendinning1@llnl.gov, goedbloed@rijnh.nl,
+     gold1@llnl.gov, melvyn.goldstein@gsfc.nasa.gov, rgoldston@pppl.gov,
+     zhigangg@physics1.usc.edu, GOODMAN@SPOF02.GSFC.NASA.GOV, goodwin@aip.org,
+     goren@cfa.harvard.edu, grabbe@einstein.physics.uiowa.edu,
+     grimes@physics.utexas.edu, donald-gurnett@uiowa.edu,
+     herbert.gursky@nrl.navy.mil, habbal@cfa.harvard.edu, hammett@pppl.gov,
+     haxton@phys.washington.edu, rfheeter@pppl.gov, hegna@cptc.wisc.edu,
+     herrera@nuclecu.unam.mx, chung@aps.org, holcomb@aa.washington.edu,
+     rholt@pluto.njcc.com, honrubia@etsii.upm.es, horton@peaches.ph.utexas.edu,
+     george.hovey@furman.edu, ghowes@physics.ucla.edu,
+     huber@researchsupport.com, hughes@grump.com, hurricane1@llnl.gov,
+     hwang1@llnl.gov, intrator@lanl.gov, k53391@sakura.kudpc.kyoto-u.ac.jp,
+     hji@pppl.gov, skahn@astro.columbia.edu, kaindl@mbi-berlin.de,
+     Kawabe@sakura.cc.tsukuba.ac.jp, kaw@plasma.ernet.in,
+     chris.keane@dp.doe.gov, keilty@spacsun.rice.edu, kesner@psfc.mit.edu,
+     craig-kletzing@uiowa.edu, wlodek@astrog.physics.wisc.edu,
+     cmko@joule.phy.ncu.edu.tw, lkolb2@yahoo.com, krall@ppdu.nrl.navy.mil,
+     vladimir.krivenski@ciemat.es, Kruer@icf.llnl.gov, krugers@saic.com,
+     rkulsrud@astro.princeton.edu, kundu@astro.umd.edu, kurtz@astroscu.unam.mx,
+     kusano@sci.hiroshima-u.ac.jp, khoalam@hotmail.com, F-LAMB@UIUC.EDU,
+     SLAMB@ASTRO.UIUC.EDU, blangdon@llnl.gov, ljl@bell-labs.com,
+     larrabee@esu.edu, wwlee@theory.pppl.gov, lettieri@aps.org,
+     lewin@space.mit.edu, hlli@lanl.gov, c-litwin@uchicago.edu,
+     lyutikov@cita.utoronto.ca, mordecai@amnh.org, hmk@inel.gov,
+     martinel@nuclecu.unam.mx, wmartin@nist.gov, marco@astroscu.unam.mx,
+     yswhm@brisun.bartol.udel.edu, mauche@cygnus.llnl.gov, fmayer@ameritech.net,
+     tjm@ipst.umd.edu, meerson@vms.huji.ac.il, melatos@astraea.berkeley.edu,
+     robert-merlino@uiowa.edu, pmeszaros@astro.psu.edu, MIGLIUOLO@psfc.mit.edu,
+     b.miller@tcu.edu, akimohri@ip.media.kyoto-u.ac.jp, ymok@uci.edu,
+     DAVID.C.MONTGOMERY@DARTMOUTH.EDU, amorris@raychem.com, NEVINS@llnl.gov,
+     win@ucla.edu, nga@physics.ubc.ca, ng@plasma3.physics.uiowa.edu,
+     nishihara@ile.osaka-u.ac.jp, wco@phys.physics.ucf.edu,
+     Leon.Ofman@gsfc.nasa.gov, orta@phyvax.physics.miami.edu,
+     hkf3321@silver.sdsmt.edu, owenj@db.erau.edu, kp@astro.umd.edu,
+     parker@odysseus.uchicago.edu, nancy@aps.org, alp@lanl.gov,
+     perkins@apollo.gat.com, CKPHILLIPS@pppl.gov, ESP@TAPIR.CALTECH.EDU,
+     PORKOLAB@psfc.mit.edu, scprager@facstaff.wisc.edu,
+     prakash@nuclear.physics.sunysb.edu, pritchet@physics.ucla.edu,
+     pwrambo@llnl.gov, bernhard@physics.utexas.edu, redi@princeton.edu,
+     remington2@llnl.gov, mrilee@hannibal.gsfc.nasa.gov, ripin@aps.org,
+     aaron.roberts@gsfc.nasa.gov, robertso@stripe.colorado.edu,
+     robinson@physics.usyd.edu.au, bonguie@softhome.net, s.j.rose@rl.ac.uk,
+     r-rosner@uchicago.edu, srothman@awe.co.uk, rubenchik1@llnl.gov,
+     david@chulkn.car.chula.ac.th, ryutov1@llnl.gov, sathyash@aps.org,
+     schuft@astro.unc.edu, ABHIJIT@plasma.ernet.in, ssh@astro.umd.edu,
+     shi@ece.odu.edu, shige@ile.osaka-u.ac.jp, scwartz@bgumail.bgu.ac.il,
+     sigmar@psfc.mit.edu, silk@astron.berkeley.edu, frederick-skiff@uiowa.edu,
+     slough@aa.washington.edu, jpsmith@physics.utexas.edu,
+     chuck@brisun.bartol.udel.edu, ian@spacsun.rice.edu,
+     smolyakov@skyway.usask.ca, steven-spangler@uiowa.edu,
+     lawrence.sparks@jpl.nasa.gov, jsquire@ems.jsc.nasa.gov,
+     sumner.starrfield@asu.edu, pstone@nist.gov, STRAUSS@CIMS.NYU.EDU,
+     sturrock@flare.stanford.edu, dsr@ces.iitd.ernet.in, SUGIYAMA@psfc.mit.edu,
+     68sui@cia.edu, masween@sandia.gov, rsydora@phys.ualberta.ca,
+     tajima1@llnl.gov, takabe@ile.osaka-u.ac.jp, TARBELL@sag.space.lockheed.com,
+     TATARONIS@ENGR.WISC.EDU, taylor@antares.la.asu.edu,
+     jb.taylor@patrol.i-way.co.uk, pwterry@facstaff.wisc.edu,
+     thomas@astro.me.rochester.edu, tierney@lanl.gov, mdtinkle@earthlink.net,
+     TURNBULL@apollo.gat.com, gtynan@ucsd.edu, uchimoto@selway.umt.edu,
+     dpu@umich.edu, uzdensky@oddjob.uchicago.edu, alejo@roselott.gsfc.nasa.gov,
+     pvega@elqui.cic.userena.cl, aparna@oddjob.uchicago.edu, ethan@pha.jhu.edu,
+     vitello@llnl.gov, vuille@ibm.net, wan1@llnl.gov,
+     xiaogang@plasma1.physics.uiowa.edu, aware@selway.umt.edu,
+     hpw@pinoak.nrl.navy.mil, watts@physics.auburn.edu, jweather@aoc.nrao.edu,
+     jonw@rice.edu, winske@lanl.gov, wolfesw@direct.ca, awong@physics.ucla.edu,
+     gyodh@uci.edu, zpt@vms.cis.pitt.edu, ZANK@bartol.bartol.udel.edu,
+     wz58@coumbia.edu, zita@evergreen.edu, zweibel@solarz.colorado.edu
+Subject: Final announcement
+
+Dear Colleagues,
+
+
+This APS/TGPAP-sponsored conference is an opportunity to actively
+support the TGPAP charter of "blurring the boundaries" between
+astrophysics and plasma physics.  The response so far to this
+conference, however, has not been overwhelming.  We need to be
+<underline>ACTIVE</underline> in bringing plasma physics and
+astrophysics together.  Otherwise our charter will simply remain so
+many nice words on paper.  This is <underline>our</underline>
+conference!  Please consider joining us at the "3rd International
+Conference on Laboratory Astrophysics with Intense Lasers."  The
+abstract submission deadline has been extended by 2 weeks to allow
+additional participation.  If you can't attend for the full 3 days,
+then consider attending part of the conference.
+
+
+Bruce Remington, Chair
+
+APS Topical Group for Plasma Astrophysics (TGPAP)
+
+
+
+
+<bold><italic><fontfamily><param>Times</param><bigger><bigger><bigger>3rd
+International Conference on Laboratory 
+
+Astrophysics with Intense Lasers
+
+
+</bigger></bigger></bigger></fontfamily></italic></bold><fontfamily><param>Times</param><bigger>March
+30-April 1, 2000
+
+Rice University, Houston, Texas
+
+
+Dear Colleague,
+
+
+This is the final announcement for the <italic>3rd International
+Conference on Laboratory Astrophysics with Intense Lasers</italic>, to
+be held March 30-April 1, 2000 on the campus of Rice University in
+Houston, Texas.  This conference is sponsored by the APS Topical Group
+for Plasma Astrophysics, and is a continuation of the very successful
+1st and 2nd workshops, held in 1996 in Pleasanton, California and in
+1998 in Tucson, Arizona.  The goal of this conference is to foster
+common areas of research between the fields of high energy-density
+plasma physics (accessed by intense lasers and pulsed power facilities)
+and astrophysics.  Please join us in actively removing artificial
+scientific boundaries separating these two communities by attending
+this unique conference.
+
+
+The availability of intense laser facilities is increasing
+dramatically.  Construction of the 2 MJ National Ignition Facility
+(NIF) laser in the US, the 60 kJ Ligne d'Integration Laser (LIL) in
+France, the 100 TW-10 Hz Kansai Laser in Japan, and petawatt lasers in
+the UK and in France is well underway.  Plans for the 2 MJ LMJ laser in
+France, and petawatt lasers in Japan and in Germany are also
+progressing.  Given this large laser development effort worldwide, the
+time is right to pursue developing an astrophysics component to the
+research being done on existing lasers and being planned for these new
+facilities.  
+
+
+The potential for genuinely beneficial astrophysics research on intense
+lasers looks very promising indeed.  Areas of research accessible
+include compressible hydrodynamic mixing, strong shock phenomena,
+radiative shocks and jets, magnetohydrodynamics, relativistic plasma
+effects, complex opacities, equations of state, dense plasma atomic
+physics, x-ray photoionized plasmas, and the generation of ultrastrong
+magnetic fields.  
+
+
+To further focus attention on this emerging research area, we are
+convening the <italic>3rd International Conference on Laboratory
+Astrophysics with Intense Lasers</italic>, to be held March 30-April 1,
+2000 at Rice University.  The abstract deadline has been extended to
+Feb. 15, 2000 to coincide with the registration deadline.  Please
+submit abstracts and register through the conference website
+(http://spacsun.rice.edu/lasers2000) or contact the Conference
+Administrator, Umbe Cantu
+(<underline><color><param>0000,0000,00FF</param><bigger>umbe@rice.edu</bigger></color></underline>).
+ Further information will be posted on our website: 
+http://lasers.llnl.gov/lasers/target/astro.
+
+
+
+<bold>Topics include</bold>:
+
+
+Hydrodynamic instabilities in astrophysics
+
+Supernovae and supernova remnant evolution
+
+Astrophysical shocks, blast waves, and jets
+
+Relativistic plasmas
+
+Stellar opacities
+
+Equations of state
+
+Radiation and thermal transport
+
+Dense plasma atomic physics 
+
+X-ray photoionized plasmas
+
+Ultrastrong magnetic field generation
+
+
+
+<bold>Organized by:
+
+
+</bold>Edison Liang, Rice University, MS108, Dept. of Space Physics and
+Astronomy, Houston, TX  77005-1892, tel. (713)527-8750, ext. 3524, fax:
+(713)285-5143, e-mail: liang@spacsun.rice.edu
+
+
+Bruce Remington, L-021, LLNL, , Livermore, CA 94550,  
+
+Tel. (925)423-2712,  Fax (925) 423-8945 email: remington2@llnl.gov
+
+
+Paul Drake,  University of Michigan,  Ann Arbor, MI
+
+Tel. (734) 763-4072,  Fax: (734) 647-3083
+
+email: rpdrake@umich.edu
+
+
+Conference Administrator:  Umbe Cantu,  Rice University, MS108, Dept.
+of Space Physics and Astronomy, Houston, TX  77005-1892, tel.
+(713)527-4939, fax: (713) 285-5143, e-mail:
+<underline><color><param>0000,0000,00FF</param><bigger>umbe@rice.edu
+
+</bigger></color></underline></bigger></fontfamily>
+
+Bruce A. Remington
+
+Hydrodynamics Group Leader
+
+Lawrence Livermore National Laboratory
+
+tel.  925-423-2712
+
+fax: 925-423-8945
+
+email: remington2@llnl.gov
+
+

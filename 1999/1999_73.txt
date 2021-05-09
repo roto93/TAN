@@ -1,0 +1,467 @@
+From kyl@asiaa.sinica.edu.tw Sun Apr  4 10:20:35 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA02228; Sun, 4 Apr 1999 10:16:28 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA13729; Sun, 4 Apr 1999 10:13:27 +0800
+Date: Sun, 4 Apr 1999 10:13:27 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Second announcement ISO surveys workshop (fwd)
+Message-Id: <Pine.GSO.3.96.990404101325.13705B-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 22024
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Thu, 25 Mar 1999 10:06:31 +0100 (MET)
+From: ISO surveys conference <isosurv@mpia-hd.mpg.de>
+To: address list for Ringberg-symposium '99 <a.j.penny@rl.ac.uk>,
+    abergel@iaslab.ias.fr, abraham@mpia-hd.mpg.de,
+    acc@star.herts.ac.uk, acf@mail.ast.cam.ac.uk, adecourchelle@cea.fr,
+    ae@astro.keele.ac.uk, aew@ipac.caltech.edu, af@star.pst.qub.ac.uk,
+    afs@astro.caltech.edu, agoodman@cfa.harvard.edu,
+    aheras@estsa2.estec.esa.nl, aheske@iso.vilspa.esa.es, ajct@laeff.esa.es,
+    ajorisse@astro.ulb.ac.be, ajw@starlink.ucl.ac.uk, Alan.Harris@dlr.DE,
+    alberto@ipac.caltech.edu, alcolea@oan.es, allamandola@ssa1.arc.nasa.gov,
+    alpog@mpe-garching.mpg.de, amoneti@iso.vilspa.esa.es, amoor@eso.org,
+    amt@ll.iac.es, andre@sapvxg.saclay.cea.fr, andreani@pd.astro.it,
+    ane@star.herts.ac.uk, apollock@iso.vilspa.esa.es, aprieto@ll.iac.es,
+    aquirrenbach@ucsd.edu, arendt@stars.gsfc.nasa.gov,
+    arlin@eureka.phys.columbia.edu, asalama@iso.vilspa.esa.es,
+    axon@stsci.edu, azijlstr@eso.org, azook@pomona.edu,
+    b28@rw.ita.uni-heidelberg.de, bachiller@oan.es,
+    baltieri@iso.vilspa.esa.es, baluteau@astrsp-mrs.fr,
+    barbieri@pd.astro.it, barrado@mpia-hd.mpg.de, barucci@mesiob.obspm.fr,
+    baudry@observ.u-bordeaux.fr, becklin@bonnie.astro.ucla.edu,
+    belinda@cfa.harvard.edu, bergeat@cumulus.univ-lyon1.fr, bernard@ias.fr,
+    beverly@ipac.caltech.edu, bezard@obspm.fr, bhrivnak@exodus.valpo.edu,
+    biviano@suw003.oat.ts.astro.it, blanco@le.infn.it, bm@ic.ac.uk,
+    bmcbreen@ollamh.ucd.ie, bmm@laeff.esa.es, bobi@discovery.saclay.cea.fr,
+    boisson@obspm.fr, bonoli@pd.astro.it, bonte@ariane.saclay.cea.fr,
+    bottaro@obspm.fr, boulanger@iaslab.ias.fr, brahic@mesiob.obspm.fr,
+    bregman@ssa1.arc.nasa.gov, brucew@newton.umsl.edu, bruni@ifsi.rm.cnr.it,
+    bschulz@iso.vilspa.esa.es, bts@mop.caltech.edu, bujarrabal@oan.es,
+    cabrit@mesioq.obspm.fr, calzetti@stsci.edu, carr@irfp1.NRL.NAVY.mil,
+    casoli@obspm.fr, cassinelli@madraf.astro.wisc.edu, ccarilli@nrao.edu,
+    ceccarel@gagax5.obs.ujf-grenoble.fr, cerni@astro.iem.csic.es,
+    cesarsky@discovery.saclay.cea.fr, cfanti@astbo1.bo.cnr.it,
+    cgrady@ari.net, cgry@iso.vilspa.esa.es, cgt@aaoepp.aao.gov.au,
+    chas@ipac.caltech.edu, chini@astro.ruhr-uni-bochum.de,
+    chnieten@mpifr-bonn.mpg.de, Christian.Muller@oma.be,
+    cjl@ipac.caltech.edu, clampin@stsci.edu, clemens@protostar.bu.edu,
+    clements@ias.fr, colangeli@astrna.na.astro.it,
+    colgan@cygnus.arc.nasa.gov, connie@as.arizona.edu,
+    cotera@ipac.caltech.edu, courtin@mesioa.obspm.fr, coustenis@obspm.fr,
+    cox@ias.fr, crifo@obspm.fr, crovisie@mesiob.obspm.fr,
+    cruikshank@ssa1.arc.nasa.gov, currie@hubble.physics.umd.edu,
+    cvc3f@virginia.edu, cwinkler@estsa2.estec.esa.nl, cxu@ipac.caltech.edu,
+    d.a.green@mrao.cam.ac.uk, Dana@astro.FANDM.EDU, dar@mpe-garching.mpg.de,
+    dave@ipac.caltech.edu, dave@ipac.caltech.edu, davis@dansas.usask.ca,
+    daw@mail.ast.cam.ac.uk, dcl@tacos.submm.caltech.edu,
+    deblev@ipac.caltech.edu, deguchi@nro.nao.ac.jp,
+    deharveng@obmara.cnrs-mrs.fr, dengels@hs.uni-hamburg.de,
+    dennefel@iap.fr, Derek.Ward-Thompson@astro.cf.ac.uk,
+    dermott@astro.ufl.edu, deschoenberner@aip.de,
+    dezotti@pdmida.pd.astro.it, dhines@as.arizona.edu, digel@gsfc.nasa.gov,
+    djt@mpia-hd.mpg.de, dll@astro.as.utexas.edu,
+    dobashi@a.phys.nagoya-u.ac.JP, doi@astro.isas.ac.jp,
+    domi@mesioa.obspm.fr, dole@ias.fr, donahue@stsci.edu,
+    doug@whittet.phys.rpi.edu, dougados@gagax5.obs.ujf-grenoble.fr,
+    douwe@sron.rug.nl, drossart@obspm.fr, dtj@astro.as.utexas.edu,
+    dutrey@iram.fr, e.guenther@qmw.ac.uk, eaton@coe006.tnstate.edu,
+    eckart@mpe-garching.mpg.de, edith@ensapa.ens.fr,
+    edwek@stars.gsfc.nasa.gov, egami@mpe-garching.mpg.de,
+    eisloeffel@tls-tautenburg.de, elbaz@ariane.saclay.cea.fr,
+    elston@noao.edu, Emmanuel.Caux@cesr.fr, etedesco@TerraSys.com,
+    ewine@strw.leidenuniv.nl, eyoung@as.arizona.edu, fclark@plh.af.mil,
+    fcomeron@fajtr0.am.ub.es, ferrari@mesiob.obspm.fr, festou@obs-mip.fr,
+    FGAFA01@CC1.KULEUVEN.AC.BE, fgb@mpe.mpg.de, fgl@ll.iac.es,
+    fkb@mpe-garching.mpg.de, flavio@astbo3.bo.astro.it,
+    florian.kerber@uibk.ac.at, forrest@sherman.pas.rochester.edu,
+    foster@rsd.nrl.navy.mil, fph@strw.leidenuniv.nl, fpk@star.pst.qub.ac.uk,
+    franceschini@pd.astro.it, francois.hammer@obspm.fr, freddy@sron.rug.nl,
+    fuente@oan.es, gab@gps.caltech.edu, garnett@oldstyle.spa.umn.edu,
+    gavazzi@smetana.brera.mi.astro.it, gcbower@astron.Berkeley.EDU,
+    gclayton@fenway.phys.lsu.edu, gehrz@ast1.spa.umn.edu,
+    gene@astro.washington.edu, genzel@mpe-garching.mpg.de, gerbaldi@iap.fr,
+    gerhard.hirth@sap-ag.de, gerin@ensapa.ens.fr, ghasinger@aip.de,
+    ggs@charmian.sonoma.edu, giacomo@merlot.astr.ua.edu,
+    gianni@ns.ct.astro.it, giard@cesr.fr, giard@cesr.fr,
+    gil@mail.ast.cam.ac.uk, gk@astro.princeton.edu, gmrichter@aip.de,
+    gpilbratt@estsa2.estec.esa.nl, gregorini@astbo1.bo.cnr.it,
+    grieke@as.arizona.edu, groen@mpa-garching.mpg.de,
+    gruen@kova.mpi-hd.mpg.de, gsw@jach.hawaii.edu,
+    gtagliaf@merate.mi.astro.it, gtbr@msslab.mssl.ucl.ac.uk,
+    guelin@iram.grenet.fr, guertler@betty.astro.uni-jena.de,
+    guy@casa.colorado.edu, haas@cygnus.arc.nasa.gov, haas@mpia-hd.mpg.de,
+    habing@strw.leidenuniv.nl, Heike.Rauer@dlr.DE, Heith@astro.uni-bonn.de,
+    helou@ipac.caltech.edu, henning@astro.uni-jena.de,
+    henning@tinsley.phys.unm.edu, HENNYL@SRON.RUU.NL, hfalcke@astro.umd.edu,
+    hippelei@mpia-hd.mpg.de, hjw@sa750.rl.ac.uk,
+    hjwendker@hs.uni-hamburg.de, hmouri@mri-jma.go.jp,
+    hmurakam@astro.isas.ac.jp, hplarson@u.arizona.edu,
+    hraj@staru1.livjm.ac.uk, hron@astro1.ast.univie.ac.at,
+    hschild@astro.phys.ethz.ch, hu@hale.IfA.Hawaii.Edu,
+    huette@cfa.harvard.edu, hunn@dsri.dk, hurt@ipac.caltech.edu,
+    hutsemek@astra.astro.ulg.ac.be, hzinnecker@aip.de,
+    iappenze@hp3.lsw.uni-heidelberg.de, ias@astro.livjm.ac.uk, iblr@dsri.dk,
+    if@starlink.ucl.ac.uk, ihh@ipac.caltech.edu, imc@saturn.phy.umist.ac.uk,
+    imh@astro.soton.ac.uk, inr@astro.caltech.edu,
+    iovino@smetana.brera.mi.astro.it, ip@linax1.mpae.gwdg.de, ipf@ll.iac.es,
+    iraproj@tifrvax.tifr.res.in, Isabelle.Ristorcelli@cesr.fr,
+    ishii@hato.restec.or.jp, isoel@astbo3.bo.astro.it,
+    ivison@jach.hawaii.edu, iwb@jb.man.ac.uk, izumiura@oao.nao.ac.jp,
+    J.Dunlop@roe.ac.uk, J.Koornneef@astro.rug.nl, jackson@BUAST9.BU.EDU,
+    jacosta@iso.vilspa.esa.es, jacq@observ.u-bordeaux.fr,
+    jaffe@strw.leidenuniv.nl, jamieson@quest.berkeley.edu,
+    jansen@strw.leidenuniv.nl, jarrett@ipac.caltech.edu,
+    jbechtold@as.arizona.edu, jbergero@eso.org, jblack@as.arizona.edu,
+    jblommae@iso.vilspa.esa.es, jbregman@astro.lsa.umich.edu,
+    jclavel@iso.vilspa.esa.es, jdanzige@eso.org,
+    jdf@vesta.physics.uiowa.edu, jelias@noao.edu,
+    jfischer@irfp1.NRL.NAVY.mil, jgd@star.arm.ac.uk,
+    jgoebel@mail.arc.nasa.gov, jhh@star.herts.ac.uk, jhigdon@atnf.CSIRO.AU,
+    jhk@juggler.mit.edu, jhora@cfa.harvard.edu, jiang@bao01.bao.ac.cn,
+    jid@astro.cf.ac.uk, jimbo@marswatch.tn.cornell.edu, jkd@jach.hawaii.edu,
+    jkerp@astro.uni-bonn.de, joblin@cesr.fr, joel@shasta.space.swri.edu,
+    jonathan.braine@observ.u-bordeaux.fr, joseph@hubble.ifa.hawaii.edu,
+    jpdm@mssl.ucl.ac.uk, jph@astro.umd.edu, jre@ll.iac.es,
+    jscotti@lpl.arizona.edu, jspyromi@eso.org, jtauber@estsa2.estec.esa.nl,
+    jyates@star.herts.ac.uk, K.A.van.der.Hucht@sron.nl, kay@sron.rug.nl,
+    keel@bildad.astr.ua.edu, kegel@astro.uni-frankfurt.d400.de,
+    kerschbaum@astro1.ast.univie.ac.at, khurley@sunspot.ssl.berkeley.edu,
+    kjell.eriksson@astro.uu.se, kkawara@mtk.ioa.s.u-tokyo.ac.jp,
+    klaas@mpia-hd.mpg.de, kleech@iso.vilspa.esa.es,
+    koch@sapvxg.saclay.cea.fr, koester@ph1.uni-koeln.de,
+    koester@ph1.uni-koeln.de, koryo@camolp.ias.fr, krishna@gmrt.ernet.in,
+    krs@lb6.jpl.nasa.gov, krueger@galileo.MPI-HD.MPG.DE,
+    kunkel@mpia-hd.mpg.de, kunth@iap.fr, kunze@mpe-garching.mpg.de,
+    kutner@charon.phys.rpi.edu, kwok@iras.ucalgary.ca, kyl@astro.uiuc.edu,
+    lada@astro.umd.edu, Lagage@sapvxg.saclay.cea.fr, lagache@ias.fr,
+    lagrange@gagax5.obs.ujf-grenoble.fr, lamy@astrsp-mrs.fr,
+    langer@nimba.jpl.nasa.gov, launh@sol.astro.uni-jena.de,
+    ldh@iaslab.ias.fr, lebertre@mesioa.obspm.fr, lecavelier@iap.fr,
+    lee@mop.caltech.edu, Leen.Decin@ster.kuleuven.ac.be,
+    lefevre@astrsp-mrs.fr, leger@iaslab.ias.fr, leif@astro.ku.dk,
+    leinert@mpia-hd.mpg.de, lellouch@mesiob.obspm.fr, lemke@mpia-hd.mpg.de,
+    lequeux@mesioa.obspm.fr, lferetti@astbo1.bo.cnr.it,
+    lhanlon@bermuda.ucd.ie, lisse@stars.gsfc.nasa.gov, lkaper@eso.org,
+    lmetcalf@iso.vilspa.esa.es, loup@iap.fr, lspino@hp.ifsi.fra.cnr.it,
+    ltl@star.ukc.ac.uk, lu@ipac.caltech.edu, luhman@irfp1.NRL.NAVY.mil,
+    lutz@mpe-garching.mpg.de, luu@cfa.harvard.edu, m.edmunds@astro.cf.ac.uk,
+    m.rrobinson@ic.ac.uk, macchetto@stsci.edu, madden@ariane.saclay.cea.fr,
+    magali@astrsp-mrs.fr, maihara@cr.scphys.kyoto-u.ac.jp,
+    maiolino@arcetri.astro.it, Malcolm.Gray@bristol.ac.uk,
+    malkan@bonnie.astro.ucla.edu, Marcello.Fulchignoni@obspm.fr,
+    martin@oan.es, maruma@toyo.u.phys.nagoya-u.ac.jp,
+    mathieu@madraf.astro.wisc.edu, matt@stars.gsfc.nasa.gov,
+    mattila@cc.helsinki.fi, mazzei@pd.astro.it, mb1@cfa.harvard.edu,
+    mbreitfe@iso.vilspa.esa.es, mce@phoenix.phys.du.edu, mds@star.arm.ac.uk,
+    megeath@card.HAYSTACK.EDU, meise@mpia-hd.mpg.de, meixner@astro.uiuc.edu,
+    mellier@obs-mip.fr, merluzzi@astrna.na.astro.it, mgarcia@ll.iac.es,
+    mgh@ast.leeds.ac.uk, mharwit@ibm.net, miley@strw.leidenuniv.nl,
+    mio@astro.ruhr-uni-bochum.de, mirabel@ariane.saclay.cea.fr,
+    mjb@star.ucl.ac.uk, mjc@astro.soton.ac.uk, mjg@starlink.qmw.ac.uk,
+    mjm@mpia-hd.mpg.de, mjw@star.le.ac.uk, mkessler@iso.vilspa.esa.es,
+    mmarx@astro.uni-bonn.de, mmc@roe.ac.uk, mmeyer@nimbus.as.ARIZONA.EDU,
+    mochi@astro.isas.ac.jp, montmerle@discovery.saclay.cea.fr,
+    moran@cfa.harvard.edu, moritz@astro.uni-bonn.de,
+    morris@osprey.astro.ucla.edu, mrieke@as.arizona.edu, mrk@ll.iac.es,
+    mrodono@ns.ct.astro.it, msl@mrao.cam.ac.uk, mtruiz@das.uchile.cl,
+    muizon@laeff.esa.es, mxt@ida.ipac.caltech.edu, myers@cfa.harvard.edu,
+    myun@nrao.edu, nakagawa@astro.isas.ac.jp, naylor@hg.uleth.ca,
+    neri@iram.fr, neufeld@pha.jhu.edu, niel@astro.psu.edu,
+    nje@astro.as.utexas.edu, noll@stsci.edu, nordh@astro.su.se,
+    ntrams@estsa2.estec.esa.nl, nzs@radio.caltech.edu,
+    odenwald@baffin.gsfc.nasa.gov, ohnishi@a.phys.nagoya-u.ac.JP,
+    oliva@arcetri.astro.it, olofsson@astro.su.se, omont@iap.fr,
+    onaka@astron.s.u-tokyo.ac.jp, osip@astro.ufl.edu,
+    p.goldschmidt@ic.ac.uk, P.M.Williams@roe.ac.uk,
+    p073twi@mpifr-bonn.mpg.de, p086nei@mpifr-bonn.mpg.de,
+    p212gue@mpifr-bonn.mpg.de, p220hen@mpifr-bonn.mpg.de,
+    p309ekr@mpifr-bonn.mpg.de, padovani@stsci.edu,
+    pascale@deuterium.strw.leidenuniv.nl, patrickm@lea4.sron.ruu.nl,
+    paul@sron.rug.nl, paulgr@astro.uva.nl, pauls@atlas.nrl.navy.mil,
+    paw@saao.ac.za, pbarr@estsa2.estec.esa.nl, pdb@astro.rug.nl,
+    pepa@iaa.es, pequignot@obspm.fr, perault@ensapa.ens.fr,
+    persi@saturn.ias.fra.cnr.it, peschke@mpia-hd.mpg.de,
+    peter@max.arc.nasa.gov, pfau@betty.astro.uni-jena.de,
+    pfr@astro.ox.ac.uk, pga@v3600.vilspa.esa.es, pgarcia@iso.vilspa.esa.es,
+    pgo@starlink.qmw.ac.uk, phillips@tacos.submm.caltech.edu,
+    phoernes@mpifr-bonn.mpg.de, pierre@sapvxg.saclay.cea.fr,
+    pjotr@sron.rug.nl, pjr@sdc1.bnsc.rl.ac.uk, pld@star.pst.qub.ac.uk,
+    plh@ll.iac.es, pmezger@mpifr-bonn.mpg.de, pmh@astro.as.utexas.edu,
+    pnapplet@iastate.edu, pottasch@astro.rug.nl, ppuxley@gemini.edu,
+    price@pldac.plh.af.mil, puget@ias.fr, pvdwerf@strw.leidenuniv.nl,
+    pwb@roe.ac.uk, R.H.M.Voors@fys.RUU.NL, r.mann@ic.ac.uk,
+    r.oudmaijer@ic.ac.uk, R.S.deJong@durham.ac.uk, rdw@roe.ac.uk,
+    reach@ipac.caltech.edu, reb@card.HAYSTACK.EDU,
+    reinsch@usw050.dnet.gwdg.de, reipurth@eso.org, rene@astro.su.se,
+    rensw@astro.uva.nl, rfj@star.le.ac.uk, rfosbury@eso.org,
+    rgm@mail.ast.cam.ac.uk, rieu@obspm.fr, rje@astro1.bnsc.rl.ac.uk,
+    rix@mpia-hd.mpg.de, rjs@star.ucl.ac.uk, rjt@taurus.mpi-hd.mpg.de,
+    rlaureij@iso.vilspa.esa.es, rocca@iap.fr, ronald@ast1.uibk.ac.at,
+    ronny@astro.oma.be, rouan@obspm.fr, rpf@astro.uva.nl,
+    rsaxton@iso.vilspa.esa.es, rschulz@estec.esa.nl,
+    rsiebenm@iso.vilspa.esa.es, rsl@binar.phyast.pitt.edu,
+    rstencel@phoenix.phys.du.edu, rubin@cygnus.arc.nasa.gov,
+    S.J.B.Burnell@open.ac.uk, s.miller@ucl.ac.uk, s.oliver@ic.ac.uk,
+    sab@astro.caltech.edu, sahai@jplsp.jpl.nasa.gov, san@ipac.caltech.edu,
+    sanders@galileo.ifa.hawaii.edu, saraceno@ifsi.rm.cnr.it,
+    sato@koala.astro.isas.ac.jp, sauvage@ariane.saclay.cea.fr,
+    schmitt@glaciog.ujf-grenoble.fr, schultz@ssa1.arc.nasa.gov,
+    schutte@deuterium.strw.leidenuniv.nl, sedlmayr@physik.tu-berlin.de,
+    sellgren@payne.mps.ohio-state.edu, sergio@quesito.phys.du.edu,
+    serranoj@besaya.unican.es, shields@helios.phy.ohiou.edu,
+    sibille@cumulus.univ-lyon1.fr, simpson@stsci.edu, sju@ipac.caltech.edu,
+    sju@ipac.caltech.edu, skg@ncac.torun.pl, ski@ginger.physics.ucsb.edu,
+    slh@pillan.pa.msu.edu, smith@irfp1.NRL.NAVY.mil,
+    smolinar@ipac.caltech.edu, spaans@deuterium.strw.leidenuniv.nl,
+    spe@astro.keele.ac.uk, sperello@arcetri.astro.it,
+    spinrad@bigz.berkeley.edu, sr@astro.ox.ac.uk, srk@astro.caltech.edu,
+    srussell@physics.adelaide.edu.au, ssandford@mail.arc.nasa.gov,
+    stacey@astrosun.tn.cornell.edu, stark@mpifr-bonn.mpg.de,
+    station@isoias.ias.fr, staude@mpia-hd.mpg.de,
+    stauffer@amber.harvard.edu, stickel@mpia-hd.mpg.de,
+    stockton@hale.IfA.Hawaii.Edu, stutzki@ph1.uni-koeln.de,
+    sugai@kusastro.kyoto-u.ac.jp, supas030@astrophysik.uni-kiel.d400.de,
+    svwb@mpia-hd.mpg.de, szczerba@ncac.torun.pl, tamuramt@cc.nao.ac.jp,
+    tani@astroa.astr.tohoku.ac.jp, Tarja.Liljestrom@hut.fi,
+    tct@starlink.qmw.ac.uk, teije@astro.uva.nl, telesco@astro.ufl.edu,
+    tencrenaz@mesiob.obspm.fr, Thierry.Courvoisier@obs.unige.ch,
+    Thierry.Forveille@obs.ujf-grenoble.FR, thijsdg@sron.rug.nl,
+    thomas@linax1.dnet.gwdg.de, thornley@mpeia7.mpe-garching.mpg.de,
+    thum@iram.grenet.fr, timmer@zeus.ph1.Uni-Koeln.DE,
+    timn@astro.keele.ac.uk, tjm@saturn.phy.umist.ac.uk,
+    tmueller@iso.vilspa.esa.es, tom.shanks@durham.ac.uk,
+    tommy@oso.chalmers.se, tprusti@iso.vilspa.esa.es, tr@cp.dias.ie,
+    treves@astmiu.uni.mi.astro.it, ttanabe@mtk.ioa.s.u-tokyo.ac.jp,
+    ttsuji@mtk.ioa.s.u-tokyo.ac.jp, turner@bonnie.astro.ucla.edu,
+    txt@starburst.astro.virginia.edu, uherbst@mpia-hd.mpg.de,
+    uherbst@mpia-hd.mpg.de, vanhoof@cita.utoronto.ca, vdhulst@astro.rug.nl,
+    veilleux@noao.edu, verheyen@astro.rug.nl, vermarp@tifrvax.tifr.res.in,
+    verstra@ias.fr, VGrossmann@t-online.DE, viallefond@obspm.fr,
+    vigotti@astbo1.bo.cnr.it, vigroux@sapvxg.saclay.cea.fr,
+    vlk@boris.mpi-hd.mpg.de, volk@iras.ucalgary.ca,
+    walmsley@arcetri.astro.it, wecj@carmen.phys.columbia.edu,
+    weiss@galileo.astro.univie.ac.at, wennmach@geo.uni-koeln.de,
+    willner@cfa.harvard.edu, wooden@ssa1.arc.nasa.gov,
+    wouterloot@ph1.uni-koeln.de, wozniak@observatoire.cnrs-mrs.fr,
+    wright@phadfa.ph.adfa.edu.au, xwl@starlink.ucl.ac.uk,
+    Y.A.Gallant@fys.RUU.NL, yamamura@astro.uva.nl, yeti@sara.la.asu.edu,
+    yukari@crl.go.JP, zavagno@obmara.cnrs-mrs.fr, zhang@iras.ucalgary.ca,
+    zuckerman@bonnie.astro.ucla.edu
+Subject: Second announcement ISO surveys workshop
+
+
+
+
+                   SECOND ANNOUNCEMENT
+
+
+             "ISO Surveys of a Dusty Universe"
+
+     Workshop at Ringberg Castle, November 8 - 12, 1999
+
+
+A one week workshop will be held at Ringberg Castle of the
+Max-Planck-Society about 50 km south of Munich in the Bavarian Alps
+from 08 to 12 Nov 1999.  Topics to be covered include the ISO deep
+surveys, extragalactic background radiation, surveys dedicated to
+selected groups of galaxies (field and cluster galaxies, ULIRGs,
+quasars, etc.), and complementary surveys.  These sessions will be
+accompanied by contributions on theoretical work on galaxy
+formation. One session will be devoted to galactic topics such as
+pre-protostellar clouds and young stellar objects with disks.
+
+The workshop starts on Monday at 14.00h.  Arrival at the castle is
+either Sunday evening (16.00h .. 22.00h) or Monday morning.  Wednesday
+afternoon is partially free for informal get-togethers; because of the
+remote location of the castle there is no quick access to Munich. In
+the late afternoon there will be a poster session (with coffee) until
+dinner at 18.30h. A guided tour through the castle and its history,
+architecture, paintings, furniture, etc. will be offered at one of the
+evenings. The workshop officially ends on Friday with lunch at 14.00h.
+
+After the first announcement, a large number of very interesting
+contributions were received.  Several talks, mostly major contributions
+based on ISO Survey results and a few complementary topics, including
+some of the speakers, have already been preselected by the SOC to
+structure the meeting. This preliminary agenda serves as a skeleton of
+the workshop and covers roughly 50 % of the total of about 60 oral
+contributions planned.  The length of the talks will be typically 20
+min, and a number of posters will also be accepted.  Selection of most
+contributions will take place in June 1999, and very few slots for
+important last minute results will be filled in in September 1999.
+
+There will be a moderate conference fee to cover the proceedings,
+coffee, etc., the exact amount of which will be determined after the
+financial support of the workshop has been settled.
+
+The deadline for registration including abstract will be June 1, 1999.
+Please use the attached Registration Form, or the LaTeX template, to
+be found on the workshop homepage http://isowww.mpia-hd.mpg.de/iso_surveys/,
+and send it to ISO.SURVEYS@mpia-hd.mpg.de.  The final agenda will be
+distributed with the Third Announcement in late summer.
+
+
+Scientific Organizing Committee:
+
+C. A. Beichman, IPAC, Pasadena, USA
+C. Cesarsky, CEA, Saclay, France
+T. Henning, Jena, Germany
+M. F. Kessler, ISO Data Centre, ESA, Vilspa, Spain
+D. Lemke, MPIA, Heidelberg (chair), Germany
+K. Mattila, University Observatory, Helsinki, Finland
+M. Rowan-Robinson, Imperial College, London, UK
+
+
+Local Organizing Committee:
+U. Klaas, L. Schmidtobreick, M. Stickel (chair), K. Wilke.
+(all MPIA, Heidelberg, Germany)
+
+
+WWW:      http://isowww.mpia-hd.mpg.de/iso_surveys/
+
+Contact:  ISO.SURVEYS@mpia-hd.mpg.de
+
+
+----------------------------------------------------------------------------
+
+
+             "ISO Surveys of a Dusty Universe"
+
+     Workshop at Ringberg Castle, November 8 - 12, 1999
+
+
+Preliminary Program :
+
+I. Deep Surveys
+---------------
+ The ISO Mission and its Surveys				Kessler
+ ELAIS Survey							Oliver
+ ISOCAM Deep Surveys						Cesarsky
+ Galaxy Clusters
+
+
+II. Extragalactic Background
+----------------------------
+ The Structure of the FIR Background from FIRBACK & DIRBE	Lagache
+ FIRBACK Source Counts and Identifications    	 		Dole
+ ISOPHOT Search for Cosmic FIR Background			Mattila
+ X-Ray Survey of an Obscured Universe        			Hasinger
+ DIRBE
+
+
+III. Evolutionary Models
+------------------------
+ Star Formation History from FIR Observations       	 	Puget
+ Modelling FIR and Sub-mm Counts and Background			Rowan-Robinson
+
+
+IV. Object-Oriented Surveys
+---------------------------
+ Elliptical Galaxies						Norgaard-Nielsen
+ Seyfert Galaxies						Rodriguez-Espinosa
+ Ultra Luminous IR Galaxies					Genzel
+ ISO spectroscopy of Active Galactic Nuclei            	 	Lutz
+ Quasars							Chini
+
+
+V. Complementary Surveys
+------------------------
+ ISOPHOT Serendipity Survey Point Source Catalog     	        Stickel
+ ISOCAM Parallel Survey						Siebenmorgen
+ Highlights from the LWS Parallel and Serendipity Modes 	Lim
+ IPAC Filler Survey
+
+
+VI. Surveys in the Galaxy
+-------------------------
+ Preprotostellar Cores						Ward-Thompson
+ Massive Star Formation						Henning
+ Results of the ISOGAL Survey of the Inner Galaxy  		Omont
+
+
+VII. Present and future surveys
+-------------------------------
+ 2MASS: Looking Through a Dusty Galaxy				Beichmann
+ Sloan Sky Survey						Rix
+ SOFIA								Becklin
+ FIRST								Pilbratt
+ NICMOS
+ SIRTF
+ SCUBA
+
+
+
+----------------------------------------------------------------------------
+
+
+                "ISO Surveys of a Dusty Universe"
+
+         Workshop at Ringberg Castle, November 8 - 12, 1999
+
+                      Registration Form
+                      -----------------
+
+
+Please email this form to    ISO.SURVEYS@mpia-hd.mpg.de
+
+
+Family Name............................................................
+
+First Name.............................................................
+
+Address: Institute.....................................................
+         Organisation..... ............................................
+         Street........................................................
+         City..........................................................
+         Postal Code...................................................
+         Country.......................................................
+
+Email Address........................................
+Phone................................................
+FAX..................................................
+
+
+
+Please tick one of the following:
+
+I am interested in this conference, please keep me informed   ....
+I would like to attend  ....
+
+I would like to present an oral contribution ....
+
+Title : .....................................................
+
+Abstract:
+
+
+I would like to present a poster ....
+
+Title : ...........................................................
+
+Abstract:
+
+
+
+
+

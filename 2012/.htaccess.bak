@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "Please use username: guest ; password: astro to login"
+AuthUserFile /asiaa/home/htpasswd1
+#AuthName "Please use username: TANarchive ; password: astro to login"
+#AuthUserFile /var/www/conf/user_site  
+
+require user guest TANarchive

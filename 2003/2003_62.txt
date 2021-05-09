@@ -1,0 +1,193 @@
+From astro@.MISSING-HOST-NAME. Wed Apr 30 13:26:41 2003
+Date: Fri, 4 Apr 2003 17:58:23 +0800 (CST)
+From: Taiwan Astronomy Network <astro>
+To: astro
+Subject: TAN (Issue Apr 04 - 04, 2003)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+In this issue (Apr 04 - Apr 04, 2003):
+
+1.  Alex Fridman's visit
+1.1 Alex Fridman's schedule (a LeTex file)
+2.  NCU Astronomy Colloquium (Apr 11): Guey-Lin Lin (NCTU)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+>From yuan@asiaa.sinica.edu.tw Fri Apr  4 13:18 CST 2003
+Date: Fri, 04 Apr 2003 13:13:30 +0800
+From: Chi Yuan <yuan@asiaa.sinica.edu.tw>
+X-Accept-Language: en
+MIME-Version: 1.0
+To: iaa@asiaa.sinica.edu.tw
+CC: chi yuan <yuan@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw,
+        Tzi-hong Chiueh <chiuehth@phys.ntu.edu.tw>, sharon@earth.sinica.edu.tw,
+        Wen-Ping Chen <wchen@astro.ncu.edu.tw>,
+        Hsiang-Kuang Chang <hkchang@phys.nthu.edu.tw>,
+        "Dr. Paul Ho" <pho@asiaa.sinica.edu.tw>,
+        frank shu <shu@mx.nthu.edu.tw>
+Subject: Alex Fridman
+
+Dear Colleagues:
+
+I am pleased to announce that Dr. Alexei (Alex) Fridman, a Russian
+Academician and the leading Russian dynamist in astrophysics, will visit
+us for two weeks, 4-6 to 4-19. Dr. Fridman has worked in many different
+areas in astrophysics and earth science. He will give a series of
+lectures on astrophysics problems in our institute, including one
+invited talk at CAST, and two lectures in Institute of Earth Science.
+He will also visit Tsinghua and Central  and give lectures.
+
+Dr. Fridman was the thesis advisor of Dr. Uri Griv, who was with our
+institute during the early days. He himself was a student of R.Z.
+Sagdeev, a famous Russian plasma physicist.  He is related to A.
+Friedmann, who corrected Einstein's error and found the expanding and
+contracting universe solutions from Einstein's general relativity. Among
+many achievements in science, Dr. Fridman is also well known as a
+martial art fighter. If you visit his home, he will show you all the
+knives he captured from the muggers. He is a character and fun to talk
+to, scientific and non-scientific. I urge you to meet him and talk to
+him while he is here. He will be sitting in RM 729. Dr. Fridman is
+accompanied by his wife, Tanya.
+
+Dr. Fridman's schedule is attached in this e-mail. Along with it are the
+titles of his talks and brief abstracts. I send both latex file and ps
+file for your convenience.
+
+I hope you take good advantage of having Dr. Fridman around.
+
+With best regards,
+
+Chi Yuan
+
+------------- LaTex file  -----------------------------
+
+\documentstyle[12pt]{article}
+\setlength{\parindent}{3em}
+\setlength{\parskip}{10pt plus 2pt minus 2pt}
+\setlength{\textwidth}{6in}
+\setlength{\textheight}{9in}
+\setcounter{page}{1}
+\setlength{\oddsidemargin}{1.25in}
+\setlength{\evensidemargin}{\oddsidemargin}
+\def\baselinestretch{1.0}
+\hoffset=-1.05in
+\voffset=-1.0in
+\begin{document}
+
+
+\begin{center}
+{\large Schedule for Dr. Alex Fridman: 4-5-03 to 4-19-03}
+\end{center}
+
+\begin{tabbing}
+Date-----------\=Activities---------------------\=Place------------------\=Host----------\kill
+Date           \>Activities                     \>Place                  \>Host          \\
+               \>                               \>                       \>              \\
+04-05-03       \>Arr Taipei(KL877,17:30)        \>Taoyuan, Taipei        \>Chi Yuan      \\
+04-06(Su)      \>Sightseeing                    \>Taipei                 \>Chi Yuan      \\
+04-07(M)       \>Visit, Lecture 3               \>Taida, ASIAA           \>Chi Yuan      \\
+04-08(Tu)      \>Group Discussion               \>Taida, ASIAA           \>Chi Yuan      \\
+04-09(W)       \>Group Discussion               \>Taida, ASIAA           \>Chi Yuan      \\
+04-10(Th)      \>Visit, Lecture 6               \>ASIES                  \>Typhoon Lee   \\
+04-11(F)       \>Visit, Lecture 1               \>ASIAA                  \>Chi Yuan      \\
+04-12(Sa)      \>Sightseeing                    \>Haulien                \>ASIAA         \\
+04-13(S)       \>Sightseeing                    \>Haulien, Taipei        \>ASIAA         \\
+04-14(M)       \>Lecture 5                      \>ASIES                  \>Typhoon Lee   \\
+04-15(Tu)      \>Visit, Lecture                 \>Central                \>Wen-Ping Chen \\
+04-16(W)       \>Lecture 2                      \>Tsinghua               \>H.K. Chang    \\
+04-17(Th)      \>lecture 2                      \>ASIAA                  \>Chi Yuan      \\
+04-18(F)       \>CAST, Lecture 4                \>Taida, ASIAA           \>Wing Ip       \\
+04-19(Sa)      \>Lv Taiwan(KL878,19:10)         \>Taipei, Taoyuan        \>Chi Yuan      \\
+\end{tabbing}
+
+\begin{center}
+{\large Proposed Lectures}
+\end{center}
+
+\noindent 1. New Structures in Galactic Disks: Predictions and
+Discoveries. (It is his review, $>$300 pages, which will appear in
+Space Science Review in the end of March or in the beginning of
+April).
+
+\noindent
+2. Physics of Planetary Rings. (The interest to
+the planetary rings increases from day to day as
+the Cassini spacecraft is approaching to Saturn.
+It will encounter Saturn on 1 July 2004).
+
+\noindent
+3. The Galactic Center Dynamics (The innermost
+central part of the Galaxy has very complicated
+morphology and kinematics. There are many attempts
+to understand the nature and origin of a puzzling
+structure (so-called "mini-spiral") in the innermost
+central part of the Galaxy located inside 1.5 pc.
+We show that the "mini-spiral" origin can be caused
+by an overreflection instability).
+
+\noindent
+4. Collective phenomena and turbulent viscosity
+in accretion disks. (The other kind overreflection
+instability - in comparison with that developing
+in the Galactic Center - leads to an one-armed
+spiral - vortex structure and observed turbulent
+viscosity in accretion disks. The period of the
+density wave rotation is in agreement with the
+typical periods of light curve variations observed
+in cataclysmic binary stars).
+
+\noindent
+5. On the discovery of two components - global
+and mirror - of the Earth's seismic activity.
+
+\noindent
+6. Observational manifestations of wave phenomena
+in the Central Tien Shan.
+
+Both lectures (5,6) are devoted to the study of
+the reasons of earthquakes. Key questions:\\
+    1) correlations of the global seismic
+    activity with peculiarities of Earth's
+    rotation;\\
+    2) from the measurement of the 3D velocity
+    field of the Central Tien Shan by the GPS
+    technique to the calculation of the strain
+    field.\\
+Dr. Fridman is currently  a superviser of one of the world's best
+geophysical polygon in the Central Tien Shan,
+where every summer scientists work from
+different countries(2 professors from MIT,
+a few - from Max-Planck-Institutes, etc).
+
+\end{document}
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+From: yichou@webmail.phy.ncu.edu.tw
+X-Authentication-Warning: dirac.phy.ncu.edu.tw: apache set sender to yichou@webmail.phy.ncu.edu.tw using -f
+Message-ID: <1049421516.3e8ce6cce1582@dirac.phy.ncu.edu.tw>
+Date: Fri,  4 Apr 2003 09:58:36 +0800
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Astronomy Colloquium
+
+
+                   National Central University 
+                        Astronomy Colloquium 
+
+
+                 2:00 p.m. 11 April 2002 (Friday) 
+                 NCU Science Building IV, Conf. Room, Rm 1013 
+   
+                 Speaker:  Prof. Guey-Lin Lin 
+                           Institute of Physics 
+                           National Chiao Tung University 
+                     
+                 Title:  The Fluxes and Propagations of High Energy Neutrinos 
+
+
+----------------------------------------------------------------------
+Dep. of Physics, National Central University http://www.phy.ncu.edu.tw
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

@@ -1,0 +1,269 @@
+==============================================================================
+
+In this issue (Mar 15 - 29, 2017)
+
+[My apology to the lateness of this issue due to some technical difficulties.]
+[If your find your messages to TAN were missing, please inform. YJK/TAN admin]
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Mar 20): Andrew Mann (Univ of Hawaii)
+                                      (Mar 22): Ziri Younsi (Univ of Frankfurt)
+                                      (Mar 23): Ke-Jung Chen (NAOJ)
+                                      (Mar 24): Hyosun Kim (ASIAA)
+2. NTHU Astronomy Colloquium/Seminar Series (Mar 24): Min-Kai Lin (ASIAA)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Mar 27): Peter Scicluna (ASIAA)
+                                      (Mar 29): Kenny Vilella (ASIES)
+                                      (Mar 29): Chiu, Chuang Ping (ASIAA)
+                                      (Mar 31): Werner Krauth
+                                           (Ecole Normale Supérieure)
+4. NCU 2017 Summer Camp
+5. NTHU Astronomy Colloquium/Seminar Series (Mar 31): Hyosun Kim (ASIAA)
+
+==============================================================================
+
+> Date: Thu, 16 Mar 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Andrew Mann (University of Hawaii at Manoa)
+Topic:          Tracing Planetary Evolution from Formation to Maturity
+Time:           3/20 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Planets are not born in their final state; rather, they change significantly over their lifetimes. Understanding how planets evolve has been a central question since the discovery of the first exoplanets. The first few hundred million years are thought to be the most formative, but planets in this age range are also the most difficult to identify and characterize. Instead, research has focused on inferring the history of planets through patterns in the population of older systems. In this talk I will discuss how this paradigm is shifting, as novel search techniques and new missions have enabled our discovery of Earth- to Jupuiter-size planets as young as 10 Myr. These discoveries have altered our understanding of how planets migrate and lose atmosphere, but raise further questions about the physical drivers of these changes. The upcoming TESS mission will discover hundreds more young planets, including analogues of a young Earth. Combined with follow-up from new NIR spectrog!
+ raphs (e.g., SPIRou on CFHT, IRD on Subaru), the TESS sample will enable new tests of planet formation and evolution through population statistics. Eventually, JWST, SPICA, and 30m-class telescopes can be used to study the atmospheres of young, rocky planets, providing unique insight into the history of potentially habitable planets.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Ziri Younsi (University of Frankfurt)
+Topic:          Imaging Black Holes - Shadows, Accretion and Variability
+Time:           3/22 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In the coming months and years mm-VLBI observations of supermassive black holes using the Event Horizon Telescope (EHT), most notably of Saggitarius A* and M87, are expected to verify the existence of astrophysical black holes through detection and measurement of the black hole shadow. Although the mathematical description of a black hole shadow is straightforward, its observational appearance is strongly governed by the (thermo)dynamics and geometrical structure of the surrounding accretion flow. This accretion flow, particularly on event horizon-scales, is turbulent and time variable, and must be modelled using general-relativistic magnetohydrodynamical (GRMHD) simulations. The propagation of radiation and therefore the appearance of shadow images, spectra and lightcurves are calculated using GR radiation transport (GRRT). Here we combine GRMHD and GRRT calculations to derive observational predictions of what upcoming VLBI observations of Sagittarius A* are expected to obs!
+ erve, addressing questions concerning variability therein and also discussing the possibility of testing the Kerr black hole hypothesis and constraining other black hole solutions and theories of gravity.
+
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Ke-Jung Chen (NAOJ)
+Topic:          Lighting up the Universe with Extreme Supernovae
+Time:           3/23 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Recent all-sky transient searches have discovered new and unexpected explosion types
+that fall outside traditional SN classification schemes. These exotic outliers in many cases
+are due to the deaths of massive stars and therefore may have been prevalent in the
+primordial universe because the Pop III IMF is thought to be top-heavy. Depending on the
+mass of the progenitor, these outliers may be faint, magnetar-powered, pair-instability, or
+general relativistic instability SNe, all of which have unique observational signatures.
+Some of these events are superluminous, 10-100 times brighter than normal supernovae,
+and may produce energetic UV, X-ray, or gamma-ray bursts. Their extreme luminosities
+enable their detection at z > 10 and they are ideal probes of the primordial universe at
+cosmic dawn, prior to the advent of the first galaxies. Here, we examine these exotic
+explosions with state of the art 3D radiation-hydro simulations that bridge all spatial scales
+from the central engine to breakout into the IGM, where observational signatures can be
+computed. We discuss the coevolution of radiation and turbulent mixing in SN ejecta
+and present realistic light curves for these explosions for JWST and the coming generation
+of extremely large telescopes (ELTs). Detection rates for Pop III SNe can place useful constraints
+on the primordial IMF, and their nucleosynthetic yields can be used to study the chemical
+compositions of extreme metal poor stars.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Hyosun Kim (ASIAA)
+Topic:          TBA
+Time:           3/24 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
+
+==============================================================================
+
+> Date: Fri, 17 Mar 2017 18:04:29 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 24th March 2017 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker: Dr. Min-Kai Lin
+          (ASIAA)
+
+Title: Hydrodynamic processes in planet formation
+
+Abstract:
+Planet formation is rapidly developing field in astronomy. We are in
+an era of not only regular detections of extra-Solar planets, but
+also the planet formation process itself. Recent observations of
+protoplantary disks reveal stunningly detailed sub-structures such as
+gaps, rings, spirals and lopsided asymmetries. Understanding the
+origin of these structures, for example due to unseen planets or
+dynamical instabilities, can place constraints on the physical
+conditions for planet formation.
+
+I will discuss some works on hydrodynamic processes important to
+protoplanetary disk/planet evolution and in explaining observations.
+These include gravitational instabilities, vortex formation, and the
+vertical shear instability for generating turbulence in disks.
+I will also present a new effort to study dusty protoplanetary disks
+through a set of modified fluid dynamic equations.
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+==============================================================================
+
+> Date: Thu, 23 Mar 2017 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Peter Scicluna (ASIAA)
+Topic:          Observing mass-loss from evolved massive stars
+Time:           3/27 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Kenny Vilella (Institute of Earth Sciences, Academia Sinica)
+Topic:          What thermal convection can tell us about planetary observations: applications to Pluto and habitability of exoplanets
+Time:           3/29 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Thermal evolution of planetary bodies is mainly controlled by its interior thermal convection and affect importantly its atmosphere and surface processes. The observations of its direct and indirect implications provides important constraints. For instance, the polygonal network found on the nitrogen glacier Sputnik Planitia (SP) on Pluto's surface (Stern et al. 2015), indicates that thermal convection operates within SP, which in turn suggests a large glacier thickness. Thermal convection, therefore, gives information that help the interpretation of planetary observations. For instance, the thickness of SP inferred by thermal convection indicates that a deep ocean is required to explain the location of SP on the equator. Thermal convection and planetary observations are therefore closely linked. /> />
+Here I present different approaches to study thermal convection and I emphasize the important link between our work and planetary observations. First, I investigate thermal convection within SP suggested by its surface polygonal network. Based on complex 3D-numerical simulations conducted for a large range of convective system, I conclude that only internal heating may produce such a surface pattern. However, there is no clearly identified source of internal heating within SP. I propose that the surface temperature variations caused by the variation in Pluto's orbit may be an appropriate source of heating. Second, I follow a parameterized approach to predict the occurrence of partial melting in exoplanets. Partial melting being necessary to maintain an atmosphere over a long period of time, which is a prerequisite for the presence of life. I found that moderate size planets are the most likely to be habitable, which show the importance of detecting Earth-size exoplanets.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Chiu, Chuang Ping (ASIAA)
+Topic:          1.5THz Cartridge System
+Time:           3/29 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Werner Krauth (Ecole Normale Supérieure)
+Topic:          Research and higher education in France, between Organizations, Schools and Universities
+Time:           3/31 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+A mirror of the multi-faceted research environment in most countries in the world, and in particular in Europe, the French academic environment is organized by a considerable number of actors, in a way that is not totally transparent from the outside. Nevertheless, the system produces a very stable environment, and provides opportunities for research and study at the highest level of excellence. In this presentation, I will (attempt to) provide an introduction to French research organization, with a focus on my discipline, physics, and on my own institution, Ecole normale supérieure, in Paris.
+
+==============================================================================
+
+> Received: by 10.74.122.76 with HTTP; Thu, 23 Mar 2017 20:37:43 -0700 (PDT)
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> Date: Fri, 24 Mar 2017 11:37:43 +0800
+> Subject: NCU 2017 Summer Camp
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof Kuan, can you help me to announce the following to TAN? Thanks.
+
+-----------------------------------------------------------
+
+We are organizing a Summer Camp with the theme in Gravitational Waves at
+NCU. Details can be found in our webpage:
+http://lidodo.astro.ncu.edu.tw/PIRE2017SCamp/index.php
+
+-----------------------------------------------------------
+
+--
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+==============================================================================
+
+> Date: Fri, 24 Mar 2017 17:31:50 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 31st March 2017 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker: Dr. Hyosun Kim
+          (ASIAA)
+
+Title: Circumstellar Spirals/Shells/Arcs:
+        the Messages from Binary Stars
+
+Abstract:
+A growing consensus has been developing in the past few decades that
+binarity is key in providing an understanding of the morphological
+diversities of the circumstellar envelopes (CSEs) surroudning stars
+in the Asymptotic Giant Branch (AGB) to Planetary Nebula (PN) phase.
+However, despite extensive efforts to detect companions of AGB stars
+and the central stars of PNe, the number of detected binaries in
+particular with their orbital properties derived are still small.
+As a consequence, the possible roles of binaries in the shaping of PN
+and in the CSEs of AGB stars have yet to be clarified.
+
+On the other hand, recurrent (ring/spiral/arc) patterns are often found
+in the CSEs of AGB stars and the outer halos of pre-PNe and PNe. Such
+patterns provide a fossil record and can be used to trace the temporal
+history of the mass loss dynamics during the AGB phase. In this regard,
+recent molecular line observations using radio interferometric facilities
+such as ALMA and JVLA have revealed the spatio-kinematics of such
+patterns. Numerical simulations of binary interactions producing
+spiral-shells have been extensively developed and are now becoming
+increasingly sophisticated, revealing new probes for extracting the
+stellar and orbital properties from these patterns.
+
+I will review the recent theoretical and observational investigations
+on the circumstellar spiral-shell patterns and discuss their implications
+in linking binary properties to the asymmetric ejection events in the
+post-AGB phase.
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

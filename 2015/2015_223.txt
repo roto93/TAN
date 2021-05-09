@@ -1,0 +1,337 @@
+==============================================================================
+
+In this issue (Dec 13, 2015 - Jan 07, 2016)
+
+-------------------------------------------------------
+
+[FIRST OFF, my apology for the 3-week delay of this latest issue of TAN. The
+ TAN server suffered from a severe network problem possibly due to a recnt
+ ASIAA firewall modification.  The problem was first reported to the MIS of
+ ASIAA on Dec 20, and a potential firewall problem was then suggested to MIS
+ on Dec 23, but unfortunately the issue wasn't taken seriously until later.
+ Anyway, now a temporary fix is in place and the TAN is back online again.
+  -- YJK ]
+
+-------------------------------------------------------
+
+1. ALMA cycle 4 pre-announcement
+2. ASIAA Colloquium/Seminar/Lunchtalk (Dec 21, 2015): Wei-Hao Wang (ASIAA)
+                                      (Dec 23, 2015): Shou-Ting Jian (ASIAA)
+3. NTHU informal discussion and colloquium (Dec 25, 2015):
+                                            Scientists are People Too!
+                                 (Dec 25, 2015): Regina Barber DeGraaff (WWU)
+4. ALMA data propriety period
+5. New Installment of ALMA science verification data
+6. ASIAA Colloquium/Seminar/Lunchtalk (Dec 28, 2015): Jen-Wei Hsueh (UC Davis)
+                                (Dec 29, 2015): Ue-Li Pen (CITA, U of Toronto)
+7. ALMA flux issue
+8. NTHU Astronomy Colloquium (Jan 08, 2016): Chang Yu-Yen
+9. ASIAA Colloquium/Seminar/Lunchtalk (Jan 05, 2016): Erwin Lau (Yale)
+                                      (Jan 06, 2016): Dae-Won Kim (ASIAA)
+10. ASIAA Colloquium/Seminar/Lunchtalk (Jan 11, 2016): Ciska Kemper (ASIAA)
+                                       (Jan 15, 2016): Rachel Mandelbaum (CMU)
+
+==============================================================================
+
+> From: =?utf-8?B?6auY5qGRIOe5geS5hQ==?= <takakuwa@asiaa.sinica.edu.tw>
+> Subject: ALMA cycle 4 pre-announcement
+> Date: Wed, 16 Dec 2015 16:45:19 +0900
+> To: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+ Dear All,
+
+ The ALMA cycle 4 pre-announcement has been issued. The cycle 4 proposal deadline is April 2016.
+Large proposals, ACA standalone, and VLBI capability will be available. Please see;
+
+https://almascience.nao.ac.jp/news/alma-cycle-4-pre-announcement
+
+ Sincerely,
+ Shigehisa Takakuwa, on behalf of ALMA Taiwan
+
+==============================================================================
+
+> Date: Thu, 17 Dec 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Wei-Hao Wang (ASIAA)
+Topic:          The EAO JCMT Large Programs
+Time:           12/21 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Shou-Ting Jian (ASIAA)
+Topic:          ALMA Band 1 Beam Test and Setup
+Time:           12/23 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================
+
+> From: Tomo <itlhnis@gmail.com>
+> Date: Fri, 18 Dec 2015 16:21:16 +0800
+> Subject: Re: NTHU colloquium
+> To: astro@asiaa.sinica.edu.tw, =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+
+2015-12-25 (Fri) in GBII R521
+1-2pm  lunch + informal discussion on "Scientists are People Too! How
+to be an effective science communicator”.
+2-3pm regular colloquium
+
+Regina Barber DeGraaff (WWU)
+"Globular Cluster Survey of the Shapley Supercluster”
+
+Globular cluster populations were instrumental in helping humans find
+their place in the universe.  Now they are studied to find possible
+clues to galaxy formation. Recent evidence shows that number of
+globular clusters (GC), Ntot, scales with dark matter halo mass of the
+host galaxy, Mhalo.  The correlation between Ntot and Mhalo gives us a
+window into GC formation efficiency.  We are probing the high mass end
+of this relation by investigating the globular cluster systems of 11
+giant elliptical galaxies in clusters associated with the Shapley
+Supercluster, the largest mass concentration in the local universe and
+possibly a major source of the Local Group's 630 kms motion with
+respect to the cosmic microwave background.  The sample galaxies were
+imaged with the Advanced Camera for Surveys Wide Field Channel in the
+F814W bandpass and are in the redshift range z=0.035-0.048.
+
+We find a nonlinear relationship between the host galaxy luminosity LV
+and number of globular clusters Ntot , with Ntot  scaling as LV to the
+power of 1.6; thus, the GC specific frequency SN increases with LV for
+these high-mass galaxies. Our data show good consistency with the
+U-shape relationship between SN and host galaxy magnitude MV found in
+other recent GC studies. Galaxies at intermediate luminosities near
+the low-point of the U have both the lowest SN values and highest
+stellar mass ratios, indicating that Ntot scales more closely with the
+dark halo mass than with stellar mass. For one galaxy in our sample,
+ES0325-G004, additional multi-band imaging was obtained, and we find a
+bimodal globular cluster color distribution with characteristics
+typical of most giant ellipticals.
+
+==============================================================================
+
+> From: =?utf-8?B?6auY5qGRIOe5geS5hQ==?= <takakuwa@asiaa.sinica.edu.tw>
+> Subject: ALMA data propriety period
+> Date: Mon, 21 Dec 2015 12:17:41 +0900
+> Cc: arc <arc@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw,
+>         Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+ Dear ALMA users in Taiwan,
+
+ If you find problems of your delivered ALMA data, you can submit helpdesk tickets
+and ask to reset the data propriety period. However, you have to submit the helpdesk
+ticket within two months of the data delivery, otherwise full reset of the propriety
+period will not be guaranteed. Please read section 8.4.2 and 8.4.3 of the Cycle 3
+User Policy document;
+
+https://almascience.nao.ac.jp/documents-and-tools/cycle3/alma-user-policies
+
+ Sincerely,
+ Shigehisa Takakuwa, on behalf of ALMA Taiwan
+
+==============================================================================
+
+> From: =?utf-8?B?6auY5qGRIOe5geS5hQ==?= <takakuwa@asiaa.sinica.edu.tw>
+> Subject: New Installment of ALMA science verification data
+> Date: Tue, 22 Dec 2015 11:28:34 +0900
+> To: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+ Dear ALMA Taiwan people,
+
+A new installment of Science Verification data is available. This
+release contains data on the following Science Verification target:
+IRAS16293-2422 spectral line observations in Band 4 (CH3CN, CH3OH) with
+the 12-m Array, demonstrating the Band 4 capability.
+
+=
+https://almascience.nao.ac.jp/news/release-of-a-new-instalment-of-science-=
+verification-data-1
+
+ Sincerely,
+ Shigehisa Takakuwa, on behalf of ALMA Taiwan=
+
+==============================================================================
+
+> Date: Thu, 24 Dec 2015 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Jen-Wei Hsueh (UC Davis)
+Topic:          Find dark subhalos with strongly lensed quasars
+Time:           12/28 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Missing satellite problem is one of the mystery in modern cosmology. I will talk about how astronomers detect satellite galaxies and subhalos in distant galaxies with gravitational lensing. And why strongly lensed quasars provide an ideal approach to understand the missing satellite problem.
+
+
+*** ASIAA/NTU Joint Colloquium ***
+____________________________________________________
+Speaker:        Ue-Li Pen (Canadian Institute for Theoretical Astrophysics, University of Toronto)
+Topic:          Past, present and future of Fast Radio Bursts:
+the brightest events in the universe since the big bang
+Time:           12/29 (Tuesday) 14:20 - 15:20
+Place:           Physics 104
+Abstract:
+I report on recent progress to understand the nature of fast radio bursts. Most properties are inferred through propagation effects, including dispersion, scattering, scintillation, and rotation measure. I will review the issues, survey some of the proposed candidates ranging from terrestrial to cosmological, and conclude with prospects for the near future.
+
+==============================================================================
+
+> From: Shigehisa Takakuwa <takakuwa@asiaa.sinica.edu.tw>
+> Subject: ALMA flux issue
+> Date: Thu, 24 Dec 2015 15:27:33 +0900
+> To: alma-taiwan@asiaa.sinica.edu.tw, riaa <riaa@asiaa.sinica.edu.tw>,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+ Dear ALMA Taiwan people,
+
+ Announcement from ALMA-J ARC manager, Tatematsu-san.
+
+ Sincerely,
+ Shigehisa Takakuwa
+
+--------------------------------------------
+Dear EA PI for Cycle 0, 1, 2,
+
+If you have B3 observation data with Ceres as an absolute calibrator,
+and if you are concerned with the absolute flux scale,
+please contact us.
+
+The absolute flux scale may be a little higher
+(not fully confirmed).
+
+Regards,
+Ken Tatematsu
+Hiroshi Nagai
+Misato Fukagawa
+--
+K. Tatematsu (National Astronomical Observatory of Japan)
+
+_______________________________________________
+eaarc-cycle2-pi mailing list
+eaarc-cycle2-pi at alma.mtk.nao.ac.jp
+
+==============================================================================
+
+> Date: Thu, 24 Dec 2015 14:32:17 +0800
+> Subject: NTHU colloquium 2016/01/08
+> From: =?UTF-8?B?6buD6byO6ICG?= <cyes4116@gmail.com>
+> To: astro@asiaa.sinica.edu.tw
+> Cc: Tomo <itlhnis@gmail.com>
+
+Speaker:Chang Yu-Yen
+Place: General 2nd building R521
+Time: 2016/01/08 14:00
+Title: Infrared AGNs in Galaxy Evolution
+Abstract: I will present a study of the connection between activity of
+nuclear accretion, star formation, and galaxy morphology. In our work, we
+focus on infrared selected AGNs, which are complementary samples of X-ray
+selected objects. We fit optical to far-infrared photometry by the latest
+SED techniques to derive stellar masses, star formation rates, dust
+properties, and AGN contribution in the COSMOS field. We explore galaxy
+morphologies through HST/ACS images, which provide structural properties of
+galaxy stellar component at high redshift. We discover the differences
+between obscured AGN host galaxies and star-forming galaxies. We discuss
+the influence of compaction scenario and the role of AGNs in galaxy
+evolution.
+
+==============================================================================
+
+> Date: Thu, 31 Dec 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Erwin Lau (Yale)
+Topic:          TBA
+Time:           1/5 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Dae-Won Kim (ASIAA)
+Topic:          Gaia and Data Intensive Astronomy
+Time:           1/6 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Gaia is an ESA satellite project launched at Dec. 2013. It will map our Galaxy in 3D by measuring six astrometric parameters (i.e. two positions, two proper motions, parallax, and radial velocity) of one billion stars over the whole sky. Astrometric accuracy of Gaia for G type star is 5-16 μas for bright stars, 24 μas at V = 15 mag and 540 μas at V = 20 mag, which is the highest accuracy that has ever been achieved. Gaia simultaneously obtains low-resolution spectrum of each star using Blue and Red Photometer (BP and RP: 330-680nm and 640-1000nm, respectively). By the nature of Gaia, it will produce enormous amount of complex data. Analyzing Gaia data is thus a challenging and huge task requiring Big Data experts and dedicated computing powers as well. In this talk, I will give an overview of the Gaia mission and efforts for Gaia data analysis in DPAC (Data Processing and Analysis Consortium).
+
+==============================================================================
+
+> Date: Thu, 7 Jan 2016 08:00:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Ciska Kemper (ASIAA)
+Topic:          Detecting crystalline silicates in external galaxies with SPICA and JWST
+Time:           1/11 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Rachel Mandelbaum (CMU)
+Topic:          Galaxy halo masses and implications for galaxy evolution from weak lensing measurements
+Time:           1/15 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In the past decade, weak gravitational lensing has become one of the best ways of measuring galaxy halo masses for galaxy samples at low to intermediate redshifts.  Measurements of the average halo density profiles for galaxies with a given luminosity or stellar mass (observable mass proxies) have revealed a great deal about the connection between halo masses and these mass proxies.  After a broad overview of what such measurements have shown us in several datasets, I will describe some recent measurements in the SDSS that illustrate a bimodality in halo mass at fixed stellar mass, with red galaxies that reside at the centers of dark matter halos having host halo masses that are a factor of 2-3 larger than those that host blue central galaxies.  I will discuss the implications of these results for models of galaxy formation and evolution, and also propose future measurements with upcoming datasets such as HSC that will shed further light on the relevant galaxy formation and !
+ evolution processes.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

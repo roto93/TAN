@@ -1,0 +1,165 @@
+From astro@iaa17.asiaa.sinica.edu.tw Sun Nov 28 21:28:39 2010
+Date: Sun, 28 Nov 2010 21:23:30 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Nov 22 - 28, 2010)
+
+============================================================================== 
+
+In this issue (Nov 22 - 28, 2010)
+
+1. ALMA Novice-User Workshop 2010 (Part II): Registration deadline (Dec 12)
+2. SPICA Science Meeting: Kick-off Discussion (Dec 07)
+3. ASIAA Colloquium (Dec 03): Mingzhi Wei (UCO/Lick Observatory)
+
+==============================================================================
+
+Dear all,
+
+The 1st part of the ALMA Novice-User Workshop (Part I) has been conducted
+successfully on November 20. Now it's time for the registration of the 2nd
+part of the Workshop. Please note the venus of the workshop will be moved
+to ASIAA on NTU campus, and the registration deadline is Dec 12.
+
+Hope to see you all again.
+
+Regards,
+Yi-Jehng Kuan
+on behalf of the Organizing Committee
+
+------------------------------------------------------------------------------
+ALMA Novice-User Workshop 2010
+2010 December 18
+URL: http://www.es.ntnu.edu.tw/tuCASA/novice-wksp/ 
+------------------------------------------------------------------------------
+
+2nd Announcement
+________________
+
+The University Consortium of ALMA-Taiwan (UCAT) is pleased to host one two-day
+workshop for novice ALMA users in Taiwan.
+
+The workshop, co-sponsored by ASIAA, is designed especially for graduate
+students and colleagues without (strong) radio or interferometer background.
+The workshop targets at layman users, and will introduce the functionality,
+capability and usefulness of ALMA on various sciences in astrophysics. This
+UCAT workshop is practically a prerequisite in preparation for more advanced
+ALMA user workshops to be held later by Taiwan ALMA Regional Center (Taiwan-ARC)
+of ASIAA.
+
+The program of the 2-day ALMA Novice-User Workshop includes:
+	* Introduction to ALMA
+	* Radio astronomy and single-dish telescopes 
+	* Introduction to interferometry
+	* Scientific applications: Galactic sources and the Solar system
+	* Scientific applications: Extragalactic astronomy
+	* Tools for ALMA
+	* Calibration and Imaging 
+	* ALMA Observing Tool: Demo and Practice
+
+Date and Venue
+________________
+
+Part I - November 20 (Saturday) [has been held already]: 
+Rm S102 of the Research Building (???????s?j??) on Shida's Science Campus (?v?j????)
+
+Part II - December 18 (Saturday) [to be held]:
+Rm 1203 of ASIAA on Taida (NTU) campus.
+
+Organizing Committee
+______________________
+
+Vivien Chen (NTHU)
+Chorng-Yuan Hwang (co-Chair, NCU)
+Yi-Jehng Kuan (co-Chair, NTNU)
+Shih-Ping Lai (NTHU)
+Chin-Fei Lee (ASIAA)
+
+Registration
+_______________
+
+On-line registration for the 2nd-day workshop on Dec 18 is available at the
+tuCASA home:
+http://www.es.ntnu.edu.tw/tuCASA/novice-wksp/ , or go directly at
+http://www.astro.ncu.edu.tw/res/act/2010_alma_ws/register.php .
+Registration is free of charge. The registration deadline is December 12, 2010.
+
+Inquiry
+________
+
+For questions and/or more information, please contact Ms. Mei-Ling Huang
+(???????p?j) at m979001@astro.ncu.edu.tw .
+
+==============================================================================
+
+> From: Yoichi Oyama <ohyama@asiaa.sinica.edu.tw>
+> Subject: SPICA Science Meeting: Kick-off Discussion (Dec. 7)
+> Date: Tue, 23 Nov 2010 19:18:20 +0800
+> To: astro@asiaa.sinica.edu.tw
+
+Dear TAN colleagues,
+
+Some of us are trying to organize collaboration between Taiwan and SPICA
+(Space Infrared Telescope for Cosmology and Astrophysics).
+SPICA is a proposed space telescope mission lead by Japan and Europe,
+equipped with a single 3-m aperture cooled (~5 K) space telescope.
+This mission will allow a mould breaking step forward in detection sensitivity
+in the 5 to 200 μm waveband which will revolutionize our understanding of
+how galaxies, stars and planets form and interaction between the interlinked
+astrophysical processes that have ultimately led to the formation of our own
+Solar system and the emergence of life on Earth. If the project is fully funded and
+everything goes well, the telescope will be launched in 2018.
+
+We will organize a kick-off discussion about our possible science collaboration
+on December 7, 15:30- at ASIAA (Room 1108 on 11F). The meeting would take
+about 1 or 1.5 hours, including:-
+
+(1) Explanation for the following:-
+     - Overview of the SPICA project
+     - Discussions between ASIAA and JAXA to date
+     - Key science projects proposed by the Japanese community
+
+(2) Discussion about the following:-
+     - if the instrumental specification matches your research interests
+     - what kind of contributions you or your university could make
+       for the SPICA project (science documentation, software development, funding etc.)
+
+If you are interested in attending, please e-mail to Youichi (ohyama@asiaa.sinica.edu.tw) by December 3. Arrangement of the TV/SKYPE meeting system would also be possible. Send your remote connection request/questions to Youichi.
+
+Best regards,
+ Shiang-Yu Wang, Youichi Ohyama, Hiro Takami (ASIAA)
+
+==============================================================================
+
+> Date: Sun, 28 Nov 2010 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Special Seminar this week
+> From: Wei-Hao Wang<whwang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:	Dr. Mingzhi Wei (UCO/Lick Observatory)
+Topic:		Astronomical CCD Evaluation and Optimization
+Time:		12/3 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

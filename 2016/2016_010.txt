@@ -1,0 +1,45 @@
+> Date: Mon, 18 Jan 2016 09:19:14 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: cheung@phys.nthu.edu.tw, <twhepnet@hepmail.phys.sinica.edu.tw>,
+>         <astro@asiaa.sinica.edu.tw>
+> cc: ty18@cornell.edu, <jcpeng@illinois.edu>,
+>         "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>, <wyph.jh@msa.hinet.net>,
+>         Chih-Hsin Huang <chhuang@phys.ntu.edu.tw>
+> Subject: A new Higgs particle?
+
+Dear Kingmen and others:
+
+     Thank you so much for keeping us informed.
+
+     In fact, all of us, particle physicists and alike, should think about
+these things (problems) in terms of the Standard Model.
+
+     Let's start from quantum fields (particles). The only missing link is
+about \lambda (\phi^\dagger \phi)^2, the only renormalizable left-over for
+the complex scalar field \phi, in the 4-dimensional Minkowski space-time.
+This lambda (=1/8?) is dimensionless in the 4-dimensional Minkowski
+space-time and lambda should be determined by the governing space-time in
+view of its dimensionlessness. Since lambda = +1/8, it is self-repulsive -
+thus it cannot exist by itself.
+
+     The Higgs fields exist in pairs: phi(1,2) (Standard-Model Higgs),
+phi(3,2) (mixed family Higgs), and phi(3,1) (purely family Higgs), the
+first label SU_f(3) while the second the electroweak SU_L(2). They are
+maximally attractive in pair - just enough to overcome the
+self-repulsiveness. These fields are just enough to make the eight family
+gauge bosons massive as well as to make four family Higgs bosons.
+
+      The quark world has the (123) symmetry (SU_c(3) x SU_L(2) x U(1)).
+The lepton world also has the other (weaker) (123) symmetry (SU_L(2) x
+U(1) x SU_f(3)). They are free of Landau ghosts, and asymptotically free.
+Thus, well-behaved in the r => 0 limit.
+
+      In fact, in this 21st century, we can declare that we live in the
+quantum 4-dimensional Minkowski space-time with the gauge-group structure
+SU_c(3) x SU_L(2) x U(1) x SU_f(3) built-in from the very beginning. Why
+built-in from the very beginning? We could ask the 3^\circ K cosmic
+microwave background (CMB) for the answer.
+
+                         Best wishes to you all, Pauchy
+
+==============================================================================

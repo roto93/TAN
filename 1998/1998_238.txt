@@ -1,0 +1,65 @@
+From jlim@asiaa.sinica.edu.tw Wed Dec  2 12:19:03 1998
+Return-Path: <jlim@asiaa.sinica.edu.tw>
+Received: from biaa33.biaa.sinica.edu.tw (iaa11) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA15643; Wed, 2 Dec 1998 12:18:38 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id MAA16619; Wed, 2 Dec 1998 12:16:13 +0800
+Date: Wed, 2 Dec 1998 12:16:13 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199812020416.MAA16619@biaa33.biaa.sinica.edu.tw>
+To: iaa@iaa1, astro@iaa1
+Subject: ASIAA Colloquium
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Md5: JSivbNNQVDvR09TDnXWPUg==
+Content-Length: 2680
+Status: RO
+
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+
+
+                            4 Dec 1998 (Friday)
+      4F, Biochemistry Building (Conference Room), Academia Sinica
+            ==================================================
+            
+Session 1:  Colloquium (2:30 - 3:30 pm)
+
+            SPEAKER: Dr. Eric Keto 
+                     (Smithsonian Observatory)
+	    TITLE:   "The Shapes of Cross-Correlation Interferometers"
+
+            ABSTRACT:
+Cross-correlation imaging interferometers designed in the shape of a curve of 
+constant width offer better sensitivity and imaging characteristics than other 
+designs because they sample the Fourier space of the image better than other 
+shapes, for example, ``{T's}'' or ``{Y's}''.  In a cross-correlation 
+interferometer each pair of antennas measures one Fourier component with a 
+spatial wavenumber proportional to the separation of the pair.  Placing the 
+individual antennas of the interferometer along a curve of constant width, a 
+curve that has the same diameter in all directions, guarantees that the spatial 
+resolution of the instrument will be independent of direction because the 
+measured Fourier components will have the same maximum spatial wavenumber in all 
+directions.  The most uniform sampling within this circular region in Fourier 
+space will be created by the particular symmetric curve of constant width which 
+has the lowest degree of rotational symmetry or fewest number of sides, which is 
+the Reuleaux triangle.  The constant width curve with the highest symmetry, the 
+circle is the least satisfactory although still better than T's or Y's.
+
+In all cases, the sampling can be further improved by perturbing the antenna 
+locations slightly off a perfect curve to break down symmetries in the antenna 
+pattern which cause symmetries and hence non-uniformities in the sampling 
+pattern in Fourier space.  Appropriate patterns of perturbations can be 
+determined numerically.  As a numerical problem, optimizing the sampling in 
+Fourier space can be thought of as a generalization of the traveling salesman 
+problem to a continuous two-dimensional space.  Self-organizing neural networks 
+which are effective in solving the traveling salesman problem are also effective 
+in generating optimal inteferometer shapes. The Smithsonian Astrophysical 
+Observatory's Submillimeter Array, a cross-correlation imaging interferometer 
+for astronomy will be constructed with a design based on the Reuleaux triangle.
+

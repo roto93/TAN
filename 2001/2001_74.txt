@@ -1,0 +1,299 @@
+From sophie@asiaa.sinica.edu.tw Fri Mar 23 19:33 CST 2001
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id TAA22218
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 23 Mar 2001 19:33:02 +0800 (CST)
+Received: from w1k9g6 (tp219-115.dialup.seed.net.tw [139.175.219.115])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA05542
+	for <astro@asiaa.sinica.edu.tw>; Sun, 25 Mar 2001 09:13:23 +0800
+Message-ID: <002101c0b4c7$bdd33140$73dbaf8b@w1k9g6>
+From: "Sophie, ASIAA" <sophie@asiaa.sinica.edu.tw>
+To: "TANet" <astro@asiaa.sinica.edu.tw>
+Subject: Fw: Second announcement: Statistical Challenges in Modern Astronomy III
+Date: Sun, 25 Mar 2001 09:05:51 +0800
+MIME-Version: 1.0
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 5.00.2615.200
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Length: 13875
+Status: RO
+
+
+----- Original Message -----
+From: Eric D. Feigelson <edf@lonestar.astro.psu.edu>
+To: <asiaa@asiaa.sinica.edu.tw>; <aas@cfa.harvard.edu>;
+<acr@astro.caltech.edu>; <spadin@caltech.edu>; <tjp@astro.caltech.edu>;
+<zhang@cita.utoronto.ca>; <pen@cita.utoronto.ca>;
+<gfl@astro.washington.edu>; <ribata@mpia-hd.mpg.de>
+Cc: <babu@stat.psu.edu>
+Sent: Saturday, March 24, 2001 1:02 AM
+Subject: Second announcement: Statistical Challenges in Modern Astronomy III
+
+
+>
+>
+>                               Second Announcement
+>
+>                      ***********************************
+>
+>                  STATISTICAL CHALLENGES IN MODERN ASTRONOMY III
+>
+>                                 July 18-21 2001
+>
+>                              Penn State University
+>
+>                         http://www.astro.psu.edu/SCMA
+>
+>                      ***********************************
+>
+> Astronomers have a growing interest in applying advanced statistical
+> techniques to the analysis of observational data. Astronomical data sets,
+> often enormous in size, are subject to both exploratory statistical
+> analysis and complex parametric astrophysical modeling. A vast range of
+> problems is encountered: multivariate analysis and clustering, survival
+> analysis, data mining, nonparametric analysis, density estimation,
+> spatial statistics, image processing, and time series analysis.
+>
+> The cross-disciplinary SCMA conferences held at Penn State in 1991, 1996,
+> and now 2001 are designed to bring together observational astronomers
+> with leading statisticians to discuss these issues.  Topics emphasized
+> in SCMA III include:
+>     * Observational Cosmology
+>     * Large Astronomical Databases and Visualization
+>     * Bayesian Methodologies
+>     * Statistical Computation
+>     * Wavelet Analysis
+>     * Time Series Problems
+> The conference will have invited speakers with both prepared and impromptu
+> discussion, and a poster session of contributed papers.  Tutorials provide
+> a foundation on selected topics.  Both statisticians and astronomers
+> are invited to the conference. Limited funds are available to support
+> students and young researchers.
+>
+> This announcement provides information for prospective participants:
+> critical dates, scientific program, Scientific Organizing Committee
+> and sponsors, contributed papers, proceedings, registration and
+> fee, location and travel, accommodations, funding, and contact
+> persons.  Participants should submit the attached Registration Form
+> ( http://www.outreach.psu.edu/C&I/SCMA/regform.html ) with fee payment,
+make
+> their own airline and hotel reservations, following the schedule below.
+> All of this information is also available at the conference Web site
+> http://www.astro.psu.edu/SCMA.
+>
+>
+> CRITICAL DATES
+>     Nov 20 2000      Preliminary announcement
+>     Mar 15 2001      Second announcement
+>     May 15 2001      Submit title & abstract for contributed papers
+>     May 15 2001      Request funding assistance for students & young
+scientists
+>     May 15 2001      Registration deadline (fee $210)
+>     July 1 2001      Late registration deadline (late fee $25 after May 15
+2001)
+>     June 17 2001     Hotel reservation deadline
+>     June 25 2001     Final announcement
+>     July 18-21 2001  Conference at Penn State
+>     Sept 15 2001     Submission of papers/abstracts for proceedings
+>
+>
+> SCIENTIFIC PROGRAM
+> Introductory Tutorials
+>    Robin Ciardullo (Penn State)   Intro to observational cosmology
+>    Joseph Bredekamp (NASA-HQ)     Large astronomical databases
+>    Steven Arnold (Penn State)     Intro to Bayesian inference
+>    Alanna Connors (Eureka)        Applying Bayesian methods to astronomy
+>
+> Cosmology from Large Databases
+>    Vicent Martinez (Valencia)    Statistics of the galaxy distribution
+>    Dianne Cook (Iowa State)      Interactive graphics for data analysis
+>    George Djorgovski (Caltech)   Cluster analysis in a Virtual Observatory
+>    Adrian Raftery (Washington)   Clustering in spatial point processes
+>    Alexander Szalay (Johns       Large-scale structure from the Virtual
+>       Hopkins)                      Observatory
+>    Robert Nichol (Carnegie-      New statistical and computational tools
+>       Mellon)                       for cosmology from large databases
+>    Leo Breiman (Berkeley)        Machine learning prediction with an
+>                                     astronomical application
+>    Andrew Jaffe (Berkeley)       Statistic issues in understanding the
+>                                     cosmic microwave background
+>    Peter Schneider (Bonn)        Statistics in gravitational lensing
+>                                     studies
+>    Larry Wasserman (Carnegie-    Nonparametric methods for large
+>       Mellon)                       astronomical databases
+>    Michael Strauss (Princeton)   Statistical and astronomical problems
+>                                  arising in the Sloan Digital Sky Survey
+>    Fionn Murtagh (Queens)        Clustering of very high-dimensional
+>                                     datasets
+>
+> Bayesian Methodology
+>    Thomas Loredo (Cornell)       Bayesian inference for astrophysical
+>                                     Poisson processes
+>    James Berger (Duke)           Model selection and analysis for Cepheid
+>                                     star oscillations
+>    David van Dyk (Harvard)       Hierarchical models, data augmentation
+>                                     and MCMC
+>
+> Time Series Analysis
+>    Samuel Finn (Penn State)      Recent advances in the search for
+>                                     gravitational waves
+>    Larry Bretthorst              Bayesian approaches to harmonic analysis
+>      (Washington)                   of unevenly spaced data
+>    Philip Stark (Berkeley)       Data reduction and inverse problems in
+>                                     helioseismology
+>    Jeffrey Scargle               Advanced tools for astronomical time
+>      (NASA-Ames)                    series and image analysis
+>
+> Multiscale Methods
+>    Jean-Luc Starck (Saclay)      Multiscale methods in astronomy
+>    Iain Johnstone (Stanford)     Recent progress in wavelet analysis
+>    Peter Freeman (Smithsonian)   Wavelet-based source detection
+>    Eric Kolaczyk (Boston)        Bayesian multiscale methods for Poisson
+>                                     count data
+>
+> Conference Rapporteurs
+>    Virginia Trimble              Statistics in ancient astronomy and
+>       (Maryland)                    ancient statistics in modern astronomy
+>    John Rice (Berkeley)          SCMA III: A statistical perspective
+>    Joseph Silk (Oxford)          SCMA III: An astronomical perspective
+>
+>
+> SCIENTIFIC ORGANIZING COMMITTEE AND SPONSORS
+> Statisticians:
+>    G. Jogesh Babu (Statistics, Penn State University), Co-Chair
+>    Fionn Murtagh (Computer Science, Queens University, Belfast)
+>    John Rice (Statistics, University of California, Berkeley)
+>    David van Dyk (Statistics, Harvard University)
+> Astronomers:
+>    Eric D. Feigelson (Astronomy & Astrophysics, Penn State), Co-Chair
+>    Alanna Connors (Eureka Scientific)
+>    Robert C. Nichol (Physics, Carnegie Mellon University)
+>    Jeffrey Scargle (NASA-Ames Research Center)
+>
+> This conference is an outreach service of the Penn State's Eberly College
+> of Science and Office of Continuing Education.  It is co-sponsored by
+> the National Science Foundation, National Aeronautical & Space Agency,
+> and the Institute of Mathematical Statistics.
+>
+> CONTRIBUTED PAPERS
+> Participants may offer contributed papers that will be presented in a
+> single continuous poster session adjacent to the conference room.  Each
+> contributed paper will be allocated two pages in conference proceedings.
+> Please check the appropriate box on the registration form and send titles,
+> authors, and <200-word abstracts to babu@stat.psu.edu no later than May
+> 15, 2001.
+>
+> PROCEEDINGS
+> The proceedings will be produced by Springer-Verlag, which
+> publishes scholarly works for both the statistical and astronomical
+> communities. Invited speakers, invited discussants, and contributed papers
+> should all provide papers in LaTeX format with Encapsulated PostScript
+> figures by Sept 15 2001.
+>
+> REGISTRATION AND FEE ( http://www.outreach.psu.edu/C&I/SCMA/fee.html )
+> To register, complete the printable registration form
+> ( http://www.outreach.psu.edu/C&I/SCMA/regform.html also attached) and
+> return with fee to Penn State. Fax registrations must be accompanied
+> by credit card payment information. You may also register with your
+> credit card by calling 800-PSU-TODAY (800-778-8632). You will be
+> notified promptly of any cancellations or schedule or program changes.
+> Conferences and Institutes will confirm your enrollment in the program
+> and provide information on travel, accommodations, final registration,
+> and parking.
+>
+> The $210 ($235 if received after May 15) conference fee covers all
+> instruction, course notes, program materials, refreshment breaks, lunches,
+> a reception and a banquet. Registrants are responsible for all other meals
+> and lodging. The fee may be paid by check, money order, or purchase order
+> (made payable to Penn State); IDCC (Penn State employees only); letter
+> of authorization to bill employer or organization; American Express,
+> Discover, MasterCard, or VISA.
+>
+> LOCATION AND TRAVEL
+> The program will be held at The Penn Stater Conference Center Hotel
+> ( http://www.pshs.psu.edu/ ), one of the largest
+> university-based conference center hotels of its kind in the country.
+> Set in the countryside of central Pennsylvania and offering panoramic
+> views of the surrounding mountains, The Penn Stater, is part of Penn
+> State's Innovation Park. The Penn State campus is in the center of
+> Pennsylvania in the town of State College PA.  The town and campus combine
+> to offer a relaxed, college-town atmosphere with many shops, restaurants,
+> and points of interest
+( http://www.outreach.psu.edu/C&I/SCMA/locate.html ).
+>
+> The State College/University Park airport (code SCE) is served by
+> US Airways Express from Pittsburgh (PIT) and Philadelphia (PHL),
+> Northwest Airlink from Detroit (DTW), and United Express from
+> Washington-Dulles (IAD).  Rental cars are available at the airport,
+> but generally will not be needed.  Our Local Information Web pages
+> ( http://www.outreach.psu.edu/maps.html ) provide helpful maps, driving
+> directions and distances, airport services, flight and reservation
+> information, local weather, recreational opportunities, and things to
+> do in State College and the surrounding region.
+>
+> ACCOMMODATIONS
+> A limited number of rooms have been set aside at The Nittany
+> Lion Inn (phone 800-233-7505 or 814-865-8500 or fax 814-865-8501,
+> http://www.pshs.psu.edu/ ) on the Penn State campus. The
+> attractive colonial-style Inn, operated by the University, offers
+> rooms with double or twin beds, a limited number of single rooms,
+> a full-service restaurant, lounge, health club facilities, and
+> nonsmoking and handicap-accessible guest rooms. Rooms have also been
+> reserved at The Atherton Hotel (phone  800-832-0132 or 814-231-2100,
+> http://www.atherton.statecollege.com/ ) in downtown State College.
+>
+> When making your room reservation, be sure to identify yourself as a
+> Statistical Challenges in Modern Astronomy III participant. RESERVATIONS
+> SHOULD BE MADE AT LEAST THIRTY DAYS PRIOR TO THE START OF THE CONFERENCE.
+>
+> University residence hall accommodations are available July 17-21, 2001,
+> for a cost of $26.50 per person (double occupancy), per night. You may
+> indicate a preferred roommate when you register; otherwise a roommate
+> will be assigned. A limited number of single rooms are available at
+> $36.75 (single occupancy) per night. If you request a single but one is
+> not available when your application arrives, you will be assigned to
+> a double room. Bed linens, soap, a towel, and local phone service are
+> provided, but you should bring your own clothes hangers, alarm clock,
+> and other personal items; shared bathrooms are located on each floor.
+> To make your room reservation, please call 800-778-8006, Monday-Friday,
+> 9:00-11:30 a.m. and 1:00-4:30 p.m., or fax 814-865-0081. All residence
+> hall fees must be paid in advance.
+>
+>
+> FUNDING
+> Limited funding is available from the National Science Foundation to
+> partially support the travel, registration and lodging of graduate
+> students and young researchers who wish to attend the meeting.
+> Individuals seeking such funding should send a brief email outlining
+> their background, interest in astrostatistics, and financial need to
+> babu@stat.psu.edu no later than May 15.  Allocations of support will be
+> made by June 1.  Grantees are responsible for paying their registration,
+> lodging and travel expenses in advance, and will be reimbursed after
+> the conference.  Non-U.S. citizens must obtain a B-1, or WB visa
+> upon entry into the country in order to receive reimbursements.
+>
+> CONTACT PERSONS
+> About program content:
+>    G. Jogesh Babu, Co-chair          Eric D. Feigelson, Co-chair
+>    Pennsylvania State University     Pennsylvania State University
+>    Dept. of Statistics               Dept. of Astronomy & Astrophysics
+>    326 Thomas Building               525 Davey Laboratory
+>    University Park  PA  16802 USA    University Park  PA  16802 USA
+>    Phone: 814-863-2837               Phone: 814-865-0162
+>    Fax: 814-963-7114                 Fax: 814-863-3399
+>    E-mail: babu@stat.psu.edu          E-mail: edf@astro.psu.edu
+>
+> About registration:
+>    Rachel E. Graham, Conference Planner
+>    The Pennsylvania State University
+>    225 The Penn Stater Conference Center Hotel
+>    University Park  PA  16802-7005
+>    Phone: 814-863-5100
+>    E-mail: ConferenceInfo1@outreach.psu.edu
+>
+
+

@@ -1,0 +1,140 @@
+==============================================================================
+
+In this issue (Jul 20 - 27, 2018)
+
+1. A call for SPIRou/CFHT Science Verification programs
+2. ASIAA Colloquium/Seminar/Lunchtalk (Jul 30): Han Cheng (NCU)
+                        (Aug 01): Rob Wittenmyer (Univ of Southern Queensland)
+                        (Aug 02): Lee, Yueh-Ning (IPGP)
+
+  [NB: the internet connection to the TAN server is rather unstable these days,
+  if you do not see the messages you forwarded to TAN, please send a notice to
+  me.  Sorry for the trouble.  -- YJK ]
+
+==============================================================================
+
+> From: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+> Date: Mon, 23 Jul 2018 12:50:11 +0800
+> Subject: A call for SPIRou/CFHT Science Verification programs
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Cc: Keiichi Umetsu <keiichi@asiaa.sinica.edu.tw>
+
+Dear Yi-Jehng,
+
+Could you please help circulate the following information to TAN? Thanks a lot.
+
+cheers
+Keiichi
+
+------------------------------------------------------------------------------------
+
+Dear colleagues,
+
+If you are interested in proposing short observing programs with
+SPIRou/CFHT  in the framework of Science Verification observations,
+please refer to information available at the following link:
+http://www.cfht.hawaii.edu/Instruments/SPIRou/SPIRou_sv.php
+
+cheers
+
+Keiichi
+
+---------- Forwarded message ----------
+> From: Claire Moutou <moutou@cfht.hawaii.edu>
+> Date: Wed, Jul 18, 2018 at 1:44 PM
+> Subject: [spirou-core] spirou science verification
+> To: spirou-core@irap.omp.eu
+
+
+dear all,
+I've prepared a page to advertize the science verification period for Spirou:
+http://www.cfht.hawaii.edu/Instruments/SPIRou/SPIRou_sv.php
+It includes a call for the community to propose short observing programs.
+Please spread the word, so that we get a nice collection of diverse
+science results out of this period.
+cheers
+Claire
+
+==============================================================================
+
+> From:    ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>Add contact
+> To:    circular_colloquium@asiaa.sinica.edu.twAdd contact
+> Date:    2018-07-26 11:30
+> Subject: Colloquium/Seminar/Lunchtalk next week
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Han Cheng (NCU)
+Topic:        MHD simulations on the formation of Fermi Bubbles with magnetic field
+Time:        7/30 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+Fermi bubbles, black hole feedback in our Galaxy, is a huge structure in our Galactic halo. One possible origin of the bubbles is repeated star captures by the supermassive black hole at the Galactic center. We model these processes as multiple energy outbursts (a.k.a. explosions) from a small volume into a layered exponential atmosphere. We study the formation of the bubbles by the MHD simulation code FLASH4. The evolution and morphology of the bubbles is compared under different initial poloidal and toroidal magnetic field configurations.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Rob Wittenmyer (University of Southern Queensland)
+Topic:        New frontiers in exoplanetary and stellar astrophysics with Australian
+observational facilities
+Time:        8/1 (Wednesday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+Mount Kent Observatory at the University of Southern Queensland is host
+to Australia's newest astronomical research facilities.
+MINERVA-Australis is the only Southern hemisphere precise radial
+velocity facility wholly dedicated to follow-up of thousands of planets
+to be identified by NASA's Transiting Exoplanet Survey satellite
+(TESS). Mass measurements of these planets are critically necessary to
+maximise the scientific impact of the TESS mission, to understand the
+composition of exoplanets and the transition between rocky and gaseous
+worlds. MINERVA-Australis is now operational. I present first-light
+results and give an update on the status of the project, which will
+ultimately host six 0.7m telescopes feeding a stabilised spectrograph.
+
+The Stellar Observations Network Group (SONG) is establishing a node at
+Mount Kent. SONG-Australia will complete the global longitude coverage,
+delivering breakthroughs in fundamental understanding of the interiors
+of stars for decades to come. SONG-Australia is designed on a "MINERVA"
+model, whereby fibres from multiple small telescopes feed a single
+high-resolution spectrograph. This approach provides expandability and
+reduces cost by using factory-built components that have been
+well-tested by the MINERVA teams. As a result of these innovations,
+SONG-Australia is expected to be fully operational by late 2019.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Lee, Yueh-Ning (IPGP)
+Topic:        Universality of the IMF? Peak and slope
+Time:        8/2 (Thursday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+The initial mass function (IMF) is suggested by observations to be universal in spite of the wide variety of star-forming environments. Several major physical mechanisms, such as thermal energy, turbulence, gravity, magnetic field, and radiation, are governing the formation of the stars, or even before that, the formation of the prestellar cores. I will first discuss the possible impact of initial conditions on the mass spectrum of stars forming inside clusters. The observations suggest a high-mass end slope of -1.3 for the IMF, while this does not seem to have been readily reproduced by any of the present day simulations. A series of numerical experiments was performed with a wide range of initial density, turbulent energy level, and magnetic field strength. We compare the stellar mass spectrum outcome to the prediction adapted from the gravo-turbulent fragmentation model of Hennebelle and Chabrier (2009). The IMF from simulations is well reproduced with a powerlaw density !
+PDF, that is often observed in collapsing clumps. Nonetheless, a shallower slope is suggested. On the other hand, the simulations exhibit a lower mass limit that truncates the mass spectrum in extremely dense environments, giving a peak of the distribution that is independent of the large-scale conditions. We propose a mechanism to explain the peak of the IMF using a combination of the tidal forces and the thermodynamics of the first Larson core. A characteristic mass of 10 times the mass of the first Larson core, that is, around 0.2 solar masses, is robustly predicted. These results suggest that, the universality of the IMF is probably true only under certain circumstances, or possibly it is the initial conditions and local physics that are universal and some particular conditions are not so common!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan [at] asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

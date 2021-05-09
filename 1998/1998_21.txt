@@ -1,0 +1,116 @@
+From kyl@biaa.sinica.edu.tw Sat Jan 31 10:14 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA19330; Sat, 31 Jan 1998 10:12:45 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id KAA00079; Sat, 31 Jan 1998 10:10:47 +0800
+Date: Sat, 31 Jan 1998 10:10:47 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: Job Announcement.  Please POST (fwd)
+Message-Id: <Pine.GSO.3.96.980131101043.68A-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3492
+Status: RO
+
+
+
+---------- Forwarded message ----------
+Date: Fri, 30 Jan 1998 15:01:39 GMT
+From: "Joao L. Yun" <yun@delphi.cc.fc.ul.pt>
+To: mailing-list.1@delphi.cc.fc.ul.pt, mailing-list.2@delphi.cc.fc.ul.pt,
+    mailing-list.3@delphi.cc.fc.ul.pt
+Subject: Job Announcement.  Please POST
+
+----------
+X-Sun-Data-Type: text
+X-Sun-Data-Description: text
+X-Sun-Data-Name: text
+X-Sun-Charset: us-ascii
+X-Sun-Content-Lines: 25
+
+Postdoctoral Position in Star Formation and the Interstellar Medium
+at
+University of Lisbon / Lisbon Astronomical Observatory
+
+
+Applications are invited for a post-doctoral position to work on a project 
+which combines a theoretical and an observational approach to explore the 
+physical properties, dynamics, and star-forming potential of molecular clouds. 
+The successful applicant should have, or expect to have, a PhD in Astronomy \& 
+Astrophysics. Preference will be given to candidates with experience in 
+developing models but good observational skills will also be considered an asset.
+
+He or she will join a small research group working on star formation and the
+interstellar medium at the University of Lisbon/Lisbon Astronomical Observatory.
+
+The post is available for a period of 2 years starting from 1 May 1998. 
+The salary will be PTE 280,000 monthly or PTE 3,360,000 per anuum. 
+Applicants should include a curriculum vitae, list of publications, a statement 
+of research interests and should arrange for at least three letters of reference 
+sent directly to:
+Joao Yun, Dep. Fisica - Faculdade de Ciencias, Universidade de Lisboa,
+Campo Grande, 1700 Lisboa, PORTUGAL. All materials are due by 28 February 1998.
+
+Additional information may be obtained by contacting Prof. Joao Yun, e-mail: 
+yun@astro.cc.fc.ul.pt.
+----------
+X-Sun-Data-Type: tex
+X-Sun-Data-Name: announce.tex
+X-Sun-Charset: us-ascii
+X-Sun-Content-Lines: 50
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt]{article}
+\pagestyle{empty}
+\textwidth 15cm
+\addtolength{\oddsidemargin}{-8mm}
+%
+\begin{document}
+
+
+\begin{center}
+\begin{Large}
+University of Lisbon / Lisbon Astronomical Observatory
+
+\vspace*{0.5cm}
+
+{\bf  Postdoctoral Position in Star Formation and the Interstellar Medium}
+\end{Large}
+\end{center}
+
+Applications are invited for a post-doctoral position to work on a project 
+which combines a theoretical and an observational approach to explore the 
+physical properties, dynamics, and star-forming potential of molecular clouds. 
+The successful applicant should have, or expect to have, a PhD in Astronomy \& 
+Astrophysics. Preference will be given to candidates with experience in 
+developing models but good observational skills will also be considered an asset.
+
+He or she will join a small research group working on star formation and the
+interstellar medium at the University of Lisbon/Lisbon Astronomical Observatory.
+
+The post is available for a period of 2 years starting from 1 May 1998. 
+The salary will 
+be PTE 280,000 monthly or PTE 3,360,000 per anuum. Applicants should include
+a curriculum vitae, list of publications, a statement of research interests
+and should arrange for at least three letters of reference sent directly to:
+{\it Joao Yun, Dep. Fisica - Faculdade de Ci\^encias, Universidade de Lisboa,
+Campo Grande, 1700 Lisboa, PORTUGAL}. All materials are due by 28$^{\rm th}$
+February 1998.
+
+Additional information may be obtained by contacting Prof. Joao Yun, e-mail: 
+yun@astro.cc.fc.ul.pt.
+
+
+\end{document}
+
+
+
+
+
+
+
+

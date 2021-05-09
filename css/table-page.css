@@ -1,0 +1,133 @@
+body {
+    padding: 10px;
+}
+
+p {
+    margin: 0;
+    padding:0;
+}
+
+header{
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    width:100%;
+    max-width: 1000px;
+}
+
+
+.title-box {
+    display: flex;
+    align-items: flex-end;
+    /* border: 1px black solid; */
+    margin-bottom: 10px;
+    white-space: nowrap;
+}
+
+.title {
+    color: #478978;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Rubik',sans-serif;
+    margin-left: 10px;
+    line-height: 48px;
+}
+
+.subtitle {
+    font-size: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+    position: relative;
+    opacity: 0.4;
+    white-space: wrap;
+    font-family: 'Rubik',sans-serif;
+    line-height: 48px;
+
+}
+
+.table-container {
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 10px;
+    /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.15); */
+    position: relative;
+    border: thin #84DCC6 solid;
+    margin-bottom: 5px;
+    font-size: 14px
+}
+
+.content-table {
+    border-collapse: separate;
+    border-spacing: 0;
+    font-family: sans-serif;
+    min-width: 400px;
+    padding-bottom: 5px;
+}
+
+.content-table thead {
+    font-size: 14px;
+}
+
+.content-table thead tr {
+    text-align: left;
+    background-color: #84DCC6;
+    color: white;
+    font-weight: bold;
+}
+
+.content-table tbody tr #sub:hover {
+    cursor: pointer;
+    background: #D6EDFF !important;
+    border-radius: 5px;
+}
+
+.content-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.content-table td {
+    padding: 4px 0px 5px 0px;
+}
+
+.sub {
+    padding-left: 0.5em;
+}
+
+.date {
+    text-align: left;
+    width: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#sub {
+    padding-right: 15px;
+    padding-left: 2em;
+    text-indent: -1.5em;
+}
+
+#date {
+    color: #478978;
+    font-size: 13;
+    font-weight: bold;
+    width: 20px;
+    padding-left: 23px;
+}
+
+@media screen and (max-width: 600px){
+    
+    header {
+    display:inline-block;
+}
+
+    .title-box {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .subtitle{
+        margin-left: 0;
+    }
+
+}
+

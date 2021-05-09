@@ -1,0 +1,55 @@
+> Date: Sun, 2 Sep 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Juergen Ott (NRAO)
+Topic:        TBA
+Time:        9/7 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Dr. Robert Wittenmyer (University of New South Wales)
+Topic:        Exoplanetary Science in Australia: Detection, Characterisation, and Destruction
+Time:        9/5 (Wednesday) 14:00 - 15:30
+Place:        R1203
+Abstract:
+I give an update on three major exoplanetary science initiatives being
+pursued by Australian-based planet-search teams.  In addition to the
+long-running Anglo-Australian Planet Search, I describe the Pan-Pacific
+Planet Search, a radial-velocity survey of Southern hemisphere evolved,
+intermediate-mass stars using the 3.9m Anglo-Australian Telescope.  We
+currently achieve velocity precisions of 3-6 m/s, and there are several
+planet candidates emerging as more data are obtained.  In collaboration
+with John Johnson's Lick and Keck survey of Northern subgiants, this
+all-sky survey of over 600 stars will significantly improve our
+knowledge of the frequency and properties of planets orbiting stars more
+massive than the Sun.
+
+At New Zealand's Mt John Observatory, we are undertaking an intensive
+observational campaign targeting the nearest Sun-like stars, Alpha
+Centauri A & B, to search for Earth-like planets in their habitable
+zones. We are observing year-round for 4 years, with the aim of
+gathering 50,000 precision radial velocity measurements. This project is
+the first ultra-deep reconnaissance of nearby Sun-like stars, which is
+necessary to understand the frequency and characteristics of rocky
+planets in potentially habitable orbits.
+
+Finally, I present results from our recent series of papers in which we
+have performed extensive suites of dynamical simulations to test the
+veracity of proposed multiple-planet systems.  We show that some systems
+are strongly constrained by protected low-order resonances, while others
+are wildly unstable on short timescales.  This work highlights the
+critical need to include dynamical stability analysis as an integral
+part of the discovery process for candidate multi-planet systems.
+
+==============================================================================

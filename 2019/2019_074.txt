@@ -1,0 +1,143 @@
+
+In this issue (Apr 29 - May 02, 2019)
+
+1. Colloquium at NCU (May 16): Masaki Fujimoto (ISAS, JAXA)
+2. Colloquium at NCU (May 08): Keiichi Asada (ASIAA)
+3. ASIAA Director search
+4. ASIAA Colloquium/Seminar/Lunchtalk (May 06): Li-Hsin Chen (NTU/ASIAA)
+                                      (May 08): Bo Zhao (MPE)
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Mon, 29 Apr 2019 14:28:42 +0800
+> Subject: Fwd: colloquium at NCU
+> To: astro@asiaa.sinica.edu.tw
+
+*** NCU Colloquium ***
+
+Speaker: Dr Masaki Fujimoto (ISAS, JAXA)
+Date/Time: May 16, 16:00
+Room: NCU, S4 Room 1013
+Title:  Hayabusa2 and JAXA small body exploration program
+Abstract: In the JAXA small body exploration program, we target at those
+small bodies born in the outer part of the solar system, outside the
+snowline. While these bodies are considered to play substantial roles in
+making our planet habitable, there are variety of them, and multiple
+missions are necessary to obtain matured understanding of the nature of
+these bodies. Indeed, systematic exploration is what the JAXA small body
+exploration program is aiming at. Hayabusa2 is the first in the program and
+is a sample return mission to a primitive asteroid. After its arrival at
+the asteroid Ryugu in June 2018, many steps have been taken to overcome the
+challenges posed by the unfriendly nature of Ryugu and to acquire a sample
+of high scientific value. Engineers and scientists have been working
+together to make a series of successful events including the touch-and-go
+sampling from the surface on February 22, 2019. What does it take to visit
+a new asteroid and to grab a sample back from it? This talk will answer the
+question from a Hayabusa2 perspective.
+
+==============================================================================
+
+> From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+> Date: Tue, 30 Apr 2019 15:54:32 +0800
+> Subject: Fwd: Invitation to a colloquium talk
+> To: astro@asiaa.sinica.edu.tw
+
+*** NCU Colloquium ***
+
+Speaker: Keiichi Asada (ASIAA)
+Date/Time: May 8, 16:00 (special date/time)
+Title: The first image of the shadow of super massive black hole in M87
+Abstract: On 10th April 2019, we, the Event Horizon Telescope Collaboration
+(EHTC), are pleased to present the image of the shadow of the supermassive
+black hole (SMBH) for the first time in human history.  M87 was observed
+with the EHT on
+April 5, 6, 10 and 11, 2017 with 7 stations (ALMA, APEX, IRAM 30m, JCMT,
+LMT, SMA, SMT) located at 5 different sites on Earth. After a long process
+of careful data validation, calibration and many cross-checks by the EHTC,
+the final 1.3 mm VLBI image of M 87 reveals an asymmetric ring morphology
+of the central compact radio source with a diameter of 42=C2=B13 uas. The r=
+ing
+is almost circular and encompasses a central brightness depression of >
+10:1.  The robustness of this feature over multiple days strongly suggests
+that we see gravitationally
+lensed emission originating from near the black hole event horizon. The
+asymmetry is from Doppler beaming due to relativistic rotation in the
+emitting plasma. From the measured ring size, we derived a black hole mass
+of MBH=3D(6.5=C2=B10.7)=C3=9710^9 Msun. The image provides solid evidence f=
+or the
+presence of the SMBH at the center of M87 and supports the longstanding
+hypothesis that supermassive black holes power active galactic nuclei.
+Moreover, it demonstrates that millimeter VLBI offers a powerful method to
+explore gravity in its most extreme limit and at a previously inaccessible
+mass scale.
+I will summarize our discovery and state contribution of Taiwan.
+
+==============================================================================
+
+> Subject: ASIAA Director search
+> From  Winny Hsieh <winny@asiaa.sinica.edu.tw>Add contact
+> Date  2019-05-01 15:39
+
+Dear Dr. Kuan,
+
+Can you post this issue in TAN?
+
+http://www.asiaa.sinica.edu.tw/jobopening/ad.php?i=e8deb4aeaeb4af55475edd6c67b5a3db  
+
+
+thanks,
+winny
+
+==============================================================================
+
+> Date: Thu, 2 May 2019 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        Li-Hsin Chen (NTU/ASIAA)
+Topic:          Pop III Supernova Remnants on The Formation of The First Galaxies I. Gas, Metals, and Stars
+Time:           5/6 (Monday) 12:15 - 13:15
+Place:           R1203
+Abstract:
+Modern cosmological simulations successfully demonstrate that the hierarchical assembly of dark matter halos provided the gravitational wells that nurse the primordial gases to form stars and galaxies inside them. One of the most significant objects in the universe, the first galaxies contained the first groups of stars residing in the dark matter halos are naturally regarded as the fundation of early Universe. To understand the formation of the first galaxies, we use an adaptive mesh refinement (AMR) cosmological code, ENZO to simulate the formation and evolution of the first galaxies. We first model an isolated galaxy by considering much microphysics such as gas dynamics, self-gravity, star formation, stellar feedback, and primordial gas cooling. To examine the effect of Pop III supernovae feedback to the first galaxy formation, we set up the initial temperature, density, and metallicity distributions of Pop III supernova bubbles by assuming different initial PopIII IMF. O!
+ ur results suggest that star formation in the first galaxies is sensitive to yields and energetics of the first supernovae. Therefore, our study can provide a channel to correlate the populations of the first stars and supernovae to star formation inside these first galaxies which may be soon observed by the James Webb Space Telescopes.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Bo Zhao (MPE)
+Topic:          Protostellar Disk Formation & Fragmentation Enabled by Removal of Small Dust Grains
+Time:           5/8 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+It has been shown that a realistic level of magnetization of dense molecular cloud cores can suppress the formation of a rotationally supported disk (RSD) through catastrophic magnetic braking. We show that removing from the standard MRN distribution the large population of very small grains (VSGs: ~10 to few 100 angstrom) that dominate the coupling of the bulk neutral matter to the magnetic field increases the ambipolar diffusivity by ~1-2 orders of magnitude at densities below 10^10 cm^-3. The enhanced ambipolar diffusion in the envelope causes the infall speed of ions (and thus the magnetic field lines tied to them) to almost vanish in the 100-1000 AU scale "pseudo-disk", where the field lines are most severely pinched and most of protostellar envelope mass infall occurs. As a result, the bulk neutral envelope matter can collapse without dragging much magnetic flux into the disk forming region, which lowers the magnetic braking efficiency. We find that the initial disks e!
+ nabled by VSGs removal tend to be Toomre-unstable, which leads to the formation of prominent spiral structures that function as centrifugal barriers. The piling-up of infall material near the centrifugal barrier often produces dense fragments of tens of Jupiter masses, especially in cores that are not too strongly magnetized. Some fragments accrete onto the central stellar object, producing bursts in mass accretion rate. Others are longer lived, although whether they can survive long term to produce multiple systems remains to be ascertained. Our results highlight the importance of dust grain evolution in determining the formation and properties of protostellar disks and potentially multiple systems.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

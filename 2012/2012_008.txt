@@ -1,0 +1,160 @@
+Date: Thu, 11 Jan 2012 01:13:13 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Dec 28, 2011 - Jan 04, 2012)
+
+============================================================================== 
+
+In this issue (Jan 05 - 10, 2012)
+
+1. ASIAA Colloquia (Jan 13): Keitaro Takahashi (Kumamoto Univ)
+                  (Jan 12): Yin-Zhe Ma (U. of British Columbia)
+2. 3rd APCosPA School/Workshop (Jan 13-20)
+3. SMA users' meeting in Taiwan -- Jan 12 (Thu)
+
+==============================================================================
+
+> Date: Sun, 8 Jan 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Lihwai Lin<lihwailin@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Keitaro Takahashi (Kumamoto University)
+Topic:        Square Kilometer Array and related activity in Japan
+Time:        1/13 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Square Kilometer Array (SKA) is the next-generation cm-wave radio telescope
+which will have a sensitivity better than the existence telescopes by more
+than one order. It is expected to make a tremendous impact on many fields of
+astrophysics and cosmology, such as cosmic reionization, cosmic magnetism
+and pulsar study. In Japan, a consortium was established with more than 100
+members and many researchers are studying SKA-related topics. In this talk I
+will review the SKA plan, science and Japanese activity toward SKA. Possible
+Taiwan-Japan collaborations are also argued.
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Dr. Yin-Zhe Ma (U. of British Columbia)
+Topic:        Cosmology on large and small cosmic scales
+Time:        1/12 (Thursday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+In this talk, I am going to test the concordance cosmology in three different
+cosmic scales. (1) On the super-horizon scale, “Copi etal. (2009)” have been
+arguing that the lack of large angular correlations of the CMB temperature
+field provides strong evidence against the standard, statistically isotropic,
+LCDM cosmology. I am going to argue that the “ad-hoc” discrepancy is due to
+the sub-optimal estimator of the low-l multipoles, and a posteriori
+statistics, which exaggerates the statistical significance.
+(2) LCDM model also predict the existence of primordial gravitational wave,
+for which B-mode polarization will be a powerful tool to distinguish different
+models of the early Universe; (3) On Galactic scales, “Watkins et al. (2008)”
+shows that the very large bulk flow prefers a very large density fluctuation,
+which seems to contradict to the LCDM model. We provide a physical explanation
+for this big bulk flow, based on the assumption that CMB frame does not
+coincide with matter rest frame, resulting in the tilted Universe. We show
+that the ‘tilted Universe’ could well explain the bulk flow phenomena and more
+importantly, the constraints for this tilted Universe can lead to the
+constraint on the number of e-folds of inflation; (4) In addition, cosmic Mach
+Number from peculiar velocity catalog may provide a powerful test of the
+growth of the structure.
+
+==============================================================================
+
+> Date: Mon, 9 Jan 2012 14:37:34 +0800 (CST)
+> From: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> cc: "Pauchy W-Y.Hwang" <wyhwang@phys.ntu.edu.tw>,
+>        Chih-Hsin Huang <chhuang@phys.ntu.edu.tw>
+> Subject: Re: 3rd APCosPA School/Workshop
+
+Dear all the colleagues:
+
+    Our 13th Asia Pacific Winter School/Workshop will begin this Friday 
+(Jan 13, 2012) and will end on the Firday a week later (Jan 20). In 
+between, Jan 14 is the holiday for the presidential election. The lunar 
+new year (Jan 23) was sort of cutting in abrupt, making the schedule a 
+little hectic.
+
+    However, we managed to line up the lecturers/speakers, which include 
+Bob McKeown (Caltech /Jefferson Lab), Xiangdong Ji (Maryland/SJTU), 
+Bo-Qiang Ma (Peking), J. Yokoyama (U. Tokyo), Sang Pyo Kim (Kunsan U), and 
+others, even if the time was rather short. You and your students are so 
+much welcome to this event. If you are interested in giving a talk (to 
+enhance the interactions), please contact, at the meeting, Sang Pyo Kim or 
+Bo-Qiang Ma for further arrangements. 
+
+    So, again, to see you this Friday. Best wishes, W-Y. Pauchy Hwang  
+
+==============================================================================
+
+> From: Hirano Naomi <hirano@asiaa.sinica.edu.tw>
+> Subject: SMA users' meeting in Taiwan -- Jan 12 (Thu.)
+> Date: Tue, 10 Jan 2012 16:35:58 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+Dear colleague,
+
+We are going to have an SMA users' meeting in this Thursday at ASIAA.
+Anyone who is interested in observing with the SMA is welcome to join.
+
+Date: Jan 12 (Thu.), 2012 
+Place: ASMAB R1107 (conference room) 
+
+<< program >>
+
+Morning session -- Status & developments
+10:00 -- 10:20  Current status of the array (Naomi Hirano)
+10:20 -- 10:40  Ongoing upgrade (CT Li & Homin Jiang)
+10:40 -- 11:00  Rx development in Taiwan (Ming-Jye Wang)
+11:00 -- 11:20  Future direction, discussion at the steering committee (Paul
+Ho)
+11:20 -- 11:40  TAC report (Kazushi Sakamoto)
+11:40 -- 12:00  Discussion
+
+12:00 -- 13:30  Lunch break
+
+Afternoon session I -- Ongoing big projects 
+13:30 -- 13:50  Polarization measurements - I (Shih-Ping Lai)
+13:50 -- 14:10  Polarization measurements - II (Patrick Koch)
+14:10 -- 14:30  Wide-field imaging - I (Pei-Ying Hsieh) 
+14;30 -- 14:50  Wide-field imaging - II (Satoko Takahashi)
+
+14:50 -- 15:10  Coffee break
+
+Afternoon session II -- Possible collaborations with other projects
+15:10 -- 15:30  SMA v.s. Submm VLBI (Keiichi Asada)
+15:30 -- 15:50  SMA v.s. OIR projects (Chi-Hung Yen)
+15:50 -- 16:10  SMA v.s. high-energy astrophysics (Yuji Urata )
+16:10 -- 16:30  SMA v.s. ALMA (Shigehisa Takakuwa)
+
+Afternoon session III -- Discussion
+16:30 -- 17:00  Discussion
+
+Regards,
+Naomi Hirano (ASIAA)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

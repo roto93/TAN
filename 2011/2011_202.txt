@@ -1,0 +1,182 @@
+From kuan@iaa17.asiaa.sinica.edu.tw  Thu Dec  1 23:09:13 2011
+Return-Path: <kuan@iaa17.asiaa.sinica.edu.tw>
+X-Spam-Flag: NO
+X-Spam-Status: No, score=-103.6 required=6.2 tests=ALL_TRUSTED,
+	ASIAA_SIGNATUREA,AWL,FROM_EDU_TW1,FROM_IAA_LOCAL_SITE1,FROM_IAA_LOCAL_SITEA,
+	T_RP_MATCHES_RCVD,USER_IN_WHITELIST autolearn=no version=3.3.1
+X-Spam-Level: 
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on asiaa.sinica.edu.tw
+Received: from iaa17.asiaa.sinica.edu.tw (iaa17.asiaa.sinica.edu.tw [140.109.177.106])
+	by asiaa.sinica.edu.tw (8.13.8/8.13.8) with ESMTP id pB1F2pRZ015659;
+	Thu, 1 Dec 2011 23:02:51 +0800
+Received: from iaa17.asiaa.sinica.edu.tw (localhost [127.0.0.1])
+	by iaa17.asiaa.sinica.edu.tw (8.13.3+Sun/8.13.3) with ESMTP id pB1F2bn9001471
+	for <tan@iaa17.asiaa.sinica.edu.tw>; Thu, 1 Dec 2011 23:02:37 +0800 (CST)
+Received: (from astro@localhost)
+	by iaa17.asiaa.sinica.edu.tw (8.13.3+Sun/8.13.3/Submit) id pB1F2brL001470
+	for tan; Thu, 1 Dec 2011 23:02:37 +0800 (CST)
+Received: from iaa17.asiaa.sinica.edu.tw (localhost [127.0.0.1])
+	by iaa17.asiaa.sinica.edu.tw (8.13.3+Sun/8.13.3) with ESMTP id pB1F2aQM001452
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Thu, 1 Dec 2011 23:02:36 +0800 (CST)
+Received: (from astro@localhost)
+	by iaa17.asiaa.sinica.edu.tw (8.13.3+Sun/8.13.3/Submit) id pB1F2aGF001451
+	for astro; Thu, 1 Dec 2011 23:02:36 +0800 (CST)
+Date: Thu, 1 Dec 2011 23:02:36 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+Message-Id: <201112011502.pB1F2aGF001451@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Nov 25 - Dec 01, 2011)
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.2.6 (asiaa.sinica.edu.tw [140.109.177.5]); Thu, 01 Dec 2011 23:02:56 +0800 (CST)
+X-Virus-Scanned: by amavisd-new
+X-IMAPbase: 1244771594 0000000163
+X-UID: 163                                                  
+Status: RO
+Content-Length: 6775
+
+============================================================================== 
+
+In this issue (Nov 25 - Dec 01, 2011)
+
+1. ASIAA Colloquium (Dec 02): Takaya Nozawa (IPMU)
+2. Colloquium at IANCU (Dec 09): Anil Pandey (ARIES, India)
+3. ASIAA/CCMS/IAMS/NTU-Physics Joint Colloquium (Dec 6): Che-Ting Chan (HKUST)
+
+==============================================================================
+
+> Date: Sun, 27 Nov 2011 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>         web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Dr. Takaya Nozawa (IPMU)
+Topic:		Dust Production by Various Types of Supernovae
+Time:		12/2 (Friday) 14:00 - 15:00
+Place:		 R1203
+Abstract:
+Supernovae (SNe) have been thought to be major sources of interstellar
+dust. I will introduce a series of our works on dust formation in the ejecta
+of SNe and dust destruction by the shocks penetrating into SN remnants.
+I demonstrate how the mass of dust ejected from SNe to the interstellar
+medium depend on the types of SNe, showing that envelope-stripped
+SNe such as Type IIb/Ib/Ia are likely to be minor sources of dust.. I also
+mention the difference in estimates of dust mass formed in SNe between
+theory and observation, and describe that this difference is now getting
+resolved by the recent far-infrared observations of nearby SN remnants.
+
+
+==============================================================================
+
+> From: "cngeow" <cngeow@astro.ncu.edu.tw>
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> Subject: Colloquium at IANCU
+> Date: Wed, 30 Nov 2011 13:32:20 +0800
+
+-----------------------------------------------------------------------------
+
+Dear all, below is the information for upcoming colloquium at IANCU;
+
+Title: Multiwavelength studies of clusters associated with H II regions
+Speaker: Dr. Anil Pandey (ARIES, Manora Peak, Nainital, India)
+Date: 2011-12-09
+Time: 14:00-15:00
+Location: NCU  S4-1013
+Abstract:
+
+Since last few years we are pursuing multiwavelength studies of star-forming regions to
+understand the star formation scenario and the initial mass function (IMF) in these
+regions. The pre-main-sequence objects associated with the regions are identified on the
+basis of near/ mid infrared colour excess, H_alpha emission and X-ray emission. The ages
+of the young stellar sources have been estimated using the optical colour-magnitude
+diagram, which indicate a non-coeval star formation in the clusters. On the basis of
+recent observations we have found evidence for triggered star formation at the periphery
+of cluster regions.
+
+Link: http://www.astro.ncu.edu.tw/info/seminar/collo/201112091400.html
+
+-----------------------------------------------------------------------------
+
+Dr. Chow-Choong Ngeow
+Graduate Institute of Astronomy
+National Central University
+
+==============================================================================
+
+> Date: Thu, 1 Dec 2011 00:23:39 +0800
+> Subject: ASIAA/CCMS/IAMS/NTU-Physics Joint Colloquium, December 6
+> From: Chien-Fu Liu <chienfuliu@gmail.com>
+> To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+>     astro@asiaa.sinica.edu.tw, Chih-Wei Chang <cwchang137@ntu.edu.tw>,
+
+Dear Colleagues,
+
+The NTU Physics Department, Center for Condensed Matter Science, Institute
+of Atomic and Molecular Sciences, and the Academia Sinica Institute of
+Astronomy and Astrophysics invite everyone to our joint colloquium series.
+The speakers are all famous international scholars and the colloquia are
+aiming at a broad audience, including undergraduate students. Below is the
+information of the talk on December 6(Tuesday). Please help to forward this
+to the colleagues in your departments.
+
+Best Regards,
+Chih-Wei Chang (CCMS)
+Jiunn-Wei Chen (NTU Physics)
+Jer-Lai Kuo (IAMS)
+Wei-Hao Wang (ASIAA)
+
+_______________________________________________________
+Speaker: Che-Ting Chan
+ Topic: Invisibility: fact or fiction?
+Time: 12/06 (Tuesday) 14:20 - 15:10
+Place: Room 104, CCM-New Physics Building
+
+Abstract: Can we make objects invisible? Invisibility has obsessed
+humankind for centuries and it is only very recently that researchers have
+shown that cloaking is not just fiction: it can be realized in principle
+through the development of new artificial materials called metamaterials
+and a new mathematical method called transformation optics. In this talk, I
+will review a few different strategies to realize invisibility and related
+notions. I will show that invisibility can be realized by (i) a special
+type of coating which can guide waves around an object, (ii) metamaterials
+that can cancel the scattering of other objects, (iii) resonance effect
+that can suppress optical excitation, (iv) a zero-refractive index medium
+if special boundary conditions are satisfied, and (v) using active sources
+to create a quiet zone. The limitations of these each of these approaches
+will be discussed.
+
+Brief Bio: C.T. Chan received his B. Sc. degree from the University of Hong
+Kong in 1980 and his PhD degree from the University of California at
+Berkeley in 1985.  He is currently a Chair Professor of Physics at HKUST,
+and the director of William Mong Institute of Nano Science and Technology.
+He has been elected a Fellow of the American Physical Society since 1996.
+His primary research interest is the simulation and understanding of
+material properties. He is now working on the theory a variety of advanced
+materials, including photonic crystals, metamaterials and nano-materials.
+He has over 200 publications and ~14,000 citations.
+
+For more information please see:
+http://web.phys.ntu.edu.tw/jwc/2011_Fall_colloq
+uia/Joint%20colloquia%20fall.html
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

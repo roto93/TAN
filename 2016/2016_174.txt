@@ -1,0 +1,41 @@
+> Date: Thu, 10 Nov 2016 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Christian Fendt (Max Planck Institute for Astronomy)
+Topic:          How to make astrophysical jets?
+Time:           11/16 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+I will present MHD simulations investigating the launching of
+astrophysical jets.
+First, a brief introduction into MHD wind and jets is given.
+
+Our simulations treat the time-dependent evolution of the
+accretion-ejection structure and the subsequent collimation of the disk
+wind into a high-velocity jet.
+The setup considers various models  for a  physical  (turbulent) magnetic
+diffusivity that is essential for the mass loading of the outflow. We find
+relatively high mass fluxes in the outflow, about 20-40% of the accretion
+rate.
+
+Recent simulations include a mean-field accretion disk dynamo and the
+launching of outflows by a self-generated disk magnetic field.
+We have run a parameter survey of disk-wind launched by disk of different
+magnetization and find that the disk magnetization is the main parameter
+that governs the jet dynamics.
+
+Special relativistic jet formation simulations allow to construct
+synchrotron radiation maps from the dynamical outflow structure that can
+be compared to  the observations.
+Finally I will present preliminary results from GR-MHD simulations
+treating the accretion-ejection structure of outflows from resistive
+accretion disks.
+
+==============================================================================

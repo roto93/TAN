@@ -1,0 +1,285 @@
+==============================================================================
+
+In this issue (Oct 11 - 18, 2019)
+
+1. [KaVA/EAVN2020A] Call for Proposals for EAVN for the 2020A semester
+2. KVN Call for Proposals for the 2020A season
+3. First announcement of EAYAM 2020
+4. ASIAA Colloquium/Seminar/Lunchtalk (Oct 21): Jonathan Marshall (ASIAA)
+
+==============================================================================
+
+From: Kiyoaki Wajima <wajima@kasi.re.kr>
+To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+    <vlbi@nrao.edu>,
+    <merlin-announce@jb.man.ac.uk>,
+      <astro@asiaa.sinica.edu.tw>
+Subject: [KaVA/EAVN2020A] Call for Proposals for EAVN for the 2020A semester
+Date: Mon, 14 Oct 2019 07:53:49 +0000
+
+Dear colleagues,
+
+This e-mail is to announce 'Call for Proposals (CfP) for the East
+Asian VLBI Network (EAVN)' for the 2020A semester. From the 2020A
+semester, CfP for the KVN and VERA Array (KaVA) is merged into the
+EAVN CfP. Please refer to the following EAVN website for more details
+about the array's specification, available observation modes, and
+how to submit proposals.
+
+https://eavn.kasi.re.kr/
+
+
+Best regards,
+
+Kiyoaki Wajima
+(KASI; in place of EAVN directors)
+
+------------------------------------
+
+***************************************************
+Call for Proposals for the East Asian VLBI Network (EAVN)
+for the 2020A semester
+Proposal submission deadline: 15th November, 2019, 8:00 UT
+***************************************************
+
+*** Overview ***
+We invite proposals for open-use observations with the East Asian VLBI
+Network (EAVN), which is the international collaborative VLBI array
+between China, Korea, and Japan. In the 2020A semester, 11 telescopes
+(VERA 4 x 20 m, KVN 3 x 21 m, Nobeyama 45 m, Takahagi 32 m, Tianma 65 m,
+and Nanshan 26 m) participate in the EAVN open-use program. From the
+2020A semester, proposal submission of the KVN and VERA Array (KaVA;
+7-telescope array with KVN and VERA) is integrated with that of EAVN.
+
+
+*** Observing mode ***
+EAVN provides an opportunity of VLBI observations with a data recording
+rate of 1 Gbps (total bandwidth of 256 MHz and with single polarization
+(LHCP) at 22 and 43 GHz. We also support various observing modes such
+as 'astrometry mode' and 'hybrid mode' for part of EAVN telescopes.
+Please refer to the EAVN status report on the EAVN website for more
+details.
+
+
+*** Telescope time ***
+The total available observation time for EAVN is up to 500 hours in
+the 2020A semester, while the available observing time for each EAVN
+telescope is different. All EAVN observations will be scheduled between
+11th January and 10th June 2020. Please refer to the EAVN status report
+on the EAVN website for more details.
+
+EAVN accepts a request of usage of sub-array configuration (KaVA 7
+telescopes and additional telescopes from non-KaVA stations), as well
+as EAVN full array configuration.
+
+The maximum observation time for a single EAVN proposal is limited to
+150 hours in case of usage of only KaVA, while one can request for the
+maximum total observation time of 60 hours for Tianma and Nanshan for
+a single proposal, and that of 24 hours for Nobeyama and Takahagi. If
+requested, the observation time can be allocated over a year until 10th
+January 2021, however the total observation time is still limited to
+150 hours even in this case.
+
+
+*** Target of opportunity ***
+EAVN accepts target of opportunity (ToO) proposals, while Nobeyama and
+Takahagi cannot be included for ToO proposals. It is strongly recommended
+that ToO proposals (especially expected ToO) are submitted during the
+regular CfP. Unexpected or urgent ToO can be submitted as Director's
+Discretionary Time (DDT) proposals at any time. ToO proposals must
+include clear triggering criteria to initiate an observation. ToOs
+are valid for one year after it is approved. ToO proposals for DDT
+should follow the same format of regular call and should be sent to
+eavnprop(at mark)kasi.re.kr.
+
+
+*** Proposal submission ***
+Proposals should be submitted via EAVN website. Proposal submission
+deadline is 15th November 2019, 8:00 UT. Please refer to the EAVN
+status report for detailed information about the proposal format. The
+designated coversheet form can be downloaded via the EAVN websites.
+
+
+*** EAVN website ***
+Please refer to the following EAVN website for more information about
+the array capabilities and detailed conditions for proposal submission.
+
+EAVN website: http://eavn.kasi.re.kr/
+
+
+Sincerely,
+
+Mareki Honma
+Director of Mizusawa VLBI Observatory, NAOJ
+
+Kee-Tae Kim
+Director of Radio Astronomy Division, KASI
+
+Zhi-Qiang Shen
+Director of Shanghai Astronomical Observatory, CAS
+
+and
+Na Wang
+Director of Xinjiang Astronomical Observatory, CAS
+
+==============================================================================
+
+From: Jung Taehyun <thjung@kasi.re.kr>
+Date: Mon, 14 Oct 2019 23:37:25 +0900
+Subject: KVN Call for Proposals for the 2020A season
+To: "evntech@jb.man.ac.uk" <evntech@jb.man.ac.uk>,
+        > "vlbi@nrao.edu" <vlbi@nrao.edu>,
+        > "merlin-announce@jb.man.ac.uk" <merlin-announce@jb.man.ac.uk>,
+        > "astro@asiaa.sinica.edu.tw" <astro@asiaa.sinica.edu.tw>,
+
+Dear colleagues,
+
+The Korean VLBI Network (KVN) announce
+the Call for Proposals for the 2020A season.
+The deadline is 15 November 2019, at UT 08:00.
+
+Please refer to the following KVN website for more information
+and distribute this announcement to all interested colleagues.
+** http://kvn.kasi.re.kr **
+
+With kind regards,
+Taehyun Jung
+
+--------------------------------------
+
+Call for Proposals 2020A (KVN VLBI)
+
+    Proposal submission deadline:
+
+   15th November, 2019, 08:00 UT
+
+--------------------------------------
+
+
+The Korean VLBI Network (KVN) invites scientific proposals for VLBI
+observations during the 2020A season from astronomers around the world.
+Observations of successful proposals will be scheduled between 15th January
+2020 and 15th June 2020. Proposals should be submitted via the KVN website (
+http://kvn.kasi.re.kr) before the deadline of UT 08:00 on 15th November
+2019.
+
+
+** Korean VLBI Network (KVN) **
+
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by
+the Korea Astronomy and Space Science Institute (KASI, http://www.kasi.re.kr).
+Its three 21m radio telescopes are located around South Korea in Seoul,
+Ulsan, and Jeju Island. The baseline length ranges from 305km to 476 km.
+Its 4-channel receiving system allows simultaneous observation at 22, 43,
+86, and 129 GHz. Higher than 1 Gbps recording rates (2, 4 and 8 Gbps) using
+Mark6 recorder are available. Total time of 300 hours are planned for this
+call. The maximum observation time of a proposal is limited to 100 hours.
+If requested in the proposals, the observation time can be allocated over a
+year, until January 15, 2021, but the observation time will not be
+increased. Details of the information and current status of the KVN can be
+found in the KVN VLBI Status Report (
+https://radio.kasi.re.kr/kvn/status_report_2019/array.html).
+
+
+Proposers should use the KVN VLBI observing application form available at
+the KVN website. Please carefully follow the instructions of the proposal
+form. A separate scientific and technical justification is mandatory. This
+Justification should be submitted together with the proposal form and not
+exceed 3 pages.
+
+
+Kee-Tae Kim
+
+Director of Radio Astronomy Division, KASI
+
+==============================================================================
+
+From: Hsi-Wei Yen <hwyen@asiaa.sinica.edu.tw>
+Date: Tue, 15 Oct 2019 09:09:00 +0800
+Subject: First announcement of EAYAM 2020
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+The East Asian Young Astronomers Meeting (EAYAM) was first organized in
+2003 to promote interaction and collaboration between young astronomers in
+East Asia. The success of the initial meeting in Taiwan was followed by
+EAYAM 2006 in Japan, EAYAM 2008 in China, EAYAM 2011 in Korea, EAYAM 2015
+in Taiwan, and EAYAM 2017 in Japan. We are pleased to announce that EAYAM
+2020 will once again be held in China, between May. 17-21, 2020, at the
+National Astronomy Observatory of China (NAOC), Chinese Academy of Sciences
+(CAS) in Beijing.
+
+The main goal of the meeting is to bring young astronomers together,
+encouraging them to present recent research, form new collaborations, and
+exchange their experiences of an early-stage science career. Graduate
+students and postdocs are encouraged to participate -- especially those who
+are either originally from, or currently work in the East Asia region. All
+participants are expected to give either an oral or a poster presentation
+to stimulate discussion and interaction. Following the abstract submission
+deadline (Feb. 15, 2020), the SOC will select the oral presentations for
+the final program. All of those who are not granted their preferred oral
+presentation will be allowed a poster contribution.
+
+There is no conference registration fee. To register and submit an
+abstract, please visit following website
+http://eayam2020.csp.escience.cn/dct/page/65540
+
+
+Scientific Organizing Committee
+Ran Li (NAOC, Chair)
+Siyi Feng (NAOC)
+Xiaohu Li (XAO)
+Youngsoo Jo (KASI)
+Miju Kang (KASI)
+Kate Pattle (National Tsing Hua University)
+Hsi-Wei Yen (ASIAA)
+Kohei Ichikawa(Tohoku University)
+Yuri I. Fujii (Nagoya University)
+
+
+Local Organizing Commitee
+Suijian Xue (NAOC)
+Geng Li (NAOC)
+Jianfeng Wang (NAOC)
+Yanchun Liang (NAOC)
+Xiaoyue Cao (NAOC)
+Chunxiang Wang (NAOC)
+Ang Xu (NAOC)
+Qingqing Lv (NAOC)
+
+==============================================================================
+
+Date: Thu, 17 Oct 2019 11:30:02 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Jonathan Marshall (ASIAA)
+Topic:
+Time:         10/21 (Monday) 12:15 - 13:15
+Place:          R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

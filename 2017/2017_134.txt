@@ -1,0 +1,237 @@
+==============================================================================
+
+In this issue (Aug 06 - 14, 2017)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Aug 16): Ing-Guey Jiang (NTHU)
+                                      (Aug 16): Alexandre Lazarian
+                                                  (U of Wisconsin, Madison)
+                                      (Aug 16): Wang, Chun-Lun (ASIAA)
+2. SMA Call for Proposals
+3. East-Asia AGN Workshop 2017, 2nd circular
+
+==============================================================================
+
+> Date: Thu, 10 Aug 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Ing-Guey Jiang (NTHU)
+Topic:         Is there any Earth-like exoplanet at 1 AU from a G-type Star ?
+Time:         8/16 (Wednesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+It has been a great success that with continuous effort of ground-based and space projects, thousands of exoplanets were found. In addition to introducing recent results and progress of my group's on-going planetary projects, the existence of Earth-like exoplanets at 1 AU from a G-type star will be addressed through planetary mass-period functions.  The implications of this existence will be discussed.
+
+
+*** TIARA Seminar ***
+____________________________________________________ 
+Speaker:    Alexandre Lazarian (University of Wisconsin, Madison)
+Topic:         New Ways of Studying Magnetic Fields: Implications of MHD Turbulence Theory
+Time:         8/16 (Wednesday) 13:00 - 14:00
+Place:         R1107
+Abstract:
+I shall introduce three new techniques of magnetic field tracing. The first two use Doppler-shifted emission lines and employs the gradients of velocity in order to trace magnetic fields in the diffuse interstellar media as well as to trace regions of star formation associated with the gravitational collapse. The differences between these techniques is that they use different observationally available measures, i.e. the first one uses the velocity centroids and the other uses velocity channel maps.
+I shall provide the theoretical foundations of the techniques that are based on our modern understanding of MHD turbulence, the numerical testing of the techniques as well as the comparison of the directions obtained with the velocity gradients using GALFA HI data and those of magnetic field as traced by Planck as well as 13CO data and far infrared polarimetry with BLASTPOL. I shall also discuss the third technique which employs the synchrotron intensity gradients that also trace magnetic field and, unlike synchrotron polarization, are insensitive to Faraday rotation. I shall also show its correspondence with the magnetic field tracing by Planck synchrotron polarimetry and discuss the synergy of using this technique with synchrotron polarization studies.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Wang, Chun-Lun (ASIAA)
+Topic:         Electron Beam Lithography of HEB Mixers
+Time:         8/16 (Wednesday) 12:00 - 13:00
+Place:         R1203
+
+==============================================================================
+
+> Subject: SMA Call for Proposals
+> From: "Tirupati Kumara, Sridharan" <tksridharan@cfa.harvard.edu>
+> Date: Thu, 10 Aug 2017 09:40:02 -0400
+> Cc: Sridharan Kumaran Tirupati <tksridha@cfa.harvard.edu>
+> To: cfa-wide <cfa-wide@cfa.harvard.edu>,
+>        sma-newsletter <sma-newsletter@cfa.harvard.edu>
+
+
+Dear Yi-Jehng,
+
+I would appreciate it if you could circulate the SMA call for proposals=20=
+
+(2017B semester) to TAN.
+
+Regards,
+Naomi
+
+--------------------------------------------
+
+Dear Colleague,
+
+We wish to draw your attention to the currrently open call for proposals =
+for observations with the Submillimeter Array (SMA), the reconfigurable =
+interferometric array of eight 6-m antennas on Mauna Kea jointly built =
+and operated by the Smithsonian Astrophysical Observatory and the =
+Academia Sinica Institute of Astronomy and Astrophysics. The array =
+operates in the 230 GHz, 345 GHz and 400 GHz bands.=20
+
+The SMA is currently accepting proposals for the 2017B observing =
+semester (16 Nov, 2017 - 15 May, 2018) from principal investigators from =
+the worldwide astronomical community. The proposal deadline is Wed., 6 =
+Sep. 2017, 16:00 EDT (US) [Wed., 6 Sep. 2017, 10:00 HST (Hawaii)/ Wed., =
+6 Sep. 2017, 20:00 GMT / Thu., 7 Sep. 2017, 04:00 CST (Taipei)]
+
+The SMA has recently completed significant upgrades in observational =
+capability, with more underway. Currently, the SMA observes =
+simultaneously with two orthogonally polarized receivers, one in the 230 =
+GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with =
+full polarimetric observations available using the 230+240 or 345+400  =
+band combinations). The SWARM correlator processes 8 GHz bandwidth for =
+each receiver in each sideband, for a total of 32 GHz, at a uniform 140 =
+kHz resolution. This 32 GHz frequency coverage can be continuous where =
+the tuning ranges overlap for the two orthogonally polarized receivers. =
+In short, the SMA now provides flexible, wide band frequency coverage =
+that delivers high continuum sensitivity and excellent spectral line =
+capabilities. A full track offers continuum sensitivity of 200 or 500 =
+micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions =
+(precipitable water vapor 2.5mm and 1.0mm, respectively). The =
+corresponding line sensitivities at 1 km/s resolution are 30 and 70 mJy. =
+The small antennas allow access to low spatial frequencies in the =
+sub-compact configuration and the finest angular resolution at 345 GHz =
+in the very extended configuration is ~ 0.25". Thus, in some ways, the =
+characteristics of the SMA may be both similar and complementary to =
+those of the stand-alone Atacama Compact Array (ACA) component of ALMA.=20=
+
+
+For more information about SMA capabilities, visit the SMA Observer =
+Center website http://sma1.sma.hawaii.edu/ =
+<http://sma1.sma.hawaii.edu/>and explore the set of SMA proposing tools
+at http://sma1.sma.hawaii.edu/tools.html <http://sma1.sma.hawaii.edu/>. =
+Current and archived SMA Newsletters available online at =
+https://www.cfa.harvard.edu/sma/newsletter/ =
+<https://www.cfa.harvard.edu/sma/newsletter/> provide a sampling of the =
+wide variety of science possible with the SMA. =20
+
+Instructions on proposal preparation and submission, are available at =
+the SMA Observer Center website http://sma1.sma.hawaii.edu/ =
+<http://sma1.sma.hawaii.edu/>. Questions or comments regarding this Call =
+for Proposals can also be addressed to propose@sma.hawaii.edu =
+<mailto:propose@sma.hawaii.edu>.
+
+--=20
+You received this message because you are subscribed to the Google =
+Groups "sma-newsletter" group.
+To unsubscribe from this group and stop receiving emails from it, send =
+an email to sma-newsletter+unsubscribe@cfa.harvard.edu =
+<mailto:sma-newsletter+unsubscribe@cfa.harvard.edu>.
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Date: Mon, 14 Aug 2017 23:17:00 +0800
+> Subject: East-Asia AGN Workshop 2017, 2nd circular
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>        Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+=3D=3D=3D=3D=3D
+The 2nd circular of the East-Asia AGN Workshop 2017
+4-6 December 2017 in Kagoshima,
+Japanhttps://cosmos.phys.sci.ehime-u.ac.jp/~takuji/eaagn2017/index.php
+=3D=3D=3D=3D=3D
+
+Workshop rationale:
+  This is the second circular of "East-Asia AGN Workshop 2017" held on
+4th-6th December 2017 in Kagoshima, Japan. This is the fifth meeting of
+a series of workshops for fostering various East Asian collaborations
+in the AGN/SMBH field. The East-Asia AGN Workshop aims at fostering
+close collaborations among AGN/SMBH researchers in East Asian regions.
+Research collaborations in East Asia are getting more important recently,
+given various opportunities provided by the East Asian Observatory (JCMT,
+Subaru, ...) and also on-going and future large international projects
+such as ALMA, TMT, and GMT. We believe that this workshop will provide
+various opportunity to foster new collaborations for tackling exciting
+mysteries in the AGN/SMBH field.
+In this fifth workshop, we have a =E2=80=9Cfocused session=E2=80=9D about e=
+xtremely
+high spatial resolution observations in AGN/SMBH studies. Abstract
+submissions for such studies (e.g., outcomes of ETH, KaVA, and ALMA,
+but not restricted in those facilities) are especially encouraged. We
+will invite some invited speakers, that will be announced later.
+
+Registration:
+  Now the registration webform is open. The deadline for the registration
+and the abstract submission is the 12th September. Due to the limited
+time of the workshop, some of applicants for oral talks may be requested
+to switch to the poster presentation. The registration fee (10,000 JPY)
+must be paid at the registration desk in Japanese Yen, only in cash.
+Sorry but we cannot accept credit cards and checks.
+https://cosmos.phys.sci.ehime-u.ac.jp/~takuji/eaagn2017/registration.php
+
+Workshop venue:
+  The workshop will take place at the Inamori Auditorium in Kagoshima
+University (Kagoshima, Japan). The closest airport from the venue is
+the Kagoshima airport (http://www.koj-ab.co.jp/en/), but you can go
+to the venue also by the fast train (1.5 hours with Shinkansen) after
+arriving at the Fukuoka airport (http://www.fuk-ab.co.jp/english/).
+The access info is given in the workshop webpage, but please feel free
+to ask any questions to the LOC (the email address is given at the
+end of this circular) about the access info.
+https://cosmos.phys.sci.ehime-u.ac.jp/~takuji/eaagn2017/venue.php
+
+Accommodation:
+  For this workshop, hotel reservations should be made directly by
+participants themselves. The workshop webpage shows a list of some
+recommended hotels. We suggest you to make your reservation as soon
+as possible, since recently the number of tourists is increasing at
+Kagoshima.
+https://cosmos.phys.sci.ehime-u.ac.jp/~takuji/eaagn2017/accommodation.php
+
+Important dates:
+  10th April: 1st circular
+  7th August: 2nd circular
+  12th September: deadline for registration & abstract submission
+  Middle October: 3rd circular & program announcement
+  Late November: final circular
+  4th-6th December: workshop
+
+Science Organizing Committee:
+  Minfeng Gu (Shanghai Astronomical Observatory)
+  Minjin Kim (KASI)
+  Tohru Nagao (Ehime University)
+  Ken Ohsuga (NAOJ)
+  Keiichi Wada (Kagoshima University)
+  Wei-Hao Wang (ASIAA)
+  Jong-Hak Woo (Seoul National University)
+  Xue-Bing Wu (Peking University)
+
+Local Organizing Committee:
+  Yuki Kudo (Kagoshima University)
+  Tohru Nagao (Ehime University)
+  Keiichi Wada (Kagoshima University; LOC chair)
+  Takuji Yamashita (Ehime University)
+
+Contact:
+  eaagn2017 (at) cosmos.phys.sci.ehime-u.ac.jp
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,0 +1,109 @@
+
+> From:    Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>Add contact
+> To:    alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>Add contact
+> Subject: Fwd: Call for observing proposals for NRO45m
+> Cc:    Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>Add contact
+> Date:    2018-08-03 14:30
+
+FYI
+
+
+開始轉寄郵件：
+
+> 寄件人: "K. Tatematsu" <k.tatematsu@nao.ac.jp>
+> 標題: Call for observing proposals for NRO45m
+> 日期: 2018年8月3日 GMT+8 下午2:26:34
+> 收件人: "Lyo, A-Ran" <arl@kasi.re.kr>, Su Yu-Nung <ynsu@asiaa.sinica.edu.tw>
+> 副本: k.tatematsu@nao.ac.jp
+> 回覆給: k.tatematsu@nao.ac.jp
+
+Dear A-Ran and Yu-Nung,
+
+can you distribute CfP to your communities?
+thank you!
+
+Ken
+
+
+---
+Observing proposals for the 45-m telescope of Nobeyama Radio Observatory 
+(37 th observing period) are invited.
+
+Ken'ichi Tatematsu
+Director
+Nobeyama Radio Observatory, NAOJ
+-----------
+
+1. Open use Period
+-  December 15, 2018 to May 15, 2019
+It is subdivided into two semesters:
+- Semester 2018A: December 15, 2018 to March 15, 2019
+- Semester 2018B: March 16, 2019 to May 15, 2019
+
+2. Open use information:
+- Status report, application form, and other information are available
+in the following website.
+http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index.html
+
+Observation preparation and procedure with the 45-m telescope and data reduction etc. are also available
+in the following website.
+https://www.nro.nao.ac.jp/~nro45mrt/html/index-e.html
+
+- Large programs (> 200 hr) over up to 2 yrs will be offered.
+- Short programs (<20 hr) will be offered also in Semester 2018A and 2018B.
+- Observations in On-On mode can be performed with FOREST receiver.
+- OTF dump time is allowed to be not only 0.1 seconds but 0.04 seconds as well.
+- Japan domestic remote observation other than Mitaka may be possible as risk-shared.
+- Remote observation from ASIAA in Taiwan and KASI in Korea is available as risk-shared.
+
+3. Deadlines:
+Semester 2018A (Regular, Large, Short, GTO and Back-up Program* Proposals): 
+- September 1, 2018, 15:00 JST [06:00 UT]
+* Available for researchers affiliated with Japanese institutes
+Semester 2018B (Regular, Short, GTO and Joint Proposals with ASTE (if ASTE is open for the 2019 observing season)): 
+- December 1, 2018, 15:00 JST [06:00 UT]
+
+DDT proposals can be submitted anytime after the first deadline (September 1, 2018).
+
+4. Submission:
+We accept the proposal only via the web submission form. A LaTex
+template must be used to generate the PDF file that contains the
+Scientific and Technical Justifications.  The device setting table should be submitted in a Microsoft Excel spreadsheet 
+by using its template.  Please access the application
+form, fill the webform and upload the final PDF file and the Excel spreadsheet.
+
+- The scientific and technical justification, including figures,
+tables and references, must fit within 3 pages (4 pages for the Large and Joint
+Proposals). The maximum file size is 20 MB.
+- Please attach (cut&paste) the results of our time estimators to the the scientific and technical justification 
+(this part will not be counted for the page limit, but the overall data size should meet the size limit).
+http://www.nro.nao.ac.jp/~nro45mrt/html/prop/wsub-help.html
+- The device setting table as a Microsoft Excel spreadsheet.
+
+5. Evaluation:
+- Proposals in the category of Regular, Large, GTO and Joint proposals are
+evaluated by referees, and the acceptance is judged by the millimeter
+and submillimeter time allocation committee.
+- Proposals in the categories of Short and Back-up programs are
+evaluated and judged by the millimeter and submillimeter time
+allocation committee.
+
+6. Time allocation:
+45-m Observational time will be allocated by the
+Nobeyama Radio observatories for proposals accepted by the
+millimeter and submillimeter time allocation committee.
+
+7. There is a risk that this Call for Proposals can be the last call for the open use of the 45-m telescope of Nobeyama Radio Observatory, depending on the budgetary condition of the observatory.
+
+8. Questions?
+Any questions about observations and preparations of proposals should
+be submitted through the helpdesk:
+https://www.nro.nao.ac.jp/~nro45mrt/html/helpdesk/inquiry_form.html
+
+
+-- 
+You received this message because you are subscribed to the Google Groups "alma-taiwan" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to alma-taiwan+unsubscribe@asiaa.sinica.edu.tw.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

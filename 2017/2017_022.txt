@@ -1,0 +1,327 @@
+==============================================================================
+
+In this issue (Feb 05 - 10, 2017)
+
+1. Announcement: ALMA Users Workshop 2017 for Cycle 5 Proposal Call
+2. ASIAA Colloquium/Seminar/Lunchtalk (Feb 13): Youichi Ohyama (ASIAA)
+                             (Feb 15): Marc W. Buie (Southwest Res Institute)
+                             (Feb 15): Li Chao-Te (ASIAA)
+3. Subaru International Partnership Science and Instrumentation Workshop
+                                                          (1st Circular)
+
+==============================================================================
+
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Subject: Announcement: ALMA Users Workshop 2017 for Cycle 5 Proposal Call
+> Date: Wed, 8 Feb 2017 15:12:36 +0800
+> Cc: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear potential ALMA users,
+
+ALMA will issue its Cycle 5 Proposal Call on March 21, 2017. In response =
+to that, the ALMA Regional Center (Taiwan-ARC) of ASIAA and the =
+University Consortium of ALMA-Taiwan (UCAT) will hold one day ALMA Users =
+Workshop on March 25 (Saturday), 2017. Below is the announcement:
+
+ALMA Users Workshop 2017
+Time: March 25, 2017
+Place: Room 1203, Astronomy-Mathematics Building, ASIAA
+URL: http://events.asiaa.sinica.edu.tw/workshop/20170325/ =
+<http://events.asiaa.sinica.edu.tw/workshop/20170325/>
+Registration Deadline: March 17, 2017.
+
+The ALMA Cycle 5 Users Workshop is designed for preparing ALMA Cycle 5 =
+proposals. It is intended for graduate students, postdocs, faculty =
+members and people who are interested in using ALMA.=20
+
+The program of the ALMA Users Workshop includes:
+
+1. ALMA Cycle 5 capability
+2. Suggestions of ALMA proposal preparation
+3. ALMA science portal
+4. Observing Tool (OT)
+5. CASA image simulation
+
+Please install the latest version of CASA and OT BEFORE the workshop. =
+Feel free to ask ARC members for help if there is any difficulty during =
+the installation.
+
+Furthermore, as previous cycles, proposal mock review will be offered =
+and will be announced separately.
+
+Best,
+Yu-Nung Su
+On behalf of Taiwan ARC node=
+
+==============================================================================
+
+> Date: Thu, 9 Feb 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Youichi Ohyama (ASIAA)
+Topic:          Proposing to Subaru
+Time:           2/13 (Monday) 12:00 - 13:00
+Place:           R1203
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Marc W. Buie (Southwest Research Institute)
+Topic:          Exploring the Outer Solar System with Occultations
+Time:           2/15 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The Research and Education Collaborative Occultation Network (RECON) is a project to use occultations to probe basic properties of outer solar system objects.  Occultation measurements can be done with relatively small telescopes but the principle challenge is in predicting events. RECON uses a strategy of a large set of fixed sites to overcome the prediction challenge.  Our system uses 28-cm telescopes with high-sensitivity integrating video cameras hosted by schools across the Western United States.  Our network consists of 56 stations with an average spacing of 50 km between stations.  With this system, we reduce the prediction quality needed by an order of magnitude compared to a traditional “chase-the-shadow” deployment while also probing over a 2000 km region near the body.  Such data can measure the sizes and shapes of the occulting body as well as detecting very close binary systems or rings and dust environments.  RECON has ofetn been described as a citizen-scie!
+ nce project but it is really more of a new collaborative research model.  This presentation will review how the project was setup and is operated and provide examples of recent scientific results from our efforts.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Li Chao-Te (ASIAA)
+Topic:          Millimeter Wave Grating Spectrometer for TIME
+Time:           2/15 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================
+
+> Date: Fri, 10 Feb 2017 08:23:28 +0800
+> From: Shiang-Yu Wang <sywang@asiaa.sinica.edu.tw>
+> Subject: Subaru International Partnership Science and Instrumentation Workshop: 1st Circular
+
+Dear Yi-Jehng:
+
+  Please help to distribute the message to TAN. Thanks.
+
+Shiang-Yu
+
+Dear Colleagues,
+
+This is the first circular of the Subaru International Partnership Science and
+Instrumentation Workshop to be held at NAOJ Tokyo-Mitaka campus on
+22-24 Mar 2017.
+Registration can be made at our webpage until 28th Feb 2017.
+Participation, contributed
+talks and posters are welcome!
+
+Best wishes,
+Taddy Kodama
+NAOJ/Subaru
+On behalf of the organizers
+
+-------------------------------------------------------------------------------
+    Subaru International Partnership Science and Instrumentation Workshop
+         http://optik2.mtk.nao.ac.jp/meeting/SubaruWS2017/index.html
+
+Place: Large seminar room, Subaru building, NAOJ Tokyo-Mitaka campus, Japan
+Dates: 22-24 March 2017
+
+Purpose:
+ Towards Subaru partnership, some representative researchers from
+potential partner
+ countries will meet and discuss collaborations. This is the first
+such official
+ occasion and we aim to first of all know each other, identify common
+interests on
+ science and instrumentation, and extend on-going collaborations
+and/or seek for new
+ potential collaborations.
+ The sessions will consist of two types of talks;
+ 1. On-going/starting collaborations and future extensions, and
+ 2. Mutual/common interests and potential new future collaborations.
+
+Tentative program:
+Mar 22 (Wed)
+ 09:00-09:05  Opening (by Arimoto)
+ 09:05-09:30  Subaru instruments and capabilities (by Hattori)
+ 09:30-10:00  Subaru large surveys (HSC and PFS) (by Takada)
+ 10:00-10:30  Subaru partnership scheme (by Iwata)
+ 10:00-12:00  Science/Instrumentation session
+ 13:30-16:00  Science/Instrumentation session
+ 16:00-17:00  Discussion
+ 17:30-       Banquet (Cosmos Kaikan)
+Mar 23 (Thu)
+ 09:00-12:00  Science/Instrumentation session
+ 13:30-16:00  Science/Instrumentation session
+ 16:00-17:00  Discussion
+Mar 24 (Fri)
+ 09:00-11:00  Science/Instrumentation session
+ 11:00-12:00  Discussion (Partnership)
+ End of the workshop
+
+(13:30-16:00  Business session for AUS-Subaru partnership (@2F meeting room))
+
+Invited speakers:
+
+<<Japan>> Coordinator: Taddy Kodama (NAOJ)
+High-z galaxies: Yuichi Matsuda (NAOJ)
+AGN: Tohru Nagao (Ehime)
+Cluster: Yusei Koyama (Subaru)
+LG and MW: Wako Aoki (NAOJ)
+Exoplanets and PPDs: Masayuki Kuzuhara (NINS-ABC)
+Time domain: Masaomi Tanaka (NAOJ)
+ULTIMATE (AO): Yosuke Minowa (Subaru)
+Wide-field NIR instruments+IFU: Masayuki Akiyama (Tohoku)
+IRD/CARIS: Takayuki Kotani (NAOJ)
+
+<<Australia>> Coordinator: Chris Lidman (AAO)
+Jeffe Cooke (Swinburne)
+Sanjb Sharma (USyd)
+Chris Tinney (UNSW)
+Julia Bryant (AAO/USyd)
+Joss Bland_Hawthorn (USyd)
+Simon Driver (ICRAR)
+
+<<<EAO member countries>>> Coordinator: Jessica Dempsey (EAO)
+<<China>> Coordinator: Lei Hao (Shanghai)
+Gregory Herczeg (Kavli-Beijing)
+Jiasheng Huang (SAO)
+Lei Hao (Shanghai)
+<<Korea>> Coordinator: Byeong-Gon Park (KASI)
+Byeong-Gon Park (KASI)
+To be determined/confirmed
+<<Taiwan>> Coordinator: Shiang-Yu Wang (ASIAA)
+Shiang-Yu Wang (ASIAA)
+Yen-Ting Lin (ASIAA)
+Keiichi Umetsu (ASIAA)
+Wen-Ping Chen (NCU)
+
+<<Canada>> Coordinator: Luc Simard (NRC-Herzberg)
+To be determined/confirmed
+
+Registration:
+
+Please register via our webform
+(http://optik2.mtk.nao.ac.jp/meeting/SubaruWS2017/registration.html)
+for presentations (talk/poster), accommodation in the Cosmos-Kaikan,
+financial support, and participation in the banquet. The deadline is
+28 February, 2017 (JST).
+
+Banquet:
+
+The banquet will be held on Mar 22 at the COSMOS-kaikan cafeteria in
+the Mitaka campus.
+Please register following the instruction above to attend the banquet.
+
+Accommodation:
+
+*** Please make a reservation on your own ASAP! Nearby hotels are already
+very busy in the week of the workshop and some are not available! Be quick! ***
+
+<<Some recommended hotels>>
+<Along JR Chuo line>
+Shinjuku (20min to Musashi-Sakai by train)
+- Keio Plaza Hotel (Hi class)  http://www.keioplaza.com/
+- Shinjuku Washington Hotel  http://shinjuku.washington-hotels.jp/
+- Hotel Gracery  http://shinjuku.gracery.com/
+Koenji (15min to Musashi-Sakai by train)
+- Hotel Mets Koenji  http://www.jrhotelgroup.com/en/156.html
+- Hotel Ark Tower  http://arktower.jp/english/
+Kichijoji (5min to Musashi-Sakai by train)
+- Kichijoji Tokyu Rei Hotel
+http://www.tokyuhotelsjapan.com/en/hotel/TR/TR_KICHI/index.html
+- Kichijoji Dai-Ichi Hotel
+http://www-a.global.hankyu-hotel.com/kichijoji-daiichi/
+Mitaka  (3min to Musashi-Sakai by train)
+- Richmond Hotel Tokyo Musashino  http://musashino.richmondhotel.jp/
+- Mitaka City Hotel
+http://travel.rakuten.com/hotel/Japan-Tokyo_Prefecture-Mitaka-Mitaka_City_Hotel/135381/?adults=1
+Musashi-Sakai (Nearest JR Chuo-line Station to NAOJ)
+- Hotel Mets Musashi-Sakai  http://www.jrhotelgroup.com/en/124.html
+Kokubunji (7min to Musashi-Sakai by train)
+- Hotel Mets Kokubunji  http://www.jrhotelgroup.com/en/123.html
+- Business Hotel Daiwa
+http://travel.rakuten.com/hotel/Japan-Tokyo_Prefecture-Kokubunji-Business_Hotel_Daiwa/28297/?adults=1
+Tachikawa (15-20 min to Musashi-Sakai by train)
+- Hotel Mets Tachikawa  http://www.jrhotelgroup.com/en/160.html
+- Palace Hotel Tachikawa  http://www.palace-t.co.jp/english/
+- Tachikawa Washington Hotel  http://en.washington-hotels.jp/
+Hachioji (30min to Musashi-Sakai by train)
+- Keio Plaza Hotel Hachioji  http://www.keioplaza.com/hachioji/
+<Along Keio line>
+Chofu (Nearest Keio-line Station to NAOJ)
+- Creston Hotel Chofu  http://www.crestonhotel.jp/chofu/en/
+- Hotel Livemax Chofu  http://www.japanican.com/en/hotel/detail/4020A34
+Fuchu (5-10min to Chofu by train)
+- Hotel Continental Fuchu  http://www.hotel-continental.co.jp/english/
+- Hotel Livemax Fuchu  http://www.japanican.com/en/hotel/detail/4020A40
+- Hotel Livemax Fuchu Annex  http://www.japanican.com/en/hotel/detail/4020A36
+<Others>
+Check the sites below with keywords like "Musashisakai", "Chofu",
+"Shinjuku", etc.
+- Rakuten Travel
+   http://travel.rakuten.com/
+- Booking.com
+   http://www.booking.com/country/jp.html?aid=356995;label=gog235jc-country-XX-jp-jp-unspec-jp-com-L%3Aja-O%3AwindowsS7-B%3Achrome-N%3Ayes-S%3Abo-U%3Asalo;sid=80e8fd5076a03e853be6054c2ef52455;inac=0&
+
+Financial support:
+
+For invited speakers, domestic travels, local accommodation, and
+per-diem will be
+fully supported by Subaru/NAOJ. If you volunteer to use your own budget,
+that would be appreciated, and let us know.  Note that international flight
+fares will not be covered.
+For other participants (speakers or poster presenters), we *may* be
+able to support
+a fraction of domestic travels and/or local accommodation, but our
+budget is limited
+and it is unlikely that we can fulfill all your requests.
+
+Access to the Venue:
+
+You fly in either Narita airport or Haneda airport.
+Directions to NAOJ Mitaka campus can be found at
+http://www.nao.ac.jp/en/access/mitaka/access.html
+Campus map can be obtained from
+http://www.nao.ac.jp/en/access/mitaka/visit/
+
+If you need an invitation letter for visa application, please contact
+us as soon as possible.
+
+Contact:
+ The loc e-mail address is the following:
+ partner201703loc "at" naoj.org
+ If you have any question, let us know.
+
+Organizers:
+ AUS: Chris Lidman (AAO)
+ Canada: Luc Simard (NRC)
+ EAO member countries: Jessica Dempsey (EAO), Lei Hao (Beijing),
+Byeong-Gon Park (KASI),
+    Shiang-Yu Wang (ASIAA)
+ Japan: T. Kodama, (NAOJ; Chair), Y. Niino (NAOJ), Y. Takagi (NAOJ),
+N. Yamada (NAOJ),
+    Y. Koyama (Subaru), Y. Minowa (Subaru), N. Ohashi (Subaru),
+    T. Nagao (Ehime), M. Yoshida (Hiroshima)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

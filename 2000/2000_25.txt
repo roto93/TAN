@@ -1,0 +1,587 @@
+From kyl@asiaa.sinica.edu.tw Mon Jan 24 21:37 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA00190
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 24 Jan 2000 21:37:36 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id VAA16987
+	for <astro@asiaa.sinica.edu.tw>; Mon, 24 Jan 2000 21:26:56 +0800
+Date: Mon, 24 Jan 2000 21:26:56 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: Gas and Galaxy Evol'n. Conference (fwd)
+Message-ID: <Pine.LNX.4.10.10001242126540.16803-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 21922
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Wed, 19 Jan 2000 20:04:01 -0700 (MST)
+From: Michael Rupen <mrupen@aoc.nrao.edu>
+To: kyl@astro.uiuc.edu
+Subject: Gas and Galaxy Evol'n. Conference
+
+================================================================================
+                                                       19 January 2000 
+
+                G A S   A N D   G A L A X Y   E V O L U T I O N
+
+            A Conference in Honor of the 20th Anniversary of the VLA
+
+                   Socorro, New Mexico, USA,  21-24 May 2000
+
+                     S E C O N D   A N N O U N C E M E N T
+
+********************************************************************************
+
+This is the second announcement for the Gas and Galaxy Evolution conference,
+jointly sponsored by NRAO and New Mexico Tech, to be held in Socorro, New
+Mexico, on 21-24 May 2000.  
+
+This announcement contains general information on the meeting, plus ASCII
+forms for registration, abstract submission, and applications for student
+travel support.
+
+This announcement and all forms can be accessed on the Internet either on
+the Web or via anonymous ftp.
+  * On the Web: http://www.nrao.edu/vla2000/ takes you directly to the home
+      page.  
+  * Using anonymous FTP: the site is ftp://ftp.aoc.nrao.edu/pub/staff/vla2000/
+      or simply ftp ftp.aoc.nrao.edu, then cd pub/staff/vla2000 .
+
+Each meeting participant should submit
+  * the FINAL REGISTRATION FORM     (due  1 March 2000)
+    ==> note that attendance is limited to 160 people, so it is important
+      to register early
+  * the STUDENT TRAVEL SUPPORT FORM (due  1 March 2000)
+    ...for students who would like to be considered for travel support
+  * the ABSTRACT FORM               (due 14 April 2000)
+    ...for those interested in presenting an oral or poster paper
+    ==> note that there can only be a limited number of oral presentations
+  
+********************************************************************************
+
+GENERAL
+  In celebration of 20 years of VLA observations, NRAO and New Mexico Tech 
+  are jointly sponsoring a conference in Socorro, New Mexico, on
+  21-24 May 2000.  The theme is the role of gas in galaxy evolution, 
+  concentrating on the interplay between galaxies and their environments, 
+  with some emphasis on HI imaging.  Questions we hope to address include:  
+  What are the residual signatures of the formation process around galaxies?  
+  Do galaxies evolve along the Hubble sequence?  If so, how, and in what 
+  direction? Do mergers really convert spirals to ellipticals?  Can continuing 
+  accretion `grow' dynamically-cold disks into the present?  What can we learn 
+  about the history and fate of galaxies from the structure of their gaseous 
+  envelopes?  We would like to confront the vast range of current observations 
+  with theoretical predictions and interpretations, and to map out new 
+  directions for the future.  The conference will conclude with a celebration 
+  of the twentieth anniversary of the VLA, held at the VLA site. 
+
+  A preliminary list of the major sessions is as follows:
+
+     I. Gas Content as a Function of z, in the context of large scale structure
+
+    II. Galaxy Formation and High-Redshift Galaxies
+
+   III. Nearby Galaxies in (Trans)formation
+   
+    IV. Nearby Galaxies
+       A. Stable long lived structures or continually evolving?
+       B. Dark matter aspects of HI work  
+          
+     V. The Influence of Galaxies on Their Surroundings
+
+    VI. Environmental Effects on the Gas in Galaxies
+
+   VII. Outstanding Questions and Future Instruments
+
+  VIII. Summary
+
+
+********************************************************************************
+
+IMPORTANT DATES
+   1mar00   Early registration closes 
+            Deadline for requests for student support (see below)
+
+  14apr00   Deadline for submission of abstracts
+
+   7may00   Deadline for (blocked) motel reservations
+
+  20may00   Reception
+
+  21may00   First day of meeting
+
+  24may00   Last day of meeting
+            VLA 20th birthday celebration
+
+  15jul00   Manuscripts due at NRAO
+
+********************************************************************************
+
+SCIENTIFIC ORGANIZING COMMITTEE (SOC):
+  Jacqueline van Gorkom, chair (Columbia Univ.)
+  James Binney (Oxford) 
+  Julianne Dalcanton (Univ. of Washington) 
+  Ron Ekers (CSIRO) 
+  Ken Freeman (ANU) 
+  John Hibbard (NRAO/CV) 
+  Michael Rupen (NRAO/Socorro) 
+  Renzo Sancisi (Bologna) 
+  Francois Schweizer (Carnegie Institute) 
+  Linda Sparke (Univ. of Wisconsin) 
+  David Westpfahl (New Mexico Tech) 
+  Ann Zabludoff (Univ. of Arizona) 
+
+LOCAL ORGANIZING COMMITTEE (LOC):
+  Michael Rupen (mrupen@nrao.edu), Chris Carilli, Tracy Clarke, David Finley,
+  Skip Lagoyda, Gustaaf van Moorsel, Terry Romero, David Thilker, Marc
+  Verheijen, David Westpfahl, Min Su Yun
+
+********************************************************************************
+
+REGISTRATION (deadline 1 March 2000)
+  Anyone wishing to attend the meeting must fill out a registration
+  form, either (preferably) using the Web form, accessible from
+  http://www.nrao.edu/vla2000, or by emailing the ASCII form (appended to
+  this document, or available from the same Web site) to vla2000@nrao.edu.
+
+  ***WARNING: Over 150 people have already expressed an interest in
+    attending; the local venue limits us to a total of about 160.  Please
+    send your registration in as soon as possible, even if you are not
+    yet able to provide your travel information.  Once you do know your 
+    travel plans, please pass them along to us, preferably by e-mail to 
+    vla2000@nrao.edu.
+
+********************************************************************************
+
+REGISTRATION FEE
+  The registration fee is
+    US$ 195  if received on or before 1 March 2000 ("early fee")
+    US$ 225  if received after 1 March 2000        ("late fee")
+    US$ 275  if received at the meeting            ("walk-up fee")
+
+  Payment **MUST** be in US dollars.  Payment options include credit cards
+  (VISA or Mastercard only), personal checks, and travelers' checks; cash may 
+  be used only if paying at the meeting.  Checks can be paper-mailed to the 
+  address given in the registration form. If you prefer to use a credit card,
+  please be aware that we employ no special encryption software, and so cannot
+  guarantee that credit information sent via e-mail or through the Web will
+  not be intercepted.   If you do not wish to e-mail the credit card number
+  and expiration date, please send a separate FAX or paper mailing with these 
+  details.  Please indicate how you will pay the registration fee on the 
+  registration form.
+
+  The registration fee covers: NRAO/NMT-provided transport (see below),
+  the reception on 20 May 2000, snacks during the morning and afternoon 
+  breaks, the conference dinner on 22 May 2000, an abstracts notebook, 
+  a copy of the proceedings (including shipping), attendance at the VLA
+  20th Anniversary celebration at the VLA site, and access to the gymnasium,
+  swimming pool, and tennis courts near the conference.
+  
+********************************************************************************
+
+ABSTRACTS (deadline 14 April 2000)
+  If you would like to present an oral or a poster paper, please indicate this
+  in your registration form, and submit a separate abstract form either
+  (preferably) over the Web, or by e-mail or FAX using the attached ASCII
+  version.  Two overhead projectors and one 35-mm slide projector will be
+  available for each oral presentation.  Each poster paper will have a
+  display area at least 1m x 1m.  Video playback or computer display must
+  be indicated by making a note in the "Special Presentation Needs" field of
+  the abstract form.
+  
+********************************************************************************
+
+TRAVEL SUPPORT FOR STUDENTS (deadline 1 March 2000)
+  Limited, and typically only partial, travel support may be available
+  for students.  These funds will be allocated to visitors based on review
+  by the SOC and in accordance with the rules and procedures of the
+  granting agencies.  To be considered for travel support, you *must* also
+  submit both a travel grant and an abstract form, preferably over the Web,
+  or using the ASCII versions appended to this message.
+
+********************************************************************************
+
+PROCEEDINGS
+  The proceedings will be published by PASP soon after the meeting, and
+  shipped directly to the participants.  The costs of both the book and the
+  shipping are covered by the registration fee.  There will be a tight
+  publication schedule.  LaTeX style files and instructions for their use
+  will be available on our Web site at the time of the final mailing.
+
+********************************************************************************
+
+MORE INFORMATION
+  Updated meeting information will be made available on the conference home
+  page on the World-Wide Web, via http://www.nrao.edu/vla2000.  More details
+  will also be disseminated in the third and final mailings.  All further
+  questions should be sent by e-mail to vla2000@nrao.edu, or FAXed to
+  VLA2000 Conference, c/o Ms. Terry Romero, at 505/835-7027.
+
+********************************************************************************
+
+We look forward to seeing you!
+
+     -- Michael Rupen (mrupen@nrao.edu), on behalf of the Scientific and 
+        Local Organizing Committees
+
+================================================================================
+
+=========================<-- D E T A C H   H E R E -->==========================
+
+                G A S   A N D   G A L A X Y   E V O L U T I O N
+
+            A Conference in Honor of the 20th Anniversary of the VLA
+
+                   Socorro, New Mexico, USA,  21-24 May 2000
+
+                       R E G I S T R A T I O N   F O R M
+
+----------------------
+DEADLINE: 1 March 2000 for early registration
+----------------------
+
+Please either
+   (1) fill in the Web form, accessible from http://www.nrao.edu/vla2000
+or (2) fill out the following and
+      (a) email to vla2000@nrao.edu
+   or (b) FAX to Ms. Terry Romero, at +1-505-835-7027 (voice: +1-505-835-7000)
+   or (c) send by paper mail to
+          Gas and Galaxy Evolution Conference
+          c/o Ms. Terry Romero
+          NRAO
+          1003 Lopezville Road
+          Socorro, NM  87801
+          USA
+
+IDENTIFICATION
+  Last name:    ______________________________________________
+  First name:   ______________________________________________
+  Name and affiliation for meeting badge:
+         _____________________________________________________
+         _____________________________________________________
+
+  Professional level: 
+    ___ Undergraduate         ___ Graduate student   
+    ___ Postdoctoral fellow   ___ Faculty 
+    ___ Other
+  We wish particularly to encourage the attendance of students and recent PhDs.
+
+  Connection with this conference: 
+    ___ on the Scientific Organizing Committee
+    ___ on the Local Organizing Committee
+    ___ invited speaker
+  
+GENERAL INFORMATION
+  Fill in if you have not submitted a pre-registration form, or if you wish
+  to update the general information therein.
+  Affiliation:  ______________________________________________
+  Telephone:    ______________________________________________
+  FAX:          ______________________________________________
+  E-mail address: ____________________________________________
+  Paper mail address:
+             _____________________________________________________
+             _____________________________________________________
+             _____________________________________________________
+             _____________________________________________________
+
+LOCAL INFORMATION
+  Fill this in if you are a local staff mamber, i.e. work at NRAO/Socorro
+  or NMT.
+    Please check one:
+      ___ NMT staff member              ___ NMT graduate student
+
+      ___ NRAO/Socorro staff member     ___ NRAO/Socorro graduate student
+      ___ NRAO/Socorro summer student
+
+    Please check one:
+      ___ I will attend most or all of the conference
+      ___ I will attend only a few talks ("grazer")
+
+REGISTRATION FEE
+  The registration fee is
+    US$ 195  if received on or before 1 March 2000 ("early fee")
+    US$ 225  if received after 1 March 2000        ("late fee")
+    US$ 275  if received at the meeting            ("walk-up fee")
+
+    US$ 175  for local (Socorro) NRAO/NMT staff registering before 1 March 2000
+    free     for local (Socorro) NRAO/NMT students
+    free     for local (Socorro) NRAO/NMT "grazers" 
+
+   *waived*  for members of the SOC, LOC, and invited speakers
+
+  Please select a payment option: 
+    ___ Credit card
+          Type:   ___ VISA           ___ Mastercard
+          Card number: _______________________________
+          Expiration date: ___________________________
+          Note that we can only accept VISA or Mastercard.
+          Note also that we cannot guarantee that credit information
+            submitted by e-mail or through the Web will not be 
+            intercepted.  If you are worried about this, please send
+            this information either by FAX or by regular mail.
+    ___ Personal check payable to NRAO in US$, drawn on a US bank
+    ___ Travelers' check in US$, drawn on a US bank
+    ___ US$ cash (only if paid at the meeting)
+    ___ NRAO internal account (NRAO staff only)
+          NRAO account number: _______________________
+        
+TRAVEL PLANS
+  If you do not know your travel plans at this time then skip this
+  section, but please pass them on to us once they are known, preferably
+  via e-mail to vla2000@nrao.edu.
+                                   Arrival             Departure
+                   Flight date         
+                   Flight time
+                   Flight number
+  I will use NRAO/NMT bus transport: ___                  ___
+  I will use a commercial shuttle:   ___                  ___
+  ___ I will use a rental car.
+  ___ I will use my private vehicle.
+
+MEALS
+  If you have special dietary requirements, especially for the conference
+  dinner, please specify them:
+
+
+CONFERENCE DINNER
+  ___ I will bring one or more guests to the conference dinner.  Please add
+      US $12 to my registration fee for each guest.
+      Number of guests: ____
+
+ACCOMMODATIONS
+  You are responsible for making your own motel reservations. We will if
+  you wish post requests for room-mates on the meeting Web site, providing
+  your name, sex, and e-mail address.
+  ___ I would like a room-mate.  I am
+      ___ male     ___ female
+      ***PLEASE*** let us know as soon as you have found a room-mate,
+      so we can remove your name from this list.
+
+VLA 20th ANNIVERSARY PARTY (afternoon of 24 May 2000)
+  ___ I am interested in attending the VLA 20th Anniversary party.
+      ___ I will bring one or more guests.
+          Number of guests: ____
+  ___ I will not attend the VLA 20th Anniversary party.
+
+MISCELLANEOUS
+  ___ I am interested in day care for my children.
+      How many: _____________________________
+      Age(s):   _____________________________
+  ___ I am interested in a short hike some evening during the conference
+      (tentatively offered, depending on interest)
+  ___ I am interested in a hike organized after the meeting, probably
+      on 25 May 2000 (tentatively offered, depending on interest)
+
+FEEDBACK AND OTHER CONCERNS
+  If you have comments, questions, or suggestions, please provide them:
+
+
+
+
+
+================================================================================
+
+=========================<-- D E T A C H   H E R E -->==========================
+
+                G A S   A N D   G A L A X Y   E V O L U T I O N
+
+            A Conference in Honor of the 20th Anniversary of the VLA
+
+                   Socorro, New Mexico, USA,  21-24 May 2000
+
+          S T U D E N T   T R A V E L   G R A N T   A P P L I C A T I O N
+
+----------------------
+DEADLINE: 1 March 2000
+----------------------
+
+Please fill out this form and either
+   (1) FAX to Ms. Terry Romero, at +1-505-835-7027 (voice: +1-505-835-7000)
+or (2) send by paper mail to
+          Gas and Galaxy Evolution Conference
+          c/o Ms. Terry Romero
+          NRAO
+          1003 Lopezville Road
+          Socorro, NM  87801
+          USA
+E-mail or Web-based submission is impractical since a signature is required.
+
+
+USE OF THIS FORM
+  This form should be used to apply for student travel support.
+  We are not sure yet whether or how much money will be available;
+  at best such funds will cover only (partial) air fares, with a cap
+  based on the cheapest air fare available.
+
+IDENTIFICATION
+  Last name:    ______________________________________________
+  First name:   ______________________________________________
+  Affiliation:  ______________________________________________
+  Telephone:    ______________________________________________
+  FAX:          ______________________________________________
+  E-mail address: ____________________________________________
+  Paper mail address:
+             _____________________________________________________
+             _____________________________________________________
+             _____________________________________________________
+             _____________________________________________________
+
+
+  Citizenship:  _________________
+
+  Professional level: 
+    ___ Undergraduate         ___ Graduate student   
+    Travel funds, if any, are available only to students.
+
+
+TRAVEL PLANS
+  Arrival and departure dates:
+
+  Flying from where to where:
+
+
+OTHER SOURCES OF FUNDING
+  Please list other sources of funding available to you.
+
+
+ABSTRACT
+  Please submit an abstract form for the paper you wish to present at
+  the meeting (required).  This form is available from the meeting Web site
+  or via anonymous FTP, and is also reproduced at the end of the second
+  mailing.
+
+NAME OF SUPERVISOR & THESIS TOPIC
+  Name of supervisor:  ______________________
+  Thesis topic:
+
+
+
+BACKGROUND INFORMATION
+  Please attach a BRIEF Vita and Bibliography.
+
+PASSPORT
+  Expiration date of passport:
+  (if a visa is required for your travel, your passport must be valid
+  6 months beyond the visa expiration date)
+
+================================================================================
+
+=========================<-- D E T A C H   H E R E -->==========================
+
+% ==============================================================================
+%
+%                G A S   A N D   G A L A X Y   E V O L U T I O N
+%
+%            A Conference in Honor of the 20th Anniversary of the VLA
+%
+%                   Socorro, New Mexico, USA,  21-24 May 2000
+%
+%                      A B S T R A C T   T E M P L A T E
+%
+% -----------------------
+% DEADLINE: 14 April 2000
+% -----------------------
+%
+% Below is the abstract form.  This is a LaTex template, and it should
+% be submitted by e-mail only as we will process all abstracts 
+% electronically only.  Please try to use this form and avoid sending
+% merely a paper version of the abstract.
+% 
+% If you are not familiar with LaTex, please do not worry about the
+% correctness of the syntax.  We will happily sort that out.  Just
+% replace the dummy information in the form with author name(s),
+% affiliation(s), title, abstract text, indication of preference for
+% oral/poster, and special requirements.
+%
+% If you are familiar with LaTex, there is a style file in the conference
+% ftp area <ftp://ftp.aoc.nrao.edu/pub/staff/vla2000> (newpasp.sty) 
+% that you can use to typeset and print the abstract yourself.
+%
+% vla2000abstr.tex
+% az 08oct96, version 1.2
+% jw 15oct96, version 1.2.1, tweaked for reading ease
+% mpr 17dec99, version 2, modified for Gas & Galaxy Evol'n
+% 
+% LaTex template for abstract 
+%   Gas and Galaxy Evolution
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Instructions:
+%
+% In the following comment line, please replace ORAL with POSTER 
+% if you prefer to make a poster presentation. 
+%
+% Change the options below if you need special presentation media.
+% By default two overhead projectors and a 35-mm slide projector 
+% will be available for oral presentations.
+% 
+% Please indicate if you are an invited speaker.
+
+% PREFERENCE   ORAL
+
+% REQUIRE      VIDEO DISPLAY:  NO
+% REQUIRE      COMPUTER SCREEN DISPLAY: NO
+
+% INVITED SPEAKER:  NO
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Please send the completed abstract file by e-mail to 
+% vla2000@nrao.edu.
+%
+% For LaTex processing, this file requires paspconf.sty 
+%  
+% If first author is not the presenting author, add a footnote
+% e.g.  \author{A. Author\footnote{presented by B. Author2}}
+% 
+% For each author (or multiple authors with the same affil), 
+% give a \author{} and \affil{} sequence, e.g.
+%
+% \author{M. P. Rupen and R. A. Marson}
+% \affil{National Radio Astronomy Observatory}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentstyle[11pt,newpasp]{article}
+\begin{document}
+
+% Give title in mixed case:
+
+\title{A Paper For the NRAO/NMT Conference on Gas and Galaxy Evolution}
+
+\author{A. B. Author1}  % and A. B. Author2}
+\affil{The Name of My Institution, The Full Address of My Institution,
+Run in Address to Make Minimum Number of Lines}
+
+% Repeat the above block for more authors with other affils/address
+
+\begin{abstract}
+%
+% Include the abstract here. No more than 100 words.
+This is an abstract for a paper at the NRAO/NMT conference on Gas and Galaxy
+Evolution.
+%
+\end{abstract}
+
+\end{document}
+
+% (end abstract template)
+%
+%===============================================================================
+
+

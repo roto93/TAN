@@ -1,0 +1,321 @@
+==============================================================================
+[Due to some technical difficulty, TAN was offline for 2 days. Apology for the
+late delivery.  YJK]
+
+In this issue (Mar 08 - 14, 2014)
+
+1. ASIAA Colloquium (Mar 12): Phil Marshall (Stanford Univ)
+2. NTHU Astronomy Colloquium (Mar 14): Hsiang-Hsu Wang (ASIAA)
+3. Mopra 2014b/ASTE 2014a Call for Proposals (Apr 08)
+4. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Jnt Colloq (Mar 18): Phil Marshall (Stanford U)
+5. [First Announcement] East-Asian Numerical Astrophysics Meeting (Sep 15, 2014)
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>         web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________
+Speaker:        Phil Marshall (KIPAC, Stanford University)
+Topic:          Space Warps: crowd-sourcing the discovery of gravitational lenses
+Time:           3/12 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Gravitational lenses are very useful astrophysical tools, providing direct
+mass measurements of galaxies and clusters, a magnified view of the distant
+universe, and experimental probes of both dark matter and dark energy. Key to
+extending the science made possible by gravitational lenses is the discovery
+of more systems in wide field imaging surveys, but their complex nature makes
+finding lenses a difficult process to automate. Space Warps is a citizen
+science project that enables new lenses to be detected by volunteers
+inspecting images displayed to them via a custom-built website. Over 10,000
+volunteers took part in the first Space Warps project, a blind search of the
+CFHT Legacy Survey imaging. I will present premliminary results from this project,
+including the first new lens systems to be detected and analyzed by citizen
+scientists. The second Space Warps project, a smaller targeted search in the VICS82 survey launched in January of this year and was completed in 3 days, thanks to the efforts of nearly 60,000 volunteers inspired by the BBC Stargazing Live TV programmes. I will share results and conclusions from that project too, and speculate on how this approach in general might be extended into the LSST era.
+
+
+==============================================================================
+
+> Date: Sun, 9 Mar 2014 16:08:51 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+############################################
+                    NTHU
+            Astronomy Colloquium
+############################################
+
+      2:20 p.m. 14th March 2014 (Friday)
+         NTHU Physics Building, Rm620
+
+      Speaker: Dr. Hsiang-Hsu Wang
+               (ASIAA)
+
+      Title: Formation of circumplanetary disks
+             around sub-Neptune-mass protoplanets
+
+   Abstract:
+The regular satellites found around Neptune and Uranus together with
+theoretical studies of satellite formation suggest the possibility
+that these planetary systems may have owned a gas-solid
+circumplanetary disk in the past. However, recent numerical works have
+shown that, even in the limit of isothermal condition, no disk-like
+structure can form around sub-Neptune-mass protoplanets. Studying the
+formation of circumplanetary disks around low-mass protoplanets can be
+numerically difficult and technically challenging. In this work, by
+implementing the necessary features to the grid-based Antares code,
+two- and three-dimensional global simulations are performed to explore
+the formation of circumplanetary disks around sub-Neptune-mass
+protoplanets that are embedded in an isothermal protoplanetary disk.
+
+         Tea/Discussion Time is followed !
+
+                   All Welcome !!
+
+==============================================================================
+
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Subject: Fwd: Mopra 2014b/ASTE 2014a Call for Proposals
+> Date: Mon, 10 Mar 2014 15:44:21 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa@asiaa.sinica.edu.tw
+
+Dear All,
+
+ASTE/Mopra call for proposals has been announced. See below.   =20
+
+Best,
+Chin-Fei
+
+Begin forwarded message:
+
+> From: "K. Tatematsu" <k.tatematsu@nao.ac.jp>
+> Subject: Mopra 2014b/ASTE 2014a Call for Proposals
+> Date: March 10, 2014 at 11:03:22 AM GMT+8
+> To: "Lee, Chin-Fei" <cflee@asiaa.sinica.edu.tw>, "Kim, Jongsoo" =
+<jskim@kasi.re.kr>
+> Cc: k.tatematsu@nao.ac.jp, "Iono, Daisuke" <d.iono@nao.ac.jp>, OKUDA =
+Takeshi <takeshi.okuda@nao.ac.jp>
+> Reply-To: k.tatematsu@nao.ac.jp
+>=20
+> Dear Chin-Fei and Jongsoo,
+>=20
+> Can you kindly announce ASTE/Mopra call for proposals in your
+> communities?
+>=20
+> Thanks!
+>=20
+> Regards,
+> Ken
+>=20
+> ------------------------------------
+> The NAOJ Chile Observatory invites proposals for observations for
+> Mopra and ASTE.
+>=20
+> - Mopra 22m radio telescope for semester 2014b
+> (deadline: April 8, 2014.  17:00 JST or 8:00 UT)
+> Please see
+> http://alma.mtk.nao.ac.jp/mopra/call-for-proposals.html
+>=20
+>=20
+> - ASTE for semester 2014a
+> (deadline: April 15th, 2014 17:00 JST or 8:00 UT)
+> Please see the link for details.
+> http://alma.mtk.nao.ac.jp/aste/cfp/
+>=20
+>=20
+> Tetsuo Hasegawa
+> Director, Chile Observatory, National Astronomical Observatory of =
+Japan
+> ------------------------------------
+>=20
+> --=20
+> K. Tatematsu (National Astronomical Observatory of Japan)
+>=20
+
+==============================================================================
+
+> Date: Wed, 12 Mar 2014 11:22:46 +0800
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, March 18
+> From: "J.-P. Wu" <jpw750811@gmail.com>
+> To: swallow <swallow@phys.ntu.edu.tw>, whchen <whchen@gate.sinica.edu.tw>,
+>       astro <astro@asiaa.sinica.edu.tw>,
+
+Dear Colleagues,
+
+You are cordially invited to attend the Joint Colloquium which will be held
+on March 18 (http://web.phys.ntu.edu.tw/colloquium/ updating).
+
+The Joint Colloquium Series is organized by the NTU Physics Department,
+Center for Condensed Matter Science (CCMS), Leung Center for Cosmology and
+Particle Astrophysics (LeCosPA), Academia Sinica Institute of Astronomy and
+Astrophysics (ASIAA), and the Institute of Atomic and Molecular Sciences
+(IAMS).
+
+The idea is to have excellent speakers to give inspiring, informative, but
+non-technical talks on the frontiers of Sciences.
+
+Enclosed below is the information of the Joint Colloquium on March 18.
+
+Best regards,
+
+Yen-Ting Lin (ASIAA)
+Michitoshi Hayashi (CCMS)
+Chia-Lung Hsieh (IAMS)
+Jiwoo Nam (LeCosPA)
+Yuan-Huei Chang (NTU-Phys)
+
+------------------------------------------------------------------------------
+ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium
+
+Speaker: Phil Marshall
+
+               (Stanford University)
+
+Topic :  *Measuring Distance in the Universe with Gravitational Lenses*
+
+Time  : 03/18 (Tue.) 14:20 - 15:20
+
+Place : Room 104, CCMS-New Physics Building
+
+Abstract:
+    Understanding the mysterious "Dark Energy" that appears to be driving
+the expansion of the Universe is one of the biggest challenges facing
+cosmologists today. While offering no new physical understanding, I will
+describe a method for at least quantifying the effect of the dark energy
+that is both new and old: the time delays between the multiple images of
+gravitationally lensed AGN have long been known to enable a measurement
+of the Hubble constant, but we have only recently shown how, with
+careful modeling of enough high quality data, we can achieve comparable
+accuracy to other, better known cosmographic probes. After introducing
+and describing this experiment in some detail, I will discuss how we
+plan to build on it in the next decade, using new lenses discovered
+using the Large Synoptic Survey Telescopes to find and measure
+large numbers of suitable systems.
+
+Bio:
+    Phil Marshall is a research scientist at SLAC national accelerator
+laboratory. He did his PhD at the Cavendish Laboratory in Cambridge,
+UK, on Bayesian inference and clusters of galaxies. He was one of the
+founding postdocs at the Kavli Institute for Particle Astrophysics and
+Cosmology at Stanford, where he began thinking about strong
+gravitational lenses, their applications in galaxy evolution and
+cosmology, and how to find more of them in wide field imaging surveys.
+He has been chair of the LSST strong lensing science collaboration
+since 2006, during which time he has been TABASGO Fellow at the
+University of California, Santa Barbara, Kavli Fellow at KIPAC, and
+Royal Society university research fellow at Oxford. Phil is now
+working on developing science analyses for LSST, among many other
+things.
+
+------------------------------------------------------------------------------
+==============================================================================
+
+> Date: Thu, 13 Mar 2014 17:29:54 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: [First Announcement] East-Asian Numerical Astrophysics Meeting (Sept.
+ 2014, Korea)
+
+------------------------------------------------------------------
+
+      The Sixth East-Asian Numerical Astrophysics Meeting (EANAM6)
+      September 15-19, 2014, Suwon, Korea
+      http://eanam6.khu.ac.kr
+
+     FIRST ANNOUNCEMENT
+
+------------------------------------------------------------------
+
+------------------------
+Aims and Scope:
+------------------------
+Numerical simulations have played an important role in East-Asian
+astronomical communities, whose access to world-level observing
+facilities was rather limited until recently. Numerical simulations
+have become even more important as detailed comparisons between
+theories and observartions are now possible at a deeper level. The
+aim of  his series of meetings is to bring East-Asian numerical
+astrophysists together and provide chances to learn each other's
+work and explore possible collaborations among them. The scope
+of the meeting will include (but not limited to) the numerical
+astrophysics of hydrodynamics, magnetohydrodynamics, radiative
+transfer, planetary/stellar/galactic dynamics, and cosmology.
+In addition, there will also be a focus on computer science
+applications directed toward astrophysics including numerical
+methods, simulation data analysis, and high performance computing.
+Participants from outside of the East Asia are welcome as well.
+
+
+--------------
+Timeline
+--------------
+Mid March, 2014: First announcement
+Late May, 2014: Second announcement (abstract submission open)
+Late June, 2014: Abstract deadline
+Mid July, 2014: Program fixed
+Late July, 2014: Registration deadline
+September 15, 2014: Meeting starts
+
+
+------------------------------------------
+Scientic Organizing Committee
+------------------------------------------
+Peng-Fei Chen (Nanjing University)
+Jungyeon Cho (Chungnam National University)
+Liang Gao (NAOC)
+Shigenobu Hirose (JAMSTEC)
+Shu-ichiro Inutsuka (Nagoya University)
+Ing-Guey Jiang (National Tsing Hua University)
+Yipeng Jing (Shanghai Jiaotong Observatory)
+Hyesung Kang (Pusan National University)
+Sungsoo S. Kim (Kyung Hee University)
+Woong-Tae Kim (Seoul National University)
+Eiichiro Kokubo (NAOJ)
+Masao Mori (University of Tsukuba)
+Juntai Shen (Shanghai Astronomical Observatory)
+Chien-Chang Yen (Fu Jen Catholic University)
+Hwei-Jang Yo (National Cheng Kung University)
+
+
+------------------------------------------
+Local Organizing Committee
+------------------------------------------
+Sungsoo S. Kim (Kyung Hee University, Chair)
+Woong-Tae Kim (Seoul National University)
+Jeong-Eun Lee (Kyung Hee University)
+Chae Kyung Sim (Kyung Hee University)
+
+
+-------------
+Contact
+-------------
+eanam6 > at< khu.ac.kr
+http://eanam6.khu.ac.kr
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

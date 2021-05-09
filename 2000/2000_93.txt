@@ -1,0 +1,143 @@
+From kyl@asiaa.sinica.edu.tw Sat Mar 25 00:55 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id AAA28382
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Sat, 25 Mar 2000 00:54:42 +0800 (CST)
+Received: from asiaa (IDENT:kyl@asiaa [140.109.177.3])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id AAA16881
+	for <astro@asiaa.sinica.edu.tw>; Sat, 25 Mar 2000 00:52:41 +0800
+Date: Sat, 25 Mar 2000 00:52:40 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: ISO_Calibration_Legacy_Conference (fwd)
+Message-ID: <Pine.LNX.4.10.10003250052380.16878-100000@asiaa.sinica.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 5118
+Status: R
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Tue, 14 Mar 2000 03:40:51 +0100 (MET)
+From: ISO Helpdesk <helpdesk@iso.vilspa.esa.es>
+To: kyl@astro.uiuc.edu
+Subject: ISO_Calibration_Legacy_Conference
+
+
+               The Calibration Legacy of the ISO Mission
+                
+           Conference to be held in the week 5-9 February 2001 
+			    
+                                at the
+                            
+                            ISO Data Centre
+                              
+                        Villafranca del Castillo
+                           
+                             Madrid, Spain
+                          
+======================================================================
+
+
+This is the first announcement of a conference which will be held at the
+Data Centre of the Infrared Space Observatory (ISO) in Villafranca del
+Castillo near Madrid (Spain) in the week of February 5 to 9, 2001.
+
+The programme of the conference will reflect the wide range of
+astronomical and instrumental calibration issues which have been
+tackled during the history of the ISO project to-date. Topics range
+through :
+
+  . the establishment of major databases of reference astronomical 
+    calibration sources;
+  . lessons learned relevant to the design of future instruments;
+  . actual techniques developed, and problems encountered, in the
+    ground-based and in-flight calibration of the ISO instruments.
+
+Particular emphasis will be placed upon the relevance of the ISO
+experience to calibration of future space missions.  Contributions
+addressing the relevance for calibration of ground-based systems are
+also welcome.
+
+The ISO project, including the approximately 2.5 years of in-orbit
+operation of the ISO spacecraft, has spanned two decades to-date.
+Hundreds of work-years have been invested in the attendant calibration
+programmes.  Pre-launch preparatory calibration programmes have
+generated large databases of calibrated stellar spectra, spanning the
+visible to > 240 micron wavelength range.  Asteroid and planetary
+spectral models have been generated and refined.  Extensive laboratory
+calibration work has been performed on detector and optical sub-systems
+and on the instruments. The complex suite of ISO instruments has been
+calibrated in-flight.
+
+The ISO instruments ranged from broadband photometers, array cameras and
+photo-polarimeters, through moderate resolution grating and CVF
+spectrometers to high-resolution Fabry-Perot systems.  The operating
+wavelength range ran from 2.5 to 240 microns.
+
+The ISO project clearly represents a major repository of calibration
+experience.  It is an important producer of reference-source databases.
+This legacy should be exploited in planning the calibration of future
+systems, and in their design and development.
+
+This conference will take place shortly after the ISO Calibration
+Working Groups have completed their synthesis of the results of ISO
+instrument calibration work.  The explanatory documentation of the
+Observatory will be close to its final content, and the time will be
+ripe to pass on the legacy of the ISO calibration experience to the
+future.
+
+The meeting will be appropriate for astronomers and engineers wishing to
+record, in the proceedings of this Legacy meeting, the insights gained
+from their work on ISO or on other astronomical systems.  It will be
+particularly relevant to those faced with the task of calibrating
+complex IR astronomical systems in the coming years.
+
+It is intended that the proceedings of this conference be published as
+an ESA-SP publication, and that they should gather in one place the
+legacy of the ISO calibration work, with emphasis on clear and thorough
+exposition of the experience gained and of the lessons learned.
+
+If you are interested in the conference, but have received this email
+only indirectly, and would like to be sure to receive future mailings,
+then please notify :==> helpdesk@iso.vilspa.esa.es 
+
+If you have received this mailing directly, you will automatically
+receive the next announcement.
+
+We will send out a second announcement with more information in July,
+and a third announcement in September, which will include detailed
+information on logistics, a tentative conference agenda, and a list of
+invited speakers. 
+
+============================================================================
+============================================================================
+============================================================================
+
+Local Organisation :
+
+L. Metcalfe (Chair), 
+M.F. Kessler (Project Scientist), 
+A. Salama, 
+P. Garcia-Lario.
+
+
+   ISO Data Centre,
+   Villafranca del Castillo Satellite Tracking Station
+   Apartado 50727, 28080 Madrid (Spain)
+   email: helpdesk@iso.vilspa.esa.es
+
+============================================================================
+
+

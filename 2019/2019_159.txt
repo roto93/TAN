@@ -1,0 +1,47 @@
+==============================================================================
+
+Subject: ALMA Users Cycle 7 CASA+pipeline announcement
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 2 Oct 2019 08:51:34 +0800
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+FYI
+
+-----
+
+The ALMA Cycle 7 CASA+pipeline: 5.6.1-8 is available for download
+(https://casa.nrao.edu/casa_obtaining.shtml)
+
+Important things to note:
+
+* CASA versions prior to 5.6.1-8 cannot be used to import raw ALMA Cycle
+7 data due to a change in the data format. CASA 5.6.1-8 and the bundled
+Cycle 7 ALMA pipeline has been validated to calibrate and image raw ALMA
+data from Cycles 3-7.  Restoration of previously calibrated ALMA data is
+recommended to be done in the CASA version originally used for the
+calibration, however, we believe that CASA 5.6.1-8 will restore pipeline
+calibrated data from CASA 5.4.0 or more recent.
+
+* To alleviate CASA tclean memory issues for large mosaics, more
+temporary files are opened on disk than previously when running tclean.
+This requires the number of open files limit to be set to at least
+ulimit > 16384. Note that linux/macOS have both "hard" and "soft" limits
+for open files, a user sees the "soft" limit (only root can change the
+hard limit). BOTH must be increased to at least 16384.
+
+To check the ulimit, in bash type
+ulimit -Hn (hard limit)
+ulimit -Sn (soft limit)
+
+* For full release notes and known issues see
+https://casa.nrao.edu/casadocs/casa-5.6
+
+-----
+
+
+Best wishes,
+Misato
+
+
+
+==============================================================================

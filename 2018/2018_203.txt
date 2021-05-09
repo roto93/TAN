@@ -1,0 +1,196 @@
+==============================================================================
+
+In this issue (Dec 10 - 15, 2018)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Dec 17): PC Yu (NCU)
+                         (Dec 19): Robin Dong (University of Victoria)
+                         (Dec 20): Benjamin Horowitz (UC Berkeley)
+               (Dec 21): A. Gopakumar (Tata Institute of Fundamental Research)
+2. SMA_Call_for_Large_Scale_and_Standard_Projects_Proposal: 2019A_Semester
+3. announcement of the LSST conference
+
+==============================================================================
+
+> Date: Thu, 13 Dec 2018 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:        PC Yu (NCU)
+Topic:          Searching for  Intraday Variability of QSOs using High-Cadence Wide-Field Survey
+Time:           12/17 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Investigation of variability is a powerful tool to understand the nature and process in the inner nuclear regions of AGNs. Variability can range time scales from intraday to years. However, variability on intraday timescales in AGNs is puzzled. Mechanisms for intraday variability include shock-in-jets models and instabilities of accretion disks. To extend the sample of AGN with intraday variability, we searched for intraday variability in ~3600 QSOs using high-cadence (20 mins) data of PTF/iPTF survey. I will present current preliminary results and status. Also, I will introduce future plans of using Zwicky Transient Facility (ZTF)  data with a 47 square degree field of view (,and LSST) for this project.
+
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:        Robin Dong (University of Victoria)
+Topic:          
+Time:           12/19 (Wednesday) 14:20 - 15:20
+Place:           R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        Benjamin Horowitz (UC Berkeley)
+Topic:          Optimal Reconstruction of Cosmological Density Fields: Examples from Lyman Alpha Forest Tomography and Weak Lensing
+Time:           12/20 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In this talk I will discuss recent and ongoing work on reconstructing density fields from cosmological observations. Starting with a toy example to establish the maximum likelihood formalism, I will then apply it to three dimensional intergalactic medium (IGM) interpreted from lyman alpha absorption lines in the spectra of high redshift sources. Unlike standard galaxy redshift surveys which can trace the nearby universe (z<0.2), IGM tomography provides accurate maps at ``Cosmic Noon'' (z~2.0), capturing galaxies at a critical early time in their formation. By utilizing a maximum likelihood approach, I show that it is possible to reconstruct the initial density field of observed regions and potentially provide a new probe of astrophysical processes. Time permitting, I will discuss applying these techniques to galaxy weak lensing surveys where they can be used to optimally extract cosmological information even in the presence of severe instrumental systematics.
+
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:        A. Gopakumar (Tata Institute of Fundamental Research)
+Topic:          Blazar OJ287 and its nano-Hertz GW emitting massive BH binary central engine
+Time:           12/21 (Friday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Blazars are active galactic nuclei with strong jets. They tend to
+exhibit dramatic and unpredictable flux variations, namely
+outbursts.Certain observed outbursts from an exceptional Blazar OJ287
+can be explained by invoking a massive  black hole binary as its
+central engine. Detailed General Relativistic modeling allowed us to
+predict a major optical outburst during November 2015. The outburst
+did occur within the expected time range, peaking on 5/12/2015. A
+multi-wavelength observational campaign confirmed the  occurrence of
+certain impact flare and the presence of a major thermal component in
+the flare, as predicted. These observations and subsequent analysis
+allowed us to establish the presence of a spinning supermassive black
+hole binary that spirals in due to the emission of nano-Hertz
+gravitational waves in the central engine of OJ287.
+I will  briefly list our on-going efforts that should be interesting
+to the Event Horizon Telescope consortium and the International Pulsar
+Timing Array.
+
+
+==============================================================================
+
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: SMA_Call_for_Large_Scale_and_Standard_Projects_Proposal: 2019A_Semester
+> Date: Sat, 15 Dec 2018 01:08:15 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+Dear Yi-Jehng,
+
+The SMA call for large scale and standard project proposals for the
+2019A semester has been announced. I would appreciate it if you 
+could circulate this to TAN.
+
+Regards,
+Naomi
+
+-----------------------------------
+
+SMA Call for Large Scale and Standard Projects Proposals â€“ 2019A Semester
+Mark Gurwell (Chair, Submillimeter Array Time Allocation Committee)
+
+We wish to draw your attention to the Large Scale Projects program for observations with the Submillimeter Array (SMA), which is now accepting Notices of Intent to propose. Under this program, proposals dedicated to answering major astrophysical questions having significant scientific impact requiring observing times of order 100-1000 hours are solicited. In this communication, we are also pre-announcing the dates for standard observing proposals. These calls are for the 2019A semester with observing period 16 May 2019 â€“ 15 Nov 2019.
+
+Large Scale Project Proposals
+        â€¢     Notice of Intent (required): 10 January 2019
+        â€¢     Proposal submission deadline: 07 February 2019 
+
+Standard Observing Proposals
+        â€¢     Proposal submission deadline : 07 March 2019
+
+The SMA is a reconfigurable interferometric array of eight 6-m antennas on Maunakea jointly built and operated by the Smithsonian Astrophysical Observatory and the Academia Sinica Institute of Astronomy and Astrophysics. The array operates in the 230, 345 and 400 GHz bands, observing simultaneously with two orthogonally polarized receivers, one in the 230 GHz or 345 GHz band and the other in the 240 GHz or 400 GHz band (with full polarimetric observations available using the 230+240 or 345+400 band combinations). The SWARM correlator processes 8 GHz bandwidth for each receiver in each sideband, for a total of 32 GHz, at a uniform 140 kHz resolution. This 32 GHz frequency coverage can be continuous where the tuning ranges overlap for the two orthogonally polarized receivers.   The SMA provides flexible, wide band frequency coverage that delivers high continuum sensitivity and excellent spectral line capabilities. A full transit observation offers continuum sensitivity of 250 !
+ or 600 micro-Jy (1 sigma) at 230 or 345 GHz in good weather conditions (precipitable water vapor 2.5mm and 1.0mm, respectively). The corresponding line sensitivities at 1 km/s resolution are 35 and 80 mJy. The small antennas allow access to low spatial frequencies in the sub-compact configuration, and at the other extreme, the finest angular resolution with the very extended configuration at 345 GHz is ~ 0.25". The compact and extended configurations complete the range. The characteristics and performance of the SMA are both similar and complementary to those of the stand-alone Atacama Compact Array (ACA) component of ALMA. For more information about SMA capabilities, visit the SMA Observer Center website and explore the set of SMA proposing tools. Current and archived SMA Newsletters provide a sampling of the wide variety of science possible with the SMA.
+The Large Scale Projects program follows a phased development, submission and review path, with the final selection of successful proposals synchronized with the TAC process for regular proposals. Accordingly, a Notice of Intent is required ahead of full submission.
+A second announcement will be circulated when the standard proposal system opens for submissions. We expect that to occur in mid-January.
+For more details visit the following websites:
+        â€¢     General
+        â€¢     Large Scale Projects
+        â€¢     Notice of Intent
+Questions or comments regarding the Call for Large Scale Proposals can be addressed to sma-largescale@cfa.harvard.edu and on standard proposals to sma-proposal@cfa.harvard.edu. 
+
+==============================================================================
+
+> SUBJECT: announcement of the LSST conference
+> DATE: 2018-12-14 16:29
+> FROM: Yen-Ting Lin <ytl@asiaa.sinica.edu.tw>
+
+Hi Prof. Kuan,
+
+Could you please help post the following, the announcement of the
+extension of registration deadline of the LSST conference?
+
+thanks,
+yen-ting
+
+---------------------------------------------------------------------------
+
+***************************************************************************
+Registration now open at https://lsst-asia.org
+Abstract submission deadline 14th January 2019
+LSST@Asia: Exploring the Wide, Fast, Deep Universe
+Sydney, Australia
+May 20-23, 2019
+***************************************************************************
+
+The abstract submission deadline for the LSST@Asia: Exploring the
+Wide, Fast, Deep Universe conference (https://lsst-asia.org) to be
+held in Sydney, Australia, 20-23 May 2019 has been extended to 14th
+January 2019.
+
+LSST@Asia will bring together scientists in Asia, Australia and South
+Africa with an interest in the Large Synoptic Survey Telescope and
+provide them with the opportunity to interact with each other as well
+as with leaders of the LSST Science Collaborations and hear updates on
+LSST construction and data processing progress.
+
+The main objectives of the 2019 meeting are to:
+
+    -Provide an update on the status of the LSST Project
+    -Strengthen the network of scientists in Asia involved in various
+aspects of LSST
+    -Promote increased engagement of scientists with the LSST Science
+Collaborations
+    -Explore synergies with future astronomical facilities
+
+Child care will be provided to maximise participation by those with
+carer responsibilities. There will also be some funding support
+available to encourage attendance by early-career researchers (<5
+years post PHD) and PhD students.
+
+Key Dates:
+    Abstract submission now open
+    January 14th 2019: Abstract submission closes
+    February 4th 2019: Program announced
+    March 4th 2019: Registration and conference fee payment deadline
+    May 20th-23rd 2019: Conference
+
+For more information, please contact the Conference Local Organising
+Committee
+lsst-asia-list@phys.unsw.edu.au.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://ucat.es.ntnu.edu.tw/astro_group/TAN/index.html>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

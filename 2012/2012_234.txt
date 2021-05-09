@@ -1,0 +1,209 @@
+Date: Fri, 07 Dec 2012 02:47:28 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN Issue (Nov 30 - Dec 6, 2012)
+
+============================================================================== 
+
+In this issue (Nov 30 - Dec 6, 2012)
+
+1. ASIAA Colloquia (Dec 07): Toshio Matsumoto (ASIAA)
+                  (Dec 04): Julian Merten (Caltech/JPL)
+2. NTHU Astronomy Colloquium (Dec 07): Tao-Chung Ching (NTHU)
+3. Lulin One-meter Telescope (LOT) Call for Observing Proposals for 2013A
+
+==============================================================================
+
+> Date: Sun, 2 Dec 2012 08:00:01 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium/special seminar this week
+> From: Yen-Ting Lin<ytl@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Toshio Matsumoto (ASIAA)
+Topic:        TBA
+Time:        12/7 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+
+
+*** Special Seminar
+____________________________________________________ 
+Speaker:    Julian Merten (Caltech/JPL)
+Topic:        Creation of cosmic structure in clusters of galaxies
+Time:        12/4 (Tuesday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+The widely accepted current standard model of cosmology predicts a hierarchical scenario of structure formation. Driven by small initial seed overdensities, structure collapses due to gravity and decouples from the Hubble flow. Through a subsequent sequence of mergers large and massive dark matter dominated halos form. The largest structures we observe today in this bottom-up scenario are clusters of galaxies and as the youngest structures to date, clusters are rendered as ideal laboratories to test our standard picture of structure formation. While observable in many different wavelength regimes, clusters reveal their mass components to the observerﾃ不 eye. In my talk I will present the latest results from the HST/MCT programme CLASH, which spends a significant amount of Hubble observing time on the study of a sample of 25 galaxy clusters. Properties like the dark matter density profile of halos can be determined to high precision and when used as cosmic telescopes, cluster!
+s allow a peak at the very young Universe. Furthermore, I will present the latest results from the study of merging clusters of galaxies, like the Bullet and Pandoraﾃ不 Cluster. Those most energetic events in the Universe provide the unique opportunity to observe the different matter components of the Universe under extreme conditions and allow for the direct derivation of microscopical properties of dark matter. For this reason a Cluster Merger Collaboration (MC^2) has been created to study mergers in the context of alternative dark matter models. I will end in outlining this project.
+
+
+==============================================================================
+
+> Date: Mon, 3 Dec 2012 10:50:56 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Colloquium
+
+#############################################
+                    NTHU
+            Astronomy Colloquium
+#############################################
+
+      2:20 p.m. 7th Dec. 2012 (Friday)
+        NTHU Physics Building, Rm 620
+
+      Speaker: Tao-Chung Ching
+                (NTHU)
+
+  Title: Modeling Magnetic Fields in Protostellar Cores
+        from Interferometeric Polarization Measurements
+
+      Tea/Discussion Time is followed in the same room.
+                  All Welcome !!
+
+Abstract:
+We compare high-angular resolution observations of submillimeter
+dust polarization of NGC1333 IRAS 4A with empirical density and
+magnetic field models in protostellar cores. With the assumptions of
+constant dust property and small dust alignment efficiency, we compute
+the Stokes I,Q, and U maps of the empirical models and convolve them with 
+interferometer responses to generate polarization maps. The best-fit
+density model is obtained with comparisons of modeled and observed Stokes 
+I visibilities, and the goodness of magnetic field models is evaluated by 
+the residuals between the polarization angles on the modeled and
+observed maps. The effects of viewing angle are also tested in our 
+simulations. Our results show that hourglass structures alone
+cannot reproduce the depolarization effect in NGC1333 IRAS 4A if the 
+inclination angle is indeed as small as what have been inferred
+from the outflow line-of-sight velocity and proper motions. Our analysis 
+suggests that the magnetic fields of NGC1333 IRAS 4A might have
+an hourglass structure at scales of few hundred AU along with a smaller 
+toroidal component around the protostars. The modified field geometry is 
+in agreement with the theoretical expectation of rotating magnetized
+collapsing cores.
+
+==============================================================================
+
+> Date: Tue, 4 Dec 2012 22:40:38 +0800  
+> From: Hung-Chin Lin <hclin@gm.astro.ncu.edu.tw>        
+> To: kuan
+> CC: Yuji Urata <yjurata@gmail.com>
+> Subject: Fwd: Lulin One-meter Telescope (LOT) Call for Observing Proposals for 2013A 
+
+Dear Prof. Kuan,
+
+Would you please distribute this to TAN ?
+Thank you very much.
+
+
+
+Best,
+Hung-Chin Lin
+
+---------- Forwarded message ----------
+
+Dear colleague,
+
+This is to announce the opening of Call for Proposals
+for the Lulin One-meter Telescope open use semester 2013A.
+from 2013 February 1 through 2013 July 31.
+
+  Proposal Deadline 23:59 December 29  2012
+
+The Lulin One-meter Telescope (LOT) solicits observing proposals for the
+semester of 2013A.  The new semester begins on 1 February 2013 and ends
+on 31 July 2013.
+
+Those interested in applying for observing time can download the
+proposal LaTex package from the web page:
+
+  http://eafon.astro.ncu.edu.tw/lulinprop/lotprop.tar.gz
+
+The completed proposal should contain the filled and compiled version
+of the LaTex file (in PDF or PS format), plus up to two PDF pages of
+scientific justification including figures, tables, and references.
+The proposal (cover form and 2-page of scientific case) should be
+submitted to the following email address:
+
+  lottac@eafon.astro.ncu.edu.tw
+
+with a copy to me to avoid occasional erroneous delivery:
+
+  urata@astro.ncu.edu.tw
+
+Please note that in addition to research proposals, we also accept
+educational programs for astronomical observation courses.
+Time allocation will be announced by mid-January, 2013.
+
+The Observatory management pays particular attention to the scientific
+products by our facilities. So if you have used the LOT before, please
+fill in the status of the data, and any publications as results of any
+LOT data.  The publication list is summarized at
+
+http://lulin.ncu.edu.tw/Research/index.htm
+
+If you have any updates from your previous observations, please list
+up the complete list.  If no information is forthcoming, the TAC will
+assume that no progress has been made and will take this into
+consideration in allocation of observing time.  If your program is
+continuous one, please do NOT forget to mention about the status of
+the project and publication plans.
+
+As usual, there will be three instruments available, the Lulin CCD
+Imager (LCI), the Lulin Compact Spectrograph (LCS), and TRIPOL, a
+simultaneous tricolor (g', r', i') imaging polarimeter.  At the time
+of this announcement, TRIPOL is being shaked down and characterized.
+Those who are interested in the specs of any of these instrument
+should contact Prof. Wen Ping Chen.  You can follow this url to get
+information regarding the telescope and instruments,
+
+  http://www.lulin.ncu.edu.tw/lot/
+
+To ensure the capabilities of LOT and instruments, you can also refer
+the previous publications with LOT listed in the following URL.
+
+If you have any questions or problems regarding the preparation of the
+proposals, please contact
+Instrumentation/Telescope/Instrumentation queries Mr. Hunag-Chin Lin
+Scientific queries Yuji Urata
+
+Regards,
+
+Yuji Urata
+on behalf of the LOT Time Allocation Committee
+
+---------------------------------- 
+
+Regards, 
+ｪLｧｻｴﾜ Hung-Chin Lin 
+hclin@astro.ncu.edu.tw
+Lulin Observatory, Institute of Astronomy 
+National Central University 
+(http://www.lulin.ncu.edu.tw) 
+LuLin obs. Phone# 0910-267-184 
+IANCU phone# 03-427-8445
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

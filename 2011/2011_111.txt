@@ -1,0 +1,285 @@
+From astro@iaa17.asiaa.sinica.edu.tw Fri Jul 22 19:02:06 2011
+Date: Fri, 22 Jul 2011 18:57:42 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jul 15 - 22, 2011)
+
+============================================================================== 
+
+In this issue (Jul 15 - 22, 2011)
+
+1. ASIAA Colloquium (Jul 22): Hsiang-Hsu Wang (ASIAA)
+2. PhD Positions: IMPRS for Astronomy and Astrophysics - 2nd call
+3. next SPICA Taiwan meeting (July 29)
+
+==============================================================================
+
+> Date: Sun, 17 Jul 2011 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium talk this week
+> From: Tzu-Ching Chang<tcchang@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:	Dr. Hsiang-Hsu Wang (ASIAA)
+Topic:		Evidence for Radial Inflow in the Extended HI Disk of M83
+Time:		7/22 (Friday) 14:00 - 15:00
+Place:		ASMAB R1203
+Abstract:
+Numerical simulations as well as indirect observational evidence suggest that
+typical spiral galaxies are still accreting gas from the cosmic web even at
+present days. However, the corresponding mass flow onto the outer disk and the
+subsequent inward transport of material has not been observed directly. We
+combine interferometric data from the VLA (obtained as part of the THINGS
+survey) as well as single dish data from the 100m Effelsberg telescope to
+trace the distribution of atomic hydrogen (HI) far into the outskirts of the
+nearby spiral galaxy M83. We use these data to search for evidence of gas
+accretion of extragalactic origin onto the HI disk of M83. Using a novel
+Fourier analysis approach we extract detailed information about the gas
+kinematics throughout the HI disk of M83. We find a radial mass flow all the
+way from the extreme outer disk to the inner parts of the galaxy where the gas
+is consumed by star formation. The amount of material that is transported
+inwards is sufficient to form new stars at the observed current rate of
+~ 2.5 Msun/yr, allowing the galaxy to evolve in a quasi steady
+state. For the first time, we can show that gas accretion and large-scale
+radial motions can solve the problem of short gas depletion times in spiral
+galaxies.
+
+==============================================================================
+
+> From wenpchen@gmail.com Mon Jul 18 23:50:09 2011
+> Date: Mon, 18 Jul 2011 23:49:57 +0800
+> Subject: Fwd: PhD Positions: IMPRS for Astronomy and Astrophysics - 2nd call
+> From: Wen-Ping Chen <wchen@astro.ncu.edu.tw>
+> To: IANCU All <asall10@astro.ncu.edu.tw>,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+---------- Forwarded message ----------
+> From: Emmanouil Angelakis <angelaki@mpifr-bonn.mpg.de>
+> Date: 2011/7/18
+> Subject: PhD Positions: IMPRS for Astronomy and Astrophysics - 2nd call
+> To: wchen@astro.ncu.edu.tw
+
+Dear Colleague,
+
+
+Here follows the Call for Applications to the PhD Program of the
+International Max Planck
+Research School (IMPRS) for Astronomy and Astrophysics at the Universities
+of Bonn and
+Cologne.
+
+I would be grateful if you could circulate it to those who might be
+interested and post it
+at your institute. An official poster can be downloaded at:
+http://www.mpifr-bonn.mpg.de/pdf/imprs_2011.pdf
+
+
+Best regards
+
+Dr. Emmanouil (Manolis) Angelakis
+Coordinator of IMPRS for Astronomy and Astrophysics at
+the Universities of Bonn and Cologne
+
+Max-Planck-Institut fuer Radioastronomie, Auf dem Huegel 69, Bonn
+53121, DE, tel: +49 (0)228 525 217, fax: +49 (0)228 525 229
+-------------------------------------------------------------------------
+
+          INTERNATIONAL MAX PLANCK RESEARCH SCHOOL (IMPRS)
+                   FOR ASTRONOMY AND ASTROPHYSICS
+              AT THE UNIVERSITIES OF BONN AND COLOGNE
+
+                    PhD POSITIONS IN ASTRONOMY
+
+                       Call for Applications
+
+                *** Deadline: November 15, 2011 ***
+
+                        www.mpifr.de/imprs
+
+
+PLEASE DOWNLOAD AND POST THIS CALL FOR APPLICATIONS, AT:
+http://www.mpifr-bonn.mpg.de/pdf/imprs_2011.pdf
+
+
+General:
+
+The International Max Planck Research School (IMPRS) for Astronomy and
+Astrophysics, is
+funded by the German Max Planck Society and is operated by the Max-
+Planck-Institut fu=CC=88r
+Radioastronomie (MPIfR) in collaboration with the Argelander-Institut fu=CC=
+=88r
+Astronomie
+(AIfA) of the University of Bonn and the I. Physikalisches Institut at the
+University of
+Cologne.  It offers three-year financed PhD courses.  The official language
+is
+English. Currently it hosts roughly 40 students from 17 countries around th=
+e
+world.
+
+
+Fields of Research:
+
+The IMPRS for Astronomy and Astrophysics offers a broad spectrum of topics
+in
+observational and theoretical, galactic and extragalactic astrophysics,
+observational and
+theoretical cosmology, fundamental physics with astronomical tools and
+instrumentation.
+Some examples:
+
+AGN Astrophysics =E2=80=93 Structure and Kinematics of AGN Jets =E2=80=93 E=
+xtragalactic
+Relativistic Flows
+=E2=80=93 Multi-band Blazar Astrophysics =E2=80=93 Multi-frequency AGN Pola=
+rimetry =E2=80=93 VLBI
+Studies of AGNs
+=E2=80=93 Infrared Interferometry of Disks and Jets of Young Stars =E2=80=
+=93 Protoplanetary
+Disks =E2=80=93
+Radiative Transfer Modeling =E2=80=93 Galactic Masers =E2=80=93 Infra-Red I=
+nterferometry of
+AGN =E2=80=93
+Gravitational Lensing =E2=80=93 Galactic and Extragalactic Magnetic Fields =
+=E2=80=93 High
+Precision
+Astrometry =E2=80=93 Stellar Astrophysics and Stellar Evolution =E2=80=93 S=
+upermassive
+Binary Black Holes
+in AGN =E2=80=93 Stellar Population Studies =E2=80=93 Astro-chemistry =E2=
+=80=93 Galactic Dynamics =E2=80=93
+Binary Pulsars
+=E2=80=93 Neutron Stars =E2=80=93 Experimental tests of gravity =E2=80=93 T=
+ransient Radio Sky =E2=80=93
+Faraday Galaxy
+Tomography =E2=80=93 Radio Pulsars =E2=80=93 Gravitational Wave Detection w=
+ith Pulsar Timing
+=E2=80=93 Stellar
+Custer Dynamics =E2=80=93 Dark Matter =E2=80=93 Galactic Center Studies.
+
+Besides the expertise in radio astronomy of the MPIfR the IMPRS for
+Astronomy and
+Astrophysics provides the opportunity for scientific activity in almost all
+fields of
+contemporary astrophysics, techniques and energy bands. Some examples of
+possible topics
+can be found at: http://www.mpifr.de/old_mpifr/imprs/projects/
+However, it is recommended that the local scientists are contacted for more
+details.
+
+
+Training:
+
+The IMPRS for Astronomy and Astrophysics offers a competitive PhD program o=
+n
+the basis of
+a tightly structured curriculum, including:
+
+=E2=80=A2 Advanced lectures on fundamental astrophysical fields
+=E2=80=A2 Soft skill seminars (e.g. presentation skills, time management, s=
+cientific
+reading)
+=E2=80=A2 Weekly students seminars
+=E2=80=A2 Annual, =E2=80=9Cstudents-only=E2=80=9D workshop where they devel=
+op team activities aside
+from their
+ main research interests
+=E2=80=A2 Colloquia at the three hosting institutions given by experts from=
+ all over
+the globe
+=E2=80=A2 University courses
+=E2=80=A2 Thesis committees monitor the progress of each student and provid=
+e
+scientific feedback
+ to the PhD course
+
+Furthermore, the students are strongly encouraged and funded to travel to
+international
+schools, conferences and the best observing facilities around the world.
+They are exposed
+to the most advanced techniques and methods using state-of-the-art
+earth-bound or space
+observatories, such as the unique 100-m radio telescope in Effelsberg and
+the most
+advanced instruments in millimeter, sub-millimeter and high-energy bands,
+such as the APEX
+12 m telescope, the Large Binocular Telescope and many more.
+
+
+Application Procedure:
+
+The call for applications is open until November 15, 2011. Encouraged to
+apply are
+students with a M.Sc. degree or diploma (including a written thesis) in
+Physics or closely
+related subjects. Solid astrophysical background is highly favored.
+
+All the details for application and admission can be found at the IMPRS
+website:
+http://www.mpifr.de/english/IMPRS/applicationAdmission/index.html
+
+IMPRS
+Max-Planck-Institut f=C3=BCr Radioastronomie
+Auf dem H=C3=BCgel 69
+D-53121 Bonn, Germany
+
+Tel. +49 228 525 456
+Fax. +49 228 525 229
+imprs@mpifr-bonn.mpg.de
+
+IMPRS Speaker    : Prof. Dr. J. Anton Zensus
+IMPRS Coordinator: Dr. Emmanouil Angelakis
+IMPRS Secretary  : Mrs Simone Pott
+
+NOTE: In special cases and after agreement with the corresponding
+scientists, applications can be processed before the normal deadline.
+
+
+---------------------------------------------------------------------------
+                       IMPRS for Astronomy and Astrophysics
+---------------------------------------------------------------------------
+
+==============================================================================
+
+> From: Hiro Takami <hiro@asiaa.sinica.edu.tw>
+> Subject: next SPICA Taiwan meeting (July 29)
+> Date: Tue, 19 Jul 2011 11:47:14 +0800
+> To: riaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+
+Dear friends who are interested in SPICA,
+
+We will organize the next SPICA Taiwan meeting at July 29 (Fri) 10:30-15:00 at R1203,
+in ASIAA. The agenda will be as follows:-
+
+1. More detailed discussion for possible contribution we can make:-
+    As summarized before, these include software, testing the entire instrument, commissioning
+    and operation, and data center. At the next meeting Yoichi will explain these kinds of things
+    for the former Japanese IR mission, Akari.
+
+2. Organizing a workshop for Taiwan and Japan
+
+3. Possible grant application
+
+Shiang-Yu Wang, Yoichi Ohyama, Hiro Takami (ASIAA)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

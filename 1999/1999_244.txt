@@ -1,0 +1,652 @@
+From kyl@asiaa.sinica.edu.tw Mon Nov 22 09:00 CST 1999
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA13177
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 22 Nov 1999 08:59:40 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id IAA04326
+	for <astro@asiaa.sinica.edu.tw>; Mon, 22 Nov 1999 08:59:20 +0800
+Date: Mon, 22 Nov 1999 08:55:32 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: 2nd Announcement star2000 Conference (fwd)
+Message-ID: <Pine.SOL.4.10.9911220855300.17280-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 23963
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Sun, 21 Nov 1999 20:37:40 +0100 (CET)
+From: star2000 conference <star2000@ari.uni-heidelberg.de>
+To: hopp@usm.uni-muenchen.de, horellou@oso.chalmers.se, hos@burro.astr.cwru.edu,
+     hroussel@cea.fr, hspark@knuecc-sun.knue.ac.kr, hsz@strw.LeidenUniv.nl,
+     hxb@mpe-garching.mpg.de, hzinnecker@aip.de, iberent@uni-sw.gwdg.de,
+     ibold@rus.uni-stuttgart.de, igk@physic.vgu.tsaritsyn.su,
+     iivans@astro.as.utexas.edu, iodice@sissa.it, isabel@iaa.es,
+     j.binney1@physics.oxford.ac.uk, ja@astro.ku.dk, jablonka@obspm.fr,
+     jacco@ast.cam.ac.uk, jansen@astro.rug.nl, jansen@cfa0.HARVARD.EDU,
+     jbouvier@gagax5.obs.ujf-grenoble.fr, jcampbell@kuestner.geod.uni-bonn.de,
+     jd@orca.astro.washington.edu, Jean-Claude.Mermilliod@obs.unige.ch,
+     jean-louis.prieur@obs-mip.fr, jean@cesr.fr, jeb@iac.es,
+     jeg@astro.princeton.edu, jhibbard@nrao.edu, jhurley@ast.cam.ac.uk,
+     jhurley@mail.ast.cam.ac.uk, johan@astro.lu.se, John.Kirk@mpi-hd.mpg.de,
+     jordi@mizar.am.ub.es, jorpega@alumni.uv.es, jrp@nofs.navy.mil,
+     jsanner@astro.uni-bonn.de, jsg@astro.wisc.edu, jsg@tiger.astro.wisc.edu,
+     jsolanes@etse.urv.es, just@ari.uni-heidelberg.de,
+     K.Wilke@lsw.uni-heidelberg.de, kawaguch@chianti.c.u-tokyo.ac.jp,
+     kawai@tache.c.u-tokyo.ac.jp, kawata@astr.tohoku.ac.jp, kcf@mso.anu.edu.au,
+     kegel@astro.uni-frankfurt.de, kessel@mpia-hd.mpg.de,
+     kfricke@uni-sw.gwdg.de, khalisi@ari.uni-heidelberg.de,
+     king@glob.berkeley.edu, kinman@noao.edu, kleinsch@astrophysik.uni-kiel.de,
+     klessen@strw.strw.LeidenUniv.nl, knapen@star.herts.ac.uk,
+     kodajn@cc.nao.ac.jp, koppen@newb6.u-strasbg.fr,
+     kormendy@hale.IfA.Hawaii.Edu, kranz@mpia-hd.mpg.de, krona@astro.unibas.ch,
+     kugel@mp-sun1.informatik.uni-mannheim.de, kuijken@astro.rug.nl,
+     kunth@iap.fr, kyl@asiaa.sinica.edu.tw, kylafis@physics.uch.gr,
+     lancon@newb6.u-strasbg.fr, langlois@edelweiss.obspm.fr, lanzoni@iap.fr,
+     lars@ucolick.org
+Subject: 2nd Announcement star2000 Conference
+
+
+   ***************  S E C O N D  A N N O U N C E M E N T  ***********
+
+                            *-----------------*
+                            |                 |
+                            |    STAR2000     |
+                            |                 |
+                            *-----------------*
+             
+                ON THE EVENT OF THE 300th-YEAR ANNIVERSARY
+                          OF THE 'KALENDER PATENT'
+
+   ***************      C A L L  F O R  P A P E R S       ***********
+
+
+              ``Dynamics of Star Clusters and the Milky Way''
+
+                                subtitled:
+
+         The challenges for stellar dynamics, computing, and observations
+                    of the Milky Way, star clusters,
+               and dense stellar systems in galactic nuclei
+
+      International Spring Conference of the ``Astronomische Gesellschaft''
+                    (Internationale AG Fruehjahrstagung)
+
+            Astronomisches Rechen-Institut Heidelberg, Germany
+
+                   http://www.ari.uni-heidelberg.de
+
+                            March 20-24, 2000
+                            -----------------
+
+     Venue: Im Neuenheimer Feld Campus, University of Heidelberg.
+
+     Please forward this email to anyone interested. The contents of this
+     announcement are as follows:
+
+      1- Programme and speakers
+      2- Contributed papers
+      3- Registration fees
+      4- Accommodation
+      5- Social events
+      6- Deadlines
+      7- Contacts
+      8- Forms: registration, payment, macro for abstracts
+
+     For the Local Organising Committee: B. Fuchs & R. Spurzem (Chairs)
+     For the Scientific Organising Committee: R. Wielen (Chair)
+
+
+     Contact address: B. Fuchs and R. Spurzem
+                      Astronomisches Rechen-Institut (ARI)
+                      Moenchhofstrasse 12-14
+                      69120 Heidelberg, Germany
+     Phone: +49-6221-405-0 (switchboard)
+                        -126 (B. Fuchs)
+                        -230 (R. Spurzem)
+     Fax:   +49-6221-405-297
+     Email: star2000@ari.uni-heidelberg.de      (All Inquiries)
+            register@ari.uni-heidelberg.de      (Registration Forms)
+            abstract@ari.uni-heidelberg.de      (Latex Abstracts)
+
+     WebPages: http://www.ari.uni-heidelberg.de/star2000/
+
+     Registration: via above webserver after Nov. 25, 1999 possible
+
+     Scientific Organising Committee:
+     --------------------------------
+      Athanassoula, Binney, Combes, Danilov, Freeman, Genzel, Gerhard, Giersz,
+      Heggie, Hensler, Hut, King, Makino, McMillan, Merritt, Meylan, Richstone,
+      Rix, Sellwood, Tremaine, Wielen (Chair)
+
+     Local Organising Committee:
+     ---------------------------
+      Bastian, Bien, Boily, Burkert*, Deiters, Fuchs (Chair), Hemsendorf,
+      Jahreiss, Just, Kroupa**, M=F6llenhoff***, Samland, Spurzem (Chair),
+      Wielen
+
+      * = Max Planck Institut fuer Astronomie Heidelberg
+      **= Institut fuer Theoretische Astrophysik Heidelberg
+      ***=Landessternwarte Heidelberg
+      others=Astronomisches Rechen-Institut
+
+
+  1- PROGRAMME AND REVIEW SPEAKERS
+  ================================
+
+     The programme consists of a number of review talks (45 minutes
+     including discussion), shorter invited or contributed talks
+     (30 minutes including discussion) and poster contributions. The
+     posters will be highlighted by poster sessions and included in
+     the proceedings. At the present moment only the review speakers
+     programme has been fixed as follows:
+
+     (a) Star clusters, dense stellar systems, N-body simulations
+         --------------------------------------------------------
+
+     Covering pure and applied stellar dynamics, effects of mass loss,
+     rotation, stellar evolution, internal kinematics, applications to
+     galactic nuclei star clusters, hardware and software development
+
+     Review Speakers:
+
+     Ken Freeman (Mt Stromlo, Australia): Internal Motions in Omega Centauri:
+                                          Proper Motions & Radial Velocities
+
+     Douglas Heggie (Edinburgh, UK): Mass Loss from Globular Clusters
+
+     Ivan King (Berkeley, USA): Internal Motions in Globular Clusters
+
+     Doug Lin (Santa Cruz, USA): Formation of Stellar Clusters
+
+     Donald Lynden-Bell (Cambridge, UK): Statistical Dynamics and Kinematics of
+                                         Globular Clusters
+
+     Junichiro Makino (Tokyo, Japan): Direct Simulation of Dense Stellar
+                                      Systems with GRAPE-6
+
+     Rainer Spurzem (Heidelberg, Germany): Rotation and Relaxation in Dense
+                                           Star Clusters & Galactic Nuclei
+
+     (b) Solar neighbourhood
+         -------------------
+
+     Covering the local galactic potential, mass function and kinematics
+     of the solar neighbourhood, galactic evolutionary effects probed locally
+
+     Review Speakers:
+
+     Olivier Bienayme (Strasbourg, France): The galactic potential in the solar
+                                            neighbourhood
+
+     Pavel Kroupa (Heidelberg, Germany): The Initial Mass Function
+
+     Burkhard Fuchs (Heidelberg, Germany): The evolution of the Milky Way
+                                           monitored in the solar neighbourhood
+
+     (c) Structure of the Milky Way
+         --------------------------
+
+     Covering the Galaxy's satellites, the disk, bulge, halo connection, the
+     centre of the Galaxy.
+
+     Review Speakers:
+
+     James Binney (Oxford, UK): The Dynamics of the Galaxy's Satellites
+
+     Bruce Carney (North Carolina, USA): Evidence for mergers in the history of
+                                         the Milky Way
+
+     Gilles Chabrier (Lyon, France): Stellar and sub-stellar mass content in
+                                     the Galaxy
+
+     Ortwin Gerhard (Basel, Switzerland): Structure and dynamics of the
+                                          Galactic bulge and disk
+
+     Reinhard Genzel (Garching, Germany): The nuclear star cluster and the
+                                          massive black hole in the centre of
+                                          the Milky Way
+
+     Gerry Gilmore (Cambridge, UK): Surveys of old stars in the Milky Way
+                                    - the halo/thick disk boundary
+
+     Jerry Sellwood (Rutgers, USA): Resonant scattering of stars by spiral
+                                    waves
+
+  2- CONTRIBUTED PAPERS
+  =====================
+
+      Participants are invited to present poster papers. The SOC will select
+      some of these for contributed oral presentations (30 minutes duration
+      including discussion). Ample space will be available for poster 
+      presentations. Posters will receive special attention by
+      reserved space in the plenary programme for poster sessions.
+
+      Proceedings will be published after the conference at a well-established
+      publisher. It is our aim to provide two pages space in the
+      proceedings for every poster. While we want to select and highlight
+      invited short and review talks, it is our policy to be as open as
+      conference organisation allows in the acceptance policy of participants
+      and contributions.
+
+      The abstracts of all posters, contributed and invited talks will
+      be published in the Astron. Ges. Abstract Series. Please use the
+      special LaTeX-Template Macro for that purpose which can be downloaded
+      from http://www.ari.uni-heidelberg.de/star2000/agabstract.tex .
+      The deadline for abstract submission is January 20, 2000, in order
+      to have the abstract booklet ready at the time the conference starts.
+
+
+      THE DEADLINES FOR RECEIVING ABSTRACTS
+         - TO BE CONSIDERED FOR ORAL PRESENTATION:   DECEMBER 17, 1999.
+         - TO BE INCLUDED IN THE ABSTRACT BOOK:      JANUARY  20, 2000
+
+      After Dec 17, 1999, a compile and review procedure by the SOC will
+      begin and result in a preliminary programme including ALL talks 
+      before the January 20, 2000, deadline. We will make every effort
+      that all applicants will know before January 20, 2000, whether their
+      contribution is accepted for oral presentation or not.
+
+  3- REGISTRATION
+  ===============
+
+     You are strongly encouraged to register via the web registration form
+     which is available at the conference website 
+
+         http://www.ari.uni-heidelberg.de/star2000
+
+     NOTE: The registration procedure in our webserver is just under 
+     construction. It is expected to work safely after Nov. 25, 1999.
+     If you do not have access to the web, you may use instead the e-mail
+     registration form available at the end of this announcement.
+     This form should be mailed to
+
+     register@ari.uni-heidelberg.de.
+
+     The deadline for registration and submitting the abstracts is January 20,
+     2000. The registration fee includes a copy of the proceedings and the
+     participation at the conference banquet. We plan to cover the
+     conference excursion also from the registration fee, but the details
+     can only be given at the time of the final announcement.
+
+                                 early payment        late payment
+                              until Jan. 20, 2000     after Jan. 20, 2000
+
+                                       DM 350,-         DM 400,-
+
+   Astronomische Gesellschaft members     300,-            300,-
+
+                              students    100,-            150,-
+
+   All credit card payments add            10,-           not available
+
+   We request proof of student status (enclosed with the credit card payment
+   form if paying by credit card, or at the conference registration desk,
+   if paying otherwise).
+   Note that credit card payments are ONLY available for those participants
+   which have to do the money transfer from abroad. The forms of payment
+   are:
+
+   i) bank transfer to (only from inside Germany please):
+
+   Recipient/Empfaenger: Ruprecht-Karls-Universitaet Heidelberg
+   Bank, Konto:          Sparkasse Heidelberg, Konto 21911, BLZ 672 500 20
+   Text:                 ARI Kap. 1497, BA 8527, star2000
+
+   (Note: the last line has to be present as a comment, in order to make
+    sure the money is booked to the correct sub-account).
+
+   ii) credit card payment by Visa or Master/Eurocard using the 
+       attached CREDIT CARD FEE PAYMENT FORM 
+       (it can be downloaded as well as a ps-file
+       from http://www.ari.uni-heidelberg.de/star2000/payment.ps ).
+
+       The CREDIT CARD FEE PAYMENT FORM has to be downloaded or printed,
+       filled out properly, signed, and then sent by FAX or regular mail
+       (for fax number or address see header of this announcement).
+
+       NOTE: CREDIT CARD FEE PAYMENT CAN ONLY BE ACCEPTED IF YOU CANNOT DO
+       A NATIONAL BANK TRANSFER AS ABOVE AND ONLY FOR EARLY PAYMENT
+       UNTIL JANUARY 20, 2000, AND IF WE RECEIVE A PROPERLY FILLED AND SIGNED
+       PAYMENT FORM. We regret that we have to ask for a supplement of DM 10,-
+       as a contribution towards the fee for credit card processing.
+
+   iii) CASH AND ONLY CASH in German Mark at the time of registration at the 
+       conference. 
+
+
+  4- ACCOMMODATION
+  ================
+
+      The conference will start on Sunday, Mar 19, 2000 with a welcome
+      reception. The scientific programme starts Monday, Mar 20, 2000, 9.00 a.m.
+      and end at Friday, Mar 24, 2000, 5.30 p.m. Note that this may
+      be slightly changed due to program requirements, but it should give
+      you a hint for your hotel booking.
+
+      Hotel booking should be directly arranged with
+
+      Verkehrsverein Heidelberg
+      Postfach 105860
+      69048 Heidelberg
+      Germany
+
+      Phone +49 6221 1422 23
+      FAX   +49 6221 1422 22
+      e-mail cvb@heidelberg.de
+
+      You may book via the web using the web-site
+
+      http://www.heidelberg.de/verkehrsverein/                   (German)
+      http://www.heidelberg.de/verkehrsverein/english/index.html (English)
+
+           **Please give in any case the code word STAR2000!**
+
+      Youth hostel booking is also possible directly via FAX  +49 6221 402559
+      1 night including breakfast costs about DM 20,-
+
+      The deadline for hotel booking is February 12, 2000. For the youth hostel
+      you should book as early as possible. Hotel prices range from DM 90,- to
+      DM 300,- per night including breakfast.
+
+  5- SOCIAL EVENTS
+  ================
+
+      Welcome reception:
+
+      The welcome reception will be held on Sunday, March 19 from 6pm-10pm.
+      The registration desk will be opened during that time.
+
+      Excursion and conference banquet:
+
+      On 22 March (Wednesday) afternoon there will be an excursion to some
+      nice places followed by the conference banquet.
+
+      Note that the conference fee should include most of the cost for
+      these social events. Please understand that we can give exact details
+      only at a later stage of the planning (final announcement in spring
+      2000).
+
+  6- DEADLINES
+  ============
+
+      abstract submisson for oral contributions   December 17, 1999
+
+      registration and abstract submission        January 20, 2000
+
+      early payment of fee                        January 20, 2000
+
+      hotel booking                               February 12, 2000
+
+  7- CONTACTS
+  ===========
+
+      Contact address: B. Fuchs and R. Spurzem
+                      Astronomisches Rechen-Institut (ARI)
+                      Moenchhofstrasse 12-14
+                      69120 Heidelberg, Germany
+      Phone: +49-6221-405-0 (switchboard)
+                        -126 (B. Fuchs)
+                        -230 (R. Spurzem)
+      Fax:   +49-6221-405-297
+      Email: star2000@ari.uni-heidelberg.de
+
+      WebPages: http://www.ari.uni-heidelberg.de/star2000/
+
+      There will be a 3rd (final) Announcement offering all detailed information
+      necessary for your journey to Heidelberg.
+
+
+  8- FORMS
+  ========
+
+     (a) Email Registration Form
+         ------------------------
+
+      Please try to register using the registration form available at our
+      website:
+      http://www.ari.uni-heidelberg.de/star2000.
+
+      If you are unable to register via the website, you may fill out the form
+      below and return it by email to:
+
+           register@ari.uni-heidelberg.de
+
+      Abstract Deadline: December 17, 1999 for oral contributions
+      Abstract Deadline: January 20, 2000
+      Early Registration fee Deadline: January 20, 2000
+
+      Send your abstract using the enclosed LaTeX-template to:
+
+           abstract@ari.uni-heidelberg.de
+
+-------------- cut here ------------------------- cut here-----------------=
+----
+
+          ***********************************************
+            DYNAMICS OF STAR CLUSTERS AND THE MILKY WAY
+                             STAR2000
+
+    ASTRONOMISCHES RECHEN-INSTITUT HEIDELBERG, 20-24 MARCH 2000
+
+
+                        REGISTRATION FORM
+--------------------------------------------------------------------------------
+
+Last Name:
+First Name:
+Affiliation:
+
+Mailing Address:
+
+
+
+
+Country:
+Phone:
+FAX:
+email:
+
+Are you going to present a paper:  yes/no
+Title of Paper:
+
+Would you like your contributed paper to be considered for an oral
+presentation:    yes/no
+
+
+
+SOCIAL EVENTS:
+
+1) I will probably attend the Reception on Sunday, March 19:   yes/no
+
+2) I will probably attend the Excursion on Wednesday, March 22:   yes/no
+     and the banquet
+
+No additional costs!
+
+ARRIVAL/DEPARTURE INFORMATION
+
+ARRIVAL DATE  : MARCH     ,TIME:
+DEPARTURE DATE: MARCH     ,TIME:
+
+PAYMENT OF CONFERENCE FEE:    bank transfer in Germany     yes/no
+                              credit card payment          yes/no (***)
+                         cash in DM at conference desk     yes/no
+
+(***) Note that credit card payment should be used only by those participants,
+who do not have a  German bank account (so bank transfer in Germany is not
+possible), and ONLY until the early registration deadline January 20, 2000.
+Only for credit card payment it is OBLIGATORY that you please print the
+following CREDIT CARD FEE PAYMENT FORM and fax it or send it by normal
+mail to us.
+
+-------------------------END OF REGISTRATION FORM-------------------------------
+
+
+     (b) CREDIT CARD FEE PAYMENT FORM
+     --------------------------------
+
+-------------CREDIT CARD FEE PAYMENT FORM---------------------------------------
+                         ****************
+
+CREDIT CARD FEE PAYMENT FORM
+STAR2000 CONFERENCE
+ASTRONOMISCHES RECHEN-INSTITUT HEIDELBERG
+MARCH 20-24, 2000
+
+Print this form and return to:
+
+Astronomisches Rechen-Institut
+STAR2000
+Moenchhofstr. 12-14
+69120 Heidelberg
+Germany
+
+by mail or by FAX:  +49 6221 405297
+
+NAME (PLEASE PRINT):
+INSTITUTION:
+FAX:
+
+Choose the correct amount:
+                                                      
+Registration fee: Until  Jan. 20, 2000:   DM 350,-
+                  After  Jan. 20, 2000:   DM 400,-
+                  AG Members              DM 300,-
+                  Students until  Jan.20  DM 100,-
+                  Students after  Jan.20  DM 150,-
+   
+   Your selected amount:                                DM
+                                                        ---------
+   Flat Contribution to Credit Card Fees:               DM  10,-
+                                                        ----------
+   Your payment TOTAL:                                  DM
+                                                        ==========
+
+Credit card (Circle one):   Visa      Eurocard/Mastercard
+Credit card number:
+Credit card expiration date:
+
+The conference organisers are billed with a 3.9 % charge by the
+credit card companies. To ease fee computation and processing we
+kindly ask for your flat contribution of DM 10,- to these fees,
+no matter which exact registration amount you select. If student status
+is claimed its proof will be requested at the time of the conference.
+
+Signature:
+
+Date:
+
+Please note: the above signature line MUST BE SIGNED if you are paying by
+credit card.
+
+---------------------------END OF PAYMENT FORM----------------------------------
+
+---------------------------MACRO FOR THE ABSTRACT-------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%  Macro for the abstract    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%  Abstract  to     abstract@ari.uni-heidelberg.de %%%%%%%%%
+%%%%%  Registration     register@ari.uni-heidelberg.de %%%%%%%%%
+%%%%%  Questions        star2000@ari.uni-heidelberg.de %%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentstyle{article}
+\setlength{\textwidth}{13.76cm}
+\setlength{\textheight}{9.5cm}
+\setlength{\topmargin}{0.0cm}
+\setlength{\headheight}{0.0cm}
+\setlength{\headsep}{0.0cm}
+\setlength{\oddsidemargin}{0.0cm}
+\def\title{\begin{center}\large\bf}
+\def\author(s){\vspace{0.3cm}\normalsize\rm}
+\def\text{\end{center}}
+\def\baselinestretch{0.8748}
+\pagestyle{empty}
+\begin{document}
+
+%%%%%%%%  do not change the preceding lines nor add any line !!%%%%%%%
+
+
+
+%%  There will be printed 1 page (the first one!) 9.5 cm height!
+%%
+%%
+%%  begin of your text
+%%
+
+
+\title
+%% Include title here:
+High Energy Pulsars observed with EGRET on CGRO  %% example
+
+\author(s)
+%% Name ({Institut) \\ coauthors ...
+G. Kanbach (Max-Planck Institut f\"ur Extraterrestrische Physik,
+Postfach 1603, \\85748 Garching, Germany)\\
+R. Schielicke (Universit\"ats-Sternwarte Jena,
+Schillerg\"a\ss chen 2, 07745 Jena, Germany)   %% example
+
+\text
+%%  her followss the text.
+%%  The following text just fits to 1 page!
+%%  Please controll, whether your abstract needs 1 page only.
+Electronic publishing (EP) is considered nowadays as a hot
+subject. A whole colloquium would be necessary to discuss the
+various aspects and to review the situation on the EP front.
+In the limited framework of this paper, a few broad ideas will
+be brought up and basic concepts introduced in order to put EP
+in context. References and access keys for further
+documentation/readings are given in the bibliography.
+
+There will not be much about astronomy itself. However it is
+obvious that the matter at hand will have an enormous impact
+on our life and on the way we do science. The field is in
+permanent evolution. Things that were looking as `wacky' a
+couple of years ago are now part of the common landscape.
+Advances in various fields (telecommunications, technologies,
+methodologies, concepts, sociology, and so on) have to be
+closely followed and one has to be prepared for whatever is
+coming up.
+
+Some astronomy publishers have already made a few steps in the
+direction of EP, but still a lot has to be done if we wish to
+speak of proper/real EP and not only of merely
+computer-assisted traditional publishing or of traditional
+publishing with an electronic mirror.
+
+Not so long ago, we were still using mechanical typewriters,
+talking over noisy telephone lines (sometimes hard to get!)
+and relying on postal services in order to work and publish.
+It might seem we have always lived with electronic mail.
+The omnipresent World-Wide Web (WWW) is only about four years
+old. Four years!
+
+%------------------  End of your entries  ------------------
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%  end of abstract macro     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+

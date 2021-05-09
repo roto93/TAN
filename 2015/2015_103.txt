@@ -1,0 +1,29 @@
+> Date: Thu, 14 May 2015 21:04:35 +0800
+> Subject: NCU Astronomy Colloquium - 2015.05.19
+> From: ChingHua Shen <m1029002@gm.astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+
+*NCU Astronomy Colloquium*
+Speaker: Mr. Howard Chen (Boston University)
+Topic:Modeling Highly Irradiated Very Low Mass Gaseous Exoplanets with
+Stellar Evolution Code MESA
+Time: May 19, 2pm
+Place: S4-1013, NCU
+
+Abstract:
+The discovery of over 4,000 exoplanet candidates has unmasked the
+strangeness of planetary systems in the solar neighborhood. For instance,
+most of the confirmed planets reside in orbital periods of less than 100
+days around their respective host stars, which places them well within the
+orbit of Mercury. In this talk, I present a prescription to expand the
+capabilities of the stellar evolution code Modules for Experimental Stellar
+Astrophysics (MESA) to model gaseous planets in highly irradiated
+environments. I will illustrate how we modified MESA to include planet core
+luminosity, heavy element enrichment, and mass loss due to hydrodynamic
+winds. Using these dynamical models, we then constructed mass-radius
+relationships of planets from 1 to 20 Earth Mass and investigated how
+mass-loss impacts their composition and evolution history. We anticipate
+that this versatile, user-friendly code will see widespread applications in
+complementing future exoplanetary surveys such as *K2*, *TESS* and *PLATO*.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

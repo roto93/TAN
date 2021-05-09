@@ -1,0 +1,74 @@
+From kyl@asiaa.sinica.edu.tw Sat Sep 19 09:48:50 1998
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA25004; Sat, 19 Sep 1998 09:45:56 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from asiaa by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id JAA29660; Sat, 19 Sep 1998 09:43:56 +0800
+Date: Sat, 19 Sep 1998 09:43:56 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@asiaa
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: New MMA Memo (#229) (fwd)
+Message-Id: <Pine.GSO.3.96.980919094354.29649A-100000@asiaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1754
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=======================================================================
+
+---------- Forwarded message ----------
+Date: Fri, 18 Sep 1998 14:14:17 -0600 (MDT)
+From: Kate Weatherall <kweather@arana.aoc.NRAO.EDU>
+To: mma-memos@zia.aoc.NRAO.EDU
+Cc: kweather@cv3.cv.nrao.edu
+Subject: New MMA Memo (#229)
+
+          		MMA Memo 229:
+       		      Some Comments on 		
+   		Instrumental Phase Calibration 
+
+    		A.R. Thompson and D.S. Bagri
+          		18 September 1998
+
+Abstract:
+If we compare the requirements for instrumental stability 
+in the MMA with those for the VLA with which we are familiar, 
+two factors make the MMA case more difficult. 
+(1) The maximum first-LO frequencies are higher by a 
+factor of about 20. (2) Observations will be made with 
+the MMA in which the calibrator measurements are at a different frequency from those of the target source. For example,
+calibrator observations near 86 GHz for target source 
+imaging at, say, 650 GHz, for which certain
+phase errors would require a scaling factor of 7.6. 
+
+From here you can:
+
+View an HTML Version of MMA Memo 229 at
+http://www.mma.nrao.edu/memos/html-memos/mma229/memo229.html
+
+View a PDF version of MMA Memo 229 at
+http://www.mma.nrao.edu/memos/html-memos/mma229/memo229.html
+
+View a PostScript version of MMA Memo 229 at
+http://www.mma.nrao.edu/memos/ftp-memos/mma229.ps
+
+You can also ftp a copy of MMA Memo 229 from
+ftp.aoc.nrao.edu/mma/memos/memo229.ps   or
+ftp.aoc.nrao.edu/mma/memos/memo229.ps.gz
+
+

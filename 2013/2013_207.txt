@@ -1,0 +1,27 @@
+> Subject: Urgent: Cycle 2 Observing Tool Update
+> From: CF Lee <cflee@asiaa.sinica.edu.tw>
+> Date: Tue, 19 Nov 2013 08:47:15 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>, riaa@asiaa.sinica.edu.tw,
+
+Dear Prospective,
+
+  Please check the following line for Cycle 2 OT update.
+
+  http://almascience.nao.ac.jp/news/urgent-cycle-2-observing-tool-update-1
+
+Urgent: Cycle 2 Observing Tool Update
+
+Nov 15, 2013
+
+An update to the OT release for Cycle 2 proposal submission will be released on Monday 18 November. A number of bugs have been discovered since the Call for Proposals and a number of these are addressed in the update. The majority of the bugs are relatively minor, but time estimates for polarization and spectral scan projects are affected. All users should download this update. Web Start users will automatically receive the update upon restarting the OT, whilst the tarball release will require a manual download and subsequent installation.
+
+Users who already submitted proposals may wish to retrieve their projects and check the OT time estimates. For the most part, there will be no change to the initial result. If there is a significant change in the time estimate, users have the option of resubmitting their Cycle 2 proposal with comments or a revised observing strategy. An option is also to leave the submitted proposal as is. The new time estimate will automatically be used in the proposal review.
+
+More details of the fixes are given on the OT's Known Issues page.
+
+Best Wishes,
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+==============================================================================

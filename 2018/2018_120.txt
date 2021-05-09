@@ -1,0 +1,49 @@
+
+> Date: Thu, 9 Aug 2018 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Chien-De Lee (NCU)
+Topic:        Be stars ¡X From PTF to ZTF
+Time:        8/13 (Monday) 12:00 - 13:00
+Place:          R1203
+Abstract:
+Among the stellar spectral classifications, B-type stars are the fastest rotators with a equatorial speed of approximately 100 km/s.  Some of them showing hydrogen emission line, known as Be stars, can rotate even faster, up to the break-up velocity.  The formation of rapid rotation were thought to be part of the evolutionary effect, however, we found the least correlation between the age of the clusters and corresponding Be fraction through Palomar Transient Factory (PTF) project.  In addition to the issue of evolution, Be stars are known variable stars, but mostly they show heterogeneous semi- or non-regular variation.  Here comes Zwicky Transient Facility (ZTF) with a 47 square degree field of view, so the northern sky can be surveyed with high cadence e.g., over two times a night on galactic plan.  Unlike the individual Be stars monitoring, ZTF provides an opportunity window over three years which makes systemic census possible for the photometric variability investigati!
+ons of Be stars in the deeper sky.  Here, we also present the preliminary light curves of Be stars from the ZTF commissioning data.
+
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Mike Alexandersen (ASIAA)
+Topic: 
+Time:        8/15 (Wednesday) 14:20 - 15:20
+Place:          R1203
+
+
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Chia-Hsun Chuang (KIPAC-Stanford/SLAC)
+Topic:        Optimal BAO measurement from galaxies+voids / Robust covariance matrix estimation for clustering measurements
+Time:        8/16 (Thursday) 14:20 - 15:20
+Place:          R1203
+Abstract:
+I would like to talk about our findings regarding how to optimize the Baryon Acoustic Oscillation (BAO) measurements and how to estimate their uncertainties. The results are summarized in two papers :
+
+1) Improving baryon acoustic oscillation measurement with the combination of cosmic voids and galaxies (Zhao, Chuang, et al., arXiv:1802.03990);
+
+2) Robustness of the covariance matrix for galaxy clustering measurements (Baumgarten & Chuang, arXiv:1802.04462).
+
+From paper #1, we find that the BAO measurement can be improved (smaller uncertainty) by > 10% on top of the BAO reconstruction when including the information from voids, i.e. the method increases >20% of survey volume effectively. We have validated the methodology with the final BOSS observed galaxy sample and mock catalogues.
+
+From paper #2, we find the covariance matrix for the 2-point clustering measurement is insensitive to the fiducial cosmology used for generating the mock galaxy catalogues. We obtain the conclusion by generating thousands of mocks with different cosmology models. On the other hand, within the same cosmology model, we find that the covariance matrices for the 2-point clustering statistics are different when varying their higher order statistics. These findings are essential for the data analysis of future surveys.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

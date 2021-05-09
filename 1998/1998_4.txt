@@ -1,0 +1,219 @@
+From kyl@biaa.sinica.edu.tw Mon Jan  5 16:37 CST 1998
+Return-Path: <kyl@biaa.sinica.edu.tw>
+Received: from biaa.sinica.edu.tw by biaa17.biaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA04001; Mon, 5 Jan 1998 16:36:40 +0800
+Received: from localhost by biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id QAA07025; Mon, 5 Jan 1998 16:35:13 +0800
+Date: Mon, 5 Jan 1998 16:35:13 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@biaa.sinica.edu.tw>
+X-Sender: kyl@biaa
+To: TANet <astro@biaa17.biaa.sinica.edu.tw>
+Subject: COSPAR E1.1 (fwd)
+Message-Id: <Pine.GSO.3.96.980105163437.6415D-100000@biaa>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 11952
+Status: R
+
+
+For anyone interested in submitting a paper to the following meeting,
+Jan 9 is the deadline.
+
+KYL
+
+---------- Forwarded message ----------
+Date: Mon, 05 Jan 1998 16:21:41 +0900
+From: Makoto Tashiro <tashiro@amalthea.phys.s.u-tokyo.ac.jp>
+To: linda@hethp.mpe-garching.mpg.de, lin@egret0.stanford.edu,
+        jbraatz@cfa.harvard.edu, gfabbiano@cfa.harvard.edu,
+        jhuchra@cfa.harvard.edu, wbrandt@cfa.harvard.edu,
+        mcrosas@cfa.harvard.edu, lgreenhill@cfa.harvard.edu,
+        jherrnstein@cfa.harvard.edu, lho@cfa.harvard.edu, pho@cfa.harvard.edu,
+        jmmoran@cfa.harvard.edu, mreid@cfa.harvard.edu,
+        jvrtilek@cfa.harvard.edu, melvis@cfa.harvard.edu,
+        pgreen@cfa.harvard.edu, rnarayan@cfa.harvard.edu,
+        swillner@cfa.harvard.edu, jzhao@cfa.harvard.edu,
+        rmahadevan@cfa.harvard.edu, kmcleod@cfa.harvard.edu,
+        reb@card.haystack.edu, cjl@card.haystack.edu, alex@astron.Berkeley.EDU,
+        itziar@MPA-Garching.MPG.DE, lee@mop.caltech.edu, jbaldwin@noao.edu,
+        mphillips@noao.edu, ajb@astro.caltech.edu, abarth@astron.Berkeley.EDU,
+        pdb@astro.rug.nl, contini@wise1.tau.ac.il, mcorbin@as.arizona.edu,
+        tcour@scsun.unige.ch, mad@madras.anu.oz, mce@beast.berkeley.edu,
+        pepi@cfa249.harvard.edu, hfalcke@mpifr-bonn.mpg.de,
+        genzel@mpeis1.mpe-garching.mpg.de, keel@bildad.astr.ua.edu,
+        kenney@sparx.astro.yale.edu, kinney@stsci.edu, baum@stsci.edu,
+        koratkar@stsci.edu, kormendy@ifa.hawaii.edu,
+        kunieda@hayakawa.u.phys.nagoya-u.ac.jp, kyl@astro.uiuc.edu,
+        malkan@bonnie.astro.ucla.edu, dani@wise1.tau.ac.il, pmc2@ociw.edu,
+        miller@helios.ucolick.org, edhead@jester.berkeley.edu,
+        peterson@payne.mps.ohio-state.edu, pogge@payne.mps.ohio-state.edu,
+        ptak@neutron.gsfc.nasa.gov, REICHERT@ndadsa-f.gsfc.nasa.gov
+To: dor@umich.edu, rix@as.arizona.edu, jbechtold@as.arizona.edu,
+        wws@deimos.caltech.edu, shields@helios.phy.ohiou.edu,
+        vandyk@jean.astro.ucla.edu, amiel@wise1.tau.ac.il,
+        terasima@hayakawa.u.phys.nagoya-u.ac.jp, rjt@ast.cam.ac.uk,
+        tran@ucolick.org, turner@bonnie.astro.ucla.edu, rjw@ociw.edu,
+        belinda@head-cfa.harvard.edu, wilson@astro.umd.edu, faber@ucolick.edu,
+        LAUER@noao.edu, carl@grandpa.jpl.nasa.gov, dressler@ociw.edu,
+        tremaine@astro.Princeton.Edu, gebhardt@ucolick.EDU, ajhar@noao.edu,
+        magorria@cita.utoronto.ca, bender@usm.uni-muenchen.de, rgreen@noao.edu,
+        gbower@noao.edu, aalonso@as.arizona.edu, ski@ginger.physics.ucsb.edu,
+        becklin@bonnie.astro.ucla.edu, morris@astro.ucla.edu,
+        vg@bonnie.astro.ucla.edu, MITCH@JILA.COLORADO.EDU, THAISA@if.ufrgs.br,
+        lblitz@astron.Berkeley.EDU, nuts@moo2.uoregon.edu,
+        mbrother@igpp.llnl.gov, mackenty@stsci.edu,
+        mcappi@terra.tesre.bo.cnr.it, GGCPALUMBO@astbo3.bo.astro.it,
+        marci@tezcatlipoca.pha.jhu.edu, chakraba@boson.bose.res.in,
+        colina@stsci.edu, gonzalez@stsci.edu, FS300141@Sol.YorkU.CA,
+        Michael.Dopita@anu.edu.au, geoff@mso.anu.edu.au,
+        deborah@astroscu.unam.mx, acf@ast.cam.ac.uk, espey@hut4.pha.jhu.edu,
+        dfriedli@phy.ulaval.ca, gaskell@unlinfo.unl.edu,
+        pmg@astro1.bnsc.rl.ac.uk, goodrich@keck.hawaii.edu,
+        jules@astro.columbia.edu, heckman@stsci.edu, ehooper@cfa.harvard.edu,
+        bwilkes@cfa.harvard.edu, smathur@cfa.harvard.edu,
+        jmcdowell@cfa.harvard.edu, nzs@deimos.caltech.edu
+To: Monique.Joly@gin.obspm.fr, rkandali@bao.sci.am, wkollat@gwdg.de,
+        knapen@star.herts.ac.uk, jarkot@polaris.cc.utu.fi,
+        zlatan@jhufos.pha.jhu.edu, ford@jhufos.pha.jhu.edu,
+        gak@jhufos.pha.jhu.edu, larkin@bonnie.astro.ucla.edu,
+        laor@physics.technion.ac.il, jhk@pha.jhu.edu, A.Lawrence@roe.ac.uk,
+        maiolino@hethp.mpe-garching.mpg.de, grieke@as.arizona.edu,
+        mrieke@as.arizona.edu, martel@stsci.edu, don@ucolick.org,
+        mulchaey@pegasus.ociw.edu, MUSHOTZKY@lheavx.gsfc.nasa.gov,
+        cnelson@hill.physics.unlv.edu, kln@msslac.mssl.ucl.ac.uk,
+        netzer@wise1.tau.ac.il, norman@stsci.edu, pmo@astro.caltech.edu,
+        oliva@arcetri.astro.it, noguchi@astroa.astr.tohoku.ac.jp,
+        vicki@as.arizona.edu, tani@astroa.astr.tohoku.ac.jp,
+        veilleux@astro.umd.edu, dmw8f@seyfert.astro.virginia.edu,
+        yi@sns.ias.edu, jnb@sns.ias.edu, 694l5116@cfi.waseda.ac.jp,
+        HIROSHI.OYA@stpp.geophys.tohoku.ac.jp,
+        SN5D401@sews1.edu.sci.ibaraki.ac.jp, akahane@mito.ipc.ibaraki.ac.jp,
+        aokikn@cc.nao.ac.jp, fukuda@phys.hokudai.ac.jp,
+        funato@chianti.c.u-tokyo.ac.jp, hayashi@kusastro.kyoto-u.ac.jp,
+        ichikawa@astroa.astr.tohoku.ac.jp, imanishi@cr.scphys.kyoto-u.ac.jp,
+        inoue@nro.nao.ac.jp, isigaki@kusastro.kyoto-u.ac.jp,
+        itoh@kiso.ioa.s.u-tokyo.ac.jp, izumiura@oao.nao.ac.jp,
+        kameya@miz.nao.ac.jp, kisimoto@kusastro.kyoto-u.ac.jp,
+        koidesin@ecs.toyama-u.ac.jp, kotaro@nro.nao.ac.jp,
+        koyama@cr.scphys.kyoto-u.ac.jp, kudo@corona.mtk.nao.ac.jp,
+        kuno@nro.nao.ac.jp
+To: makino@chianti.c.u-tokyo.ac.jp, maruma@toyo.u.phys.nagoya-u.ac.jp,
+        matsumot@pisces.astron.s.u-tokyo.ac.jp, matsuo@nro.nao.ac.jp,
+        matumoto@spica.c.chiba-u.ac.jp, miyawaki@fukuoka-edu.ac.jp,
+        miyazaki@orion.sci.ibaraki.ac.jp, miyoshi@miz.nao.ac.jp,
+        nagata@cr.scphys.kyoto-u.ac.jp, nagata@mtk.nao.ac.jp,
+        nagata@z.phys.nagoya-u.ac.jp, nakada@kiso.ioa.s.u-tokyo.ac.jp,
+        nakagawa@koala.astro.isas.ac.jp, nakai@nro.nao.ac.jp,
+        nakano@chianti.c.u-tokyo.ac.jp, nishiyam@nro.nao.ac.jp,
+        nobuta@a.phys.nagoya-u.ac.jp, ohsuga@het02.ph.tsukuba.ac.jp,
+        oka@postman.riken.go.jp, okamoto@yso.mtk.nao.ac.jp,
+        okazaki@yukar.elsa.hokkai-s-u.ac.jp, okuda@astro.isas.ac.jp,
+        s959343@cc.osaka-kyoiku.ac.jp, sakamoto@nro.nao.ac.jp,
+        sakano@cr.scphys.kyoto-u.ac.jp, sato@yamabuki.u-gakugei.ac.jp,
+        satof@mtk.ioa.s.u-tokyo.ac.jp, satoki@nro.nao.ac.jp,
+        satoko@hotaka.mtk.nao.ac.jp, shibahashi@dept.astron.s.u-tokyo.ac.jp,
+        shibata@spot.mtk.nao.ac.jp, shimada5@kusastro.kyoto-u.ac.jp,
+        snitta@hayakawa.u.phys.nagoya-u.ac.jp, sokumura@nro.nao.ac.jp,
+        sorai@nro.nao.ac.jp, suematsu@corona.mtk.nao.ac.jp,
+        sugimoto@kyohou.c.u-tokyo.ac.jp, tagams@c00.cc.nao.ac.jp,
+        takahasi@auephyas.aichi-edu.ac.jp, takuhito@spica.c.chiba-u.ac.jp,
+        tetsuo@ghz.mtk.ioa.s.u-tokyo.ac.jp, thc0329@green.isc.senshu-u.ac.jp,
+        tomo@ghz.mtk.ioa.s.u-tokyo.ac.jp, tomoka@nro.nao.ac.jp,
+        tsuboi@masato.sci.ibaraki.ac.jp, tsuribe@rccp.tsukuba.ac.jp,
+        tsutsumi@nro.nao.ac.jp
+To: uchida@yso.mtk.nao.ac.jp, ueno@chianti.c.u-tokyo.ac.jp,
+        umemura@rccp.tsukuba.ac.jp, vila@nro.nao.ac.jp,
+        wada@phys.hokudai.ac.jp, yamaguchi@cr.scphys.kyoto-u.ac.jp,
+        yasuhide@PPP01.infoPepper.or.jp, yokoyama@corona.mtk.nao.ac.jp,
+        yonehara@kusastro.kyoto-u.ac.jp, yoshida@oao.nao.ac.jp,
+        yukari@crl.go.jp, sofue@mtk.ioa.s.u-tokyo.ac.jp,
+        mga@jhufos.pha.jhu.edu, jeb@lliac.es, rdb@tapir.caltech.edu,
+        tboroson@noao.edu, jbregman@astro.lsa.umich.edu,
+        byun@halley.phy.ncu.edu.tw, cavaliere@roma2.infn.it,
+        cecil@wrath.physics.unc.edu, colbert@stsci.edu, bottaro@obspm.fr,
+        CRENSHAW@BUCKEYE.GSFC.NASA.GOV, STISKRAEMER@yancey.gsfc.nasa.gov,
+        tim@strw.leidenuniv.nl, goldader@stsci.edu, jeremy@astro.Princeton.Edu,
+        dressel@rjhsci.com, duncan@lola.phy.queensu.ca,
+        egami@mpe-garching.mpg.de, jeilek@nrao.edu, gary@server1.pa.uky.edu,
+        shlosman@server1.pa.uky.edu, korista@cloud9.pa.uky.edu,
+        slamb@astro.uiuc.edu, hmlee@hyowon.pusan.ac.kr,
+        pjf@physics.unimelb.edu.au, lightman@cfa.harvard.edu,
+        lake@astro.washington.edu, macchetto@stsci.edu, cmu@stsci.edu,
+        marel@stsci.edu, quinlan@ucolick.org, jjp@ast.cam.ac.uk,
+        bev@astro.as.utexas.edu, jwrobel@nrao.edu, myun@nrao.edu,
+        gmm@astro.lsa.umich.edu, franx@astro.rug.nl,
+        jfg@hethp.mpa-garching.mpg.de, fhamann@ucsd.edu, hhasan@hq.nasa.gov,
+        lars@lick.ucolick.org, hubeny@stars.gsfc.nasa.gov,
+        neff@stars.gsfc.nasa.gov, ozernoy@stars.gsfc.nasa.gov,
+        vhubeny@delphi.umd.edu
+To: hunt@sisfo.arcetri.astro.it, hutchings@dao.nrc.ca,
+        cimpey.as.arizona.edu@amalthea.phys.s.u-tokyo.ac.jp,
+        mruiz.as.arizona.edu@amalthea.phys.s.u-tokyo.ac.jp,
+        ems@astrop.physics.su.oz.au, mkafatos@compton.gmu.edu,
+        wcs@virginia.edu, dps@astro.psu.edu, schmitt@if.ufrgs.br,
+        pjs@astron.gsfc.nasa.gov, serabyn@tacos.caltech.edu,
+        sellwood@physics.rutgers.edu, steinly@helios.ucolick.org,
+        simkin@grus.pa.msu.edu, sparke@madraf.astro.wisc.edu, sramek@nrao.edu,
+        stockton@hale.ifa.hawaii.edu, sanders@hale.ifa.hawaii.edu,
+        pto@star.le.ac.uk, maoz@astron.Berkeley.EDU,
+        sera@soliton.physics.arizona.edu, melia@nucleus.physics.arizona.edu,
+        merritt@merritt.rutgers.edu, hermanm@space.mit.edu,
+        mazz@ipac.caltech.edu, jm@ast-star.cam.ac.uk,
+        Margarida.Serote@gin.obspm.fr, shapiro@astrosun.tn.cornell.edu,
+        teuben@astro.umd.edu, gerhard@astro.unibas.ch, cohn@indiana.edu,
+        r.h.sanders@astro.rug.nl, syer@cita.utoronto.ca,
+        hsz@MPA-Garching.MPG.DE, vdbosch@strw.leidenuniv.nl,
+        jaffe@strw.leidenuniv.nl, voit@pha.jhu.edu, sam@iac.es,
+        mhulrich@eso.org, dave@agn.oscs.montana.edu, bjannuzi@noao.edu,
+        falomo@astrpd.pd.astro.it, amoor@eso.org, marconi@stsci.edu,
+        wstoeger@as.arizona.edu, veron@obs-hp.fr,
+        mira@obs-hp.frstocke@hyades.colorado.edu, weedman@astro.psu.edu,
+        wu@qso.bao.ac.cn, viegas@agn1.iagusp.usp.br, alloin@obspm.fr,
+        rchini@mpifr-bonn.mpg.de, franceschini@astrpd.pd.astro.it,
+        bcz@camk.edu.pl, eckart@mpe-garching.mpg.de,
+        krabbe@mpe-garching.mpg.de, thatte@mpe-garching.mpg.de
+To: esmith@hubble.gsfc.nasa.gov, eija@astroscu.unam.mx, maia@on.br,
+        emp@mssl.ucl.ac.uk, kom@mssl.ucl.ac.uk, roos@strw.leidenuniv.nl,
+        rnorris@atnf.csiro.au, forbes@ucolick.org, livio@stsci.edu,
+        stirpe@astbo3.bo.astro.it, ap@jb.man.ac.uk, jcondon@nrao.edu,
+        fanelli@parfait.gsfc.nasa.gov, piraf@astrpd.pd.astro.it,
+        yamada@kusastro.kyoto-u.ac.jp, awaki@cr.scphys.kyoto-u.ac.jp,
+        M.Disney@astro.cf.ac.uk, jsd@roe.ac.uk,
+        ikeuchi@vega.ess.sci.osaka-u.ac.jp, ishizksm@cc.nao.ac.jp,
+        mineshige@kusastro.kyoto-u.ac.jp, glt@sa1.star.uclan.ac.uk,
+        wada@diamond.mtk.nao.ac.jp, zhaiman@cfa.harvard.edu,
+        RER@mssl.ucl.ac.uk, JLC@mssl.ucl.ac.uk
+Cc: tashiro@amalthea.phys.s.u-tokyo.ac.jp,
+    maxima@amalthea.phys.s.u-tokyo.ac.jp
+Subject: COSPAR E1.1
+
+Dear Colleagues;
+
+  I would like to draw your attention to the high-energy astrophysics symposium 
+          ********************************************************
+          * E1.1  :  Broad Band X-ray Spectra of Cosmic Sources  *
+          ********************************************************  
+which constitute the 32nd COSPAR assembly, to be held in Nagoya, Japan, in July 
+1998. Details of the assembly and symposium are available at
+                http://COSPAR.isas.ac.jp/    
+which is linked to the description of the symposium E1.1 at
+      http://www.astro.isas.ac.jp/xray/mission/asca/COSPAR/COSPAR.html .
+
+  The most important notice is that the deadline of submission of abstracts is 
+very soon; 9th of January, 1998. For details of the abstract submission andother 
+procedures, please have a look at 
+            http://www.copernicus.org/COSPAR/COSPAR.html  .
+The abstracts should be sent to both 
+            cospar@copernicus.org 
+and 
+            maxima@phys.s.u-tokyo.ac.jp .
+
+
+With best wishes for a happy new year,
+
+                          K. Max Makishima (E1.1 Main Sicentific Organizer)
+                          Department of Physics, University of Tokyo, Japan
+                          e-mail: maxima@phys.s.u-tokyo.ac.jp
+
+
+

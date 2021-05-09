@@ -1,0 +1,119 @@
+============================================================================== 
+In this issue (Oct 20, 2014)
+
+1. tuCASA-ASIAA: ALMA Community Day and CASA Workshop 2014 (Nov 15 & 22)
+  [Online Registration Deadline: Nov 11]
+
+==============================================================================
+
+                            tuCASA - ASIAA
+              ALMA Community Day and CASA Workshop 2014
+
+
+The UCAT Center for ALMA Science Advancement (tuCASA) and the Academia Sinica
+Institute of Astronomy and Astrophysics (ASIAA) are pleased to announce that
+an ALMA Community Day together with a two-day CASA workshop will be held at the
+Science Campus of National Taiwan Normal University on November 15 and 22, 2014.
+
+
+CASA Workshop
+_____________
+
+The main purpose of the CASA Workshop, which is organized by tuCASA and
+cosponsored by ALMA Regional Center of Taiwan (ARC-Taiwan) of ASIAA, is to help
+potential ALMA users to familiarize themselves with CASA (Common Astronomy
+Software Applications) package for the post-processing of the ALMA data.
+Faculty, research staff and graduate students of UCAT (University Consortium of
+ALMA-Taiwan) who are interested in using ALMA data for their research but have
+little knowledge of CASA package are particularly welcome.
+
+    The workshop format will be short lectures interlaced with hands-on
+exercises basically. The detailed program can be found at
+    http://140.122.162.144/tuCASA/CASA2014_wksp/program/ 
+
+    Participants are required to bring along with you a notebook computer
+running on either Mac OS or Linux, and please have the CASA program "CASA 4.2.2"
+and "CASA User Reference & Cookbook 4.2.2" downloaded in advance at
+    http://casa.nrao.edu/casa_obtaining.shtml 
+
+    Please also have the dataset "CASA2014_data.zip" readily downloaded prior to
+the workshop from
+    http://140.122.162.144/tuCASA/CASA2014_wksp/ALMA_data/CASA2014_data.zip 
+
+
+ALMA Community Day
+__________________
+
+The major goal of the ALMA Community Day, organized by ARC-T of ASIAA and
+cosponsored by tuCASA, is to make better ALMA science and better ALMA proposals.
+The ALMA Community Day will focus on:  1) to update Taiwan community the status
+of ALMA and other radio facilities, including JCMT, CSO and SMA, that
+astronomers in Taiwan have access to;  2) to improve ALMA proposals from Taiwan;
+3) to attract more non-radio astronomers to use the ALMA.
+
+    In addition, we will learn how to search for and identify ALMA archival
+data, including ALMA Science Verification (SV) data and Cycle-0 & Cycle-1 data,
+that we may be interested in working on. We will also discuss all practical
+concerns for ALMA archival data retrieval. Participants who know their target
+sources beforehand or have clear science goals in mind are encouraged to
+contact Dr. Kuo-Song Wang directly before November 7 so Dr. Wang
+(kswang@asiaa.sinica.edu.tw) may help you to locate appropriate datasets more
+effectively. If you do want to download ALMA archival datasets to work on for
+actual research, a 1-on-1 tutorial on data retrieval is available on November
+15, please register first.
+
+    Proposal MOCK Review is also available on November 22 for a 1-on-1
+discussion on your unsuccessful proposals in previous cycles. Please register
+first and send your proposals to almamock@asiaa.sinica.edu.tw by November 15.
+
+
+Dates and Venue
+_______________
+
+November 15 and November 22 (Saturdays) at Rm S101 of the Research Building
+(教學研究大樓) on the Science Campus of National Taiwan Normal University (師大分部).
+
+
+Organizing Committee
+____________________
+
+Vivien Chen        (NTHU)
+Chorng-Yuan Hwang    (NCU)
+Yi-Jehng Kuan        (NTNU)
+Shih-Ping Lai        (NTHU)
+Chin-Fei Lee        (ASIAA)
+Sheng-Yuan Liu        (ASIAA)
+Yawen Tang        (ASIAA)
+Wei-Ling Tseng        (NTNU)
+
+
+Registration
+____________
+
+Online registration is available at:
+    http://140.122.162.144/tuCASA/CASA2014_wksp/regist/
+Registration is free of charge; online registration deadline is at 23:59 on
+November 11, 2014.
+
+
+Inquiry
+_______
+
+For more information or questions, please contact Ms. Chih-Li Wang (王治力小姐) at chihliwang@ntnu.edu.tw 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

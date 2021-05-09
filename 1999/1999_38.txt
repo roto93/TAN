@@ -1,0 +1,288 @@
+From kyl@asiaa.sinica.edu.tw Thu Mar  4 14:53:43 1999
+Return-Path: <kyl@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (iaa1) by iaa17.asiaa.sinica.edu.tw (5.x/SMI-SVR4)
+	id AA09747; Thu, 4 Mar 1999 14:50:59 +0800
+Errors-To: kuan@asiaa.sinica.edu.tw
+Received: from iaa3 by asiaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id OAA22958; Thu, 4 Mar 1999 14:48:11 +0800
+Date: Thu, 4 Mar 1999 14:48:10 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: IAU Symposium 199 - Ist Circular (fwd)
+Message-Id: <Pine.GSO.3.96.990304144750.1944B-100000@iaa3>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+Content-Length: 28828
+Status: RO
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Professor K. Y. Lo
+Director=20
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+P. O. Box 1-87, Nankang,=09=09Phone: 886-2-2652-2020 ext 200
+Taipei, Taiwan 115, ROC                 Fax:   886-2-2788-1106
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+---------- Forwarded message ----------
+Date: Thu, 4 Mar 1999 11:18:55 +0530 (IST)
+From: PA to Director <dirncra@ncra.tifr.res.in>
+Subject: IAU Symposium 199 - Ist Circular
+
+=09=09=09=09FIRST CIRCULAR
+=09=09=09=09^^^^^^^^^^^^^^
+
+
+=09=09    _____________________________________
+=09=09=09      IAU Symposium 199
+=09=09    The Universe at Low Radio Frequencies
+=09=09    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=09=09 ___________________________________________
+=09=09 November 30 - December 4, 1999, Pune, India
+=09=09 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+     ________________________________________________________________
+=09 Sponsored by the International Astronomical Union (IAU)
+=09=09=09=09   and
+     Co-sponsored by the International Union for Radio Science (URSI)
+
+=09=09      Supporting IAU Commission 40
+=09=09  Co-supporting IAU Commissions 28, 47 & 48
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+1. SCIENTIFIC ORGANISING COMMITTEE (SOC): A. Ger de Bruyn (Netherlands),
+=09P.E.F. Dewdney (Canada), R.D. Ekers (Australia, Co-chair),
+=09W.C. Erickson (Australia), W.M. Goss (USA), V.K. Kapahi (India,=20
+=09Co-chair),  N.S. Kardashev (Russia), A.G. Lyne (UK),=20
+=09Nan Ren-dong (China), L. Padrielli (Italy), G. Swarup (India)
+
+
+2. LOCAL ORGANISING COMMITTEE (LOC): A. Pramesh Rao (NCRA, Pune) Chair;=20
+=09S. Bhatnagar, J.N. Chengalur, Gopal Krishna, P. Gothoskar,
+=09Y. Gupta, N. Krishnamurthy, V.K. Kulkarni, D.J. Saikia, S. Shankar,
+=09K. Subramanian
+
+3. SCIENTIFIC RATIONALE FOR THE SYMPOSIUM: The frequency window available
+=09to ground based radio astronomers for exploring the Universe
+=09extends all the way from about 20 MHz to 100 GHz. Although much of
+=09the early pioneering observations and discoveries in radio
+=09astronomy were made at the low frequency end (less than ~1 GHz) of
+=09the window, there has been a steady shift in emphasis with time
+=09towards higher frequencies for various reasons, the most important
+=09of which, was the quest for higher and higher angular resolution.
+=09This has resulted in the relative neglect of the low frequency
+=09region even though there are many astrophysical problems and
+=09phenomena that are best studied at these longer wavelengths.
+=09Additional factors which contributed to this situation were
+=09technical difficulties associated with low frequency aperture
+=09synthesis, such as the need for ionospheric phase correction over
+=09large fields of view of the individual array elements, and the
+=09need for a 3-D inversion of the visibilities. With the dramatic
+=09improvement in the availability of affordable computing power,
+=09these problems are now more tractable.=20
+
+=09A few instruments, such as the Very Large Array (VLA), Westerbork
+=09Synthesis Radio Telescope (WSRT), Molonglo Synthesis Telescope
+=09(MOST) and Ooty Radio Telescope (ORT) have been making significant
+=09contributions at frequencies below ~1 GHz and the new developments=20
+=09at some of these observatories should make it possible very soon to
+=09considerably strengthen the low-frequency capabilities. While the
+=09lowest frequency of operation of the VLA so far was 327 MHz, the
+=09system has recently been outfitted to observe also at the much
+=09lower frequency of 74 MHz and the first observing runs at this
+=09frequency have proved to be very successful.  The wide band feeds
+=09on the WSRT antennas would soon provide a near continuous
+=09frequency coverage between about 250 MHz and 1.4 GHz for HI
+=09studies. In the southern hemisphere, MOST operating at 843 MHz is
+=09just commencing one of the most sensitive radio surveys ever
+=09undertaken, and a new radio telescope in Mauritius in the southern
+=09hemisphere has recently become operational at 150 MHz. Perhaps the
+=09most important new development is the Giant Metrewave Radio
+=09Telescope (GMRT) near Pune in India which, with its 30 parabolic
+=09dishes of 45m diameter each, is the most powerful radio telescope
+=09at longer wavelengths operating at a number of radio frequencies
+=09between about 150 MHz and 1.4 GHz. Now coming into operation,
+=09GMRT can be expected to make a number of important contributions=20
+=09in different areas of metre-wavelength radio astronomy.
+
+=09Considering these important developments, an IAU Symposium on
+=09``The Universe at Low Radio Frequencies'' in Pune, India, should
+=09be scientifically quite fruitful. In addition to reviewing and
+=09discussing recent new results in a number of astrophysical areas,
+=09the symposium will also address the special instrumental and other
+=09problems associated with doing radio astronomy at low radio
+=09frequencies, such as wide field mapping, ionospheric effects,
+=09interference excision, etc. It would also serve to focus attention
+=09on the technical aspects of the future Square Kilometre Array
+=09project and the science that it would make possible.
+
+4. TOPICS TO BE COVERED: The areas to be covered in the symposium would=20
+=09include all those topics in which observations at low radio=20
+=09frequencies are of key importance. A brief listing of possible
+=09topics is given below.=20
+
+       High redshift HI, in emission and absorption=20
+       Radio source surveys at low frequencies=20
+       Extragalactic radio sources=20
+              extended lobes, tails and bridges=20
+              relic radio emission=20
+              cluster halos=20
+              non thermal halos in spirals=20
+              sub-milli Jansky populations=20
+              low frequency variability of radio sources=20
+       Galactic radio sources and the interstellar medium=20
+              diffuse Galactic non-thermal background=20
+              SNRs and HII regions=20
+              Pulsars=20
+              Sun and radio stars=20
+              Recombination lines and the ISM=20
+              interstellar scintillation=20
+       Instruments and techniques for low-frequency radio astronomy=20
+              self calibration and non-isoplaniticity of the ionosphere=20
+              wide-field imaging=20
+              wide-band feeds=20
+              phased arrays at low frequencies=20
+              interference rejection / cancellation=20
+
+
+5. SYMPOSIUM VENUE:    The Symposium will be hosted by the National
+=09Centre for Radio Astrophysics (NCRA) located in the campus of=20
+=09the Pune University, Pune. The lectures will be organised in the
+=09well equipped `Chandrasekhar Auditorium' of the Inter-University
+=09Centre for Astronomy and Astrophysics (IUCAA) located adjacent
+=09to the NCRA campus.
+
+=09The city of Pune (previously known as Poona), with a population=20
+=09of over 2 mllion, is an important cultural, educational and=20
+=09industrial center of the state of Maharashtra in western India.=20
+=09It is located about 170 km south-east of Mumbai (earlier known as=20
+=09Bombay), on the Deccan Platue about 550 m above mean sea level.=20
+=09It is well connected by air, rail and road to Mumbai, the nearest=20
+=09international airport.  It is also connected by air to Delhi,=20
+=09Bangalore and Chennai (earlier known as Madras) with 1 or 2 flights=20
+=09operating every day. The details about various travel schedules will=20
+=09be given in the second circular to be issued in May 1999.
+
+=09The weather in Pune in early December is generally pleasant with a=20
+=09day-time maximum temperature of about 30=B0C and a night time low of=20
+=09about 10=B0C.
+
+6. REGISTRATION FEE: Participants will be required to pay a registration
+=09fee of US$ 200, which includes the conference Banquet, a
+=09cultural event, tea and coffee during the meetings, stationery,=20
+=09book of abstracts, etc.
+
+7. FORMAT OF THE SYMPOSIUM: The scientific programme will consist of
+=09invited talks, and contributed oral presentations as well as poster
+=09presentations. The invited talks will be generally of 30 minutes=20
+=09duration (including discussion) and contributed talks of 15 minutes
+=09duration. Depending on the available time and number of abstracts
+=09received, the SOC may have to request that some of=20
+=09contributed papers be presented in the form of posters.=20
+
+=09The programme will be organised into 16 sessions of 1.75 to=20
+=091.5 hours duration each spread over four days. One day will be=20
+=09reserved for trip to the Giant Metrewave Radio Telescope (GMRT),=20
+=09which is located about 90 km north of Pune.=20
+
+=09The proceedings of the conference will be published by the
+=09Astronomical Society of the Pacific.
+
+8. ACCOMMODATION: Arrangements are being made to book sufficient rooms
+=09in hotels within a few kms of the University campus. The
+=09approximate charges per night are expected to range beetween=20
+=09US $ 30 and 100, depending on the type of hotel. More details=20
+=09about specific hotels will be given in the second circular.
+
+9. TOURS: With the help of travel and tour agencies it is proposed to
+=09organise some interesting tours before and after the symposium
+=09for those wanting to tour India. Details of these tours will be
+=09announced in the next circular.
+
+10. GRANTS: A limited number of grants to partly support the
+=09travel and / or registration of some participants would be
+=09available from IAU and URSI. Grants are also being sought from
+=09Indian agencies to support Indian participants. Application forms=20
+=09for these grants will be available in the next circular.
+
+11. CONTACT ADDRESS: Secretariat IAU 199, National Centre for Radio
+=09Astrophysics, TIFR Post Bag 3, Ganeshkhind, Pune University
+=09Campus,  Pune 411007, INDIA.
+=09Tel:   +91 20 35 7107 / 35 1382 / 35 1384 / 35 1385
+=09Fax:   +91 20 35 5149 / 35 7257
+=09Telex: +81 145-7658 GMRT IN
+=09Email: iau199@ncra.tifr.res.in; iau199@gmrt.ernet.in
+
+12. PRELIMINARY REGISTRATION FORM: To help us make a realistic=20
+=09assessment of the number of participants and the hotel
+=09reservations needed, we request you to kindly fill in and return
+=09the following Preliminary Registration Form to the contact
+=09address by fax, email or regular mail BEFORE March 31, 1999.
+=09Returning the preliminary registration form will also ensure=20
+=09that you receive the second circular.
+
+
+=0C
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=09=09=09Preliminary Registration Form
+-------------------------------------------------------------------------
+
+=09=09=09        IAU Symposium 199
+=09=09      The Universe at Low Radio Frequencies
+=09=09   Pune, INDIA, November 30 - December 4, 1999
+
+
+Last Name:
+
+First name(s):
+
+Affiliation:
+
+Address:
+
+E-mail:
+
+Telephone:
+
+Fax:
+
+Please check the following (delete what you are not interested in):
+
+=09I plan to attend the symposium:=09Definitely=09Perhaps
+=09I intend to contribute a paper:=09yes=09=09No
+=09I intend to present a poster:=09Yes =09=09No
+=09Hotel Room:=09=09=09Single=09=09Double
+
+Preliminary title of paper or poster (if available):
+
+
+Please complete and return this form BEFORE March 31, 1999 to:
+
+
+Secretariat IAU 199=09=09      | Tel: +91 20 35 7107, 35 1382,4,5
+National Centre for Radio Astrophysics| Fax: +91 20 35 5149, 35 7257
+TIFR, Post Bag 3, Ganeskhind   =09      | Telex: +81 145-7658 GMRT IN
+Pune University Campus, =09      | Email: iau199@ncra.tifr.res.in
+Pune 411007, INDIA =09=09      |=09       iau199@gmrt.ernet.in
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+
+
+
+
+

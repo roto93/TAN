@@ -1,0 +1,164 @@
+==============================================================================
+
+In this issue (July 01 - 11, 2016)
+
+1. ASIAA Colloquium/Seminar/Lunchtalk (Jul 11): Howard Chen (Northwestern Univ)
+                                      (Jul 13): Chi-Ting Chiang (Stony Brook U)
+2. EAMA10 abstract submission deadline (July 15)
+3. EAMA10 3rd announcement
+4. Announcement: LOT call-for-proposal for 2016C Semester
+
+==============================================================================
+
+> Date: Thu, 7 Jul 2016 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Howard Chen (Northwestern University)
+Topic:          From Earths to Super-Earths: Modeling Optically Thick and Thin Planetary Atmospheres
+Time:           7/11 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+To date, over 5,000 exoplanets and planet candidates have been discovered. From the exotic exo-Neptunes to potentially habitable Earth-like planets, I will describe two methods to model the atmospheres of these planets. First, I will present a prescription of using the state-of-the-art stellar evolution code Modules for Experimental Astrophysics (MESA) to model the thermal evolution of sub-Neptune sized planets having hydrogen-helium envelopes. I will also describe an updated version of the Kasting climate model and using it to calculate the upper atmospheric conditions for planets warmer than the present Earth. I will also go over the results of using these models to generate a sample planet population as well as predicting the temperatures and water concentrations in the stratospheres of terrestrial planets. Finally, I will briefly illustrate how numerical models such as these could assist in the characterization efforts of exoplanets in future missions and observational s!
+ urveys.
+
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Chi-Ting Chiang (Stony Brook University)
+Topic:          Simulating the large-scale structure in different environments
+Time:           7/13 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Understanding the structure formation is one of the most important issues in modern cosmology. In particular, in the era of big astronomical data, connecting observation and theory is crucial to improve precision cosmology, and possibly probe new physics. The observables of the large-scale structure such as galaxy number density generally depends on the density environment. The dependence can traditionally be studied by performing gigantic cosmological N-body simulations and measuring the observables in different density environments. Alternatively, we can perform the so-called ``separate universe simulations,'' in which the effect of the environment is absorbed into the change of the cosmological parameters. In other words, an overdense universe is equivalent to a positively curved universe, and so the structure formation would change accordingly. In this talk, I will introduce the separate universe mapping, and present how the power spectrum and halo mass function changes !
+ in different density environments, which are related to the squeezed-limit bispectrum and the halo bias, respectively. I will also discuss our recent progress on extending this approach to multiple fluids such as dynamic dark energy and massive neutrinos.
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Date: Fri, 8 Jul 2016 13:07:51 +0800
+> Subject: EAMA10 abstract submission deadline (July 15)
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>     Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear All,
+
+This is to remind you that the abstract submission deadline for EAMA10
+is July 15.  If you plan to go and give a talk, please remember to submit
+your abstract before the deadline.
+
+The meeting website is here: http://astro1.snu.ac.kr/eama10/index.html
+
+Cheers,
+Wei-Hao
+
+==============================================================================
+
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: EAMA10 3rd announcement
+> Date: Sat, 9 Jul 2016 14:04:56 +0800
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>     riaa <riaa@asiaa.sinica.edu.tw>
+
+
+Dear All,
+
+Please find the 3rd announcement of the EAMA10 meeting.
+Please register as early as possible if you plan to go.
+
+Cheers,
+Wei-Hao
+
+
+> ----------------------------------------
+> Dear colleagues,
+>
+> This is the 3rd announcement of the 10th East-Asia Meeting on
+> Astronomy (EAMA10) to be held at Seoul National University, Seoul,
+> Korea at Sept. 26-30, 2016.
+>
+> Meeting homepage: http://astro.snu.ac.kr/eama10
+>
+> 1. July 15 is the abstract submission deadline. Please submit your
+> abstract by this date.
+>
+> 2. The availability of the hotel rooms at Hoam is limited and the
+> rooms are filling up quickly. Please submit the hotel reservation
+> request as soon as possible when you register.
+>
+> 3. Please register by July 15. Registration after this date will be
+> possible, but early registration helps us to make proper arrangements
+> in time.
+>
+> --- Scientific Rationale ---
+> East-Asia Meeting on Astronomy (EAMA) aims at promoting collaborations
+> of astronomers in East Asia. Since its first meeting in 1990 in China,
+> the EAMA has been indeed providing a place to discuss the ideas and to
+> coordinate the efforts on fostering collaborations among East Asian
+> countries as well as among individuals. The upcoming 10th EAMA
+> (EAMA10) will be held on September 26-30, 2016 in Seoul, Korea. We
+> solicit talks and participation of astronomers to discuss regional
+> activities, current and future large facilities, science projects, new
+> science results, and astronomy education and public outreach.
+> ----------------------------------
+>
+> Best regards,
+> Bon-Chul Koo, SOC Chair & Myungshin Im, LOC Chair
+>
+> on behalf of EAMA10 SOC/LOC
+
+==============================================================================
+
+> From: Chow-Choong Ngeow <cngeow@gm.astro.ncu.edu.tw>
+> Date: Mon, 11 Jul 2016 19:22:38 +0800
+> Subject: Announcement: LOT call-for-proposal for 2016C Semester
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+
+Dear Prof. Kuan, can you announce the following to TAN?
+
+Thanks for the help.
+
+==============================================
+
+Dear all, the LOT call-for-proposal is announced on Lulin Website:
+
+http://www.lulin.ncu.edu.tw/
+
+Please check and download the template proposals from the announcement on
+2016-07-11, under "News" or "Lulin News".
+
+==============================================
+
+
+--
+Dr. Chow-Choong Ngeow
+Graduate Institution of Astronomy
+National Central University (Taiwan)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

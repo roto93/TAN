@@ -1,0 +1,69 @@
+From chiuehth@main.phys.ntu.edu.tw Mon Apr  9 09:52 CST 2001
+Received: from asiaa.sinica.edu.tw (asiaa.sinica.edu.tw [140.109.177.5])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id JAA15815
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Mon, 9 Apr 2001 09:51:42 +0800 (CST)
+Received: from phys.ntu.edu.tw (main.phys.ntu.edu.tw [140.112.101.1])
+	by asiaa.sinica.edu.tw (8.9.3+Sun/8.9.3) with ESMTP id JAA02374
+	for <astro@asiaa.sinica.edu.tw>; Mon, 9 Apr 2001 09:54:39 +0800 (CST)
+Received: from localhost (chiuehth@localhost)
+	by phys.ntu.edu.tw (8.9.3/8.9.3) with ESMTP id OAA19026
+	for <astro@asiaa.sinica.edu.tw>; Fri, 6 Apr 2001 14:30:28 +0800
+Date: Fri, 6 Apr 2001 14:30:28 +0800 (CST)
+From: Tzi-hong Chiueh <chiuehth@phys.ntu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: lecture subjects (fwd)
+Message-ID: <Pine.LNX.4.21.0104061420330.18541-100000@main.phys.ntu.edu.tw>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 1777
+Status: R
+
+Dear Tanet subscribers:
+
+The following message given by Prof. Howard Yee is a series of 8 hour
+lectures to be given at Taida Physics Building rm 518 from 10-12 am on
+the next two Monday and Wednsday, an observational complementary of my
+class on Galactic and Extra-Galactic Astronomy.  It aims for
+middle-level graduate students, but it contains the introduction to 
+the understanding of the hot topics listed below, suitable for advanced
+astronomers in other fields to learn about. Interesting parties 
+are welcome to attend these lectures.
+
+
+Tzihong Chiueh
+---------- Forwarded message ----------
+Date: Thu, 5 Apr 2001 01:42:48 -0400 (EDT)
+From: hyee@makalu.astro.utoronto.ca
+To: chiuehth@phys.ntu.edu.tw
+Subject: lecture subjects
+
+Hi Tzi-hong:
+
+  Here is a short list of the topics I will hope to cover 
+in the 4 lectures next 2 weeks.  I am concentrating on
+primarily optical observations/properties of clusters (since
+you probably have talked about gas related properties etc).
+The topics covered in each lecture is approximate, since
+it may finish early, or spill over to the next one etc.
+Let me know what you think.  Also, I see that there will
+be a lot of lectures with COSPAR next week -- do those impact
+on the course lectures?
+
+  Howard
+
+.................................................
+
+Galaxy Cluster Lectures (April 9, 11, 16, 18)
+
+Lecture 1: Cluster Surveys: from Abell to current; cluster richness
+
+Lecture 2: Galaxy Populations: cD galaxies, Galaxy Luminosity
+            Function, morphology density relationship
+
+Lecture 3: The Evolution of Cluster Galaxies: Butcher-Oemler effect,
+             Star formation history, Infalling galaxies.
+
+lecture 4: Cluster Dynamics and Mass: M/L ratios, dynamical mass,
+             comparison with other measurements.
+
+

@@ -1,0 +1,73 @@
+From jlim@asiaa.sinica.edu.tw Sat Nov 27 15:06 CST 1999
+Received: from biaa33.biaa.sinica.edu.tw (iaa11 [140.109.177.104])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with SMTP id PAA28347
+	for <astro@iaa17>; Sat, 27 Nov 1999 15:05:47 +0800 (CST)
+Received: by biaa33.biaa.sinica.edu.tw (SMI-8.6/SMI-SVR4)
+	id PAA17841; Sat, 27 Nov 1999 15:01:33 +0800
+Date: Sat, 27 Nov 1999 15:01:33 +0800
+From: jlim@asiaa.sinica.edu.tw (Dr Jeremy Lim)
+Message-Id: <199911270701.PAA17841@biaa33.biaa.sinica.edu.tw>
+To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw
+Subject: ASIAA-NCU Joint Colloquium
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-MD5: FRtvkXmLeVuhQIgrxzhkZg==
+Content-Type: text/plain; charset=us-ascii
+Content-Length: 2584
+Status: RO
+
+                 * --------------------------------------- *
+                 I  Institute of Astronomy & Astrophysics  I
+                 I             ACADEMIA SINICA             I
+                 I- ------------------------------------- -I
+                 I     Graduate Institute of Astronomy     I
+                 I        NATIONAL CENTRAL UNIVERSITY      I
+                 * --------------------------------------- *
+ 
+                    *     J O i N T    S E M i N A R    *
+ 
+ 
+                           3 December 1999 (Friday)
+    Room 1013 (Conference Room; 10th floor) of the Science IV Building (NCU)
+            ==================================================
+ 
+Session 1:  Colloquium (2:00 - 3:00 pm)
+ 
+            SPEAKER: Dr. Zuhui Fan
+                     (University of Chicago)
+            TITLE:   "The Mass Function and the Linear Bias of 
+                      Dark Matter Halos"
+            
+            ABSTRACT:
+The universe is full of structures (galaxies, clusters of galaxies, 
+and so forth). One important task in cosmology is to understand the 
+formation of large-scale structures of the universe. In this talk, 
+I will first describe the general picture of the structure formation, 
+and then discuss the number density (i.e., the mass function) and the 
+spatial distribution (i.e., the bias) of dark halos from two specific 
+theoretical models. I will demonstrate that the results from these 
+models do not fully agree with results of numerical simulations. In 
+order to better model the formation of dark halos, one needs to find 
+out the main physical processes responsible for the halo formation. 
+I will present an analytical relation between the number density and 
+the bias of dark matter halos, which holds true under several conditions 
+that are satisfied by a broad class of relatively simple theoretical models. 
+This relation can be readily examed by numerical simulations. 
+If simulations do show such a relation exists, the halo formation can be 
+modeled within the simple theoretical framework. If simulations 
+disprove the relation, then more realistic physics should be taken 
+into account for the structure formation. In other words, the validity of 
+this relation can provide us important clues for the formation of dark 
+matter halos. 
+
+
+
+ 
+Session 2:  Colloquium (3:15 - 4:15 pm)
+ 
+            SPEAKER: Prof. Phillip K. Lu
+                     (Yale University)
+            TITLE:   "Dark Matter: Local Volume Density vs Total Surface Density
+                     (A Spectrophotometric and Kinematic Studies of the SGP)"
+ 
+

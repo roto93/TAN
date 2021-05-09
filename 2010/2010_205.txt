@@ -1,0 +1,56 @@
+Date: Fri, 10 Dec 2010 15:55:57 +0100 (CET)   
+From: eris2011@ira.inaf.it         
+To: vlbi@nrao.edu
+Subject: [vlbi] ERIS 2011 - First Announcement - Please circulate
+   
+*********************************************************************** 
+*             2011 European Radio Interferometry School               * 
+*********************************************************************** 
+
+We are happy to announce that the Fourth European Radio Interferometry 
+School will take place in Rimini (Italy), in the week 
+
+                       5 - 9 September 2011 
+
+ERIS will provide a week of lectures and tutorials on how to get 
+scientific results from radio interferometry.  Topics covered 
+include: 
+* Calibration and imaging continuum, spectral line and polarization data 
+* Extracting the information and interpreting the results 
+* Specific features for VLBI, high frequency (ALMA domain) and low 
+frequency observations (LOFAR domain) 
+* Choosing the most suited array and observing plan for your project. 
+
+Participants are expected to bring their own laptops, equipped with 
+the most widely-used packages such as AIPS, CASA and Parseltongue. 
+Most examples will be drawn from cm-wave instruments such as VLA, EVN 
+and MERLIN but experts for arrays from LOFAR to ALMA will be available. 
+
+The school will be held at the Sporting Hotel, where the participants 
+and lecturers will also be accomodated. 
+See the hotel web page at http://www.hotelsportingrimini.com/ 
+
+A registration fee of 150 Euro is requested, which will cover the 
+accomodation and half board for the 5 days of the school, from 
+the arrival on 5 September 2011 to the departure on 10 September 2011. 
+Participants will be accomodated in double and triple rooms. 
+
+Please reply to this email, eris2011@ira.inaf.it, indicating your 
+interest to be notified of future announcements. 
+
+Forms for registration and hotel booking and further instructions will 
+soon be made available. Note that due to logistical limitations 
+we will be able to accomodate around 80 participants, so we encourage 
+to send your interest and register as soon as possible. 
+
+LOC: D. Dallacasa, K.-H. Mack, M. Manni, B. Neri, T. Venturi 
+
+SOC: T. Venturi (INAF, IRA)& D. Dallacasa (University of Bologna), 
+   B. Campbell (JIVE), F. Gueth (IRAM), R. Laing (ESO-ALMA), 
+   A. Richards (JBCA), R. Pizzo (ASTRON), R. Porcas (MPIfR) 
+
+_______________________________________________ 
+vlbi mailing list 
+vlbi@listmgr.cv.nrao.edu 
+http://listmgr.cv.nrao.edu/mailman/listinfo/vlbi 
+

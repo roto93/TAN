@@ -1,0 +1,385 @@
+Date: Sun, 13 May 2012 03:53:27 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue May 04 - 12, 2012)
+
+============================================================================== 
+
+In this issue (May 04 - 12, 2012)
+
+1. Scientific Program of ASROC2012 is ready (May 13)
+2. The 23rd International CODATA (Committee on Data for Science and Technology)
+   Conference (Oct 28, Taipei): Open Data and Information for a Changing Planet
+   -- Call For Scientific Presentations: Abstracts and Session Proposals
+3. 1st circular of East Asia Numerical Astrophysical Meeting (Oct 29 - Nov 02)
+4. Browser problem: Notice of Intent for ALMA Cycle 1 Early Science
+5. ASIAA/CCMS/IAMS/LeCosPA/NTU-Phys Joint Colloquium (May 15): Pisin Chen (NTU)
+
+==============================================================================
+
+Dear all,
+
+The Scientific Program of ASROC2012 is now ready. Please check
+http://www.asroc.org.tw/asroc2012/agenda.php (in Chinese)
+http://www.asroc.org.tw/asroc2012/en/agenda.php (in English)
+for more details.
+
+See you all in two weeks.
+
+
+Kind Regards,
+Yi-Jehng Kuan
+On behalf of ASROC
+
+PS: The 3rd Circular of ASROC2012 will be out very soon. Stay tuned.
+
+==============================================================================
+
+> Date: Sat, 12 May 2012 11:57:53 +0800   
+> From: "Winnie" <winnie@iis.sinica.edu.tw>         
+> To: <"Undisclosed-Recipient:;"@mg1.ntnu.edu.tw>
+> Subject: 「開放資料與資訊: 變動中的地球」 第二十三屆科學與技術資料委員會國際會議 公開徵求論文摘要與議程籌組
+
+------- Call For Scientific Presentations ------- 
+
+The 23rd International CODATA Conference 
+
+"Open Data and Information for a Changing Planet" 
+
+October 28-31, 2012, Taipei 
+
+http://www.codata2012.com/ 
+
+Submission Deadline: June 15, 2012 
+------------------------------------------------- 
+
+BACKGROUND: 
+Never before have scientific data and information played such a major 
+role in addressing the problems and challenges facing our planet. 
+The calls for freely available, publicly accessible data are gaining 
+a stronger voice. Nurturing an open environment for data and information 
+is crucial for disseminating research results to a wide audience and 
+allowing thorough, collaborative analysis. 
+
+The theme of the 23rd International CODATA Conference is "Open Data 
+and Information for a Changing Planet". The conference will bring 
+together stakeholders from industry, research and academia who will 
+highlight, debate and address open data and information issues over 
+a three day period. It will provide an international forum where 
+these stakeholders, in collaboration with the ICSU and CODATA 
+international networks and other networks, can create a dialogue on 
+legal, economic, and technological challenges; evaluate societal 
+impacts; and put forward possible solutions that can in turn benefit 
+the planet. 
+
+The CODATA International Conference is held once every two years, and 
+is organized by CODATA (The Committee on Data for Science and Technology) 
+under the auspices of ICSU (International Council for Science). The 
+past three CODATA International Conferences were held in Beijing (2006), 
+Kiev (2008), and Cape Town (2010). The 2012 CODATA International 
+conference will be held in Taipei on October 28-31. 
+
+SCIENTIFIC TOPICS: 
+The conference is devoted to quality, reliability, management and 
+accessibility of data for science and technology. Abstracts and 
+Session Proposals are solicited on, but not limited to, the following 
+topics: 
+
+* e-Science and e-Science Networks 
+* Information Science and Computational informatics 
+* Data Mining and Knowledge Management 
+* Interoperability and Data Integration 
+* Earth and Environmental Data 
+* Biological Science, Medical and Health Data 
+* Physical Science Data 
+* Social Science Data and the Digital Humanities 
+* Open Access; Public Section Information; Legal and Policy Issues 
+* Semantic Web and Linked Data 
+* Data Challenges for Global Sustainability: The Outcome of Rio+20 
+
+SUBMISSION INFORMATION: 
+Submission deadline: June 15, 2012 (extended from May 25). 
+
+Submissions can be made in two categories: Abstract and Session Proposal. 
+They should be submitted electronically via the submission web page at 
+http://www.easychair.org/conferences/?conf=codata2012 . Please visit 
+the web site http://www.codata2012.com for details about abstract and 
+session proposal submissions, and for more information about the conference. 
+
+==============================================================================
+
+> Date: Wed, 09 May 2012 12:59:48 +0800
+> From: Pin-Gao Gu <gu@asiaa.sinica.edu.tw>
+> To: <iaa@asiaa.sinica.edu.tw>, <astro@asiaa.sinica.edu.tw>,
+>         <assistant@phys.cts.nthu.edu.tw>
+> Subject: 1st circular of East Asia Numerical Astrophysical Meeting
+
+Dear colleagues,
+
+Below please find the information about the 5th East Asia Numerical 
+Astrophysics Meeting (EANAM). Please circulate it among your colleagues 
+who might be interested.
+
+Thanks for your attention,
+Pin-Gao Gu
+Institute of Astronomy & Astrophysics, Academia Sinica
+
+-----------------------------------------------------------
+
+First Circular EANAM 2012
+
+The 5th East Asia Numerical Astrophysics Meeting
+Oct. 29 -- Nov. 2, 2012, Yukawa Institute, Kyoto, Japan
+http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html [2]
+
+-----------------------------------------------------------
+
+EANAM 2012 is the 5th meeting in the series of East Asia
+Numerical Astrophysics (EANAM). EANAM has been held
+bi-annually to stimulate numerical astrophysics in the
+east Asia. Its scope encompasses research fields involving
+numerical simulations of stars and planets on the small scale
+to cosmological structures on the large scale. Topics will
+include (but not limited to) the numerical astrophysics of
+hydrodynamics, magnetohydrodynamics, radiative transfer,
+particle acceleration, and numerical relativity. In addition,
+there will also be a focus on computer science applications
+directed toward astrophysics including numerical methods,
+simulation data analysis, and high performance computing.
+The program consists of tutorial lectures, invited talks,
+contributed talks, and poster papers with brief oral
+presentations. We welcome active postdocs and graduate students.
+
+We call for contributed talks and posters. We encourage you to
+register yourself at earliest convenience
+through the conference web site,
+
+  http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html [3]
+
+We strongly recommend participants from outside Japan to
+reserve a hotel room at earliest convenience. We have made
+block reservation in several nearby hotels. However the
+number of available rooms are limited. We will serve them
+by the first come first served policy. Note that most
+nearby hotels will be occupied by the end of summer since
+the conference venue is close to many charming sight seeing
+spots.
+
+Financial Support:
+
+A limited amount of financial support is available for those
+who present either oral or poster papers. We give priority to
+graduate students and young postdocs who do not have their
+financial resources, according to the traditional policy in this
+series of meetings. The financial support covers living expense
+during the meeting not travel expense.
+
+Accommodation:
+
+Kyoto city has many hotels but most of them are fully occupied
+during the meeting. We strongly recommend you to reserve your
+rooms much in advance. Our web site gives you our recommendation
+to you coming from abroad.
+
+Important Dates:
+
+Apr. 30 Opening of the registration
+Aug. 31 Deadline for registration and visa application
+Aug. 31 Deadline for abstract submission for contributed
+  talks and poster papers
+Sep. 30 Deadline for abstract submission for invited talks
+Oct. 1 second circular (with science program)
+Oct. 29 EANAM 2012
+
+Registration Fee:
+The registration fee is 10,000 JPN but 5,000 JPN for students.
+This covers welcome reception (Oct. 29), conference dinner (Nov. 1),
+and daily tea and coffee at breaks. We collect the registration
+fee at the on site registration desk.
+
+EANAM 2012 is sponsored by
+Yukawa Institute for Theoretical Physics, Kyoto University
+National Astronomical Observatory of Japan
+HPCI Strategic Program Field 5
+
+Further details are given at the conference web site.
+
+We are looking forward to seeing you at Kyoto.
+
+Contact address
+  Conference Secretariat: eanam5@yukawa.kyoto-u.ac.jp [4]
+
+Invited Lecturers include
+Tom Abel, Stanford Univ.: First Stars
+Miguel-Angel Aloy, Univ. Valencia: GRB Jets
+Axel Brandenburg, Nordita: Dynamos
+Ing-Guey Jiang, National Tsing-Hua Univ.: Debris Disks and Kuiper Belt
+Objects
+Ralf Klessen, Univ. of Heidelberg: Star Formation
+Jae-Min Kwon, WCI Center for Fusion Theory:
+  Gyro-kinetic Code and Prospect for Astrophysics
+Junichiro Makino, Tokyo Institute of Technology:
+  High Performance Computing for Cosmological Simulations
+Juntai Shen, Shanghai Astronomical Observatory: Galaxy Formation
+John Wise, Georgia Institute of Technology: First Galaxies
+
+Invited Speakers Include:
+Xian Chen, Kavli Peking: Tidal Disruption by Super Masive Binary Black
+Holes
+Longlong Feng, Purple Mountain Obs.: Turbulence in IGM
+Lin-Ni Hau*, Nat. Central Univ.: Magnetic Reconnection in Space Plasmas
+Hyesung Kang, Pusan Nat. Univ.: Diffusive Shock Acceleration in the ICM
+Ruben Krasnopolsky: Formation of Protostellar Disks
+Dongwook Lee, Flash Center: Fully Implicit Solver for MHD Equations
+Tomoaki Matsumoto, Hosei Univ.: Star Formation in Turbulent Molecular
+Clouds
+Ken Ohsuga, NAOJ: Radiative Hydrodynamics of Super Eddington Luminous
+Objects
+Yuichiro Sekiguchi, Kyoto Univ.: Merger of Binary Neutron Stars
+Kohji Yoshikawa, Tsukuba Univ.: Cosmological Simulation
+* to be fixed
+
+All the talk titles are tentative.
+
+Scientific Organizing Committee:
+
+Liang Gao (National Astronomical Observatories)
+Pin-Gao Gu (Academia Sinica, Institute of Astronomy and Astrophysics)
+Tomoyuki Hanawa (Chiba University) [Chair]
+Jongsoo Kim (Korea Astronomy and Space Science Institute)
+Eiichiro Kokubo (National Astronomical Observatory Japan)
+Yipeng Jing (Shanghai Astronomical Observatory)
+Fukun Liu (Peking University)
+Junichiro Makino (National Astronomical Observatory Japan)
+Dongsu Ryu (Chungnam National University)
+Masaru Shibata (Kyoto University, Yukawa Institute)
+Ronald Taam (ASIAA and Northwestern University)
+Naoki Yoshida (University of Tokyo, IPMU)
+
+Local Organizing Committee:
+Kenta Kiuchi, Yuichirou Sekiguchi, Masaru Shibata [Chair], Yudai Suwa
+(Kyoto University)
+
+Links:
+------
+[1] mailto:hanawa@cfs.chiba-u.ac.jp
+[2] http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html
+[3] http://www2.yukawa.kyoto-u.ac.jp/ws/2012/eanam5/index.html
+[4] mailto:eanam5@yukawa.kyoto-u.ac.jp
+
+==============================================================================
+
+>From cflee@asiaa.sinica.edu.tw Wed May  9 14:27:08 2012
+Return-Path: <cflee@asiaa.sinica.edu.tw>
+Received: from asiaa.sinica.edu.tw (asiaa [140.109.177.5])
+> Date: Wed, 09 May 2012 14:22:20 +0800
+> From: cflee <cflee@asiaa.sinica.edu.tw>
+> To: <alma-t@asiaa.sinica.edu.tw>, <astro@asiaa.sinica.edu.tw>
+> Subject: browser problem: Notice of Intent for ALMA Cycle 1 Early Science
+
+Dear Potential ALMA users,
+
+It was found that web browser "Internet
+Explorer 9" has a problem to access the "ALMA Early Science Notice of
+Intent" page.
+Please use another browser (Internet Explorer 8, Mozilla
+Firefox, Safari; these do not have access problems).
+
+Best
+Regards
+Chin-Fei
+On behalf of Taiwan ARC Node
+
+==============================================================================
+
+> Date: Thu, 10 May 2012 14:04:14 +0800
+Message-ID: <CALwW2DvrQxtFYotUk0Oic3L0mChLDjA5XQdTCGDZ9D9=yV-D=A@mail.gmail.com>
+> Subject: ASIAA/CCMS/IAMS/LeCosPA/NTU-Physics Joint Colloquium, May 15
+> From: Chien-Fu Liu <chienfuliu@gmail.com>
+> To: yitinghsieh@ntu.edu.tw, assist5@math.ntu.edu.tw,
+>         ithuang@phys.sinica.edu.tw, mathas@math.sinica.edu.tw,
+>         whchen@gate.sinica.edu.tw, tofaculty@phys.ntu.edu.tw,
+>         demihuang@ms.ntu-ccms.ntu.edu.tw, iaa@asiaa.sinica.edu.tw,
+>         astro@asiaa.sinica.edu.tw, faculty@ms.ntu-ccms.ntu.edu.tw
+
+Dear Colleagues,
+
+The NTU Physics Department, Center for Condensed Matter Science, Institute
+of Atomic and Molecular Sciences, the Academia Sinica Institute of
+Astronomy and Astrophysics, and Leung Center for Cosmology and Particle
+Astrophysics invite everyone to our joint colloquium series. The speakers
+are all famous international scholars and the colloquia are aiming at a
+broad audience, including undergraduate students. Below is the information
+of the talk on May 15(Tuesday). Please help to forward this to the
+colleagues in your departments.
+
+Best Regards,
+Chih-Wei Chang (CCMS)
+Pisin Chen (LeCosPA)
+Yee Hsiung (NTU Physics)
+Yu-Ju Lin (IAMS)
+Michihiro Takami (ASIAA)
+
+_______________________________________________________
+Speaker: Pisin Chen, NTU
+ Topic: Probing the Edge of the Universe from the Edge of the Earth:
+Searching for Cosmic Neutrinos at South Pole
+Time: 05/15 (Tuesday) 14:20 - 15:30
+Place: Chin-Pao Yang Lecture Hall (r104), CCMS-New Physics Building
+
+Abstract:
+This year (2012) marks the centenary of Victor Hess=92s historical discover=
+y
+of cosmic rays. Over the 100 years=92 time, scientists further realized tha=
+t
+the universe is filled with all sorts of elementary particles. By
+investigating these cosmic particles, we can gain knowledge about the
+universe that is complementary to what offered by the more traditional
+optical telescopes. Neutrinos is known to interact very weakly with other
+particles and therefore can travel across the entire universe freely. A
+neutrino telescope can therefore in principle help to probe into the
+deepest of the universe, which also corresponds to looking back to its
+earliest history. However since neutrino is weakly interacting, it requires
+a large target to intercept when it arrive to Earth. With its huge volume
+of pristine ice, Antarctica is an ideal place for building such neutrino
+telescopes. The Askaryan Radio Array (ARA) Neutrino Observatory is one of
+such attempts. When completed in 4-5 years, it will cover 100 km^2 in area,
+to become the largest neutrino telescope in the world. Taiwan has been
+playing a key role in the inception and the construction of the ARA
+project. This is Republic of China's first major scientific project at the
+South Pole in its 100 years of history. In this lecture, we will introduce
+the science and technology of ARA and share with the audience the photos
+and videos taken at the South Pole in December 2011.
+
+
+Brief Bio: Prof. Chen obtained his PhD from UCLA in theoretical particle
+physics. He was elected APS Fellow in 1994. He is a two-time recipient of
+the Gravity Research Foundation Essay Competition Awards (1995, 2001). In
+2000 he initiated the Chen Institute for Particle Astrophysics and
+Cosmology (later renamed Kavli Institute) at Stanford University. He
+joined NTU in 2007 and has since been the director of the Leung Center for
+Cosmology and Particle Astrophysics (LeCosPA) and the CC Leung University
+Chair Professor of Cosmology. In addition to theoretical studies, he also
+works on experiments. In 2000 he led a team at Stanford to demonstrate the
+plasma focusing of high energy particle beams, a theoretical prediction
+proposed by himself in 1987. He is currently the International
+Co-Spokesperson of the ARA Cosmic Neutrino Observatory at South Pole. He is
+a Founding Member of the Geneva-based World Education Council.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+

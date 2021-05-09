@@ -1,0 +1,151 @@
+From astro@iaa17.asiaa.sinica.edu.tw Wed Jun  4 02:14:57 2008
+Date: Wed, 4 Jun 2008 02:09:36 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue May 28 - Jun 03, 2008)
+
+==============================================================================
+
+In this issue (May 28 - Jun 03, 2008)
+
+1. NCU Astronomy Colloquium (Jun 06): Hiroaki Nishioka (ASIAA)
+2. ASIAA Colloquia (Jun 04): Josh Barnes (University of Hawaii)
+                   (Jun 06): Youhei Masada (ASIAA)
+
+==============================================================================
+
+> From: "Yu-Huei Wu" <yhwu@astro.ncu.edu.tw>
+> To: astro@asiaa.sinica.edu.tw, asall@canis.astro.ncu.edu.tw,
+>     asall@astro.ncu.edu.tw, twhepnet@hepmail.phys.sinica.edu.tw
+> Subject:  Colloquium this week
+> Date: Tue, 3 Jun 2008 15:01:28 +0800
+
+Dear All,
+
+The talk on this Fri is as following. Anyone who like to lunch with our 
+speaker please wait in front of the elevator at 10 F around 12.00.
+
+*******************  Astronomy Colloquium  ************************
+***************  Institute of Astronomy, NCU  **********************
+Title:
+The Quadrupole Power Spectrum for the SDSS Luminous Red Galaxies
+
+Speaker:
+Dr. Hiroaki Nishioka 
+ASIAA 
+
+Date:
+06,06,2008
+(month,day,year) 
+
+Time:
+14:00-15:00
+ 
+Place:
+S4-1013
+ 
+Redshift-space distortions due to the peculiar velocities and the Alcock-
+Paczynski effect are known to cause the anisotropy of the clustering 
+statistics. To extract the information correctly from the redshift surveys, 
+it is important to quantify the anisotropic nature in addition to the 
+conventional angular averaged statistics. The multipole moments of the 
+spatial power spectrum can be used to quantify the anisotropic nature of the 
+clustering. In this talk, we report the application of our estimaotor for 
+the quadrupole power spectrum to the SDSS Luminous Red Galaxy sample. The 
+measured quadrupole power spectrum is constantly positive at large scale
+(small k) due to the liner redshift-space distortions. At smaller scale, the 
+sign changes to negative which can be explained by the Fingers-of-God effect 
+due to the non-linear effects. We find that the measured spectrum is 
+consistent with the model with the bias parameter b~2 and pairwise peculiar 
+velocity dispersion sigma_p~400km/s, which shows that galaxies from this 
+sample are more clustered than the background dark matter.  
+  
+ 
+**********************************************************************
+
+Cheers,
+Yu-Huei
+
+--------------------------------------------------------------
+吳育慧 國立中央大學天文研究所 博士後
+
+Yu-Huei Wu, Post doc, Institute of Astronomy,NCU
+
+NCU Astro colloquium page:
+
+http://www.astro.ncu.edu.tw/contents/seminar/colloquium/sub.php?more=all
+
+Tel: 03-4227151-65953
+
+--------------------------------------------------------------
+
+==============================================================================
+
+> Date: Tue, 03 Jun 2008 15:34:17 +0800
+> From: lychiang <lychiang@asiaa.sinica.edu.tw>
+> To: iaa@asiaa.sinica.edu.tw
+> CC: astro@asiaa.sinica.edu.tw
+> Subject: [Colloquium] ASIAA Colloquium talks this week
+
+Dear all,
+
+This week there will be two colloquium talks.
+
+Professor Josh Barnes of University of Hawaii is paying a short visiting 
+to IAA from 6/3-6/6. Prof. Barnes is one of the world's expert on 
+simulating galaxy interactions and mergers. On Wednesday (6/4) he is 
+going to present a talk titled
+
+"Identikit 1: A Modeling Tool for Interacting Disk Galaxies"
+
+Dr. Youhei Masada is our new post-doctoral research fellow. His main 
+research interest includes MHD phenomena in compact objects and solar 
+and stellar interior. On Friday (6/6) he is going to talk about
+
+"A Key Process for Magnetohydrodynamic Phenomena in Astrophysical 
+Compact Objects"
+
+Please mark your calendar and remember to join these events.
+
+Lung-Yih
+
+------------------------- ASIAA Colloquium -------------------------
+  Speaker  : Prof. Josh Barnes (University of Hawaii)
+  Title    : Identikit 1: A Modeling Tool for Interacting Disk Galaxies
+  Time     : 6/4 (Wed) 2:00 PM
+  Location : Rm 716
+  Broadcast: Available at http://www.asiaa.sinica.edu.tw/
+------------------------- ASIAA Colloquium -------------------------
+  Speaker  : Dr. Youhei Masada (IAA)
+  Title    : A Key Process for Magnetohydrodynamic Phenomena in Astrophysical Compact Objects
+  Time     : 6/6 (Fri) 2:00 PM
+  Location : Rm 716
+  Broadcast: Available at http://www.asiaa.sinica.edu.tw/
+-------------------------------------------------------------------
+
+-- 
+Lung-Yih Chiang
+Institute of Astronomy and Astrophysics
+Academia Sinica
+P.O.Box 23-141
+Taipei 10617
+Taiwan R.O.C.
+tel: +886 2 33 65 22 00 ext 786 
+http://www.asiaa.sinica.edu.tw/~lychiang/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+			       Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:	       kuan @ asiaa.sinica.edu.tw
+               		    (or +02-3365-2200 ext 710, fax +02-2367-7849)
+To check the back issues:	    <http://www.asiaa.sinica.edu.tw/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

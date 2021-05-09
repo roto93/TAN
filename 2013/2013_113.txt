@@ -1,0 +1,138 @@
+te: Thu, 13 Jun 2013 02:17:00 +0800 (CST)
+From: Taiwan Astronomy Network <astro@iaa17.asiaa.sinica.edu.tw>
+To: astro@iaa17.asiaa.sinica.edu.tw
+Subject: TAN (Issue Jun 06 - 12, 2013)
+
+============================================================================== 
+
+In this issue (Jun 06 - 12, 2013)
+
+1. 1st circular for the ALMA East Asia Development Workshop (Jul 8-9)
+2. NTHU Astronomy Seminar(Jun 14): Bandy Shang, Chao-Hsiung Tseng, Jia-Wei Wang
+3. ASIAA Colloquium (Jun 14): Freeke van de Voort (ASIAA)
+
+==============================================================================
+
+> Date: Thu, 6 Jun 2013 10:53:56 +0800  
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>        
+> To: "riaa@asiaa.sinica.edu.tw" <riaa@asiaa.sinica.edu.tw>,
+> CC: astro@asiaa.sinica.edu.tw
+> Subject: 1st circular for the ALMA East Asia Development Workshop
+
+Dear colleagues,
+Please find below the 1st circular for the ALMA East Asia Development Workshop. (My apologies if you receive multiple copies of this message.)
+
+The Atacama Large Millimeter/submillimeter Array (ALMA) is already producing a growing number of impressive and scientifically compelling results during its first year of operation as the most powerful mm/submm interferometer in the world.  In order to maintain ALMA as the state-of-the-art facility over the course of its projected life of 30+ years, continuing technical upgrades and development of new capabilities are essential. Following the last ALMA-EA Development workshop held in late 2011, the scope of this coming meeting is to present the status of ongoing future development studies/projects in the East Asian region which will be the main development focus for the next 5 - 10 years, and to discuss the technical requirements and the potential science achievable with a larger scale development which are envisioned in the next 10 - 20 years.  
+
+
+The anticipated new science capabilities are, for example, 
+-- Installation of multi-beam receivers for sensitive and large field mapping observations 
+-- Development of ultra-wide bandwidth receiver for multi-line observations
+Other innovative ideas are also welcome and encouraged.  
+
+
+Agenda:
+-- Status of ongoing ALMA development studies/projects
+-- Science case for a Teraherz receiver band (Band 11)
+-- Science demand for multi-beam Rx, wide bandwidth, extended array
+-- Feasibility of next generation ALMA hardware development
+
+
+Date:  
+July 8 - 9, 2013
+
+
+Venue: 
+NAOJ, Mitaka Campus, Large Seminar Room
+Tokyo, Japan
+
+
+Website:
+http://alma-intweb.mtk.nao.ac.jp/~diono/meetings/EA_Development_Meeting/Welcome.html
+
+
+Registration:
+http://alma-intweb.mtk.nao.ac.jp/~diono/meetings/EA_Development_Meeting/Registration.html
+
+
+Talks/posters:
+We accept contributed talks and posters related to both the science and technical aspects of new ALMA developments.  If you have particular science demands and hardware upgrades that are important to your own science, we encourage you to give a talk.  This will be an excellent opportunity to feed your science requirements to the ALMA project.  Talks from young scientists are particularly encouraged.
+
+
+Funding:
+We have some limited funding available for domestic participants.  Please provide information through the registration page.
+
+
+L/SOC:
+D. Iono, S. Iguchi (NAOJ), S-Y. Liu (ASIAA), K. Kohno (U. Tokyo), T. Oka (Keio U)
+
+==============================================================================
+
+> Date: Fri, 7 Jun 2013 18:20:10 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> To: astr_all@phys.nthu.edu.tw
+> cc: astro@asiaa.sinica.edu.tw
+> Subject: NTHU Astronomy Seminar
+
+############################################
+                  NTHU
+            Astronomy Seminar
+############################################
+
+      2:20 p.m. 14th June 2013 (Friday)
+        NTHU Physics Building, Rm620
+
+      Speaker A: Bandy Shang
+
+      Title: The eclipsing-binary method and
+            the distance to the Large Magellanic Cloud
+```````````````````````````````````````````````~~~~~~~
+      Speaker B: Chao-Hsiung Tseng
+
+      Title: MOdified Newtonian Dynamics (MOND):
+            Observational Phenomenology, Relativistic Extensions,
+            and the Real Problem
+````````````````````````````````````````````````````````````````~
+      Speaker C: Jia-Wei Wang
+
+      Title: Formation and evolution of interstellar filaments
+            in Herschel Gould Belt Survey
+
+                  All Welcome !!
+
+==============================================================================
+
+> Date: Sun, 9 Jun 2013 08:00:02 +0800
+> To: iaa@asiaa.sinica.edu.tw
+> Subject: Colloquium this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: astro@asiaa.sinica.edu.tw, ntu_astro@asiaa.sinica.edu.tw,
+>        web@asiaa.sinica.edu.tw
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Freeke van de Voort (ASIAA)
+Topic:        Feeding galaxies and their gaseous haloes
+Time:        6/14 (Friday) 14:00 - 15:00
+Place:        R1203
+Abstract:
+Galaxies grow by accreting gas, which they need in order to form stars, from their surrounding haloes. These haloes, in turn, accrete gas from the intergalactic medium. Feedback from stars and black holes returns gas from the galaxy to the halo and can even expel it from the halo. Using cosmological simulations, I will describe this cycle of inflow and outflow, how it varies with redshift and halo mass, and its implications for star formation. I will then discuss the emission and absorption properties of the halo gas and show how to connect them to existing and future observations.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

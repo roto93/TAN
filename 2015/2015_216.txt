@@ -1,0 +1,21 @@
+> From: =?utf-8?B?6auY5qGRIOe5geS5hQ==?= <takakuwa@asiaa.sinica.edu.tw>
+> Subject: ALMA data propriety period
+> Date: Mon, 21 Dec 2015 12:17:41 +0900
+> Cc: arc <arc@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>, alma-taiwan@asiaa.sinica.edu.tw,
+>         Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+ Dear ALMA users in Taiwan,
+
+ If you find problems of your delivered ALMA data, you can submit helpdesk tickets
+and ask to reset the data propriety period. However, you have to submit the helpdesk
+ticket within two months of the data delivery, otherwise full reset of the propriety
+period will not be guaranteed. Please read section 8.4.2 and 8.4.3 of the Cycle 3
+User Policy document;
+
+https://almascience.nao.ac.jp/documents-and-tools/cycle3/alma-user-policies
+
+ Sincerely,
+ Shigehisa Takakuwa, on behalf of ALMA Taiwan
+
+==============================================================================

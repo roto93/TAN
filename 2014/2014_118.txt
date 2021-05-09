@@ -1,0 +1,166 @@
+============================================================================== 
+In this issue (Jul 13 - 20, 2014)
+
+1. ASIAA Colloquia (late): Geoffrey Bower (ASIAA)
+                  (late): David C.-C. Yen (FJU)
+2. Call for Papers (PSS Special Issue on Cosmic Dust VII, Oct 5)
+3. SMA proposal -- 2014B (Aug 08)
+
+==============================================================================
+
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar this week
+> From: Keiichi Asada <asada@asiaa.sinica.edu.tw>
+> cc: web@asiaa.sinica.edu.tw
+> Date: Sun, 13 Jul 2014 08:00:04 +0800 (CST)
+
+Abstract: http://www.asiaa.sinica.edu.tw/activity/colloquium.php
+
+*** Colloquium
+____________________________________________________ 
+Speaker:    Geoffrey Bower (ASIAA)
+Topic:        Two Serendipitous Probes of Sagittarius A*: The Galactic Center Pulsar and The G2 Gas Cloud
+Time:        7/16 (Wednesday) 14:20 - 15:20
+Place:        R1203
+Abstract:
+High resolution very long baseline interferometry (VLBI) images of nearby massive black holes have the power to address fundamental questions about the physics of black holes. This includes the most accurate constraints on the mass density of the black hole, detection of the black hole spin, and exploration of extensions to general relativity (GR). In particular, Event Horizon Telescope (EHT) observations will probe Sgr A* and M87, the two sources with the largest angular diameter black holes on the sky, over the coming years with increasing sensitivity and accuracy in imaging. Unfortunately, we do not fully understand the physical processes that are driving accretion and outflow in these sources. To address the fundamental black hole physics questions, we need to develop a deeper knowledge of the astrophysics of these sources. The periastron passage of the G2 gas cloud with Sgr A* at ~1000 Schwarzschild in Spring of 2014 gives us an unprecedented opportunity to study a wide 
+range of astrophysical models for accretion and outflow. I describe here observations from millimeter to X-ray wavelengths that enable us to create the necessary context for understanding physics at a few Schwarzschild radii. These include centimeter wavelength VLBI, millimeter polarimetry, and light curve analysis. The serendipitous discovery of the Galactic Center magnetar, SGR 1745-29, has provided a powerful new probe of the Galactic Center environment, including the gas density, magnetic field strength, and nature of the interstellar scattering screen. The discovery also raises important questions about the detectability of pulsars in close orbit to Sgr A* and the pulsar population in the Galactic Center overall.
+
+
+*** CompAS Seminar
+____________________________________________________ 
+Speaker:    David C.-C. Yen (FJU)
+Topic:        Hydrodynamical Escape Approximation for Pluto
+Time:        7/15 (Tuesday) 13:30 - 14:30
+Place:        R1108
+Abstract:
+Hydrodynamic escape problem is to understand the atmosphere of  steady state. The escape flux of gas is concerned and the gas may be collisionless beyond the thermal exobase of the atmosphere. Although the hydrodynamical assumption may fail in theory, this study is to explore the approximation solution for Pluto simulated by the relaxation method is still accurate and reliable through the comparison with some other simulations. The hydrodynamic solution still could approximate the situation of the rare gas for Pluto.
+
+Please note that this research is with Mao-Chang Liang and  Ronald E. Taam.
+
+==============================================================================
+
+> Sender: Hiroyuki Hirashita <hiraccini@gmail.com>
+> Date: Thu, 17 Jul 2014 14:58:24 +0800
+> From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> To: icsm <icsm@asiaa.sinica.edu.tw>, astro@asiaa.sinica.edu.tw
+> Subject: Fwd: Call for Papers (PSS Special Issue on Cosmic Dust VII)
+
+Dear All,
+
+Forwarding a call for papers. A conference is organizing
+a special issue for cosmic dust. Any one can submit a
+paper and the journal is refereed.
+
+Regards,
+Hiro
+
+-------- Original Message --------
+
+Call for Papers: Planetary and Space Science
+Special Issue on Cosmic Dust VII
+
+The 7th meeting on Cosmic Dust (Cosmic Dust VII) is held at Umeda 
+Satellite Campus of Osaka Sangyo University, Osaka, Japan from Monday, 
+August 4, 2014 through Friday, August 8, 2014. This special issue of 
+Planetary and Space Science will be primarily devoted to Cosmic Dust VII 
+and contain the papers presented at this particular meeting. However, it 
+is also open to submission of any other papers that discuss some aspect 
+of cosmic dust. All kinds of cosmic dust are the subject of discussion. 
+Papers on dust-related topics, for example, the formation of molecules 
+and their reactions on and their desorption from the surface of cosmic 
+dust, are also welcome.
+
+In particular, the topic of interest includes but is not limited to
+
+• intergalactic dust
+• interstellar dust
+• protoplanetary disk dust
+• debris disk dust
+• cometary dust
+• interplanetary dust
+• circumplanetary dust
+• stellar nebular condensates
+• presolar grains
+• micrometeorites
+• meteoroids
+• meteors
+• regolith particles
+• planetary aerosols
+
+SUBMISSION FORMAT AND GUIDLINE:
+All submitted papers must be clearly written in excellent English and 
+contain only original work, which has not been published by or is 
+currently under review for any other journal or conference. A detailed 
+submission guideline is available as “Guide to Authors” at:
+http://www.journals.elsevier.com/planetary-and-space-science/
+
+All manuscripts and any supplementary material should be submitted 
+through Elsevier Editorial System (EES). The authors must select as “SI: 
+Cosmic Dust VII” when they reach the “Article Type” step in the 
+submission process. The EES website is located at:
+http://ees.elsevier.com/pss/
+
+All papers will be peer-reviewed by two independent reviewers. Requests 
+for additional information should be addressed to the guest editors 
+<dust-inquiries@cps-jp.org>.
+
+GUEST EDITORS:
+Hiroshi Kimura (Kobe Univ., Japan)
+Ludmilla Kolokolova (Univ. of Maryland, USA)
+Aigen Li (Univ. of Missouri, USA)
+Jean-Charles Augereau (IPAG, France)
+Hidehiro Kaneda (Nagoya Univ., Japan)
+Cornelia Jäger (MPIA, Germany)
+
+IMPORTANT DATES:
+Deadline for submission: October 5, 2014
+Deadline for acceptance: March 31, 2015
+Publication: July, 2015
+
+==============================================================================
+
+> From: Hirano Naomi <hiranoneko@me.com>
+> Subject: SMA proposal -- 2014B
+> Date: Thu, 17 Jul 2014 17:48:04 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+
+Dear all, 
+
+The ASIAA SMA Time Allocation Committee, with the CfA SMA TAC, solicit SMA observing proposals for the 2014B semester. The deadline for proposal submission is Aug. 8 (Fri.) 4 a.m. in Taiwan time.
+
+URL:    http://sma.asiaa.sinica.edu.tw
+
+Regards,
+Naomi
+
+--------------------------------------------------------------------------------
+
+Dear Colleagues,
+
+We wish to draw your attention to an upcoming Call for Proposals for the Submillimeter Array (SMA), the reconfigurable interferometric array of eight 6-m antennas on Mauna Kea jointly built and operated by the Smithsonian Astrophysical Observatory and the Academia Sinica Institute of Astronomy and Astrophysics.  The array operates in the 230 GHz, 345 GHz and 420 GHz bands.
+
+The deadline for proposal submission for the coming semester (2014B: 16 Nov 2014 - 15 May 2015) is 07 August 2014. The SMA Observer Center website (http://sma1.sma.hawaii.edu) is expected to open for accepting proposals in mid July, 2014.
+
+Best wishes,
+
+Qizhou Zhang
+SMA TAC Chair
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

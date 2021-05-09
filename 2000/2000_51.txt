@@ -1,0 +1,113 @@
+From kyl@asiaa.sinica.edu.tw Fri Feb 11 11:11 CST 2000
+Received: from asiaa.sinica.edu.tw (IDENT:root@asiaa.sinica.edu.tw [140.109.177.3])
+	by iaa17.asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA15706
+	for <astro@iaa17.asiaa.sinica.edu.tw>; Fri, 11 Feb 2000 11:11:34 +0800 (CST)
+Received: from iaa3 (iaa3 [140.109.177.2])
+	by asiaa.sinica.edu.tw (8.9.3/8.9.3) with ESMTP id LAA19081
+	for <astro@asiaa.sinica.edu.tw>; Fri, 11 Feb 2000 11:13:02 +0800
+Date: Fri, 11 Feb 2000 11:06:59 +0800 (CST)
+From: "Dr. K. Y. Lo" <kyl@asiaa.sinica.edu.tw>
+X-Sender: kyl@iaa3
+To: TANet <astro@asiaa.sinica.edu.tw>
+Subject: IRAM Newsletter (fwd)
+Message-ID: <Pine.SOL.4.10.10002111106560.24695-100000@iaa3>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Content-Length: 3455
+Status: RO
+
+
+
+
+Professor K. Y. Lo
+Director 
+Institute of Astronomy & Astrophysics
+Academia Sinica
+
+______________________________________________________________________
+P. O. Box 1-87, Nankang,		Phone: 886-2-2652-2020 ext 200
+Taipei 11529, Taiwan, ROC               Fax:   886-2-2788-1106
+
+
+---------- Forwarded message ----------
+Date: Thu, 10 Feb 2000 17:44:12 +0100 (MET)
+From: Edition account <pub@iram.fr>
+To: iramnews@iram.fr
+Subject: IRAM Newsletter
+
+
+   To IRAM Newsletter Subscribers:
+
+A new issue (Num.  43, February 2000) of the IRAM Newsletter has
+appeared:
+
+HTML version:
+http://iram.fr/newsletter/feb00/feb00.html
+
+Postscript version:
+http://iram.fr/newsletter/feb00/feb00.ps
+
+Postscript version, gzipped:
+http://iram.fr/newsletter/feb00/feb00.ps.gz
+
+
+It contains the following sections:
+
+- Extraordinary IRAM Executive Council Meeting on January 27th, 2000
+- New Task Assignments / Personnel Changes
+- Editor's Note
+- Training Program in Interferometry at mm-Wavelengths
+- News from the 30-m Telescope
+- Call for Observing Proposals on the 30m Telescope
+- News from the Interferometer
+- Call for Observing Proposals on the Plateau de Bure Interferometer
+- New GILDAS Release
+- IRAM Summer Schools
+- 2nd Millimeter-VLBI Workshop Proceedings
+- Scientific Results in Press
+- New Preprints
+- Appendix I : Preliminary Summer School Program
+- Appendix II: Summer School Pre-Registration
+
+
+
+   The IRAM Newsletter is available in electronic form:
+
+  o on the World Wide Web, using e.g.  Netscape of NSCA Mosaic:
+    you may use the direct links mentioned above, or the reach it from
+    the IRAM Home page (http://iram.fr/) and follow the links to the
+    last issue for the Newsletter, or other new items ...
+
+  o by means of an anonymous FTP account, opened at IRAM for In-
+    ternet users, containing in a read-only public area the most recent
+    issues of the IRAM Newsletter, as well as documentation on the
+    IRAM telescopes and on reduction software, distribution files for
+    reduction software, files for proposal preparation, ... etc. To access
+    those files, please connect through ftp to iram.fr (or 193.48.252.22),
+    go to directory dist/newsletter, and read the README file
+
+  o by means of an electronic mail file server installed at IRAM (on
+    iraux2). This file server is a file distribution service that uses elec-
+    tronic mail facilities to deliver files. To communicate with it you
+    should send a message to the electronic address:
+           listserv@iram.fr
+    On the first time you should send a message:
+           SUBSCRIBE IRAMNEWS your name
+    in order to subscribe to the mailing list IRAMNEWS. You will
+    then receive an aknowledgement from the server.  Then, for in-
+    stance, to obtain a copy of the January 1999 issue, just send the
+    one line message:
+           GET IRAMNEWS JAN99.PS
+    to the above electronic address. You will receive later a mail mes-
+    sage containing the IRAM Newsletter in Postscript code. Please
+    discard all the e-mail header information with a text editor, and
+    send the file to a Postscript printer.  More information may be
+    obtained by sending the one line message:
+           HELP
+    Note that this file server also contains the proposal forms.
+
+The e-mail list IRAMNEWS is used to send warning messages when the
+Newsletter is available, but also to provide fast information, if needed.
+   Please keep M. Bremer informed of any problem you may encounter.
+
+

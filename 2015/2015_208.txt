@@ -1,0 +1,141 @@
+==============================================================================
+
+In this issue (Nov 30 - Dec 06, 2015)
+
+1. New time estimator for NRO45m observing proposal
+2. ASIAA Colloquium/Seminar/Lunchtalk (Dec 07): Alessandro Sonnenfeld (Kavli IPMU)
+                                      (Dec 07): Stephane Guilloteau
+                                       (Laboratoire d'Astrophysique de Bordeaux)
+                                      (Dec 09): Anne Dutrey
+                                       (Laboratoire d'Astrophysique de Bordeaux)
+                                      (Dec 09): Hsiao-Lin Wu (ASIAA)
+
+==============================================================================
+
+> From: =?utf-8?B?6auY5qGRIOe5geS5hQ==?= <takakuwa@asiaa.sinica.edu.tw>
+> Subject: New time estimator for NRO45m observing proposal
+> Date: Mon, 30 Nov 2015 19:47:38 +0900
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+ Dear All,
+
+ For your information. The Nobeyama Radio Observatory found mistakes in =
+their sensitivity calculator
+for OTF observations with the 45-m telescope, and thus they have =
+extended the deadline of the coming proposal.
+Please see below.
+
+ Sincerely,
+ Shigehisa Takakuwa, on behalf of the Nobeyama Radio Observatory
+
+--------------------------------------------------------------------------=
+
+The correct version of the NRO time estimator is available
+now. Please recalculate the observation time for all *OTF PROPOSALS* =
+with not only
+FOREST but also other single pixel receivers. More information can be =
+found in our call for proposal page.
+
+http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index-e.html
+
+We'd like to remind you of the new deadline of Dec 7th 15:00JST =
+[06:00UT].
+
+We, again, apologize for our mistake to cause your inconvenience.
+
+Sincerely,
+Masao Saito
+Director of Nobeyama Radio Observatory, NAOJ=
+
+==============================================================================
+
+> Date: Thu, 3 Dec 2015 08:00:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Alessandro Sonnenfeld (Kavli IPMU)
+Topic:          Luminous and Dark Matter in Early-type Galaxies
+Time:           12/7 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+Strong gravitational lensing is a very powerful tool for measuring galaxy masses at cosmological distances and provides a unique opportunity for probing the distribution of dark matter and baryons in the most massive galaxies.
+We analysed a sample of 80 early-type galaxy strong lenses covering the redshift range 0.1 < z < 0.8. Using a Bayesian hierarchical inference approach we constrained the average properties of the distribution of dark matter masses and stellar Initial Mass Function across the population of massive galaxies. We find a positive correlation between galaxy mass and stellar IMF an anticorrelation between galaxy size and dark matter mass: at fixed stellar mass, the most compact systems appear to have a smaller amount of dark matter, in projection, within the inner 5 kpc.  This result is consistent with a scenario in which central galaxies in more massive halos experience more mergers relative to their less massive halos counterparts.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Stephane Guilloteau (Laboratoire d'Astrophysique de Bordeaux)
+Topic:          Fast imaging with ALMA : from CASA to GILDAS
+Time:           12/7 (Monday) 09:30 - 10:30
+Place:           R1203
+Abstract:
+The ALMA interferrometer uses the CASA software for calibration and imaging.
+While calibration can only be done with CASA, other softwares can be used for
+imaging. This can be convenient as CASA is rather slow.
+
+Exporting data from CASA is however non trivial, and requires some understanding of the differences between the data model used in CASA and the destination software.
+
+I will show how to transfer calibrated ALMA data from CASA to GILDAS, and
+illustrate the capacities of GILDAS to handle efficiently large data set. I will
+show how to efficiently use the fast visualisation and deconvolution tools
+of Mapping, as well as the spectral line analysis tools available in CLASS
+(natively of through the Python Weeds plug-in).
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Anne Dutrey (Laboratoire d'Astrophysique de Bordeaux)
+Topic:          GG Tau: The Ringworld and Beyond Mass Accretion and Planetary Formation in Young Multiple Stellar Systems
+Time:           12/9 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+In binary stellar systems, exoplanet searches have revealed planetary
+mass companions orbiting both in circumstellar and in circumbinary
+orbits. HD simulations and observations reveal that circumstellar and circumbinary
+disks may exhibit different physical conditions for planet formation. Although
+binaries and higher order multiple stars are relatively common in nearby star
+forming regions, surprisingly few systems with circumbinary distributions of
+proto-planetary material have been found. GG Tau A is one of these systems,
+it has a spectacular ring of dust and gas encircling its central
+triple star  has become a unique laboratory for investigating the physics of
+circumsystem gas and dust evolution. I review in this talk its
+physical properties in light of mass accretion and possible planet formation.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3:30PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Hsiao-Lin Wu (ASIAA)
+Topic:
+Time:           12/9 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

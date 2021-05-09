@@ -1,0 +1,37 @@
+> From: =?utf-8?B?6auY5qGRIOe5geS5hQ==?= <takakuwa@asiaa.sinica.edu.tw>
+> Subject: New time estimator for NRO45m observing proposal
+> Date: Mon, 30 Nov 2015 19:47:38 +0900
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+>         riaa <riaa@asiaa.sinica.edu.tw>
+
+ Dear All,
+
+ For your information. The Nobeyama Radio Observatory found mistakes in =
+their sensitivity calculator
+for OTF observations with the 45-m telescope, and thus they have =
+extended the deadline of the coming proposal.
+Please see below.
+
+ Sincerely,
+ Shigehisa Takakuwa, on behalf of the Nobeyama Radio Observatory
+
+--------------------------------------------------------------------------=
+
+The correct version of the NRO time estimator is available
+now. Please recalculate the observation time for all *OTF PROPOSALS* =
+with not only
+FOREST but also other single pixel receivers. More information can be =
+found in our call for proposal page.
+
+http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index-e.html
+
+We'd like to remind you of the new deadline of Dec 7th 15:00JST =
+[06:00UT].
+
+We, again, apologize for our mistake to cause your inconvenience.
+
+Sincerely,
+Masao Saito
+Director of Nobeyama Radio Observatory, NAOJ=
+
+==============================================================================

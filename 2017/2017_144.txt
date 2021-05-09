@@ -1,0 +1,153 @@
+==============================================================================
+
+In this issue (Aug 25 - Sep 01, 2017)
+
+1. ALMA pipeline meeting (Sep 15)
+2. ASIAA Colloquium/Seminar/Lunchtalk (Sep 06): George Djorgovski (Caltech)
+3. [EAALMA2017Korea-SOC] 2nd announcement
+
+==============================================================================
+
+> From: Trejo-Cruz Alfonso <trejo@asiaa.sinica.edu.tw>
+> Date: Wed, 30 Aug 2017 18:20:20 +0800
+> Subject: ALMA pipeline meeting
+> To: riaa@asiaa.sinica.edu.tw, alma-taiwan@asiaa.sinica.edu.tw
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear all,
+
+ALMA and the ARCs have been increasing the fraction of the observations
+that go through the pipeline, for both calibration and imaging stages. More
+and more PIs and archive users are encountering Scheduling Blocks (SB), the
+basic constituents of an ALMA delivery, processed by the pipeline.
+
+The ARC Taiwan node is organizing a short meeting for users interested in
+learning more about he pipeline deliveries and how to modify its results.
+The topics to be covered are:
+- Basic structure and files found in an ALMA pipeline delivery
+- Files/plots for quick assessment of calibration and imaging quality
+- Way to change/modify the pipeline results
+- Cases when is better to calibrate/image manually instead
+- Examples
+
+The meeting will be on September 15, from 1:30 to 3:30 pm. Users interested
+in the
+above topics are encouraged to attend.
+
+ALMA provides some material that is expected to get more extensive as the
+pipeline matures and provides for tools for users.
+It is not necessary to read through the documents in advance however.
+
+    CASAGuide page
+        https://casaguides.nrao.edu/index.php/ALMA_Imaging_Pipeline_
+Reprocessing
+
+    Pipeline User=E2=80=99s Guide
+   https://almascience.nrao.edu//documents-and-tools/alma-scie
+nce-pipeline-users-guide-casa-4.7.0
+
+Let us know in the doodle below if you plan to attend, so we know how many
+people to expect.
+
+https://doodle.com/poll/ttzxi5kseqgark6g
+
+
+Regards,
+
+Alfonso
+on behalf of the ARC
+
+==============================================================================
+
+> Date: Thu, 31 Aug 2017 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        George Djorgovski (Caltech)
+Topic:          Big Data Meet Big Black Holes: Quasars in the Time Domain
+Time:           9/6 (Wednesday) 14:20 - 15:20
+Place:          the 1F auditorium
+Abstract:
+Variability is one of the key observational properties of quasars, and it can be used as a probe of their fueling, physics, and evolution. A new generation of synoptic sky surveys, in combination with the novel data analytics tools, offers unprecedented data sets for the studies of quasars in the time domain.  I will illustrate this with examples from the Catalina Real-Time Transient Survey (CRTS), which has an open and growing archive of 500 million light curves, including 350,000 spectroscopically confirmed quasars, with the time baselines ranging from 10 minutes to 10 years.  This includes: a new approach to quasar discovery using a combination of variability and mid-IR colors from WISE, that will result in a catalog of at least a million new quasar candidates; the discovery of a characteristic time scale for a stochastic variability of quasars, that may probe the physics of their accretion disks; discoveries of type-changing quasars that show strong spectroscopic changes!
+  on the time scales of years, coupled with an anomalous variability; discovery of megaflares lasting a few years; and so on.  Perhaps the most interesting is the discovery of periodically variable quasars, which we interpret as a signature of close (milliparsec scale) supermassive black hole (SMBH) binaries en route to a merger.  Existence of such systems is expected from our understanding of hierarchical galaxy and SMBH assembly, and studies of this population can provide new insights into the final stages of SMBH mergers.  Long wavelength gravitational waves from them may be detectable with the pulsar timing arrays in the next decade.
+
+==============================================================================
+
+> Date: Sat, 2 Sep 2017 00:14:09 +0800
+> From: Patrick Koch <pmkoch@asiaa.sinica.edu.tw>
+> Subject: Fwd: [EAALMA2017Korea-SOC] 2nd announcement
+
+Dear Yi-Jehng,
+
+can you also announce this through TAN? Thanks a lot.
+
+best,
+Patrick
+
+---------- Forwarded message ----------
+> From: Woojin Kwon <wkwon@kasi.re.kr>
+> Date: Fri, Sep 1, 2017 at 10:11 AM
+> Subject: [EAALMA2017Korea-SOC] 2nd announcement
+> To: Daisuke Iono <d.iono@nao.ac.jp>, "tomo@phys.keio.ac.jp" <tomo@phys.keio.ac.jp>, "takeshi.sakai@uec.ac.jp" <takeshi.sakai@uec.ac.jp>, Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>, Patrick Koch <pmkoch@asiaa.sinica.edu.tw>, "hwangcy@astro.ncu.edu.tw" <hwangcy@astro.ncu.edu.tw>, Aeree Chung <achung@yonsei.ac.kr>, "Cho, Jungyeon" <jcho@cnu.ac.kr>
+Cc: Woojin Kwon <wkwon@kasi.re.kr>
+
+
+Dear SOC,
+
+Here is the 2nd announcement of the East Asian ALMA Science Workshop 2017. Please advertise it in your community. Thank you!
+
+Cheers,
+
+Woojin
+
+--------------------------------------------------------------
+The 2nd announcement of the East Asian ALMA Science Workshop 2017 ĄV Korea
+
+ĄE Announcement:
+This is the 2nd announcement of the East Asian ALMA Science Workshop 2017. The Korea ALMA group and the Korea Astronomy and Space Science Institute (KASI) are pleased to announce the East Asian (EA) ALMA Science Workshop 2017-Korea. This is the annual meeting of the EA ALMA community involving Japan, Taiwan, and Korea. Since being started in 2014 in Korea, completing the circle around (2015 Japan and 2016 Taiwan), this year it will be held back in Korea, on November 27-29, 2017.
+KASI welcomes all the participants of the EA ALMA Science Workshop 2017-Korea, those who have been carrying out ongoing ALMA projects and plan to propose and/or utilize ALMA observations in the near future. The meeting would be an ideal starting point to promote a new collaboration timely for the next proposal call. Daejeon is located around the middle of South Korea, and KASI is the astronomical hub of the Korea astronomical community, where you can see various activities for the future of the Korea astronomy. In order to maximize all the three aspects of updating the current ALMA sciences, sharing our science results, and promoting our future projects, this meeting will consist of review sessions, parallel sessions for Galactic and external galaxy sciences, and discussion sessions. Any astronomers who are interested in ALMA, regardless of having their own ongoing ALMA projects or not, are strongly encouraged to join the meeting and are most welcomed!
+
+ĄE Date: November 27-29, 2017
+
+ĄE Place: Korea Astronomy and Space Science Institute, Daejeon, Republic of Korea
+
+ĄE Homepage and registration: http://alma.kasi.re.kr/almakasi2017
+
+ĄE Invited Review Speakers:
+Low-mass star formation: Mario Tafalla
+High-mass star formation: Tomoya Hirota
+Other Galactic sciences (Galactic center): Masato Tsuboi
+Nearby galaxies: Kelsey Johnson
+High-redshift sciences: TBA
+
+ĄE Important dates
+    - 19/Jun: 1st announcement and registration open
+    - 31/Aug: 2nd announcement with updated information and the list of invited review speakers
+    - 30/Sep: Oral presentation deadline (title + abstract)
+    - 16/Oct: Updated information and a program draft
+    - 23/Oct: Registration (Poster presentation) close
+    - 30/Oct: The final program
+--------------------------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

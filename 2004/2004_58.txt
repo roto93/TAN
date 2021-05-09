@@ -1,0 +1,46 @@
+From jiang@astro.ncu.edu.tw Thu Apr 15 00:17:08 2004
+Date: Tue, 13 Apr 2004 09:35:30 +0800 (CST)
+From: Ing-Guey Jiang <jiang@astro.ncu.edu.tw>
+To: astro@asiaa.sinica.edu.tw
+Subject: NCU Astronomy Colloquium 
+
+
+
+
+                ***********************************
+                |  National  Central  University  |
+                * ------------------------------- *     
+                \_____ Astronomy  Colloquium _____/
+
+
+                 2:00 p.m. 16th April 2004 (Friday)
+              Science Building IV, Conf. Room, Rm 1013
+   
+                            
+              Speaker :  Zhi-Wei Zhang
+                         (IANCU)
+         
+              Title : Fast CCD Imaging Photometry of the TAOS Project
+
+              Abstract:
+
+              The TAOS project aims to examine the population of the KBOs 
+              by detecting stellar occultation events by these small 
+              objects at the outer edge of the solar system.  The event 
+              duration is expected to be shorter than 1 s, so a
+              high sampling rate is required in the CCD data acquisition.  
+              Furthermore, the photometric analysis must be highly 
+              efficient as the data volume is excessively large.  I will 
+              first describe briefly about the TAOS project, its 
+              scientific goal, unique instrumentation requirements, and 
+              how a masked adaptive aperture photometry has been developed 
+              to produce some thousands of light curves simultaneously at 
+              sub-second sampling.  I will report on test observations 
+              collected so far, which amounts to some 10^5 photometric
+              measurements and allows us to estimate the number of the 
+              false alarm rate of the experiment.
+
+
+
+
+
