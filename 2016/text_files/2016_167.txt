@@ -1,16 +1,17 @@
 ==============================================================================
 
-In this issue (Oct 26 - 28, 2016)
+In this issue (Oct 15 - 21, 2016)
 
-1. ASIAA Colloquium/Seminar/Lunchtalk (Oct 31): Keping Qiu (Nanjing University)
-                      (Oct 31): Dominique Bockelee-Morvan (LESIA, Obs of Paris)
-                                      (Nov 01): Mikako Matsuura (Cardiff Univ)
-                                      (Nov 02): Edwige Chapillon (LAB/IRAM)
-2. NTHU Astronomy Colloquium/Seminar Series (Nov 04): Pai-hsien J. Hsu (NTHU)
+1. ASIAA Colloquium/Seminar/Lunchtalk (Oct 24): Sergio Martin (ALMA)
+                                      (Oct 25): Min S. Yun (U of Massachusetts)
+                                      (Oct 26): Scott Chapman (Dalhousie Univ)
+                                      (Oct 26): Lee, Yi-Wei (ASIAA)
+2. NTNUES Astronomy colloquium (Oct 25): Dominique Bockelee-Morvan (Obs Paris)
+3. NTHU Astronomy Colloquium/Seminar Series (Oct 28): Kouichi Hirotani (TIARA/ASIAA)
 
 ==============================================================================
 
-> Date: Thu, 27 Oct 2016 11:30:01 +0800
+> Date: Thu, 20 Oct 2016 11:30:01 +0800
 > To: circular_colloquium@asiaa.sinica.edu.tw
 > Subject: Colloquium/Seminar/Lunchtalk next week
 > From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
@@ -18,82 +19,101 @@ In this issue (Oct 26 - 28, 2016)
 Check on the website for the upcoming schedule
 http://www.asiaa.sinica.edu.tw/
 
-*** Lunch Talk ***
-Please order the lunch box by *3PM* this Friday.
-https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
-If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+*** Special Seminar ***
 ____________________________________________________
-Speaker:        Keping Qiu (Nanjing University)
-Topic:          Collimated and precessing outflows in a high-mass star forming core: a massive binary or multiple star
-Time:           10/31 (Monday) 12:00 - 13:00
+Speaker:        Sergio Martin (ALMA)
+Topic:          Astrochemistry in opaqueness Compact Obscured Nuclei: Arp 220
+Time:           10/24 (Monday) 14:20 - 15:20
 Place:           R1203
 Abstract:
-Most stars form in binary or multiple systems, but how such stars come into birth is poorly understood. This is particularly true for high-mass stars. It is very difficult to directly image high-mass binaries or multiples in formation, because they are distant, deeply embedded, and in a clustered and complex environment. Observations of parsec sized outflows or jets could be a useful probe to the central multiplicity, and the morphological and kinematical structures of the outflows may provide valuable insights into the formation mechanism of the central binaries or multiples. Here I shall talk about our high resolution observations of collimated and precessing outflows in a high-mass star forming core, and discuss about how these observations help us to understand the formation of the central proto-binary or triple star.
+Probing the inners regions behind the optically thick dust layer of heavily obscured LIRGs and ULIRGs are a major observational challenge. The obscuration of Av>1000 mag prevent the
+direct observation at all wavelenghts. Understanding the nuclear engines of these galaxies may be key for a complete AGN and starburst census as well as understanding nuclear growth and feedback mechanisms. Molecular observations have been usually exploited as a way to circunvent
+obscuration, however molecular diagnostics are still debated in "unobscured" galaxies, let alone towards this objects. The prototypical ULIRG Arp 220, usual suspect and closest example of
+ULIRG CON, has been the target of multiple ALMA observations showing that obscuration and absorption (both self-absorption and continuum absorption) may actually be preventing direct observation of the nuclear few tenths of parsercs even with high density molecular probes. Molecular transitions in particular excitation conditions might be the answer to peer into these objects. That is the case of the vibrationally excited transitions of dense molecular tracers such as HCN and HC3N. Here i will summarize the latest observational results towards Arp 220 which illustrates the observational difficulties inherent to such obscured nuclei. I will also present the recent results on vibrationally excited emission in (U)LIRGs which have gain relevance during the last few years.
 
 
 *** Special Seminar ***
 ____________________________________________________
-Speaker:        Dominique Bockelee-Morvan (LESIA, Observatory of Paris)
-Topic:          Comet composition : clues to Solar System formation
-Time:           10/31 (Monday) 14:20 - 15:20
+Speaker:        Min S. Yun (University of Massachusetts)
+Topic:          The Large Millimeter Telescope (LMT) and the Most Luminous Infrared Galaxies in the Universe
+Time:           10/25 (Tuesday) 14:20 - 15:20
 Place:           R1203
 Abstract:
-The composition of cometary ices provides clues to the chemistry and conditions prevailing in the early solar system. Since the detection of HCN at millimeter wavelengths in comet C/1973 E1 (Kohoutek),  almost 30 molecules have been identified in cometary atmospheres from remote sensing observations from ground or from space platforms. Thanks to progresses in instrumentation and the availability of large telescopes, complex organic molecules have been identified. Measurements will be reviewed and the observed chemical diversity among comets will be presented. The relative abundances will be compared to values measured in star-forming regions to discuss the possible formation routes of cometary molecules. The talk will also present new findings about comet composition obtained from the Rosetta mission to comet 67P/Churyumov-Gerasimenko.
+The Large Millimeter Telescope (LMT) is now in the final phase of completing the full 50-m aperture with fully operating active surface system, but it has been conducting a productive Early Science campaign since 2013 by illuminating the inner 32-m diameter using first light instruments 1.1mm bolometer camera AzTEC and the Redshift Search Receiver (RSR).  In this talk, I will present some of the highlights of the ES scientific results, including my own research on the most luminous IR galaxies in the Universe through the LMT follow-up of the candidate sources we identified from the Planck database.  I will also briefly discuss the next generation LMT instruments currently in construction and their key science programs.
 
-
-*** Special Seminar ***
-____________________________________________________
-Speaker:        Mikako Matsuura (Cardiff University)
-Topic:          Dust and molecules in Supernova 1987A
-Time:           11/1 (Tuesday) 14:20 - 15:20
-Place:           R1203
-Abstract:
-Supernovae (SNe) play a crucial role in the chemical evolution of galaxies by enriching their interstellar media (ISM) with heavy elements and dust.
-
-The formation of dust in core-collapse supernovae (SNe) is one of the unresolved issues in the chemical and physical evolution of supernovae. I will present Herschel Space Observatory’s discovery of a large dust reservoir in SN 1987A. The estimated dust mass is 0.1-1 solar masses, which are typically 1000 times higher than previously thought. A significant fraction of the elements synthesized by the supernova can condense into dust grains. That suggests that SNe may be important source of dust in ISM of galaxies.
-
-With ALMA, we discovered CO, SiO, HCO+ and SO lines in SN 1987A. The observations can probe insight of molecular chemistry, leading dust formation in SN. In millimetre wavelength, isotopologue lines appear at separated wavelengths, enabling constraining isotope ratios of 28Si/29Si and 28Si/30Si. ALMA can provide crucial limit on nuclear synthesis in high mass stars and supernovae.
 
 
 *** Colloquium ***
 ____________________________________________________
-Speaker:        Edwige Chapillon (LAB/IRAM)
-Topic:          Study of protoplanetary disks at millimeter wavelength
-Time:           11/2 (Wednesday) 14:20 - 15:20
+Speaker:        Scott Chapman (Dalhousie University)
+Topic:          Gas, Dust, and Quenching in Dusty Star-Forming Galaxies in the Early Universe
+Time:           10/26 (Wednesday) 14:20 - 15:20
 Place:           R1203
 Abstract:
-The study of protoplanetary disks is essential to constrain the planets formation mechanism. Because these disks are small and cold objects, (sub)millimeter interferometry is a key to unveil their physical conditions, providing us with information on both the dust and gas content. However, one needs physical and chemical models to interpret the observations. In this talk I will present recent results based on observations with the IRAM instruments and ALMA.
+The most intense star formation in the universe takes place in dusty, star-forming galaxies at high redshift. Recent observations and circumstantial evidence suggest that these galaxies are the likely progenitors of the earliest generation of massive, quiescent galaxies. I will discuss recent efforts to detect and resolve the gas and dust on sub-kiloparsec scales using observations of gravitationally lensed dusty galaxies discovered by the South Pole Telescope conducted by ALMA and other facilities. These observations demonstrate the richness of the molecular ISM, shed light on the relative distribution of star formation and the gas from which stars form, and offer a unique window into the evolution of dusty galaxies impossible to obtain without the aid of gravitational lensing. Finally, I will present new ALMA observations which show signs of feedback on the molecular ISM in dusty star-forming galaxies, providing tantalizing evidence of an evolutionary connection between hi!
+ gh-redshift dusty galaxies and the first massive, quiescent systems.
+
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Lee, Yi-Wei (ASIAA)
+Topic:
+Time:           10/26 (Wednesday) 12:00 - 13:00
+Place:           R1203
 
 ==============================================================================
 
-> From: "Ing-Guey Jiang" <jiang@phys.nthu.edu.tw>
-> Cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
->         yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
+> Date: Thu, 20 Oct 2016 17:19:22 +0800
+> From: "chenlw" <chenlw@ntnu.edu.tw>
+> To: chenlw@ntnu.edu.tw
+> Subject: NTNUES colloquium 25/Oct/2016: The exploration of comet Churyumov-Gerasimenko by the ESA/Rosetta mission
+
+* Teatime at S801-2 after the colloquium
+
+   Department of Earth Sciences
+ National Taiwan Normal University
+No. 88, Sec. 4, Tingzhou Rd, Taipei
+
+        C O L L O Q U I U M
+       =====================
+         25/Oct/2016 14:20
+  Room S101, 1F, Research Building
+
+
+
+TITLE: The exploration of comet Churyumov-Gerasimenko by the ESA/Rosetta mission
+
+SPEAKER: Dr Dominique Bockelee-Morvan (Observatoire Paris-Site de Meudon, France)
+
+
+ABSTRCT: http://140.122.144.95/colloq/abs/20161025.txt
+
+
+NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+==============================================================================
+
+> Date: Fri, 21 Oct 2016 10:44:05 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+        yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
 > Subject: NTHU Astronomy Colloquium/Seminar Series
-> Date: Fri, 28 Oct 2016 19:06:06 +0800
 
 ################################################
-
 NTHU Astronomy Colloquium/Seminar Series
-
 ################################################
 
-
-Time Coordinate: 3:30 pm 4th Nov. 2016 (Friday)
+Time Coordinate: 3:30 pm 28th Oct. 2016 (Friday)
 Space Coordinate: NTHU General Building II, R521
 
 ************************************************
+Speaker: Dr. Kouichi Hirotani (TIARA/ASIAA)
 
-Speaker: Prof. Pai-hsien Jennifer Hsu (NTHU)
-
-Title: The Large Hadron Collider:
-       What's it all about?
-
-Abstract:
-I will give an introduction about the Large Hadron Collider (LHC) and
-the ATLAS experiment at the LHC, of which NTHU has joined since 2014.
-Recent highlights and current status of the LHC and ATLAS will also be
-presented.
+Title: The Black-Hole Gap Model
 
 
 Tea/Discussion Time is followed ! All Welcome !!

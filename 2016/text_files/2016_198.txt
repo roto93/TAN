@@ -1,47 +1,147 @@
-> Date: Mon, 12 Dec 2016 20:15:58 -0800
-> From: nkw <nkw@phys.sinica.edu.tw>
-> To: astro@asiaa.sinica.edu.tw
-> Subject: Primordial Black Hole Workshop ASIoP Jan 6th
+==============================================================================
 
-Dear Colleagues,
+In this issue (Dec 02 - 07, 2016)
 
-You are cordially invited to participate in the workshop on Primordial
-Black Holes, 7F Institute of Physics, Academia Sinica, on Jan 6th
-(Friday), 2017. Please register for the workshop by the link,
-
-https://goo.gl/forms/6N5zYFQkER7VfhWN2
-
-If you have further query, please email Miss Choy Yuen Sam at
-samcy@phys.sinica.edu.tw.
-
-Best regards,
-Kin-Wang Ng
-on behalf of the workshop committee
-
--------------------------------
-â€śWorkshopÂ onÂ PrimordialÂ BlackÂ Holesâ€ť
-7F, Institute of Physics, Academia Sinica
-Jan 6th, 2017, Taiwan
-
-09:00 Registration and coffee
-09:45 TeruakiÂ Suyama (RESCEU)
-       PBH scenario for the gravitational-wave event GW150914
-11:00Â YuuitiÂ Sendouda (Hirosaki University)
-       Gamma-ray constraints on the PBH mass function
-       around and above 5x10^14 grams
-12:15 Bento
-14:00Â KyoheiÂ Mukaida (IPMU)
-       Metastability, chaotic inflation, and PBHs
-15:15Â CoffeeÂ break
-16:00Â Kin-Wang Ng (AS)
-       PBHs in trapped inflation
-
-Invited speakers:
-KyoheiÂ Mukaida (Kavli Institute for the Physics and Mathematics of the
-Universe)
-YuuitiÂ Sendouda (Hirosaki University)
-TeruakiÂ Suyama (Research Center for the Early Universe, University of
-Tokyo)
------------------------------------
+1. Two ALMA postdoctoral positions in Taiwan - JRID57596
+2. postdoc positions in ASIAA
+3. NTHU Astronomy Colloquium/Seminar Series (Dec 09): Marvis Cheong (NTHU)
+                                            (Dec 09): Hao-Yuan Duan (NTHU)
 
 ==============================================================================
+
+> Date: Thu, 1 Dec 2016 14:52:16 +0800
+> From: Vivien Chen <hchen@phys.nthu.edu.tw>
+> To: almau@phys.nthu.edu.tw
+> Subject: Two ALMA postdoctoral positions in Taiwan - JRID57596
+
+Dear all:
+
+The ALMA postdoc ad is available online now.  Please help to circulate the ad.
+
+Vivien
+
+--------------------------------------------------------------------
+
+Two ALMA postdoctoral positions in Taiwan - JRID57596
+
+The UCAT (University Consortium of ALMA-Taiwan) invites applications for 2 postdoctoral positions working on ALMA-related sciences.
+
+Taiwan has joined the ALMA project through collaborations with Japan and North America. To promote ALMA research in Universities, UCAT is formed by seven leading universities in radio astronomy in Taiwan - National Tsing Hua University, National Central University, National Taiwan Normal University, National Taiwan University, National Cheng Kung University, National Sun Yat-sen University, and Tamkang University. Areas of research interests of the UCAT faculty include star formation, astrochemistry, active galaxies, galaxy evolution, solar system, and cosmology. More information can be found at our homepage (http://alma.astr.nthu.edu.tw/).
+
+Scientists with radio interferometry background are preferred; however, all candidates with a PhD in any area of astronomy interested to conduct research using ALMA are encouraged to apply. UCAT postdoctoral fellows are expected to conduct their research at one of the seven UCAT universities. Being in a Taiwanese research institute, UCAT postdoctoral fellows have the privilege to apply for Taiwan�¦s share of observing time for ALMA, SMA, CFHT, JCMT, SMT and the 12m of ARO.
+
+The UCAT postdoc appointments will initially be for two years, with possible extension for additional years. Successful applicants are expected to start no later than August 1, 2017. Please submit (1) a curriculum vitae, (2) a publication list, (3) a brief summary of past research experiences, (4) a future research plan, and (5) have three letters of recommendation sent to Prof. Vivien Chen (hchen@phys.nthu.edu.tw) by January 15, 2017 for full consideration.
+
+Also listed on AAS Job Register: Two ALMA Postdoctoral positions in Taiwan (https://jobregister.aas.org/node/57596
+
+
+
+--
+Associate Professor
+Institute of Astronomy & Department of Physics
+National Tsing Hua University
+Hsinchu, Taiwan 30013
+-------
+    Phone: +886-3-5742518
+    Fax: +886-3-574-2499
+   Webpage: http://www.phys.nthu.edu.tw/e_teacher/hchen.html
+--------------------------------------
+"The world is a dangerous place, not because of
+those who do evil, but because of those who
+look on and do nothing."
+--- Albert Einstein
+
+==============================================================================
+
+> From: Naomi Hirano <hirano@asiaa.sinica.edu.tw>
+> Subject: postdoc positions in ASIAA
+> Date: Sat, 3 Dec 2016 15:52:15 +0900
+> To: astro@asiaa.sinica.edu.tw
+
+Dear colleague,
+
+The deadline for the ASIAA postdoc application has been updated
+to Dec. 15 (Thu.), 2016.
+
+——————————
+
+Postdoctoral Positions in Observation, Theory, or Instrumentation
+
+The Academia Sinica Institute of Astronomy and Astrophysics (ASIAA) has openings for postdoctoral positions. Candidates who work in (a) Optical/IR/Radio astronomy, (b) Theoretical/Computational Astrophysics, or (c) Instrumentation (optical/IR/submillimeter) are especially encouraged to apply. Applicants should hold a Ph.D. degree in astronomy/astrophysics, physics, engineering or equivalent fields. Those who are expecting to receive a PhD degree soon can also apply.
+
+ASIAA is an institute of Academia Sinica, the leading national research organization of Taiwan. The Institute has approximately 200 members. Research topics include the Solar and Exoplanetary Systems, Star and Planet Formation, Interstellar medium and Astrochemistry, Stars and Compact Objects, Galactic Dynamics, Active Galaxies, Galaxy Evolution, Cosmology, and Instrumentation Developments.
+
+ASIAA has access to forefront radio observing facilities. ASIAA operates the SMA in collaboration with the SAO, and is a partner institution in the ALMA project through collaborations with East Asia and North America. In August 2016, ASIAA established the ASIAA CASA (Common Astronomy Software Applications) Development Center (ACDC). ASIAA is also a member of EACOA (East Asian Core Observatories Association) and has access to the James Clerk Maxwell Telescope. The Y.T. Lee Array on Mauna Loa is being modified for intensity mapping observations of CO rotational transitions. A retrofitted ALMA-NA prototype telescope is now being deployed to Greenland for submm VLBI observations of shadows of supermassive black holes and related sciences, as well as single-dish THz observations.
+
+ASIAA has gained access to the CFHT, Subaru Telescope, and associated surveys, such as the Hyper Suprime-Cam survey (HSC), through participation in instrumentation developments. The TAOS-2 project, consisting of three 1.3m telescope located at San Pedro Mártir in Mexico, will see first light in 2016 and conduct a survey of small objects beyond Neptune and other time-domain sciences. ASIAA is also an Associate Institutional Member of the SDSS-IV project, which is an on-going program to study the Milky Way, the nearby galaxy population, and large-scale structure with the APOGEE, MaNGA, and eBOSS surveys, respectively.
+
+Theoretical and computational astrophysics is pursued in our theoretical division, TIARA (Theoretical Institute for Advanced Research in Astrophysics). The CHARMS initiative incubated by TIARA, for example, aims to develop numerical simulators to bridge observations and theories in fluid dynamics, chemistry, and radiative transfer.
+
+ASIAA offers excellent research facilities (more details in our Home Page) and an international environment (~55 foreign members from 18 countries), where English is the working language.  We seek candidates who will actively participate in the Institute's projects, in particular: (1) optical/IR astronomers to pursue research topics related to Institute interests (e.g., HSC, PFS, and/or SDSS-IV); (2) radio astronomers to pursue scientific observations or participate in ongoing tests and software-developments with ALMA, SMA, VLBI or Y.T. Lee Array; (3) solar system or planetary astronomers to participate in the study of small objects beyond Neptune through TAOS-2; (4) scientists or engineers to participate in instrumentation development for Optical/IR telescopes or radio telescopes; or (5) scientists with backgrounds in astrophysics or planetary sciences to pursue topics in theoretical astrophysics, computational fluid dynamics, or MHD. More information on targeted areas of r!
+ ecruitment can be found at ASIAA Job Opening.
+
+The postdoc appointments at ASIAA will initially be for two years, with possible extension for additional two years based on satisfactory performance.
+
+Applicants should apply online and submit (1) a curriculum vitae, (2) publication list, (3) a summary of past and current research (or instrumentation experience), and (4) a plan for future research. Applicants are also requested to arrange three letters of recommendation to be submitted online at the same site. Applications submitted by or on 15 December 2016 will receive full consideration.
+
+
+——————————
+
+Regards,
+Naomi Hirano (on behalf of the ASIAA postdoc selection committee)
+
+==============================================================================
+
+> Date: Sat, 3 Dec 2016 16:35:19 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+>         yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 9th Dec. 2016 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker A: Marvis Cheong (NTHU)
+
+Title: Accretion processes in protostar
+        and protostellar disk formation
+------------------------------------------------
+Speaker B: Hao-Yuan Duan (NTHU)
+
+Title: Searching the First Hydrostatic Core Candidates.
+
+Abstract:
+First Hydrostatic Cores (FHCs) are the transient phase between
+prestellar cores and Class 0 protostars. It is a key to
+understand the earliest stage of star formation. Recently,
+some potential candidates of FHCs have been suggested, but
+not enough to enable statistical property studies.
+
+In the talk, I will summarize the papers which propose candidates
+of FHCs. I will also talk about my recently work on searching
+FHCs candidates in Perseus molecular cloud.
+
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

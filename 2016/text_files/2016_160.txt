@@ -1,29 +1,38 @@
-> Date: Thu, 20 Oct 2016 17:19:22 +0800
-> From: "chenlw" <chenlw@ntnu.edu.tw>
-> To: chenlw@ntnu.edu.tw
-> Subject: NTNUES colloquium 25/Oct/2016: The exploration of comet Churyumov-Gerasimenko by the ESA/Rosetta mission
+> Date: Thu, 13 Oct 2016 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
 
-* Teatime at S801-2 after the colloquium
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
 
-   Department of Earth Sciences
- National Taiwan Normal University
-No. 88, Sec. 4, Tingzhou Rd, Taipei
-
-        C O L L O Q U I U M
-       =====================
-         25/Oct/2016 14:20
-  Room S101, 1F, Research Building
-
-
-
-TITLE: The exploration of comet Churyumov-Gerasimenko by the ESA/Rosetta mission
-
-SPEAKER: Dr Dominique Bockelee-Morvan (Observatoire Paris-Site de Meudon, France)
+*** Lunch Talk ***
+Please order the lunch box by *3:30PM* this Friday. 
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________ 
+Speaker:    Wei-Hao Wang, et al. (ASIAA)
+Topic:         Conference report: 5 years of ALMA
+Time:         10/17 (Monday) 12:00 - 13:00
+Place:         R1203
 
 
-ABSTRCT: http://140.122.144.95/colloq/abs/20161025.txt
+*** Special Seminar ***
+____________________________________________________ 
+Speaker:    Toshifumi Futamase (Kyoto Sangyo University, Japan)
+Topic:         Constraints on Neutrino Masses from the Lensing Dispersion of Type Ia Supernovae
+Time:         10/18 (Tuesday) 14:20 - 15:20
+Place:         R1203
+Abstract:
+We investigate how accurately the total mass of neutrinos is constrained from the magnitude dispersion of Type Ia supernovae due to the effects of gravitational lensing. For this purpose, we use the propagation equation of light bundles in a realistic inhomogeneous universe and propose a sample selection for supernovae to avoid difficulties associated with small scale effects such as strong lensing or shear effects. With a fitting formula for the non-linear matter power spectrum taking account of the effects of massive neutrino, we find 峉m彖 < 1.1 eV (95% CL) for future optical imaging surveys: WFIRST and LSST. Furthermore, we show that it is possible to realize the current tightest limit 峉m彖 < 0.2 eV from deeper surveys, z > 2.5, if we are able to reduce the magnitude error except for lensing to about half of the present value.
 
 
-NTNUES colloq. webpage: http://140.122.144.95/colloq
+
+*** Colloquium ***
+____________________________________________________ 
+Speaker:    Ue-Li Pen (CITA)
+Topic:         TBA
+Time:         10/19 (Wednesday) 14:20 - 15:20
+Place:         R1203
 
 ==============================================================================

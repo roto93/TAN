@@ -19,10 +19,10 @@ receiver with ALMA Band-9 mixers. The SMT control system supports both
 dual-polarization ("2 IF mode"), and dual-polarization, dual-sideband
 observations ("4 IF mode"), as well as OTF mapping. Proposal candidates should
 consult the ARO website for technical specifications:
-  https://www.as.arizona.edu/arizona-radio-observatory 
+  https://www.as.arizona.edu/arizona-radio-observatory
 
 Proposal candidates should download the updated Proposal Summary Sheet here:
-  https://www.as.arizona.edu/proposals-0 
+  https://www.as.arizona.edu/proposals-0
 Proposal candidates are required to list on the Proposal Summary Sheet their
 requested observing blocks (LST ranges), dates (MST=UTC-7hrs) on which they are
 NOT available to observe, and dates in which sources in those observing blocks

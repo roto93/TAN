@@ -1,31 +1,220 @@
-> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
-> Date: Wed, 21 Dec 2016 11:17:16 +0800
-> Subject: Gemini Fast Turnaround program
-> To: Network Taiwan Astronomy <astro@asiaa.sinica.edu.tw>
+==============================================================================
 
-Dear OIR astronomers in Taiwan,
+In this issue (Dec 10 - 17, 2016)
 
-Here is the announcement about the Gemini Fast Turnaround program. Taiwan community has an access to this program through Taiwan-Subaru collaboration framework (and, of course, Subaru-Gemini collaboration framework). The next deadline is already approaching.
-
-As you may know, this program is very unique, and I strongly suggest you to carefully read the instruction and understand pros/cons of the program before the application. If you think that this program is not useful for your requirements, wait for a while for the next regular Subaru (and Gemini) call for their proposals.
-
-Regards,
-Youichi Ohyama (ASIAA)
-
-> Dear (Potential) Fast Turnaround Users
-> 
-> 
-> The next FT deadline is at 23:59 Hawaiian Standard Time on December 31. The FT program has been used to conduct pilot studies, complete data sets, and follow up newly-discovered objects, although we welcome proposals for any kind of project with scientific value.
-> 
-> Both Gemini North and South accept FT proposals. See the FT blog for subscription rates, remaining partner time and other information: http://staff.gemini.edu/ft/
-> 
-> Please be aware that GMOS-N is off the telescope Feb 6-March 29. This also affects GRACES. More details in the call:http://www.gemini.edu/sciops/observing-gemini/observing-modes/fast-turnaround/call-for-proposals
-> 
-> ***Please note that specific Fast Turnaround proposal templates are now REQUIRED for FT proposals.*** They can be found here: http://files.gemini.edu/~software/phase1/templates/2016B/
-> 
-> For full details about the program, including the latest Call for Proposals, see the FT web pages (www.gemini.edu/sciops/observing-gemini/observing-modes/fast-turnaround).
-> 
-> All the best,
-> The Gemini Fast Turnaround support team
+0. Sad News - Prof. Fred Lo passed away
+1. Primordial Black Hole Workshop ASIoP (Jan 06, 2017)
+2. Update on the ALMA Band 1 Science workshop (Jan 16-18, 2017)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Dec 19): Hiroyuki Hirashita (ASIAA)
+                                (Dec 20): Hsin-Yu Chen (University of Chicago)
+                                (Dec 21): Siyi Xu (ESO)
+                                (Dec 21): Liu, Kuan-Yu (ASIAA)
+4. NTHU Astronomy Colloquium/Seminar Series (Dec 23): Chia-Hsuan Cheng (NTHU)
+                                                      Sheng-Jun Lin (NTHU)
 
 ==============================================================================
+
+> Date: Sat, 17 Dec 2016 10:47:48 +0800
+> To: iaa <iaa@asiaa.sinica.edu.tw>
+> CC: pearlhuang@gate.sinica.edu.tw
+> Subject: Sad News
+
+Dear All,
+
+Sorry to inform you that Academician Fred Lo past away at about 6:00 pm Dec. 16 (US time) in Charlottesville, US at his 70.  As you know, Dr. Lo fight against the cancer for couple years, and the situation became difficult in this week..
+
+We all lost our great mentor, close friend and family.
+
+Sincerely,
+Winny
+
+
+Winny Hsieh (ÁÂ¨ÎĽz)
+Senior Research Specialist & Chief Administrator
+Institute of Astronomy & Astrophysics
+Academia Sinica
+------------------------------------------------------------------------------
+Phone:+886-2-2366-5326  (°|¤şŞ˝Ľ·5326)    Fax: +886-2-2367-7849
+
+Mailing Address:
+11F of Astronomy-Mathematics Building, National Taiwan University
+No.1, Sec. 4, Roosevelt Road, Taipei 10617, Taiwan, R.O.C.
+
+==============================================================================
+
+> Date: Mon, 12 Dec 2016 20:15:58 -0800
+> From: nkw <nkw@phys.sinica.edu.tw>
+> To: astro@asiaa.sinica.edu.tw
+> Subject: Primordial Black Hole Workshop ASIoP Jan 6th
+
+Dear Colleagues,
+
+You are cordially invited to participate in the workshop on Primordial
+Black Holes, 7F Institute of Physics, Academia Sinica, on Jan 6th
+(Friday), 2017. Please register for the workshop by the link,
+
+https://goo.gl/forms/6N5zYFQkER7VfhWN2
+
+If you have further query, please email Miss Choy Yuen Sam at
+samcy@phys.sinica.edu.tw.
+
+Best regards,
+Kin-Wang Ng
+on behalf of the workshop committee
+
+-------------------------------
+â€śWorkshopÂ onÂ PrimordialÂ BlackÂ Holesâ€ť
+7F, Institute of Physics, Academia Sinica
+Jan 6th, 2017, Taiwan
+
+09:00 Registration and coffee
+09:45 TeruakiÂ Suyama (RESCEU)
+       PBH scenario for the gravitational-wave event GW150914
+11:00Â YuuitiÂ Sendouda (Hirosaki University)
+       Gamma-ray constraints on the PBH mass function
+       around and above 5x10^14 grams
+12:15 Bento
+14:00Â KyoheiÂ Mukaida (IPMU)
+       Metastability, chaotic inflation, and PBHs
+15:15Â CoffeeÂ break
+16:00Â Kin-Wang Ng (AS)
+       PBHs in trapped inflation
+
+Invited speakers:
+KyoheiÂ Mukaida (Kavli Institute for the Physics and Mathematics of the
+Universe)
+YuuitiÂ Sendouda (Hirosaki University)
+TeruakiÂ Suyama (Research Center for the Early Universe, University of
+Tokyo)
+-----------------------------------
+
+==============================================================================
+
+> To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw,
+>         band1-sv@asiaa.sinica.edu.tw
+> From: Oscar Morata <omorata@asiaa.sinica.edu.tw>
+> Subject: update on the ALMA Band 1 Science workshop (Jan 16-18, 2017)
+> Date: Wed, 14 Dec 2016 14:41:09 +0800
+
+Dear all
+
+the program of the ALMA Band 1 Science workshop that will be held at
+ASIAA in Taipei during 16--18 January 2017 is already online:
+
+https://events.asiaa.sinica.edu.tw/workshop/20170116/program.php
+
+We want to remind you that *** registration is still open until January
+1st 2017***. If you are interested in attending the workshop, especially
+if you are in Taiwan, please register before the deadline.
+
+We will dedicate Thursday 19th and Friday 20th January to the discussion
+of the Band 1 Science Verification. If you plan on attending and have
+not yet told us, please get in touch with Oscar Morata
+(omorata@asiaa.sinica.edu.tw). The SV meeting will be held in ASIAA
+R1107, which has a relatively low limited seating space and we would
+like to know how many extra people are intending to to come.
+
+Finally, we are studying the possibility of providing remote access to
+the SV meeting, we will provide more details if we find an appropriate
+way of doing it.
+
+Best regards,
+    Oscar Morata
+    ALMA Band 1 Project Scientist
+    on behalf of the SOC
+
+==============================================================================
+
+> Date: Thu, 15 Dec 2016 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Hiroyuki Hirashita (ASIAA)
+Topic:          SED fitting to galaxies using Cigale
+Time:           12/19 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+While I stayed in Marseille in November, I learned how to use an spectral (SED) fitting code, Cigale. I will briefly talk about it and introduce our plan of an application to Lyman break galaxies at high redshift.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Hsin-Yu Chen (University of Chicago)
+Topic:          Cosmology and Astrophysics with Gravitational-Wave Observations
+Time:           12/20 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The first detections of gravitational waves by LIGO-Virgo initiated the era of Gravitation-Wave Astronomy. Gravitational-waves serve as a new and independent probe of the Universe. In addition, the combination of gravitational-waves with information from other messengers, such as electromagnetic emission from the same source, will lead to a more complete and accurate understanding of cosmology and astrophysics. In this talk, I will discuss what we learned from the LIGO-Virgo first observing run, and what scientific goals we expect to reach in the next few years.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Siyi Xu (ESO)
+Topic:          Planetary Systems around White Dwarfs
+Time:           12/21 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Recent studies have shown that extrasolar planetary systems are prevalent around main-sequence stars in the Milky Way. However, little is known about their fate towards the end of the stellar evolution. In this talk, I will show various evidence that some white dwarfs are dynamically active and planetary systems could be prevalent around white dwarfs. I will also talk about the recent discovery of an actively disintegrating asteroid around a white dwarf and how this system fits into our overall understanding of the fate of planetary systems.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Liu, Kuan-Yu (ASIAA)
+Topic:          The EAO/JCMT instrument - Heterodyne Array Receiver Program (HARP)
+Time:           12/21 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================
+
+> Date: Sat, 17 Dec 2016 18:59:18 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+> Subject: NTHU Astronomy Colloquium/Seminar Series
+
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
+
+Time Coordinate: 3:30 pm 23rd Dec. 2016 (Friday)
+Space Coordinate: NTHU General Building II, R521
+
+************************************************
+Speaker A: Chia-Hsuan Cheng (NTHU)
+
+Title: The host's density perturbation from satellite system
+================================================
+Speaker B: Sheng-Jun Lin (NTHU)
+
+Title: The Deuterium Fraction in Dense Cores
+
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                        TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                               Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:        kuan @ asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the back issues:           <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

@@ -1,52 +1,27 @@
-> Date: Thu, 15 Dec 2016 11:30:02 +0800
-> To: circular_colloquium@asiaa.sinica.edu.tw
-> Subject: Colloquium/Seminar/Lunchtalk next week
-> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+> Date: Fri, 9 Dec 2016 17:22:16 +0800 (CST)
+> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
+> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
+>         yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
+> Subject: NTHU Astronomy Colloquium/Seminar Series
 
-Check on the website for the upcoming schedule
-http://www.asiaa.sinica.edu.tw/
+################################################
+NTHU Astronomy Colloquium/Seminar Series
+################################################
 
-*** Lunch Talk ***
-Please order the lunch box by *3PM* this Friday.
-https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
-If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
-____________________________________________________
-Speaker:        Hiroyuki Hirashita (ASIAA)
-Topic:          SED fitting to galaxies using Cigale
-Time:           12/19 (Monday) 12:00 - 13:00
-Place:           R1203
-Abstract:
-While I stayed in Marseille in November, I learned how to use an spectral (SED) fitting code, Cigale. I will briefly talk about it and introduce our plan of an application to Lyman break galaxies at high redshift.
+Time Coordinate: 3:30 pm 16th Dec. 2016 (Friday)
+Space Coordinate: NTHU General Building II, R521
 
+************************************************
+Speaker A: Chao-Hsiung Tseng (NTHU)
 
-*** Special Seminar ***
-____________________________________________________
-Speaker:        Hsin-Yu Chen (University of Chicago)
-Topic:          Cosmology and Astrophysics with Gravitational-Wave Observations
-Time:           12/20 (Tuesday) 14:20 - 15:20
-Place:           R1203
-Abstract:
-The first detections of gravitational waves by LIGO-Virgo initiated the era of Gravitation-Wave Astronomy. Gravitational-waves serve as a new and independent probe of the Universe. In addition, the combination of gravitational-waves with information from other messengers, such as electromagnetic emission from the same source, will lead to a more complete and accurate understanding of cosmology and astrophysics. In this talk, I will discuss what we learned from the LIGO-Virgo first observing run, and what scientific goals we expect to reach in the next few years.
+Title: The 2015 Summer V404 CYG Outburst
+================================================
+Speaker B: Valerie Wong (NTHU)
+
+Title: The Pan-STARRS1 distant z>5.6 quasar survey
 
 
-*** Colloquium ***
-____________________________________________________
-Speaker:        Siyi Xu (ESO)
-Topic:          Planetary Systems around White Dwarfs
-Time:           12/21 (Wednesday) 14:20 - 15:20
-Place:           R1203
-Abstract:
-Recent studies have shown that extrasolar planetary systems are prevalent around main-sequence stars in the Milky Way. However, little is known about their fate towards the end of the stellar evolution. In this talk, I will show various evidence that some white dwarfs are dynamically active and planetary systems could be prevalent around white dwarfs. I will also talk about the recent discovery of an actively disintegrating asteroid around a white dwarf and how this system fits into our overall understanding of the fate of planetary systems.
+Tea/Discussion Time is followed !  All Welcome !!
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-*** Tech Lunch Talk [Chinese] ***
-Please order the lunch box by *3PM* this Friday.
-https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
-If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
-____________________________________________________
-Speaker:        Liu, Kuan-Yu (ASIAA)
-Topic:          The EAO/JCMT instrument - Heterodyne Array Receiver Program (HARP)
-Time:           12/21 (Wednesday) 12:00 - 13:00
-Place:           R1203
-
-==============================================================================

@@ -1,33 +1,55 @@
-> Date: Fri, 4 Nov 2016 17:30:10 +0800 (CST)
-> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
-> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
->         yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
-> Subject: NTHU Astronomy Colloquium/Seminar Series
+> Date: Thu, 27 Oct 2016 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
 
-################################################
-NTHU Astronomy Colloquium/Seminar Series
-################################################
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
 
-Time Coordinate: 3:30 pm 11th Nov. 2016 (Friday)
-Space Coordinate: NTHU General Building II, R521
-
-************************************************
-Speaker: Prof. Uri (Evgeny) Griv
-          (Ben-Gurion University, Israel)
-
-Title: The Nearby Spiral Density-Wave Structure of the Galaxy
-
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Keping Qiu (Nanjing University)
+Topic:          Collimated and precessing outflows in a high-mass star forming core: a massive binary or multiple star
+Time:           10/31 (Monday) 12:00 - 13:00
+Place:           R1203
 Abstract:
-Distances and velocities of coeval groups of objects in our Galaxy --
-star-forming regions, OB associations, HII regions and long-period
-Cepheids -- were recently measured. Within the Lin--Shu density-wave
-proposal for the galactic spiral structure, we use these new data to
-find both the geometrical and physical parameters of the wave structure
-within a few kiloparsecs from the Sun. It is also proposed that better
-data samples provided by Gaia mission could reveal in the near future
-whether the wave structure near the Sun reported here does indeed exist.
-
-Tea/Discussion Time is followed !  All Welcome !!
+Most stars form in binary or multiple systems, but how such stars come into birth is poorly understood. This is particularly true for high-mass stars. It is very difficult to directly image high-mass binaries or multiples in formation, because they are distant, deeply embedded, and in a clustered and complex environment. Observations of parsec sized outflows or jets could be a useful probe to the central multiplicity, and the morphological and kinematical structures of the outflows may provide valuable insights into the formation mechanism of the central binaries or multiples. Here I shall talk about our high resolution observations of collimated and precessing outflows in a high-mass star forming core, and discuss about how these observations help us to understand the formation of the central proto-binary or triple star.
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Dominique Bockelee-Morvan (LESIA, Observatory of Paris)
+Topic:          Comet composition : clues to Solar System formation
+Time:           10/31 (Monday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The composition of cometary ices provides clues to the chemistry and conditions prevailing in the early solar system. Since the detection of HCN at millimeter wavelengths in comet C/1973 E1 (Kohoutek),  almost 30 molecules have been identified in cometary atmospheres from remote sensing observations from ground or from space platforms. Thanks to progresses in instrumentation and the availability of large telescopes, complex organic molecules have been identified. Measurements will be reviewed and the observed chemical diversity among comets will be presented. The relative abundances will be compared to values measured in star-forming regions to discuss the possible formation routes of cometary molecules. The talk will also present new findings about comet composition obtained from the Rosetta mission to comet 67P/Churyumov-Gerasimenko.
+
+
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Mikako Matsuura (Cardiff University)
+Topic:          Dust and molecules in Supernova 1987A
+Time:           11/1 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Supernovae (SNe) play a crucial role in the chemical evolution of galaxies by enriching their interstellar media (ISM) with heavy elements and dust.
+
+The formation of dust in core-collapse supernovae (SNe) is one of the unresolved issues in the chemical and physical evolution of supernovae. I will present Herschel Space Observatory’s discovery of a large dust reservoir in SN 1987A. The estimated dust mass is 0.1-1 solar masses, which are typically 1000 times higher than previously thought. A significant fraction of the elements synthesized by the supernova can condense into dust grains. That suggests that SNe may be important source of dust in ISM of galaxies.
+
+With ALMA, we discovered CO, SiO, HCO+ and SO lines in SN 1987A. The observations can probe insight of molecular chemistry, leading dust formation in SN. In millimetre wavelength, isotopologue lines appear at separated wavelengths, enabling constraining isotope ratios of 28Si/29Si and 28Si/30Si. ALMA can provide crucial limit on nuclear synthesis in high mass stars and supernovae.
+
+
+*** Colloquium ***
+____________________________________________________
+Speaker:        Edwige Chapillon (LAB/IRAM)
+Topic:          Study of protoplanetary disks at millimeter wavelength
+Time:           11/2 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The study of protoplanetary disks is essential to constrain the planets formation mechanism. Because these disks are small and cold objects, (sub)millimeter interferometry is a key to unveil their physical conditions, providing us with information on both the dust and gas content. However, one needs physical and chemical models to interpret the observations. In this talk I will present recent results based on observations with the IRAM instruments and ALMA.
+
+==============================================================================

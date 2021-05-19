@@ -1,19 +1,117 @@
-> Date: Thu, 24 Nov 2016 11:30:01 +0800
-> To: circular_colloquium@asiaa.sinica.edu.tw
-> Subject: Colloquium/Seminar/Lunchtalk next week
-> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+> Subject: Fwd: Call for observing proposals for ASTE/NRO45m
+> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+> Date: Wed, 16 Nov 2016 10:19:45 +0800
+> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+> To: riaa <riaa@asiaa.sinica.edu.tw>,
+>     alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
 
-Check on the website for the upcoming schedule
-http://www.asiaa.sinica.edu.tw/
+Dear all,
 
-*** Colloquium ***
-____________________________________________________
-Speaker:        Tien-Hao Hsieh (ASIAA)
-Topic:          Widening of Protostellar Outflows: an Infrared Outflow Survey in Low Luminosity Objects
-Time:           11/30 (Wednesday) 14:20 - 15:20
-Place:           R1203
-Abstract:
-We present an outflow survey toward 20 Low Luminosity Objects (LLOs), namely protostars with an internal luminosity less than 0.2 Lsun. Although a number of studies have reported the properties of individual LLOs, the reasons for their low luminosity remain uncertain. To answer this question, we need to know the evolutionary status of LLOs. Protostellar outflows are found to widen as their parent cores evolve, and therefore, the outflow opening angle could be used as an evolutionary indicator. The infrared scattered light escapes out through the outflow cavity and highlights the cavity wall, giving us the opportunity to measure the outflow opening angle. Using the Canada-France-Hawaii Telescope, we detected outflows toward eight LLOs out of 20 at Ks band, and based on archival Spitzer IRAC1 images, we added four outflow-driving sources from the remaining 12 sources. By fitting these images with radiative transfer models, we derive the outflow opening angles and inclination a!
- ngles. To study the widening of outflow cavities, we compare our sample with the young stellar objects from Arce & Sargent (2006) and Velusamy et al. (2014) in the plot of opening angle versus bolometric temperature taken as an evolutionary indicator. Our LLO targets match well the trend of increasing opening angle with bolometric temperature reported by Arce \& Sargent and are broadly consistent with that reported by Velusamy et al., suggesting that the opening angle could be a good evolutionary indicator for LLOs. Accordingly, we conclude that at least 40\% of the outflow-driving LLOs in our sample are young Class 0 objects.
+  We can access the Atacama Submillimeter Telescope Experiment (ASTE) through ALMA project in EA.
+  NRO45m is open to world wide.
+
+  See below for the proposal call.
+
+Best,
+Yu-Nung
+On behalf of Taiwan ARC node
+
+> 開始轉寄郵件：
+>
+> 寄件人: Masao Saito <masao.saito@nao.ac.jp>
+> 標題: Call for observing proposals for ASTE/NRO45m
+> 日期: 2016年11月15日 GMT+8 下午9:59:32
+> 收件人: ynsu@asiaa.sinica.edu.tw
+>
+> Dear Yun Nung
+>
+> Could you pass this to someone who may be interested in?
+> This time only proposals of NRO 45m telescope up to 20 hrs will be
+> accepted.
+>
+> Thank you.
+>
+> cheers,
+> Masao
+>
+> Observing proposals for ASTE of NAOJ Chile Observatory and the 45-m
+> telescope of Nobeyama Radio Observatory (35th observing period) are
+> invited.
+>
+> Director
+> Chile Observatory, NAOJ
+> Seiichi Sakamoto
+>
+> Director
+> Nobeyama Radio Observatory, NAOJ
+> Masao Saito
+> -----------
+>
+> 1. Period
+> ASTE: Jun 1, 2017 to Sep 30, 2017
+> 45-m: Mar 1, 2017 to Apr 30, 2017
+>
+> 2. Open use information:
+> Common (ASTE/45-m)
+> - DDT (Directors' Discretional Time) proposals can be submitted after
+>    the deadline.
+>
+> ASTE
+>  Status report, application form, and other information are available
+>  in the following website.
+>  http://alma.mtk.nao.ac.jp/aste/cfp/index.html
+>  Note that this will be the only call for proposal for the 2017
+>  observing season of ASTE.
+>
+> 45-m
+>  Status report, application form, and other information are available
+>  in the following website.
+>  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index-e.html
+>  - Short programs (< 20 hr).
+>  - Z45 is offered for the open use in a shared-risk mode.
+>  - S40 is unavailable for the open use.
+>  - Spectral window mode is available for FOREST observations.
+>
+> 3. Deadline:
+> ASTE
+>  General:  December 13, 2016, 15:00 JST [06:00UT]
+>
+> 45-m
+>  Short Program:   December 13, 2016, 15:00JST [06:00UT]
+>
+> 4. Submission:
+> We accept the proposal only via the web submission form. A Latex
+> template must be used to generate the PDF file that contains the
+> Scientific and Technical Justifications.  Please access the application
+> form, fill the webform and upload the final PDF file.
+>
+> *The scientific and technical justification, including figures, tables
+>  and references, must fit within 3 pages (1 page for the Short Proposal).
+>  The maximum file size is 20 MB.
+> * For the 45m telescope, please attach (copy & paste) the results of
+>   our time estimators.
+>  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/wsub-help.html
+> * Please check the observations of the legacy projects.
+>  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/NP.html
+>
+> 5. Evaluation:
+>  - Proposals in the category of General are evaluated by referees, and
+>   the acceptance is judged by the Millimeter and Submillimeter Time
+>   Allocation Committee.
+> - Proposals in the categories of Short and Back-up programs are
+>   evaluated and judged by the Millimeter and Submillimeter Time
+>   Allocation Committee.
+>
+> 6. Time allocation:
+> ASTE and 45-m Observational time will be allocated by the NAOJ Chile
+> Observatory and Nobeyama Radio Observatory for proposals accepted by
+> the Millimeter and Submillimeter Time Allocation Committee.
+>
+> 7. Questions?
+> Any questions about observations and preparations of proposals should
+> be submitted through the helpdesk:
+> https://www.nro.nao.ac.jp/%7Enro45mrt/html/helpdesk/inquiry_form.html
+>
+>
 
 ==============================================================================

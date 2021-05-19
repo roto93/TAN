@@ -1,135 +1,198 @@
 ==============================================================================
 
-In this issue (Nov 12 - 18, 2016)
+In this issue (Nov 06 - 11, 2016)
 
-1. Call for observing proposals for ASTE/NRO45m
-2. ASIAA Colloquium/Seminar/Lunchtalk (Nov 21): Wen-Ping Lo (ASIAA)
-                                      (Nov 23): Elizabeth Tasker (JAXA)
-                                      (Nov 23): Wei, Ta-Shun (ASIAA)
-3. ASIAA job openings
-4. NTHU Astronomy Colloquium/Seminar Series (Nov 25): Tetsuya Hashimoto (NTHU)
-
-==============================================================================
-
-> Subject: Fwd: Call for observing proposals for ASTE/NRO45m
-> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
-> Date: Wed, 16 Nov 2016 10:19:45 +0800
-> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
-> To: riaa <riaa@asiaa.sinica.edu.tw>,
->     alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
-
-Dear all,
-
-  We can access the Atacama Submillimeter Telescope Experiment (ASTE) through ALMA project in EA.
-  NRO45m is open to world wide.
-
-  See below for the proposal call.
-
-Best,
-Yu-Nung
-On behalf of Taiwan ARC node
-
-> 開始轉寄郵件：
->
-> 寄件人: Masao Saito <masao.saito@nao.ac.jp>
-> 標題: Call for observing proposals for ASTE/NRO45m
-> 日期: 2016年11月15日 GMT+8 下午9:59:32
-> 收件人: ynsu@asiaa.sinica.edu.tw
->
-> Dear Yun Nung
->
-> Could you pass this to someone who may be interested in?
-> This time only proposals of NRO 45m telescope up to 20 hrs will be
-> accepted.
->
-> Thank you.
->
-> cheers,
-> Masao
->
-> Observing proposals for ASTE of NAOJ Chile Observatory and the 45-m
-> telescope of Nobeyama Radio Observatory (35th observing period) are
-> invited.
->
-> Director
-> Chile Observatory, NAOJ
-> Seiichi Sakamoto
->
-> Director
-> Nobeyama Radio Observatory, NAOJ
-> Masao Saito
-> -----------
->
-> 1. Period
-> ASTE: Jun 1, 2017 to Sep 30, 2017
-> 45-m: Mar 1, 2017 to Apr 30, 2017
->
-> 2. Open use information:
-> Common (ASTE/45-m)
-> - DDT (Directors' Discretional Time) proposals can be submitted after
->    the deadline.
->
-> ASTE
->  Status report, application form, and other information are available
->  in the following website.
->  http://alma.mtk.nao.ac.jp/aste/cfp/index.html
->  Note that this will be the only call for proposal for the 2017
->  observing season of ASTE.
->
-> 45-m
->  Status report, application form, and other information are available
->  in the following website.
->  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index-e.html
->  - Short programs (< 20 hr).
->  - Z45 is offered for the open use in a shared-risk mode.
->  - S40 is unavailable for the open use.
->  - Spectral window mode is available for FOREST observations.
->
-> 3. Deadline:
-> ASTE
->  General:  December 13, 2016, 15:00 JST [06:00UT]
->
-> 45-m
->  Short Program:   December 13, 2016, 15:00JST [06:00UT]
->
-> 4. Submission:
-> We accept the proposal only via the web submission form. A Latex
-> template must be used to generate the PDF file that contains the
-> Scientific and Technical Justifications.  Please access the application
-> form, fill the webform and upload the final PDF file.
->
-> *The scientific and technical justification, including figures, tables
->  and references, must fit within 3 pages (1 page for the Short Proposal).
->  The maximum file size is 20 MB.
-> * For the 45m telescope, please attach (copy & paste) the results of
->   our time estimators.
->  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/wsub-help.html
-> * Please check the observations of the legacy projects.
->  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/NP.html
->
-> 5. Evaluation:
->  - Proposals in the category of General are evaluated by referees, and
->   the acceptance is judged by the Millimeter and Submillimeter Time
->   Allocation Committee.
-> - Proposals in the categories of Short and Back-up programs are
->   evaluated and judged by the Millimeter and Submillimeter Time
->   Allocation Committee.
->
-> 6. Time allocation:
-> ASTE and 45-m Observational time will be allocated by the NAOJ Chile
-> Observatory and Nobeyama Radio Observatory for proposals accepted by
-> the Millimeter and Submillimeter Time Allocation Committee.
->
-> 7. Questions?
-> Any questions about observations and preparations of proposals should
-> be submitted through the helpdesk:
-> https://www.nro.nao.ac.jp/%7Enro45mrt/html/helpdesk/inquiry_form.html
->
->
+1. SPICA-Taiwan 2 Kick-off meeting
+2. Cosmic Dust X: First Circular (Aug 14-18, 2017)
+3. ASIAA Colloquium/Seminar/Lunchtalk (Nov 16): Christian Fendt (MPIfA)
+4. 2nd announcement for the EA-ALMA Science Workshop 2016
+5. NTHU Astronomy Colloquium/Seminar Series (Nov 18): Hsing-Wen Lin (NCU)
 
 ==============================================================================
 
-> Date: Thu, 17 Nov 2016 11:30:01 +0800
+> From: Ciska Kemper <ciska@asiaa.sinica.edu.tw>
+> Date: Mon, 7 Nov 2016 16:58:14 +0800
+> Subject: SPICA-Taiwan 2 Kick-off meeting
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+SPICA-Taiwan 2 Kick-off meeting
+
+Taiwan has once again, through ASIAA, been invited by the SPICA consortium
+to join the project. We are joining through both Europe (SAFARI consortium,
+led by SRON) and Japan (SMI consortium). The SPICA project is approved to
+go ahead to phase A on the Japanese side, and currently under review with
+ESA. The hope is that ESA will also allow SPICA to go ahead to phase A, and
+this should become clear in the beginning of 2017. ESA approval is
+essential, as it comes with 550 M EUR of funding.
+
+Now that Taiwan is back in the consortium, it is time to start thinking
+again what kind of science we are interested in, given the revised design
+of the telescope and the instrument suite in comparison to 3 years ago.
+There will be a half day meeting to discuss the project at ASIAA, but if
+interest is large, it may be extended to a full day meeting. Please
+indicate your availability to come to meet at ASIAA at this doodle poll:
+
+http://doodle.com/poll/65eppphq7b9w5sth
+
+There is a mailing list related to this project. Please email Ciska Kemper
+at ciska@asiaa.sinica.edu.tw if you want to be included in this mailing
+list.
+
+Finally, if you have any scientific ideas of what you would like to do with
+SPICA, feel free to email Ciska Kemper as well, to schedule a talk at the
+meeting.
+
+==============================================================================
+
+> From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> Date: Wed, 9 Nov 2016 00:25:02 +0800
+> Subject: Fwd: Cosmic Dust X: First Circular
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+This is an announcement of the cosmic dust conference in Japan next year.
+______________
+MEETING TITLE:
+Cosmic Dust
+
+WEBSITE:
+https://www.cps-jp.org/~dust/
+
+VENUE:
+Mitaka Campus of National Astronomical Observatory of Japan (NAOJ)
+2-21-1 Osawa, Mitaka
+Tokyo 181-8588
+JAPAN
+
+DATE:
+Monday, August 14 =E2=80=93 Friday, August 18, 2017
+
+OBJECTIVES:
+This series of Cosmic Dust meetings aims at finding a consensus among
+experts on the formation and evolution of cosmic dust: where it comes from
+and where it goes. The meeting is organized by dust freaks who are very
+enthusiastic not only to make the goal achievable but also to establish a
+dust community across every scientifically relevant discipline for the
+development of cosmic dust research. For this reason, the primary objective
+of the meeting is to bring together professionals who deal with cosmic dust
+as well as provide an opportunity for participants to develop interpersonal
+relationships and scientific interactions among themselves.
+
+SCOPE:
+All kinds of cosmic dust such as
+=E2=80=A2 intergalactic dust
+=E2=80=A2 circumnuclear dust
+=E2=80=A2 interstellar dust
+=E2=80=A2 protoplanetary disk dust
+=E2=80=A2 debris disk dust
+=E2=80=A2 cometary dust
+=E2=80=A2 interplanetary dust
+=E2=80=A2 circumplanetary dust
+=E2=80=A2 stellar nebular condensates
+=E2=80=A2 presolar grains
+=E2=80=A2 micrometeorites
+=E2=80=A2 meteoroids
+=E2=80=A2 meteors
+=E2=80=A2 regolith particles
+=E2=80=A2 planetary aerosols
+are the subject of discussion. The meeting is open for any aspects of dust
+research by means of different methods of studies (in-situ and laboratory
+measurements, astronomical observations, laboratory and numerical
+simulations, theoretical modeling, data analyses, etc.). Also welcome are
+papers on dust-related topics, for example:
+=E2=80=A2 the formation of molecules and their reactions on and their desor=
+ption
+from the surface of a solid substance
+=E2=80=A2 light scattering by non-spherical particles and particulate surfa=
+ces
+=E2=80=A2 space missions and instrumentation for measurements of particulat=
+es
+
+ADMISSIONS APPLICATION:
+Please complete online meeting application at the CPS website in order to
+attend the meeting. The deadline for the application is May 13, 2017, 11:59
+p.m. Japan Standard Time (GMT+09:00). Because the number of participants is
+limited to a maximum of 50, the online application does not guarantee
+admission to the meeting. Participants will be determined at the discretion
+of the SOC and all applicants will be notified of the admissions decision
+by May 31, 2017. Priority will be given to those who contribute to oral or
+poster sessions and retain enthusiasm for discussions throughout the
+meeting. For further details, please visit the Cosmic Dust website.
+https://www.cps-jp.org/~dust/Application.html
+
+REGISTRATION FEE:
+The early bird rate of 10,000 JPY is available for those who complete both
+admissions application and abstract submission by April 30, 2017. The
+registration fee for those who complete admissions application on and after
+May 1, 2017 is 15,000 JPY. While no payment is required at the time of
+admissions application and abstract submission, the registration fee should
+be paid by cash on arrival at the venue. No matter what circumstances are
+specified, the registration fee will not be waived.
+
+BEST POSTER AWARD:
+The best poster award will be given to the most excellent content and
+presentation of a poster at the Cosmic Dust meeting, although higher
+priorities are given to posters by students and junior scientists. The
+award winner will be announced in the closing minutes of the meeting.
+
+PROCEEDINGS:
+The proceedings of the meeting is planned to be published as a special
+issue of original papers (or in exceptional cases, review articles from
+invited speakers) in a peer-reviewed journal. All participants are strongly
+encouraged to publish a paper in this special issue of the journal,
+although paper submission to the proceedings is not obligatory. In recent
+years, the proceedings were published in Planetary and Space Science:
+http://www.sciencedirect.com/science/journal/00320633/116/supp/C
+http://www.sciencedirect.com/science/journal/00320633/100/supp/C
+
+IMPORTANT DATES:
+30 April 2017, Deadline for Early-Bird Application
+13 May 2017, Deadline for Admissions Application
+31 May 2017, Notification of Admissions Decision
+14-18 August 2017, Cosmic Dust
+
+SCIENTIFIC ORGANIZING COMMITTEE (SOC):
+Jean-Charles Augereau (IPAG, France)
+Cornelia J=C3=A4ger (Max Planck Institute for Astronomy, Germany)
+Hidehiro Kaneda (Nagoya University, Japan)
+Hiroshi Kimura (Nagoya University, Japan) [Chair]
+Ludmilla Kolokolova (University of Maryland, USA)
+Aigen Li (University of Missouri-Columbia, USA)
+
+LOCAL ORGANIZING COMMITTEE (LOC):
+Hiroki Chihara (Osaka Sangyo University)
+Takayuki Hirai (JAXA/CAC)
+Akio Inoue (Osaka Sangyo University)
+Hidehiro Kaneda (Nagoya University)
+Hiroshi Kimura (Kobe University)
+Hiroshi Kobayashi (Nagoya University)
+Takaya Nozawa (National Astronomical Observatory of Japan) [Chair]
+Tomomi Omura (Kobe University, Japan)
+Takafumi Ootsubo (The University of Tokyo, Japan)
+Hiroki Senshu (Chitec/PERC)
+Takashi Shimonishi (Tohoku University)
+Ryo Tazaki (Kyoto University)
+Koji Wada (Chitec/PERC)
+
+CONTACT INFORMATION:
+<dust-inquiries@cps-jp.org>
+Please mind that any email attachment will be blocked.
+
+BRIEF HISTORY:
+The Cosmic Dust meeting started in 2006 as a session called =E2=80=9CCosmic=
+ Dust=E2=80=9D
+of the 3rd AOGS (Asia-Oceania Geoscience Society) annual meeting in
+Singapore. Dust freaks have kept on organizing the session at subsequent
+AOGS meetings in Korea (2008), India (2010), and Taiwan (2011). The Cosmic
+Dust series has been recognized as the most successful session of the AOGS
+Planetary Sciences Section. In 2012, the time was ripe to be free from
+organizing restrictions on the AOGS meeting. From that time on, the Cosmic
+Dust meeting is totally independent of any international conference. The
+past meetings on Cosmic Dust have been held in a relaxed and joyful
+atmosphere. So will be the coming one!=EF=BF=BC
+
+==============================================================================
+
+> Date: Thu, 10 Nov 2016 11:30:02 +0800
 > To: circular_colloquium@asiaa.sinica.edu.tw
 > Subject: Colloquium/Seminar/Lunchtalk next week
 > From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
@@ -137,96 +200,140 @@ On behalf of Taiwan ARC node
 Check on the website for the upcoming schedule
 http://www.asiaa.sinica.edu.tw/
 
-*** Lunch Talk ***
-Please order the lunch box by *3PM* this Friday.
-https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
-If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
-____________________________________________________
-Speaker:        Wen-Ping Lo (ASIAA)
-Topic:          The Constraint on the Mass Accretion Rate of Cygnus A with Submillimeter Array
-Time:           11/21 (Monday) 12:00 - 13:00
-Place:           R1203
-Abstract:
-How the mass accretion rate of SuperMassive Black Holes (SMBHs) is related to the gas feeding from the larger spatial scales, and how it is related to the energetic jet/outflow activities, are fundamental questions for the understandings of the active galactic nuclei (AGN). Faraday Rotation Measure (RM), the tracer of electron column density and magnetic field strength along the line of sight, is one of the powerful method to constrain the mass accretion rate at the vicinity of SMBH. We present the polarimetric results on the core emissions of Cygnus A utilizing Sub Millimeter Array (SMA) at millimeter wavelengths and derive the constraints on the Faraday rotation measure. There is no statistically significant detection (less than 0.9% as 3 sigma) of the polarized emissions from Cygnus A. Low fractional polarization at 230 GHz is presumably due to variating Faraday RM screen since the high percentage of polarization (12 %) have been detected with mid-Infrared observations. W!
- ith the scenarios of beam depolarizations from the accretion flow, the mass accretion rate and the accretion power can be constrained, and convection-dominated accretion flow solution can be ruled out.
-
-
-
 *** Colloquium ***
 ____________________________________________________
-Speaker:        Elizabeth Tasker (JAXA)
-Topic:          From Galaxies to Planets (A medley!)
-Time:           11/23 (Wednesday) 14:20 - 15:20
+Speaker:        Christian Fendt (Max Planck Institute for Astronomy)
+Topic:          How to make astrophysical jets?
+Time:           11/16 (Wednesday) 14:20 - 15:20
 Place:           R1203
 Abstract:
-Star formation occurs in the dense molecular gas clouds within the galaxy's interstellar gas. But while these clouds are relatively small (of order 10s pc) their properties are morphed and shaped by the galactic-scale structure and interactions with neighbouring clouds. The first part of this talk explores how large-scale interactions affect these stellar cradles and the resultant star formation using hydrodynamical simulations.
+I will present MHD simulations investigating the launching of
+astrophysical jets.
+First, a brief introduction into MHD wind and jets is given.
 
-The second part of the talk turns to look at planet formation. Exoplanet observations have revealed a large population of planets on short orbits close to their host star. Their origin is a debated topic, however a popular theory suggests they migrated inwards after forming in the outer parts of the protoplanetary disc. Such motion would allow planets to undergo heavy accretion of smaller planetesimals. This second part of the talk discusses whether an observational signature of such an event might be detectable.
+Our simulations treat the time-dependent evolution of the
+accretion-ejection structure and the subsequent collimation of the disk
+wind into a high-velocity jet.
+The setup considers various models  for a  physical  (turbulent) magnetic
+diffusivity that is essential for the mass loading of the outflow. We find
+relatively high mass fluxes in the outflow, about 20-40% of the accretion
+rate.
 
+Recent simulations include a mean-field accretion disk dynamo and the
+launching of outflows by a self-generated disk magnetic field.
+We have run a parameter survey of disk-wind launched by disk of different
+magnetization and find that the disk magnetization is the main parameter
+that governs the jet dynamics.
 
-*** Tech Lunch Talk [Chinese] ***
-Please order the lunch box by *3PM* this Friday.
-https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
-If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
-____________________________________________________
-Speaker:        Wei, Ta-Shun (ASIAA)
-Topic:          GLT - The Trip to Greenland
-Time:           11/23 (Wednesday) 12:00 - 13:00
-Place:           R1203
-
-==============================================================================
-
-> From: Winny Hsieh <winny@asiaa.sinica.edu.tw>
-> Date: Fri, 18 Nov 2016 03:53:10 +0800
-> Subject: ASIAA job openings
-> To: astro@asiaa.sinica.edu.tw
-
-
-Dear Dr. Kuan,
-
-Can you help to post the two job openings in ASIAA?
-
-Postdoctoral positions:
-
-http://www.asiaa.sinica.edu.tw/jobopening/ad.php?i=c113b82d26e2f9903fdccb6cee4a3a16
-
-Faculty position:
-
-http://www.asiaa.sinica.edu.tw/jobopening/ad.php?i=8a800c27b93d490a56a5eaa919ca43fc
-
-Thanks,
-Winny
+Special relativistic jet formation simulations allow to construct
+synchrotron radiation maps from the dynamical outflow structure that can
+be compared to  the observations.
+Finally I will present preliminary results from GR-MHD simulations
+treating the accretion-ejection structure of outflows from resistive
+accretion disks.
 
 ==============================================================================
 
-> Date: Fri, 18 Nov 2016 17:36:18 +0800 (CST)
+> From: Wei-Hao Wang <whwang@asiaa.sinica.edu.tw>
+> Subject: 2nd announcement for the EA-ALMA Science Workshop 2016
+> Date: Thu, 10 Nov 2016 18:52:27 +0800
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Prof Kuan,
+
+Please help to send this to TAN.
+
+Cheers,
+Wei-Hao
+
+
+
+--------------------------------------------------------------------------------
+
+
+This is the second announcement of the East-Asian ALMA Science Workshop 2016-Taiwan.
+
+The registration is now opened.  Please register through the workshop website:
+   http://events.asiaa.sinica.edu.tw/workshop/20170310/index.php
+In the registration page, you can also submit an abstract if you plan to give an
+oral presentation or a poster presentation.  As we mentioned in the first announcement,
+we encourage the following kinds of presentations:
+1. new ALMA science results, based on either PI data or archive data.
+2. future/ongoing science studies that may benefit from ALMA's new capabilities (VLBI, polarization, solar)
+3. future/ongoing science studies that require synergies with other major observatories
+4. cycle-5 proposal ideas that welcome collaborations
+5. proposal ideas from non-radio-experts seeking for collaborations and/or feedback
+
+Please note that the submission deadline for oral presentation is Jan 15, 2017.  For poster
+presentation or for those who do not plan to present, the registration deadline is Feb 15, 2017.
+
+The hotel information is online as well.  We encourage you to make early reservations
+following the instructions on the workshop page.  The LOC will provide help on hotel
+reservation until Feb 2.  After that, rooms will not be guaranteed.
+
+
+
+SOC
+Huei-Ru Chen (National Tsing Hua University)
+Aeree Chung (Yonsei University)
+Daisuke Iono (NAOJ)
+Jongsoo Kim (KASI)
+Shih-Ping Lai (National Tsing Hua University)
+Momose Munetake (Ibaraki University)
+Masumi Shimojo (NAOJ)
+Wei-Hao Wang (chair, ASIAA)
+
+==============================================================================
+
+> Date: Fri, 11 Nov 2016 17:30:14 +0800 (CST)
 > From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
 > cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
->         yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
+>     yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
 > Subject: NTHU Astronomy Colloquium/Seminar Series
 
 ################################################
 NTHU Astronomy Colloquium/Seminar Series
 ################################################
 
-Time Coordinate: 3:30 pm 25th Nov. 2016 (Friday)
+Time Coordinate: 3:30 pm 18th Nov. 2016 (Friday)
 Space Coordinate: NTHU General Building II, R521
 
 ************************************************
-Speaker: Dr. Tetsuya Hashimoto (NTHU)
+Speaker: Dr. Hsing-Wen Lin
+          (National Central University)
 
-Title: Subaru observations of dark Gamma-Ray Burst host galaxy
+Title: The Neptune Trojans and the Vertical Moving
+        Trans-Neptunian Objects
 
 Abstract:
-Study of host galaxies of Long Gamma Ray Burst (GRB) is a key to
-understanding the origin of GRB. We focus on the metallicity
-environment of optically 'dark' GRBs, which is a missing population
-due to the faintness of their afterglows. We found that the host
-galaxy of GRB 070306 and 080325 are among the highest metallicity in
-current GRB host samples in contrast to the theoretical low-metallicity
-requirement. I will discuss the metallicity environment and origin
-of dark GRBs in comparison with the so-called fundamental metallicity
-relation of star-forming galaxies.
+Many primitive bodies exist in the vast regions of the solar system beyond
+Jupiter, of which the largest population is the trans-Neptunian objects
+(TNOs). The details of the orbital distribution of the TNOs preserve
+information about the evolution of the solar system.
+
+In this talk, I will introduce our two recent works, which are related
+to TNO studies: 1. The Neptune Trojans: dynamically very hot or not that hot?
+and 2. The vertical moving TNOs: is there a perpendicular Kuiper Belt?
+
+Currently 17 Neptune Trojans (NTs), the asteroids in co-orbital 1:1 mean
+motion resonance with Neptune, have been found. The very high and wide
+orbital inclination distribution of NTs implies an unusual formation
+mechanism of NTs; the NT have to be captured from a pre-excited planetesimal
+disk. Recently, we used Pan-STARRS 1 (PS1) survey data to study the
+orbital distribution of NTs and found that the inclination distribution
+is rather low compare with the results of previous studies. The new result
+may suggest that NTs can be captured from a planetesimal disk without
+pre-excited.
+
+In the PS1 survey data, we also identified an unusual TNOs, 2011 KT13
+(nicknamed Niku). This object has an 110 degree orbital inclination; it
+has a retrograde and almost vertical moving orbit. Together with other
+five high-inclination TNOs, the six vertical moving objects appear to
+occupy a common orbital plane. We found that this alignment is statistical
+significant; the probability occurring by chance is only 0.016%. Our simple
+simulations including the hypothetical Planet Nine fail to maintain the
+common orbital plane, therefore, an unknown mechanism is required to
+explain the observed clustering.
 
 Tea/Discussion Time is followed !  All Welcome !!
 

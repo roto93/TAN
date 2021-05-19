@@ -1,43 +1,46 @@
-> Date: Fri, 25 Nov 2016 17:16:05 +0800 (CST)
-> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
-> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
->         yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
-> Subject: NTHU Astronomy Colloquium/Seminar Series
+> Date: Thu, 17 Nov 2016 11:30:01 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
 
-################################################
-NTHU Astronomy Colloquium/Seminar Series
-################################################
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
 
-Time Coordinate: 3:30 pm 2nd Dec. 2016 (Friday)
-Space Coordinate: NTHU General Building II, R521
-
-************************************************
-Speaker: Dr. Ya-Wen Tang (ASIAA)
-
-Title: Planet formation in AB Auriga:
-        imaging inner gaseous spirals inside the dust cavity
-
-
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Wen-Ping Lo (ASIAA)
+Topic:          The Constraint on the Mass Accretion Rate of Cygnus A with Submillimeter Array
+Time:           11/21 (Monday) 12:00 - 13:00
+Place:           R1203
 Abstract:
-Studies of planet forming disks have rapidly advanced in
-the last few years thanks to high contrast high angular
-resolution images obtained in the optical/near infrared
-and in the mm/submm regime. In the meantime, several
-exoplanets have been found by direct imaging in nearby
-debris disks. Studying planet formation in younger systems
-where the molecular gas and dust material are not yet fully
-dissipated is a clue to understand how a planetary system
-forms and evolves while the disk dissipates.
+How the mass accretion rate of SuperMassive Black Holes (SMBHs) is related to the gas feeding from the larger spatial scales, and how it is related to the energetic jet/outflow activities, are fundamental questions for the understandings of the active galactic nuclei (AGN). Faraday Rotation Measure (RM), the tracer of electron column density and magnetic field strength along the line of sight, is one of the powerful method to constrain the mass accretion rate at the vicinity of SMBH. We present the polarimetric results on the core emissions of Cygnus A utilizing Sub Millimeter Array (SMA) at millimeter wavelengths and derive the constraints on the Faraday rotation measure. There is no statistically significant detection (less than 0.9% as 3 sigma) of the polarized emissions from Cygnus A. Low fractional polarization at 230 GHz is presumably due to variating Faraday RM screen since the high percentage of polarization (12 %) have been detected with mid-Infrared observations. W!
+ ith the scenarios of beam depolarizations from the accretion flow, the mass accretion rate and the accretion power can be constrained, and convection-dominated accretion flow solution can be ruled out.
 
-In order to trace the structures induced by embedded objects,
-such as companion or planets, I observed the 12CO 2-1 transition
-at 0.1 angular resolution in the AB Aurigae system using ALMA.
-The 12CO 2-1 gas exhibits two spiral-like features within 0.7"
-(radius, r, 90AU) away from the star. These spirals are trailing
-and non-self-gravitating. Two possible locations of the embedded
-objects are suggested in order to explain the observed features
-in AB Aurigae system.
 
-Tea/Discussion Time is followed !  All Welcome !
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*** Colloquium ***
+____________________________________________________
+Speaker:        Elizabeth Tasker (JAXA)
+Topic:          From Galaxies to Planets (A medley!)
+Time:           11/23 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Star formation occurs in the dense molecular gas clouds within the galaxy's interstellar gas. But while these clouds are relatively small (of order 10s pc) their properties are morphed and shaped by the galactic-scale structure and interactions with neighbouring clouds. The first part of this talk explores how large-scale interactions affect these stellar cradles and the resultant star formation using hydrodynamical simulations.
+
+The second part of the talk turns to look at planet formation. Exoplanet observations have revealed a large population of planets on short orbits close to their host star. Their origin is a debated topic, however a popular theory suggests they migrated inwards after forming in the outer parts of the protoplanetary disc. Such motion would allow planets to undergo heavy accretion of smaller planetesimals. This second part of the talk discusses whether an observational signature of such an event might be detectable.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Wei, Ta-Shun (ASIAA)
+Topic:          GLT - The Trip to Greenland
+Time:           11/23 (Wednesday) 12:00 - 13:00
+Place:           R1203
+
+==============================================================================

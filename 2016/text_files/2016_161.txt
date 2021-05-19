@@ -1,22 +1,54 @@
-> Date: Fri, 21 Oct 2016 10:44:05 +0800 (CST)
+> Date: Fri, 14 Oct 2016 17:23:34 +0800 (CST)
 > From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
 > cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
-        yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
+>        yinlumail@foxmail.com, s104025505@m104.nthu.edu.tw
 > Subject: NTHU Astronomy Colloquium/Seminar Series
 
 ################################################
 NTHU Astronomy Colloquium/Seminar Series
 ################################################
 
-Time Coordinate: 3:30 pm 28th Oct. 2016 (Friday)
+Time Coordinate: 3:30 pm 21th Oct. 2016 (Friday)
 Space Coordinate: NTHU General Building II, R521
 
 ************************************************
-Speaker: Dr. Kouichi Hirotani (TIARA/ASIAA)
+Speaker: Dr. Eswaraiah Chakali (NTHU)
 
-Title: The Black-Hole Gap Model
+Title: On the morphological correspondence among
+        magnetic fields,filaments, bipolar bubbles in RCW57A
 
+Abstract:
 
-Tea/Discussion Time is followed ! All Welcome !!
+The influence of magnetic fields (B-fields) in the formation
+and evolution of bipolar bubbles due to the expanding ionization
+fronts driven by the HII regions that are formed and embedded in
+filamentary molecular clouds has not been well-studied yet.
+In addition to the anistropic expansion of ionization fronts in a 
+filament, B-fields are expected to introduce an additional anisotropic
+pressure in favor of expansion and propagation of ionization fronts to
+form a bipolar bubble.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+I will present the results based on near-infrared polarimetric 
+observations towards the central area of the star-forming region RCW57A
+hosting an HII region, a filament and a bipolar bubble. Polarization
+measurements of reddened background stars in the JHKs-bands reveal that
+B-fields, that are threaded perpendicular to the filament long axis, are
+configured into an hour-glass morphology thereby closely following the
+structure of the bipolar bubble which manifests one-to-one correspondence
+between them.
+
+B-field pressure is found to be dominated over thermal, turbulent and
+radiative pressures in the region, thereby reinforcing the fact that
+B-fields indeed playing an influenceable role. Based on the observed
+morphological correlations among the the B-fields, filament and bipolar 
+bubble, we believe that the B-fields are important not only in cloud 
+contraction to form a filament, gravitational collapse and star formation
+in it, but also in the formation and evolution of bipolar bubble in
+RCW57A.
+
+I also present few slides on my involvement on other projects related
+to optical/NIR/sub-mm polarimetry.
+
+Tea/Discussion Time is followed !  All Welcome !!
+
+==============================================================================

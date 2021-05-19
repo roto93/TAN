@@ -1,42 +1,52 @@
-Arizona Radio Observatory: Call for Proposals (Spring 2017)
-------------------------------------------------------------------------------
+> Date: Thu, 15 Dec 2016 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
 
-Dear Astronomers in Taiwan,
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
 
-Observing proposals from members of the University Consortium of ALMA-Taiwan
-(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT) located on
-Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
-located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are being
-solicited for the period February 15 to June 15, 2017. Graduate student
-participation is especially encouraged. The proposal deadline for this 2017
-spring semester is set on January 20, 2017 (Friday).
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Hiroyuki Hirashita (ASIAA)
+Topic:          SED fitting to galaxies using Cigale
+Time:           12/19 (Monday) 12:00 - 13:00
+Place:           R1203
+Abstract:
+While I stayed in Marseille in November, I learned how to use an spectral (SED) fitting code, Cigale. I will briefly talk about it and introduce our plan of an application to Lyman break galaxies at high redshift.
 
-The new 12m antenna supports an ALMA Band-3 (84-116 GHz) dual-polarization SBS
-(sideband-separating) receiver. The SMT currently supports a dual-polarization
-ALMA Band-6 1-mm (211-275 GHz) receiver with SBS mixers, a dual-polarization
-Band-7 (320-370 GHz) receiver, and a Band-9 (602-720 GHz) dual-polarization
-receiver with ALMA Band-9 mixers. The SMT control system supports both
-dual-polarization ("2 IF mode"), and dual-polarization, dual-sideband
-observations ("4 IF mode"), as well as OTF mapping. Proposal candidates should
-consult the ARO website for technical specifications:
-  https://www.as.arizona.edu/arizona-radio-observatory 
 
-Proposal candidates should download the updated Proposal Summary Sheet here:
-  https://www.as.arizona.edu/proposals-0 
-Proposal candidates are required to list on the Proposal Summary Sheet their
-requested observing blocks (LST ranges), dates (MST=UTC-7hrs) on which they are
-NOT available to observe, and dates in which sources in those observing blocks
-are within the Sun-avoidance zone (44 degrees at the SMT, 10 degrees at the
-12m). Proposal candidates are also encouraged to submit up to THREE pages of
-scientific and technical justification (including figures and/or tables) with
-their Proposal Summary Sheet.
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Hsin-Yu Chen (University of Chicago)
+Topic:          Cosmology and Astrophysics with Gravitational-Wave Observations
+Time:           12/20 (Tuesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+The first detections of gravitational waves by LIGO-Virgo initiated the era of Gravitation-Wave Astronomy. Gravitational-waves serve as a new and independent probe of the Universe. In addition, the combination of gravitational-waves with information from other messengers, such as electromagnetic emission from the same source, will lead to a more complete and accurate understanding of cosmology and astrophysics. In this talk, I will discuss what we learned from the LIGO-Virgo first observing run, and what scientific goals we expect to reach in the next few years.
 
-Operator-assisted remote observing is available. Observers who plan to observe
-remotely must supply fixed IP address(es) of the computer(s) that will be used
-during observing on their Proposal Summary Sheet. Information about remote
-observing can be viewed at: http://aro.as.arizona.edu/remote/remote.htm .
 
-Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by
-midnight (23:59 CST) January 20, 2017 (Friday).
+*** Colloquium ***
+____________________________________________________
+Speaker:        Siyi Xu (ESO)
+Topic:          Planetary Systems around White Dwarfs
+Time:           12/21 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Recent studies have shown that extrasolar planetary systems are prevalent around main-sequence stars in the Milky Way. However, little is known about their fate towards the end of the stellar evolution. In this talk, I will show various evidence that some white dwarfs are dynamically active and planetary systems could be prevalent around white dwarfs. I will also talk about the recent discovery of an actively disintegrating asteroid around a white dwarf and how this system fits into our overall understanding of the fate of planetary systems.
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Liu, Kuan-Yu (ASIAA)
+Topic:          The EAO/JCMT instrument - Heterodyne Array Receiver Program (HARP)
+Time:           12/21 (Wednesday) 12:00 - 13:00
+Place:           R1203
 
 ==============================================================================

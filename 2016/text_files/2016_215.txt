@@ -1,24 +1,290 @@
-> Date: Fri, 30 Dec 2016 17:42:28 +0800 (CST)
-> From: Ing-Guey Jiang <jiang@phys.nthu.edu.tw>
-> cc: circular_colloquium@asiaa.sinica.edu.tw, smith@phys.nthu.edu.tw,
-> Subject: NTHU Astronomy Colloquium/Seminar Series
+==============================================================================
 
-################################################
-NTHU Astronomy Colloquium/Seminar Series
-################################################
+In this issue (Dec 19 - 21, 2016)
 
-Time Coordinate: 3:30 pm 6th Jan. 2017 (Friday)
-Space Coordinate: NTHU General Building II, R521
+1. Arizona Radio Observatory - Call for Proposals: Spring 2017 (Jan 20, 2017)
+2. Announcement of the Symposium to celebrate Prof. Wing Ip's 70th Birthday
+  (July 10-13, 2017)
+3. Gemini Fast Turnaround program
+4. The 1st East Asian Workshop on Astrostatistics
+5. Academician Paul Ho receives Humboldt Research Award
 
-************************************************
-Speaker A: Li-Wen Liao (NTHU)
+==============================================================================
 
-Title: SiO Shocks of the Protostellar Jet HH 212
-================================================
-Speaker B: Lu Yin (NTHU)
+Arizona Radio Observatory: Call for Proposals (Spring 2017)
+------------------------------------------------------------------------------
 
-Title: B-mode Polarization of the CMB
+Dear Astronomers in Taiwan,
 
-Tea/Discussion Time is followed !  All Welcome !!
+Observing proposals from members of the University Consortium of ALMA-Taiwan
+(UCAT) and ASIAA for the 10-meter Submillimeter Telescope (SMT) located on
+Mount Graham, Arizona, and the new ALMA Prototype 12-meter Telescope (12m)
+located on Kitt Peak, Arizona, of the Arizona Radio Observatory (ARO) are being
+solicited for the period February 15 to June 15, 2017. Graduate student
+participation is especially encouraged. The proposal deadline for this 2017
+spring semester is set on January 20, 2017 (Friday).
+
+The new 12m antenna supports an ALMA Band-3 (84-116 GHz) dual-polarization SBS
+(sideband-separating) receiver. The SMT currently supports a dual-polarization
+ALMA Band-6 1-mm (211-275 GHz) receiver with SBS mixers, a dual-polarization
+Band-7 (320-370 GHz) receiver, and a Band-9 (602-720 GHz) dual-polarization
+receiver with ALMA Band-9 mixers. The SMT control system supports both
+dual-polarization ("2 IF mode"), and dual-polarization, dual-sideband
+observations ("4 IF mode"), as well as OTF mapping. Proposal candidates should
+consult the ARO website for technical specifications:
+  https://www.as.arizona.edu/arizona-radio-observatory 
+
+Proposal candidates should download the updated Proposal Summary Sheet here:
+  https://www.as.arizona.edu/proposals-0 
+Proposal candidates are required to list on the Proposal Summary Sheet their
+requested observing blocks (LST ranges), dates (MST=UTC-7hrs) on which they are
+NOT available to observe, and dates in which sources in those observing blocks
+are within the Sun-avoidance zone (44 degrees at the SMT, 10 degrees at the
+12m). Proposal candidates are also encouraged to submit up to THREE pages of
+scientific and technical justification (including figures and/or tables) with
+their Proposal Summary Sheet.
+
+Operator-assisted remote observing is available. Observers who plan to observe
+remotely must supply fixed IP address(es) of the computer(s) that will be used
+during observing on their Proposal Summary Sheet. Information about remote
+observing can be viewed at: http://aro.as.arizona.edu/remote/remote.htm .
+
+Proposals should be emailed in PDF format to kuan[at]asiaa.sinica.edu.tw by
+midnight (23:59 CST) January 20, 2017 (Friday).
+
+==============================================================================
+
+> From: Ip Symposium IANCU <ipsymposium@gm.astro.ncu.edu.tw>
+> Date: Mon, 19 Dec 2016 09:19:16 +0800
+> Subject: The Announcement of the Symposium to celebrate Prof. Wing Ip's 70th Birthday
+> To: astro@asiaa.sinica.edu.tw
+> Cc: Ko Chung-Ming <cmko@astro.ncu.edu.tw>, Tracy Chiu <tracy@astro.ncu.edu.tw>
+
+
+Dear Prof. Kuan:
+
+We are organizing a symposium to celebrate Prof. Wing-Huen Ip's 70th
+birthday next year. Please help to circulate the following announcement in
+the TAN. Thanks a lot.
+
+Best,
+Rex
+
+
+****** First Announcement *******
+We are organizing a symposium to honor Prof. Wing-Huen Ip on the occasion
+of his 70th birthday and pay tribute to his scientific achievements. The
+meeting will address a diverse range of subjects and objects in the Solar
+system and beyond. It aims at bringing together senior and junior
+scientists and students as well to encourage further collaborations as
+demonstrated so well by Prof. Ip throughout his career.
+
+Although the detailed schedule is under development, the scientific program
+includes planets, comets, asteroids and other solar system objects, physics
+of the heliosphere, exoplanets, astronomy of stars and galaxies, and
+astrophysics in general. We solicit presentations on these and related
+topics.
+
+There will be a welcome party and a celebratory banquet, the detailed
+schedule will be announced soon.
+
+We plan to publish a proceeding of the symposium. Guidelines for submission
+will be available in the second announcement.
+
+The regular registration fee of the symposium is NTD 3500 (about USD110),
+and the student registration fee is NTD 1500 (about USD 50). The fee
+includes the banquet and coffee.
+
+For more information of the symposium, please visit our website:
+http://ps1tw.astro.ncu.edu.tw/ipsymposium/index.php
+
+If you have any question, please do not hesitate to email us:
+ipsymposium@astro.ncu.edu.tw
+
+Yours sincerely,
+The Organizing Committee
+
+------------------------------------------------------------
+
+Serendipities in the Solar System and Beyond
+        -- celebrating Prof. Wing Ip's 70th birthday
+email: ipsymposium@astro.ncu.edu.tw
+url: http://ps1tw.astro.ncu.edu.tw/ipsymposium/index.php
+tel: +886-3-4262302 <+886%203%20426%202302>
+fax: +886-3-4262304 <+886%203%20426%202304>
+Institute of Astronomy,
+National Central University, Taiwan
+------------------------------------------------------------
+
+==============================================================================
+
+> From: Youichi Ohyama <ohyama@asiaa.sinica.edu.tw>
+> Date: Wed, 21 Dec 2016 11:17:16 +0800
+> Subject: Gemini Fast Turnaround program
+> To: Network Taiwan Astronomy <astro@asiaa.sinica.edu.tw>
+
+Dear OIR astronomers in Taiwan,
+
+Here is the announcement about the Gemini Fast Turnaround program. Taiwan community has an access to this program through Taiwan-Subaru collaboration framework (and, of course, Subaru-Gemini collaboration framework). The next deadline is already approaching.
+
+As you may know, this program is very unique, and I strongly suggest you to carefully read the instruction and understand pros/cons of the program before the application. If you think that this program is not useful for your requirements, wait for a while for the next regular Subaru (and Gemini) call for their proposals.
+
+Regards,
+Youichi Ohyama (ASIAA)
+
+> Dear (Potential) Fast Turnaround Users
+> 
+> 
+> The next FT deadline is at 23:59 Hawaiian Standard Time on December 31. The FT program has been used to conduct pilot studies, complete data sets, and follow up newly-discovered objects, although we welcome proposals for any kind of project with scientific value.
+> 
+> Both Gemini North and South accept FT proposals. See the FT blog for subscription rates, remaining partner time and other information: http://staff.gemini.edu/ft/
+> 
+> Please be aware that GMOS-N is off the telescope Feb 6-March 29. This also affects GRACES. More details in the call:http://www.gemini.edu/sciops/observing-gemini/observing-modes/fast-turnaround/call-for-proposals
+> 
+> ***Please note that specific Fast Turnaround proposal templates are now REQUIRED for FT proposals.*** They can be found here: http://files.gemini.edu/~software/phase1/templates/2016B/
+> 
+> For full details about the program, including the latest Call for Proposals, see the FT web pages (www.gemini.edu/sciops/observing-gemini/observing-modes/fast-turnaround).
+> 
+> All the best,
+> The Gemini Fast Turnaround support team
+
+==============================================================================
+
+> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
+> Subject: Fwd: The 1st East Asian Workshop on Astrostatistics
+> Date: Wed, 21 Dec 2016 15:59:21 +0800
+> To: astro@asiaa.sinica.edu.tw
+
+
+Dear Yi-Jehng,
+
+    Would you please circulate this workshop announcement through =
+TAN? Thank you!
+
+best,
+sheng-yuan
+
+> Begin forwarded message:
+>=20
+> From: "Kaz Sekiguchi" <kaz.sekiguchi@nao.ac.jp>
+> Subject: The 1st East Asian Workshop on Astrostatistics
+> Date: December 20, 2016 at 2:48:55 PM GMT+8
+> To: "'Xu Ang'" <annxu@nao.cas.cn>, "'Sheng-Yuan Liu'" =
+<syliu@asiaa.sinica.edu.tw>, '=E8=96=9B=E9=9A=8F=E5=BB=BA' =
+<xue@nao.cas.cn>, "'Kyoung-Suk Lee'" <cloth79@kasi.re.kr>
+> Cc: <kaz.sekiguchi@nao.ac.jp>
+>=20
+> Dear EACOA Secretaries,
+> =20
+> Here is an announcement of the Workshop on Astrostatistics at NAOJ on =
+February 28 to March 2, 2017. Please circulate/share this announcement =
+with your community people who might be interested in attending the WS. =
+Limited amount of travel supports will be available to those of you =
+attending the WS from the East Asia region.
+> =20
+> Cheers,
+> =20
+> -Kaz
+> ----
+> Announcement
+> =20
+> "Astrostatistics and R"
+> The 1st East Asian Workshop on Astrostatistics
+> =20
+> National Astronomical Observatory of Japan (NAOJ) and East Asian Core =
+Observatory Association (EACOA) are jointly organizing a 3-day workshop =
+on Astrostatistics for students and astronomers in East Asia on February =
+28 to March 2, 2017. The workshop =E2=80=9CAstrostatistics and R=E2=80=9D =
+that will be held at NAOJ, Mitaka campus, Tokyo, Japan. This workshop is =
+opened to students and astronomers in East Asia who have interests in =
+practical use of statistics and of state-of-the-art statistical tools =
+applicable to astrophysical problems.
+> =20
+> The main purpose of this workshop is to provide the graduate students =
+and post-docs in Japan, as well as other East Asian countries, with an =
+opportunity to learn the analysis and evaluation process of the modern =
+astronomical data. The workshop will be modeled on previous Penn State =
+Summer Schools. Professor Eric Feigelson (Penn State University) will be =
+the instructor of the workshop.
+> =20
+> The number of participants will be limited to ~40-50 (due to the =
+availability of the lecture room space) in total. The selection will be =
+made by the organizers, graduate students and young post-docs will be =
+given preference if the applications exceed the above limitations. Some =
+travel support will be provided to cover the expenses for participating =
+the workshop. If you need the travel support, please notify it in the =
+application form. To apply to the workshop, please fill the application =
+form https://goo.gl/forms/q8R6UgkE2HF8NC5S2 =
+<https://goo.gl/forms/q8R6UgkE2HF8NC5S2>. The deadline is January 10, =
+2017.
+> =20
+> Important Dates
+> =EF=82=A7      January 10, 2017: application deadline
+> =EF=82=A7      January 15, 2017: selection of participants
+> =EF=82=A7      February 28 =E2=80=93 March 2, 2017: workshop
+> =20
+> Contact: Kaz Sekiguchi (kaz.sekiguchi@nao.ac.jp =
+<mailto:kaz.sekiguchi@nao.ac.jp>)
+> =20
+> "Astrostatistics and R"
+> The 1st East Asian Workshop on Astrostatistics
+> =20
+> Instructor: Eric Feigelson, Professor of Astronomy and Astrophysics, =
+Penn State University
+> When: February 28 =E2=80=93 March 2, 2017
+> Where: National Astronomical Observatory of Japan, Mitaka Campus, =
+Tokyo, Japan
+> =20
+> =20
+> Workshop program
+> Tuesday, February 28, 2017
+> 11:00-12:00        Introduction to astrostatistics & R
+> 13:00-14:30      1. Getting started with R and CRAN
+> 15:00-16:30      2. Density estimation & local regression
+> =20
+> Wednesday, March 1
+> 09:00-10:30      3. Fundamentals of statistical inference
+> 11:00-12:00      4. Regression
+> 13:30-14:30      5. Multivariate clustering & classification
+> 15:00-16:30      6. Bayesian inference
+> =20
+> Thursday, March 2
+> 09:00-10:00      7. Bayesian computation
+> 10:30-11:30      8. Censoring & truncation (nondetections)
+> 13:00-14:00      9. Data visualization in R
+> 14:30-15:30    10. Efficient & high performance computing in R
+> 16:00-17:00    11. Towards good statistical practices in astronomy
+> =20
+>=20
+
+==============================================================================
+
+> Date: Wed, 21 Dec 2016 15:59:01 +0800
+> From: Winny Hsieh <winny@asiaa.sinica.edu.tw>
+> To: iaa <iaa@asiaa.sinica.edu.tw>, outreach@eaobservatory.org
+> Subject: good news
+
+Dear All,
+
+good news to share with you.
+https://www.sinica.edu.tw/en/news/4273 
+
+thanks,
+winny
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                  Since 1996
+
+To send a message to the entire distribution: astro @ asiaa.sinica.edu.tw
+Miscellaneous administration questions:          kuan @ asiaa.sinica.edu.tw
+                                                    (or +886-2-7734-6418)
+To check the back issues:        <http://www.asiaa.sinica.edu.tw/~TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their 
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

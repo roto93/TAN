@@ -1,34 +1,40 @@
-> To: iaa@asiaa.sinica.edu.tw, astro@asiaa.sinica.edu.tw,
->         band1-sv@asiaa.sinica.edu.tw
-> From: Oscar Morata <omorata@asiaa.sinica.edu.tw>
-> Subject: update on the ALMA Band 1 Science workshop (Jan 16-18, 2017)
-> Date: Wed, 14 Dec 2016 14:41:09 +0800
+> Date: Thu, 8 Dec 2016 11:30:02 +0800
+> To: circular_colloquium@asiaa.sinica.edu.tw
+> Subject: Colloquium/Seminar/Lunchtalk next week
+> From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
 
-Dear all
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
 
-the program of the ALMA Band 1 Science workshop that will be held at
-ASIAA in Taipei during 16--18 January 2017 is already online:
+*** Lunch Talk ***
+Please order the lunch box by *3PM* this Friday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:        Li-Yen Hsu (University of Hawaii)
+Topic:          Faint Submillimeter Galaxies Behind Lensing Clusters
+Time:           12/12 (Monday) 12:00 - 13:00
+Place:           R1203
 
-https://events.asiaa.sinica.edu.tw/workshop/20170116/program.php
 
-We want to remind you that *** registration is still open until January
-1st 2017***. If you are interested in attending the workshop, especially
-if you are in Taiwan, please register before the deadline.
+*** Colloquium ***
+____________________________________________________
+Speaker:        Martin Bizzarro (Natural History Museum of Denmark)
+Topic:          TBA
+Time:           12/14 (Wednesday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+TBA
 
-We will dedicate Thursday 19th and Friday 20th January to the discussion
-of the Band 1 Science Verification. If you plan on attending and have
-not yet told us, please get in touch with Oscar Morata
-(omorata@asiaa.sinica.edu.tw). The SV meeting will be held in ASIAA
-R1107, which has a relatively low limited seating space and we would
-like to know how many extra people are intending to to come.
 
-Finally, we are studying the possibility of providing remote access to
-the SV meeting, we will provide more details if we find an appropriate
-way of doing it.
-
-Best regards,
-    Oscar Morata
-    ALMA Band 1 Project Scientist
-    on behalf of the SOC
+*** Special Seminar ***
+____________________________________________________
+Speaker:        Chia-Yu Hu (Center for Computational Astrophysics)
+Topic:          The interstellar medium in dwarf galaxies
+Time:           12/15 (Thursday) 14:20 - 15:20
+Place:           R1203
+Abstract:
+Dwarf galaxies are the most numerous type of galaxy in the local Universe. They tend to have low metallicity and low dust-to-gas ratio compared to spiral galaxies. Understanding the interstellar medium in dwarf galaxies may provide crucial insights on the high-redshift galaxies that have comparable metallicity. In this talk, I will show the recent results from high-resolution numerical simulations of isolated dwarf galaxies, which can start to resolve the cold gas and stellar feedback on galactic scales. In particular, I will focus on the formation of molecular hydrogen and its (non-)correlation with star formation, which has important implications to the sub-grid recipes widely adopted in many large-scale cosmological simulations. I will also discuss the interplay of different types of stellar feedback that shapes the interstellar medium in dwarf galaxies, where the gas is driven far out of thermal- and chemical-equilibrium. Finally, I will demonstrate how the galactic outf!
+ lows are controlled by the number of supernovae that occur in low-density environments.
 
 ==============================================================================

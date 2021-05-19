@@ -1,108 +1,33 @@
-> From: Sheng-Yuan Liu <syliu@asiaa.sinica.edu.tw>
-> Subject: Fwd: The 1st East Asian Workshop on Astrostatistics
-> Date: Wed, 21 Dec 2016 15:59:21 +0800
-> To: astro@asiaa.sinica.edu.tw
+> Date: Sun, 18 Dec 2016 09:03:07 +0800
+> From: You-Hua Chu <yhchu@asiaa.sinica.edu.tw>
+> To: iaa <iaa@asiaa.sinica.edu.tw>
+> Subject: FW: Fred Lo 1947-2016
+
+>> From: Allemploy [mailto:allemploy-bounces@listmgr.nrao.edu] On Behalf Of Tony Beasley
+>> Sent: Saturday, December 17, 2016 11:29 AM
+>> To: 'allemploy@nrao.edu' <allemploy@nrao.edu>
+>> Subject: [allemploy] Fred Lo 1947-2016
 
 
-Dear Yi-Jehng,
+Dear NRAO staff,
 
-    Would you please circulate this workshop announcement through =
-TAN? Thank you!
+It is with great regret that I report the death of our friend and colleague, Kwok-Yung (Fred) Lo on Friday, December 16th 2016, from complications associated with cancer.
 
-best,
-sheng-yuan
+Fred was an eminent scientist who led the NRAO as its Director and Distinguished Astronomer from September 2002 ĄV May 2012, an important decade during which the NRAO and its international partners realized the construction and initiation of science operations with the Atacama Large Millimeter/submillimeter Array (ALMA). Fred also led the NRAO while the Expanded Very Large Array (EVLA) project was built and completed ĄV on time, to specification and under budget ĄV enabling the rebirth of the 1970s-era VLA as the much more capable Karl G. Jansky Very Large Array. During his tenure as Director, the Green Bank Telescope and the Very Long Baseline Array also made extraordinary progress in their scientific capabilities and productivity. FredĄŚs vision and leadership were vital to each of these major NRAO technical and scientific successes.
 
-> Begin forwarded message:
->=20
-> From: "Kaz Sekiguchi" <kaz.sekiguchi@nao.ac.jp>
-> Subject: The 1st East Asian Workshop on Astrostatistics
-> Date: December 20, 2016 at 2:48:55 PM GMT+8
-> To: "'Xu Ang'" <annxu@nao.cas.cn>, "'Sheng-Yuan Liu'" =
-<syliu@asiaa.sinica.edu.tw>, '=E8=96=9B=E9=9A=8F=E5=BB=BA' =
-<xue@nao.cas.cn>, "'Kyoung-Suk Lee'" <cloth79@kasi.re.kr>
-> Cc: <kaz.sekiguchi@nao.ac.jp>
->=20
-> Dear EACOA Secretaries,
-> =20
-> Here is an announcement of the Workshop on Astrostatistics at NAOJ on =
-February 28 to March 2, 2017. Please circulate/share this announcement =
-with your community people who might be interested in attending the WS. =
-Limited amount of travel supports will be available to those of you =
-attending the WS from the East Asia region.
-> =20
-> Cheers,
-> =20
-> -Kaz
-> ----
-> Announcement
-> =20
-> "Astrostatistics and R"
-> The 1st East Asian Workshop on Astrostatistics
-> =20
-> National Astronomical Observatory of Japan (NAOJ) and East Asian Core =
-Observatory Association (EACOA) are jointly organizing a 3-day workshop =
-on Astrostatistics for students and astronomers in East Asia on February =
-28 to March 2, 2017. The workshop =E2=80=9CAstrostatistics and R=E2=80=9D =
-that will be held at NAOJ, Mitaka campus, Tokyo, Japan. This workshop is =
-opened to students and astronomers in East Asia who have interests in =
-practical use of statistics and of state-of-the-art statistical tools =
-applicable to astrophysical problems.
-> =20
-> The main purpose of this workshop is to provide the graduate students =
-and post-docs in Japan, as well as other East Asian countries, with an =
-opportunity to learn the analysis and evaluation process of the modern =
-astronomical data. The workshop will be modeled on previous Penn State =
-Summer Schools. Professor Eric Feigelson (Penn State University) will be =
-the instructor of the workshop.
-> =20
-> The number of participants will be limited to ~40-50 (due to the =
-availability of the lecture room space) in total. The selection will be =
-made by the organizers, graduate students and young post-docs will be =
-given preference if the applications exceed the above limitations. Some =
-travel support will be provided to cover the expenses for participating =
-the workshop. If you need the travel support, please notify it in the =
-application form. To apply to the workshop, please fill the application =
-form https://goo.gl/forms/q8R6UgkE2HF8NC5S2 =
-<https://goo.gl/forms/q8R6UgkE2HF8NC5S2>. The deadline is January 10, =
-2017.
-> =20
-> Important Dates
-> =EF=82=A7      January 10, 2017: application deadline
-> =EF=82=A7      January 15, 2017: selection of participants
-> =EF=82=A7      February 28 =E2=80=93 March 2, 2017: workshop
-> =20
-> Contact: Kaz Sekiguchi (kaz.sekiguchi@nao.ac.jp =
-<mailto:kaz.sekiguchi@nao.ac.jp>)
-> =20
-> "Astrostatistics and R"
-> The 1st East Asian Workshop on Astrostatistics
-> =20
-> Instructor: Eric Feigelson, Professor of Astronomy and Astrophysics, =
-Penn State University
-> When: February 28 =E2=80=93 March 2, 2017
-> Where: National Astronomical Observatory of Japan, Mitaka Campus, =
-Tokyo, Japan
-> =20
-> =20
-> Workshop program
-> Tuesday, February 28, 2017
-> 11:00-12:00        Introduction to astrostatistics & R
-> 13:00-14:30      1. Getting started with R and CRAN
-> 15:00-16:30      2. Density estimation & local regression
-> =20
-> Wednesday, March 1
-> 09:00-10:30      3. Fundamentals of statistical inference
-> 11:00-12:00      4. Regression
-> 13:30-14:30      5. Multivariate clustering & classification
-> 15:00-16:30      6. Bayesian inference
-> =20
-> Thursday, March 2
-> 09:00-10:00      7. Bayesian computation
-> 10:30-11:30      8. Censoring & truncation (nondetections)
-> 13:00-14:00      9. Data visualization in R
-> 14:30-15:30    10. Efficient & high performance computing in R
-> 16:00-17:00    11. Towards good statistical practices in astronomy
-> =20
->=20
+Born in 1947 in Hong Kong, Fred arrived in the United States in 1965 to attend the Massachusetts Institute of Technology, from which he obtained a B.S. and a Ph.D. in Physics in 1969 and 1974, respectively. He joined the California Institute of Technology in 1974 as a Research Fellow in Radio Astronomy, and in 1976, took up a position at the University of California, Berkeley as a Miller Fellow. Two years later, Fred returned to Caltech where he held research and teaching positions until, in 1986, he became a Professor of Astronomy at the University of Illinois at Urbana-Champaign and served as Astronomy Department Chair from 1995 ĄV 1997. Immediately prior to coming to the NRAO, Fred joined the Academia Sinica in Taipei, Taiwan in 1997 as Director of its newly-formed Institute of Astronomy and Astrophysics, and was appointed Professor of Physics at the National Taiwan University in 1998.
 
-==============================================================================
+Fred was an accomplished radio astronomer and physicist whose research impacted international scientific progress across multiple fields. His interests ranged from mega-masers to star formation, starbursts, the Galactic Center, and cosmology. Fred made the first millimeter-wave interferometric map of carbon monoxide emission from an external galaxy and in 1986, he and Mark Claussen were the first to suggest that luminous water maser emission in external galaxies is circumnuclear, affiliated with active galactic nuclei, and could serve as very high resolution probes of the centers of galaxies. These keen insights led eventually to the Megamaser Cosmology Project that is now accurately measuring the expansion rate of the Universe and that will yield a direct test of the standard cosmological model and meaningfully constrain the nature of dark energy; Fred was one of the driving intellects in the project.
+
+FredĄŚs vision for radio astronomy and NRAO lie at the center of our plans for the future, and we will greatly miss his guidance and focus on all aspects of astronomy. His force of character and remarkable intellect made him a notable leader in our profession, across many arenas and decades. Many people have commented that like it or not, you knew where you stood with Fred, and you knew what he thought, and why ĄV that was the thoughtful, kind individual I knew for more than 20 years.
+
+FredĄŚs wife Helen and sons Derek and Jan were with him during the past week, and greatly appreciate our expressions of concern and sorrow. Additional notices are planned for the AAS and IAU news services.  Arrangements for FredĄŚs service will be announced when available, and NRAO will proudly honor his contributions to astronomy at an event held later in 2017.
+
+Throughout his long life and career he touched many lives, and we will miss him.
+
+
+Tony Beasley
+NRAO Director
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

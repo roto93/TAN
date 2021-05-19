@@ -1,117 +1,147 @@
-> Subject: Fwd: Call for observing proposals for ASTE/NRO45m
-> From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
-> Date: Wed, 16 Nov 2016 10:19:45 +0800
-> Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
-> To: riaa <riaa@asiaa.sinica.edu.tw>,
->     alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+> From: Hiroyuki Hirashita <hirashita@asiaa.sinica.edu.tw>
+> Date: Wed, 9 Nov 2016 00:25:02 +0800
+> Subject: Fwd: Cosmic Dust X: First Circular
+> To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
 
-Dear all,
+This is an announcement of the cosmic dust conference in Japan next year.
+______________
+MEETING TITLE:
+Cosmic Dust
 
-  We can access the Atacama Submillimeter Telescope Experiment (ASTE) through ALMA project in EA.
-  NRO45m is open to world wide.
+WEBSITE:
+https://www.cps-jp.org/~dust/
 
-  See below for the proposal call.
+VENUE:
+Mitaka Campus of National Astronomical Observatory of Japan (NAOJ)
+2-21-1 Osawa, Mitaka
+Tokyo 181-8588
+JAPAN
 
-Best,
-Yu-Nung
-On behalf of Taiwan ARC node
+DATE:
+Monday, August 14 =E2=80=93 Friday, August 18, 2017
 
-> 開始轉寄郵件：
->
-> 寄件人: Masao Saito <masao.saito@nao.ac.jp>
-> 標題: Call for observing proposals for ASTE/NRO45m
-> 日期: 2016年11月15日 GMT+8 下午9:59:32
-> 收件人: ynsu@asiaa.sinica.edu.tw
->
-> Dear Yun Nung
->
-> Could you pass this to someone who may be interested in?
-> This time only proposals of NRO 45m telescope up to 20 hrs will be
-> accepted.
->
-> Thank you.
->
-> cheers,
-> Masao
->
-> Observing proposals for ASTE of NAOJ Chile Observatory and the 45-m
-> telescope of Nobeyama Radio Observatory (35th observing period) are
-> invited.
->
-> Director
-> Chile Observatory, NAOJ
-> Seiichi Sakamoto
->
-> Director
-> Nobeyama Radio Observatory, NAOJ
-> Masao Saito
-> -----------
->
-> 1. Period
-> ASTE: Jun 1, 2017 to Sep 30, 2017
-> 45-m: Mar 1, 2017 to Apr 30, 2017
->
-> 2. Open use information:
-> Common (ASTE/45-m)
-> - DDT (Directors' Discretional Time) proposals can be submitted after
->    the deadline.
->
-> ASTE
->  Status report, application form, and other information are available
->  in the following website.
->  http://alma.mtk.nao.ac.jp/aste/cfp/index.html
->  Note that this will be the only call for proposal for the 2017
->  observing season of ASTE.
->
-> 45-m
->  Status report, application form, and other information are available
->  in the following website.
->  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/index-e.html
->  - Short programs (< 20 hr).
->  - Z45 is offered for the open use in a shared-risk mode.
->  - S40 is unavailable for the open use.
->  - Spectral window mode is available for FOREST observations.
->
-> 3. Deadline:
-> ASTE
->  General:  December 13, 2016, 15:00 JST [06:00UT]
->
-> 45-m
->  Short Program:   December 13, 2016, 15:00JST [06:00UT]
->
-> 4. Submission:
-> We accept the proposal only via the web submission form. A Latex
-> template must be used to generate the PDF file that contains the
-> Scientific and Technical Justifications.  Please access the application
-> form, fill the webform and upload the final PDF file.
->
-> *The scientific and technical justification, including figures, tables
->  and references, must fit within 3 pages (1 page for the Short Proposal).
->  The maximum file size is 20 MB.
-> * For the 45m telescope, please attach (copy & paste) the results of
->   our time estimators.
->  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/wsub-help.html
-> * Please check the observations of the legacy projects.
->  http://www.nro.nao.ac.jp/~nro45mrt/html/prop/NP.html
->
-> 5. Evaluation:
->  - Proposals in the category of General are evaluated by referees, and
->   the acceptance is judged by the Millimeter and Submillimeter Time
->   Allocation Committee.
-> - Proposals in the categories of Short and Back-up programs are
->   evaluated and judged by the Millimeter and Submillimeter Time
->   Allocation Committee.
->
-> 6. Time allocation:
-> ASTE and 45-m Observational time will be allocated by the NAOJ Chile
-> Observatory and Nobeyama Radio Observatory for proposals accepted by
-> the Millimeter and Submillimeter Time Allocation Committee.
->
-> 7. Questions?
-> Any questions about observations and preparations of proposals should
-> be submitted through the helpdesk:
-> https://www.nro.nao.ac.jp/%7Enro45mrt/html/helpdesk/inquiry_form.html
->
->
+OBJECTIVES:
+This series of Cosmic Dust meetings aims at finding a consensus among
+experts on the formation and evolution of cosmic dust: where it comes from
+and where it goes. The meeting is organized by dust freaks who are very
+enthusiastic not only to make the goal achievable but also to establish a
+dust community across every scientifically relevant discipline for the
+development of cosmic dust research. For this reason, the primary objective
+of the meeting is to bring together professionals who deal with cosmic dust
+as well as provide an opportunity for participants to develop interpersonal
+relationships and scientific interactions among themselves.
+
+SCOPE:
+All kinds of cosmic dust such as
+=E2=80=A2 intergalactic dust
+=E2=80=A2 circumnuclear dust
+=E2=80=A2 interstellar dust
+=E2=80=A2 protoplanetary disk dust
+=E2=80=A2 debris disk dust
+=E2=80=A2 cometary dust
+=E2=80=A2 interplanetary dust
+=E2=80=A2 circumplanetary dust
+=E2=80=A2 stellar nebular condensates
+=E2=80=A2 presolar grains
+=E2=80=A2 micrometeorites
+=E2=80=A2 meteoroids
+=E2=80=A2 meteors
+=E2=80=A2 regolith particles
+=E2=80=A2 planetary aerosols
+are the subject of discussion. The meeting is open for any aspects of dust
+research by means of different methods of studies (in-situ and laboratory
+measurements, astronomical observations, laboratory and numerical
+simulations, theoretical modeling, data analyses, etc.). Also welcome are
+papers on dust-related topics, for example:
+=E2=80=A2 the formation of molecules and their reactions on and their desor=
+ption
+from the surface of a solid substance
+=E2=80=A2 light scattering by non-spherical particles and particulate surfa=
+ces
+=E2=80=A2 space missions and instrumentation for measurements of particulat=
+es
+
+ADMISSIONS APPLICATION:
+Please complete online meeting application at the CPS website in order to
+attend the meeting. The deadline for the application is May 13, 2017, 11:59
+p.m. Japan Standard Time (GMT+09:00). Because the number of participants is
+limited to a maximum of 50, the online application does not guarantee
+admission to the meeting. Participants will be determined at the discretion
+of the SOC and all applicants will be notified of the admissions decision
+by May 31, 2017. Priority will be given to those who contribute to oral or
+poster sessions and retain enthusiasm for discussions throughout the
+meeting. For further details, please visit the Cosmic Dust website.
+https://www.cps-jp.org/~dust/Application.html
+
+REGISTRATION FEE:
+The early bird rate of 10,000 JPY is available for those who complete both
+admissions application and abstract submission by April 30, 2017. The
+registration fee for those who complete admissions application on and after
+May 1, 2017 is 15,000 JPY. While no payment is required at the time of
+admissions application and abstract submission, the registration fee should
+be paid by cash on arrival at the venue. No matter what circumstances are
+specified, the registration fee will not be waived.
+
+BEST POSTER AWARD:
+The best poster award will be given to the most excellent content and
+presentation of a poster at the Cosmic Dust meeting, although higher
+priorities are given to posters by students and junior scientists. The
+award winner will be announced in the closing minutes of the meeting.
+
+PROCEEDINGS:
+The proceedings of the meeting is planned to be published as a special
+issue of original papers (or in exceptional cases, review articles from
+invited speakers) in a peer-reviewed journal. All participants are strongly
+encouraged to publish a paper in this special issue of the journal,
+although paper submission to the proceedings is not obligatory. In recent
+years, the proceedings were published in Planetary and Space Science:
+http://www.sciencedirect.com/science/journal/00320633/116/supp/C
+http://www.sciencedirect.com/science/journal/00320633/100/supp/C
+
+IMPORTANT DATES:
+30 April 2017, Deadline for Early-Bird Application
+13 May 2017, Deadline for Admissions Application
+31 May 2017, Notification of Admissions Decision
+14-18 August 2017, Cosmic Dust
+
+SCIENTIFIC ORGANIZING COMMITTEE (SOC):
+Jean-Charles Augereau (IPAG, France)
+Cornelia J=C3=A4ger (Max Planck Institute for Astronomy, Germany)
+Hidehiro Kaneda (Nagoya University, Japan)
+Hiroshi Kimura (Nagoya University, Japan) [Chair]
+Ludmilla Kolokolova (University of Maryland, USA)
+Aigen Li (University of Missouri-Columbia, USA)
+
+LOCAL ORGANIZING COMMITTEE (LOC):
+Hiroki Chihara (Osaka Sangyo University)
+Takayuki Hirai (JAXA/CAC)
+Akio Inoue (Osaka Sangyo University)
+Hidehiro Kaneda (Nagoya University)
+Hiroshi Kimura (Kobe University)
+Hiroshi Kobayashi (Nagoya University)
+Takaya Nozawa (National Astronomical Observatory of Japan) [Chair]
+Tomomi Omura (Kobe University, Japan)
+Takafumi Ootsubo (The University of Tokyo, Japan)
+Hiroki Senshu (Chitec/PERC)
+Takashi Shimonishi (Tohoku University)
+Ryo Tazaki (Kyoto University)
+Koji Wada (Chitec/PERC)
+
+CONTACT INFORMATION:
+<dust-inquiries@cps-jp.org>
+Please mind that any email attachment will be blocked.
+
+BRIEF HISTORY:
+The Cosmic Dust meeting started in 2006 as a session called =E2=80=9CCosmic=
+ Dust=E2=80=9D
+of the 3rd AOGS (Asia-Oceania Geoscience Society) annual meeting in
+Singapore. Dust freaks have kept on organizing the session at subsequent
+AOGS meetings in Korea (2008), India (2010), and Taiwan (2011). The Cosmic
+Dust series has been recognized as the most successful session of the AOGS
+Planetary Sciences Section. In 2012, the time was ripe to be free from
+organizing restrictions on the AOGS meeting. From that time on, the Cosmic
+Dust meeting is totally independent of any international conference. The
+past meetings on Cosmic Dust have been held in a relaxed and joyful
+atmosphere. So will be the coming one!=EF=BF=BC
 
 ==============================================================================
