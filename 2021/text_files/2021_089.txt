@@ -1,0 +1,104 @@
+==============================================================================
+
+From: Kiyoaki Wajima <wajima@kasi.re.kr>
+To: <evntech@jb.man.ac.uk>, <vlbi@nrao.edu>, <merlin-announce@jb.man.ac.uk>,
+  <astro@asiaa.sinica.edu.tw>, <radioah@kasi.re.kr>, <vera-unyo@ml.nao.ac.jp>
+Subject: [REMINDER] [KVN2021B] Call for Proposals for the Korean VLBI Network (KVN) for the 2021B semester
+Date: Fri, 21 May 2021 07:27:22 +0000
+
+Dear colleagues,
+
+This is a reminder that the proposal submission deadline for the Korean VLBI
+Network (KVN) is approaching to June 1, 8:00 UT. Please refer also to the
+following EAVN website for more details about the array.
+
+https://kvn.kasi.re.kr/
+
+Best regards,
+
+Kiyoaki Wajima
+(KASI; in place of KVN director)
+
+
+-----------------------------------------
+
+1. KVN Call for Proposal (VLBI)
+-----------------------------------------
+Call for Proposals 2021B (KVN VLBI)
+Proposal submission deadline: 2021 June 1, 08:00 UT
+KVN website: https://kvn.kasi.re.kr
+-----------------------------------------
+
+The Korean VLBI Network (KVN) invites scientific proposals for VLBI observations
+during the 2021B season from astronomers around the world. Observations of successful
+proposals will be scheduled between 2021 September 1 and 2022 January 15. Proposals
+should be submitted via the KVN website (https://kvn.kasi.re.kr) before the deadline
+of UT 08:00 (KST 17:00) on 2021 June 1.
+
+
+** Korean VLBI Network (KVN) **
+The Korean VLBI Network (KVN) is a dedicated mm-VLBI network, operated by the Korea
+Astronomy and Space Science Institute (KASI, https://www.kasi.re.kr). Its three 21m
+radio telescopes are located around South Korea in Seoul, Ulsan, and Jeju Island.
+The baseline lengths range from 305km to 476 km.
+
+The simultaneous multi-frequency (22/43/86/129 GHz) observing mode in dual polarization
+is available. Available data rates are 1, 2, 4, 8 and 16/32 Gbps (limited time and
+shared risk observations in case of 16/32 Gbps, see the details in the KVN status
+report). If requested in the proposals, the observing schedule can be allocated over
+a year, until 2022 June 15. Proposers should use the KVN VLBI observing application
+form and carefully follow the instructions on the KVN website. The scientific and
+technical justification must be provided within 3 pages. Details of the information
+and current status of the KVN can be found in the KVN status report on the KVN website
+(http://kvn.kasi.re.kr). Proposals should be submitted via the KVN website.
+
+
+** Note on the EATING VLBI observations**
+According to the MoA between INAF (The Istituto Nazionale de Astrofisica) and KASI
+up to 30 hours of observing time in VLBI mode are allocated to approved EATING VLBI
+projects. These projects have to be submitted both to the Italian and Korean TACs
+with the standard form selecting "EATING VLBI" mode in the project type. Approved
+projects will be observed up to 30 hours/semester. Projects exceeding 30 hours will
+be scheduled together with all other projects according to their relative grades.
+PIs of these proposals must be associated with INAF or KASI. The detailed information
+can be found at the website: http://www.radiotelescopes.inaf.it/proposal_main.html.
+
+
+Kee-Tae Kim
+Director of Radio Astronomy Division, KASI
+
+
+
+2. KVN Call for Proposal (Single Dish)
+-----------------------------------------
+Call for Proposals 2021B (Single Dish)
+Proposal submission deadline: 2021 June 1, 08:00 UT
+KVN website: https://kvn.kasi.re.kr
+-----------------------------------------
+
+The Korean VLBI Network (KVN) invites scientific proposals for single dish observations
+for the 2021B season from Korean astronomical community. Observations of successful
+proposals will be scheduled between 2021 September 1 and 2022 January 15. Proposals
+should be submitted via the KVN website (http://kvn.kasi.re.kr) before the deadline
+of UT 08:00 (KST 17:00) on 2021 June 1.
+
+The Korean VLBI Network (KVN) is operated by Korea Astronomy and Space Science Institute
+(KASI, http://www.kasi.re.kr). Its three 21m radio telescopes are located in Seoul,
+Ulsan and Jeju Island. Both spectral and continuum observation modes are supported.
+Available frequency bands are K (18-26 GHz) and Q (35-50 GHz), extended-W (85-116 GHz),
+and D (125-142 GHz), and the simultaneous multi-frequency observing mode is supported.
+From 2021B season, the new backend system (GPU spectrometer) is implemented for shared
+risk observations. For each KVN telescope, 300 hours of single dish observation time
+is available for this call. Therefore, total available time for three KVN radio
+telescopes is about 900 hours.
+
+Proposers should use the KVN single dish application form and carefully follow the
+instructions on the KVN website. The scientific and technical justification must be
+provided within 3 pages. Details of the information and current status of the KVN
+can be found in the KVN status report on the KVN website (http://kvn.kasi.re.kr).
+
+
+Kee-Tae Kim
+Director of Radio Astronomy Division, KASI
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
