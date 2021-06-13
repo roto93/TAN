@@ -1,8 +1,10 @@
 <html>
 <script src="../jquery-3.1.0.min.js"></script>
 
-<meta http-equiv="Content-Type" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0; charset=utf-8" />
-<link rel="stylesheet" href="../bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<meta http-equiv="Content-Type"
+    content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0; charset=utf-8" />
+<link rel="stylesheet" href="../bootstrap-theme.min.css"
+    integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="../bootstrap.min.css">
 <link rel="stylesheet" href="../button.css">
@@ -17,249 +19,249 @@
     .news_detail td {
         font-size: 3.5rem;
     }
-    
+
     .year {
         display: table;
         margin: 0 auto;
     }
-    
+
     .year_list {
         width: 80vw;
     }
-    
+
     .year_list tr {
         text-align: center;
         height: 6vh;
     }
-    
+
     .year_list a {
         font-size: 4.5rem;
     }
-    
+
     .tab3 {
         width: 22.5vw;
         text-align: center;
         font-size: 3.3rem;
     }
-    
+
     .home_context {}
-    
+
     #about_context {
         display: none;
     }
-    
+
     #footer {
         bottom: 5vw;
         position: absolute;
         width: 100vw;
     }
-    
+
     #asroc_context {
         display: none;
     }
-    
+
     #asroc_context table {
         text-align: center;
         font-size: 3.5rem;
         width: 65vw;
     }
-    
+
     .asroc_date {
         color: #113285;
     }
-    
+
     #archive_menu {
         width: 20vw;
         font-size: 5rem;
     }
-    
+
     #archive_menu li {
         text-align: center;
         color: #33A6B8;
     }
-    
+
     .archive_all {
         display: none;
     }
 </style>
 
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
 
-        $("#application_form").click(function() {
+        $("#application_form").click(function () {
             $("#application_form_doc").fadeToggle();
         });
 
         //ASROC 2018
-        $("#all2018").click(function() {
+        $("#all2018").click(function () {
             $("#a2018_1").fadeToggle();
             $("#a2018_2").fadeToggle();
             //            $("#a2018_3").fadeToggle();
         });
 
-        $("#all2018_1").click(function() {
+        $("#all2018_1").click(function () {
             $("#a2018_1").fadeToggle();
         });
-        $("#all2018_2").click(function() {
+        $("#all2018_2").click(function () {
             $("#a2018_2").fadeToggle();
         });
 
         //ASROC 2017
-        $("#all2017").click(function() {
+        $("#all2017").click(function () {
             $("#a2017_1").fadeToggle();
             $("#a2017_2").fadeToggle();
             $("#a2017_3").fadeToggle();
         });
 
-        $("#all2017_1").click(function() {
+        $("#all2017_1").click(function () {
             $("#a2017_1").fadeToggle();
         });
 
-        $("#all2017_2").click(function() {
+        $("#all2017_2").click(function () {
             $("#a2017_2").fadeToggle();
         });
 
-        $("#all2017_3").click(function() {
+        $("#all2017_3").click(function () {
             $("#a2017_3").fadeToggle();
         });
 
         //ASROC 2016
-        $("#all2016").click(function() {
+        $("#all2016").click(function () {
             $("#a2016_1").fadeToggle();
             $("#a2016_2").fadeToggle();
             $("#a2016_3").fadeToggle();
         });
 
-        $("#all2016_1").click(function() {
+        $("#all2016_1").click(function () {
             $("#a2016_1").fadeToggle();
         });
 
-        $("#all2016_2").click(function() {
+        $("#all2016_2").click(function () {
             $("#a2016_2").fadeToggle();
         });
 
-        $("#all2016_3").click(function() {
+        $("#all2016_3").click(function () {
             $("#a2016_3").fadeToggle();
         });
 
         //ASROC 2015
-        $("#all2015").click(function() {
+        $("#all2015").click(function () {
             $("#a2015_1").fadeToggle();
             $("#a2015_2").fadeToggle();
             $("#a2015_3").fadeToggle();
         });
 
-        $("#all2015_1").click(function() {
+        $("#all2015_1").click(function () {
             $("#a2015_1").fadeToggle();
         });
 
-        $("#all2015_2").click(function() {
+        $("#all2015_2").click(function () {
             $("#a2015_2").fadeToggle();
         });
 
-        $("#all2015_3").click(function() {
+        $("#all2015_3").click(function () {
             $("#a2015_3").fadeToggle();
         });
 
         //ASROC 2014
-        $("#all2014").click(function() {
+        $("#all2014").click(function () {
             $("#a2014_1").fadeToggle();
             $("#a2014_2").fadeToggle();
             $("#a2014_3").fadeToggle();
         });
 
-        $("#all2014_1").click(function() {
+        $("#all2014_1").click(function () {
             $("#a2014_1").fadeToggle();
         });
 
-        $("#all2014_2").click(function() {
+        $("#all2014_2").click(function () {
             $("#a2014_2").fadeToggle();
         });
 
-        $("#all2014_3").click(function() {
+        $("#all2014_3").click(function () {
             $("#a2014_3").fadeToggle();
         });
 
         //ASROC 2013
-        $("#all2013").click(function() {
+        $("#all2013").click(function () {
             $("#a2013_1").fadeToggle();
             $("#a2013_2").fadeToggle();
             $("#a2013_3").fadeToggle();
         });
 
-        $("#all2013_1").click(function() {
+        $("#all2013_1").click(function () {
             $("#a2013_1").fadeToggle();
         });
 
-        $("#all2013_2").click(function() {
+        $("#all2013_2").click(function () {
             $("#a2013_2").fadeToggle();
         });
 
-        $("#all2013_3").click(function() {
+        $("#all2013_3").click(function () {
             $("#a2013_3").fadeToggle();
         });
 
         //ASROC 2012
-        $("#all2012").click(function() {
+        $("#all2012").click(function () {
             $("#a2012_1").fadeToggle();
             $("#a2012_2").fadeToggle();
         });
 
-        $("#all2012_1").click(function() {
+        $("#all2012_1").click(function () {
             $("#a2012_1").fadeToggle();
         });
 
-        $("#all2012_2").click(function() {
+        $("#all2012_2").click(function () {
             $("#a2012_2").fadeToggle();
         });
 
 
         //ASROC 2011
-        $("#all2011").click(function() {
+        $("#all2011").click(function () {
             $("#a2011_1").fadeToggle();
             $("#a2011_2").fadeToggle();
         });
 
-        $("#all2011_1").click(function() {
+        $("#all2011_1").click(function () {
             $("#a2011_1").fadeToggle();
         });
-        $("#all2011_2").click(function() {
+        $("#all2011_2").click(function () {
             $("#a2011_2").fadeToggle();
         });
 
 
         //ASROC 2010
-        $("#all2010").click(function() {
+        $("#all2010").click(function () {
             $("#a2010_1").fadeToggle();
             $("#a2010_2").fadeToggle();
         });
 
-        $("#all2010_1").click(function() {
+        $("#all2010_1").click(function () {
             $("#a2010_1").fadeToggle();
         });
 
-        $("#all2010_2").click(function() {
+        $("#all2010_2").click(function () {
             $("#a2010_2").fadeToggle();
         });
 
 
         //ASROC 2009
-        $("#all2009").click(function() {
+        $("#all2009").click(function () {
             $("#a2009_1").fadeToggle();
             $("#a2009_2").fadeToggle();
         });
 
-        $("#all2009_1").click(function() {
+        $("#all2009_1").click(function () {
             $("#a2009_1").fadeToggle();
         });
 
-        $("#all2009_2").click(function() {
+        $("#all2009_2").click(function () {
             $("#a2009_2").fadeToggle();
         });
 
 
 
-        $("#home").click(function() {
+        $("#home").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -276,7 +278,7 @@
 
         });
 
-        $("#about").click(function() {
+        $("#about").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -292,7 +294,7 @@
 
         });
 
-        $("#archive_all_bar").click(function() {
+        $("#archive_all_bar").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -308,7 +310,7 @@
             $("#archive_all_bar").css("color", "#0D5661");
         });
 
-        $("#archive_bar_2019").click(function() {
+        $("#archive_bar_2019").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -326,7 +328,7 @@
 
         });
 
-        $("#archive_bar_2018").click(function() {
+        $("#archive_bar_2018").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -344,7 +346,7 @@
 
         });
 
-        $("#archive_bar_2017").click(function() {
+        $("#archive_bar_2017").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -360,7 +362,7 @@
             $("#archive_bar_2017").css("color", "#0D5661");
         });
 
-        $("#archive_bar_2016").click(function() {
+        $("#archive_bar_2016").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -377,7 +379,7 @@
 
         });
 
-        $("#archive_bar_2015").click(function() {
+        $("#archive_bar_2015").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -394,7 +396,7 @@
 
         });
 
-        $("#archive_bar_2014").click(function() {
+        $("#archive_bar_2014").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -411,7 +413,7 @@
 
         });
 
-        $("#archive_bar_2013").click(function() {
+        $("#archive_bar_2013").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -428,7 +430,7 @@
 
         });
 
-        $("#archive_bar_2012").click(function() {
+        $("#archive_bar_2012").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -445,7 +447,7 @@
 
         });
 
-        $("#archive_bar_2011").click(function() {
+        $("#archive_bar_2011").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -462,7 +464,7 @@
 
         });
 
-        $("#archive_bar_2010").click(function() {
+        $("#archive_bar_2010").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -479,7 +481,7 @@
 
         });
 
-        $("#archive_bar_2009").click(function() {
+        $("#archive_bar_2009").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -497,7 +499,7 @@
         });
 
 
-        $("#asroc").click(function() {
+        $("#asroc").click(function () {
             $(".home_context").hide();
             $("#about_context").hide();
             $("#asroc_context").hide();
@@ -571,38 +573,38 @@
     </p>
 
     <p align="center">
-        <ul class="nav nav-tabs">
-            <li class="active tab3" id="home" style="margin-left: 5vw;">
-                <a href="#">Home</a>
-            </li>
-            <li class="tab3" id="about">
-                <a href="#">About</a>
-            </li>
+    <ul class="nav nav-tabs">
+        <li class="active tab3" id="home" style="margin-left: 5vw;">
+            <a href="#">Home</a>
+        </li>
+        <li class="tab3" id="about">
+            <a href="#">About</a>
+        </li>
 
-            <li class="tab3" id="archive">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="#">ARCHIVE ▼</a>
-                <ul class="dropdown-menu" id="archive_menu">
-                    <li id="archive_all_bar">ALL</li>
-                    <li id="archive_bar_2019">2019</li>
-                    <li id="archive_bar_2018">2018</li>
-                    <li id="archive_bar_2017">2017</li>
-                    <li id="archive_bar_2016">2016</li>
-                    <li id="archive_bar_2015">2015</li>
-                    <li id="archive_bar_2014">2014</li>
-                    <li id="archive_bar_2013">2013</li>
-                    <li id="archive_bar_2012">2012</li>
-                    <li id="archive_bar_2011">2011</li>
-                    <li id="archive_bar_2010">2010</li>
-                    <li id="archive_bar_2009">2009</li>
-                </ul>
-            </li>
+        <li class="tab3" id="archive">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">ARCHIVE ▼</a>
+            <ul class="dropdown-menu" id="archive_menu">
+                <li id="archive_all_bar">ALL</li>
+                <li id="archive_bar_2019">2019</li>
+                <li id="archive_bar_2018">2018</li>
+                <li id="archive_bar_2017">2017</li>
+                <li id="archive_bar_2016">2016</li>
+                <li id="archive_bar_2015">2015</li>
+                <li id="archive_bar_2014">2014</li>
+                <li id="archive_bar_2013">2013</li>
+                <li id="archive_bar_2012">2012</li>
+                <li id="archive_bar_2011">2011</li>
+                <li id="archive_bar_2010">2010</li>
+                <li id="archive_bar_2009">2009</li>
+            </ul>
+        </li>
 
-            <li class="tab3" id="asroc">
-                <a href="#">ASROC</a>
-            </li>
+        <li class="tab3" id="asroc">
+            <a href="#">ASROC</a>
+        </li>
 
-        </ul>
-        <br>
+    </ul>
+    <br>
     </p>
 
 
@@ -614,39 +616,52 @@
     </p>
     <p align="center" style="color:maroon" class="home_context">
         <font size="10">The Most Recent Issues!!</font>
-        <table border=0 style="height: 40vh;">
-            <tr class="news_detail">
-<tr class="news_detail">
-	<td style="width: 20vw;"> 14 Jul 2019 </td> 
-	<td style="width: 3vw;"></td> 
-	<td style="width: 60vw;"><a href='2019/2019_110.txt'>TAN (Issue Jul 05 - 14, 2019)</a></td>
-</tr>
-<tr class="news_detail">
-	<td style="width: 20vw;"> 11 Jul 2019 </td> 
-	<td style="width: 3vw;"></td> 
-	<td style="width: 60vw;"><a href='2019/2019_109.txt'>Call for SMA-Taiwan Key Science Proposals (Aug 08, NOI; Sep 06, submission)</a></td>
-</tr>
-<tr class="news_detail">
-	<td style="width: 20vw;"> 11 Jul 2019 </td> 
-	<td style="width: 3vw;"></td> 
-	<td style="width: 60vw;"><a href='2019/2019_108.txt'>IAA Theory Group Workshop (Aug 02)</a></td>
-</tr>
-<tr class="news_detail">
-	<td style="width: 20vw;"> 11 Jul 2019 </td> 
-	<td style="width: 3vw;"></td> 
-	<td style="width: 60vw;"><a href='2019/2019_107.txt'>ASIAA Colloquium/Seminar/Lunchtalk (Jul 15, 17, 19)</a></td>
-</tr>
+    <table border=0 style="height: 40vh;">
+        <tr class="news_detail">
+            <font size="4">
+        <tr class="news_detail">
+            <td style="width: 20vw;"> 11 Jun 2021</td>
+            <td style="width: 3vw;"></td>
+            <td style="width: 60vw;"><a href='2021/text_files/2021_090.txt'>TAN (Issue May 22 - Jun 10, 2021)</a></td>
+        </tr>
+        <tr class="news_detail">
+            <td width=108> 11 Jun 2021</td>
+            <td style="width: 3vw;"></td>
+            <td style="width: 60vw;"><a href='2021/text_files/2021_091.txt'>East-Asia AGN Workshop 2021</a></td>
+        </tr>
+        <tr class="news_detail">
+            <td width=108> 11 Jun 2021</td>
+            <td style="width: 3vw;"></td>
+            <td style="width: 60vw;"><a href='2021/text_files/2021_092.txt'>NCU-Delta Young Astronomer Lectureship
+                    online talk series</a>
+            </td>
+        </tr>
+        <tr class="news_detail">
+            <td width=108> 11 Jun 2021</td>
+            <td style="width: 3vw;"></td>
+            <td style="width: 60vw;"><a href='2021/text_files/2021_093.txt'>Announcement of the NCTS-TCA SSP Mini
+                    Workshop 2021</a></td>
+        </tr>
+        </font>
 
 
-        </table>
-        <br>
+        <!-- <tr class="news_detail">
+            <td style="width: 20vw;"> 11 Jul 2019 </td>
+            <td style="width: 3vw;"></td>
+            <td style="width: 60vw;"><a href='2019/2019_107.txt'>ASIAA Colloquium/Seminar/Lunchtalk (Jul 15, 17, 19)</a>
+            </td>
+        </tr> -->
 
-        <font size="5.5rem"><a href="index.html?reload=1">Webpage of PC</a></font>
-        <br>
 
-        <font size="5">Latest update - July 14, 2019 </font>
-        <br><br>
-        <hr>
+    </table>
+    <br>
+
+    <font size="5.5rem"><a href="index.html?reload=1">Webpage of PC</a></font>
+    <br>
+
+    <font size="5">Latest update - June 13, 2021 </font>
+    <br><br>
+    <hr>
 
 
 
@@ -673,281 +688,281 @@
 
 
 
-        <table class="table table-hover">
-            <tr>
-                <td colspan="2" id="application_form" class="text-info">Application Form
-                    <div align=center id="application_form_doc" style="DISPLAY: none;">
-                        <br><a href="app-indiv-eng.doc">Doc in English</a>
-                        <br><a href="app-indiv-chi.doc">Doc in Chinese</a>
-                    </div>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2">&sect; &#150; &sect; ASROC2018 &sect; &#150; &sect;</td>
-            </tr>
+    <table class="table table-hover">
+        <tr>
+            <td colspan="2" id="application_form" class="text-info">Application Form
+                <div align=center id="application_form_doc" style="DISPLAY: none;">
+                    <br><a href="app-indiv-eng.doc">Doc in English</a>
+                    <br><a href="app-indiv-chi.doc">Doc in Chinese</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">&sect; &#150; &sect; ASROC2018 &sect; &#150; &sect;</td>
+        </tr>
 
-            <tr>
-                <td id="all2018" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2018</td>
-                <td id="all2018_1" class="asroc_date">
-                     <font>1<sup>st</sup> Circular (19 Jan)</font>
-                     <div align=center id="a2018_1" style="DISPLAY: none;">
-                         <br><a href="ASROC-Circular/ASROC2018_1st-Circular_En.pdf">PDF in English</a>
-                         <br><a href="ASROC-Circular/ASROC2018_1st-Circular_Ch.pdf">PDF in Chinese</a>
-                     </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2018" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2018</td>
+            <td id="all2018_1" class="asroc_date">
+                <font>1<sup>st</sup> Circular (19 Jan)</font>
+                <div align=center id="a2018_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2018_1st-Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2018_1st-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2018_2" class="asroc_date">
-                    <font color=yellowgreen>
+        <tr>
+            <td id="all2018_2" class="asroc_date">
+                <font color=yellowgreen>
                     <font>2<sup>nd</sup> Circular (19 Mar)</font>
                     <div align=center id="a2018_2" style="DISPLAY: none;">
                         <br><a href="ASROC-Circular/ASROC2018_2nd-Circular_En.pdf">PDF in English</a>
                         <br><a href="ASROC-Circular/ASROC2018_2nd-Circular_Ch.pdf">PDF in Chinese</a>
                     </div>
-                </td>
-            </tr>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2017" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2017</td>
-                <td id="all2017_1" class="asroc_date">
-                    <font>1<sup>st</sup> Circular (20 Jan)</font>
-                    <div align=center id="a2017_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2017_1st-Circular_En_final.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2017_1st-Circular_Ch_final.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2017" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2017</td>
+            <td id="all2017_1" class="asroc_date">
+                <font>1<sup>st</sup> Circular (20 Jan)</font>
+                <div align=center id="a2017_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2017_1st-Circular_En_final.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2017_1st-Circular_Ch_final.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2017_2" class="asroc_date">
-                    <font>2<sup>nd</sup> Circular (10 Mar)</font>
-                    <div align=center id="a2017_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2017_2nd-Circular_En_final.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2017_2nd-Circular_Ch_final.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2017_2" class="asroc_date">
+                <font>2<sup>nd</sup> Circular (10 Mar)</font>
+                <div align=center id="a2017_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2017_2nd-Circular_En_final.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2017_2nd-Circular_Ch_final.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2017_3" class="asroc_date">
-                    <font>3<sup>rd</sup> Circular (12 May)</font>
-                    <div align=center id="a2017_3" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2017_3rd_Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2017_3rd_Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2017_3" class="asroc_date">
+                <font>3<sup>rd</sup> Circular (12 May)</font>
+                <div align=center id="a2017_3" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2017_3rd_Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2017_3rd_Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2016" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2016</td>
-                <td id="all2016_1" class="asroc_date">
-                    <font>1<sup>st</sup> Circular (19 Jan)</font>
-                    <div align=center id="a2016_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2016_1st_Circular_En_posted.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2016_1st-Circular_Ch_revised.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2016" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2016</td>
+            <td id="all2016_1" class="asroc_date">
+                <font>1<sup>st</sup> Circular (19 Jan)</font>
+                <div align=center id="a2016_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2016_1st_Circular_En_posted.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2016_1st-Circular_Ch_revised.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2016_2" class="asroc_date">
-                    <font>2<sup>nd</sup> Circular (09 Mar)</font>
-                    <div align=center id="a2016_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2016_2nd-Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2016_2nd-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2016_2" class="asroc_date">
+                <font>2<sup>nd</sup> Circular (09 Mar)</font>
+                <div align=center id="a2016_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2016_2nd-Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2016_2nd-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2016_3" class="asroc_date">
-                    <font>3<sup>rd</sup> Circular (29 Apr)</font>
-                    <div align=center id="a2016_3" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2016_3rd_Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2016_3rd-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2016_3" class="asroc_date">
+                <font>3<sup>rd</sup> Circular (29 Apr)</font>
+                <div align=center id="a2016_3" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2016_3rd_Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2016_3rd-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2015" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2015</td>
-                <td id="all2015_1" class="asroc_date">
-                    <font>1<sup>st</sup> Circular (31 Dec 2014)</font>
-                    <div align=center id="a2015_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2015_1st_Circular_En_v1_SYW.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2015_1st-Circular_Ch_v1-SYW.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2015" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2015</td>
+            <td id="all2015_1" class="asroc_date">
+                <font>1<sup>st</sup> Circular (31 Dec 2014)</font>
+                <div align=center id="a2015_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2015_1st_Circular_En_v1_SYW.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2015_1st-Circular_Ch_v1-SYW.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2015_2" class="asroc_date">
-                    <font>2<sup>nd</sup> Circular (17 Feb 2015)</font>
-                    <div align=center id="a2015_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2015_2nd-Circular_En_v4-SYW.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2015_2nd-Circular_Ch_v3-SYW.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2015_2" class="asroc_date">
+                <font>2<sup>nd</sup> Circular (17 Feb 2015)</font>
+                <div align=center id="a2015_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2015_2nd-Circular_En_v4-SYW.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2015_2nd-Circular_Ch_v3-SYW.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2015_3" class="asroc_date">
-                    <font>3<sup>rd</sup> Circular (08 May 2015)</font>
-                    <div align=center id="a2015_3" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2015_3nd_Circular_En_v3_SYW.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2015_3nd-Circular_Ch_v3-SYW.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2015_3" class="asroc_date">
+                <font>3<sup>rd</sup> Circular (08 May 2015)</font>
+                <div align=center id="a2015_3" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2015_3nd_Circular_En_v3_SYW.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2015_3nd-Circular_Ch_v3-SYW.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2014" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2014</td>
-                <td id="all2014_1" class="asroc_date">
-                    <font>1<sup>st</sup> Circular (15 Jan)</font>
-                    <div align=center id="a2014_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2014_1st_Circular_En_posted.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2014_1st-Circular_Ch_revised.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2014" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2014</td>
+            <td id="all2014_1" class="asroc_date">
+                <font>1<sup>st</sup> Circular (15 Jan)</font>
+                <div align=center id="a2014_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2014_1st_Circular_En_posted.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2014_1st-Circular_Ch_revised.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2014_2" class="asroc_date">
-                    <font>2<sup>nd</sup> Circular (27 Feb)</font>
-                    <div align=center id="a2014_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2014_2nd-Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2014_2nd-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2014_2" class="asroc_date">
+                <font>2<sup>nd</sup> Circular (27 Feb)</font>
+                <div align=center id="a2014_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2014_2nd-Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2014_2nd-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2014_3" class="asroc_date">
-                    <font>3<sup>rd</sup> Circular (27 Apr)</font>
-                    <div align=center id="a2014_3" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2014_3rd_Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2014_3rd-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2014_3" class="asroc_date">
+                <font>3<sup>rd</sup> Circular (27 Apr)</font>
+                <div align=center id="a2014_3" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2014_3rd_Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2014_3rd-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2013" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2013</td>
-                <td id="all2013_1" class="asroc_date">
-                    <font>1<sup>st</sup> Circular (04 Jan)</font>
-                    <div align=center id="a2013_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2013_1st_Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2013_1st-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2013" class="text-info" rowspan="3" style="vertical-align:middle;">ASROC2013</td>
+            <td id="all2013_1" class="asroc_date">
+                <font>1<sup>st</sup> Circular (04 Jan)</font>
+                <div align=center id="a2013_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2013_1st_Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2013_1st-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2013_2" class="asroc_date">
-                    <font>2<sup>nd</sup> Circular (26 Feb)</font>
-                    <div align=center id="a2013_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2013_2nd_Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2013_2nd-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2013_2" class="asroc_date">
+                <font>2<sup>nd</sup> Circular (26 Feb)</font>
+                <div align=center id="a2013_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2013_2nd_Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2013_2nd-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2013_3" class="asroc_date">
-                    <font>3<sup>rd</sup> Circular (08 May)</font>
-                    <div align=center id="a2013_3" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2013_3rd_Circular_En.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2013_3rd-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2013_3" class="asroc_date">
+                <font>3<sup>rd</sup> Circular (08 May)</font>
+                <div align=center id="a2013_3" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2013_3rd_Circular_En.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2013_3rd-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2012" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2012</td>
-                <td id="all2012_1" class="asroc_date">
-                    1<sup>st</sup> Circular (15 Jan)
-                    <div align=center id="a2012_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2012_1st-Circular_Eng.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2012_1st-Circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2012" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2012</td>
+            <td id="all2012_1" class="asroc_date">
+                1<sup>st</sup> Circular (15 Jan)
+                <div align=center id="a2012_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2012_1st-Circular_Eng.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2012_1st-Circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2012_2" class="asroc_date">
-                    2<sup>nd</sup> Circular (24 Feb)
-                    <div align=center id="a2012_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2012_2nd_circular_Eng.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2012_2nd_circular_Chi.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2012_2" class="asroc_date">
+                2<sup>nd</sup> Circular (24 Feb)
+                <div align=center id="a2012_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2012_2nd_circular_Eng.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2012_2nd_circular_Chi.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2011" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2011</td>
-                <td id="all2011_1" class="asroc_date">
-                    1<sup>st</sup> Circular (05 Nov)
-                    <div align=center id="a2011_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2011-circular-1-eng.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2011-circular-1-chi.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2011" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2011</td>
+            <td id="all2011_1" class="asroc_date">
+                1<sup>st</sup> Circular (05 Nov)
+                <div align=center id="a2011_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2011-circular-1-eng.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2011-circular-1-chi.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2011_2" class="asroc_date">
-                    2<sup>nd</sup> Circular (22 Mar)</font>
-                    <div align=center id="a2011_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2011-circular-2-eng.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2011-circular-2-chi.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2011_2" class="asroc_date">
+                2<sup>nd</sup> Circular (22 Mar)</font>
+                <div align=center id="a2011_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2011-circular-2-eng.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2011-circular-2-chi.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2010" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2010</td>
-                <td id="all2010_1" class="asroc_date">
-                    1<sup>st</sup> Circular (10 Jan)
-                    <div align=center id="a2010_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/first_circular_2010_Eng.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/first_circular_2010_chinese.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2010" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2010</td>
+            <td id="all2010_1" class="asroc_date">
+                1<sup>st</sup> Circular (10 Jan)
+                <div align=center id="a2010_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/first_circular_2010_Eng.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/first_circular_2010_chinese.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2010_2" class="asroc_date">
-                    2<sup>nd</sup> Circular (13 Apr)
-                    <div align=center id="a2010_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/second_circular_2010_e.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/second_circular_2010_chinese.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2010_2" class="asroc_date">
+                2<sup>nd</sup> Circular (13 Apr)
+                <div align=center id="a2010_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/second_circular_2010_e.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/second_circular_2010_chinese.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2009" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2009</td>
-                <td id="all2009_1" class="asroc_date">
-                    1<sup>st</sup> Circular (Jan 04)
-                    <div align=center id="a2009_1" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2009-1st-circular_Eng.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2009-1st-circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2009" class="text-info" rowspan="2" style="vertical-align:middle;">ASROC2009</td>
+            <td id="all2009_1" class="asroc_date">
+                1<sup>st</sup> Circular (Jan 04)
+                <div align=center id="a2009_1" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2009-1st-circular_Eng.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2009-1st-circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-            <tr>
-                <td id="all2009_2" class="asroc_date">
-                    2<sup>nd</sup> Circular (Mar 18)
-                    <div align=center id="a2009_2" style="DISPLAY: none;">
-                        <br><a href="ASROC-Circular/ASROC2009-2nd-circular_Eng.pdf">PDF in English</a>
-                        <br><a href="ASROC-Circular/ASROC2009-2nd-circular_Ch.pdf">PDF in Chinese</a>
-                    </div>
-                </td>
-            </tr>
+        <tr>
+            <td id="all2009_2" class="asroc_date">
+                2<sup>nd</sup> Circular (Mar 18)
+                <div align=center id="a2009_2" style="DISPLAY: none;">
+                    <br><a href="ASROC-Circular/ASROC2009-2nd-circular_Eng.pdf">PDF in English</a>
+                    <br><a href="ASROC-Circular/ASROC2009-2nd-circular_Ch.pdf">PDF in Chinese</a>
+                </div>
+            </td>
+        </tr>
 
-        </table>
+    </table>
     </p>
     <!-- ###########################################-->
 
@@ -956,355 +971,355 @@
 
     <!-- ###########################################-->
     <!-- ARCHIVE Context-->
-     <!--2019-->
-     <p align="center" class="archive_all" id="archive_2019">
-         <table border=0 class="year_list">
-             <tr class="year">
-                 <td><img src="stardot.gif"><a href="2019/2019.html" style="font-size: 5.5rem;"><u>2019</u></a></td>
-             </tr>
-             <tr>
-                 <td><a href="2019/2019-a.html">Announcement/ Newsletters</a></td>
-             </tr>
-             <tr>
-                 <td><a href="2019/2019-c.html">Conferences/ Meetings</a></td>
-             </tr>
-             <tr>
-                 <td><a href="2019/2019-s.html">Seminars/ Colloquia</a></td>
-             </tr>
-             <tr>
-                 <td><a href="2019/2019-f.html">Forum</a></td>
-             </tr>
-             <tr>
-                 <td><a href="2019/2019-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-             </tr>
-             <tr>
-                 <td><a href="2019/2019-o.html">Observations</a></td>
-             </tr>
-             <tr>
-                 <td><a href="2019/2019-m.html">Miscellaneous</a></td>
-             </tr>
-         </table>
- 
-         <br>
-     </p>
+    <!--2019-->
+    <p align="center" class="archive_all" id="archive_2019">
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2019/2019.html" style="font-size: 5.5rem;"><u>2019</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2019/2019-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2019/2019-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2019/2019-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2019/2019-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2019/2019-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2019/2019-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2019/2019-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
+
+    <br>
+    </p>
     <!--2018-->
     <p align="center" class="archive_all" id="archive_2018">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2018/2018.html" style="font-size: 5.5rem;"><u>2018</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2018/2018-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2018/2018-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2018/2018-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2018/2018-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2018/2018-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2018/2018-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2018/2018-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2018/2018.html" style="font-size: 5.5rem;"><u>2018</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2018/2018-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2018/2018-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2018/2018-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2018/2018-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2018/2018-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2018/2018-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2018/2018-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
     <!--2017-->
     <p align="center" class="archive_all" id="archive_2017">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2017/2017.html" style="font-size: 5.5rem;"><u>2017</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2017/2017-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2017/2017-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2017/2017-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2017/2017-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2017/2017-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2017/2017-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2017/2017-m.html">Miscellaneous</a></td>
-            </tr>
-            <hr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2017/2017.html" style="font-size: 5.5rem;"><u>2017</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2017/2017-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2017/2017-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2017/2017-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2017/2017-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2017/2017-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2017/2017-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2017/2017-m.html">Miscellaneous</a></td>
+        </tr>
+        <hr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2016-->
     <p align="center" class="archive_all" id="archive_2016">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2016/2016.html" style="font-size: 5.5rem;"><u>2016</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2016/2016-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2016/2016-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2016/2016-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2016/2016-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2016/2016-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2016/2016-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2016/2016-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2016/2016.html" style="font-size: 5.5rem;"><u>2016</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2016/2016-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2016/2016-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2016/2016-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2016/2016-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2016/2016-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2016/2016-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2016/2016-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2015-->
     <p align="center" class="archive_all" id="archive_2015">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2015/2015.html" style="font-size: 5.5rem;"><u>2015</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2015/2015-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2015/2015-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2015/2015-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2015/2015-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2015/2015-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2015/2015-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2015/2015-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2015/2015.html" style="font-size: 5.5rem;"><u>2015</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2015/2015-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2015/2015-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2015/2015-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2015/2015-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2015/2015-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2015/2015-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2015/2015-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2014-->
     <p align="center" class="archive_all" id="archive_2014">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2014/2014.html" style="font-size: 5.5rem;"><u>2014</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2014/2014-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2014/2014-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2014/2014-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2014/2014-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2014/2014-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2014/2014-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2014/2014-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2014/2014.html" style="font-size: 5.5rem;"><u>2014</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2014/2014-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2014/2014-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2014/2014-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2014/2014-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2014/2014-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2014/2014-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2014/2014-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2013-->
     <p align="center" class="archive_all" id="archive_2013">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2013/2013.html" style="font-size: 5.5rem;"><u>2013</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2013/2013-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2013/2013-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2013/2013-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2013/2013-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2013/2013-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2013/2013-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2013/2013-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2013/2013.html" style="font-size: 5.5rem;"><u>2013</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2013/2013-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2013/2013-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2013/2013-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2013/2013-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2013/2013-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2013/2013-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2013/2013-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2012-->
     <p align="center" class="archive_all" id="archive_2012">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2012/2012.html" style="font-size: 5.5rem;"><u>2012</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2012/2012-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2012/2012-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2012/2012-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2012/2012-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2012/2012-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2012/2012-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2012/2012-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2012/2012.html" style="font-size: 5.5rem;"><u>2012</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2012/2012-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2012/2012-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2012/2012-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2012/2012-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2012/2012-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2012/2012-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2012/2012-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2011-->
     <p align="center" class="archive_all" id="archive_2011">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2011/2011.html" style="font-size: 5.5rem;"><u>2011</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2011/2011-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2011/2011-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2011/2011-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2011/2011-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2011/2011-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2011/2011-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2011/2011-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2011/2011.html" style="font-size: 5.5rem;"><u>2011</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2011/2011-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2011/2011-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2011/2011-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2011/2011-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2011/2011-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2011/2011-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2011/2011-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2010-->
     <p align="center" class="archive_all" id="archive_2010">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2010/2010.html" style="font-size: 5.5rem;"><u>2010</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2010/2010-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2010/2010-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2010/2010-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2010/2010-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2010/2010-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2010/2010-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2010/2010-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2010/2010.html" style="font-size: 5.5rem;"><u>2010</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2010/2010-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2010/2010-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2010/2010-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2010/2010-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2010/2010-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2010/2010-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2010/2010-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
 
     <!--2009-->
     <p align="center" class="archive_all" id="archive_2009">
-        <table border=0 class="year_list">
-            <tr class="year">
-                <td><img src="stardot.gif"><a href="2009/2009.html" style="font-size: 5.5rem;"><u>2009</u></a></td>
-            </tr>
-            <tr>
-                <td><a href="2009/2009-a.html">Announcement/ Newsletters</a></td>
-            </tr>
-            <tr>
-                <td><a href="2009/2009-c.html">Conferences/ Meetings</a></td>
-            </tr>
-            <tr>
-                <td><a href="2009/2009-s.html">Seminars/ Colloquia</a></td>
-            </tr>
-            <tr>
-                <td><a href="2009/2009-f.html">Forum</a></td>
-            </tr>
-            <tr>
-                <td><a href="2009/2009-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
-            </tr>
-            <tr>
-                <td><a href="2009/2009-o.html">Observations</a></td>
-            </tr>
-            <tr>
-                <td><a href="2009/2009-m.html">Miscellaneous</a></td>
-            </tr>
-        </table>
+    <table border=0 class="year_list">
+        <tr class="year">
+            <td><img src="stardot.gif"><a href="2009/2009.html" style="font-size: 5.5rem;"><u>2009</u></a></td>
+        </tr>
+        <tr>
+            <td><a href="2009/2009-a.html">Announcement/ Newsletters</a></td>
+        </tr>
+        <tr>
+            <td><a href="2009/2009-c.html">Conferences/ Meetings</a></td>
+        </tr>
+        <tr>
+            <td><a href="2009/2009-s.html">Seminars/ Colloquia</a></td>
+        </tr>
+        <tr>
+            <td><a href="2009/2009-f.html">Forum</a></td>
+        </tr>
+        <tr>
+            <td><a href="2009/2009-j.html">Job Openings/ Fellowship/ Summer School/ Winter School</a></td>
+        </tr>
+        <tr>
+            <td><a href="2009/2009-o.html">Observations</a></td>
+        </tr>
+        <tr>
+            <td><a href="2009/2009-m.html">Miscellaneous</a></td>
+        </tr>
+    </table>
 
-        <br>
+    <br>
     </p>
     <!-- ###########################################-->
 
