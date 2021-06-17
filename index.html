@@ -1,21 +1,25 @@
 <html>
-<script src="../jquery-3.1.0.min.js"></script>
-<script type="text/javascript">
-    //Check PC or Mobile
-    var url_string = window.location.href;
-    var url_current = new URL(url_string);
-    var c = url_current.searchParams.get("reload");
-    if (c != 1) {
-        // location.replace("http://cag.ntnu.edu.tw/astro_group/TAN/TAN_replace.html");
-    }
-</script>
 
 <head>
-	<title>TAN - Taiwan Astronomy Network</title>
-	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" > -->
+    <script src="../jquery-3.1.0.min.js"></script>
+    <script type="text/javascript">
+        //Check PC or Mobile
+        var url_string = window.location.href;
+        var url_current = new URL(url_string);
+        var c = url_current.searchParams.get("reload");
+        if (c != 1) {
+            // location.replace("http://cag.ntnu.edu.tw/astro_group/TAN/TAN_replace.html");
+        }
+    </script>
+
+    <title>TAN - Taiwan Astronomy Network</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<frameset cols=28%,* frameborder="0" framespacing="0" border="0">
-<frame src="left.htm" noresize scrolling=auto name="left">
-<frame src="right.htm" name="right">
+
+<!-- <frameset class="frame" cols="28%,*" frameborder="0" framespacing="0" border="0"> -->
+<frameset class="frame" frameborder="0" framespacing="0" border="0">
+    <!-- <frame src="left.htm" noresize scrolling=auto name="left" /> -->
+    <frame src="right.html" name="right" />
 </frameset>
+
 </html>
