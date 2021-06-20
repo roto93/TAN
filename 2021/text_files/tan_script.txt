@@ -1,0 +1,4 @@
+sudo rm -r TAN_backup/*
+sudo cp -r TAN/* TAN_backup/
+sudo rm -r TAN/*
+sudo cp -r TAN_test/* TAN/
