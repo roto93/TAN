@@ -1,0 +1,154 @@
+=============================================================================
+
+In this issue (Jun 12 - 20, 2021)
+
+1. Amplitude calibration issue affecting some ALMA data
+2. PPVII: Pre-Registration
+3. ASIAA Colloquium/Talks (Jun 21): Faculty Presentation IV
+
+[Due to an embedded control character in Japanese font included, half of
+ the TAN message sent yesterday was truncated.  We resend yesterday's message
+ here again. -- YJK]
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 16 Jun 2021 17:44:05 +0800
+Subject: Amplitude calibration issue affecting some ALMA data
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+FYI
+
+Yu-Nung
+
+--------------------------------------------------------
+
+Amplitude calibration issue affecting some ALMA data
+Jun 15, 2021
+https://almascience.nao.ac.jp/news/amplitude-calibration-issue-affecting-some-alma-data
+
+
+A visibility amplitude calibration error that affects fields containing strong astronomical emission has been discovered in ALMA interferometer observations up to and including Cycle 7. This calibration scaling error originates in the combined effect of correlator spectral normalization and Tsys calibration and affects both 12-m Array and Atacama Compact Array observations. The effect of this amplitude scaling error is most notable for observations of strong, relatively narrow spectral lines, typically related to Galactic ISM and Galactic star formation (e.g., molecular lines, masers, etc.).
+
+Full technical details of the issue can be found in the Knowledgebase article: https://help.almascience.org/kb/articles/what-errors-could-originate-from-the-correlator-spectral-normalization-and-tsys-calibration.
+
+ALMA has carried out a detailed investigation of this issue and concluded that in some cases this amplitude scaling error can exceed the nominal absolute flux calibration accuracy quoted in the ALMA Technical Handbook. The largest effect occurs in the brightest channels, and the effect can also limit imaging dynamic range.
+
+ALMA has developed a procedure to identify affected datasets taken in FDM mode (conservatively defined as those with a >2% flux scale offset). For all affected datasets that have yet to be delivered, including those that will be observed in the remainder of Cycle 7, ALMA will apply a renormalization correction during data processing to correctly scale the amplitude calibration before being sent to PIs. For affected data in the ALMA Archive, an investigation is underway and plans will be described in a future announcement.
+
+We regret any inconvenience or impact experienced by our ALMA users due to this issue. If you have any questions, or have comments or concerns, please contact your local ALMA Regional Center via the ALMA Helpdesk at https://help.almascience.org/.
+
+==============================================================================
+
+From: Chen Wen-Ping <wchen@astro.ncu.edu.tw>
+Date: Wed, 16 Jun 2021 21:53:18 +0800
+Subject: Fwd: [ppvii-sac] Pre-Registration
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+
+Dear Yi-Jehng
+
+Could you please circulate this on TAN?  It should be of interest to
+colleagues and
+students working on star and planet formation.
+
+Thanks.
+
+Wen Ping
+
+---------- Forwarded message ---------
+=E5=AF=84=E4=BB=B6=E8=80=85=EF=BC=9A Shu-ichiro Inutsuka <inutsuka@nagoya-u=.jp>
+Date: 2021=E5=B9=B46=E6=9C=8812=E6=97=A5 =E9=80=B1=E5=85=AD =E4=B8=8B=E5=8D= =8812:25
+Subject: [ppvii-sac] Pre-Registration
+To: <ppvii-sac@googlegroups.com>
+
+
+Dear SAC members
+
+
+      We are now starting the pre-registration of PPVII meeting.  Given the
+uncertain situation of COVID-19 pandemic and vaccination, PP7 organizers
+consider that it is good to start with an unofficial pre-registration, so
+that we can (A) make an e-mail list for potential participants to provide
+updates on the conference and (B) know the intent of participation to
+estimate the number of on-site participants and poster presentations.  We
+hope to start the official registration late summer or early autumn.
+
+      Please visit the following:
+      http://ppvii.org/pre-registration/index.html
+
+      After completing the Google Form for pre-registration (in the above
+link), you will receive a copy of your answer sent from Google Form.  You
+will be added to the e-mail list for pre-registered participants
+automatically. Please also distribute the information about the
+pre-registration to your colleagues,  students, other mailing list, etc.
+
+      The Pre-registration Form comes with a small questionnaire about the
+intention of participation.  Although the situation is uncertain, we assume
+the most optimistic case =E2=80=93 most of us are vaccinated and can travel.
+Please understand that we will use this questionnaire only for collecting
+intentions. Since the number of answers can be many hundreds, we will not
+respond to each of them.
+
+      As for Japan, the situation on vaccination is much behind of many
+western countries but we hope the situation will be improved in 6 months.
+
+
+Best Regards,
+Shu-ichiro Inutsuka, on behalf of PP7 Editors
+
+--=20
+You received this message because you are subscribed to the Google Groups "PPVII SAC" group.
+To unsubscribe from this group and stop receiving emails from it, send an email to ppvii-sac+unsubscribe@googlegroups.com.
+To view this discussion on the web visit
+https://groups.google.com/d/msgid/ppvii-sac/001201d75f42%24ed624680%24c826d=
+380%24%40nagoya-u.jp
+
+==============================================================================
+
+Date: Thu, 17 Jun 2021 11:30:01 +0800
+To: circular_colloquium@asiaa.sinica.edu.tw
+Subject: Colloquium/Seminar/Lunchtalk next week
+From: ASIAA Colloquium/Talks <talks@asiaa.sinica.edu.tw>
+
+Check on the website for the upcoming schedule
+http://www.asiaa.sinica.edu.tw/
+
+*** Lunch Talk ***
+Please order the lunch box by *6PM* this Thursday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    YT Lin, YW Tang, S Matsushita, N Ohashi, K Umetsu (ASIAA)
+Topic:         Faculty Presentation IV
+Time:         6/21 (Monday) 12:15 - 13:15
+Place:          R1203
+
+
+*** Tech Lunch Talk [Chinese] ***
+Please order the lunch box by *6PM* next Monday.
+https://www.asiaa.sinica.edu.tw/internal_site/meeting/SignUp.php
+If you ordered a lunch box but you did not show up at the lunch talk, the lunch box fee will be charged to YOU.
+____________________________________________________
+Speaker:    Wei, Ta-Shun (ASIAA)
+Topic:         [Postpone]
+Time:         6/23 (Wednesday) 12:05 - 13:00
+Place:          R1203
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://solis.es.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------

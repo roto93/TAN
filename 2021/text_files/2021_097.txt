@@ -1,0 +1,31 @@
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Wed, 16 Jun 2021 17:44:05 +0800
+Subject: Amplitude calibration issue affecting some ALMA data
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>,
+    riaa <riaa@asiaa.sinica.edu.tw>
+
+FYI
+
+Yu-Nung
+
+--------------------------------------------------------
+
+Amplitude calibration issue affecting some ALMA data
+Jun 15, 2021
+https://almascience.nao.ac.jp/news/amplitude-calibration-issue-affecting-some-alma-data
+
+
+A visibility amplitude calibration error that affects fields containing strong astronomical emission has been discovered in ALMA interferometer observations up to and including Cycle 7. This calibration scaling error originates in the combined effect of correlator spectral normalization and Tsys calibration and affects both 12-m Array and Atacama Compact Array observations. The effect of this amplitude scaling error is most notable for observations of strong, relatively narrow spectral lines, typically related to Galactic ISM and Galactic star formation (e.g., molecular lines, masers, etc.).
+
+Full technical details of the issue can be found in the Knowledgebase article: https://help.almascience.org/kb/articles/what-errors-could-originate-from-the-correlator-spectral-normalization-and-tsys-calibration.
+
+ALMA has carried out a detailed investigation of this issue and concluded that in some cases this amplitude scaling error can exceed the nominal absolute flux calibration accuracy quoted in the ALMA Technical Handbook. The largest effect occurs in the brightest channels, and the effect can also limit imaging dynamic range.
+
+ALMA has developed a procedure to identify affected datasets taken in FDM mode (conservatively defined as those with a >2% flux scale offset). For all affected datasets that have yet to be delivered, including those that will be observed in the remainder of Cycle 7, ALMA will apply a renormalization correction during data processing to correctly scale the amplitude calibration before being sent to PIs. For affected data in the ALMA Archive, an investigation is underway and plans will be described in a future announcement.
+
+We regret any inconvenience or impact experienced by our ALMA users due to this issue. If you have any questions, or have comments or concerns, please contact your local ALMA Regional Center via the ALMA Helpdesk at https://help.almascience.org/.
+
+==============================================================================
