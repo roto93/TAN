@@ -1,0 +1,64 @@
+=============================================================================
+
+In this issue (Jul 04 - 15 2021)
+
+1. TRAO Call for Proposals 2021-2022
+
+==============================================================================
+
+Subject: [Reminder] TRAO Call for Proposals 2021-2022
+From:    Minho Choi <minho@kasi.re.kr>
+Cc:    Miju Kang <mjkang@kasi.re.kr>
+Date    2021-07-14 14:01
+
+Dear Yi-Jehng,
+How are you?
+
+Can you circulate the "Call for Proposal" appended below
+to the members of ASROC?
+
+Thank you very much.
+Minho
+
+
+-------------------------------------
+[ Reminder ]
+Taeduk Radio Astronomy Observatory 2021-2022 Season Call For Proposals
+-------------------------------------
+The next deadline for proposals is 23:59 KST on 2021 August 10.
+Proposals should be emailed as a single file in PDF format to:
+traoprop@kasi.re.kr
+-------------------------------------
+
+The Korea Astronomy and Space Science Institute (KASI) invites proposals for the Taeduk Radio Astronomy Observatory (TRAO) 14-meter telescope for the 2021 Fall - 2022 Spring season. Proposal candidates should submit up to three pages of scientific and technical justifications (including figures, tables, and references) in addition to their Proposal Cover Sheet in English using the latex templates (form here):
+https://radio.kasi.re.kr/trao/files/traoProposal.zip
+
+There are two categories of proposals for the 2021-2022 observing season.
+1. General Program (GP): single-year observing program with a telescope time of up to 300 hours
+2. Key Science Program (KSP): multi-year observing program with a telescope time of 400 hours per year, for up to three years
+
+TRAO supports multi-beam spectroscopy observations (4 x 4 array: SEQUOIA-TRAO) at a frequency range of 85 - 115.6 GHz. The TRAO system supports single-sideband observations for position-switched or OTF observations. The backend has two spectral windows controlled independently, each window with 4096 channels in a 62.5 MHz bandwidth. In addition, a single-pixel wide-band (2 GHz) spectrometer is available. Proposal candidates should consult the TRAO Status Report for additional technical specifications:
+https://radio.kasi.re.kr/trao/status_report2020/
+
+TRAO has a shared-risk remote observing mode available. However, inexperienced users are advised to do the observations on the site. Outside (non-KASI) PIs who intend to use the remote observing mode should specify local collaborators in the proposal. The local collaborators are responsible for handling on-site tasks during the remote observations, such as resetting the system in case of system failure, which happens occasionally.
+
+Minho Choi
+TRAO, KASI
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://solis.es.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
+
