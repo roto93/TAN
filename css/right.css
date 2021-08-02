@@ -1,5 +1,5 @@
 .flex-row {
-  margin: 0 auto;
+  margin: 0 auto 4em auto;
   width: 95%;
   max-width: 1200px;
   display: grid;
@@ -7,6 +7,13 @@
   gap: 20px;
   align-items: center;
   justify-content: center;
+
+}
+
+hr {
+  width: 90%;
+  max-width: 1000px;
+  color: grey;
 }
 
 .years {
@@ -37,6 +44,7 @@
   align-items: flex-start;
   justify-content: space-between;
 }
+
 .years a {
   color: #75472f;
   text-decoration: none;
@@ -44,6 +52,7 @@
   transform: translateX(0);
   transition: all 0.3s;
 }
+
 .years a:hover {
   color: #c0602d;
 }
@@ -57,10 +66,19 @@
   font-weight: 900;
   transform: translateX(5px);
 }
+
 .year hr {
   margin: 10px 0;
   border: #75472f 0 solid;
   border-top: #75472f 1px solid;
+}
+
+.footer {
+  min-height: 100px;
+}
+
+.footer p {
+  text-align: center;
 }
 
 @media screen and (max-width: 990px) {
@@ -68,6 +86,7 @@
     grid-template-columns: repeat(2, 300px);
   }
 }
+
 @media screen and (max-width: 660px) {
   .flex-row {
     grid-template-columns: 300px;
