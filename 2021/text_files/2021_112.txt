@@ -1,0 +1,116 @@
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Sun, 1 Aug 2021 21:32:18 +0800
+Subject: Fwd: Call for observing proposals for NRO45m
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: riaa <riaa@asiaa.sinica.edu.tw>,
+    alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+FYI
+
+=E9=96=8B=E5=A7=8B=E8=BD=89=E5=AF=84=E9=83=B5=E4=BB=B6=EF=BC=9A
+=20
+=E5=AF=84=E4=BB=B6=E4=BA=BA: "K.Tatematsu" <k.tatematsu@nao.ac.jp>
+=E6=A8=99=E9=A1=8C: Call for observing proposals for NRO45m
+=E6=97=A5=E6=9C=9F: 2021=E5=B9=B48=E6=9C=881=E6=97=A5 GMT+8 =
+=E4=B8=8A=E5=8D=888:57:00
+=E6=94=B6=E4=BB=B6=E4=BA=BA: Su Yu-Nung <ynsu@asiaa.sinica.edu.tw>, =
+"Lyo, A-Ran" <arl@kasi.re.kr>
+=E5=89=AF=E6=9C=AC: k.tatematsu@nao.ac.jp
+=E5=9B=9E=E8=A6=86=E7=B5=A6: k.tatematsu@nao.ac.jp
+=20
+Dear Yu-Nung and A-Ran,
+=20
+I would appreciate it if you would distribute our CfP to tour
+communities.
+=20
+Regards,
+Ken
+=20
+----------------------- Original Message -----------------------
+Dear all,
+=20
+Observing proposals for the 45-m telescope of the Nobeyama Radio =
+Observatory  (40th observing period) are invited.
+=20
+Ken'ichi Tatematsu
+Director
+Nobeyama Radio Observatory, NAOJ
+-----------
+=20
+1. Open use Period
+-  December 1, 2021 to March 31, 2022
+=20
+2. Open use information:
+- Status report, application form, and other information are available =
+on the following website.
+https://www.nro.nao.ac.jp/~nro45mrt/html/prop/index.html
+=20
+Observation preparation, observation procedure with the 45-m =
+telescope, and data reduction etc. are available on the following =
+website.
+https://www.nro.nao.ac.jp/~nro45mrt/html/index-e.html
+=20
+=20
+Please note that:
+- One deadline will be offered.
+=20
+- We accept only proposals for Regular and GTO Programs.
+- The continuum mode for science target observation will not be =
+offered.
+- The observation can be supported by the observatory staff remotely =
+from Nobeyama only during 9:00-17:00 JST, Monday through Friday =
+(including national holidays).
+=20
+- All observers are basically carried out through remote observations =
+from NAOJ Mitaka, ASIAA in Taiwan, KASI in Korea, or =
+universities/institutes in Japan.
+=20
+- This is the last call for free-of-charge open-use observing =
+proposals.  In JFY2022, we will introduce the telescope time charging.
+=20
+3. Deadline:
+Semester 2021 (Regular and GTO Proposals):=20
+- September 1, 2021, 15:00 JST [06:00 UT]
+=20
+=20
+4. Proposal Submission:
+We accept the proposal only via the web submission form. A LaTeX =
+template must be used to generate the PDF file that contains the =
+Scientific and Technical Justification.  The device setting table should =
+be submitted in a Microsoft Excel spreadsheet by using its template.  =
+Please access the application form, fill the webform and upload the =
+final PDF file and the Excel spreadsheets.
+=20
+- The scientific and technical justification, including figures,
+tables and references, must fit within 3 pages. The maximum file size =
+is 20 MB.
+- Please attach (cut&paste) the results of our time estimators to the =
+the scientific and technical justification  (this part will not be =
+counted for the page limit, but the overall data size should meet the =
+size limit).
+https://www.nro.nao.ac.jp/~nro45mrt/html/prop/wsub-help.html
+- The device setting table and the Co-I list as Microsoft Excel =
+spreadsheets.
+=20
+5. Evaluation:
+- Proposals will be evaluated by anonymous referees, and the =
+acceptance will be judged by the Millimeter and Submillimeter Time =
+Allocation Committee.
+=20
+6. Time allocation:
+45-m observational time will be allocated by the Nobeyama Radio =
+observatory for proposals accepted by the Millimeter and Submillimeter =
+Time Allocation Committee.
+=20
+7. Questions?
+Any questions about observations and preparations of proposals should =
+be submitted through the helpdesk:
+https://www.nro.nao.ac.jp/~nro45mrt/html/helpdesk/inquiry_form.html
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94
+=20
+=20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

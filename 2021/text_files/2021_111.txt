@@ -1,0 +1,111 @@
+==============================================================================
+
+From: Hau-Yu Liu <hyliu@asiaa.sinica.edu.tw>
+Date: Wed, 28 Jul 2021 01:38:39 +0800
+Subject: SMA Supplementary Call for Standard Observing Proposals - 2021A Semester
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+
+Dear Colleague,
+
+
+In light of a change of the array configuration schedule,
+we announce a supplementary call for the SMA 2021A proposal:
+http://sma.asiaa.sinica.edu.tw/proposal.php
+
+We are sorry about this short notice.
+Please do not hesitate to let me know in case you have any questions.
+
+Best wishes,
+Baobab
+
+--------------------------------
+
+ASIAA SMA Call for Proposals
+
+Call for Standard Science Proposals
+
+This opportunity is open to researchers in Taiwanese institutions including
+ASIAA Hawaii.
+
+Due to the recent decision of skipping the upcoming EXT1 array
+configuration, which impacts the execution of the time-critical project, we
+have decided to open the supplemental call for the 2021A proposals. People
+who are affiliated with Taiwanese universities or research institutions
+(including the staff who are physically located in Hawaii) are eligible for
+proposing as PI. Student Thesis Proposals are also welcome.
+
+*Observing period : 2021 Aug. 20 - 2021 Nov. 15 (2021A semester)*
+*Proposal deadline: 2021 Aug. 10 (Tue.) 5:00 AM in Taiwan*
+
+Priority of the projects approved through this supplementary call: Regular
+projects will have lower priority than the already approved 2021A projects.
+Student Thesis Projects can be exceptions, depending on the quality of the
+proposals and the timeline for the students.
+
+*Through this call, we expect to allocate 10 observing tracks. *
+The tentative plan for the array configuration is:
+
+SUB : 2021 Aug. 20 - Sept. 28 or Oct. 05
+EXT2 : 2021 Oct. 1 or 8 - Oct. 26
+VEX : 2021 Oct. 29 - Nov. 15
+
+Please select (nighttime) target sources accordingly. For the proposers who
+are going for SUB array configuration observations, it is recommended to
+avoid the LST range for observing the M31 galaxy since it will be occupied
+by a high-priority Large Scale Project.
+
+Proposal Submission:Since this is very short notice, and since there will
+be very limited time for the TAC to review the proposals, we have
+simplified the format of the proposal to *1 page text (fontsize no smaller
+than 11 pt) + 1 page figure (in PDF format).*
+
+The proposers are recommended to just focus on what you will do and/or what
+is the goal, omitting the general background introduction. This would be
+assuming that the ASIAA TAC is more or less familiar with the science cases
+of the Taiwan-side PIs, which is normally indeed the case. The proposals
+will be reviewed by the TAC members in Taiwan. The TAC will consult the
+experts when it is necessary.
+
+*We will announce the results on August 15.* The PIs please be ready to
+produce and upload your observing scripts.
+
+Glen Petitpas has kindly created a specific interface for this
+supplementary call for proposal (which is almost exactly the same as the
+one that we have been using, i.e., you need to fill the basic information
+and abstract, upload the Science Justification PDF, and then create your
+observing time requests).* To submit the proposal, please contact Baobab
+Liu via E-mail (at least a day ahead of the deadline).* We will direct you
+to the interface. *To create a new Student Thesis Project, it is still
+necessary to send a Notice of Intent (NoI) to Naomi and Baobab prior to the
+deadline.*
+
+Status of the Array and Technical Information :
+http://sma1.sma.hawaii.edu/status.html
+
+
+Call for SMA-Taiwan Student Thesis Proposals
+
+This opportunity is open to researchers in Taiwanese institutions including
+ASIAA Hawaii.
+
+The SMA-Taiwan (SMA-T) invites thesis programs requiring a substantial
+amount of time spreading over multiple semesters. The proposals of the
+students=E2=80=99 projects will be reviewed locally, i.e. separately from t=
+he
+regular proposals. The proposals request a bigger chunk of time (5+ tracks)
+and the ones spread over the multi-semesters are also welcome.
+
+Prospective PIs of the SMA-T key science projects need to submit a Notice
+of Intent (NoI) by E-mail to Naomi and Baobab upon or ahead of the
+submission on the SMA Observer Center. In the NoI, it is encouraged to
+specify the names of the supervisor/student, and the expected Month/Year of
+graduation.
+
+Notice of Intent: E-mail to Naomi and Baobab upon or well ahead of the
+submission on SMAOC
+*Full submission: 2021 Aug. 10 (Tue.) 5:00 A.M. in Taiwan*
+
+Status of the Array and Technical Information :
+http://sma1.sma.hawaii.edu/status.html
+
+==============================================================================

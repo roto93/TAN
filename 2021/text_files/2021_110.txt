@@ -1,0 +1,248 @@
+=============================================================================
+
+In this issue (Jul 25 - Aug 01, 2021)
+
+1. SMA Supplementary Call for Standard Observing Proposals - 2021A Semester
+2. Call for observing proposals for NRO45m
+
+==============================================================================
+
+From: Hau-Yu Liu <hyliu@asiaa.sinica.edu.tw>
+Date: Wed, 28 Jul 2021 01:38:39 +0800
+Subject: SMA Supplementary Call for Standard Observing Proposals - 2021A Semester
+To: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>,
+
+Dear Colleague,
+
+
+In light of a change of the array configuration schedule,
+we announce a supplementary call for the SMA 2021A proposal:
+http://sma.asiaa.sinica.edu.tw/proposal.php
+
+We are sorry about this short notice.
+Please do not hesitate to let me know in case you have any questions.
+
+Best wishes,
+Baobab
+
+--------------------------------
+
+ASIAA SMA Call for Proposals
+
+Call for Standard Science Proposals
+
+This opportunity is open to researchers in Taiwanese institutions including
+ASIAA Hawaii.
+
+Due to the recent decision of skipping the upcoming EXT1 array
+configuration, which impacts the execution of the time-critical project, we
+have decided to open the supplemental call for the 2021A proposals. People
+who are affiliated with Taiwanese universities or research institutions
+(including the staff who are physically located in Hawaii) are eligible for
+proposing as PI. Student Thesis Proposals are also welcome.
+
+*Observing period : 2021 Aug. 20 - 2021 Nov. 15 (2021A semester)*
+*Proposal deadline: 2021 Aug. 10 (Tue.) 5:00 AM in Taiwan*
+
+Priority of the projects approved through this supplementary call: Regular
+projects will have lower priority than the already approved 2021A projects.
+Student Thesis Projects can be exceptions, depending on the quality of the
+proposals and the timeline for the students.
+
+*Through this call, we expect to allocate 10 observing tracks. *
+The tentative plan for the array configuration is:
+
+SUB : 2021 Aug. 20 - Sept. 28 or Oct. 05
+EXT2 : 2021 Oct. 1 or 8 - Oct. 26
+VEX : 2021 Oct. 29 - Nov. 15
+
+Please select (nighttime) target sources accordingly. For the proposers who
+are going for SUB array configuration observations, it is recommended to
+avoid the LST range for observing the M31 galaxy since it will be occupied
+by a high-priority Large Scale Project.
+
+Proposal Submission:Since this is very short notice, and since there will
+be very limited time for the TAC to review the proposals, we have
+simplified the format of the proposal to *1 page text (fontsize no smaller
+than 11 pt) + 1 page figure (in PDF format).*
+
+The proposers are recommended to just focus on what you will do and/or what
+is the goal, omitting the general background introduction. This would be
+assuming that the ASIAA TAC is more or less familiar with the science cases
+of the Taiwan-side PIs, which is normally indeed the case. The proposals
+will be reviewed by the TAC members in Taiwan. The TAC will consult the
+experts when it is necessary.
+
+*We will announce the results on August 15.* The PIs please be ready to
+produce and upload your observing scripts.
+
+Glen Petitpas has kindly created a specific interface for this
+supplementary call for proposal (which is almost exactly the same as the
+one that we have been using, i.e., you need to fill the basic information
+and abstract, upload the Science Justification PDF, and then create your
+observing time requests).* To submit the proposal, please contact Baobab
+Liu via E-mail (at least a day ahead of the deadline).* We will direct you
+to the interface. *To create a new Student Thesis Project, it is still
+necessary to send a Notice of Intent (NoI) to Naomi and Baobab prior to the
+deadline.*
+
+Status of the Array and Technical Information :
+http://sma1.sma.hawaii.edu/status.html
+
+
+Call for SMA-Taiwan Student Thesis Proposals
+
+This opportunity is open to researchers in Taiwanese institutions including
+ASIAA Hawaii.
+
+The SMA-Taiwan (SMA-T) invites thesis programs requiring a substantial
+amount of time spreading over multiple semesters. The proposals of the
+students=E2=80=99 projects will be reviewed locally, i.e. separately from t=
+he
+regular proposals. The proposals request a bigger chunk of time (5+ tracks)
+and the ones spread over the multi-semesters are also welcome.
+
+Prospective PIs of the SMA-T key science projects need to submit a Notice
+of Intent (NoI) by E-mail to Naomi and Baobab upon or ahead of the
+submission on the SMA Observer Center. In the NoI, it is encouraged to
+specify the names of the supervisor/student, and the expected Month/Year of
+graduation.
+
+Notice of Intent: E-mail to Naomi and Baobab upon or well ahead of the
+submission on SMAOC
+*Full submission: 2021 Aug. 10 (Tue.) 5:00 A.M. in Taiwan*
+
+Status of the Array and Technical Information :
+http://sma1.sma.hawaii.edu/status.html
+
+==============================================================================
+
+From: Yu-Nung Su <ynsu@asiaa.sinica.edu.tw>
+Date: Sun, 1 Aug 2021 21:32:18 +0800
+Subject: Fwd: Call for observing proposals for NRO45m
+Cc: Taiwan Astronomy Network <astro@asiaa.sinica.edu.tw>
+To: riaa <riaa@asiaa.sinica.edu.tw>,
+    alma-taiwan <alma-taiwan@asiaa.sinica.edu.tw>
+
+FYI
+
+=E9=96=8B=E5=A7=8B=E8=BD=89=E5=AF=84=E9=83=B5=E4=BB=B6=EF=BC=9A
+=20
+=E5=AF=84=E4=BB=B6=E4=BA=BA: "K.Tatematsu" <k.tatematsu@nao.ac.jp>
+=E6=A8=99=E9=A1=8C: Call for observing proposals for NRO45m
+=E6=97=A5=E6=9C=9F: 2021=E5=B9=B48=E6=9C=881=E6=97=A5 GMT+8 =
+=E4=B8=8A=E5=8D=888:57:00
+=E6=94=B6=E4=BB=B6=E4=BA=BA: Su Yu-Nung <ynsu@asiaa.sinica.edu.tw>, =
+"Lyo, A-Ran" <arl@kasi.re.kr>
+=E5=89=AF=E6=9C=AC: k.tatematsu@nao.ac.jp
+=E5=9B=9E=E8=A6=86=E7=B5=A6: k.tatematsu@nao.ac.jp
+=20
+Dear Yu-Nung and A-Ran,
+=20
+I would appreciate it if you would distribute our CfP to tour
+communities.
+=20
+Regards,
+Ken
+=20
+----------------------- Original Message -----------------------
+Dear all,
+=20
+Observing proposals for the 45-m telescope of the Nobeyama Radio =
+Observatory  (40th observing period) are invited.
+=20
+Ken'ichi Tatematsu
+Director
+Nobeyama Radio Observatory, NAOJ
+-----------
+=20
+1. Open use Period
+-  December 1, 2021 to March 31, 2022
+=20
+2. Open use information:
+- Status report, application form, and other information are available =
+on the following website.
+https://www.nro.nao.ac.jp/~nro45mrt/html/prop/index.html
+=20
+Observation preparation, observation procedure with the 45-m =
+telescope, and data reduction etc. are available on the following =
+website.
+https://www.nro.nao.ac.jp/~nro45mrt/html/index-e.html
+=20
+=20
+Please note that:
+- One deadline will be offered.
+=20
+- We accept only proposals for Regular and GTO Programs.
+- The continuum mode for science target observation will not be =
+offered.
+- The observation can be supported by the observatory staff remotely =
+from Nobeyama only during 9:00-17:00 JST, Monday through Friday =
+(including national holidays).
+=20
+- All observers are basically carried out through remote observations =
+from NAOJ Mitaka, ASIAA in Taiwan, KASI in Korea, or =
+universities/institutes in Japan.
+=20
+- This is the last call for free-of-charge open-use observing =
+proposals.  In JFY2022, we will introduce the telescope time charging.
+=20
+3. Deadline:
+Semester 2021 (Regular and GTO Proposals):=20
+- September 1, 2021, 15:00 JST [06:00 UT]
+=20
+=20
+4. Proposal Submission:
+We accept the proposal only via the web submission form. A LaTeX =
+template must be used to generate the PDF file that contains the =
+Scientific and Technical Justification.  The device setting table should =
+be submitted in a Microsoft Excel spreadsheet by using its template.  =
+Please access the application form, fill the webform and upload the =
+final PDF file and the Excel spreadsheets.
+=20
+- The scientific and technical justification, including figures,
+tables and references, must fit within 3 pages. The maximum file size =
+is 20 MB.
+- Please attach (cut&paste) the results of our time estimators to the =
+the scientific and technical justification  (this part will not be =
+counted for the page limit, but the overall data size should meet the =
+size limit).
+https://www.nro.nao.ac.jp/~nro45mrt/html/prop/wsub-help.html
+- The device setting table and the Co-I list as Microsoft Excel =
+spreadsheets.
+=20
+5. Evaluation:
+- Proposals will be evaluated by anonymous referees, and the =
+acceptance will be judged by the Millimeter and Submillimeter Time =
+Allocation Committee.
+=20
+6. Time allocation:
+45-m observational time will be allocated by the Nobeyama Radio =
+observatory for proposals accepted by the Millimeter and Submillimeter =
+Time Allocation Committee.
+=20
+7. Questions?
+Any questions about observations and preparations of proposals should =
+be submitted through the helpdesk:
+https://www.nro.nao.ac.jp/~nro45mrt/html/helpdesk/inquiry_form.html
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94
+=20
+=20
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            TAIWAN ASTRONOMY NETWORK
+A network service for all professional astronomers/astrophysicists in Taiwan.
+                   Since 1996
+
+To send a message to the entire distribution: astro [at] asiaa.sinica.edu.tw
+Miscellaneous administration questions:           kuan [at] asiaa.sinica.edu.tw
+                                                     (or +886-2-7734-6418)
+To check the archive: <http://solis.es.ntnu.edu.tw/astro_group/TAN/>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                DISCLAIMER
+Opinions and information appearing in this newsletter are those of their
+contributors, not of Institute of Astronomy & Astrophysics, Academia Sinica.
+-----------------------------------------------------------------------------
