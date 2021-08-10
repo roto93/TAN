@@ -1,3 +1,10 @@
+rsync -avzh ./* cag_admin@solis.es.ntnu.edu.tw:/var/www/html/astro_group/TAN_test/
+
+-----
+
+ssh cag_admin@solis.es.ntnu.edu.tw
+
+cd /var/www/html/astro_group/
 sudo rm -r TAN_backup/*
 sudo cp -r TAN/* TAN_backup/
 sudo rm -r TAN/*
