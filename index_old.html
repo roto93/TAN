@@ -1,10 +1,17 @@
 <html>
 
 <head>
-    <script>
-        location.replace("http://solis.es.ntnu.edu.tw:5000")
-        // location.replace("http://solis.es.ntnu.edu.tw/astro_group/TAN/right.html")
+    <script src="../jquery-3.1.0.min.js"></script>
+    <script type="text/javascript">
+        //Check PC or Mobile
+        var url_string = window.location.href;
+        var url_current = new URL(url_string);
+        var c = url_current.searchParams.get("reload");
+        if (c != 1) {
+            // location.replace("http://cag.ntnu.edu.tw/astro_group/TAN/TAN_replace.html");
+        }
     </script>
+
     <title>TAN - Taiwan Astronomy Network</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
